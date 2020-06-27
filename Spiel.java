@@ -1,33 +1,11 @@
-
-/**
- * Beschreiben Sie hier die Klasse Spiel.
- * 
- * @author (Ihr Name) 
- * @version (eine Versionsnummer oder ein Datum)
- */
 public class Spiel
 {
-    // Instanzvariablen - ersetzen Sie das folgende Beispiel mit Ihren Variablen
-    private int x;
-
-    /**
-     * Konstruktor für Objekte der Klasse Spiel
-     */
-    public Spiel()
-    {
-        // Instanzvariable initialisieren
-        x = 0;
-    }
-
-    /**
-     * Ein Beispiel einer Methode - ersetzen Sie diesen Kommentar mit Ihrem eigenen
-     * 
-     * @param  y    ein Beispielparameter für eine Methode
-     * @return        die Summe aus x und y
-     */
-    public int beispielMethode(int y)
-    {
-        // tragen Sie hier den Code ein
-        return x + y;
+    public static void main (String[] args) {
+        Frage frage = new Frage("Frage", "richtig", "falsch1", "falsch2", "falsch3", 1);
+        
+        for (int i = 0; i < 10; i++) {
+            frage.stelleFrageAlsTextausgabe();
+        }
+        
     }
 }
