@@ -1,14 +1,40 @@
 import java.util.Random; 
 
+/**
+ * Die Klasse Frage speichert den Fragentext sowie die richtige Antwort als auch drei falsche Antworten.
+ * Außerdem wird die Schwierigkeit gespeichert.
+ */
 public class Frage
 {
-    private String frage;
-    private String[] antworten = new String[4];
-    private int positionRichtigeAntwort;
-    private int schwierigkeit = 1;
+    /**
+     * Der Fragentext
+     */
+    protected String frage;
     
-    private String[] fragenAnfangsBuchstaben = { "A", "B", "C", "D" };
+    /**
+     * Ein Feld mit 4 Elementen, das Text aufgenehmen kann. Wenn die Klasse Frage erzeugt wird, ist die richtige Antwort das erste Element
+     */
+    protected String[] antworten = new String[4];
+    
+    /**
+     * Index-Position im Feld {@link antworten}, bei der sich die richtige Antwort befindent. 
+     */
+    protected int positionRichtigeAntwort;
+    
+    /**
+     * Eine Zahl zwischen 1 und 5. 1 ist die leichteste Schwierigkeitsstufe, 5 die schwierigste.
+     */
+    protected int schwierigkeit;
+    
+    /**
+     * Ein Hilfsfeld, damit wir leicht die Fragen mit A B C D nummerieren können.
+     */
+    protected String[] fragenAnfangsBuchstaben = { "A", "B", "C", "D" };
 
+    /**
+     * @param frage Der Text der Frage
+     * @param richtigeAntwort Der Text der richtigen Antwort.
+     */
     public Frage(String frage, String richtigeAntwort, String falscheAntwort1, String falscheAntwort2, String falscheAntwort3, int schwierigkeit)
     {
         this.frage = frage;
@@ -17,10 +43,18 @@ public class Frage
         antworten[1] = falscheAntwort1;
         antworten[2] = falscheAntwort2;
         antworten[3] = falscheAntwort3;
+        this.schwierigkeit = schwierigkeit;
     }
     
-    // https://www.geeksforgeeks.org/shuffle-a-given-array-using-fisher-yates-shuffle-algorithm/
-    private void mischeAntworten() {
+
+    /**
+     * Mische die Antworten zufällig. 
+     * 
+     * Dabei muss das Attribut {@link positionRichtigeAntwort} aktualisiert werden.
+     * 
+     * @see <a href="https://de.wikipedia.org/wiki/Zufällige_Permutation#Fisher-Yates-Verfahren">Fisher-Yates-Verfahren</a>
+     */
+    protected void mischeAntworten() {
         // Creating a object for Random class 
         Random zufall = new Random(); 
           
