@@ -12,4 +12,7 @@ public class ListenAbschluss extends ListenElement {
     return new DatenKnoten(this, frage);
   }
 
+  public int gibAnzahlFragen() {
+    return 0;
+  }
 }

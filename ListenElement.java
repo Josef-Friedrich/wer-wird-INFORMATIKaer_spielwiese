@@ -13,4 +13,8 @@ public abstract class ListenElement {
   }
 
   public abstract DatenKnoten fügeHintenEin(Frage frage);
+
+  public abstract int gibAnzahlFragen();
+
+  public abstract Frage gibFrage();
 }
