@@ -1,15 +1,16 @@
 
 public abstract class ListenElement {
-    
+
   protected ListenElement nächstes;
-  protected Frage frage;
-    
+  protected DatenKnoten datenKnoten;
+
   public ListenElement gibNächstes() {
       return nächstes;
-    
   }
 
-  public Frage gibFrage() {
-      return frage;
+  public DatenKnoten gibDatenKnoten() {
+      return datenKnoten;
   }
+
+  public abstract DatenKnoten fügeHintenEin(Frage frage);
 }

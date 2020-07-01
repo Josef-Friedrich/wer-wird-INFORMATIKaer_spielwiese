@@ -1,5 +1,7 @@
 public class DatenKnoten extends ListenElement {
 
+  private Frage frage;
+
   public DatenKnoten(ListenElement n, Frage f) {
     nächstes = n;
     frage = f;
@@ -21,12 +23,8 @@ public class DatenKnoten extends ListenElement {
     return frage;
   }
 
-  public DatenKnoten hintenEinfuegen(Frage frage) {
-    nächstes = nächstes.hintenEinfuegen(frage);
+  public DatenKnoten fügeHintenEin(Frage frage) {
+    nächstes = nächstes.fügeHintenEin(frage);
     return this;
-  }
-
-  public DatenElement datenLetzterGeben(Frage aktuellerInhalt) {
-    return nächstes.datenLetzterGeben(frage);
   }
 }
