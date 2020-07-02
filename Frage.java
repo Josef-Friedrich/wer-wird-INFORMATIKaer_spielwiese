@@ -88,4 +88,8 @@ public class Frage {
     System.out.println("Richtige Antwort: " + fragenAnfangsBuchstaben[positionRichtigeAntwort]);
     System.out.println();
   }
+
+  public int gibSchwierigkeit() {
+    return schwierigkeit;
+  }
 }
