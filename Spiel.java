@@ -1,5 +1,66 @@
-public class Spiel {
+import ch.aplu.jgamegrid.*;
+import java.awt.*;
+import java.awt.event.KeyEvent;
+
+public class Spiel extends GameGrid implements GGKeyListener {
+
+  private Text frageText;
+  private Text antwortAText;
+  private Text antwortBText;
+  private Text antwortCText;
+  private Text antwortDText;
+
+  private Jahrgangsstufe jahrgangsstufe;
+
+  public Spiel() {
+    super(10, 10, 60, java.awt.Color.RED);
+
+    // text = new Text("Frage");
+    // addActor(text, new Location(2, 4));
+    addKeyListener(this);
+    show();
+  }
+
+  public Text zeigeText(Text textBaustein, String text, int x, int y) {
+    if (textBaustein != null) {
+      textBaustein.hide();
+      removeActor(textBaustein);
+    }
+
+    textBaustein = new Text(text);
+    addActor(textBaustein, new Location(x, y));
+
+    return textBaustein;
+  }
+
+  public void zeigeFrage(Frage frage) {
+    frageText = zeigeText(frageText, frage.frage, 2, 4);
+    antwortAText = zeigeText(antwortAText, "A: " + frage.antworten[0], 1, 6);
+    antwortBText = zeigeText(antwortBText, "B: " + frage.antworten[1], 1, 8);
+
+    antwortCText = zeigeText(antwortCText, "C: " + frage.antworten[2], 6, 6);
+    antwortDText = zeigeText(antwortDText, "D: " + frage.antworten[3], 6, 8);
+  }
+
+  public boolean keyPressed(KeyEvent evt) {
+    if (evt.getKeyCode() == KeyEvent.VK_SPACE) {
+      // System.out.println("Leertaste");
+
+      Frage frage = jahrgangsstufe.entnimmFrage();
+      frage.mischeAntworten();
+      zeigeFrage(frage);
+    }
+    return false; // Don't consume
+  }
+
+  public boolean keyReleased(KeyEvent evt) {
+    return false;
+  }
+
   public static void main(String[] args) {
+
+    Spiel spiel = new Spiel();
+
     Frage frage1 = new Frage("Frage1", "richtig", "falsch1", "falsch2", "falsch3", 1);
     Frage frage2 = new Frage("Frage2", "richtig", "falsch1", "falsch2", "falsch3", 2);
     Frage frage3 = new Frage("Frage3", "richtig", "falsch1", "falsch2", "falsch3", 3);
@@ -14,29 +75,30 @@ public class Spiel {
     // frage1.stelleFrageAlsTextausgabe();
     // }
 
-    Jahrgangsstufe klasse6 = new Jahrgangsstufe();
+    spiel.jahrgangsstufe = new Jahrgangsstufe();
 
-    System.out.println("Anzahl: " + klasse6.gibAnzahlFragen());
+    // System.out.println("Anzahl: " + jahrgangsstufe.gibAnzahlFragen());
 
-    klasse6.fügeZufälligEin(frage1);
-    klasse6.fügeZufälligEin(frage2);
-    klasse6.fügeZufälligEin(frage3);
-    klasse6.fügeZufälligEin(frage4);
-    klasse6.fügeZufälligEin(frage5);
-    klasse6.fügeZufälligEin(frage6);
-    klasse6.fügeZufälligEin(frage7);
-    klasse6.fügeZufälligEin(frage8);
-    klasse6.fügeZufälligEin(frage9);
-    klasse6.fügeZufälligEin(frage10);
+    spiel.jahrgangsstufe.fügeZufälligEin(frage1);
+    spiel.jahrgangsstufe.fügeZufälligEin(frage2);
+    spiel.jahrgangsstufe.fügeZufälligEin(frage3);
+    spiel.jahrgangsstufe.fügeZufälligEin(frage4);
+    spiel.jahrgangsstufe.fügeZufälligEin(frage5);
+    spiel.jahrgangsstufe.fügeZufälligEin(frage6);
+    spiel.jahrgangsstufe.fügeZufälligEin(frage7);
+    spiel.jahrgangsstufe.fügeZufälligEin(frage8);
+    spiel.jahrgangsstufe.fügeZufälligEin(frage9);
+    spiel.jahrgangsstufe.fügeZufälligEin(frage10);
 
-    System.out.println("Anzahl: " + klasse6.gibAnzahlFragen());
+    // System.out.println("Anzahl: " + jahrgangsstufe.gibAnzahlFragen());
 
-    Frage entnommeneFrage;
-    do {
-      entnommeneFrage = klasse6.entnimmFrage();
-      if (entnommeneFrage != null) entnommeneFrage.stelleFrageAlsTextausgabe();
-    } while (entnommeneFrage != null);
+    // Frage entnommeneFrage;
+    // do {
+    // entnommeneFrage = jahrgangsstufe.entnimmFrage();
+    // if (entnommeneFrage != null) entnommeneFrage.stelleFrageAlsTextausgabe();
+    // } while (entnommeneFrage != null);
 
-    System.out.println("Anzahl: " + klasse6.gibAnzahlFragen());
+    // System.out.println("Anzahl: " + jahrgangsstufe.gibAnzahlFragen());
+
   }
 }

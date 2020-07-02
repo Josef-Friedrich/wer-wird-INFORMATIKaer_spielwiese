@@ -8,13 +8,13 @@ public class Frage {
   /**
    * Der Fragentext
    */
-  protected String frage;
+  public String frage;
 
   /**
    * Ein Feld mit 4 Elementen, das Text aufgenehmen kann. Wenn die Klasse Frage
    * erzeugt wird, ist die richtige Antwort das erste Element
    */
-  protected String[] antworten = new String[4];
+  public String[] antworten = new String[4];
 
   /**
    * Index-Position im Feld {@link antworten}, bei der sich die richtige Antwort
@@ -56,7 +56,7 @@ public class Frage {
    * @see <a href=
    *      "https://de.wikipedia.org/wiki/Zufällige_Permutation#Fisher-Yates-Verfahren">Fisher-Yates-Verfahren</a>
    */
-  protected void mischeAntworten() {
+  public void mischeAntworten() {
     // Creating a object for Random class
     Random zufall = new Random();
 
