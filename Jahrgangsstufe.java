@@ -24,12 +24,21 @@ public class Jahrgangsstufe {
     kopf = new ListenAbschluss();
   }
 
+  /**
+   * Füge eine Frage vorne in die Liste ein.
+   *
+   * @param frage
+   */
   public void fügeVorneEin(Frage frage) {
     DatenKnoten neuerKnoten = new DatenKnoten(kopf, frage);
     kopf = neuerKnoten;
   }
 
-
+  /**
+   * Füge eine Frage hinten in die Liste ein.
+   *
+   * @param frage
+   */
   public void fügeHintenEin(Frage frage) {
     kopf = kopf.fügeHintenEin(frage);
   }

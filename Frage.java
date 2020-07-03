@@ -92,4 +92,13 @@ public class Frage {
   public int gibSchwierigkeit() {
     return schwierigkeit;
   }
+
+  /**
+   * Gib den Text der Frage zurück
+   *
+   * @return Der Text der Frage.
+   */
+  public String gibFragenText() {
+    return frage;
+  }
 }
