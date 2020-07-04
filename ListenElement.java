@@ -17,4 +17,7 @@ public abstract class ListenElement {
   public abstract int gibAnzahlFragen();
 
   public abstract Frage gibFrage();
+
+  public abstract void setzeNächstes(ListenElement nächstes);
+
 }

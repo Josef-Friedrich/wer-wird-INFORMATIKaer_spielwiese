@@ -15,4 +15,8 @@ public class ListenAbschluss extends ListenElement {
   public int gibAnzahlFragen() {
     return 0;
   }
+
+  public void setzeNächstes(ListenElement nächstes) {
+    return;
+  }
 }

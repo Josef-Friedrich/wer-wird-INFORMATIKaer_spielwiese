@@ -30,8 +30,9 @@ public class Jahrgangsstufe {
    * @param frage
    */
   public void fügeVorneEin(Frage frage) {
-    DatenKnoten neuerKnoten = new DatenKnoten(kopf, frage);
+    ListenElement neuerKnoten = new DatenKnoten(kopf, frage);
     kopf = neuerKnoten;
+    anzahlFragen++;
   }
 
   /**
@@ -41,13 +42,42 @@ public class Jahrgangsstufe {
    */
   public void fügeHintenEin(Frage frage) {
     kopf = kopf.fügeHintenEin(frage);
+    anzahlFragen++;
   }
 
-  public void fügeNachPositionEin(Frage frage, int position) {
-    DatenKnoten neuerKnoten = new DatenKnoten(kopf, frage);
-    kopf = neuerKnoten;
+  /**
+   *
+   */
+  public void fügeVorPositionEin(Frage frage, int position) {
+    if (position == 0) {
+      fügeVorneEin(frage);
+      return;
+    }
+
+    if (position >= gibAnzahlFragen()) {
+      fügeHintenEin(frage);
+      return;
+    }
+
+    ListenElement nächstesElement = kopf;
+    ListenElement vorhergehendesElement = nächstesElement;
+
+    for (int i = 0; i < position; i++) {
+      vorhergehendesElement = nächstesElement;
+      nächstesElement = nächstesElement.gibNächstes();
+    }
+    DatenKnoten neuerKnoten = new DatenKnoten(nächstesElement, frage);
+
+    if (vorhergehendesElement != null) {
+      vorhergehendesElement.setzeNächstes(neuerKnoten);
+    }
   }
 
+  /**
+   * Füge nach Zufall entweder vorne oder hinten in die Liste ein.
+   *
+   * @param frage
+   */
   public void fügeZufälligEin(Frage frage) {
     Random zufall = new Random();
     if (zufall.nextBoolean()) {
@@ -57,13 +87,26 @@ public class Jahrgangsstufe {
     }
   }
 
+  /**
+   * Gib die Anzahl der Fragen zurück.
+   *
+   * @return Die Anzahl der Fragen.
+   */
   public int gibAnzahlFragen() {
-    return kopf.gibAnzahlFragen();
+    //return kopf.gibAnzahlFragen();
+    return anzahlFragen;
   }
 
+  /**
+   * Entnehme die erste Frage aus der Liste und setzte die zweite
+   * Frage an die Position der Ersten.
+   *
+   * @return Die Frage an der ersten Position
+   */
   public Frage entnimmFrage() {
     Frage frage = kopf.gibFrage();
     kopf = kopf.gibNächstes();
+    anzahlFragen--;
     return frage;
   }
 }
