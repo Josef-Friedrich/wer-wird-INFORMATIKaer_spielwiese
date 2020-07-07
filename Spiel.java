@@ -1,5 +1,4 @@
 import ch.aplu.jgamegrid.*;
-import java.awt.*;
 import java.awt.event.KeyEvent;
 
 public class Spiel extends GameGrid implements GGKeyListener {
@@ -14,9 +13,6 @@ public class Spiel extends GameGrid implements GGKeyListener {
 
   public Spiel() {
     super(10, 10, 60, java.awt.Color.RED);
-
-    // text = new Text("Frage");
-    // addActor(text, new Location(2, 4));
     addKeyListener(this);
     show();
   }
@@ -34,18 +30,18 @@ public class Spiel extends GameGrid implements GGKeyListener {
   }
 
   public void zeigeFrage(Frage frage) {
-    frageText = zeigeText(frageText, frage.frage, 2, 4);
-    antwortAText = zeigeText(antwortAText, "A: " + frage.antworten[0], 1, 6);
-    antwortBText = zeigeText(antwortBText, "B: " + frage.antworten[1], 1, 8);
+    String frageTextnachricht = frage.gibFragenText();
+    String[] antworten = frage.gibAntworten();
+    frageText = zeigeText(frageText, frageTextnachricht, 2, 4);
+    antwortAText = zeigeText(antwortAText, "A: " + antworten[0], 1, 6);
+    antwortBText = zeigeText(antwortBText, "B: " + antworten[1], 1, 8);
 
-    antwortCText = zeigeText(antwortCText, "C: " + frage.antworten[2], 6, 6);
-    antwortDText = zeigeText(antwortDText, "D: " + frage.antworten[3], 6, 8);
+    antwortCText = zeigeText(antwortCText, "C: " + antworten[2], 6, 6);
+    antwortDText = zeigeText(antwortDText, "D: " + antworten[3], 6, 8);
   }
 
   public boolean keyPressed(KeyEvent evt) {
     if (evt.getKeyCode() == KeyEvent.VK_SPACE) {
-      // System.out.println("Leertaste");
-
       Frage frage = jahrgangsstufe.entnimmFrage();
       frage.mischeAntworten();
       zeigeFrage(frage);
@@ -71,13 +67,8 @@ public class Spiel extends GameGrid implements GGKeyListener {
     Frage frage8 = new Frage("Frage8", "richtig", "falsch1", "falsch2", "falsch3", 3);
     Frage frage9 = new Frage("Frage9", "richtig", "falsch1", "falsch2", "falsch3", 4);
     Frage frage10 = new Frage("Frage10", "richtig", "falsch1", "falsch2", "falsch3", 5);
-    // for (int i = 0; i < 10; i++) {
-    // frage1.stelleFrageAlsTextausgabe();
-    // }
 
     spiel.jahrgangsstufe = new Jahrgangsstufe();
-
-    // System.out.println("Anzahl: " + jahrgangsstufe.gibAnzahlFragen());
 
     spiel.jahrgangsstufe.fügeZufälligEin(frage1);
     spiel.jahrgangsstufe.fügeZufälligEin(frage2);
@@ -89,16 +80,5 @@ public class Spiel extends GameGrid implements GGKeyListener {
     spiel.jahrgangsstufe.fügeZufälligEin(frage8);
     spiel.jahrgangsstufe.fügeZufälligEin(frage9);
     spiel.jahrgangsstufe.fügeZufälligEin(frage10);
-
-    // System.out.println("Anzahl: " + jahrgangsstufe.gibAnzahlFragen());
-
-    // Frage entnommeneFrage;
-    // do {
-    // entnommeneFrage = jahrgangsstufe.entnimmFrage();
-    // if (entnommeneFrage != null) entnommeneFrage.stelleFrageAlsTextausgabe();
-    // } while (entnommeneFrage != null);
-
-    // System.out.println("Anzahl: " + jahrgangsstufe.gibAnzahlFragen());
-
   }
 }

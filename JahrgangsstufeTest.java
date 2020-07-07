@@ -1,6 +1,4 @@
 import static org.junit.Assert.*;
-import org.junit.After;
-import org.junit.Before;
 import org.junit.Test;
 
 public class JahrgangsstufeTest {
@@ -10,9 +8,6 @@ public class JahrgangsstufeTest {
   Frage frage3;
   Jahrgangsstufe jahrgangsstufe;
 
-  /**
-   * Konstruktor fuer die Test-Klasse JahrgangsstufeTest
-   */
   public JahrgangsstufeTest() {
     frage1 = new Frage("Frage1", "richtig", "falsch1", "falsch2", "falsch3", 1);
     frage2 = new Frage("Frage2", "richtig", "falsch1", "falsch2", "falsch3", 2);
@@ -100,5 +95,16 @@ public class JahrgangsstufeTest {
     jahrgangsstufe = gibBefüllteJahrgangsstufe();
     jahrgangsstufe.fügeVorPositionEin(frage4, 4);
     überprüfeFragenTexte(jahrgangsstufe, new String[] { "Frage1", "Frage2", "Frage3", "Frage4" });
+  }
+
+  @Test
+  public void testeMethodeFügeZufälligEin() {
+    Frage frage4 = new Frage("Frage4", "richtig", "falsch", "falsch", "falsch", 1);
+    Jahrgangsstufe jahrgangsstufe = new Jahrgangsstufe();
+    jahrgangsstufe.fügeZufälligEin(frage1);
+    jahrgangsstufe.fügeZufälligEin(frage2);
+    jahrgangsstufe.fügeZufälligEin(frage3);
+    jahrgangsstufe.fügeZufälligEin(frage4);
+    assertEquals(jahrgangsstufe.gibAnzahlFragen(), 4);
   }
 }

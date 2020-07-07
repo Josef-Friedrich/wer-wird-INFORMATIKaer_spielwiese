@@ -27,7 +27,7 @@ public class Jahrgangsstufe {
   /**
    * Füge eine Frage vorne in die Liste ein.
    *
-   * @param frage
+   * @param frage Die Frage, die eingefügt werden soll.
    */
   public void fügeVorneEin(Frage frage) {
     ListenElement neuerKnoten = new DatenKnoten(kopf, frage);
@@ -38,7 +38,7 @@ public class Jahrgangsstufe {
   /**
    * Füge eine Frage hinten in die Liste ein.
    *
-   * @param frage
+   * @param frage Die Frage, die eingefügt werden soll.
    */
   public void fügeHintenEin(Frage frage) {
     kopf = kopf.fügeHintenEin(frage);
@@ -46,7 +46,11 @@ public class Jahrgangsstufe {
   }
 
   /**
+   * Füge ein Frage vor einer Positions-Nummer ein.
    *
+   * @param frage Die {@link Frage}, die einfügt werden sollen
+   * @param position Die Positions-Nummer. 0 ist die erste Frage.
+   *   {@link anzahlFrage} - 1 ist die Positionsnummer der letzten Frage.
    */
   public void fügeVorPositionEin(Frage frage, int position) {
     if (position == 0) {
@@ -71,20 +75,20 @@ public class Jahrgangsstufe {
     if (vorhergehendesElement != null) {
       vorhergehendesElement.setzeNächstes(neuerKnoten);
     }
+    anzahlFragen++;
   }
 
   /**
-   * Füge nach Zufall entweder vorne oder hinten in die Liste ein.
+   * Füge zufällig eine Frage in die Fragenliste ein.
    *
-   * @param frage
+   * @param frage Die Frage, die eingefügt werden soll.
    */
   public void fügeZufälligEin(Frage frage) {
     Random zufall = new Random();
-    if (zufall.nextBoolean()) {
-      fügeVorneEin(frage);
-    } else {
-      fügeHintenEin(frage);
-    }
+    // anzahlFragen ist bei der Initialisierung 0.
+    // Außerdem ist die in nextInt angegeben Zahl nicht bei den
+    // zurückgegeben Zufallszahlen dabei.
+    fügeVorPositionEin(frage, zufall.nextInt(anzahlFragen + 1));
   }
 
   /**
@@ -93,7 +97,6 @@ public class Jahrgangsstufe {
    * @return Die Anzahl der Fragen.
    */
   public int gibAnzahlFragen() {
-    //return kopf.gibAnzahlFragen();
     return anzahlFragen;
   }
 
