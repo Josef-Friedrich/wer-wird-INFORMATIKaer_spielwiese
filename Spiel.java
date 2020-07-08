@@ -3,11 +3,11 @@ import java.awt.event.KeyEvent;
 
 public class Spiel extends GameGrid implements GGKeyListener {
 
-  private Text frageText;
-  private Text antwortAText;
-  private Text antwortBText;
-  private Text antwortCText;
-  private Text antwortDText;
+  private GGTextAkteur frageText;
+  private GGTextAkteur antwortAText;
+  private GGTextAkteur antwortBText;
+  private GGTextAkteur antwortCText;
+  private GGTextAkteur antwortDText;
 
   private Jahrgangsstufe jahrgangsstufe;
 
@@ -17,13 +17,13 @@ public class Spiel extends GameGrid implements GGKeyListener {
     show();
   }
 
-  public Text zeigeText(Text textBaustein, String text, int x, int y) {
+  public GGTextAkteur zeigeText(GGTextAkteur textBaustein, String text, int x, int y) {
     if (textBaustein != null) {
       textBaustein.hide();
       removeActor(textBaustein);
     }
 
-    textBaustein = new Text(text);
+    textBaustein = new GGTextAkteur(text);
     addActor(textBaustein, new Location(x, y));
 
     return textBaustein;

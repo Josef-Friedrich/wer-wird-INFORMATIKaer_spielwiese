@@ -2,9 +2,9 @@ import ch.aplu.jgamegrid.*;
 import java.awt.*;
 import java.awt.event.KeyEvent;
 
-public class Text extends TextActor implements GGKeyListener {
+public class GGTextAkteur extends TextActor implements GGKeyListener {
 
-  public Text(String text) {
+  public GGTextAkteur(String text) {
     super(false, text, java.awt.Color.WHITE, java.awt.Color.BLACK, new Font("Sans", Font.BOLD, 20));
   }
 
