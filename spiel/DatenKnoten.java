@@ -1,3 +1,5 @@
+package spiel;
+
 public class DatenKnoten extends ListenElement {
 
   private Frage frage;

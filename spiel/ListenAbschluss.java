@@ -1,3 +1,4 @@
+package spiel;
 
 public class ListenAbschluss extends ListenElement {
   public ListenElement gibNächstes() {

@@ -1,3 +1,5 @@
+package spiel;
+
 import java.util.Random;
 
 /**

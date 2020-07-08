@@ -1,3 +1,5 @@
+package gui;
+
 import ch.aplu.jgamegrid.*;
 import java.awt.*;
 import java.awt.event.KeyEvent;
