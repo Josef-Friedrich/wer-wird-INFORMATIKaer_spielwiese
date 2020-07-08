@@ -29,6 +29,7 @@ public class GGSpielfeld extends GameGrid implements GGKeyListener {
     }
 
     textBaustein = new GGTextAkteur(text);
+    addMouseListener(textBaustein, GGMouse.lPress);
     addActor(textBaustein, new Location(x, y));
 
     return textBaustein;

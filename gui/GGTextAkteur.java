@@ -10,7 +10,7 @@ import java.awt.event.KeyEvent;
  * @see <a href="http://www.aplu.ch/classdoc/jgamegrid/ch/aplu/jgamegrid/TextActor.html">Dokumentation der Kasse TextActor</a>
  * @see <a href="http://www.aplu.ch/classdoc/jgamegrid/ch/aplu/jgamegrid/GGKeyListener.html">Dokumentation der Interfaces GGKeyListener</a>
  **/
-public class GGTextAkteur extends TextActor implements GGKeyListener {
+public class GGTextAkteur extends TextActor implements GGKeyListener, GGMouseListener {
 
   public GGTextAkteur(String text) {
     super(false, text, java.awt.Color.WHITE, java.awt.Color.BLACK, new Font("Sans", Font.BOLD, 20));
@@ -42,4 +42,15 @@ public class GGTextAkteur extends TextActor implements GGKeyListener {
     return false;
   }
 
+  public boolean mouseEvent(GGMouse mouse)
+  {
+    Location location =
+      gameGrid.toLocationInGrid(mouse.getX(), mouse.getY());
+    if (location.equals(getLocation())) {
+      System.out.println("test");
+    }
+
+    gameGrid.refresh();
+    return false;
+  }
 }
