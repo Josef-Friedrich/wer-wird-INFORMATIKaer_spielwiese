@@ -94,6 +94,25 @@ public class Jahrgangsstufe {
   }
 
   /**
+   * Füge mehrere Fragen zufällig als zweidimensionales Feld ein.
+   *
+   * @param fragen Mehrere Fragen als zweidimensionales Feld.
+   */
+  public void fügeFragenAlsFeldEin(String[][] fragen) {
+    for (int i = 0; i < fragen.length; i++) {
+      String[] frage = fragen[i];
+      fügeZufälligEin(new Frage(
+        frage[0],
+        frage[1],
+        frage[2],
+        frage[3],
+        frage[4],
+        Integer.parseInt(frage[5]))
+      );
+    }
+  }
+
+  /**
    * Gib die Anzahl der Fragen zurück.
    *
    * @return Die Anzahl der Fragen.

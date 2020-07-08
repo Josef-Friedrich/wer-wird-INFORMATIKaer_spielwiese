@@ -2,7 +2,7 @@ package gui;
 
 import ch.aplu.jgamegrid.*;
 import java.awt.event.KeyEvent;
-import spiel.Jahrgangsstufe;
+import spiel.Spiel;
 import spiel.Frage;
 
 public class GGSpielfeld extends GameGrid implements GGKeyListener {
@@ -13,11 +13,11 @@ public class GGSpielfeld extends GameGrid implements GGKeyListener {
   private GGTextAkteur antwortCText;
   private GGTextAkteur antwortDText;
 
-  private Jahrgangsstufe jahrgangsstufe;
+  private Spiel spiel;
 
-  public GGSpielfeld(Jahrgangsstufe jahrgangsstufe) {
+  public GGSpielfeld(Spiel spiel) {
     super(10, 10, 60, java.awt.Color.RED);
-    this.jahrgangsstufe = jahrgangsstufe;
+    this.spiel = spiel;
     addKeyListener(this);
     show();
   }
@@ -56,11 +56,11 @@ public class GGSpielfeld extends GameGrid implements GGKeyListener {
    */
   public boolean keyPressed(KeyEvent evt) {
     if (evt.getKeyCode() == KeyEvent.VK_SPACE) {
-      Frage frage = jahrgangsstufe.entnimmFrage();
+      Frage frage = spiel.entnimmFrage();
       frage.mischeAntworten();
       zeigeFrage(frage);
     }
-    return false; // Don't consume
+    return false;
   }
 
   /**

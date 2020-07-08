@@ -1,7 +1,11 @@
-import spiel.Frage;
 import spiel.Spiel;
-import spiel.Jahrgangsstufe;
+import gui.GGSpielfeld;
 
+/**
+ * Hauptklasse, die die main Methode enthält.
+ *
+ * In dieser werden die zwei Pakete spiel und gui zusammengefügt.
+ */
 public class SpielManager {
 
   public static void main(String[] args) {
@@ -20,6 +24,7 @@ public class SpielManager {
       {"Frage10", "richtig", "falsch1", "falsch2", "falsch3", "5"},
     };
 
-    spiel.jahrgangsstufe = new Jahrgangsstufe();
+    spiel.fügeFragenAlsFeldEin(fragen);
+    new GGSpielfeld(spiel);
   }
 }
