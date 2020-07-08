@@ -40,6 +40,15 @@ public class Spiel extends GameGrid implements GGKeyListener {
     antwortDText = zeigeText(antwortDText, "D: " + antworten[3], 6, 8);
   }
 
+  /**
+   * Diese Methode muss implementiert sein, da das Interface
+   * GGKeyListener es verlangt. Wir geben false zurück, damit weitere
+   * Klassen, die das Interface benutzen das Drücken von Tasten
+   * empfangen können.
+   *
+   * @see <a href="http://www.aplu.ch/classdoc/jgamegrid/ch/aplu/jgamegrid/GGKeyListener.html">
+   *   Dokumentation des Interfaces</a>
+   */
   public boolean keyPressed(KeyEvent evt) {
     if (evt.getKeyCode() == KeyEvent.VK_SPACE) {
       Frage frage = jahrgangsstufe.entnimmFrage();
@@ -49,6 +58,15 @@ public class Spiel extends GameGrid implements GGKeyListener {
     return false; // Don't consume
   }
 
+  /**
+   * Diese Methode muss implementiert sein, da das Interface
+   * GGKeyListener es verlangt. Wir geben false zurück, damit weitere
+   * Klassen, die das Interface benutzen das Drücken von Tasten
+   * empfangen können.
+   *
+   * @see <a href="http://www.aplu.ch/classdoc/jgamegrid/ch/aplu/jgamegrid/GGKeyListener.html">
+   *   Dokumentation des Interfaces</a>
+   */
   public boolean keyReleased(KeyEvent evt) {
     return false;
   }
