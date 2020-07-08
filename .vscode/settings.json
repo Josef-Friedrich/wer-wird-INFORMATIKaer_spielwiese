@@ -5,7 +5,8 @@
   },
   "java.project.referencedLibraries": {
     "include": [
-        "ch/aplu/*.jar"
+        "ch/aplu/JGameGrid.jar",
+        "/usr/share/bluej/junit-4.11.jar"
     ]
   }
 }
