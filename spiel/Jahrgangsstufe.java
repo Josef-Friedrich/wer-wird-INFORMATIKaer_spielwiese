@@ -5,8 +5,8 @@ import java.util.Random;
 /**
  * Eine Jahrgangstufe beinhaltet eine gewissen Anzahl an Fragen.
  *
- * Sie ist als eine einfach verkette Liste nach dem Entwurfsmuster
- * „Kompositum“ realisiert.
+ * Sie ist als eine einfach verkette Liste nach dem Entwurfsmuster „Kompositum“
+ * realisiert.
  *
  * Sie entspricht der Klasse „Liste“ aus dem AUD 4 Beispiel von Annabel.
  *
@@ -17,8 +17,8 @@ public class Jahrgangsstufe {
 
   /**
    * Die Anzahl an Fragen kann zwar rekursiv durch die Methode
-   * {@link gibAnzahlFragen} bestimmt werden. Das ist aber etwas
-   * zeitintensiv bei vielen Fragen.
+   * {@link gibAnzahlFragen} bestimmt werden. Das ist aber etwas zeitintensiv bei
+   * vielen Fragen.
    */
   private int anzahlFragen = 0;
 
@@ -50,9 +50,10 @@ public class Jahrgangsstufe {
   /**
    * Füge ein Frage vor einer Positions-Nummer ein.
    *
-   * @param frage Die {@link Frage}, die einfügt werden sollen
+   * @param frage    Die {@link Frage}, die einfügt werden sollen
    * @param position Die Positions-Nummer. 0 ist die erste Frage.
-   *   {@link anzahlFrage} - 1 ist die Positionsnummer der letzten Frage.
+   *                 {@link anzahlFrage} - 1 ist die Positionsnummer der letzten
+   *                 Frage.
    */
   public void fügeVorPositionEin(Frage frage, int position) {
     if (position == 0) {
@@ -101,15 +102,19 @@ public class Jahrgangsstufe {
   public void fügeFragenAlsFeldEin(String[][] fragen) {
     for (int i = 0; i < fragen.length; i++) {
       String[] frage = fragen[i];
-      fügeZufälligEin(new Frage(
-        frage[0],
-        frage[1],
-        frage[2],
-        frage[3],
-        frage[4],
-        Integer.parseInt(frage[5]))
-      );
+      fügeZufälligEin(new Frage(frage[0], frage[1], frage[2], frage[3], frage[4], Integer.parseInt(frage[5])));
     }
+  }
+
+  /**
+   * Erzeuge eine neue Frage anhand von mehreren String-Argumenten und füge diese
+   * Frage zufällig ein. Die Argumente können direkt aus dem CSVLeser eingelesen
+   * werden.
+   */
+  public void erzeugeFrage(String fragenText, String richtigeAntwort, String falscheAntwort1, String falscheAntwort2,
+      String falscheAntwort3, String schwierigkeit) {
+    fügeZufälligEin(new Frage(fragenText, richtigeAntwort, falscheAntwort1, falscheAntwort2, falscheAntwort3,
+        Integer.parseInt(schwierigkeit)));
   }
 
   /**
@@ -122,8 +127,8 @@ public class Jahrgangsstufe {
   }
 
   /**
-   * Entnehme die erste Frage aus der Liste und setzte die zweite
-   * Frage an die Position der Ersten.
+   * Entnehme die erste Frage aus der Liste und setzte die zweite Frage an die
+   * Position der Ersten.
    *
    * @return Die Frage an der ersten Position
    */

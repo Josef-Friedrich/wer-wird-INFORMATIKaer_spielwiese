@@ -16,7 +16,7 @@ public class GGSpielfeld extends GameGrid implements GGKeyListener {
   private Spiel spiel;
 
   public GGSpielfeld(Spiel spiel) {
-    super(10, 10, 60, java.awt.Color.RED);
+    super(10, 10, 120, java.awt.Color.RED);
     this.spiel = spiel;
     addKeyListener(this);
     show();

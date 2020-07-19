@@ -6,10 +6,9 @@ package spiel;
 public class Spiel {
 
   /**
-   * Die Gewinnsumme. Nach jeder beantworteten Frage wird diese
-   * Summe verdoppelt. Im der deutschen Fernsehsendung wird nicht
-   * immer verdoppelt, sondern manchmal ein Betrag gewählt, sodass
-   * am Ende 1 Million gewonnen werden.
+   * Die Gewinnsumme. Nach jeder beantworteten Frage wird diese Summe verdoppelt.
+   * Im der deutschen Fernsehsendung wird nicht immer verdoppelt, sondern manchmal
+   * ein Betrag gewählt, sodass am Ende 1 Million gewonnen werden.
    */
   private int gewinnSumme;
 
@@ -29,10 +28,21 @@ public class Spiel {
   }
 
   /**
+   * Erzeuge eine neue Frage anhand von mehreren String-Argumenten und füge diese
+   * Frage zufällig ein. Die Argumente können direkt aus dem CSVLeser eingelesen
+   * werden.
+   */
+  public void erzeugeFrage(String fragenText, String richtigeAntwort, String falscheAntwort1, String falscheAntwort2,
+      String falscheAntwort3, String schwierigkeit) {
+    jahrgangsstufe.erzeugeFrage(fragenText, richtigeAntwort, falscheAntwort1, falscheAntwort2, falscheAntwort3,
+        schwierigkeit);
+  }
+
+  /**
    * Füge mehrere Fragen zufällig als zweidimensionales Feld ein.
    *
-   * Die Methode wird an die gleichnamige Methode der Klasse
-   * Jahrgangsstufe weitergegeben.
+   * Die Methode wird an die gleichnamige Methode der Klasse Jahrgangsstufe
+   * weitergegeben.
    *
    * @param fragen Mehrere Fragen als zweidimensionales Feld.
    */
@@ -41,8 +51,8 @@ public class Spiel {
   }
 
   /**
-   * Entnimme eine Frage. Diese Methode wird an die
-   * Klasse {@link Jahrgangsstufe} weitergeleitet.
+   * Entnimme eine Frage. Diese Methode wird an die Klasse {@link Jahrgangsstufe}
+   * weitergeleitet.
    *
    * @return
    */
