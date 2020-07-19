@@ -1,11 +1,15 @@
 {
   "files.exclude": {
     "**/*.class": true,
-    "**/*.ctxt": true
+    "**/*.ctxt": true,
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
   },
   "java.project.referencedLibraries": {
     "include": [
-        "ch/aplu/JGameGrid.jar",
+        "./lib/*.jar",
         "/usr/share/bluej/junit-4.11.jar"
     ]
   }
