@@ -1,7 +1,8 @@
 package gui;
 
 import ch.aplu.jgamegrid.*;
-import java.awt.*;
+import java.awt.Color;
+import java.awt.Font;
 import java.awt.event.KeyEvent;
 
 /**
@@ -13,7 +14,7 @@ import java.awt.event.KeyEvent;
 public class GGTextAkteur extends TextActor implements GGKeyListener, GGMouseListener {
 
   public GGTextAkteur(String text) {
-    super(false, text, java.awt.Color.WHITE, java.awt.Color.BLACK, new Font("Sans", Font.BOLD, 20));
+    super(false, text, Color.WHITE, new Color(255, 255, 255, 0), new Font("Sans", Font.PLAIN, 20));
   }
 
   /**

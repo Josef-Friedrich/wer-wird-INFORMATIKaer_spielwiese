@@ -18,7 +18,8 @@ public class GGSpielfeld extends GameGrid implements GGKeyListener {
   public GGSpielfeld(Spiel spiel) {
 
     // 1024 	× 	768
-    super(51, 38, 20, java.awt.Color.RED);
+    super(52, 38, 20);
+    setBgColor(0, 0, 255);
     this.spiel = spiel;
     addKeyListener(this);
     show();
@@ -41,11 +42,13 @@ public class GGSpielfeld extends GameGrid implements GGKeyListener {
     String frageTextnachricht = frage.gibFragenText();
     String[] antworten = frage.gibAntworten();
     frageText = zeigeText(frageText, frageTextnachricht, 2, 4);
-    antwortAText = zeigeText(antwortAText, "A: " + antworten[0], 1, 6);
-    antwortBText = zeigeText(antwortBText, "B: " + antworten[1], 1, 8);
+    // 52 / 2 = 26
+    // 0 1 [2] | 26 27 [28]
+    antwortAText = zeigeText(antwortAText, "A: " + antworten[0], 2, 20);
+    antwortBText = zeigeText(antwortBText, "B: " + antworten[1], 28, 20);
 
-    antwortCText = zeigeText(antwortCText, "C: " + antworten[2], 6, 6);
-    antwortDText = zeigeText(antwortDText, "D: " + antworten[3], 6, 8);
+    antwortCText = zeigeText(antwortCText, "C: " + antworten[2], 2, 30);
+    antwortDText = zeigeText(antwortDText, "D: " + antworten[3], 28, 30);
   }
 
   /**

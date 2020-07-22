@@ -6,14 +6,14 @@ import java.util.ArrayList;
 /**
  * Ein mehrzeiliger Text.
  */
-public class GGAbsatz {
+public class GGMehrzeiligerText {
   private int textWeite = 40;
   private int y;
   private GameGrid gameGrid;
   private Location location;
   private ArrayList<TextActor> zeilen = new ArrayList<TextActor>();
 
-  public GGAbsatz(String text) {
+  public GGMehrzeiligerText(String text) {
     this.teileText(text);
   }
 
