@@ -7,7 +7,7 @@ import spiel.Frage;
 
 public class GGSpielfeld extends GameGrid implements GGKeyListener {
 
-  private GGTextAkteur frageText;
+  private GGMehrzeiligerText frageText;
   private GGTextAkteur antwortAText;
   private GGTextAkteur antwortBText;
   private GGTextAkteur antwortCText;
@@ -41,7 +41,14 @@ public class GGSpielfeld extends GameGrid implements GGKeyListener {
   public void zeigeFrage(Frage frage) {
     String frageTextnachricht = frage.gibFragenText();
     String[] antworten = frage.gibAntworten();
-    frageText = zeigeText(frageText, frageTextnachricht, 2, 4);
+
+    if (frageText != null) {
+      frageText.entferneVomSpielfeld();
+    }
+
+    frageText = new GGMehrzeiligerText(frageTextnachricht);
+    frageText.setzeImSpielfeld(this, new Location(10, 10));
+
     // 52 / 2 = 26
     // 0 1 [2] | 26 27 [28]
     antwortAText = zeigeText(antwortAText, "A: " + antworten[0], 2, 20);

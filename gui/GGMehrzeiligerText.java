@@ -2,6 +2,8 @@ package gui;
 
 import ch.aplu.jgamegrid.*;
 import java.util.ArrayList;
+import java.awt.Color;
+import java.awt.Font;
 
 /**
  * Ein mehrzeiliger Text.
@@ -13,7 +15,17 @@ public class GGMehrzeiligerText {
   private Location location;
   private ArrayList<TextActor> zeilen = new ArrayList<TextActor>();
 
+  private Color textFarbe = new Color(255, 255, 255);
+  private Color hintergrundFarbe = new Color(255, 255, 255, 0);
+  private Font schriftart = new Font("Sans", Font.PLAIN, 20);
+
   public GGMehrzeiligerText(String text) {
+    this.teileText(text);
+  }
+
+  public GGMehrzeiligerText(String text, Color textFarbe, Font schriftart) {
+    this.textFarbe = textFarbe;
+    this.schriftart = schriftart;
     this.teileText(text);
   }
 
@@ -32,7 +44,7 @@ public class GGMehrzeiligerText {
   }
 
   private TextActor erzeugeTextAkteur(String text) {
-    TextActor textActor = new TextActor(text);
+    TextActor textActor = new TextActor(text, textFarbe, hintergrundFarbe, schriftart);
     zeilen.add(textActor);
     return textActor;
   }
