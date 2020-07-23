@@ -2,7 +2,7 @@ package spiel;
 
 public class ListenAbschluss extends ListenElement {
   public ListenElement gibNächstes() {
-    return this;
+    return null;
   }
 
   public Frage gibFrage() {

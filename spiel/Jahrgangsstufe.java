@@ -138,4 +138,50 @@ public class Jahrgangsstufe {
     anzahlFragen--;
     return frage;
   }
+
+  /**
+   * Entnimmt bzw. lösche einen Datenkonten aus der Liste.
+   *
+   * @param vorhergehender
+   * @param aktueller
+   */
+  private void entnimmDatenKnoten (ListenElement vorhergehender, ListenElement aktueller) {
+    vorhergehender.setzeNächstes(aktueller.gibNächstes());
+    anzahlFragen--;
+  }
+
+  /**
+   * Entnehme eine Frage aus der Liste mit der passenden Schwierigkeit.
+   * Falls keine Frage mit der passenden Schwierigkeit vorhanden ist,
+   * entnehme eine leichtere Frage.
+   *
+   * @param schwierigkeit Die geschwünschte Schwierigkeit der Frage.
+   *
+   * @return Die Frage an der ersten Position
+   */
+  public Frage entnimmFrage(int schwierigkeit) {
+    Frage frage = null;
+    Frage leichtereFrage = null;
+    ListenElement vorhergehenderDatenKnoten = null;
+    ListenElement datenKnoten = kopf;
+    ListenElement vorhergehenderDatenKnotenLeichtereFrage = null;
+    ListenElement datenKnotenleichtereFrage = null;
+    while (datenKnoten != null) {
+      frage = datenKnoten.gibFrage();
+
+      if (frage != null && (leichtereFrage == null || frage.gibSchwierigkeit() < leichtereFrage.gibSchwierigkeit())) {
+        leichtereFrage = frage;
+      }
+      vorhergehenderDatenKnoten = datenKnoten;
+      if (frage != null && frage.gibSchwierigkeit() == schwierigkeit) {
+        entnimmDatenKnoten(vorhergehenderDatenKnoten, datenKnoten);
+        break;
+      }
+      datenKnoten = datenKnoten.gibNächstes();
+    }
+    if (frage != null) {
+      return frage;
+    }
+    return leichtereFrage;
+  }
 }

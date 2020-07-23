@@ -109,4 +109,61 @@ public class JahrgangsstufeTest {
     jahrgangsstufe.fügeZufälligEin(frage4);
     assertEquals(jahrgangsstufe.gibAnzahlFragen(), 4);
   }
+
+  @Test
+  public void testeMethodeEntnimmFrageOhneSchwierigkeit() {
+    Jahrgangsstufe jahrgang = gibBefüllteJahrgangsstufe();
+
+    jahrgang.entnimmFrage();
+    assertEquals(jahrgang.gibAnzahlFragen(), 2);
+
+    jahrgang.entnimmFrage();
+    assertEquals(jahrgang.gibAnzahlFragen(), 1);
+
+    jahrgang.entnimmFrage();
+    assertEquals(jahrgang.gibAnzahlFragen(), 0);
+  }
+
+  @Test
+  public void testeMethodeEntnimmFrageNachSchwierigkeitZuerstSchwierige() {
+    Jahrgangsstufe jahrgang = gibBefüllteJahrgangsstufe();
+    Frage frage;
+    frage = jahrgang.entnimmFrage(3);
+    assertEquals(frage.gibSchwierigkeit(), 3);
+    assertEquals(jahrgang.gibAnzahlFragen(), 2);
+
+    frage = jahrgang.entnimmFrage(2);
+    assertEquals(frage.gibSchwierigkeit(), 2);
+    assertEquals(jahrgang.gibAnzahlFragen(), 1);
+
+    frage = jahrgang.entnimmFrage(1);
+    assertEquals(frage.gibSchwierigkeit(), 1);
+    assertEquals(jahrgang.gibAnzahlFragen(), 0);
+  }
+
+  @Test
+  public void testeMethodeEntnimmFrageNachSchwierigkeitZuerstLeichte() {
+    Jahrgangsstufe jahrgang = gibBefüllteJahrgangsstufe();
+    Frage frage;
+    frage = jahrgang.entnimmFrage(1);
+    assertEquals(frage.gibSchwierigkeit(), 1);
+    assertEquals(jahrgang.gibAnzahlFragen(), 2);
+
+    frage = jahrgang.entnimmFrage(2);
+    assertEquals(frage.gibSchwierigkeit(), 2);
+    assertEquals(jahrgang.gibAnzahlFragen(), 1);
+
+    frage = jahrgang.entnimmFrage(3);
+    assertEquals(frage.gibSchwierigkeit(), 3);
+    assertEquals(jahrgang.gibAnzahlFragen(), 0);
+  }
+
+  @Test
+  public void testeMethodeEntnimmFrageNachSchwierigkeitNichtVorhandeneSchwierigkeit() {
+    Jahrgangsstufe jahrgang = gibBefüllteJahrgangsstufe();
+    Frage frage;
+    frage = jahrgang.entnimmFrage(4);
+    assertEquals(frage.gibSchwierigkeit(), 1);
+    assertEquals(jahrgang.gibAnzahlFragen(), 2);
+  }
 }
