@@ -57,6 +57,6 @@ public class Spiel {
    * @return
    */
   public Frage entnimmFrage() {
-    return jahrgangsstufe.entnimmFrage();
+    return jahrgangsstufe.entnimmErsteFrage();
   }
 }

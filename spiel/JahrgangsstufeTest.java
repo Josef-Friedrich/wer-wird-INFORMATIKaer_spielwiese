@@ -19,7 +19,7 @@ public class JahrgangsstufeTest {
   void überprüfeFragenTexte(Jahrgangsstufe jahrgangsstufe, String[] fragenTexte) {
     Frage frage;
     for (String fragenText: fragenTexte) {
-      frage = jahrgangsstufe.entnimmFrage();
+      frage = jahrgangsstufe.entnimmErsteFrage();
       assertEquals(frage.gibFragenText(), fragenText);
     }
   }
@@ -63,13 +63,13 @@ public class JahrgangsstufeTest {
     jahrgangsstufe.fügeVorneEin(frage3);
     assertEquals(jahrgangsstufe.gibAnzahlFragen(), 3);
 
-    jahrgangsstufe.entnimmFrage();
+    jahrgangsstufe.entnimmErsteFrage();
     assertEquals(jahrgangsstufe.gibAnzahlFragen(), 2);
 
-    jahrgangsstufe.entnimmFrage();
+    jahrgangsstufe.entnimmErsteFrage();
     assertEquals(jahrgangsstufe.gibAnzahlFragen(), 1);
 
-    jahrgangsstufe.entnimmFrage();
+    jahrgangsstufe.entnimmErsteFrage();
     assertEquals(jahrgangsstufe.gibAnzahlFragen(), 0);
   }
 
@@ -111,21 +111,24 @@ public class JahrgangsstufeTest {
   }
 
   @Test
-  public void testeMethodeEntnimmFrageOhneSchwierigkeit() {
+  public void testeMethodeEntnimmErsteFrage() {
     Jahrgangsstufe jahrgang = gibBefüllteJahrgangsstufe();
 
-    jahrgang.entnimmFrage();
+    jahrgang.entnimmErsteFrage();
     assertEquals(jahrgang.gibAnzahlFragen(), 2);
 
-    jahrgang.entnimmFrage();
+    jahrgang.entnimmErsteFrage();
     assertEquals(jahrgang.gibAnzahlFragen(), 1);
 
-    jahrgang.entnimmFrage();
+    jahrgang.entnimmErsteFrage();
     assertEquals(jahrgang.gibAnzahlFragen(), 0);
+
+    Frage frage = jahrgang.entnimmErsteFrage();
+    assertEquals(frage, null);
   }
 
   @Test
-  public void testeMethodeEntnimmFrageNachSchwierigkeitZuerstSchwierige() {
+  public void testeMethodeEntnimmFrageZuerstSchwierige() {
     Jahrgangsstufe jahrgang = gibBefüllteJahrgangsstufe();
     Frage frage;
     frage = jahrgang.entnimmFrage(3);
@@ -142,7 +145,7 @@ public class JahrgangsstufeTest {
   }
 
   @Test
-  public void testeMethodeEntnimmFrageNachSchwierigkeitZuerstLeichte() {
+  public void testeMethodeEntnimmFrageZuerstLeichte() {
     Jahrgangsstufe jahrgang = gibBefüllteJahrgangsstufe();
     Frage frage;
     frage = jahrgang.entnimmFrage(1);
@@ -159,7 +162,7 @@ public class JahrgangsstufeTest {
   }
 
   @Test
-  public void testeMethodeEntnimmFrageNachSchwierigkeitNichtVorhandeneSchwierigkeit() {
+  public void testeMethodeEntnimmFrageNichtVorhandeneSchwierigkeit() {
     Jahrgangsstufe jahrgang = gibBefüllteJahrgangsstufe();
     Frage frage;
     frage = jahrgang.entnimmFrage(4);
