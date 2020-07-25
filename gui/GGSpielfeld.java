@@ -5,6 +5,7 @@ import java.awt.event.KeyEvent;
 import spiel.Spiel;
 import spiel.Frage;
 
+@SuppressWarnings("serial")
 public class GGSpielfeld extends GameGrid implements GGKeyListener {
 
   private GGMehrzeiligerText frageText;
