@@ -1,5 +1,6 @@
 import spiel.Spiel;
 import gui.GGSpielfeld;
+import java.io.IOException;
 
 /**
  * Hauptklasse, die die main Methode enthält.
@@ -11,10 +12,10 @@ public class SpielManager {
   public static void main(String[] args) {
     Spiel spiel = new Spiel();
 
-    CSVLeser leser = new CSVLeser(7);
     try {
-      leser.leseInSpielEin(spiel);
-    } catch (Exception e) {
+      CSVLeser leser = new CSVLeser("./Fragen.csv");
+      leser.leseInSpielEin(spiel, 7);
+    } catch (IOException e) {
       //TODO: handle exception
     }
 
