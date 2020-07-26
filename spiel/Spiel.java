@@ -31,6 +31,13 @@ public class Spiel {
    * Erzeuge eine neue Frage anhand von mehreren String-Argumenten und füge diese
    * Frage zufällig ein. Die Argumente können direkt aus dem CSVLeser eingelesen
    * werden.
+   *
+   * @param fragenText
+   * @param richtigeAntwort
+   * @param falscheAntwort1
+   * @param falscheAntwort2
+   * @param falscheAntwort3
+   * @param schwierigkeit
    */
   public void erzeugeFrage(String fragenText, String richtigeAntwort, String falscheAntwort1, String falscheAntwort2,
       String falscheAntwort3, String schwierigkeit) {

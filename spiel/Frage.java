@@ -10,7 +10,7 @@ public class Frage {
   /**
    * Der Fragentext
    */
-  private String frage;
+  private String fragenText;
 
   /**
    * Ein Feld mit 4 Elementen, das Text aufgenehmen kann. Wenn die Klasse Frage
@@ -41,7 +41,7 @@ public class Frage {
    */
   public Frage(String frage, String richtigeAntwort, String falscheAntwort1, String falscheAntwort2,
       String falscheAntwort3, int schwierigkeit) {
-    this.frage = frage;
+    this.fragenText = frage;
     antworten[0] = richtigeAntwort;
     positionRichtigeAntwort = 0;
     antworten[1] = falscheAntwort1;
@@ -91,7 +91,7 @@ public class Frage {
 
   public void stelleFrageAlsTextausgabe() {
     mischeAntworten();
-    System.out.println(frage);
+    System.out.println(fragenText);
     System.out.print("A:" + antworten[0] + " ");
     System.out.print("B:" + antworten[1] + " ");
     System.out.print("C:" + antworten[2] + " ");
@@ -115,7 +115,7 @@ public class Frage {
    * @return Der Text der Frage.
    */
   public String gibFragenText() {
-    return frage;
+    return fragenText;
   }
 
   /**
