@@ -29,4 +29,8 @@ public class DatenKnoten extends ListenElement {
     nächstes = nächstes.fügeHintenEin(frage);
     return this;
   }
+
+  public int gibAnzahlDatenKnoten() {
+    return 1 + nächstes.gibAnzahlDatenKnoten();
+  }
 }

@@ -8,7 +8,7 @@ public class FragenListeTest {
   Frage frage1;
   Frage frage2;
   Frage frage3;
-  FragenListe jahrgangsstufe;
+  FragenListe liste;
 
   public FragenListeTest() {
     frage1 = new Frage("Frage1", "richtig", "falsch1", "falsch2", "falsch3", 1);
@@ -24,79 +24,79 @@ public class FragenListeTest {
     }
   }
 
-  FragenListe gibBefüllteJahrgangsstufe() {
-    jahrgangsstufe = new FragenListe();
-    jahrgangsstufe.fügeHintenEin(frage1);
-    jahrgangsstufe.fügeHintenEin(frage2);
-    jahrgangsstufe.fügeHintenEin(frage3);
-    return jahrgangsstufe;
+  FragenListe gibBefüllteListe() {
+    liste = new FragenListe();
+    liste.fügeHintenEin(frage1);
+    liste.fügeHintenEin(frage2);
+    liste.fügeHintenEin(frage3);
+    return liste;
   }
 
   @Test
   public void testeMethodeFügeVorneEin() {
-    jahrgangsstufe = new FragenListe();
-    jahrgangsstufe.fügeVorneEin(frage1);
-    jahrgangsstufe.fügeVorneEin(frage2);
-    jahrgangsstufe.fügeVorneEin(frage3);
-    überprüfeFragenTexte(jahrgangsstufe, new String[] { "Frage3", "Frage2", "Frage1" });
+    liste = new FragenListe();
+    liste.fügeVorneEin(frage1);
+    liste.fügeVorneEin(frage2);
+    liste.fügeVorneEin(frage3);
+    überprüfeFragenTexte(liste, new String[] { "Frage3", "Frage2", "Frage1" });
   }
 
   @Test
   public void testeMethodeFügeHintenEin() {
-    jahrgangsstufe = new FragenListe();
-    jahrgangsstufe.fügeHintenEin(frage1);
-    jahrgangsstufe.fügeHintenEin(frage2);
-    jahrgangsstufe.fügeHintenEin(frage3);
-    überprüfeFragenTexte(jahrgangsstufe, new String[] { "Frage1", "Frage2", "Frage3" });
+    liste = new FragenListe();
+    liste.fügeHintenEin(frage1);
+    liste.fügeHintenEin(frage2);
+    liste.fügeHintenEin(frage3);
+    überprüfeFragenTexte(liste, new String[] { "Frage1", "Frage2", "Frage3" });
   }
 
   @Test
   public void testeMethodeGibAnzahl() {
-    jahrgangsstufe = new FragenListe();
-    jahrgangsstufe.fügeVorneEin(frage1);
+    liste = new FragenListe();
+    liste.fügeVorneEin(frage1);
 
-    assertEquals(jahrgangsstufe.gibAnzahlFragen(), 1);
-    jahrgangsstufe.fügeVorneEin(frage2);
+    assertEquals(liste.gibAnzahlFragen(), 1);
+    liste.fügeVorneEin(frage2);
 
-    assertEquals(jahrgangsstufe.gibAnzahlFragen(), 2);
+    assertEquals(liste.gibAnzahlFragen(), 2);
 
-    jahrgangsstufe.fügeVorneEin(frage3);
-    assertEquals(jahrgangsstufe.gibAnzahlFragen(), 3);
+    liste.fügeVorneEin(frage3);
+    assertEquals(liste.gibAnzahlFragen(), 3);
 
-    jahrgangsstufe.entnimmErsteFrage();
-    assertEquals(jahrgangsstufe.gibAnzahlFragen(), 2);
+    liste.entnimmErsteFrage();
+    assertEquals(liste.gibAnzahlFragen(), 2);
 
-    jahrgangsstufe.entnimmErsteFrage();
-    assertEquals(jahrgangsstufe.gibAnzahlFragen(), 1);
+    liste.entnimmErsteFrage();
+    assertEquals(liste.gibAnzahlFragen(), 1);
 
-    jahrgangsstufe.entnimmErsteFrage();
-    assertEquals(jahrgangsstufe.gibAnzahlFragen(), 0);
+    liste.entnimmErsteFrage();
+    assertEquals(liste.gibAnzahlFragen(), 0);
   }
 
   @Test
   public void testeMethodeFügeVorPositionEin() {
     Frage frage4 = new Frage("Frage4", "richtig", "falsch", "falsch", "falsch", 1);
-    FragenListe jahrgangsstufe;
+    FragenListe l;
 
-    jahrgangsstufe = gibBefüllteJahrgangsstufe();
-    jahrgangsstufe.fügeVorPositionEin(frage4, 0);
-    überprüfeFragenTexte(jahrgangsstufe, new String[] { "Frage4", "Frage1", "Frage2", "Frage3" });
+    l = gibBefüllteListe();
+    l.fügeVorPositionEin(frage4, 0);
+    überprüfeFragenTexte(l, new String[] { "Frage4", "Frage1", "Frage2", "Frage3" });
 
-    jahrgangsstufe = gibBefüllteJahrgangsstufe();
-    jahrgangsstufe.fügeVorPositionEin(frage4, 1);
-    überprüfeFragenTexte(jahrgangsstufe, new String[] { "Frage1", "Frage4", "Frage2", "Frage3" });
+    l = gibBefüllteListe();
+    l.fügeVorPositionEin(frage4, 1);
+    überprüfeFragenTexte(l, new String[] { "Frage1", "Frage4", "Frage2", "Frage3" });
 
-    jahrgangsstufe = gibBefüllteJahrgangsstufe();
-    jahrgangsstufe.fügeVorPositionEin(frage4, 2);
-    überprüfeFragenTexte(jahrgangsstufe, new String[] { "Frage1", "Frage2", "Frage4", "Frage3" });
+    l = gibBefüllteListe();
+    l.fügeVorPositionEin(frage4, 2);
+    überprüfeFragenTexte(l, new String[] { "Frage1", "Frage2", "Frage4", "Frage3" });
 
-    jahrgangsstufe = gibBefüllteJahrgangsstufe();
-    jahrgangsstufe.fügeVorPositionEin(frage4, 3);
-    überprüfeFragenTexte(jahrgangsstufe, new String[] { "Frage1", "Frage2", "Frage3", "Frage4" });
+    l = gibBefüllteListe();
+    l.fügeVorPositionEin(frage4, 3);
+    überprüfeFragenTexte(l, new String[] { "Frage1", "Frage2", "Frage3", "Frage4" });
 
-    jahrgangsstufe = gibBefüllteJahrgangsstufe();
-    jahrgangsstufe.fügeVorPositionEin(frage4, 4);
-    überprüfeFragenTexte(jahrgangsstufe, new String[] { "Frage1", "Frage2", "Frage3", "Frage4" });
+    l = gibBefüllteListe();
+    l.fügeVorPositionEin(frage4, 4);
+    überprüfeFragenTexte(l, new String[] { "Frage1", "Frage2", "Frage3", "Frage4" });
   }
 
   @Test
@@ -112,61 +112,86 @@ public class FragenListeTest {
 
   @Test
   public void testeMethodeEntnimmErsteFrage() {
-    FragenListe jahrgang = gibBefüllteJahrgangsstufe();
+    FragenListe l = gibBefüllteListe();
 
-    jahrgang.entnimmErsteFrage();
-    assertEquals(jahrgang.gibAnzahlFragen(), 2);
+    l.entnimmErsteFrage();
+    assertEquals(l.gibAnzahlFragen(), 2);
+    assertEquals(l.gibAnzahlDatenKnoten(), 2);
 
-    jahrgang.entnimmErsteFrage();
-    assertEquals(jahrgang.gibAnzahlFragen(), 1);
+    l.entnimmErsteFrage();
+    assertEquals(l.gibAnzahlFragen(), 1);
+    assertEquals(l.gibAnzahlDatenKnoten(), 1);
 
-    jahrgang.entnimmErsteFrage();
-    assertEquals(jahrgang.gibAnzahlFragen(), 0);
+    l.entnimmErsteFrage();
+    assertEquals(l.gibAnzahlFragen(), 0);
+    assertEquals(l.gibAnzahlDatenKnoten(), 0);
 
-    Frage frage = jahrgang.entnimmErsteFrage();
+    Frage frage = l.entnimmErsteFrage();
     assertEquals(frage, null);
   }
 
   @Test
   public void testeMethodeEntnimmFrageZuerstSchwierige() {
-    FragenListe jahrgang = gibBefüllteJahrgangsstufe();
+    FragenListe l = gibBefüllteListe();
     Frage frage;
-    frage = jahrgang.entnimmFrage(3);
+    frage = l.entnimmFrage(3);
     assertEquals(frage.gibSchwierigkeit(), 3);
-    assertEquals(jahrgang.gibAnzahlFragen(), 2);
+    assertEquals(l.gibAnzahlFragen(), 2);
 
-    frage = jahrgang.entnimmFrage(2);
+    frage = l.entnimmFrage(2);
     assertEquals(frage.gibSchwierigkeit(), 2);
-    assertEquals(jahrgang.gibAnzahlFragen(), 1);
+    assertEquals(l.gibAnzahlFragen(), 1);
 
-    frage = jahrgang.entnimmFrage(1);
+    frage = l.entnimmFrage(1);
     assertEquals(frage.gibSchwierigkeit(), 1);
-    assertEquals(jahrgang.gibAnzahlFragen(), 0);
+    assertEquals(l.gibAnzahlFragen(), 0);
   }
 
   @Test
   public void testeMethodeEntnimmFrageZuerstLeichte() {
-    FragenListe jahrgang = gibBefüllteJahrgangsstufe();
+    FragenListe l = gibBefüllteListe();
     Frage frage;
-    frage = jahrgang.entnimmFrage(1);
+    frage = l.entnimmFrage(1);
     assertEquals(frage.gibSchwierigkeit(), 1);
-    assertEquals(jahrgang.gibAnzahlFragen(), 2);
+    assertEquals(l.gibAnzahlFragen(), 2);
+    assertEquals(l.gibAnzahlDatenKnoten(), 2);
 
-    frage = jahrgang.entnimmFrage(2);
+    frage = l.entnimmFrage(2);
     assertEquals(frage.gibSchwierigkeit(), 2);
-    assertEquals(jahrgang.gibAnzahlFragen(), 1);
+    assertEquals(l.gibAnzahlFragen(), 1);
+    assertEquals(l.gibAnzahlDatenKnoten(), 1);
 
-    frage = jahrgang.entnimmFrage(3);
+    frage = l.entnimmFrage(3);
     assertEquals(frage.gibSchwierigkeit(), 3);
-    assertEquals(jahrgang.gibAnzahlFragen(), 0);
+    assertEquals(l.gibAnzahlFragen(), 0);
+    assertEquals(l.gibAnzahlDatenKnoten(), 0);
   }
 
   @Test
   public void testeMethodeEntnimmFrageNichtVorhandeneSchwierigkeit() {
-    FragenListe jahrgang = gibBefüllteJahrgangsstufe();
+    FragenListe l = gibBefüllteListe();
     Frage frage;
-    frage = jahrgang.entnimmFrage(4);
+    frage = l.entnimmFrage(4);
     assertEquals(frage.gibSchwierigkeit(), 1);
-    assertEquals(jahrgang.gibAnzahlFragen(), 2);
+    assertEquals(l.gibAnzahlFragen(), 2);
+  }
+
+  @Test
+  public void testeMethodeGibAnzahlDatenKnoten() {
+    FragenListe l = new FragenListe();
+    assertEquals(l.gibAnzahlDatenKnoten(), 0);
+    l.fügeVorneEin(frage1);
+    assertEquals(l.gibAnzahlDatenKnoten(), 1);
+    l.fügeHintenEin(frage1);
+    assertEquals(l.gibAnzahlDatenKnoten(), 2);
+    l.fügeZufälligEin(frage1);
+    assertEquals(l.gibAnzahlDatenKnoten(), 3);
+
+    l.entnimmFrage(1);
+    assertEquals(l.gibAnzahlDatenKnoten(), 2);
+    l.entnimmFrage(1);
+    assertEquals(l.gibAnzahlDatenKnoten(), 1);
+    l.entnimmFrage(1);
+    assertEquals(l.gibAnzahlDatenKnoten(), 2);
   }
 }

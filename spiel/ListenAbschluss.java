@@ -16,4 +16,9 @@ public class ListenAbschluss extends ListenElement {
   public void setzeNächstes(ListenElement nächstes) {
     return;
   }
+
+  public int gibAnzahlDatenKnoten() {
+    return 0;
+  }
+
 }

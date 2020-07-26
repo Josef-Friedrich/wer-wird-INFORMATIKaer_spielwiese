@@ -121,11 +121,28 @@ public class FragenListe {
    * Entnimmt bzw. lösche einen Datenkonten aus der Liste.
    *
    * @param vorhergehender
-   * @param aktueller
+   * @param datenKnoten
    */
-  private void entnimmDatenKnoten (ListenElement vorhergehender, ListenElement aktueller) {
-    vorhergehender.setzeNächstes(aktueller.gibNächstes());
+  private void entnimmDatenKnoten(ListenElement datenKnoten, ListenElement vorhergehender) {
+    if (vorhergehender != null) {
+      vorhergehender.setzeNächstes(datenKnoten.gibNächstes());
+    } else {
+      kopf.setzeNächstes(datenKnoten.gibNächstes());
+    }
+
     anzahlFragen--;
+  }
+
+  /**
+   * Diese Methode berechnete die Anzahl der Datenknoten und damit die Anzahl der
+   * Frage rekursiv. Im Gegensatz zur Methode {@link gibAnzahlFragen} wird in
+   * dieser Methode keine Zähler verwendet, der hochgezählt werden muss. Diese
+   * Methode funktioniert also sicherer.
+   *
+   * @return
+   */
+  public int gibAnzahlDatenKnoten() {
+    return kopf.gibAnzahlDatenKnoten();
   }
 
   /**
@@ -151,14 +168,14 @@ public class FragenListe {
   }
 
   /**
-   * Entnehme eine Frage aus der Liste mit der passenden Schwierigkeit.
-   * Falls keine Frage mit der passenden Schwierigkeit vorhanden ist,
-   * entnehme die erste Frage.
+   * Entnehme eine Frage aus der Liste mit der passenden Schwierigkeit. Falls
+   * keine Frage mit der passenden Schwierigkeit vorhanden ist, entnehme die erste
+   * Frage.
    *
    * @param schwierigkeit Die geschwünschte Schwierigkeit der Frage.
    *
-   * @return Die Frage mit der gewünschen Schwierigkeit oder eine Frage
-   *   an der ersten Position.
+   * @return Die Frage mit der gewünschen Schwierigkeit oder eine Frage an der
+   *         ersten Position.
    */
   public Frage entnimmFrage(int schwierigkeit) {
     Frage frage = null;
@@ -166,11 +183,11 @@ public class FragenListe {
     ListenElement datenKnoten = kopf;
     while (datenKnoten != null) {
       frage = datenKnoten.gibFrage();
-      vorhergehenderDatenKnoten = datenKnoten;
       if (frage != null && frage.gibSchwierigkeit() == schwierigkeit) {
-        entnimmDatenKnoten(vorhergehenderDatenKnoten, datenKnoten);
+        entnimmDatenKnoten(datenKnoten, vorhergehenderDatenKnoten);
         break;
       }
+      vorhergehenderDatenKnoten = datenKnoten;
       datenKnoten = datenKnoten.gibNächstes();
     }
     if (frage == null) {

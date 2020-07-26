@@ -19,4 +19,5 @@ public abstract class ListenElement {
 
   public abstract void setzeNächstes(ListenElement nächstes);
 
+  public abstract int gibAnzahlDatenKnoten();
 }
