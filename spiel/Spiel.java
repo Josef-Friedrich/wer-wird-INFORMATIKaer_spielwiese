@@ -30,13 +30,22 @@ public class Spiel {
   private int schwierigkeit = 1;
 
   /**
-   *
+   * Eine Liste der zu unbeantwortenden Fragen. Wird eine Frage
+   * beantwortet wird sind in die Liste {@link beantworteteFragen}
+   * hinzugefügt.
    */
   private FragenListe unbeantworteteFragen;
+
+  /**
+   * Eine Liste der beantworteten Fragen. Die Liste ist nützlich
+   * um eine Übersicht über die bereits gegeben Antworten zu erzeugen.
+   */
+  private FragenListe beantworteteFragen;
 
   public Spiel() {
     gewinnSumme = 50;
     unbeantworteteFragen = new FragenListe();
+    beantworteteFragen = new FragenListe();
   }
 
   /**
@@ -86,19 +95,31 @@ public class Spiel {
    * Überprüfe, ob die Antwort zur aktuellen Frage richtig oder flasch
    * ist.
    *
-   * @param antwortNummer 0 = Frage A, 3 = Frage D
+   * @param antwort 0 = Frage A, 3 = Frage D
    *
    * @return
    */
-  public boolean istAntwortRichtig(int antwortNummer) {
-    if (aktuelleFrage.gibRichtigeAntwort() == antwortNummer) {
+  public boolean istAntwortRichtig(int antwort) {
+    if (aktuelleFrage.gibRichtigeAntwort() == antwort) {
       return true;
     }
     return false;
   }
 
   /**
-   * Gib die akteulle Fragennummer zurück. 1 ist die erste Fragennummer
+   * Beantworte die aktuelle Frage.
+   *
+   * @param antwort 0 = Frage A, 3 = Frage D
+   * @return
+   */
+  public boolean beantworteFrage(int antwort) {
+    beantworteteFragen.fügeHintenEin(aktuelleFrage);
+    boolean ergebnis = aktuelleFrage.beantworteFrage(antwort);
+    return ergebnis;
+  }
+
+  /**
+   * Gib die aktuelle Fragennummer zurück. 1 ist die erste Fragennummer
    * und so weiter.
    *
    * @return
@@ -115,5 +136,14 @@ public class Spiel {
    */
   public int gibAnzahlUnbeantworterFragen() {
     return unbeantworteteFragen.gibAnzahlFragen();
+  }
+
+  /**
+   * Gib die Anzahl der beantworteten Fragen zurück.
+   *
+   * @return
+   */
+  public int gibAnzahlBeantworterFragen() {
+    return beantworteteFragen.gibAnzahlFragen();
   }
 }

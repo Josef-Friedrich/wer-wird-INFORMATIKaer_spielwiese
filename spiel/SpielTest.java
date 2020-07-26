@@ -51,4 +51,20 @@ public class SpielTest {
     spiel.gibNächsteFrage();
     assertEquals(spiel.gibAnzahlUnbeantworterFragen(), 8);
   }
+
+  @Test
+  public void testeMethodeBeantworteFrage() {
+    assertEquals(spiel.gibAnzahlUnbeantworterFragen(), 10);
+    assertEquals(spiel.gibAnzahlBeantworterFragen(), 0);
+
+    spiel.gibNächsteFrage();
+    spiel.beantworteFrage(0);
+    assertEquals(spiel.gibAnzahlUnbeantworterFragen(), 9);
+    assertEquals(spiel.gibAnzahlBeantworterFragen(), 1);
+
+    spiel.gibNächsteFrage();
+    spiel.beantworteFrage(0);
+    assertEquals(spiel.gibAnzahlUnbeantworterFragen(), 8);
+    assertEquals(spiel.gibAnzahlBeantworterFragen(), 2);
+  }
 }
