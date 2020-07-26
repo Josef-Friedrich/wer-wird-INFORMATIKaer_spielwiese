@@ -15,10 +15,22 @@ public class Spiel {
   /**
    * Die aktuelle Fragenummer beginnend bei 1.
    */
-  private int frageNummer;
+  private int frageNummer = 0;
 
   /**
-   *
+   * Die aktuelle Frage, die gerade beantwortet wird.
+   */
+  private Frage aktuelleFrage;
+
+
+  /**
+   * Die aktuelle Schwierigkeit der ausgewählten Fragen. Die Schwierigkeit
+   * der Fragen sollte steigen. 1 ist die leichte. 5 ist schwer.
+   */
+  private int schwierigkeit = 1;
+
+  /**
+   * @todo Umbenennung in unbeantworteFragen
    */
   private Jahrgangsstufe jahrgangsstufe;
 
@@ -58,12 +70,50 @@ public class Spiel {
   }
 
   /**
-   * Entnimme eine Frage. Diese Methode wird an die Klasse {@link Jahrgangsstufe}
+   * Entnimm eine Frage. Diese Methode wird an die Klasse {@link Jahrgangsstufe}
    * weitergeleitet.
    *
    * @return
    */
-  public Frage entnimmFrage() {
-    return jahrgangsstufe.entnimmErsteFrage();
+  public Frage gibNächsteFrage() {
+    aktuelleFrage = jahrgangsstufe.entnimmFrage(schwierigkeit);
+    schwierigkeit++;
+    frageNummer++;
+    return aktuelleFrage;
+  }
+
+  /**
+   * Überprüfe, ob die Antwort zur aktuellen Frage richtig oder flasch
+   * ist.
+   *
+   * @param antwortNummer 0 = Frage A, 3 = Frage D
+   *
+   * @return
+   */
+  public boolean istAntwortRichtig(int antwortNummer) {
+    if (aktuelleFrage.gibRichtigeAntwort() == antwortNummer) {
+      return true;
+    }
+    return false;
+  }
+
+  /**
+   * Gib die akteulle Fragennummer zurück. 1 ist die erste Fragennummer
+   * und so weiter.
+   *
+   * @return
+   */
+  public int gibFragenNummer() {
+    return frageNummer;
+  }
+
+  /**
+   * Gib die Anzahl der noch unbeantwortete Fragen, die ins
+   * Spiel geladen wurden zurück.
+   *
+   * @return
+   */
+  public int gibAnzahlUnbeantworterFragen() {
+    return jahrgangsstufe.gibAnzahlFragen();
   }
 }

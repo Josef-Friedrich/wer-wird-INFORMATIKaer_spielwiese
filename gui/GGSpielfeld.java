@@ -70,7 +70,7 @@ public class GGSpielfeld extends GameGrid implements GGKeyListener {
    */
   public boolean keyPressed(KeyEvent evt) {
     if (evt.getKeyCode() == KeyEvent.VK_SPACE) {
-      Frage frage = spiel.entnimmFrage();
+      Frage frage = spiel.gibNächsteFrage();
       frage.mischeAntworten();
       zeigeFrage(frage);
     }

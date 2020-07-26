@@ -11,6 +11,8 @@ import java.util.Random;
  * Sie entspricht der Klasse „Liste“ aus dem AUD 4 Beispiel von Annabel.
  *
  * @see https://www.studon.fau.de/file2861024_download.html
+ *
+ * @todo Umbenennung in FragenListe
  */
 public class Jahrgangsstufe {
   private ListenElement kopf;

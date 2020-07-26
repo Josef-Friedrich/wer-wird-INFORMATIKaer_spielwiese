@@ -11,7 +11,7 @@ public class CSVLeserTest {
       CSVLeser leser = new CSVLeser("./Fragen.csv");
       Spiel spiel = new Spiel();
       leser.leseInSpielEin(spiel);
-      Frage frage = spiel.entnimmFrage();
+      Frage frage = spiel.gibNächsteFrage();
       assertTrue(frage.gibFragenText() instanceof String);
     } catch (Exception e) {
       //TODO: handle exception

@@ -20,9 +20,9 @@ public class Frage {
 
   /**
    * Index-Position im Feld {@link antworten}, bei der sich die richtige Antwort
-   * befindent.
+   * befindet.
    */
-  private int positionRichtigeAntwort;
+  private int richtigeAntwort;
 
   /**
    * Eine Zahl zwischen 1 und 5. 1 ist die leichteste Schwierigkeitsstufe, 5 die
@@ -38,15 +38,19 @@ public class Frage {
   /**
    * @param frage Der Text der Frage.
    * @param richtigeAntwort Der Text der richtigen Antwort.
+   * @param falscheAntwort1
+   * @param falscheAntwort2
+   * @param falscheAntwort3
+   * @param schwierigkeit
    */
   public Frage(String frage, String richtigeAntwort, String falscheAntwort1, String falscheAntwort2,
       String falscheAntwort3, int schwierigkeit) {
+    this.antworten[0] = richtigeAntwort;
+    this.antworten[1] = falscheAntwort1;
+    this.antworten[2] = falscheAntwort2;
+    this.antworten[3] = falscheAntwort3;
     this.fragenText = frage;
-    antworten[0] = richtigeAntwort;
-    positionRichtigeAntwort = 0;
-    antworten[1] = falscheAntwort1;
-    antworten[2] = falscheAntwort2;
-    antworten[3] = falscheAntwort3;
+    this.richtigeAntwort = 0;
     this.schwierigkeit = schwierigkeit;
   }
 
@@ -76,10 +80,10 @@ public class Frage {
       // positionRichtigeAntwort anpassen.
       // Die richtige Antwort kann an der j- oder an der i-ten Position
       // stehen.
-      if (j == positionRichtigeAntwort) {
-        positionRichtigeAntwort = i;
-      } else if (i == positionRichtigeAntwort) {
-        positionRichtigeAntwort = j;
+      if (j == richtigeAntwort) {
+        richtigeAntwort = i;
+      } else if (i == richtigeAntwort) {
+        richtigeAntwort = j;
       }
       // Vertausche die Antworten
       // Wir brauchen dazu eine temporäre Variable.
@@ -96,7 +100,7 @@ public class Frage {
     System.out.print("B:" + antworten[1] + " ");
     System.out.print("C:" + antworten[2] + " ");
     System.out.print("D:" + antworten[3] + " ");
-    System.out.println("Richtige Antwort: " + fragenAnfangsBuchstaben[positionRichtigeAntwort]);
+    System.out.println("Richtige Antwort: " + fragenAnfangsBuchstaben[richtigeAntwort]);
     System.out.println();
   }
 
@@ -125,5 +129,14 @@ public class Frage {
    */
   public String[] gibAntworten() {
     return antworten;
+  }
+
+  /**
+   * Gib die Index-Position der richtigen Antwort zurück.
+   *
+   * @return Alle vier Antworten als eine Feld.
+   */
+  public int gibRichtigeAntwort() {
+    return richtigeAntwort;
   }
 }
