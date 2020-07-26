@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - CliManager",
+      "request": "launch",
+      "mainClass": "cli.CliManager",
+      "projectName": "wer-wird-informatik-millionaer_spielwiese_b3cd6f91"
+    },
+    {
+      "type": "java",
       "name": "Debug (Launch) - Current File",
       "request": "launch",
       "mainClass": "SpielManager"

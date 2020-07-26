@@ -1,6 +1,6 @@
+package spiel;
+
 import org.junit.Test;
-import spiel.Spiel;
-import spiel.Frage;
 import static org.junit.Assert.assertTrue;
 
 public class CSVLeserTest {

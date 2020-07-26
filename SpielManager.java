@@ -1,4 +1,6 @@
 import spiel.Spiel;
+import spiel.CSVLeser;
+
 import gui.GGSpielfeld;
 import java.io.IOException;
 

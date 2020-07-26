@@ -39,7 +39,7 @@ public class Frage {
   /**
    * Ein Hilfsfeld, damit wir leicht die Fragen mit A B C D nummerieren können.
    */
-  private String[] fragenAnfangsBuchstaben = { "A", "B", "C", "D" };
+  private String[] buchstaben = { "A", "B", "C", "D" };
 
   /**
    * @param frage Der Text der Frage.
@@ -115,17 +115,6 @@ public class Frage {
     return false;
   }
 
-  public void stelleFrageAlsTextausgabe() {
-    mischeAntworten();
-    System.out.println(fragenText);
-    System.out.print("A:" + antworten[0] + " ");
-    System.out.print("B:" + antworten[1] + " ");
-    System.out.print("C:" + antworten[2] + " ");
-    System.out.print("D:" + antworten[3] + " ");
-    System.out.println("Richtige Antwort: " + fragenAnfangsBuchstaben[richtigeAntwort]);
-    System.out.println();
-  }
-
   /**
    * Gib die Schwierigkeit der Frage zurück.
    *
@@ -160,5 +149,9 @@ public class Frage {
    */
   public int gibRichtigeAntwort() {
     return richtigeAntwort;
+  }
+
+  public String gibBuchstabe(int antwortNr) {
+    return buchstaben[antwortNr];
   }
 }
