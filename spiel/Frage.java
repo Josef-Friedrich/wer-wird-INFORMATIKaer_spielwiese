@@ -13,6 +13,12 @@ public class Frage {
   private String fragenText;
 
   /**
+   * Die Index-Position der gegebenen Antwort. Sie kann richtig oder falsch
+   * sein. Nicht zu verwechseln mit {@link richtigeAntwort}.
+   */
+  private int antwort;
+
+  /**
    * Ein Feld mit 4 Elementen, das Text aufgenehmen kann. Wenn die Klasse Frage
    * erzeugt wird, ist die richtige Antwort das erste Element
    */
@@ -91,6 +97,22 @@ public class Frage {
       antworten[i] = antworten[j];
       antworten[j] = tmp;
     }
+  }
+
+  /**
+   * Beantworte eine Frage. Die Antwort wird als Integer abgespeichert.
+   * So kann man nach dem Spiel eine Auswertung der Fragen anzeigen.
+   *
+   * @param antwort Eine Zahl von 0 - 3.
+   *
+   * @return
+   */
+  public boolean beantworteFrage(int antwort) {
+    this.antwort = antwort;
+    if (antwort == richtigeAntwort) {
+      return true;
+    }
+    return false;
   }
 
   public void stelleFrageAlsTextausgabe() {

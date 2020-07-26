@@ -2,12 +2,14 @@ package spiel;
 
 import static org.junit.Assert.*;
 import org.junit.Test;
+import org.junit.Before;
 
 public class FrageTest {
 
   private Frage frage;
 
-  public FrageTest() {
+  @Before
+  public void erzeugeFrage() {
     frage = new Frage("Frage1", "richtig", "falsch1", "falsch2", "falsch3", 1);
   }
 
@@ -37,12 +39,19 @@ public class FrageTest {
 
   @Test
   public void testeMethodeMischeAntwort() {
-    Frage f = new Frage("Frage1", "richtig", "falsch1", "falsch2", "falsch3", 1);
-    f.mischeAntworten();
-    String[] antworten = f.gibAntworten();
+    frage.mischeAntworten();
+    String[] antworten = frage.gibAntworten();
     assertTrue(antworten[0] instanceof String);
     assertTrue(antworten[1] instanceof String);
     assertTrue(antworten[2] instanceof String);
     assertTrue(antworten[3] instanceof String);
+  }
+
+  @Test
+  public void testeMethodeBeantworteFrage() {
+    assertTrue(frage.beantworteFrage(0));
+    assertFalse(frage.beantworteFrage(1));
+    assertFalse(frage.beantworteFrage(2));
+    assertFalse(frage.beantworteFrage(3));
   }
 }
