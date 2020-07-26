@@ -3,20 +3,20 @@ package spiel;
 import static org.junit.Assert.*;
 import org.junit.Test;
 
-public class JahrgangsstufeTest {
+public class FragenListeTest {
 
   Frage frage1;
   Frage frage2;
   Frage frage3;
-  Jahrgangsstufe jahrgangsstufe;
+  FragenListe jahrgangsstufe;
 
-  public JahrgangsstufeTest() {
+  public FragenListeTest() {
     frage1 = new Frage("Frage1", "richtig", "falsch1", "falsch2", "falsch3", 1);
     frage2 = new Frage("Frage2", "richtig", "falsch1", "falsch2", "falsch3", 2);
     frage3 = new Frage("Frage3", "richtig", "falsch1", "falsch2", "falsch3", 3);
   }
 
-  void überprüfeFragenTexte(Jahrgangsstufe jahrgangsstufe, String[] fragenTexte) {
+  void überprüfeFragenTexte(FragenListe jahrgangsstufe, String[] fragenTexte) {
     Frage frage;
     for (String fragenText: fragenTexte) {
       frage = jahrgangsstufe.entnimmErsteFrage();
@@ -24,8 +24,8 @@ public class JahrgangsstufeTest {
     }
   }
 
-  Jahrgangsstufe gibBefüllteJahrgangsstufe() {
-    jahrgangsstufe = new Jahrgangsstufe();
+  FragenListe gibBefüllteJahrgangsstufe() {
+    jahrgangsstufe = new FragenListe();
     jahrgangsstufe.fügeHintenEin(frage1);
     jahrgangsstufe.fügeHintenEin(frage2);
     jahrgangsstufe.fügeHintenEin(frage3);
@@ -34,7 +34,7 @@ public class JahrgangsstufeTest {
 
   @Test
   public void testeMethodeFügeVorneEin() {
-    jahrgangsstufe = new Jahrgangsstufe();
+    jahrgangsstufe = new FragenListe();
     jahrgangsstufe.fügeVorneEin(frage1);
     jahrgangsstufe.fügeVorneEin(frage2);
     jahrgangsstufe.fügeVorneEin(frage3);
@@ -43,7 +43,7 @@ public class JahrgangsstufeTest {
 
   @Test
   public void testeMethodeFügeHintenEin() {
-    jahrgangsstufe = new Jahrgangsstufe();
+    jahrgangsstufe = new FragenListe();
     jahrgangsstufe.fügeHintenEin(frage1);
     jahrgangsstufe.fügeHintenEin(frage2);
     jahrgangsstufe.fügeHintenEin(frage3);
@@ -52,7 +52,7 @@ public class JahrgangsstufeTest {
 
   @Test
   public void testeMethodeGibAnzahl() {
-    jahrgangsstufe = new Jahrgangsstufe();
+    jahrgangsstufe = new FragenListe();
     jahrgangsstufe.fügeVorneEin(frage1);
 
     assertEquals(jahrgangsstufe.gibAnzahlFragen(), 1);
@@ -76,7 +76,7 @@ public class JahrgangsstufeTest {
   @Test
   public void testeMethodeFügeVorPositionEin() {
     Frage frage4 = new Frage("Frage4", "richtig", "falsch", "falsch", "falsch", 1);
-    Jahrgangsstufe jahrgangsstufe;
+    FragenListe jahrgangsstufe;
 
     jahrgangsstufe = gibBefüllteJahrgangsstufe();
     jahrgangsstufe.fügeVorPositionEin(frage4, 0);
@@ -102,7 +102,7 @@ public class JahrgangsstufeTest {
   @Test
   public void testeMethodeFügeZufälligEin() {
     Frage frage4 = new Frage("Frage4", "richtig", "falsch", "falsch", "falsch", 1);
-    Jahrgangsstufe jahrgangsstufe = new Jahrgangsstufe();
+    FragenListe jahrgangsstufe = new FragenListe();
     jahrgangsstufe.fügeZufälligEin(frage1);
     jahrgangsstufe.fügeZufälligEin(frage2);
     jahrgangsstufe.fügeZufälligEin(frage3);
@@ -112,7 +112,7 @@ public class JahrgangsstufeTest {
 
   @Test
   public void testeMethodeEntnimmErsteFrage() {
-    Jahrgangsstufe jahrgang = gibBefüllteJahrgangsstufe();
+    FragenListe jahrgang = gibBefüllteJahrgangsstufe();
 
     jahrgang.entnimmErsteFrage();
     assertEquals(jahrgang.gibAnzahlFragen(), 2);
@@ -129,7 +129,7 @@ public class JahrgangsstufeTest {
 
   @Test
   public void testeMethodeEntnimmFrageZuerstSchwierige() {
-    Jahrgangsstufe jahrgang = gibBefüllteJahrgangsstufe();
+    FragenListe jahrgang = gibBefüllteJahrgangsstufe();
     Frage frage;
     frage = jahrgang.entnimmFrage(3);
     assertEquals(frage.gibSchwierigkeit(), 3);
@@ -146,7 +146,7 @@ public class JahrgangsstufeTest {
 
   @Test
   public void testeMethodeEntnimmFrageZuerstLeichte() {
-    Jahrgangsstufe jahrgang = gibBefüllteJahrgangsstufe();
+    FragenListe jahrgang = gibBefüllteJahrgangsstufe();
     Frage frage;
     frage = jahrgang.entnimmFrage(1);
     assertEquals(frage.gibSchwierigkeit(), 1);
@@ -163,7 +163,7 @@ public class JahrgangsstufeTest {
 
   @Test
   public void testeMethodeEntnimmFrageNichtVorhandeneSchwierigkeit() {
-    Jahrgangsstufe jahrgang = gibBefüllteJahrgangsstufe();
+    FragenListe jahrgang = gibBefüllteJahrgangsstufe();
     Frage frage;
     frage = jahrgang.entnimmFrage(4);
     assertEquals(frage.gibSchwierigkeit(), 1);

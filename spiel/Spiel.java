@@ -30,13 +30,13 @@ public class Spiel {
   private int schwierigkeit = 1;
 
   /**
-   * @todo Umbenennung in unbeantworteFragen
+   *
    */
-  private Jahrgangsstufe jahrgangsstufe;
+  private FragenListe unbeantworteteFragen;
 
   public Spiel() {
     gewinnSumme = 50;
-    jahrgangsstufe = new Jahrgangsstufe();
+    unbeantworteteFragen = new FragenListe();
   }
 
   /**
@@ -53,7 +53,7 @@ public class Spiel {
    */
   public void erzeugeFrage(String fragenText, String richtigeAntwort, String falscheAntwort1, String falscheAntwort2,
       String falscheAntwort3, String schwierigkeit) {
-    jahrgangsstufe.erzeugeFrage(fragenText, richtigeAntwort, falscheAntwort1, falscheAntwort2, falscheAntwort3,
+    unbeantworteteFragen.erzeugeFrage(fragenText, richtigeAntwort, falscheAntwort1, falscheAntwort2, falscheAntwort3,
         schwierigkeit);
   }
 
@@ -66,17 +66,17 @@ public class Spiel {
    * @param fragen Mehrere Fragen als zweidimensionales Feld.
    */
   public void fügeFragenAlsFeldEin(String[][] fragen) {
-    jahrgangsstufe.fügeFragenAlsFeldEin(fragen);
+    unbeantworteteFragen.fügeFragenAlsFeldEin(fragen);
   }
 
   /**
-   * Entnimm eine Frage. Diese Methode wird an die Klasse {@link Jahrgangsstufe}
+   * Entnimm eine Frage. Diese Methode wird an die Klasse {@link FragenListe}
    * weitergeleitet.
    *
    * @return
    */
   public Frage gibNächsteFrage() {
-    aktuelleFrage = jahrgangsstufe.entnimmFrage(schwierigkeit);
+    aktuelleFrage = unbeantworteteFragen.entnimmFrage(schwierigkeit);
     schwierigkeit++;
     frageNummer++;
     return aktuelleFrage;
@@ -114,6 +114,6 @@ public class Spiel {
    * @return
    */
   public int gibAnzahlUnbeantworterFragen() {
-    return jahrgangsstufe.gibAnzahlFragen();
+    return unbeantworteteFragen.gibAnzahlFragen();
   }
 }

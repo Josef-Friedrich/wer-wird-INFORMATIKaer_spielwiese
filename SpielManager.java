@@ -7,7 +7,6 @@ import java.io.IOException;
  *
  * In dieser werden die zwei Pakete spiel und gui zusammengefügt.
  */
-@SuppressWarnings("serial")
 public class SpielManager {
 
   public static void main(String[] args) {
