@@ -192,6 +192,6 @@ public class FragenListeTest {
     l.entnimmFrage(1);
     assertEquals(l.gibAnzahlDatenKnoten(), 1);
     l.entnimmFrage(1);
-    assertEquals(l.gibAnzahlDatenKnoten(), 2);
+    assertEquals(l.gibAnzahlDatenKnoten(), 0);
   }
 }

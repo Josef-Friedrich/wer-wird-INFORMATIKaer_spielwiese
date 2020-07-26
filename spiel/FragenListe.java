@@ -125,9 +125,11 @@ public class FragenListe {
    */
   private void entnimmDatenKnoten(ListenElement datenKnoten, ListenElement vorhergehender) {
     if (vorhergehender != null) {
+      System.out.println("entnimmDatenKnoten vorhergehender");
       vorhergehender.setzeNächstes(datenKnoten.gibNächstes());
     } else {
-      kopf.setzeNächstes(datenKnoten.gibNächstes());
+      System.out.println("entnimmDatenKnoten kopf");
+      kopf = datenKnoten.gibNächstes();
     }
 
     anzahlFragen--;
