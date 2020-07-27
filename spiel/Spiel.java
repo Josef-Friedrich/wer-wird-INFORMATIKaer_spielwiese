@@ -41,6 +41,11 @@ public class Spiel {
    */
   private FragenListe beantworteteFragen;
 
+  /**
+   * Wenn eine Frage falsch beantwortet wird, gilt das Spiel als verloren.
+   */
+  private boolean verloren = false;
+
   public Spiel() {
     unbeantworteteFragen = new FragenListe();
     beantworteteFragen = new FragenListe();
@@ -111,8 +116,9 @@ public class Spiel {
    */
   public boolean beantworteFrage(int antwort) {
     beantworteteFragen.fügeHintenEin(aktuelleFrage);
-    boolean ergebnis = aktuelleFrage.beantworteFrage(antwort);
-    return ergebnis;
+    boolean richtig = aktuelleFrage.beantworteFrage(antwort);
+    verloren = !richtig;
+    return richtig;
   }
 
   /**

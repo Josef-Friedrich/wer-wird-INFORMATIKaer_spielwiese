@@ -13,10 +13,11 @@ public class Frage {
   private String fragenText;
 
   /**
-   * Die Index-Position der gegebenen Antwort. Sie kann richtig oder falsch
-   * sein. Nicht zu verwechseln mit {@link richtigeAntwort}.
+   * Die Index-Position der gegebenen Antwort. Sie kann richtig oder falsch sein.
+   * Nicht zu verwechseln mit {@link richtigeAntwort}. Der Standardwert für dieses
+   * Feld ist -1, d. h. die Frage wurde noch nicht beantwortet.
    */
-  private int antwort;
+  private int gegebeneAntwort = -1;
 
   /**
    * Ein Feld mit 4 Elementen, das Text aufgenehmen kann. Wenn die Klasse Frage
@@ -42,7 +43,7 @@ public class Frage {
   private String[] buchstaben = { "A", "B", "C", "D" };
 
   /**
-   * @param frage Der Text der Frage.
+   * @param frage           Der Text der Frage.
    * @param richtigeAntwort Der Text der richtigen Antwort.
    * @param falscheAntwort1
    * @param falscheAntwort2
@@ -100,15 +101,15 @@ public class Frage {
   }
 
   /**
-   * Beantworte eine Frage. Die Antwort wird als Integer abgespeichert.
-   * So kann man nach dem Spiel eine Auswertung der Fragen anzeigen.
+   * Beantworte eine Frage. Die Antwort wird als Integer abgespeichert. So kann
+   * man nach dem Spiel eine Auswertung der Fragen anzeigen.
    *
    * @param antwort Eine Zahl von 0 - 3.
    *
    * @return
    */
   public boolean beantworteFrage(int antwort) {
-    this.antwort = antwort;
+    this.gegebeneAntwort = antwort;
     if (antwort == richtigeAntwort) {
       return true;
     }
@@ -145,13 +146,47 @@ public class Frage {
   /**
    * Gib die Index-Position der richtigen Antwort zurück.
    *
-   * @return Alle vier Antworten als eine Feld.
+   * @return
+   */
+  public int gibGegebeneAntwort() {
+    return gegebeneAntwort;
+  }
+
+  /**
+   * Gib die Index-Position der gegeben Antwort zurück.
+   *
+   * @return
    */
   public int gibRichtigeAntwort() {
     return richtigeAntwort;
   }
 
+  /**
+   * Gib den Text der richtigen Antwort zurück
+   *
+   * @return
+   */
+  public String gibRichtigeAntwortText() {
+    return antworten[richtigeAntwort];
+  }
+
+  /**
+   *
+   * @param antwortNr 0 = A, 3 = D
+   * @return
+   */
   public String gibBuchstabe(int antwortNr) {
     return buchstaben[antwortNr];
+  }
+
+  /**
+   *
+   * @return
+   */
+  public boolean istRichtigBeantwortet() throws Exception {
+    if (gegebeneAntwort == -1) {
+      throw new Exception("Frage wurde noch nicht beantwortet");
+    }
+    return richtigeAntwort == gegebeneAntwort;
   }
 }
