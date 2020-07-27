@@ -10,7 +10,8 @@ public class Spiel {
    * Im der deutschen Fernsehsendung wird nicht immer verdoppelt, sondern manchmal
    * ein Betrag gewählt, sodass am Ende 1 Million gewonnen werden.
    */
-  private int gewinnSumme;
+  private int[] gewinnSumme = { 50, 100, 200, 300, 500, 1000, 2000, 4000, 8000, 16000, 32000, 64000, 125000, 50000,
+      1000000 };
 
   /**
    * Die aktuelle Fragenummer beginnend bei 1.
@@ -22,28 +23,25 @@ public class Spiel {
    */
   private Frage aktuelleFrage;
 
-
   /**
-   * Die aktuelle Schwierigkeit der ausgewählten Fragen. Die Schwierigkeit
-   * der Fragen sollte steigen. 1 ist die leichte. 5 ist schwer.
+   * Die aktuelle Schwierigkeit der ausgewählten Fragen. Die Schwierigkeit der
+   * Fragen sollte steigen. 1 ist die leichte. 5 ist schwer.
    */
   private int schwierigkeit = 1;
 
   /**
-   * Eine Liste der zu unbeantwortenden Fragen. Wird eine Frage
-   * beantwortet wird sind in die Liste {@link beantworteteFragen}
-   * hinzugefügt.
+   * Eine Liste der zu unbeantwortenden Fragen. Wird eine Frage beantwortet wird
+   * sind in die Liste {@link beantworteteFragen} hinzugefügt.
    */
   private FragenListe unbeantworteteFragen;
 
   /**
-   * Eine Liste der beantworteten Fragen. Die Liste ist nützlich
-   * um eine Übersicht über die bereits gegeben Antworten zu erzeugen.
+   * Eine Liste der beantworteten Fragen. Die Liste ist nützlich um eine Übersicht
+   * über die bereits gegeben Antworten zu erzeugen.
    */
   private FragenListe beantworteteFragen;
 
   public Spiel() {
-    gewinnSumme = 50;
     unbeantworteteFragen = new FragenListe();
     beantworteteFragen = new FragenListe();
   }
@@ -92,8 +90,7 @@ public class Spiel {
   }
 
   /**
-   * Überprüfe, ob die Antwort zur aktuellen Frage richtig oder flasch
-   * ist.
+   * Überprüfe, ob die Antwort zur aktuellen Frage richtig oder flasch ist.
    *
    * @param antwort 0 = Frage A, 3 = Frage D
    *
@@ -119,8 +116,8 @@ public class Spiel {
   }
 
   /**
-   * Gib die aktuelle Fragennummer zurück. 1 ist die erste Fragennummer
-   * und so weiter.
+   * Gib die aktuelle Fragennummer zurück. 1 ist die erste Fragennummer und so
+   * weiter.
    *
    * @return
    */
@@ -129,8 +126,8 @@ public class Spiel {
   }
 
   /**
-   * Gib die Anzahl der noch unbeantwortete Fragen, die ins
-   * Spiel geladen wurden zurück.
+   * Gib die Anzahl der noch unbeantworteten Fragen, die ins Spiel geladen wurden
+   * zurück.
    *
    * @return
    */
@@ -145,5 +142,25 @@ public class Spiel {
    */
   public int gibAnzahlBeantworterFragen() {
     return beantworteteFragen.gibAnzahlFragen();
+  }
+
+  /**
+   * Gib die aktuelle Gewinnsumme aus.
+   *
+   * @return
+   */
+  public double gibGewinnSumme() {
+    if (frageNummer == 0) {
+      return 0;
+    } else if (frageNummer <= 15) {
+      return gewinnSumme[frageNummer - 1];
+    } else {
+      // Ist eine Million erreicht (bei der 15 Frage) verdoppeln wir
+      // bei jeder neuen Frage:
+      // 16. Frage 2.000.000
+      // 17. Frage 4.000.000
+      int potenz = frageNummer - 15;
+      return 1000000 * Math.pow(2, potenz);
+    }
   }
 }

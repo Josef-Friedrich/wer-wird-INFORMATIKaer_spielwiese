@@ -4,6 +4,8 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 import org.junit.Before;
 
+import java.lang.reflect.Field;
+
 public class SpielTest {
 
   private Spiel spiel;
@@ -66,5 +68,24 @@ public class SpielTest {
     spiel.beantworteFrage(0);
     assertEquals(spiel.gibAnzahlUnbeantworterFragen(), 8);
     assertEquals(spiel.gibAnzahlBeantworterFragen(), 2);
+  }
+
+  @Test
+  public void testeMethodeGibGewinnSumme() throws NoSuchFieldException, IllegalAccessException {
+    assertEquals(spiel.gibGewinnSumme(), 0, 0);
+    Field frageNummer = Spiel.class.getDeclaredField("frageNummer");
+    frageNummer.setAccessible(true);
+
+    frageNummer.set(spiel, 1);
+    assertEquals(spiel.gibGewinnSumme(), 50, 0);
+
+    frageNummer.set(spiel, 2);
+    assertEquals(spiel.gibGewinnSumme(), 100, 0);
+
+    frageNummer.set(spiel, 15);
+    assertEquals(spiel.gibGewinnSumme(), 1000000, 0);
+
+    frageNummer.set(spiel, 16);
+    assertEquals(spiel.gibGewinnSumme(), 2000000, 0);
   }
 }
