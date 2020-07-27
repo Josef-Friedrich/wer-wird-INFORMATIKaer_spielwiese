@@ -3,6 +3,7 @@ package spiel;
 import static org.junit.Assert.*;
 import org.junit.Test;
 import org.junit.Before;
+import java.lang.reflect.Field;
 
 public class FrageTest {
 
@@ -24,12 +25,24 @@ public class FrageTest {
   }
 
   @Test
-  public void testeMethodeGibAntworten() {
+  public void testeMethodeGibAntworten() throws NoSuchFieldException, IllegalAccessException {
     String[] antworten = frage.gibAntworten();
     assertEquals(antworten[0], "richtig");
     assertEquals(antworten[1], "falsch1");
     assertEquals(antworten[2], "falsch2");
     assertEquals(antworten[3], "falsch3");
+
+    Field feldAntworten = Frage.class.getDeclaredField("antworten");
+    feldAntworten.setAccessible(true);
+    String[] neueAntworten = { "eins", "zwei", "drei", "vier" };
+    feldAntworten.set(frage, neueAntworten);
+
+    antworten = frage.gibAntworten();
+    assertEquals(antworten[0], "eins");
+    assertEquals(antworten[1], "zwei");
+    assertEquals(antworten[2], "drei");
+    assertEquals(antworten[3], "vier");
+    feldAntworten.setAccessible(false);
   }
 
   @Test
