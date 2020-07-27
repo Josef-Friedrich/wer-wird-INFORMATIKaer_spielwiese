@@ -24,6 +24,7 @@ public class CliManager {
     System.out.print("In welcher Jahrgangsstufe bist du? (6 oder 7): ");
     Scanner scanner = new Scanner(System.in);
     int jahrgangsstufe = scanner.nextInt();
+
     System.out.println(String.format("Du bist in der %s. Jahrgangsstufe.", jahrgangsstufe));
 
     Spiel spiel = new Spiel();
@@ -35,11 +36,16 @@ public class CliManager {
       //TODO: handle exception
     }
 
-    Frage frage = spiel.gibNächsteFrage();
-    CliFrage cliFrage = new CliFrage(frage);
-    cliFrage.stelleFrageAlsTextausgabe();
+    boolean nochImSpiel = true;
+
+    while (nochImSpiel) {
+      Frage frage = spiel.gibNächsteFrage();
+      CliFrage cliFrage = new CliFrage(frage);
+      cliFrage.stelleFrageAlsTextausgabe();
+      int antwort = cliFrage.holeAntwort(scanner);
+      nochImSpiel = spiel.beantworteFrage(antwort);
+    }
 
     scanner.close();
-
   }
 }
