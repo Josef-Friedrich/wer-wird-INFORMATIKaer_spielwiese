@@ -155,7 +155,7 @@ public class Spiel {
    *
    * @return
    */
-  public double gibGewinnSumme() {
+  public long gibGewinnSumme() {
     if (frageNummer == 0) {
       return 0;
     } else if (frageNummer <= 15) {
@@ -166,7 +166,14 @@ public class Spiel {
       // 16. Frage 2.000.000
       // 17. Frage 4.000.000
       int potenz = frageNummer - 15;
-      return 1000000 * Math.pow(2, potenz);
+      return Math.round(1000000 * Math.pow(2, potenz));
     }
+  }
+
+  /**
+   * Zeige an, ob das Spiel gewonnen oder verloren wurde.
+   */
+  public boolean istVerloren() {
+    return verloren;
   }
 }

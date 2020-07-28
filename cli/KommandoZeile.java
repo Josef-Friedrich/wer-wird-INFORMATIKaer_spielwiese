@@ -5,6 +5,8 @@ import spiel.Frage;
 import spiel.CSVLeser;
 import java.util.Scanner;
 import java.io.IOException;
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
 
 public class KommandoZeile {
 
@@ -52,33 +54,63 @@ public class KommandoZeile {
     return -1;
   }
 
+  /**
+   * @param scanner
+   *
+   * @return
+   */
   private static int frageNachAntwort(Scanner scanner) {
     System.out.print("\nDeine Antwort (a, b, c, d): ");
     String auswahl = scanner.next();
     return konvertiereAntwort(auswahl);
   }
 
-  private static boolean frageNachWeiterspielen(Scanner scanner) {
-    System.out.print("\nWeiter spielen, ja oder nein? (j, n): ");
-    String eingabe = scanner.next();
+  /**
+   * Frage in der Kommandozeile, ob weitergespielt werden soll oder
+   * nicht. Es können sowohl Klein- als auch Großbuchstaben eingegeben
+   * werden. Wird nichts eingegeben, dann bedeutet das ja.
+   *
+   * @param scanner
+   *
+   * @return
+   */
+  private static boolean frageNachWeiterspielen() throws IOException {
+    System.out.print("Weiter spielen, ja oder nein? (J, n): ");
+    // https://stackoverflow.com/a/1323799/10193818
+    // Hier kann nicht der Scanner verwendet werden, weil wir die
+    // Möglichkeite haben wollen eine Standardeingabe zu bekommen, d. h.
+    // gibt der Benutzer nichts ein und drückt Return, dann soll das für
+    // Ja stehen.
+    BufferedReader input = new BufferedReader(new InputStreamReader(System.in));
+    String eingabe = input.readLine();
+    eingabe = eingabe.trim();
     eingabe = eingabe.toLowerCase();
-    if (eingabe.equals("j")) {
+    if (eingabe.equals("") || eingabe.equals("j")) {
       return true;
     }
     return false;
   }
 
-  private static void zeigeFragenErgebnis(Frage frage) throws Exception {
+  /**
+   * @param frage
+   *
+   * @return
+   */
+  private static void zeigeFragenErgebnis(Spiel spiel, Frage frage) throws Exception {
     String buchstabeRichtig = frage.gibBuchstabe(frage.gibRichtigeAntwort());
     String buchstabeAntwort = frage.gibBuchstabe(frage.gibGegebeneAntwort());
     if (frage.istRichtigBeantwortet()) {
       System.out.println(String.format("Die Antwort %s war richtig!", buchstabeAntwort));
+      System.out.println(String.format("Deine momentane Gewinnsumme: %s €", spiel.gibGewinnSumme()));
     } else {
       System.out.println(String.format("Die Antwort %s war falsch! Richtig ist Antwort %s: %s", buchstabeAntwort,
           buchstabeRichtig, frage.gibRichtigeAntwortText()));
     }
   }
 
+  /**
+   * Zeige ein Logo in ASCII art.
+   */
   private static void zeigeASCIILogo() {
     String[] zeilen = { "                         ", "        R    W   I       ", "    E               R    ",
         "  W                   D  ", "                         ", "                         ",
@@ -88,6 +120,21 @@ public class KommandoZeile {
     System.out.println(String.join("\n", zeilen));
   }
 
+  /**
+   * Zeige eine Meldung in der Kommando-Zeile am Spiel-Ende. Zeige
+   * die Gewinnsumme.
+   */
+  private static void zeigeSpielEnde(Spiel spiel) {
+    if (spiel.istVerloren()) {
+      System.out.println("Du hast leider verloren!");
+    } else {
+      System.out.println(String.format("Gratulation! Du hast %s € gewonnen!", spiel.gibGewinnSumme()));
+    }
+  }
+
+  /**
+   *
+   */
   public static void main(String[] args) throws Exception, IOException {
     System.out.println("Willkommen bei „Wer wird INFORMATIKär (INFORMATIK-Millionär)");
     zeigeASCIILogo();
@@ -110,13 +157,15 @@ public class KommandoZeile {
       stelleFrageAlsTextausgabe(spiel, frage);
       int antwort = frageNachAntwort(scanner);
       boolean richtig = spiel.beantworteFrage(antwort);
-      zeigeFragenErgebnis(frage);
+      zeigeFragenErgebnis(spiel, frage);
       if (richtig) {
-        nochImSpiel = frageNachWeiterspielen(scanner);
+        nochImSpiel = frageNachWeiterspielen();
       } else {
         nochImSpiel = richtig;
       }
     }
+
+    zeigeSpielEnde(spiel);
 
     scanner.close();
   }
