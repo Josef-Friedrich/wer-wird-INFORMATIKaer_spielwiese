@@ -1,0 +1,1119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Mathe</fach>
+    <thema>Umrechnung von Flächenmaßen</thema>
+    <autor>A. Bergkemper, Stand 9.7.02</autor>
+    <anzahlFragen>111</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>#leicht (bis 1000 Euro) #mittel (2000 bis 32000 Euro) #schwer (64000 - 500000 Euro) #umkehrung (64000-500000)</fragenText>
+            <richtigeAntwort/>
+            <falscheAntwort1/>
+            <falscheAntwort2/>
+            <falscheAntwort3/>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>15</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>#leicht (bis 1000 Euro)</fragenText>
+            <richtigeAntwort/>
+            <falscheAntwort1/>
+            <falscheAntwort2/>
+            <falscheAntwort3/>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>15</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>1 cm²</fragenText>
+            <richtigeAntwort>100 mm²</richtigeAntwort>
+            <falscheAntwort1>0,1 mm²</falscheAntwort1>
+            <falscheAntwort2>10 mm²</falscheAntwort2>
+            <falscheAntwort3>1.000 mm²</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>2 m²</fragenText>
+            <richtigeAntwort>200 dm²</richtigeAntwort>
+            <falscheAntwort1>0,2 dm²</falscheAntwort1>
+            <falscheAntwort2>20 dm²</falscheAntwort2>
+            <falscheAntwort3>2.000 dm²</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>1 m²</fragenText>
+            <richtigeAntwort>100 dm²</richtigeAntwort>
+            <falscheAntwort1>0,1 dm²</falscheAntwort1>
+            <falscheAntwort2>10 dm²</falscheAntwort2>
+            <falscheAntwort3>1.000 dm²</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>3 mm²</fragenText>
+            <richtigeAntwort>0,03 cm²</richtigeAntwort>
+            <falscheAntwort1>300 cm²</falscheAntwort1>
+            <falscheAntwort2>0,3 cm²</falscheAntwort2>
+            <falscheAntwort3>30 cm²</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>1 mm²</fragenText>
+            <richtigeAntwort>0,01 cm²</richtigeAntwort>
+            <falscheAntwort1>100 cm²</falscheAntwort1>
+            <falscheAntwort2>0,1 cm²</falscheAntwort2>
+            <falscheAntwort3>10 cm²</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>4 cm²</fragenText>
+            <richtigeAntwort>0,04 dm²</richtigeAntwort>
+            <falscheAntwort1>0,004 dm²</falscheAntwort1>
+            <falscheAntwort2>0,4 dm²</falscheAntwort2>
+            <falscheAntwort3>400 dm²</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>1 cm²</fragenText>
+            <richtigeAntwort>0,01 dm²</richtigeAntwort>
+            <falscheAntwort1>0,001 dm²</falscheAntwort1>
+            <falscheAntwort2>0,1 dm²</falscheAntwort2>
+            <falscheAntwort3>100 dm²</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>5 dm²</fragenText>
+            <richtigeAntwort>0,05 m²</richtigeAntwort>
+            <falscheAntwort1>50 m²</falscheAntwort1>
+            <falscheAntwort2>0,5 m²</falscheAntwort2>
+            <falscheAntwort3>500 m²</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>1 dm²</fragenText>
+            <richtigeAntwort>0,01 m²</richtigeAntwort>
+            <falscheAntwort1>10 m²</falscheAntwort1>
+            <falscheAntwort2>0,1 m²</falscheAntwort2>
+            <falscheAntwort3>100 m²</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>2 dm²</fragenText>
+            <richtigeAntwort>200 cm²</richtigeAntwort>
+            <falscheAntwort1>0,2 cm²</falscheAntwort1>
+            <falscheAntwort2>20 cm²</falscheAntwort2>
+            <falscheAntwort3>0,02 cm²</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>1 dm²</fragenText>
+            <richtigeAntwort>100 cm²</richtigeAntwort>
+            <falscheAntwort1>0,1 cm²</falscheAntwort1>
+            <falscheAntwort2>10 cm²</falscheAntwort2>
+            <falscheAntwort3>0,01 cm²</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>7 m²</fragenText>
+            <richtigeAntwort>70.000 cm²</richtigeAntwort>
+            <falscheAntwort1>7.000.000 cm²</falscheAntwort1>
+            <falscheAntwort2>700.000 cm²</falscheAntwort2>
+            <falscheAntwort3>7.000 cm²</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>1 m²</fragenText>
+            <richtigeAntwort>10.000 cm²</richtigeAntwort>
+            <falscheAntwort1>1.000.000 cm²</falscheAntwort1>
+            <falscheAntwort2>100.000 cm²</falscheAntwort2>
+            <falscheAntwort3>1.000 cm²</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>400 cm² =</fragenText>
+            <richtigeAntwort>4 dm²</richtigeAntwort>
+            <falscheAntwort1>40 dm²</falscheAntwort1>
+            <falscheAntwort2>0,4 dm²</falscheAntwort2>
+            <falscheAntwort3>0,04 dm²</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>200 cm² =</fragenText>
+            <richtigeAntwort>2 dm²</richtigeAntwort>
+            <falscheAntwort1>20 dm²</falscheAntwort1>
+            <falscheAntwort2>0,2 dm²</falscheAntwort2>
+            <falscheAntwort3>0,02 dm²</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>53 dm²</fragenText>
+            <richtigeAntwort>5.300 cm²</richtigeAntwort>
+            <falscheAntwort1>5,3 cm²</falscheAntwort1>
+            <falscheAntwort2>530 cm²</falscheAntwort2>
+            <falscheAntwort3>0,53 cm²</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>23 dm²</fragenText>
+            <richtigeAntwort>2300 cm²</richtigeAntwort>
+            <falscheAntwort1>2,3 cm²</falscheAntwort1>
+            <falscheAntwort2>230 cm²</falscheAntwort2>
+            <falscheAntwort3>0,23 cm²</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>846 cm²</fragenText>
+            <richtigeAntwort>8,46 dm²</richtigeAntwort>
+            <falscheAntwort1>84,6 dm²</falscheAntwort1>
+            <falscheAntwort2>8.460 dm²</falscheAntwort2>
+            <falscheAntwort3>0,846 dm²</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>546 cm²</fragenText>
+            <richtigeAntwort>5,46 dm²</richtigeAntwort>
+            <falscheAntwort1>54,6 dm²</falscheAntwort1>
+            <falscheAntwort2>5.460 dm²</falscheAntwort2>
+            <falscheAntwort3>0,546 dm²</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>182 mm²</fragenText>
+            <richtigeAntwort>1,82 cm²</richtigeAntwort>
+            <falscheAntwort1>1.820 cm²</falscheAntwort1>
+            <falscheAntwort2>18,2 cm²</falscheAntwort2>
+            <falscheAntwort3>0,182 cm²</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>982 mm²</fragenText>
+            <richtigeAntwort>9,82 cm²</richtigeAntwort>
+            <falscheAntwort1>9.820 cm²</falscheAntwort1>
+            <falscheAntwort2>98,2 cm²</falscheAntwort2>
+            <falscheAntwort3>0,982 cm²</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,22 dm²</fragenText>
+            <richtigeAntwort>22 cm²</richtigeAntwort>
+            <falscheAntwort1>2,2 cm²</falscheAntwort1>
+            <falscheAntwort2>220 cm²</falscheAntwort2>
+            <falscheAntwort3>0,022 cm²</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,28 dm²</fragenText>
+            <richtigeAntwort>28 cm²</richtigeAntwort>
+            <falscheAntwort1>2,8 cm²</falscheAntwort1>
+            <falscheAntwort2>280 cm²</falscheAntwort2>
+            <falscheAntwort3>0,028 cm²</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>2.589 mm²</fragenText>
+            <richtigeAntwort>25,89 cm²</richtigeAntwort>
+            <falscheAntwort1>258,9 cm²</falscheAntwort1>
+            <falscheAntwort2>2,589 cm²</falscheAntwort2>
+            <falscheAntwort3>0,2589 cm²</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>4.589 mm²</fragenText>
+            <richtigeAntwort>45,89 cm²</richtigeAntwort>
+            <falscheAntwort1>458,9 cm²</falscheAntwort1>
+            <falscheAntwort2>4,589 cm²</falscheAntwort2>
+            <falscheAntwort3>0,4589 cm²</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>132 cm²</fragenText>
+            <richtigeAntwort>1,32 dm²</richtigeAntwort>
+            <falscheAntwort1>13,2 dm²</falscheAntwort1>
+            <falscheAntwort2>0,132 dm²</falscheAntwort2>
+            <falscheAntwort3>1.320 dm²</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>422 cm²</fragenText>
+            <richtigeAntwort>4,22 dm²</richtigeAntwort>
+            <falscheAntwort1>42,2 dm²</falscheAntwort1>
+            <falscheAntwort2>0,422 dm²</falscheAntwort2>
+            <falscheAntwort3>4.220 dm²</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>8 m²</fragenText>
+            <richtigeAntwort>80.000 cm²</richtigeAntwort>
+            <falscheAntwort1>800 cm²</falscheAntwort1>
+            <falscheAntwort2>8.000 cm²</falscheAntwort2>
+            <falscheAntwort3>80 cm²</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>2 m²</fragenText>
+            <richtigeAntwort>20.000 cm²</richtigeAntwort>
+            <falscheAntwort1>200 cm²</falscheAntwort1>
+            <falscheAntwort2>2.000 cm²</falscheAntwort2>
+            <falscheAntwort3>20 cm²</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>5.233 mm²</fragenText>
+            <richtigeAntwort>52,33 cm²</richtigeAntwort>
+            <falscheAntwort1>0,5233 cm²</falscheAntwort1>
+            <falscheAntwort2>523,3 cm²</falscheAntwort2>
+            <falscheAntwort3>52.330 cm²</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>7.233 mm²</fragenText>
+            <richtigeAntwort>72,33 cm²</richtigeAntwort>
+            <falscheAntwort1>0,7233 cm²</falscheAntwort1>
+            <falscheAntwort2>723,3 cm²</falscheAntwort2>
+            <falscheAntwort3>72.330 cm²</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,0426 m²</fragenText>
+            <richtigeAntwort>4,26 dm²</richtigeAntwort>
+            <falscheAntwort1>0,426 dm²</falscheAntwort1>
+            <falscheAntwort2>42,6 dm²</falscheAntwort2>
+            <falscheAntwort3>426 dm²</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,0456 m²</fragenText>
+            <richtigeAntwort>4,56 dm²</richtigeAntwort>
+            <falscheAntwort1>0,456 dm²</falscheAntwort1>
+            <falscheAntwort2>45,6 dm²</falscheAntwort2>
+            <falscheAntwort3>456 dm²</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>4,5 dm²</fragenText>
+            <richtigeAntwort>0,045 m²</richtigeAntwort>
+            <falscheAntwort1>0,45 m²</falscheAntwort1>
+            <falscheAntwort2>0,0045 m²</falscheAntwort2>
+            <falscheAntwort3>0,450 m²</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>3,5 dm²</fragenText>
+            <richtigeAntwort>0,035 m²</richtigeAntwort>
+            <falscheAntwort1>0,35 m²</falscheAntwort1>
+            <falscheAntwort2>0,0035 m²</falscheAntwort2>
+            <falscheAntwort3>0,350 m²</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>579 cm²</fragenText>
+            <richtigeAntwort>57.900 mm²</richtigeAntwort>
+            <falscheAntwort1>57,9 mm²</falscheAntwort1>
+            <falscheAntwort2>5.790 mm²</falscheAntwort2>
+            <falscheAntwort3>57,90 mm²</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>5,02 dm²</fragenText>
+            <richtigeAntwort>502 cm²</richtigeAntwort>
+            <falscheAntwort1>0,502 cm²</falscheAntwort1>
+            <falscheAntwort2>50,2 cm²</falscheAntwort2>
+            <falscheAntwort3>50,20 cm²</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>728,4 mm²</fragenText>
+            <richtigeAntwort>7,284 cm²</richtigeAntwort>
+            <falscheAntwort1>72,840 cm²</falscheAntwort1>
+            <falscheAntwort2>72,84 cm²</falscheAntwort2>
+            <falscheAntwort3>7.284 cm²</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>128,4 mm²</fragenText>
+            <richtigeAntwort>1,284 cm²</richtigeAntwort>
+            <falscheAntwort1>12,840 cm²</falscheAntwort1>
+            <falscheAntwort2>12,84 cm²</falscheAntwort2>
+            <falscheAntwort3>1.284 cm²</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,177 cm²</fragenText>
+            <richtigeAntwort>0,00177 dm²</richtigeAntwort>
+            <falscheAntwort1>1,77 dm²</falscheAntwort1>
+            <falscheAntwort2>0,0177 dm²</falscheAntwort2>
+            <falscheAntwort3>1,770 dm²</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,377 cm²</fragenText>
+            <richtigeAntwort>0,00377 dm²</richtigeAntwort>
+            <falscheAntwort1>3,77 dm²</falscheAntwort1>
+            <falscheAntwort2>0,0377 dm²</falscheAntwort2>
+            <falscheAntwort3>3,770 dm²</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>#mittel (2000 - 320000 Euro)</fragenText>
+            <richtigeAntwort/>
+            <falscheAntwort1/>
+            <falscheAntwort2/>
+            <falscheAntwort3/>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>15</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,0279 dm²</fragenText>
+            <richtigeAntwort>2,79 cm²</richtigeAntwort>
+            <falscheAntwort1>27,9 cm²</falscheAntwort1>
+            <falscheAntwort2>0,279 cm²</falscheAntwort2>
+            <falscheAntwort3>279 cm²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,0479 dm²</fragenText>
+            <richtigeAntwort>4,79 cm²</richtigeAntwort>
+            <falscheAntwort1>47,9 cm²</falscheAntwort1>
+            <falscheAntwort2>0,479 cm²</falscheAntwort2>
+            <falscheAntwort3>479 cm²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>3 m² =</fragenText>
+            <richtigeAntwort>30.000 cm²</richtigeAntwort>
+            <falscheAntwort1>300 cm²</falscheAntwort1>
+            <falscheAntwort2>3.000 cm²</falscheAntwort2>
+            <falscheAntwort3>300.000 cm²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>19,3 cm²</fragenText>
+            <richtigeAntwort>1.930 mm²</richtigeAntwort>
+            <falscheAntwort1>1,93 mm²</falscheAntwort1>
+            <falscheAntwort2>19,3 mm²</falscheAntwort2>
+            <falscheAntwort3>0,193 mm²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>14,3 cm²</fragenText>
+            <richtigeAntwort>1.430 mm²</richtigeAntwort>
+            <falscheAntwort1>1,43 mm²</falscheAntwort1>
+            <falscheAntwort2>14,3 mm²</falscheAntwort2>
+            <falscheAntwort3>0,143 mm²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,0725 m²</fragenText>
+            <richtigeAntwort>7,25 dm²</richtigeAntwort>
+            <falscheAntwort1>0,725 dm²</falscheAntwort1>
+            <falscheAntwort2>725 dm²</falscheAntwort2>
+            <falscheAntwort3>72,5 dm²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,0225 m²</fragenText>
+            <richtigeAntwort>2,25 dm²</richtigeAntwort>
+            <falscheAntwort1>0,225 dm²</falscheAntwort1>
+            <falscheAntwort2>225 dm²</falscheAntwort2>
+            <falscheAntwort3>22,5 dm²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>42 m²</fragenText>
+            <richtigeAntwort>420.000 cm²</richtigeAntwort>
+            <falscheAntwort1>4.200 cm²</falscheAntwort1>
+            <falscheAntwort2>42.000 cm²</falscheAntwort2>
+            <falscheAntwort3>0,0042 cm²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>22 m²</fragenText>
+            <richtigeAntwort>220.000 cm²</richtigeAntwort>
+            <falscheAntwort1>2.200 cm²</falscheAntwort1>
+            <falscheAntwort2>22.000 cm²</falscheAntwort2>
+            <falscheAntwort3>0,0022 cm²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>6,3 dm²</fragenText>
+            <richtigeAntwort>63.000 mm²</richtigeAntwort>
+            <falscheAntwort1>6.300 mm²</falscheAntwort1>
+            <falscheAntwort2>630.000 mm²</falscheAntwort2>
+            <falscheAntwort3>0,063 mm²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>3,3 dm²</fragenText>
+            <richtigeAntwort>33.000 mm²</richtigeAntwort>
+            <falscheAntwort1>3.300 mm²</falscheAntwort1>
+            <falscheAntwort2>330.000 mm²</falscheAntwort2>
+            <falscheAntwort3>0,033 mm²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,578 dm²</fragenText>
+            <richtigeAntwort>0,00578 m²</richtigeAntwort>
+            <falscheAntwort1>57,8 m²</falscheAntwort1>
+            <falscheAntwort2>0,0578 m²</falscheAntwort2>
+            <falscheAntwort3>578 m²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,278 dm²</fragenText>
+            <richtigeAntwort>0,00278 m²</richtigeAntwort>
+            <falscheAntwort1>27,8 m²</falscheAntwort1>
+            <falscheAntwort2>0,0278 m²</falscheAntwort2>
+            <falscheAntwort3>278 m²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>704 cm²</fragenText>
+            <richtigeAntwort>0,0704 m²</richtigeAntwort>
+            <falscheAntwort1>7,04 m²</falscheAntwort1>
+            <falscheAntwort2>0,704 m²</falscheAntwort2>
+            <falscheAntwort3>70,4 m²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>794 cm²</fragenText>
+            <richtigeAntwort>0,0794 m²</richtigeAntwort>
+            <falscheAntwort1>7,94 m²</falscheAntwort1>
+            <falscheAntwort2>0,794 m²</falscheAntwort2>
+            <falscheAntwort3>79,4 m²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>2.533 cm²</fragenText>
+            <richtigeAntwort>0,2533 m²</richtigeAntwort>
+            <falscheAntwort1>2,533 m²</falscheAntwort1>
+            <falscheAntwort2>0,02533 m²</falscheAntwort2>
+            <falscheAntwort3>25,33 m²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>9.533 cm²</fragenText>
+            <richtigeAntwort>0,9533 m²</richtigeAntwort>
+            <falscheAntwort1>9,533 m²</falscheAntwort1>
+            <falscheAntwort2>0,09533 m²</falscheAntwort2>
+            <falscheAntwort3>95,33 m²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>62.300 cm²</fragenText>
+            <richtigeAntwort>6,23 m²</richtigeAntwort>
+            <falscheAntwort1>62,3 m²</falscheAntwort1>
+            <falscheAntwort2>0,623 m²</falscheAntwort2>
+            <falscheAntwort3>623 m²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>12.300 cm²</fragenText>
+            <richtigeAntwort>1,23 m²</richtigeAntwort>
+            <falscheAntwort1>12,3 m²</falscheAntwort1>
+            <falscheAntwort2>0,123 m²</falscheAntwort2>
+            <falscheAntwort3>123 m²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>308 mm²</fragenText>
+            <richtigeAntwort>0,0308 dm²</richtigeAntwort>
+            <falscheAntwort1>0,00308 dm²</falscheAntwort1>
+            <falscheAntwort2>0,308 dm²</falscheAntwort2>
+            <falscheAntwort3>0,003080 dm²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>398 mm²</fragenText>
+            <richtigeAntwort>0,0398 dm²</richtigeAntwort>
+            <falscheAntwort1>0,00398 dm²</falscheAntwort1>
+            <falscheAntwort2>0,398 dm²</falscheAntwort2>
+            <falscheAntwort3>0,003980 dm²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>2.900 mm²</fragenText>
+            <richtigeAntwort>0,29 dm²</richtigeAntwort>
+            <falscheAntwort1>2,9 dm²</falscheAntwort1>
+            <falscheAntwort2>0,029 dm²</falscheAntwort2>
+            <falscheAntwort3>29 dm²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>7.900 mm²</fragenText>
+            <richtigeAntwort>0,79 dm²</richtigeAntwort>
+            <falscheAntwort1>7,9 dm²</falscheAntwort1>
+            <falscheAntwort2>0,079 dm²</falscheAntwort2>
+            <falscheAntwort3>79 dm²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,16 dm²</fragenText>
+            <richtigeAntwort>1.600 mm²</richtigeAntwort>
+            <falscheAntwort1>16.000 mm²</falscheAntwort1>
+            <falscheAntwort2>160 mm²</falscheAntwort2>
+            <falscheAntwort3>16 mm²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,56 dm²</fragenText>
+            <richtigeAntwort>5.600 mm²</richtigeAntwort>
+            <falscheAntwort1>56.000 mm²</falscheAntwort1>
+            <falscheAntwort2>560 mm²</falscheAntwort2>
+            <falscheAntwort3>56 mm²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>2,1 dm²</fragenText>
+            <richtigeAntwort>21.000 mm²</richtigeAntwort>
+            <falscheAntwort1>210.000 mm²</falscheAntwort1>
+            <falscheAntwort2>2.100 mm²</falscheAntwort2>
+            <falscheAntwort3>0,021 mm²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>6,1 dm²</fragenText>
+            <richtigeAntwort>61.000 mm²</richtigeAntwort>
+            <falscheAntwort1>610.000 mm²</falscheAntwort1>
+            <falscheAntwort2>6.100 mm²</falscheAntwort2>
+            <falscheAntwort3>0,061 mm²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,07 cm²</fragenText>
+            <richtigeAntwort>7 mm²</richtigeAntwort>
+            <falscheAntwort1>70 mm²</falscheAntwort1>
+            <falscheAntwort2>0,007 mm²</falscheAntwort2>
+            <falscheAntwort3>700 mm²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,02 cm²</fragenText>
+            <richtigeAntwort>2 mm²</richtigeAntwort>
+            <falscheAntwort1>20 mm²</falscheAntwort1>
+            <falscheAntwort2>0,002 mm²</falscheAntwort2>
+            <falscheAntwort3>200 mm²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,094 dm²</fragenText>
+            <richtigeAntwort>0,00094 m²</richtigeAntwort>
+            <falscheAntwort1>0,94 m²</falscheAntwort1>
+            <falscheAntwort2>9,4 m²</falscheAntwort2>
+            <falscheAntwort3>9,400 m²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,044 dm²</fragenText>
+            <richtigeAntwort>0,00044 m²</richtigeAntwort>
+            <falscheAntwort1>0,44 m²</falscheAntwort1>
+            <falscheAntwort2>4,4 m²</falscheAntwort2>
+            <falscheAntwort3>4,400 m²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>83,04 dm²</fragenText>
+            <richtigeAntwort>830.400 mm²</richtigeAntwort>
+            <falscheAntwort1>0,8304 mm²</falscheAntwort1>
+            <falscheAntwort2>8.304 mm²</falscheAntwort2>
+            <falscheAntwort3>0,008304 mm²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>23,04 dm²</fragenText>
+            <richtigeAntwort>230.400 mm²</richtigeAntwort>
+            <falscheAntwort1>0,2304 mm²</falscheAntwort1>
+            <falscheAntwort2>2.304 mm²</falscheAntwort2>
+            <falscheAntwort3>0,002304 mm²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,00416 m²</fragenText>
+            <richtigeAntwort>41,6 cm²</richtigeAntwort>
+            <falscheAntwort1>4,16 cm²</falscheAntwort1>
+            <falscheAntwort2>416 cm²</falscheAntwort2>
+            <falscheAntwort3>0,416 cm²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,00456 m²</fragenText>
+            <richtigeAntwort>45,6 cm²</richtigeAntwort>
+            <falscheAntwort1>4,56 cm²</falscheAntwort1>
+            <falscheAntwort2>456 cm²</falscheAntwort2>
+            <falscheAntwort3>0,456 cm²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,00073 dm²</fragenText>
+            <richtigeAntwort>7,3 mm²</richtigeAntwort>
+            <falscheAntwort1>0,73 mm²</falscheAntwort1>
+            <falscheAntwort2>73 mm²</falscheAntwort2>
+            <falscheAntwort3>730 mm²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,00033 dm²</fragenText>
+            <richtigeAntwort>3,3 mm²</richtigeAntwort>
+            <falscheAntwort1>0,33 mm²</falscheAntwort1>
+            <falscheAntwort2>33 mm²</falscheAntwort2>
+            <falscheAntwort3>330 mm²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>929 cm²</fragenText>
+            <richtigeAntwort>0,0929 m²</richtigeAntwort>
+            <falscheAntwort1>9,29 m²</falscheAntwort1>
+            <falscheAntwort2>0,929 m²</falscheAntwort2>
+            <falscheAntwort3>0,00929 m²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>429 cm²</fragenText>
+            <richtigeAntwort>0,0429 m²</richtigeAntwort>
+            <falscheAntwort1>4,29 m²</falscheAntwort1>
+            <falscheAntwort2>0,429 m²</falscheAntwort2>
+            <falscheAntwort3>0,00429 m²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,23 dm²</fragenText>
+            <richtigeAntwort>0,0023 m²</richtigeAntwort>
+            <falscheAntwort1>2,3 m²</falscheAntwort1>
+            <falscheAntwort2>0,023 m²</falscheAntwort2>
+            <falscheAntwort3>23 m²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,83 dm²</fragenText>
+            <richtigeAntwort>0,0083 m²</richtigeAntwort>
+            <falscheAntwort1>8,3 m²</falscheAntwort1>
+            <falscheAntwort2>0,083 m²</falscheAntwort2>
+            <falscheAntwort3>83 m²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>4.260 mm²</fragenText>
+            <richtigeAntwort>0,426 dm²</richtigeAntwort>
+            <falscheAntwort1>42,60 dm²</falscheAntwort1>
+            <falscheAntwort2>4,260 dm²</falscheAntwort2>
+            <falscheAntwort3>0,0426 dm²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>4.960 mm²</fragenText>
+            <richtigeAntwort>0,496 dm²</richtigeAntwort>
+            <falscheAntwort1>49,60 dm²</falscheAntwort1>
+            <falscheAntwort2>4,960 dm²</falscheAntwort2>
+            <falscheAntwort3>0,0496 dm²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,043 m²</fragenText>
+            <richtigeAntwort>430 cm²</richtigeAntwort>
+            <falscheAntwort1>4,3 cm²</falscheAntwort1>
+            <falscheAntwort2>43 cm²</falscheAntwort2>
+            <falscheAntwort3>0,0043 cm²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,053 m²</fragenText>
+            <richtigeAntwort>530 cm²</richtigeAntwort>
+            <falscheAntwort1>5,3 cm²</falscheAntwort1>
+            <falscheAntwort2>53 cm²</falscheAntwort2>
+            <falscheAntwort3>0,0053 cm²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>902 cm²</fragenText>
+            <richtigeAntwort>0,0902 m²</richtigeAntwort>
+            <falscheAntwort1>0,000902 m²</falscheAntwort1>
+            <falscheAntwort2>0,00902 m²</falscheAntwort2>
+            <falscheAntwort3>0,902 m²</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>#schwer (32000-500000 Euro)</fragenText>
+            <richtigeAntwort/>
+            <falscheAntwort1/>
+            <falscheAntwort2/>
+            <falscheAntwort3/>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>15</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>588,23 cm²</fragenText>
+            <richtigeAntwort>5,8823 dm²</richtigeAntwort>
+            <falscheAntwort1>58.823 dm²</falscheAntwort1>
+            <falscheAntwort2>58,823 dm²</falscheAntwort2>
+            <falscheAntwort3>5882,3 dm²</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>89.564 mm²</fragenText>
+            <richtigeAntwort>8,9564 dm²</richtigeAntwort>
+            <falscheAntwort1>89,564 dm²</falscheAntwort1>
+            <falscheAntwort2>0,89564 dm²</falscheAntwort2>
+            <falscheAntwort3>895,64 dm²</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>23,8868 m²</fragenText>
+            <richtigeAntwort>238.868 cm²</richtigeAntwort>
+            <falscheAntwort1>238,868 cm²</falscheAntwort1>
+            <falscheAntwort2>2,38868 cm²</falscheAntwort2>
+            <falscheAntwort3>2.388,68 cm²</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>12,003 cm²</fragenText>
+            <richtigeAntwort>0,12003 dm²</richtigeAntwort>
+            <falscheAntwort1>120,03 dm²</falscheAntwort1>
+            <falscheAntwort2>1,2003 dm²</falscheAntwort2>
+            <falscheAntwort3>1.200,3 dm²</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,43 m²</fragenText>
+            <richtigeAntwort>430.000 mm²</richtigeAntwort>
+            <falscheAntwort1>4.300 mm²</falscheAntwort1>
+            <falscheAntwort2>43.000 mm²</falscheAntwort2>
+            <falscheAntwort3>0,000043 mm²</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>23.500 mm²</fragenText>
+            <richtigeAntwort>0,0235 m²</richtigeAntwort>
+            <falscheAntwort1>2,35 m²</falscheAntwort1>
+            <falscheAntwort2>0,235 m²</falscheAntwort2>
+            <falscheAntwort3>23,5 m²</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,44 cm²</fragenText>
+            <richtigeAntwort>0,000044 m²</richtigeAntwort>
+            <falscheAntwort1>44 m²</falscheAntwort1>
+            <falscheAntwort2>0,00044 m²</falscheAntwort2>
+            <falscheAntwort3>0,0044 m²</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>23,044 m²</fragenText>
+            <richtigeAntwort>2.304,4 dm²</richtigeAntwort>
+            <falscheAntwort1>230,4 dm²</falscheAntwort1>
+            <falscheAntwort2>23.044 dm²</falscheAntwort2>
+            <falscheAntwort3>230.440 dm²</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,00776 m²</fragenText>
+            <richtigeAntwort>77,6 cm²</richtigeAntwort>
+            <falscheAntwort1>776 cm²</falscheAntwort1>
+            <falscheAntwort2>7,76 cm²</falscheAntwort2>
+            <falscheAntwort3>0,0000776 cm²</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>56,2 cm²</fragenText>
+            <richtigeAntwort>0,00562 m²</richtigeAntwort>
+            <falscheAntwort1>0,562 m²</falscheAntwort1>
+            <falscheAntwort2>0,0562 m²</falscheAntwort2>
+            <falscheAntwort3>5.620,0 m²</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,029 m²</fragenText>
+            <richtigeAntwort>29.000 mm²</richtigeAntwort>
+            <falscheAntwort1>290.000 mm²</falscheAntwort1>
+            <falscheAntwort2>2.900 mm²</falscheAntwort2>
+            <falscheAntwort3>29 mm²</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>44.322 mm²</fragenText>
+            <richtigeAntwort>0,044322 m²</richtigeAntwort>
+            <falscheAntwort1>0,0044322 m²</falscheAntwort1>
+            <falscheAntwort2>0,44322 m²</falscheAntwort2>
+            <falscheAntwort3>4,4322 m²</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>234,5 cm²</fragenText>
+            <richtigeAntwort>0,02345 m²</richtigeAntwort>
+            <falscheAntwort1>2,345 m²</falscheAntwort1>
+            <falscheAntwort2>0,2345 m²</falscheAntwort2>
+            <falscheAntwort3>0,002345 m²</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>412 m²</fragenText>
+            <richtigeAntwort>4.120.000 cm²</richtigeAntwort>
+            <falscheAntwort1>41.200 cm²</falscheAntwort1>
+            <falscheAntwort2>412.000 cm²</falscheAntwort2>
+            <falscheAntwort3>0,00412 cm²</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>15</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>#umkehrung</fragenText>
+            <richtigeAntwort/>
+            <falscheAntwort1/>
+            <falscheAntwort2/>
+            <falscheAntwort3/>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>15</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>23,42 cm²</fragenText>
+            <richtigeAntwort>0,2342 dm²</richtigeAntwort>
+            <falscheAntwort1>0,2342 m²</falscheAntwort1>
+            <falscheAntwort2>0,2342 cm²</falscheAntwort2>
+            <falscheAntwort3>0,2342 mm²</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,000276 m²</fragenText>
+            <richtigeAntwort>2,76 cm²</richtigeAntwort>
+            <falscheAntwort1>2,76 mm²</falscheAntwort1>
+            <falscheAntwort2>2,76 dm²</falscheAntwort2>
+            <falscheAntwort3>2,76 m²</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>529 cm²</fragenText>
+            <richtigeAntwort>5,29 dm²</richtigeAntwort>
+            <falscheAntwort1>5,29 m²</falscheAntwort1>
+            <falscheAntwort2>5,29 cm²</falscheAntwort2>
+            <falscheAntwort3>5,29 mm²</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,00229 m²</fragenText>
+            <richtigeAntwort>2.290 mm²</richtigeAntwort>
+            <falscheAntwort1>2.290 cm²</falscheAntwort1>
+            <falscheAntwort2>2.290 m²</falscheAntwort2>
+            <falscheAntwort3>2.290 dm²</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText/>
+            <richtigeAntwort/>
+            <falscheAntwort1/>
+            <falscheAntwort2/>
+            <falscheAntwort3/>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>15</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

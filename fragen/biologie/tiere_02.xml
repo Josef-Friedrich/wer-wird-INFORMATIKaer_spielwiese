@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Biologie</fach>
+    <thema>Tierquiz 2</thema>
+    <autor>Manfred Hartisch 10/ 05/2001</autor>
+    <anzahlFragen>100</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>Welches Tierkind gehört nicht zu den Eltern?</fragenText>
+            <richtigeAntwort>Küken - Hund</richtigeAntwort>
+            <falscheAntwort1>Kitz - Reh</falscheAntwort1>
+            <falscheAntwort2>Kalb - Kuh</falscheAntwort2>
+            <falscheAntwort3>Fohlen - Pferd</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Tierkind gehört nicht zu den Eltern?</fragenText>
+            <richtigeAntwort>Welpe - Katze</richtigeAntwort>
+            <falscheAntwort1>Frischling - Wildschwein</falscheAntwort1>
+            <falscheAntwort2>Kaulquappe - Frosch</falscheAntwort2>
+            <falscheAntwort3>Lamm - Schaf</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Tierkind gehört nicht zu den Eltern?</fragenText>
+            <richtigeAntwort>Fohlen - Rind</richtigeAntwort>
+            <falscheAntwort1>Ferkel - Schwein</falscheAntwort1>
+            <falscheAntwort2>Zicklein - Ziege</falscheAntwort2>
+            <falscheAntwort3>Küken - Ente</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der männliche Hund?</fragenText>
+            <richtigeAntwort>Rüde</richtigeAntwort>
+            <falscheAntwort1>Hasso</falscheAntwort1>
+            <falscheAntwort2>Rüdiger</falscheAntwort2>
+            <falscheAntwort3>Rüge</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das weibliche Schwein?</fragenText>
+            <richtigeAntwort>Sau</richtigeAntwort>
+            <falscheAntwort1>Eber</falscheAntwort1>
+            <falscheAntwort2>Ferkel</falscheAntwort2>
+            <falscheAntwort3>Frischling</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die bekannteste Fernsehbiene?</fragenText>
+            <richtigeAntwort>Maja</richtigeAntwort>
+            <falscheAntwort1>Bienchen</falscheAntwort1>
+            <falscheAntwort2>Honig</falscheAntwort2>
+            <falscheAntwort3>Monja</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das weibliche Pferd?</fragenText>
+            <richtigeAntwort>Stute</richtigeAntwort>
+            <falscheAntwort1>Hengst</falscheAntwort1>
+            <falscheAntwort2>Rappe</falscheAntwort2>
+            <falscheAntwort3>Schimmel</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das weibliche Huhn?</fragenText>
+            <richtigeAntwort>Henne</richtigeAntwort>
+            <falscheAntwort1>Hahn</falscheAntwort1>
+            <falscheAntwort2>Küken</falscheAntwort2>
+            <falscheAntwort3>Berta</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das weibliche Wildschwein?</fragenText>
+            <richtigeAntwort>Bache</richtigeAntwort>
+            <falscheAntwort1>Lache</falscheAntwort1>
+            <falscheAntwort2>Sache</falscheAntwort2>
+            <falscheAntwort3>Mache</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Das Zebra hat ...</fragenText>
+            <richtigeAntwort>Streifen</richtigeAntwort>
+            <falscheAntwort1>Punkte</falscheAntwort1>
+            <falscheAntwort2>Flecken</falscheAntwort2>
+            <falscheAntwort3>Dreiecke</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Das schnellste Landtier ist der ..</fragenText>
+            <richtigeAntwort>Gepard</richtigeAntwort>
+            <falscheAntwort1>Leopard</falscheAntwort1>
+            <falscheAntwort2>Tiger</falscheAntwort2>
+            <falscheAntwort3>Löwe</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Vogel kann nicht fliegen?</fragenText>
+            <richtigeAntwort>Strauß</richtigeAntwort>
+            <falscheAntwort1>Kolibri</falscheAntwort1>
+            <falscheAntwort2>Flamingo</falscheAntwort2>
+            <falscheAntwort3>Pelikan</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Vogel ist kein Raubvogel?</fragenText>
+            <richtigeAntwort>Fasan</richtigeAntwort>
+            <falscheAntwort1>Adler</falscheAntwort1>
+            <falscheAntwort2>Habicht</falscheAntwort2>
+            <falscheAntwort3>Falke</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Mit welchen Lebewesen sind die Affen nahe verwandt?</fragenText>
+            <richtigeAntwort>mit den Menschen</richtigeAntwort>
+            <falscheAntwort1>mit den Schweinen</falscheAntwort1>
+            <falscheAntwort2>mit den Giraffen</falscheAntwort2>
+            <falscheAntwort3>mit den Fischen</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist keine Raubkatze?</fragenText>
+            <richtigeAntwort>Wolf</richtigeAntwort>
+            <falscheAntwort1>Tiger</falscheAntwort1>
+            <falscheAntwort2>Löwe</falscheAntwort2>
+            <falscheAntwort3>Leopard</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo leben die Hyänen?</fragenText>
+            <richtigeAntwort>in Afrika und Asien</richtigeAntwort>
+            <falscheAntwort1>nur im Zoo</falscheAntwort1>
+            <falscheAntwort2>in Afrika und Australien</falscheAntwort2>
+            <falscheAntwort3>in Südamerika und Russland</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Tier gehört nicht zu den Bremer Stadtmusikanten?</fragenText>
+            <richtigeAntwort>Maus</richtigeAntwort>
+            <falscheAntwort1>Hund</falscheAntwort1>
+            <falscheAntwort2>Katze</falscheAntwort2>
+            <falscheAntwort3>Hahn</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man eine kleine Pferderasse?</fragenText>
+            <richtigeAntwort>Pony</richtigeAntwort>
+            <falscheAntwort1>Pferdchen</falscheAntwort1>
+            <falscheAntwort2>Traber</falscheAntwort2>
+            <falscheAntwort3>Hengst</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Auf welchem Pferd kann man nicht reiten?</fragenText>
+            <richtigeAntwort>Seepferdchen</richtigeAntwort>
+            <falscheAntwort1>Hengst</falscheAntwort1>
+            <falscheAntwort2>Schimmel</falscheAntwort2>
+            <falscheAntwort3>Rennpferd</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Gehört die Fledermaus zu den Vögeln?</fragenText>
+            <richtigeAntwort>nein</richtigeAntwort>
+            <falscheAntwort1>ja</falscheAntwort1>
+            <falscheAntwort2>Nur wenn sie fliegt.</falscheAntwort2>
+            <falscheAntwort3>Das weiß man noch nicht.</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wovon ernähren sich die Geier?</fragenText>
+            <richtigeAntwort>hauptsächlich von Aas</richtigeAntwort>
+            <falscheAntwort1>hauptsächlich von Getreide</falscheAntwort1>
+            <falscheAntwort2>hauptsächlich von Blättern</falscheAntwort2>
+            <falscheAntwort3>hauptsächlich von Apfelmus</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Tier ist kein Nagetier?</fragenText>
+            <richtigeAntwort>Katze</richtigeAntwort>
+            <falscheAntwort1>Kaninchen</falscheAntwort1>
+            <falscheAntwort2>Maus</falscheAntwort2>
+            <falscheAntwort3>Hamster</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Vogel ist ein Zugvogel?</fragenText>
+            <richtigeAntwort>Kranich</richtigeAntwort>
+            <falscheAntwort1>Kolibri</falscheAntwort1>
+            <falscheAntwort2>Sperling</falscheAntwort2>
+            <falscheAntwort3>Krabach</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie wird der Spatz noch genannt?</fragenText>
+            <richtigeAntwort>Sperling</richtigeAntwort>
+            <falscheAntwort1>Hugo</falscheAntwort1>
+            <falscheAntwort2>Spätzle</falscheAntwort2>
+            <falscheAntwort3>Flattermatz</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo leben die Seekühe?</fragenText>
+            <richtigeAntwort>im seichten Gewässer tropischer Meere</richtigeAntwort>
+            <falscheAntwort1>im Bodensee</falscheAntwort1>
+            <falscheAntwort2>in kleinen Seen auf dem Bauernhof</falscheAntwort2>
+            <falscheAntwort3>in der Tiefsee</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches ist das höchste Tier?</fragenText>
+            <richtigeAntwort>Giraffe</richtigeAntwort>
+            <falscheAntwort1>Elefant</falscheAntwort1>
+            <falscheAntwort2>Strauß</falscheAntwort2>
+            <falscheAntwort3>Känguru</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Gibt es noch viele Nashörner?</fragenText>
+            <richtigeAntwort>nein</richtigeAntwort>
+            <falscheAntwort1>ganz bestimmt</falscheAntwort1>
+            <falscheAntwort2>natürlich</falscheAntwort2>
+            <falscheAntwort3>ja</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Fuchsart gibt es nicht?</fragenText>
+            <richtigeAntwort>Gelbfuchs</richtigeAntwort>
+            <falscheAntwort1>Rotfuchs</falscheAntwort1>
+            <falscheAntwort2>Blaufuchs</falscheAntwort2>
+            <falscheAntwort3>Graufuchs</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welcher Tierart gehören die Büffel?</fragenText>
+            <richtigeAntwort>zu den Rindern</richtigeAntwort>
+            <falscheAntwort1>zu den Antilopen</falscheAntwort1>
+            <falscheAntwort2>zu den Pferden</falscheAntwort2>
+            <falscheAntwort3>zu den Kamelen</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist ein Rhinozeros?</fragenText>
+            <richtigeAntwort>ein Nashorn</richtigeAntwort>
+            <falscheAntwort1>ein Raubfisch</falscheAntwort1>
+            <falscheAntwort2>ein ausgestorbener Elefant</falscheAntwort2>
+            <falscheAntwort3>ein kleiner Vogel</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo lebt der Ameisenbär?</fragenText>
+            <richtigeAntwort>in Südamerika</richtigeAntwort>
+            <falscheAntwort1>nur noch im Zoo</falscheAntwort1>
+            <falscheAntwort2>in Australien</falscheAntwort2>
+            <falscheAntwort3>in Nordamerika</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was nannte man früher eine Bergmannskuh?</fragenText>
+            <richtigeAntwort>eine Ziege</richtigeAntwort>
+            <falscheAntwort1>eine fette Sau</falscheAntwort1>
+            <falscheAntwort2>ein dickes Schaf</falscheAntwort2>
+            <falscheAntwort3>ein Huhn</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Ohren des Hasen?</fragenText>
+            <richtigeAntwort>Löffel</richtigeAntwort>
+            <falscheAntwort1>Gabeln</falscheAntwort1>
+            <falscheAntwort2>Messer</falscheAntwort2>
+            <falscheAntwort3>Harken</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man einen weiblichen Hirsch?</fragenText>
+            <richtigeAntwort>Hirschkuh</richtigeAntwort>
+            <falscheAntwort1>Hirschfrau</falscheAntwort1>
+            <falscheAntwort2>Hirschweib</falscheAntwort2>
+            <falscheAntwort3>Hirschkalb</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das männliche Schwein?</fragenText>
+            <richtigeAntwort>Eber</richtigeAntwort>
+            <falscheAntwort1>Egon</falscheAntwort1>
+            <falscheAntwort2>Eberhard</falscheAntwort2>
+            <falscheAntwort3>Emil</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo leben die Zebras?</fragenText>
+            <richtigeAntwort>in Afrika</richtigeAntwort>
+            <falscheAntwort1>nur noch im Zoo</falscheAntwort1>
+            <falscheAntwort2>in Asien</falscheAntwort2>
+            <falscheAntwort3>in Amerika</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo leben die Giraffen?</fragenText>
+            <richtigeAntwort>in Afrika</richtigeAntwort>
+            <falscheAntwort1>in Asien</falscheAntwort1>
+            <falscheAntwort2>in Amerika</falscheAntwort2>
+            <falscheAntwort3>in Australien</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man das Rufen der Pferde?</fragenText>
+            <richtigeAntwort>wiehern</richtigeAntwort>
+            <falscheAntwort1>bellen</falscheAntwort1>
+            <falscheAntwort2>brüllen</falscheAntwort2>
+            <falscheAntwort3>winseln</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man einen Bienenzüchter?</fragenText>
+            <richtigeAntwort>Imker</richtigeAntwort>
+            <falscheAntwort1>Iltis</falscheAntwort1>
+            <falscheAntwort2>Ingolf</falscheAntwort2>
+            <falscheAntwort3>Irrer</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das Eisenteil, das zu jeder Pferdeausrüstung gehört und zugleich ein uraltes Glückssymbol ist?</fragenText>
+            <richtigeAntwort>Hufeisen</richtigeAntwort>
+            <falscheAntwort1>Hufnagel</falscheAntwort1>
+            <falscheAntwort2>Pferdeeisen</falscheAntwort2>
+            <falscheAntwort3>Eisenhuf</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Produkt der Elefanten ist sehr wertvoll?</fragenText>
+            <richtigeAntwort>die Stoßzähne</richtigeAntwort>
+            <falscheAntwort1>die Haare</falscheAntwort1>
+            <falscheAntwort2>die Elefantenhaut</falscheAntwort2>
+            <falscheAntwort3>die Ohren</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Tier kann nicht fliegen?</fragenText>
+            <richtigeAntwort>Frosch</richtigeAntwort>
+            <falscheAntwort1>Adler</falscheAntwort1>
+            <falscheAntwort2>Amsel</falscheAntwort2>
+            <falscheAntwort3>Fink</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Tier kann nicht fliegen?</fragenText>
+            <richtigeAntwort>Hase</richtigeAntwort>
+            <falscheAntwort1>Habicht</falscheAntwort1>
+            <falscheAntwort2>Hahn</falscheAntwort2>
+            <falscheAntwort3>Bussard</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Tier kann nicht fliegen?</fragenText>
+            <richtigeAntwort>Maus</richtigeAntwort>
+            <falscheAntwort1>Fledermaus</falscheAntwort1>
+            <falscheAntwort2>Geier</falscheAntwort2>
+            <falscheAntwort3>Gans</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Tier kann nicht fliegen?</fragenText>
+            <richtigeAntwort>Esel</richtigeAntwort>
+            <falscheAntwort1>Ente</falscheAntwort1>
+            <falscheAntwort2>Storch</falscheAntwort2>
+            <falscheAntwort3>Kranich</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Tier kann nicht fliegen?</fragenText>
+            <richtigeAntwort>Eber</richtigeAntwort>
+            <falscheAntwort1>Flamingo</falscheAntwort1>
+            <falscheAntwort2>Albatros</falscheAntwort2>
+            <falscheAntwort3>Elster</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der diebische Vogel?</fragenText>
+            <richtigeAntwort>Elster</richtigeAntwort>
+            <falscheAntwort1>Meise</falscheAntwort1>
+            <falscheAntwort2>Falke</falscheAntwort2>
+            <falscheAntwort3>Reiher</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Fressen Nashörner Fleisch?</fragenText>
+            <richtigeAntwort>nein</richtigeAntwort>
+            <falscheAntwort1>ja</falscheAntwort1>
+            <falscheAntwort2>nur im Zoo</falscheAntwort2>
+            <falscheAntwort3>nur im Winter</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie wird der Fuchs auch im Märchen und in Fabeln genannt?</fragenText>
+            <richtigeAntwort>Reinike</richtigeAntwort>
+            <falscheAntwort1>Reinhard</falscheAntwort1>
+            <falscheAntwort2>Meinike</falscheAntwort2>
+            <falscheAntwort3>Schlaufuchs</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man den Puma auch noch?</fragenText>
+            <richtigeAntwort>Silberlöwe</richtigeAntwort>
+            <falscheAntwort1>Goldlöwe</falscheAntwort1>
+            <falscheAntwort2>Braunlöwe</falscheAntwort2>
+            <falscheAntwort3>Bronzelöwe</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das größte, lebende Landtier?</fragenText>
+            <richtigeAntwort>Elefant</richtigeAntwort>
+            <falscheAntwort1>Giraffe</falscheAntwort1>
+            <falscheAntwort2>Nashorn</falscheAntwort2>
+            <falscheAntwort3>Büffel</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Legen die Pinguine Eier?</fragenText>
+            <richtigeAntwort>ja</richtigeAntwort>
+            <falscheAntwort1>nein</falscheAntwort1>
+            <falscheAntwort2>nur im Zoo</falscheAntwort2>
+            <falscheAntwort3>das weiß man nicht</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen die gefährlichen Eckzähne des männlichen Wildschweines?</fragenText>
+            <richtigeAntwort>Hauer</richtigeAntwort>
+            <falscheAntwort1>Bauer</falscheAntwort1>
+            <falscheAntwort2>Reißer</falscheAntwort2>
+            <falscheAntwort3>Malmer</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie leben Wölfe zusammen?</fragenText>
+            <richtigeAntwort>im Rudel</richtigeAntwort>
+            <falscheAntwort1>immer zu zweit</falscheAntwort1>
+            <falscheAntwort2>nur alleine</falscheAntwort2>
+            <falscheAntwort3>genau immer 12</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Gehören die Schnabeltiere zu den Vögeln?</fragenText>
+            <richtigeAntwort>nein</richtigeAntwort>
+            <falscheAntwort1>ja</falscheAntwort1>
+            <falscheAntwort2>das weiß man noch nicht</falscheAntwort2>
+            <falscheAntwort3>nur die mit einem spitzen Schnabel</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man eine männliche Biene?</fragenText>
+            <richtigeAntwort>Drohne</richtigeAntwort>
+            <falscheAntwort1>Bienerich</falscheAntwort1>
+            <falscheAntwort2>Willi</falscheAntwort2>
+            <falscheAntwort3>Biemä</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was fressen Eichhörnchen auch?</fragenText>
+            <richtigeAntwort>Nüsse</richtigeAntwort>
+            <falscheAntwort1>Schokolade</falscheAntwort1>
+            <falscheAntwort2>Marmelade</falscheAntwort2>
+            <falscheAntwort3>Marzipan</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Woran kann man das Löwenmännchen erkennen?</fragenText>
+            <richtigeAntwort>an seiner Mähne</richtigeAntwort>
+            <falscheAntwort1>an seinen Augen</falscheAntwort1>
+            <falscheAntwort2>an seinem Gebrüll</falscheAntwort2>
+            <falscheAntwort3>an seiner Farbe</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die edelste österreichische Pferderasse?</fragenText>
+            <richtigeAntwort>Lipizzaner</richtigeAntwort>
+            <falscheAntwort1>Lilliputaner</falscheAntwort1>
+            <falscheAntwort2>Pizzianer</falscheAntwort2>
+            <falscheAntwort3>Indianer</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist ein Barsoi?</fragenText>
+            <richtigeAntwort>ein russischer Windhund</richtigeAntwort>
+            <falscheAntwort1>ein arabischer Hengst</falscheAntwort1>
+            <falscheAntwort2>ein seltener Tiefseefisch</falscheAntwort2>
+            <falscheAntwort3>ein Tropenschmetterling</falscheAntwort3>
+            <schwierikeit>15</schwierikeit>
+            <schwierigkeitMin>15</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist ein Whippet?</fragenText>
+            <richtigeAntwort>eine bekannte Rennhunderasse</richtigeAntwort>
+            <falscheAntwort1>eine gefährliche Giftschlange</falscheAntwort1>
+            <falscheAntwort2>eine kleine Mäuseart</falscheAntwort2>
+            <falscheAntwort3>eine dressierte Kaninchenart</falscheAntwort3>
+            <schwierikeit>15</schwierikeit>
+            <schwierigkeitMin>15</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist ein Greyhound?</fragenText>
+            <richtigeAntwort>eine bekannte Rennhunderasse</richtigeAntwort>
+            <falscheAntwort1>eine gezüchtete Rassekatze</falscheAntwort1>
+            <falscheAntwort2>ein einfarbiger Papagei</falscheAntwort2>
+            <falscheAntwort3>ein indischer Wildhund</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die größte Eulenart?</fragenText>
+            <richtigeAntwort>Uhu</richtigeAntwort>
+            <falscheAntwort1>Rieseneule</falscheAntwort1>
+            <falscheAntwort2>Eulengiganto</falscheAntwort2>
+            <falscheAntwort3>Aha</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Woran kann man den Luchs erkennen?</fragenText>
+            <richtigeAntwort>an seinen Pinselohren</richtigeAntwort>
+            <falscheAntwort1>an seinem Bleistiftschwanz</falscheAntwort1>
+            <falscheAntwort2>an seinen Füllerohren</falscheAntwort2>
+            <falscheAntwort3>an seinen Pinselbeinen</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Behalten die Vögel dieselben Federn ihr ganzes Leben?</fragenText>
+            <richtigeAntwort>nein</richtigeAntwort>
+            <falscheAntwort1>das weiß man noch nicht</falscheAntwort1>
+            <falscheAntwort2>ja</falscheAntwort2>
+            <falscheAntwort3>nur die Männchen</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Können alle Vögel fliegen?</fragenText>
+            <richtigeAntwort>nein</richtigeAntwort>
+            <falscheAntwort1>ja</falscheAntwort1>
+            <falscheAntwort2>selbstverständlich</falscheAntwort2>
+            <falscheAntwort3>natürlich</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie leben die Pinguine zusammen?</fragenText>
+            <richtigeAntwort>in großen Gruppen</richtigeAntwort>
+            <falscheAntwort1>immer zu zweit</falscheAntwort1>
+            <falscheAntwort2>nur alleine</falscheAntwort2>
+            <falscheAntwort3>immer genau 102</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Höcker hat ein Trampeltier?</fragenText>
+            <richtigeAntwort>2</richtigeAntwort>
+            <falscheAntwort1>1</falscheAntwort1>
+            <falscheAntwort2>0</falscheAntwort2>
+            <falscheAntwort3>3</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist ein Chamäleon?</fragenText>
+            <richtigeAntwort>eine Eidechsenart</richtigeAntwort>
+            <falscheAntwort1>ein Insekt</falscheAntwort1>
+            <falscheAntwort2>ein seltener Vogel</falscheAntwort2>
+            <falscheAntwort3>eine kleine Schlange</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist ein Walross?</fragenText>
+            <richtigeAntwort>eine Robbenart</richtigeAntwort>
+            <falscheAntwort1>ein großes Pferd</falscheAntwort1>
+            <falscheAntwort2>ein kleiner Fisch</falscheAntwort2>
+            <falscheAntwort3>ein bunter Vogel</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist ein Seelöwe?</fragenText>
+            <richtigeAntwort>eine Robbenart</richtigeAntwort>
+            <falscheAntwort1>ein Löwe mit scharfen Augen</falscheAntwort1>
+            <falscheAntwort2>ein junger, nasser Löwe</falscheAntwort2>
+            <falscheAntwort3>ein Fabeltier</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Können Hunde besser hören als Menschen?</fragenText>
+            <richtigeAntwort>ja</richtigeAntwort>
+            <falscheAntwort1>nein</falscheAntwort1>
+            <falscheAntwort2>Das weiß man noch nicht.</falscheAntwort2>
+            <falscheAntwort3>nur bei Nacht</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Können Hunde besser riechen als die Menschen?</fragenText>
+            <richtigeAntwort>ja</richtigeAntwort>
+            <falscheAntwort1>nein</falscheAntwort1>
+            <falscheAntwort2>nur bei Tag</falscheAntwort2>
+            <falscheAntwort3>nur im Winter</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das größte Säugetier?</fragenText>
+            <richtigeAntwort>Blauwal</richtigeAntwort>
+            <falscheAntwort1>Elefant</falscheAntwort1>
+            <falscheAntwort2>Dinosaurier</falscheAntwort2>
+            <falscheAntwort3>Giraffe</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie schwer kann ein Blauwal werden?</fragenText>
+            <richtigeAntwort>100 Tonnen</richtigeAntwort>
+            <falscheAntwort1>1 Tonne</falscheAntwort1>
+            <falscheAntwort2>10 Tonnen</falscheAntwort2>
+            <falscheAntwort3>1000 Tonnen</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang kann ein Blauwal werden?</fragenText>
+            <richtigeAntwort>ca. 31 Meter</richtigeAntwort>
+            <falscheAntwort1>ca. 21 Meter</falscheAntwort1>
+            <falscheAntwort2>ca. 51 Meter</falscheAntwort2>
+            <falscheAntwort3>ca. 8 Meter</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist ein Kakadu?</fragenText>
+            <richtigeAntwort>eine Papageienart</richtigeAntwort>
+            <falscheAntwort1>ein kleiner Käfer</falscheAntwort1>
+            <falscheAntwort2>ein Fisch in Kanada</falscheAntwort2>
+            <falscheAntwort3>ein männliches Kaninchen</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches ist das älteste Haustier?</fragenText>
+            <richtigeAntwort>Hund</richtigeAntwort>
+            <falscheAntwort1>Katze</falscheAntwort1>
+            <falscheAntwort2>Pferd</falscheAntwort2>
+            <falscheAntwort3>Esel</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das männliche Schaf?</fragenText>
+            <richtigeAntwort>Widder</richtigeAntwort>
+            <falscheAntwort1>Bockschaf</falscheAntwort1>
+            <falscheAntwort2>Wilder</falscheAntwort2>
+            <falscheAntwort3>Mähschaf</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText/>
+            <richtigeAntwort/>
+            <falscheAntwort1/>
+            <falscheAntwort2/>
+            <falscheAntwort3/>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText/>
+            <richtigeAntwort/>
+            <falscheAntwort1/>
+            <falscheAntwort2/>
+            <falscheAntwort3/>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText/>
+            <richtigeAntwort/>
+            <falscheAntwort1/>
+            <falscheAntwort2/>
+            <falscheAntwort3/>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText/>
+            <richtigeAntwort/>
+            <falscheAntwort1/>
+            <falscheAntwort2/>
+            <falscheAntwort3/>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText/>
+            <richtigeAntwort/>
+            <falscheAntwort1/>
+            <falscheAntwort2/>
+            <falscheAntwort3/>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText/>
+            <richtigeAntwort/>
+            <falscheAntwort1/>
+            <falscheAntwort2/>
+            <falscheAntwort3/>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText/>
+            <richtigeAntwort/>
+            <falscheAntwort1/>
+            <falscheAntwort2/>
+            <falscheAntwort3/>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText/>
+            <richtigeAntwort/>
+            <falscheAntwort1/>
+            <falscheAntwort2/>
+            <falscheAntwort3/>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText/>
+            <richtigeAntwort/>
+            <falscheAntwort1/>
+            <falscheAntwort2/>
+            <falscheAntwort3/>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText/>
+            <richtigeAntwort/>
+            <falscheAntwort1/>
+            <falscheAntwort2/>
+            <falscheAntwort3/>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText/>
+            <richtigeAntwort/>
+            <falscheAntwort1/>
+            <falscheAntwort2/>
+            <falscheAntwort3/>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText/>
+            <richtigeAntwort/>
+            <falscheAntwort1/>
+            <falscheAntwort2/>
+            <falscheAntwort3/>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText/>
+            <richtigeAntwort/>
+            <falscheAntwort1/>
+            <falscheAntwort2/>
+            <falscheAntwort3/>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText/>
+            <richtigeAntwort/>
+            <falscheAntwort1/>
+            <falscheAntwort2/>
+            <falscheAntwort3/>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText/>
+            <richtigeAntwort/>
+            <falscheAntwort1/>
+            <falscheAntwort2/>
+            <falscheAntwort3/>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText/>
+            <richtigeAntwort/>
+            <falscheAntwort1/>
+            <falscheAntwort2/>
+            <falscheAntwort3/>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText/>
+            <richtigeAntwort/>
+            <falscheAntwort1/>
+            <falscheAntwort2/>
+            <falscheAntwort3/>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText/>
+            <richtigeAntwort/>
+            <falscheAntwort1/>
+            <falscheAntwort2/>
+            <falscheAntwort3/>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText/>
+            <richtigeAntwort/>
+            <falscheAntwort1/>
+            <falscheAntwort2/>
+            <falscheAntwort3/>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText/>
+            <richtigeAntwort/>
+            <falscheAntwort1/>
+            <falscheAntwort2/>
+            <falscheAntwort3/>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText/>
+            <richtigeAntwort/>
+            <falscheAntwort1/>
+            <falscheAntwort2/>
+            <falscheAntwort3/>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

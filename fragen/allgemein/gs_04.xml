@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Allgemein</fach>
+    <thema>Grundschule 4</thema>
+    <autor>Manfred Hartisch</autor>
+    <anzahlFragen>100</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>Wie ist eine Komödie?</fragenText>
+            <richtigeAntwort>lustig</richtigeAntwort>
+            <falscheAntwort1>traurig</falscheAntwort1>
+            <falscheAntwort2>spannend</falscheAntwort2>
+            <falscheAntwort3>ernst</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Beruf hatte der heilige Nikolaus?</fragenText>
+            <richtigeAntwort>Bischof</richtigeAntwort>
+            <falscheAntwort1>Bauer</falscheAntwort1>
+            <falscheAntwort2>Zimmermann</falscheAntwort2>
+            <falscheAntwort3>Wahrsager</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die berühmte englische Kriminalpolizei?</fragenText>
+            <richtigeAntwort>Scotland Yard</richtigeAntwort>
+            <falscheAntwort1>London Yard</falscheAntwort1>
+            <falscheAntwort2>FBI</falscheAntwort2>
+            <falscheAntwort3>Secret Service</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist ein Feldspat?</fragenText>
+            <richtigeAntwort>ein Mineral</richtigeAntwort>
+            <falscheAntwort1>ein grüner Blattsalat</falscheAntwort1>
+            <falscheAntwort2>ein Gartengerät</falscheAntwort2>
+            <falscheAntwort3>Tierfutter</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist Eiland?</fragenText>
+            <richtigeAntwort>Insel</richtigeAntwort>
+            <falscheAntwort1>Hühnerfarm</falscheAntwort1>
+            <falscheAntwort2>Berg</falscheAntwort2>
+            <falscheAntwort3>Markt, auf dem Eier verkauft werden</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das Sprichwort? „Der Apfel fällt nicht weit vom ... “</fragenText>
+            <richtigeAntwort>Stamm</richtigeAntwort>
+            <falscheAntwort1>Baum</falscheAntwort1>
+            <falscheAntwort2>Ast</falscheAntwort2>
+            <falscheAntwort3>Wilhelm Tell</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Flaschen passen in eine Sprudelkiste?</fragenText>
+            <richtigeAntwort>12</richtigeAntwort>
+            <falscheAntwort1>10</falscheAntwort1>
+            <falscheAntwort2>6</falscheAntwort2>
+            <falscheAntwort3>20</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer schrieb „Der Ölprinz“?</fragenText>
+            <richtigeAntwort>Karl May</richtigeAntwort>
+            <falscheAntwort1>Karl Moik</falscheAntwort1>
+            <falscheAntwort2>Karl Schranz</falscheAntwort2>
+            <falscheAntwort3>Karel Gott</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer benutzt ein Pseudonym?</fragenText>
+            <richtigeAntwort>Schriftsteller</richtigeAntwort>
+            <falscheAntwort1>Arzt</falscheAntwort1>
+            <falscheAntwort2>Archäologe</falscheAntwort2>
+            <falscheAntwort3>Bäcker</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was sind Sterne wirklich?</fragenText>
+            <richtigeAntwort>Sonnen</richtigeAntwort>
+            <falscheAntwort1>Planeten</falscheAntwort1>
+            <falscheAntwort2>Monde</falscheAntwort2>
+            <falscheAntwort3>Meteoriten</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Je weiter sich der Mensch von der Erde entfernt, desto ...</fragenText>
+            <richtigeAntwort>leichter wird er</richtigeAntwort>
+            <falscheAntwort1>schöner wird er</falscheAntwort1>
+            <falscheAntwort2>schwerer wird er</falscheAntwort2>
+            <falscheAntwort3>größer wird er</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man den Baumwollfaden in einer Kerze?</fragenText>
+            <richtigeAntwort>Docht</richtigeAntwort>
+            <falscheAntwort1>Dolch</falscheAntwort1>
+            <falscheAntwort2>Yacht</falscheAntwort2>
+            <falscheAntwort3>Flucht</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist das Leibgericht von Obelix?</fragenText>
+            <richtigeAntwort>Wildschweine</richtigeAntwort>
+            <falscheAntwort1>Hähnchen</falscheAntwort1>
+            <falscheAntwort2>Pilze</falscheAntwort2>
+            <falscheAntwort3>Pizza</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie bezeichnet man heute ein Wikingerschiff?</fragenText>
+            <richtigeAntwort>Drachenboot</richtigeAntwort>
+            <falscheAntwort1>Monsterboot</falscheAntwort1>
+            <falscheAntwort2>Galeere</falscheAntwort2>
+            <falscheAntwort3>Segelboot</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der zottelige Bär in der Sesamstraße?</fragenText>
+            <richtigeAntwort>Samson</richtigeAntwort>
+            <falscheAntwort1>Kermit</falscheAntwort1>
+            <falscheAntwort2>Ernie</falscheAntwort2>
+            <falscheAntwort3>Tiffy</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Seemann hat offiziell Amerika entdeckt?</fragenText>
+            <richtigeAntwort>Christoph Kolumbus</richtigeAntwort>
+            <falscheAntwort1>Nostradamus</falscheAntwort1>
+            <falscheAntwort2>Sir Francis Drake</falscheAntwort2>
+            <falscheAntwort3>Christopher Lee</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Strecke fuhr die erste deutsche Dampf - Eisenbahn?</fragenText>
+            <richtigeAntwort>Nürnberg - Fürth</richtigeAntwort>
+            <falscheAntwort1>Köln - Bonn</falscheAntwort1>
+            <falscheAntwort2>Bochum - Dortmund</falscheAntwort2>
+            <falscheAntwort3>Berlin - Leipzig</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo befindet sich das Legoland?</fragenText>
+            <richtigeAntwort>Dänemark</richtigeAntwort>
+            <falscheAntwort1>Frankreich</falscheAntwort1>
+            <falscheAntwort2>Deutschland</falscheAntwort2>
+            <falscheAntwort3>Holland</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer oder was ist das Rote Kreuz?</fragenText>
+            <richtigeAntwort>ein Rettungsdienst</richtigeAntwort>
+            <falscheAntwort1>eine Blume</falscheAntwort1>
+            <falscheAntwort2>eine Religionsgemeinschaft</falscheAntwort2>
+            <falscheAntwort3>eine Partei</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was macht Max und Moritz am liebsten?</fragenText>
+            <richtigeAntwort>Unfug</richtigeAntwort>
+            <falscheAntwort1>Bücher lesen</falscheAntwort1>
+            <falscheAntwort2>Computer spielen</falscheAntwort2>
+            <falscheAntwort3>Kegeln</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer oder was ist die Caritas?</fragenText>
+            <richtigeAntwort>eine Wohlfahrtsorganisation</richtigeAntwort>
+            <falscheAntwort1>eine Rittergemeinschaft</falscheAntwort1>
+            <falscheAntwort2>eine Mönchsorden</falscheAntwort2>
+            <falscheAntwort3>eine Fluggesellschaft</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Berufsgruppe fliegt ins All?</fragenText>
+            <richtigeAntwort>Astronauten</richtigeAntwort>
+            <falscheAntwort1>Ethnologen</falscheAntwort1>
+            <falscheAntwort2>Astrologen</falscheAntwort2>
+            <falscheAntwort3>Allonauten</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer oder was ist ein Gobelin?</fragenText>
+            <richtigeAntwort>ein Wandbildteppich</richtigeAntwort>
+            <falscheAntwort1>ein Schauspieler</falscheAntwort1>
+            <falscheAntwort2>ein Medikament</falscheAntwort2>
+            <falscheAntwort3>ein Winterreifen</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist ein „Schwitzkasten“?</fragenText>
+            <richtigeAntwort>ein anderes Wort für einen Klammergriff</richtigeAntwort>
+            <falscheAntwort1>eine deutsche Sauna</falscheAntwort1>
+            <falscheAntwort2>ein Feuchtemessgerät</falscheAntwort2>
+            <falscheAntwort3>ein alter Backofen</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das Sprichwort? „Eine Schwalbe macht noch keinen ... “</fragenText>
+            <richtigeAntwort>Sommer</richtigeAntwort>
+            <falscheAntwort1>Frühling</falscheAntwort1>
+            <falscheAntwort2>Schwarm</falscheAntwort2>
+            <falscheAntwort3>Gesang</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Nach wie vielen Jahren feiert man goldene Hochzeit?</fragenText>
+            <richtigeAntwort>nach 50 Jahren</richtigeAntwort>
+            <falscheAntwort1>nach 30 Jahren</falscheAntwort1>
+            <falscheAntwort2>nach 40 Jahren</falscheAntwort2>
+            <falscheAntwort3>nach 20 Jahren</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Geheimdienstnummer hat James Bond?</fragenText>
+            <richtigeAntwort>007</richtigeAntwort>
+            <falscheAntwort1>005</falscheAntwort1>
+            <falscheAntwort2>006</falscheAntwort2>
+            <falscheAntwort3>008</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Bei welcher Sportart gibt es eine Technik namens „Goofy“?</fragenText>
+            <richtigeAntwort>Skateboard</richtigeAntwort>
+            <falscheAntwort1>Eishockey</falscheAntwort1>
+            <falscheAntwort2>Inliner</falscheAntwort2>
+            <falscheAntwort3>Turmspringen</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Pflanze verwandelt sich in eine Pusteblume?</fragenText>
+            <richtigeAntwort>Löwenzahn</richtigeAntwort>
+            <falscheAntwort1>Löwenmäulchen</falscheAntwort1>
+            <falscheAntwort2>Kornblume</falscheAntwort2>
+            <falscheAntwort3>Sonnenblume</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Partner der Filmfigur „Dick“?</fragenText>
+            <richtigeAntwort>Doof</richtigeAntwort>
+            <falscheAntwort1>Dussel</falscheAntwort1>
+            <falscheAntwort2>Dumm</falscheAntwort2>
+            <falscheAntwort3>Dünn</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Tochter einer Königin?</fragenText>
+            <richtigeAntwort>Prinzessin</richtigeAntwort>
+            <falscheAntwort1>Baronin</falscheAntwort1>
+            <falscheAntwort2>Gräfin</falscheAntwort2>
+            <falscheAntwort3>Madam</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher dieser vier Planeten ist der kleinste?</fragenText>
+            <richtigeAntwort>Merkur</richtigeAntwort>
+            <falscheAntwort1>Pluto</falscheAntwort1>
+            <falscheAntwort2>Venus</falscheAntwort2>
+            <falscheAntwort3>Mars</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was hat Johann Gutenberg erfunden?</fragenText>
+            <richtigeAntwort>den Buchdruck</richtigeAntwort>
+            <falscheAntwort1>die Weinherstellung</falscheAntwort1>
+            <falscheAntwort2>das Fahrrad</falscheAntwort2>
+            <falscheAntwort3>den Computer</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das Ungeheuer von Loch Ness?</fragenText>
+            <richtigeAntwort>Nessie</richtigeAntwort>
+            <falscheAntwort1>Lassie</falscheAntwort1>
+            <falscheAntwort2>Bessie</falscheAntwort2>
+            <falscheAntwort3>Stressie</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Schauspieler spielen „Dinner for one“?</fragenText>
+            <richtigeAntwort>2</richtigeAntwort>
+            <falscheAntwort1>3</falscheAntwort1>
+            <falscheAntwort2>4</falscheAntwort2>
+            <falscheAntwort3>5</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer oder was ist ein Deserteur?</fragenText>
+            <richtigeAntwort>ein Fahnenflüchtiger</richtigeAntwort>
+            <falscheAntwort1>ein Wüstenfahrzeug</falscheAntwort1>
+            <falscheAntwort2>ein Polarforsche</falscheAntwort2>
+            <falscheAntwort3>ein leckerer Nachtisch</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist eine Frühlingsrolle?</fragenText>
+            <richtigeAntwort>ein chinesisches Gericht</richtigeAntwort>
+            <falscheAntwort1>eine Turnübung</falscheAntwort1>
+            <falscheAntwort2>ein anderer Begriff für Winterspeck</falscheAntwort2>
+            <falscheAntwort3>die Schneeschmelze im Frühling</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was bezeichnet man als Pferdeschwanz?</fragenText>
+            <richtigeAntwort>Damenfrisur</richtigeAntwort>
+            <falscheAntwort1>Kinderspiel</falscheAntwort1>
+            <falscheAntwort2>Menschenkette</falscheAntwort2>
+            <falscheAntwort3>Reitübung</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist eine Harfe?</fragenText>
+            <richtigeAntwort>ein Saiteninstrument</richtigeAntwort>
+            <falscheAntwort1>ein Blasinstrument</falscheAntwort1>
+            <falscheAntwort2>ein Gartengerät</falscheAntwort2>
+            <falscheAntwort3>ein Autowerkzeug</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Baum hat keine Nadeln?</fragenText>
+            <richtigeAntwort>Weide</richtigeAntwort>
+            <falscheAntwort1>Kiefer</falscheAntwort1>
+            <falscheAntwort2>Tanne</falscheAntwort2>
+            <falscheAntwort3>Fichte</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Gewässer ist ein fließendes Gewässer?</fragenText>
+            <richtigeAntwort>der Bach</richtigeAntwort>
+            <falscheAntwort1>das Maar</falscheAntwort1>
+            <falscheAntwort2>der Teich</falscheAntwort2>
+            <falscheAntwort3>der See</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Comic - Maus mit den großen Füßen?</fragenText>
+            <richtigeAntwort>Diddl</richtigeAntwort>
+            <falscheAntwort1>Cheeky</falscheAntwort1>
+            <falscheAntwort2>Micky Maus</falscheAntwort2>
+            <falscheAntwort3>Moppel</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wodurch vermehren sich Waldpilze?</fragenText>
+            <richtigeAntwort>Sporen</richtigeAntwort>
+            <falscheAntwort1>Zellteilung</falscheAntwort1>
+            <falscheAntwort2>Bienen</falscheAntwort2>
+            <falscheAntwort3>Fliegen</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man klein gezüchtete Bäume?</fragenText>
+            <richtigeAntwort>Bonsais</richtigeAntwort>
+            <falscheAntwort1>Sträucher</falscheAntwort1>
+            <falscheAntwort2>Büsche</falscheAntwort2>
+            <falscheAntwort3>Zwergbäume</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was für ein Tier hält Tarzan?</fragenText>
+            <richtigeAntwort>einen Affen</richtigeAntwort>
+            <falscheAntwort1>einen Löwen</falscheAntwort1>
+            <falscheAntwort2>einen Elefanten</falscheAntwort2>
+            <falscheAntwort3>einen Tiger</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer oder was ist ein Adapter?</fragenText>
+            <richtigeAntwort>eine Steckerverbindung</richtigeAntwort>
+            <falscheAntwort1>ein Hochschullehrer</falscheAntwort1>
+            <falscheAntwort2>ein Klostermönch</falscheAntwort2>
+            <falscheAntwort3>ein elektrischer Motor</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der wievielte Buchstabe im Alphabet ist das „G“?</fragenText>
+            <richtigeAntwort>der siebte</richtigeAntwort>
+            <falscheAntwort1>der sechste</falscheAntwort1>
+            <falscheAntwort2>der achte</falscheAntwort2>
+            <falscheAntwort3>der fünfte</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo befinden sich die meisten Nervenzellen?</fragenText>
+            <richtigeAntwort>im Gehirn</richtigeAntwort>
+            <falscheAntwort1>in der Wirbelsäule</falscheAntwort1>
+            <falscheAntwort2>im Auge</falscheAntwort2>
+            <falscheAntwort3>im Ohr</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Farbe hat ein Ametyst?</fragenText>
+            <richtigeAntwort>violett</richtigeAntwort>
+            <falscheAntwort1>grün</falscheAntwort1>
+            <falscheAntwort2>rot</falscheAntwort2>
+            <falscheAntwort3>gelb</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Ecken haben Bienenwaben?</fragenText>
+            <richtigeAntwort>6</richtigeAntwort>
+            <falscheAntwort1>7</falscheAntwort1>
+            <falscheAntwort2>8</falscheAntwort2>
+            <falscheAntwort3>9</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer oder was ist Macchu Picchu?</fragenText>
+            <richtigeAntwort>eine Inkaruinenstadt</richtigeAntwort>
+            <falscheAntwort1>ein indischer Gott</falscheAntwort1>
+            <falscheAntwort2>eine Birnensorte</falscheAntwort2>
+            <falscheAntwort3>feinstes Kartoffelpüree</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Schiff stieß gegen einen Eisberg und sank?</fragenText>
+            <richtigeAntwort>Titanic</richtigeAntwort>
+            <falscheAntwort1>Queen Elisabeth</falscheAntwort1>
+            <falscheAntwort2>Gigantik</falscheAntwort2>
+            <falscheAntwort3>Blue Star</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Hauptstadt von Italien?</fragenText>
+            <richtigeAntwort>Rom</richtigeAntwort>
+            <falscheAntwort1>Paris</falscheAntwort1>
+            <falscheAntwort2>Wien</falscheAntwort2>
+            <falscheAntwort3>Berlin</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was sammelt man im gelben Sack?</fragenText>
+            <richtigeAntwort>Plastik</richtigeAntwort>
+            <falscheAntwort1>alte Schuhe</falscheAntwort1>
+            <falscheAntwort2>Kartoffeln</falscheAntwort2>
+            <falscheAntwort3>gebrauchte Kleidung</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer legt eine Lichtleitung?</fragenText>
+            <richtigeAntwort>ein Elektriker</richtigeAntwort>
+            <falscheAntwort1>ein Mechaniker</falscheAntwort1>
+            <falscheAntwort2>ein Ingenieur</falscheAntwort2>
+            <falscheAntwort3>ein Klempner</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Personen spielen in einem Quartett?</fragenText>
+            <richtigeAntwort>4</richtigeAntwort>
+            <falscheAntwort1>3</falscheAntwort1>
+            <falscheAntwort2>6</falscheAntwort2>
+            <falscheAntwort3>7</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was erzeugt man mit Generatoren?</fragenText>
+            <richtigeAntwort>Strom</richtigeAntwort>
+            <falscheAntwort1>Wärme</falscheAntwort1>
+            <falscheAntwort2>Kälte</falscheAntwort2>
+            <falscheAntwort3>Licht</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Vulkanier vom Raumschiff Enterprise?</fragenText>
+            <richtigeAntwort>Mr Spock</richtigeAntwort>
+            <falscheAntwort1>Mr Bean</falscheAntwort1>
+            <falscheAntwort2>Mr Ed</falscheAntwort2>
+            <falscheAntwort3>Mr Alfa</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennst du den Vater deines Opas?</fragenText>
+            <richtigeAntwort>Uropa</richtigeAntwort>
+            <falscheAntwort1>Großonkel</falscheAntwort1>
+            <falscheAntwort2>Oheim</falscheAntwort2>
+            <falscheAntwort3>Fritz</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt eine Gruppe von Schafen?</fragenText>
+            <richtigeAntwort>Herde</richtigeAntwort>
+            <falscheAntwort1>Rudel</falscheAntwort1>
+            <falscheAntwort2>Schwarm</falscheAntwort2>
+            <falscheAntwort3>Meute</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Sternzeichen gibt es?</fragenText>
+            <richtigeAntwort>12</richtigeAntwort>
+            <falscheAntwort1>8</falscheAntwort1>
+            <falscheAntwort2>10</falscheAntwort2>
+            <falscheAntwort3>14</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Ohren eines Hasen?</fragenText>
+            <richtigeAntwort>Löffel</richtigeAntwort>
+            <falscheAntwort1>Gabeln</falscheAntwort1>
+            <falscheAntwort2>Messer</falscheAntwort2>
+            <falscheAntwort3>Lauscher</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Beruf hatte Moses?</fragenText>
+            <richtigeAntwort>Hirte</richtigeAntwort>
+            <falscheAntwort1>Bauer</falscheAntwort1>
+            <falscheAntwort2>Fischer</falscheAntwort2>
+            <falscheAntwort3>Gelehrter</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man das Geweih von Elchen?</fragenText>
+            <richtigeAntwort>Schaufeln</richtigeAntwort>
+            <falscheAntwort1>Spaten</falscheAntwort1>
+            <falscheAntwort2>Gabeln</falscheAntwort2>
+            <falscheAntwort3>Zacken</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches ist das größte Säugetier der Erde?</fragenText>
+            <richtigeAntwort>Blauwal</richtigeAntwort>
+            <falscheAntwort1>Elefant</falscheAntwort1>
+            <falscheAntwort2>Giraffe</falscheAntwort2>
+            <falscheAntwort3>Büffel</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer oder was sind Piranhas?</fragenText>
+            <richtigeAntwort>Fleisch fressende Fische</richtigeAntwort>
+            <falscheAntwort1>eine Insektengruppe</falscheAntwort1>
+            <falscheAntwort2>kleine, schiefe Türme</falscheAntwort2>
+            <falscheAntwort3>ein altes Indianervolk</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Steine trägt Obelix auf dem Rücken?</fragenText>
+            <richtigeAntwort>Hinkelsteine</richtigeAntwort>
+            <falscheAntwort1>Ziegelsteine</falscheAntwort1>
+            <falscheAntwort2>Grabsteine</falscheAntwort2>
+            <falscheAntwort3>Feuersteine</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen die Dinge, die wir im Schlaf erleben?</fragenText>
+            <richtigeAntwort>Träume</richtigeAntwort>
+            <falscheAntwort1>Halluzinationen</falscheAntwort1>
+            <falscheAntwort2>Abenteuer</falscheAntwort2>
+            <falscheAntwort3>Märchen</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was macht ein Konsument?</fragenText>
+            <richtigeAntwort>Er kauft ein.</richtigeAntwort>
+            <falscheAntwort1>Er fährt Kanu.</falscheAntwort1>
+            <falscheAntwort2>Er summt mit.</falscheAntwort2>
+            <falscheAntwort3>Er applaudiert laut.</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was kauen Termiten am liebsten?</fragenText>
+            <richtigeAntwort>Holz</richtigeAntwort>
+            <falscheAntwort1>Kaugummi</falscheAntwort1>
+            <falscheAntwort2>Lehm</falscheAntwort2>
+            <falscheAntwort3>Blätter</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Land grenzt nicht an die Alpen?</fragenText>
+            <richtigeAntwort>Polen</richtigeAntwort>
+            <falscheAntwort1>Schweiz</falscheAntwort1>
+            <falscheAntwort2>Österreich</falscheAntwort2>
+            <falscheAntwort3>Deutschland</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Aufgaben musste Herkules lösen?</fragenText>
+            <richtigeAntwort>12</richtigeAntwort>
+            <falscheAntwort1>6</falscheAntwort1>
+            <falscheAntwort2>7</falscheAntwort2>
+            <falscheAntwort3>10</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Tiere haben keine Scheren?</fragenText>
+            <richtigeAntwort>Flohkrebse</richtigeAntwort>
+            <falscheAntwort1>Flusskrebse</falscheAntwort1>
+            <falscheAntwort2>Krabben</falscheAntwort2>
+            <falscheAntwort3>Hummer</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das einzige Mädchen bei den Schlümpfen?</fragenText>
+            <richtigeAntwort>Schlumpfine</richtigeAntwort>
+            <falscheAntwort1>Schlampine</falscheAntwort1>
+            <falscheAntwort2>Schlauviane</falscheAntwort2>
+            <falscheAntwort3>Berta</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennen die Japaner ihren Kaiser?</fragenText>
+            <richtigeAntwort>Tenno</richtigeAntwort>
+            <falscheAntwort1>Menno</falscheAntwort1>
+            <falscheAntwort2>Benno</falscheAntwort2>
+            <falscheAntwort3>Jenno</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was findet man in einem Lexikon?</fragenText>
+            <richtigeAntwort>Begriffserklärungen</richtigeAntwort>
+            <falscheAntwort1>Reime</falscheAntwort1>
+            <falscheAntwort2>Lieder</falscheAntwort2>
+            <falscheAntwort3>Gedichte</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer war der erste Mensch auf dem Mond?</fragenText>
+            <richtigeAntwort>Neil Armstrong</richtigeAntwort>
+            <falscheAntwort1>Louis Armstrong</falscheAntwort1>
+            <falscheAntwort2>Louis de Funés</falscheAntwort2>
+            <falscheAntwort3>Neil Diamond</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Woraus besteht die Atmosphäre zum größten Teil?</fragenText>
+            <richtigeAntwort>Stickstoff</richtigeAntwort>
+            <falscheAntwort1>Sauerstoff</falscheAntwort1>
+            <falscheAntwort2>Kohlenstoff</falscheAntwort2>
+            <falscheAntwort3>Methan</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wofür ist die Insel Rügen bekannt?</fragenText>
+            <richtigeAntwort>für die Kreidefelsen</richtigeAntwort>
+            <falscheAntwort1>für die schönen Geschäfte</falscheAntwort1>
+            <falscheAntwort2>für die Sandstrände</falscheAntwort2>
+            <falscheAntwort3>für die seltenen Muscheln</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Tier hat kein Fell?</fragenText>
+            <richtigeAntwort>Schildkröte</richtigeAntwort>
+            <falscheAntwort1>Bernhardiner</falscheAntwort1>
+            <falscheAntwort2>Katze</falscheAntwort2>
+            <falscheAntwort3>Maus</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Frucht gehört nicht zu den Zitrusfrüchten?</fragenText>
+            <richtigeAntwort>Nektarine</richtigeAntwort>
+            <falscheAntwort1>Mandarine</falscheAntwort1>
+            <falscheAntwort2>Apfelsine</falscheAntwort2>
+            <falscheAntwort3>Pampelmuse</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo sitzt das Ohr einer Grille?</fragenText>
+            <richtigeAntwort>an den Vorderbeinen</richtigeAntwort>
+            <falscheAntwort1>am Kopf</falscheAntwort1>
+            <falscheAntwort2>am Rücken</falscheAntwort2>
+            <falscheAntwort3>am Bauch</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Stadt, in der Jesus starb?</fragenText>
+            <richtigeAntwort>Bethlehem</richtigeAntwort>
+            <falscheAntwort1>Jerusalem</falscheAntwort1>
+            <falscheAntwort2>Tel Aviv</falscheAntwort2>
+            <falscheAntwort3>Jericho</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Stadt ist berühmt für ihren Christkindl - Markt?</fragenText>
+            <richtigeAntwort>Nürnberg</richtigeAntwort>
+            <falscheAntwort1>Bamberg</falscheAntwort1>
+            <falscheAntwort2>Bayreuth</falscheAntwort2>
+            <falscheAntwort3>München</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Rollen hat ein Paar Inliner?</fragenText>
+            <richtigeAntwort>8</richtigeAntwort>
+            <falscheAntwort1>6</falscheAntwort1>
+            <falscheAntwort2>4</falscheAntwort2>
+            <falscheAntwort3>2</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man dauerhafte Hautmalereien?</fragenText>
+            <richtigeAntwort>Tattoos</richtigeAntwort>
+            <falscheAntwort1>Stilleben</falscheAntwort1>
+            <falscheAntwort2>Piercings</falscheAntwort2>
+            <falscheAntwort3>Hautbild</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was fehlt einem Zuckerkranken?</fragenText>
+            <richtigeAntwort>Insulin</richtigeAntwort>
+            <falscheAntwort1>Adrenalin</falscheAntwort1>
+            <falscheAntwort2>Zucker</falscheAntwort2>
+            <falscheAntwort3>Salz</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Schlange im Dschungelbuch?</fragenText>
+            <richtigeAntwort>Ka</richtigeAntwort>
+            <falscheAntwort1>Pa</falscheAntwort1>
+            <falscheAntwort2>Ma</falscheAntwort2>
+            <falscheAntwort3>Sa</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die legendäre versunkene Stadt?</fragenText>
+            <richtigeAntwort>Atlantis</richtigeAntwort>
+            <falscheAntwort1>Andromeda</falscheAntwort1>
+            <falscheAntwort2>Altavista</falscheAntwort2>
+            <falscheAntwort3>Albercorci</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie schmecken Feigen?</fragenText>
+            <richtigeAntwort>süß</richtigeAntwort>
+            <falscheAntwort1>sauer</falscheAntwort1>
+            <falscheAntwort2>salzig</falscheAntwort2>
+            <falscheAntwort3>bitter</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Punkte haben Marienkäfer?</fragenText>
+            <richtigeAntwort>unterschiedlich viele</richtigeAntwort>
+            <falscheAntwort1>7</falscheAntwort1>
+            <falscheAntwort2>9</falscheAntwort2>
+            <falscheAntwort3>6</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Getreide hat lange Grannen?</fragenText>
+            <richtigeAntwort>Gerste</richtigeAntwort>
+            <falscheAntwort1>Weizen</falscheAntwort1>
+            <falscheAntwort2>Hafer</falscheAntwort2>
+            <falscheAntwort3>Roggen</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Himmelsrichtung befindet sich auf einer Landkarte oben?</fragenText>
+            <richtigeAntwort>Norden</richtigeAntwort>
+            <falscheAntwort1>Süden</falscheAntwort1>
+            <falscheAntwort2>Westen</falscheAntwort2>
+            <falscheAntwort3>Osten</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man einen Schrank aus Glas?</fragenText>
+            <richtigeAntwort>Vitrine</richtigeAntwort>
+            <falscheAntwort1>Gardine</falscheAntwort1>
+            <falscheAntwort2>Latrine</falscheAntwort2>
+            <falscheAntwort3>Mandarine</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was bedeutet „simulieren“?</fragenText>
+            <richtigeAntwort>vortäuschen</richtigeAntwort>
+            <falscheAntwort1>Rechenaufgaben lösen</falscheAntwort1>
+            <falscheAntwort2>Gedichte aufsagen</falscheAntwort2>
+            <falscheAntwort3>Lieder vorsingen</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo befindet sich das Luftschloss?</fragenText>
+            <richtigeAntwort>in der Fantasie</richtigeAntwort>
+            <falscheAntwort1>im Morgenland</falscheAntwort1>
+            <falscheAntwort2>im Himmel</falscheAntwort2>
+            <falscheAntwort3>auf einem hohen Berg</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die teuerste Straße beim Monopoly?</fragenText>
+            <richtigeAntwort>Schlossallee</richtigeAntwort>
+            <falscheAntwort1>Turmstraße</falscheAntwort1>
+            <falscheAntwort2>Theaterstraße</falscheAntwort2>
+            <falscheAntwort3>Badstraße</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was kann man beim Juwelier nicht kaufen?</fragenText>
+            <richtigeAntwort>einen Rettungsring</richtigeAntwort>
+            <falscheAntwort1>eine Uhr</falscheAntwort1>
+            <falscheAntwort2>eine Goldkette</falscheAntwort2>
+            <falscheAntwort3>einen Diamanten</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen an Fäden hängende Puppen?</fragenText>
+            <richtigeAntwort>Marionetten</richtigeAntwort>
+            <falscheAntwort1>Etiketten</falscheAntwort1>
+            <falscheAntwort2>Makkaroni</falscheAntwort2>
+            <falscheAntwort3>Vignetten</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist ein Kanu?</fragenText>
+            <richtigeAntwort>ein Boot</richtigeAntwort>
+            <falscheAntwort1>ein kleines Kamel</falscheAntwort1>
+            <falscheAntwort2>eine Antilopenart</falscheAntwort2>
+            <falscheAntwort3>eine Spezialwerkzeug</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

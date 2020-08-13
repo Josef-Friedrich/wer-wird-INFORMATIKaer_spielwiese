@@ -1,0 +1,2369 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Erdkunde</fach>
+    <thema>Deutschland</thema>
+    <autor>Manfred Hartisch</autor>
+    <anzahlFragen>236</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>In welchen Fluss mündet die Ruhr?</fragenText>
+            <richtigeAntwort>Rhein</richtigeAntwort>
+            <falscheAntwort1>Donau</falscheAntwort1>
+            <falscheAntwort2>Weser</falscheAntwort2>
+            <falscheAntwort3>Elbe</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchen Fluss mündet der Lech?</fragenText>
+            <richtigeAntwort>Donau</richtigeAntwort>
+            <falscheAntwort1>Elbe</falscheAntwort1>
+            <falscheAntwort2>Rhein</falscheAntwort2>
+            <falscheAntwort3>Mosel</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Gebäude steht in Deutschland?</fragenText>
+            <richtigeAntwort>Brandenburger Tor</richtigeAntwort>
+            <falscheAntwort1>Kolosseum</falscheAntwort1>
+            <falscheAntwort2>Eiffelturm</falscheAntwort2>
+            <falscheAntwort3>Schiefe Turm von Pisa</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was bedeutet die Abkürzung B R D?</fragenText>
+            <richtigeAntwort>Bundesrepublik Deutschland</richtigeAntwort>
+            <falscheAntwort1>Berliner Republik Deutschland</falscheAntwort1>
+            <falscheAntwort2>Bunte Republik Deutschland</falscheAntwort2>
+            <falscheAntwort3>Bayrische Republik Deutschland</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Durch welches Bundesland fließt die Mosel?</fragenText>
+            <richtigeAntwort>Rheinland - Pfalz</richtigeAntwort>
+            <falscheAntwort1>Baden - Württemberg</falscheAntwort1>
+            <falscheAntwort2>Nordrhein - Westfalen</falscheAntwort2>
+            <falscheAntwort3>Mecklemburg - Vorpommern</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo befindet sich das Steinhuder Meer?</fragenText>
+            <richtigeAntwort>Niedersachsen</richtigeAntwort>
+            <falscheAntwort1>Baden - Württemberg</falscheAntwort1>
+            <falscheAntwort2>Sachsen</falscheAntwort2>
+            <falscheAntwort3>Schleswig - Holstein</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchen Fluss fließt die Tauber?</fragenText>
+            <richtigeAntwort>Main</richtigeAntwort>
+            <falscheAntwort1>Mosel</falscheAntwort1>
+            <falscheAntwort2>Rhein</falscheAntwort2>
+            <falscheAntwort3>Donau</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist die Tauber?</fragenText>
+            <richtigeAntwort>ein Nebenfluss des Mains</richtigeAntwort>
+            <falscheAntwort1>ein Volksfest in Thüringen</falscheAntwort1>
+            <falscheAntwort2>ein Weingebiet an der Mosel</falscheAntwort2>
+            <falscheAntwort3>eine Bergspitze im Harz</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Wald gibt es in Deutschland?</fragenText>
+            <richtigeAntwort>Schwarzwald</richtigeAntwort>
+            <falscheAntwort1>Blauwald</falscheAntwort1>
+            <falscheAntwort2>Rotwald</falscheAntwort2>
+            <falscheAntwort3>Grünwald</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>An welchem Fluss befindet sich die Loreley?</fragenText>
+            <richtigeAntwort>Rhein</richtigeAntwort>
+            <falscheAntwort1>Elbe</falscheAntwort1>
+            <falscheAntwort2>Weser</falscheAntwort2>
+            <falscheAntwort3>Donau</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Bei welcher Stadt fließen die Donau, die Ilz und der Inn zusammen?</fragenText>
+            <richtigeAntwort>Passau</richtigeAntwort>
+            <falscheAntwort1>Peine</falscheAntwort1>
+            <falscheAntwort2>München</falscheAntwort2>
+            <falscheAntwort3>Münster</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo liegt das Emsland?</fragenText>
+            <richtigeAntwort>im Nordwesten Niedersachsens</richtigeAntwort>
+            <falscheAntwort1>im Nordosten Sachsen - Anhalts</falscheAntwort1>
+            <falscheAntwort2>im Südosten Sachsens</falscheAntwort2>
+            <falscheAntwort3>im Südwesten Hessens</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Seen gibt es in Schleswig - Holstein?</fragenText>
+            <richtigeAntwort>über 300</richtigeAntwort>
+            <falscheAntwort1>250 - 280</falscheAntwort1>
+            <falscheAntwort2>ca. 50</falscheAntwort2>
+            <falscheAntwort3>198</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viel Prozent der Gesamtfläche Deutschlands sind bewaldet?</fragenText>
+            <richtigeAntwort>30 %</richtigeAntwort>
+            <falscheAntwort1>20 %</falscheAntwort1>
+            <falscheAntwort2>10 %</falscheAntwort2>
+            <falscheAntwort3>50 %</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Bei welcher Stadt treffen Rhein und Mosel zusammen?</fragenText>
+            <richtigeAntwort>Koblenz</richtigeAntwort>
+            <falscheAntwort1>Köln</falscheAntwort1>
+            <falscheAntwort2>Konstanz</falscheAntwort2>
+            <falscheAntwort3>Kamen</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Flüsse treffen in Koblenz aufeinander?</fragenText>
+            <richtigeAntwort>Rhein und Mosel</richtigeAntwort>
+            <falscheAntwort1>Rhein und Ruhr</falscheAntwort1>
+            <falscheAntwort2>Rhein und Main</falscheAntwort2>
+            <falscheAntwort3>Rhein und Wesel</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Stadt ist k e i n e Hansestadt?</fragenText>
+            <richtigeAntwort>Bochum</richtigeAntwort>
+            <falscheAntwort1>Bremen</falscheAntwort1>
+            <falscheAntwort2>Rostock</falscheAntwort2>
+            <falscheAntwort3>Hamburg</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Insel gehört n i c h t zu Deutschland?</fragenText>
+            <richtigeAntwort>Ameland</richtigeAntwort>
+            <falscheAntwort1>Wangerooge</falscheAntwort1>
+            <falscheAntwort2>Amrum</falscheAntwort2>
+            <falscheAntwort3>Helgoland</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Insel gehört n i c h t zu Deutschland?</fragenText>
+            <richtigeAntwort>Texel</richtigeAntwort>
+            <falscheAntwort1>Sylt</falscheAntwort1>
+            <falscheAntwort2>Juist</falscheAntwort2>
+            <falscheAntwort3>Rügen</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welchen Inseln gehört Amrum?</fragenText>
+            <richtigeAntwort>zu den Nordfriesischen Inseln</richtigeAntwort>
+            <falscheAntwort1>zu den Westfriesischen Inseln</falscheAntwort1>
+            <falscheAntwort2>zu den Ostfriesischen Inseln</falscheAntwort2>
+            <falscheAntwort3>zu den Südfriesischen Inseln</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>15</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welchen Inseln gehört Borkum?</fragenText>
+            <richtigeAntwort>zu den Ostfriesischen Inseln</richtigeAntwort>
+            <falscheAntwort1>zu den Westfriesischen Inseln</falscheAntwort1>
+            <falscheAntwort2>zu den Nordfriesischen Inseln</falscheAntwort2>
+            <falscheAntwort3>zu den Südfriesischen Inseln</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welchen Inseln gehört Baltrum?</fragenText>
+            <richtigeAntwort>zu den Ostfriesische Inseln</richtigeAntwort>
+            <falscheAntwort1>zu den Westfriesischen Inseln</falscheAntwort1>
+            <falscheAntwort2>zu den Nordfriesischen Inseln</falscheAntwort2>
+            <falscheAntwort3>zu den Südfriesischen Inseln</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welchen Inseln gehört Spiekeroog?</fragenText>
+            <richtigeAntwort>zu den Ostfriesischen Inseln</richtigeAntwort>
+            <falscheAntwort1>zu den Südfriesischen Inseln</falscheAntwort1>
+            <falscheAntwort2>zu den Nordfriesischen Inseln</falscheAntwort2>
+            <falscheAntwort3>zu den Westfriesischen Inseln</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welchen Inseln gehört Langeoog?</fragenText>
+            <richtigeAntwort>zu den Ostfriesischen Inseln</richtigeAntwort>
+            <falscheAntwort1>zu den Westfriesischen Inseln</falscheAntwort1>
+            <falscheAntwort2>zu den Nordfriesischen Inseln</falscheAntwort2>
+            <falscheAntwort3>zu den Südfriesischen Inseln</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welchen Inseln gehört Wangerooge?</fragenText>
+            <richtigeAntwort>zu den Ostfriesischen Inseln</richtigeAntwort>
+            <falscheAntwort1>zu den Westfriesischen Inseln</falscheAntwort1>
+            <falscheAntwort2>zu den Nordfriesischen Inseln</falscheAntwort2>
+            <falscheAntwort3>zu den Südfriesischen Inseln</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welchen Inseln gehört Juist?</fragenText>
+            <richtigeAntwort>zu den Ostfriesischen Inseln</richtigeAntwort>
+            <falscheAntwort1>zu den Westfriesischen Inseln</falscheAntwort1>
+            <falscheAntwort2>zu den Nordfriesischen Inseln</falscheAntwort2>
+            <falscheAntwort3>zu den Südfriesischen Inseln</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welchen Inseln gehört Norderney?</fragenText>
+            <richtigeAntwort>zu den Ostfriesischen Inseln</richtigeAntwort>
+            <falscheAntwort1>zu den Südfriesischen Inseln</falscheAntwort1>
+            <falscheAntwort2>zu den Nordfriesischen Inseln</falscheAntwort2>
+            <falscheAntwort3>zu den Westfriesischen Inseln</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welchen Inseln gehört Föhr?</fragenText>
+            <richtigeAntwort>zu den Nordfriesischen Inseln</richtigeAntwort>
+            <falscheAntwort1>zu den Südfriesischen Inseln</falscheAntwort1>
+            <falscheAntwort2>zu den Ostfriesischen Inseln</falscheAntwort2>
+            <falscheAntwort3>zu den Westfriesischen Inseln</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welchen Inseln gehört Sylt?</fragenText>
+            <richtigeAntwort>zu den Nordfriesischen Inseln</richtigeAntwort>
+            <falscheAntwort1>zu den Westfriesischen Inseln</falscheAntwort1>
+            <falscheAntwort2>zu den Ostfriesischen Inseln</falscheAntwort2>
+            <falscheAntwort3>zu den Südfriesischen Inseln</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welcher Stadt steht Deutschlands höchstes Bauwerk (ein 368 m hoher Fernsehturm)?</fragenText>
+            <richtigeAntwort>Berlin</richtigeAntwort>
+            <falscheAntwort1>München</falscheAntwort1>
+            <falscheAntwort2>Hamburg</falscheAntwort2>
+            <falscheAntwort3>Bremen</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Bundesland liegt zwischen der Nordsee und der Ostsee?</fragenText>
+            <richtigeAntwort>Schleswig - Holstein</richtigeAntwort>
+            <falscheAntwort1>Sachsen</falscheAntwort1>
+            <falscheAntwort2>Niedersachsen</falscheAntwort2>
+            <falscheAntwort3>Mecklemburg - Vorpommern</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann beginnt das Oktoberfest in München?</fragenText>
+            <richtigeAntwort>im September</richtigeAntwort>
+            <falscheAntwort1>im November</falscheAntwort1>
+            <falscheAntwort2>im Oktober</falscheAntwort2>
+            <falscheAntwort3>im August</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo findet jedes Jahr das Oktoberfest statt?</fragenText>
+            <richtigeAntwort>München</richtigeAntwort>
+            <falscheAntwort1>Berlin</falscheAntwort1>
+            <falscheAntwort2>Hamburg</falscheAntwort2>
+            <falscheAntwort3>Köln</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Fluss fließt durch Dresden?</fragenText>
+            <richtigeAntwort>Elbe</richtigeAntwort>
+            <falscheAntwort1>Donau</falscheAntwort1>
+            <falscheAntwort2>Rhein</falscheAntwort2>
+            <falscheAntwort3>Weser</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das größte Industriegebiet Deutschlands?</fragenText>
+            <richtigeAntwort>Ruhrgebiet</richtigeAntwort>
+            <falscheAntwort1>Alpenvorland</falscheAntwort1>
+            <falscheAntwort2>Niederrhein</falscheAntwort2>
+            <falscheAntwort3>Kölner Bucht</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Einwohner hat Nordrhein - Westfalen?</fragenText>
+            <richtigeAntwort>17 Millionen</richtigeAntwort>
+            <falscheAntwort1>23 Millionen</falscheAntwort1>
+            <falscheAntwort2>10 Millionen</falscheAntwort2>
+            <falscheAntwort3>13 Millionen</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch ist der Große Arber, höchster Berg des Bayrischen Waldes?</fragenText>
+            <richtigeAntwort>1.456 m</richtigeAntwort>
+            <falscheAntwort1>2.405 m</falscheAntwort1>
+            <falscheAntwort2>1.138 m</falscheAntwort2>
+            <falscheAntwort3>842 m</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der höchste Berg des Bayrischen Waldes?</fragenText>
+            <richtigeAntwort>Großer Arber</richtigeAntwort>
+            <falscheAntwort1>Mittleres Weil</falscheAntwort1>
+            <falscheAntwort2>Kleines Oder</falscheAntwort2>
+            <falscheAntwort3>Hohes Dann</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lautet die Abkürzung für Deutschland?</fragenText>
+            <richtigeAntwort>B R D</richtigeAntwort>
+            <falscheAntwort1>D S L</falscheAntwort1>
+            <falscheAntwort2>B D S</falscheAntwort2>
+            <falscheAntwort3>D E U</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lautet das KFZ - Zeichen von Deutschland?</fragenText>
+            <richtigeAntwort>D</richtigeAntwort>
+            <falscheAntwort1>DT</falscheAntwort1>
+            <falscheAntwort2>DD</falscheAntwort2>
+            <falscheAntwort3>DS</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist der „Hamburger Dom“?</fragenText>
+            <richtigeAntwort>ein berühmtes Volksfest</richtigeAntwort>
+            <falscheAntwort1>ein Hamburger, der nur sonntags verkauft wird</falscheAntwort1>
+            <falscheAntwort2>Hamburgs älteste Kirche</falscheAntwort2>
+            <falscheAntwort3>ein Schiff, auf dem im Hamburger Hafen Gottesdienste gefeiert werden</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das berühmte Märchenschloss, das Ludwig II. bauen ließ?</fragenText>
+            <richtigeAntwort>Schloss Neuschwanstein</richtigeAntwort>
+            <falscheAntwort1>Schloss Neuschwanburg</falscheAntwort1>
+            <falscheAntwort2>Schloss Altschwanstein</falscheAntwort2>
+            <falscheAntwort3>Schloss Schneewittchen</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welcher Stadt findet die Internationale Spielwarenmesse statt?</fragenText>
+            <richtigeAntwort>Nürnberg</richtigeAntwort>
+            <falscheAntwort1>Hannover</falscheAntwort1>
+            <falscheAntwort2>Solingen</falscheAntwort2>
+            <falscheAntwort3>Dresden</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Jahr wurde die Berliner Mauer gebaut?</fragenText>
+            <richtigeAntwort>1961</richtigeAntwort>
+            <falscheAntwort1>1954</falscheAntwort1>
+            <falscheAntwort2>1963</falscheAntwort2>
+            <falscheAntwort3>1969</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>An welchem Fluss liegt Bremen?</fragenText>
+            <richtigeAntwort>Weser</richtigeAntwort>
+            <falscheAntwort1>Mosel</falscheAntwort1>
+            <falscheAntwort2>Rhein</falscheAntwort2>
+            <falscheAntwort3>Donau</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt ein Aussichtsfelsen im Elbsandsteingebirge südöstlich von Dresden?</fragenText>
+            <richtigeAntwort>Bastei</richtigeAntwort>
+            <falscheAntwort1>Loreley</falscheAntwort1>
+            <falscheAntwort2>Adlerblick</falscheAntwort2>
+            <falscheAntwort3>Schauinsland</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Stadt hat den Spitznamen „Mainhattan“?</fragenText>
+            <richtigeAntwort>Frankfurt</richtigeAntwort>
+            <falscheAntwort1>Mannheim</falscheAntwort1>
+            <falscheAntwort2>Mainz</falscheAntwort2>
+            <falscheAntwort3>Karlsruhe</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Stadt ist berühmt für die Herstellung von optischen Geräten und hitzebeständigem Glas?</fragenText>
+            <richtigeAntwort>Jena</richtigeAntwort>
+            <falscheAntwort1>Jülich</falscheAntwort1>
+            <falscheAntwort2>Jever</falscheAntwort2>
+            <falscheAntwort3>Jagsthausen</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Stadt mit den meisten Einwohnern?</fragenText>
+            <richtigeAntwort>Berlin</richtigeAntwort>
+            <falscheAntwort1>Hamburg</falscheAntwort1>
+            <falscheAntwort2>München</falscheAntwort2>
+            <falscheAntwort3>Frankfurt</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Bei welcher Stadt steht die Wartburg?</fragenText>
+            <richtigeAntwort>Eisenach</richtigeAntwort>
+            <falscheAntwort1>Gummersbach</falscheAntwort1>
+            <falscheAntwort2>Biberach</falscheAntwort2>
+            <falscheAntwort3>Allensbach</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo liegt die Stadt Friedrichshafen?</fragenText>
+            <richtigeAntwort>am Bodensee</richtigeAntwort>
+            <falscheAntwort1>an der Ostsee</falscheAntwort1>
+            <falscheAntwort2>an der Nordsee</falscheAntwort2>
+            <falscheAntwort3>am Biggesee</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist der Prenzlauer Berg?</fragenText>
+            <richtigeAntwort>ein Stadtteil Berlins</richtigeAntwort>
+            <falscheAntwort1>ein Volksfest am Niederrhein</falscheAntwort1>
+            <falscheAntwort2>ein Berg im Harz</falscheAntwort2>
+            <falscheAntwort3>ein Berg bei Pirmasens</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Bundesland hat die meisten Einwohner?</fragenText>
+            <richtigeAntwort>Nordrhein - Westfalen</richtigeAntwort>
+            <falscheAntwort1>Sachsen</falscheAntwort1>
+            <falscheAntwort2>Bayern</falscheAntwort2>
+            <falscheAntwort3>Schleswig - Holstein</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welcher Stadt steht die älteste Universität Deutschlands?</fragenText>
+            <richtigeAntwort>Heidelberg</richtigeAntwort>
+            <falscheAntwort1>München</falscheAntwort1>
+            <falscheAntwort2>Göttingen</falscheAntwort2>
+            <falscheAntwort3>Gerolstein</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist die Eifel?</fragenText>
+            <richtigeAntwort>ein deutsches Mittelgebirge</richtigeAntwort>
+            <falscheAntwort1>ein Freizeitpark in Hamburg</falscheAntwort1>
+            <falscheAntwort2>ein Nebenfluss der Ems</falscheAntwort2>
+            <falscheAntwort3>ein Industriegebiet</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Fluss fließt durch Weimar?</fragenText>
+            <richtigeAntwort>Ilm</richtigeAntwort>
+            <falscheAntwort1>Isar</falscheAntwort1>
+            <falscheAntwort2>Inn</falscheAntwort2>
+            <falscheAntwort3>Iller</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welcher Stadt steht das Deutsche Museum?</fragenText>
+            <richtigeAntwort>München</richtigeAntwort>
+            <falscheAntwort1>Hamburg</falscheAntwort1>
+            <falscheAntwort2>Berlin</falscheAntwort2>
+            <falscheAntwort3>Köln</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die östlichste Stadt Deutschlands?</fragenText>
+            <richtigeAntwort>Görlitz</richtigeAntwort>
+            <falscheAntwort1>Rosenheim</falscheAntwort1>
+            <falscheAntwort2>Passau</falscheAntwort2>
+            <falscheAntwort3>Rostock</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch ist die Wasserkuppe, der höchste Berg der Rhön?</fragenText>
+            <richtigeAntwort>950 m</richtigeAntwort>
+            <falscheAntwort1>1.4.50 m</falscheAntwort1>
+            <falscheAntwort2>650 m</falscheAntwort2>
+            <falscheAntwort3>1.230 m</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der höchste Berg der Rhön?</fragenText>
+            <richtigeAntwort>Wasserkuppe</richtigeAntwort>
+            <falscheAntwort1>Erdklumpen</falscheAntwort1>
+            <falscheAntwort2>Sandkippe</falscheAntwort2>
+            <falscheAntwort3>Feuerhügel</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die zweitgrößte Stadt Deutschlands?</fragenText>
+            <richtigeAntwort>Hamburg</richtigeAntwort>
+            <falscheAntwort1>Leipzig</falscheAntwort1>
+            <falscheAntwort2>Köln</falscheAntwort2>
+            <falscheAntwort3>Frankfurt</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Stadt war nach dem zweiten Weltkrieg bis zur Wiedervereinigung geteilt?</fragenText>
+            <richtigeAntwort>Berlin</richtigeAntwort>
+            <falscheAntwort1>München</falscheAntwort1>
+            <falscheAntwort2>Hamburg</falscheAntwort2>
+            <falscheAntwort3>Dresden</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hieß der östliche Teil Deutschlands nach dem 2. Weltkrieg bis zur Wiedervereinigung?</fragenText>
+            <richtigeAntwort>D D R</richtigeAntwort>
+            <falscheAntwort1>W D R</falscheAntwort1>
+            <falscheAntwort2>Ö D R</falscheAntwort2>
+            <falscheAntwort3>S S D</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann fand die Wiedervereinigung der beiden deutschen Staaten statt?</fragenText>
+            <richtigeAntwort>1990</richtigeAntwort>
+            <falscheAntwort1>1970</falscheAntwort1>
+            <falscheAntwort2>1980</falscheAntwort2>
+            <falscheAntwort3>2000</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>15</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man eine Art Salzwassersee an der Küste mit einer ganz engen Öffnung zum Meer?</fragenText>
+            <richtigeAntwort>Bodden</richtigeAntwort>
+            <falscheAntwort1>Kodden</falscheAntwort1>
+            <falscheAntwort2>Modden</falscheAntwort2>
+            <falscheAntwort3>Wodden</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die winzigen Marschinseln?</fragenText>
+            <richtigeAntwort>Halligen</richtigeAntwort>
+            <falscheAntwort1>Galligen</falscheAntwort1>
+            <falscheAntwort2>Walligen</falscheAntwort2>
+            <falscheAntwort3>Falligen</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie wird die Insel Mainau auch genannt?</fragenText>
+            <richtigeAntwort>Blumeninsel</richtigeAntwort>
+            <falscheAntwort1>Urlaubsinsel</falscheAntwort1>
+            <falscheAntwort2>Palmeninsel</falscheAntwort2>
+            <falscheAntwort3>Geisterinsel</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Bundesland steht die Burg Falkenstein?</fragenText>
+            <richtigeAntwort>Sachsen - Anhalt</richtigeAntwort>
+            <falscheAntwort1>Rheinland - Pfalz</falscheAntwort1>
+            <falscheAntwort2>Baden - Württemberg</falscheAntwort2>
+            <falscheAntwort3>Schleswig - Holstein</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Bundesland steht das Schloss Neuschwanstein?</fragenText>
+            <richtigeAntwort>Bayern</richtigeAntwort>
+            <falscheAntwort1>Hessen</falscheAntwort1>
+            <falscheAntwort2>Sachsen</falscheAntwort2>
+            <falscheAntwort3>Bremen</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Sage? Der Rattenfänger von ...</fragenText>
+            <richtigeAntwort>Hameln</richtigeAntwort>
+            <falscheAntwort1>Hamm</falscheAntwort1>
+            <falscheAntwort2>Wesel</falscheAntwort2>
+            <falscheAntwort3>Hamburg</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchen Fluss mündet die Mosel?</fragenText>
+            <richtigeAntwort>Rhein</richtigeAntwort>
+            <falscheAntwort1>Donau</falscheAntwort1>
+            <falscheAntwort2>Elbe</falscheAntwort2>
+            <falscheAntwort3>Ems</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie wird der Brocken auch genannt?</fragenText>
+            <richtigeAntwort>Blocksberg</richtigeAntwort>
+            <falscheAntwort1>Feldberg</falscheAntwort1>
+            <falscheAntwort2>Bibbi</falscheAntwort2>
+            <falscheAntwort3>Eisberg</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>An wie viele Länder grenzt Deutschland?</fragenText>
+            <richtigeAntwort>9</richtigeAntwort>
+            <falscheAntwort1>7</falscheAntwort1>
+            <falscheAntwort2>8</falscheAntwort2>
+            <falscheAntwort3>10</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Bundesland liegt der Teutoburger Wald?</fragenText>
+            <richtigeAntwort>Nordrhein - Westfalen</richtigeAntwort>
+            <falscheAntwort1>Saarland</falscheAntwort1>
+            <falscheAntwort2>Brandenburg</falscheAntwort2>
+            <falscheAntwort3>Bayern</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt ein kleines Gebirge nördlich von Freiburg?</fragenText>
+            <richtigeAntwort>Kaiserstuhl</richtigeAntwort>
+            <falscheAntwort1>Kaisersessel</falscheAntwort1>
+            <falscheAntwort2>Kaisertisch</falscheAntwort2>
+            <falscheAntwort3>Kaiserbett</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Bundesland grenzt an die Niederlande?</fragenText>
+            <richtigeAntwort>Nordrhein - Westfalen</richtigeAntwort>
+            <falscheAntwort1>Rheinland - Pfalz</falscheAntwort1>
+            <falscheAntwort2>Mecklenburg - Vorpommern</falscheAntwort2>
+            <falscheAntwort3>Sachsen</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Bundesland grenzt an Dänemark?</fragenText>
+            <richtigeAntwort>Schleswig - Holstein</richtigeAntwort>
+            <falscheAntwort1>Baden - Württemberg</falscheAntwort1>
+            <falscheAntwort2>Thüringen</falscheAntwort2>
+            <falscheAntwort3>Hessen</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Bundesland liegt im Osten?</fragenText>
+            <richtigeAntwort>Brandenburg</richtigeAntwort>
+            <falscheAntwort1>Rheinland - Pfalz</falscheAntwort1>
+            <falscheAntwort2>Saarland</falscheAntwort2>
+            <falscheAntwort3>Schleswig - Holstein</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Bundesland liegt im Westen?</fragenText>
+            <richtigeAntwort>Nordrhein - Westfalen</richtigeAntwort>
+            <falscheAntwort1>Thüringen</falscheAntwort1>
+            <falscheAntwort2>Sachsen - Anhalt</falscheAntwort2>
+            <falscheAntwort3>Bayern</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Bundesland liegt im Süden?</fragenText>
+            <richtigeAntwort>Bayern</richtigeAntwort>
+            <falscheAntwort1>Niedersachsen</falscheAntwort1>
+            <falscheAntwort2>Brandenburg</falscheAntwort2>
+            <falscheAntwort3>Nordrhein - Westfalen</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Bundesland liegt im Norden?</fragenText>
+            <richtigeAntwort>Schleswig - Holstein</richtigeAntwort>
+            <falscheAntwort1>Sachsen</falscheAntwort1>
+            <falscheAntwort2>Bayern</falscheAntwort2>
+            <falscheAntwort3>Hessen</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Bundesland grenzt an Polen?</fragenText>
+            <richtigeAntwort>Brandenburg</richtigeAntwort>
+            <falscheAntwort1>Nordrhein - Westfalen</falscheAntwort1>
+            <falscheAntwort2>Saarland</falscheAntwort2>
+            <falscheAntwort3>Rheinland - Pfalz</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Bundesland grenzt an Österreich?</fragenText>
+            <richtigeAntwort>Bayern</richtigeAntwort>
+            <falscheAntwort1>Mecklenburg - Vorpommern</falscheAntwort1>
+            <falscheAntwort2>Hessen</falscheAntwort2>
+            <falscheAntwort3>Niedersachsen</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Bundesland grenzt an Luxemburg?</fragenText>
+            <richtigeAntwort>Saarland</richtigeAntwort>
+            <falscheAntwort1>Bayern</falscheAntwort1>
+            <falscheAntwort2>Hessen</falscheAntwort2>
+            <falscheAntwort3>Thüringen</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das größte Bundesland?</fragenText>
+            <richtigeAntwort>Bayern</richtigeAntwort>
+            <falscheAntwort1>Brandenburg</falscheAntwort1>
+            <falscheAntwort2>Nordrhein - Westfalen</falscheAntwort2>
+            <falscheAntwort3>Schleswig - Holstein</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das kleinste Bundesland?</fragenText>
+            <richtigeAntwort>Bremen</richtigeAntwort>
+            <falscheAntwort1>Hamburg</falscheAntwort1>
+            <falscheAntwort2>Saarland</falscheAntwort2>
+            <falscheAntwort3>Hessen</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welchem Bundesland gehört die Insel Helgoland?</fragenText>
+            <richtigeAntwort>Schleswig - Holstein</richtigeAntwort>
+            <falscheAntwort1>Sachsen - Anhalt</falscheAntwort1>
+            <falscheAntwort2>Baden - Württemberg</falscheAntwort2>
+            <falscheAntwort3>Hessen</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die einzige deutsche Hochseeinsel?</fragenText>
+            <richtigeAntwort>Helgoland</richtigeAntwort>
+            <falscheAntwort1>Norderney</falscheAntwort1>
+            <falscheAntwort2>Föhr</falscheAntwort2>
+            <falscheAntwort3>Baltrum</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die größte deutsche Insel?</fragenText>
+            <richtigeAntwort>Rügen</richtigeAntwort>
+            <falscheAntwort1>Helgoland</falscheAntwort1>
+            <falscheAntwort2>Sylt</falscheAntwort2>
+            <falscheAntwort3>Amrum</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo fuhr 1835 die erste Eisenbahn in Deutschland?</fragenText>
+            <richtigeAntwort>zwischen Nürnberg und Fürth</richtigeAntwort>
+            <falscheAntwort1>zwischen Dortmund und Bochum</falscheAntwort1>
+            <falscheAntwort2>zwischen Köln und Düsseldorf</falscheAntwort2>
+            <falscheAntwort3>zwischen Hamburg und Bremen</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo liegt die Niederlausitz?</fragenText>
+            <richtigeAntwort>im Südosten Brandenburgs</richtigeAntwort>
+            <falscheAntwort1>im Nordwesten Bayerns</falscheAntwort1>
+            <falscheAntwort2>im Süden Hessens</falscheAntwort2>
+            <falscheAntwort3>im Osten Thüringens</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist die Müritz?</fragenText>
+            <richtigeAntwort>der zweitgrößte See Deutschlands</richtigeAntwort>
+            <falscheAntwort1>eine Ruine in der Eifel</falscheAntwort1>
+            <falscheAntwort2>ein Nebenfluss des Rheins</falscheAntwort2>
+            <falscheAntwort3>ein Freizeitpark in Hessen</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo steht das berühmte Schloss Sanssouci?</fragenText>
+            <richtigeAntwort>Potsdam</richtigeAntwort>
+            <falscheAntwort1>Stuttgart</falscheAntwort1>
+            <falscheAntwort2>Hannover</falscheAntwort2>
+            <falscheAntwort3>Weimar</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie tief ist der Bodensee?</fragenText>
+            <richtigeAntwort>252 m</richtigeAntwort>
+            <falscheAntwort1>52 m</falscheAntwort1>
+            <falscheAntwort2>152 m</falscheAntwort2>
+            <falscheAntwort3>352 m</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der größte See Deutschlands?</fragenText>
+            <richtigeAntwort>Bodensee</richtigeAntwort>
+            <falscheAntwort1>Rursee</falscheAntwort1>
+            <falscheAntwort2>Chiemsee</falscheAntwort2>
+            <falscheAntwort3>Steinhuder Meer</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Fluss fließt durch Hamburg?</fragenText>
+            <richtigeAntwort>Elbe</richtigeAntwort>
+            <falscheAntwort1>Mosel</falscheAntwort1>
+            <falscheAntwort2>Main</falscheAntwort2>
+            <falscheAntwort3>Neckar</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Fluss fließt durch Berlin?</fragenText>
+            <richtigeAntwort>Spree</richtigeAntwort>
+            <falscheAntwort1>Rur</falscheAntwort1>
+            <falscheAntwort2>Emscher</falscheAntwort2>
+            <falscheAntwort3>Inn</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welches Meer mündet der Rhein?</fragenText>
+            <richtigeAntwort>Nordsee</richtigeAntwort>
+            <falscheAntwort1>Mittelmeer</falscheAntwort1>
+            <falscheAntwort2>Ostsee</falscheAntwort2>
+            <falscheAntwort3>Kaspische Meer</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Fluss bildet teilweise die Grenze zwischen Bayern und Baden - Württemberg?</fragenText>
+            <richtigeAntwort>Iller</richtigeAntwort>
+            <falscheAntwort1>Inn</falscheAntwort1>
+            <falscheAntwort2>Isar</falscheAntwort2>
+            <falscheAntwort3>Ems</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang ist die Havel?</fragenText>
+            <richtigeAntwort>343 km</richtigeAntwort>
+            <falscheAntwort1>609 km</falscheAntwort1>
+            <falscheAntwort2>142 km</falscheAntwort2>
+            <falscheAntwort3>1.256 km</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Fluss ist k e i n Nebenfluss der Donau?</fragenText>
+            <richtigeAntwort>Mosel</richtigeAntwort>
+            <falscheAntwort1>Isar</falscheAntwort1>
+            <falscheAntwort2>Wörnitz</falscheAntwort2>
+            <falscheAntwort3>Inn</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang ist die Elbe?</fragenText>
+            <richtigeAntwort>1.165 km</richtigeAntwort>
+            <falscheAntwort1>653 km</falscheAntwort1>
+            <falscheAntwort2>907 km</falscheAntwort2>
+            <falscheAntwort3>393 km</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo steht das Brandenburger Tor?</fragenText>
+            <richtigeAntwort>Berlin</richtigeAntwort>
+            <falscheAntwort1>Hamburg</falscheAntwort1>
+            <falscheAntwort2>München</falscheAntwort2>
+            <falscheAntwort3>Köln</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Stadt liegt im Bodensee und ist nur durch eine Auto - und Eisenbahnbrücke mit dem Festland verbunden?</fragenText>
+            <richtigeAntwort>Lindau</richtigeAntwort>
+            <falscheAntwort1>Bodenwerda</falscheAntwort1>
+            <falscheAntwort2>Mainau</falscheAntwort2>
+            <falscheAntwort3>Hannover</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Fluss, der durch den Bodensee fließt?</fragenText>
+            <richtigeAntwort>Rhein</richtigeAntwort>
+            <falscheAntwort1>Ruhr</falscheAntwort1>
+            <falscheAntwort2>Boden</falscheAntwort2>
+            <falscheAntwort3>Isar</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt Deutschlands größter Fluss?</fragenText>
+            <richtigeAntwort>Rhein</richtigeAntwort>
+            <falscheAntwort1>Ems</falscheAntwort1>
+            <falscheAntwort2>Mosel</falscheAntwort2>
+            <falscheAntwort3>Donau</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo entspringt die Donau?</fragenText>
+            <richtigeAntwort>Donaueschingen</richtigeAntwort>
+            <falscheAntwort1>Dortmund</falscheAntwort1>
+            <falscheAntwort2>Donauwörth</falscheAntwort2>
+            <falscheAntwort3>Havixbeck</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wofür ist die Stadt Meißen bekannt?</fragenText>
+            <richtigeAntwort>Porzellan</richtigeAntwort>
+            <falscheAntwort1>Bier</falscheAntwort1>
+            <falscheAntwort2>Kohle</falscheAntwort2>
+            <falscheAntwort3>Automobilbau</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Bundesland liegt der Schweriner See?</fragenText>
+            <richtigeAntwort>Mecklenburg - Vorpommern</richtigeAntwort>
+            <falscheAntwort1>Thüringen</falscheAntwort1>
+            <falscheAntwort2>Brandenburg</falscheAntwort2>
+            <falscheAntwort3>Schleswig - Holstein</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>An welches Land grenzt Schleswig - Holstein im Norden?</fragenText>
+            <richtigeAntwort>Dänemark</richtigeAntwort>
+            <falscheAntwort1>Polen</falscheAntwort1>
+            <falscheAntwort2>Schweden</falscheAntwort2>
+            <falscheAntwort3>Frankreich</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welcher Stadt steht der höchste Kirchturm der Welt?</fragenText>
+            <richtigeAntwort>Ulm</richtigeAntwort>
+            <falscheAntwort1>Hagen</falscheAntwort1>
+            <falscheAntwort2>Münster</falscheAntwort2>
+            <falscheAntwort3>Coesfeld</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Hauptstadt von Deutschland?</fragenText>
+            <richtigeAntwort>Berlin</richtigeAntwort>
+            <falscheAntwort1>München</falscheAntwort1>
+            <falscheAntwort2>Bonn</falscheAntwort2>
+            <falscheAntwort3>Hamburg</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Bundesländer hat Deutschland?</fragenText>
+            <richtigeAntwort>16</richtigeAntwort>
+            <falscheAntwort1>12</falscheAntwort1>
+            <falscheAntwort2>14</falscheAntwort2>
+            <falscheAntwort3>18</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>15</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Fluss fließt durch Köln?</fragenText>
+            <richtigeAntwort>Rhein</richtigeAntwort>
+            <falscheAntwort1>Donau</falscheAntwort1>
+            <falscheAntwort2>Mosel</falscheAntwort2>
+            <falscheAntwort3>Weser</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo steht der „Michel“?</fragenText>
+            <richtigeAntwort>Hamburg</richtigeAntwort>
+            <falscheAntwort1>Frankfurt</falscheAntwort1>
+            <falscheAntwort2>München</falscheAntwort2>
+            <falscheAntwort3>Kiel</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo steht die Porta Nigra?</fragenText>
+            <richtigeAntwort>Trier</richtigeAntwort>
+            <falscheAntwort1>Münster</falscheAntwort1>
+            <falscheAntwort2>Ulm</falscheAntwort2>
+            <falscheAntwort3>Xanten</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo steht der Reichstag?</fragenText>
+            <richtigeAntwort>Berlin</richtigeAntwort>
+            <falscheAntwort1>Bonn</falscheAntwort1>
+            <falscheAntwort2>München</falscheAntwort2>
+            <falscheAntwort3>Hamburg</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo entspringt die Elbe?</fragenText>
+            <richtigeAntwort>Riesengebirge</richtigeAntwort>
+            <falscheAntwort1>Karwendelgebirge</falscheAntwort1>
+            <falscheAntwort2>Rothaargebirge</falscheAntwort2>
+            <falscheAntwort3>Wiehengebirge</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchen Fluss mündet die Ruhr?</fragenText>
+            <richtigeAntwort>Rhein</richtigeAntwort>
+            <falscheAntwort1>Ems</falscheAntwort1>
+            <falscheAntwort2>Donau</falscheAntwort2>
+            <falscheAntwort3>Main</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchen Fluss mündet die Lippe?</fragenText>
+            <richtigeAntwort>Rhein</richtigeAntwort>
+            <falscheAntwort1>Main</falscheAntwort1>
+            <falscheAntwort2>Donau</falscheAntwort2>
+            <falscheAntwort3>Weser</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchen Fluss mündet die Spree?</fragenText>
+            <richtigeAntwort>Havel</richtigeAntwort>
+            <falscheAntwort1>Diemel</falscheAntwort1>
+            <falscheAntwort2>Mosel</falscheAntwort2>
+            <falscheAntwort3>Weser</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchen Fluss mündet die Wörnitz?</fragenText>
+            <richtigeAntwort>Donau</richtigeAntwort>
+            <falscheAntwort1>Weser</falscheAntwort1>
+            <falscheAntwort2>Rhein</falscheAntwort2>
+            <falscheAntwort3>Lippe</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchen Fluss mündet der Inn?</fragenText>
+            <richtigeAntwort>Donau</richtigeAntwort>
+            <falscheAntwort1>Wupper</falscheAntwort1>
+            <falscheAntwort2>Ems</falscheAntwort2>
+            <falscheAntwort3>Elbe</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchen Fluss mündet die Isar?</fragenText>
+            <richtigeAntwort>Donau</richtigeAntwort>
+            <falscheAntwort1>Main</falscheAntwort1>
+            <falscheAntwort2>Rhein</falscheAntwort2>
+            <falscheAntwort3>Mosel</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo entspringt die Isar?</fragenText>
+            <richtigeAntwort>Karwendelgebirge</richtigeAntwort>
+            <falscheAntwort1>Wiehengebirge</falscheAntwort1>
+            <falscheAntwort2>Rothaargebirge</falscheAntwort2>
+            <falscheAntwort3>Fichtelgebirge</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Fluss fließt durch München?</fragenText>
+            <richtigeAntwort>Isar</richtigeAntwort>
+            <falscheAntwort1>Mosel</falscheAntwort1>
+            <falscheAntwort2>Main</falscheAntwort2>
+            <falscheAntwort3>Eder</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>An welchem Fluss steht die Burg Eltz?</fragenText>
+            <richtigeAntwort>Mosel</richtigeAntwort>
+            <falscheAntwort1>Neckar</falscheAntwort1>
+            <falscheAntwort2>Rhein</falscheAntwort2>
+            <falscheAntwort3>Main</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo steht die Kaiserburg?</fragenText>
+            <richtigeAntwort>Nürnberg</richtigeAntwort>
+            <falscheAntwort1>München</falscheAntwort1>
+            <falscheAntwort2>Kaiserslautern</falscheAntwort2>
+            <falscheAntwort3>Hannover</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo steht das Schloss Charlottenburg?</fragenText>
+            <richtigeAntwort>Berlin</richtigeAntwort>
+            <falscheAntwort1>Wuppertal</falscheAntwort1>
+            <falscheAntwort2>Chemnitz</falscheAntwort2>
+            <falscheAntwort3>München</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welches Meer mündet die Elbe?</fragenText>
+            <richtigeAntwort>Nordsee</richtigeAntwort>
+            <falscheAntwort1>Mittelmeer</falscheAntwort1>
+            <falscheAntwort2>Ostsee</falscheAntwort2>
+            <falscheAntwort3>Südsee</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Stadt gibt es?</fragenText>
+            <richtigeAntwort>Regensburg</richtigeAntwort>
+            <falscheAntwort1>Schneedorf</falscheAntwort1>
+            <falscheAntwort2>Nebelstadt</falscheAntwort2>
+            <falscheAntwort3>Hagelschloss</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Ort finden alle 10 Jahre die Passionsspiele statt?</fragenText>
+            <richtigeAntwort>Oberammergau</richtigeAntwort>
+            <falscheAntwort1>Passau</falscheAntwort1>
+            <falscheAntwort2>Unterpfaffenhofen</falscheAntwort2>
+            <falscheAntwort3>Bayreuth</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welcher Stadt wurde zu Zeiten der D D R der Trabant gebaut?</fragenText>
+            <richtigeAntwort>Zwickau</richtigeAntwort>
+            <falscheAntwort1>Berlin</falscheAntwort1>
+            <falscheAntwort2>Leipzig</falscheAntwort2>
+            <falscheAntwort3>Rostock</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Durch welches Bundesland fließt die Fulda?</fragenText>
+            <richtigeAntwort>Hessen</richtigeAntwort>
+            <falscheAntwort1>Schleswig - Holstein</falscheAntwort1>
+            <falscheAntwort2>Sachsen</falscheAntwort2>
+            <falscheAntwort3>Brandenburg</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Stadt gibt es?</fragenText>
+            <richtigeAntwort>Wolfsburg</richtigeAntwort>
+            <falscheAntwort1>Tigerburg</falscheAntwort1>
+            <falscheAntwort2>Fuchsburg</falscheAntwort2>
+            <falscheAntwort3>Löwenburg</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo fährt die weltberühmte Schwebebahn?</fragenText>
+            <richtigeAntwort>Wuppertal</richtigeAntwort>
+            <falscheAntwort1>Kassel</falscheAntwort1>
+            <falscheAntwort2>Remscheid</falscheAntwort2>
+            <falscheAntwort3>Darmstadt</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo werden VW - Autos gebaut?</fragenText>
+            <richtigeAntwort>Wolfsburg</richtigeAntwort>
+            <falscheAntwort1>Wuppertal</falscheAntwort1>
+            <falscheAntwort2>Witten</falscheAntwort2>
+            <falscheAntwort3>Weimar</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo werden Opel - Autos gebaut?</fragenText>
+            <richtigeAntwort>Rüsselsheim</richtigeAntwort>
+            <falscheAntwort1>Hannover</falscheAntwort1>
+            <falscheAntwort2>Winterberg</falscheAntwort2>
+            <falscheAntwort3>Rosenheim</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welcher Stadt befindet sich der größte Flughafen Deutschlands?</fragenText>
+            <richtigeAntwort>Frankfurt</richtigeAntwort>
+            <falscheAntwort1>Hamburg</falscheAntwort1>
+            <falscheAntwort2>Berlin</falscheAntwort2>
+            <falscheAntwort3>München</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist das Wahrzeichen von Idar - Oberstein?</fragenText>
+            <richtigeAntwort>Felsenkirche</richtigeAntwort>
+            <falscheAntwort1>Lehmhaus</falscheAntwort1>
+            <falscheAntwort2>Steinmauer</falscheAntwort2>
+            <falscheAntwort3>Marmorbrücke</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt eine berühmte Autorennstrecke in Rheinland - Pfalz?</fragenText>
+            <richtigeAntwort>Nürburgring</richtigeAntwort>
+            <falscheAntwort1>Avus</falscheAntwort1>
+            <falscheAntwort2>Sachsenring</falscheAntwort2>
+            <falscheAntwort3>Kaiserring</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie wird die Stelle auch genannt, wo die Mosel in den Rhein fließt?</fragenText>
+            <richtigeAntwort>Deutsche Eck</richtigeAntwort>
+            <falscheAntwort1>Deutsche Mündung</falscheAntwort1>
+            <falscheAntwort2>Deutsche Kreisel</falscheAntwort2>
+            <falscheAntwort3>Deutsche Quelle</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist das Wahrzeichen von Köln?</fragenText>
+            <richtigeAntwort>Kölner Dom</richtigeAntwort>
+            <falscheAntwort1>Kölner Rheinbrücke</falscheAntwort1>
+            <falscheAntwort2>Kölner Schloss</falscheAntwort2>
+            <falscheAntwort3>Kölner Fernsehturm</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Bundesland befindet sich der Spreewald?</fragenText>
+            <richtigeAntwort>Brandenburg</richtigeAntwort>
+            <falscheAntwort1>Bayern</falscheAntwort1>
+            <falscheAntwort2>Rheinland - Pfalz</falscheAntwort2>
+            <falscheAntwort3>Thüringen</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Bundesland befindet sich die Lüneburger Heide?</fragenText>
+            <richtigeAntwort>Niedersachsen</richtigeAntwort>
+            <falscheAntwort1>Sachsen - Anhalt</falscheAntwort1>
+            <falscheAntwort2>Hessen</falscheAntwort2>
+            <falscheAntwort3>Brandenburg</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist das Wappentier von Niedersachsen?</fragenText>
+            <richtigeAntwort>Pferd</richtigeAntwort>
+            <falscheAntwort1>Adler</falscheAntwort1>
+            <falscheAntwort2>Löwe</falscheAntwort2>
+            <falscheAntwort3>Bär</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo wird das berühmteste Medikament der Welt (Aspirin) hergestellt?</fragenText>
+            <richtigeAntwort>Bitterfeld</richtigeAntwort>
+            <falscheAntwort1>Sauerdorf</falscheAntwort1>
+            <falscheAntwort2>Süßacker</falscheAntwort2>
+            <falscheAntwort3>Salzstadt</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Ort in Sachsen - Anhalt wurde Martin Luther geboren?</fragenText>
+            <richtigeAntwort>Eisleben</richtigeAntwort>
+            <falscheAntwort1>Bitterfeld</falscheAntwort1>
+            <falscheAntwort2>Magdeburg</falscheAntwort2>
+            <falscheAntwort3>Halle</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist das Wappentier von Berlin?</fragenText>
+            <richtigeAntwort>Bär</richtigeAntwort>
+            <falscheAntwort1>Pferd</falscheAntwort1>
+            <falscheAntwort2>Adler</falscheAntwort2>
+            <falscheAntwort3>Löwe</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Bundesland gibt es das größte Schiffshebewerk der Welt?</fragenText>
+            <richtigeAntwort>Brandenburg</richtigeAntwort>
+            <falscheAntwort1>Niedersachsen</falscheAntwort1>
+            <falscheAntwort2>Nordrhein - Westfalen</falscheAntwort2>
+            <falscheAntwort3>Schleswig - Holstein</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Auf welcher Insel soll der Pirat Klaus Störtebeker geboren worden sein?</fragenText>
+            <richtigeAntwort>Rügen</richtigeAntwort>
+            <falscheAntwort1>Sylt</falscheAntwort1>
+            <falscheAntwort2>Helgoland</falscheAntwort2>
+            <falscheAntwort3>Norderney</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo liegt die Insel Usedom?</fragenText>
+            <richtigeAntwort>Ostsee</richtigeAntwort>
+            <falscheAntwort1>Südsee</falscheAntwort1>
+            <falscheAntwort2>Nordsee</falscheAntwort2>
+            <falscheAntwort3>Westsee</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wofür ist Lübeck bekannt?</fragenText>
+            <richtigeAntwort>Marzipan</richtigeAntwort>
+            <falscheAntwort1>Computer</falscheAntwort1>
+            <falscheAntwort2>Autofabrik</falscheAntwort2>
+            <falscheAntwort3>Kohlebergbau</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo finden jährlich die Karl - May - Festspiele statt?</fragenText>
+            <richtigeAntwort>Bad Segeberg</richtigeAntwort>
+            <falscheAntwort1>Bad Pyrmont</falscheAntwort1>
+            <falscheAntwort2>Bad Mainberg</falscheAntwort2>
+            <falscheAntwort3>Bad Rothenfelde</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Bundesland befindet sich St. Peter Ording?</fragenText>
+            <richtigeAntwort>Schleswig - Holstein</richtigeAntwort>
+            <falscheAntwort1>Sachsen</falscheAntwort1>
+            <falscheAntwort2>Bayern</falscheAntwort2>
+            <falscheAntwort3>Thüringen</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Damm, der die Insel Sylt mit dem Festland verbindet?</fragenText>
+            <richtigeAntwort>Hindenburgdamm</richtigeAntwort>
+            <falscheAntwort1>Sylter Damm</falscheAntwort1>
+            <falscheAntwort2>Kaiser - Wilhelm - Damm</falscheAntwort2>
+            <falscheAntwort3>Nordseedamm</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Stadt wird auch „Elbflorenz“ genannt?</fragenText>
+            <richtigeAntwort>Dresden</richtigeAntwort>
+            <falscheAntwort1>Leipzig</falscheAntwort1>
+            <falscheAntwort2>Weimar</falscheAntwort2>
+            <falscheAntwort3>Hamburg</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Fluss fließt durch Würzburg?</fragenText>
+            <richtigeAntwort>Main</richtigeAntwort>
+            <falscheAntwort1>Mosel</falscheAntwort1>
+            <falscheAntwort2>Rhein</falscheAntwort2>
+            <falscheAntwort3>Oder</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchen Fluss mündet die Saale?</fragenText>
+            <richtigeAntwort>Elbe</richtigeAntwort>
+            <falscheAntwort1>Ems</falscheAntwort1>
+            <falscheAntwort2>Rhein</falscheAntwort2>
+            <falscheAntwort3>Weser</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welchem Bundesland gehört Dortmund?</fragenText>
+            <richtigeAntwort>Nordrhein - Westfalen</richtigeAntwort>
+            <falscheAntwort1>Bayern</falscheAntwort1>
+            <falscheAntwort2>Hessen</falscheAntwort2>
+            <falscheAntwort3>Sachsen</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welchem Bundesland gehört Rostock?</fragenText>
+            <richtigeAntwort>Mecklenburg - Vorpommern</richtigeAntwort>
+            <falscheAntwort1>Brandenburg</falscheAntwort1>
+            <falscheAntwort2>Sachsen - Anhalt</falscheAntwort2>
+            <falscheAntwort3>Thüringen</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>15</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo liegt die Insel Rügen?</fragenText>
+            <richtigeAntwort>Ostsee</richtigeAntwort>
+            <falscheAntwort1>Südsee</falscheAntwort1>
+            <falscheAntwort2>Nordsee</falscheAntwort2>
+            <falscheAntwort3>Westsee</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Fluss gibt es?</fragenText>
+            <richtigeAntwort>Oder</richtigeAntwort>
+            <falscheAntwort1>Dann</falscheAntwort1>
+            <falscheAntwort2>Und</falscheAntwort2>
+            <falscheAntwort3>Wenn</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Fluss fließt entlang der deutsch - polnischen Grenze?</fragenText>
+            <richtigeAntwort>Oder</richtigeAntwort>
+            <falscheAntwort1>Donau</falscheAntwort1>
+            <falscheAntwort2>Rhein</falscheAntwort2>
+            <falscheAntwort3>Elbe</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo liegt Cuxhaven?</fragenText>
+            <richtigeAntwort>an der Nordsee</richtigeAntwort>
+            <falscheAntwort1>am Bodensee</falscheAntwort1>
+            <falscheAntwort2>an der Ostsee</falscheAntwort2>
+            <falscheAntwort3>am Königssee</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welches Meer mündet die Elbe?</fragenText>
+            <richtigeAntwort>Nordsee</richtigeAntwort>
+            <falscheAntwort1>Steinhuder Meer</falscheAntwort1>
+            <falscheAntwort2>Ostsee</falscheAntwort2>
+            <falscheAntwort3>Mittelmeer</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Bundesland liegt das Ruhrgebiet?</fragenText>
+            <richtigeAntwort>Nordrhein - Westfalen</richtigeAntwort>
+            <falscheAntwort1>Baden - Württemberg</falscheAntwort1>
+            <falscheAntwort2>Schleswig - Holstein</falscheAntwort2>
+            <falscheAntwort3>Sachsen - Anhalt</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo befinden sich viele Maare?</fragenText>
+            <richtigeAntwort>in der Eifel</richtigeAntwort>
+            <falscheAntwort1>in Niederbayern</falscheAntwort1>
+            <falscheAntwort2>im Sauerland</falscheAntwort2>
+            <falscheAntwort3>In Berlin</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was sind Maare?</fragenText>
+            <richtigeAntwort>Vulkanseen</richtigeAntwort>
+            <falscheAntwort1>Teile des Wattenmeeres</falscheAntwort1>
+            <falscheAntwort2>Hochmoore</falscheAntwort2>
+            <falscheAntwort3>schneebedeckte Gipfel</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist der Hunsrück?</fragenText>
+            <richtigeAntwort>ein Mittelgebirge</richtigeAntwort>
+            <falscheAntwort1>ein Fluss in Brandenburg</falscheAntwort1>
+            <falscheAntwort2>ein Fischmarkt in Bremen</falscheAntwort2>
+            <falscheAntwort3>ein Fernsehturm in München</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo liegt die Oberlausitz?</fragenText>
+            <richtigeAntwort>Sachsen</richtigeAntwort>
+            <falscheAntwort1>Saarland</falscheAntwort1>
+            <falscheAntwort2>Hessen</falscheAntwort2>
+            <falscheAntwort3>Bayern</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Fluss gibt es?</fragenText>
+            <richtigeAntwort>Lippe</richtigeAntwort>
+            <falscheAntwort1>Auge</falscheAntwort1>
+            <falscheAntwort2>Mund</falscheAntwort2>
+            <falscheAntwort3>Ohr</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Fluss fließt durch Nürnberg?</fragenText>
+            <richtigeAntwort>Pregnitz</richtigeAntwort>
+            <falscheAntwort1>Lippe</falscheAntwort1>
+            <falscheAntwort2>Mosel</falscheAntwort2>
+            <falscheAntwort3>Main</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Hauptstadt von Schleswig - Holstein?</fragenText>
+            <richtigeAntwort>Kiel</richtigeAntwort>
+            <falscheAntwort1>Düsseldorf</falscheAntwort1>
+            <falscheAntwort2>Berlin</falscheAntwort2>
+            <falscheAntwort3>Schwerin</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Hauptstadt von Mecklenburg - Vorpommern?</fragenText>
+            <richtigeAntwort>Schwerin</richtigeAntwort>
+            <falscheAntwort1>München</falscheAntwort1>
+            <falscheAntwort2>Wiesbaden</falscheAntwort2>
+            <falscheAntwort3>Stuttgart</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Hauptstadt von Brandenburg?</fragenText>
+            <richtigeAntwort>Potsdam</richtigeAntwort>
+            <falscheAntwort1>Berlin</falscheAntwort1>
+            <falscheAntwort2>Hamburg</falscheAntwort2>
+            <falscheAntwort3>Köln</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Hauptstadt von Sachsen - Anhalt?</fragenText>
+            <richtigeAntwort>Magdeburg</richtigeAntwort>
+            <falscheAntwort1>München</falscheAntwort1>
+            <falscheAntwort2>Bremen</falscheAntwort2>
+            <falscheAntwort3>Kiel</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Hauptstadt von Niedersachsen?</fragenText>
+            <richtigeAntwort>Hannover</richtigeAntwort>
+            <falscheAntwort1>Bremen</falscheAntwort1>
+            <falscheAntwort2>Düsseldorf</falscheAntwort2>
+            <falscheAntwort3>München</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Hauptstadt von Nordrhein - Westfalen?</fragenText>
+            <richtigeAntwort>Düsseldorf</richtigeAntwort>
+            <falscheAntwort1>Schwerin</falscheAntwort1>
+            <falscheAntwort2>Dresden</falscheAntwort2>
+            <falscheAntwort3>Hamburg</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Hauptstadt von Rheinland - Pfalz?</fragenText>
+            <richtigeAntwort>Mainz</richtigeAntwort>
+            <falscheAntwort1>Wiesbaden</falscheAntwort1>
+            <falscheAntwort2>München</falscheAntwort2>
+            <falscheAntwort3>Bremen</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Hauptstadt von Hessen?</fragenText>
+            <richtigeAntwort>Wiesbaden</richtigeAntwort>
+            <falscheAntwort1>Kiel</falscheAntwort1>
+            <falscheAntwort2>Hannover</falscheAntwort2>
+            <falscheAntwort3>Magdeburg</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Hauptstadt von Thüringen?</fragenText>
+            <richtigeAntwort>Erfurt</richtigeAntwort>
+            <falscheAntwort1>Dresden</falscheAntwort1>
+            <falscheAntwort2>Kiel</falscheAntwort2>
+            <falscheAntwort3>Weimar</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Hauptstadt von Sachsen?</fragenText>
+            <richtigeAntwort>Dresden</richtigeAntwort>
+            <falscheAntwort1>München</falscheAntwort1>
+            <falscheAntwort2>Frankfurt</falscheAntwort2>
+            <falscheAntwort3>Berlin</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Hauptstadt von Bayern?</fragenText>
+            <richtigeAntwort>München</richtigeAntwort>
+            <falscheAntwort1>Bremen</falscheAntwort1>
+            <falscheAntwort2>Berlin</falscheAntwort2>
+            <falscheAntwort3>Magdeburg</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Hauptstadt von Baden - Württemberg?</fragenText>
+            <richtigeAntwort>Stuttgart</richtigeAntwort>
+            <falscheAntwort1>Wiesbaden</falscheAntwort1>
+            <falscheAntwort2>Mainz</falscheAntwort2>
+            <falscheAntwort3>Düsseldorf</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Hauptstadt vom Saarland?</fragenText>
+            <richtigeAntwort>Saarbrücken</richtigeAntwort>
+            <falscheAntwort1>Schwerin</falscheAntwort1>
+            <falscheAntwort2>Stuttgart</falscheAntwort2>
+            <falscheAntwort3>Wiesbaden</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Hauptstadt von Bremen?</fragenText>
+            <richtigeAntwort>Bremen</richtigeAntwort>
+            <falscheAntwort1>Hamburg</falscheAntwort1>
+            <falscheAntwort2>Hannover</falscheAntwort2>
+            <falscheAntwort3>Berlin</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Hauptstadt von Hamburg?</fragenText>
+            <richtigeAntwort>Hamburg</richtigeAntwort>
+            <falscheAntwort1>Hannover</falscheAntwort1>
+            <falscheAntwort2>Wiesbaden</falscheAntwort2>
+            <falscheAntwort3>Dresden</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Hauptstadt von Berlin?</fragenText>
+            <richtigeAntwort>Berlin</richtigeAntwort>
+            <falscheAntwort1>Bremen</falscheAntwort1>
+            <falscheAntwort2>Potsdam</falscheAntwort2>
+            <falscheAntwort3>Kiel</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Stuttgart ist die Hauptstadt von ...</fragenText>
+            <richtigeAntwort>Baden - Württemberg</richtigeAntwort>
+            <falscheAntwort1>Bayern</falscheAntwort1>
+            <falscheAntwort2>Berlin</falscheAntwort2>
+            <falscheAntwort3>Brandenburg</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>München ist die Hauptstadt von ...</fragenText>
+            <richtigeAntwort>Bayern</richtigeAntwort>
+            <falscheAntwort1>Baden - Württemberg</falscheAntwort1>
+            <falscheAntwort2>Rheinland - Pfalz</falscheAntwort2>
+            <falscheAntwort3>Nordrhein - Westfalen</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Berlin ist die Hauptstadt von ...</fragenText>
+            <richtigeAntwort>Berlin</richtigeAntwort>
+            <falscheAntwort1>Thüringen</falscheAntwort1>
+            <falscheAntwort2>Bremen</falscheAntwort2>
+            <falscheAntwort3>Bayern</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Potsdam ist die Hauptstadt von ...</fragenText>
+            <richtigeAntwort>Brandenburg</richtigeAntwort>
+            <falscheAntwort1>Bremen</falscheAntwort1>
+            <falscheAntwort2>Hamburg</falscheAntwort2>
+            <falscheAntwort3>Hessen</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Bremen ist die Hauptstadt von ...</fragenText>
+            <richtigeAntwort>Bremen</richtigeAntwort>
+            <falscheAntwort1>Bayern</falscheAntwort1>
+            <falscheAntwort2>Niedersachsen</falscheAntwort2>
+            <falscheAntwort3>Berlin</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Hamburg ist die Hauptstadt von ...</fragenText>
+            <richtigeAntwort>Hamburg</richtigeAntwort>
+            <falscheAntwort1>Niedersachsen</falscheAntwort1>
+            <falscheAntwort2>Schleswig - Holstein</falscheAntwort2>
+            <falscheAntwort3>Sachsen</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wiesbaden ist die Hauptstadt von ...</fragenText>
+            <richtigeAntwort>Hessen</richtigeAntwort>
+            <falscheAntwort1>Hamburg</falscheAntwort1>
+            <falscheAntwort2>Thüringen</falscheAntwort2>
+            <falscheAntwort3>Bayern</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Schwerin ist die Hauptstadt von ...</fragenText>
+            <richtigeAntwort>Mecklenburg - Vorpommern</richtigeAntwort>
+            <falscheAntwort1>Niedersachsen</falscheAntwort1>
+            <falscheAntwort2>Nordrehein - Westfalen</falscheAntwort2>
+            <falscheAntwort3>Schleswig - Holstein</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Hannover ist die Hauptstadt von ...</fragenText>
+            <richtigeAntwort>Niedersachsen</richtigeAntwort>
+            <falscheAntwort1>Sachsen</falscheAntwort1>
+            <falscheAntwort2>Schleswig - Holstein</falscheAntwort2>
+            <falscheAntwort3>Nordrhein - Westfalen</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Düsseldorf ist die Hauptstadt von ...</fragenText>
+            <richtigeAntwort>Nordrhein - Westfalen</richtigeAntwort>
+            <falscheAntwort1>Bayern</falscheAntwort1>
+            <falscheAntwort2>Thüringen</falscheAntwort2>
+            <falscheAntwort3>Mecklenburg - Vorpommern</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Mainz ist die Hauptstadt von ...</fragenText>
+            <richtigeAntwort>Rheinland - Pfalz</richtigeAntwort>
+            <falscheAntwort1>Sachsen</falscheAntwort1>
+            <falscheAntwort2>Bayern</falscheAntwort2>
+            <falscheAntwort3>Baden - Württemberg</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Saarbrücken ist die Hauptstadt vom ...</fragenText>
+            <richtigeAntwort>Saarland</richtigeAntwort>
+            <falscheAntwort1>Bayern</falscheAntwort1>
+            <falscheAntwort2>Sachsen</falscheAntwort2>
+            <falscheAntwort3>Hessen</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Dresden ist die Hauptstadt von ...</fragenText>
+            <richtigeAntwort>Sachsen</richtigeAntwort>
+            <falscheAntwort1>Schleswig - Holstein</falscheAntwort1>
+            <falscheAntwort2>Baden - Württemberg</falscheAntwort2>
+            <falscheAntwort3>Nordrhein - Westfalen</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Magdeburg ist die Hauptstadt von ...</fragenText>
+            <richtigeAntwort>Sachsen - Anhalt</richtigeAntwort>
+            <falscheAntwort1>Berlin</falscheAntwort1>
+            <falscheAntwort2>Hessen</falscheAntwort2>
+            <falscheAntwort3>Niedersachsen</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Kiel ist die Hauptstadt von ...</fragenText>
+            <richtigeAntwort>Schleswig - Holstein</richtigeAntwort>
+            <falscheAntwort1>Bremen</falscheAntwort1>
+            <falscheAntwort2>Bayern</falscheAntwort2>
+            <falscheAntwort3>Mecklenburg - Vorpommern</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie wird der Bodensee auch genannt?</fragenText>
+            <richtigeAntwort>Schwäbische Meer</richtigeAntwort>
+            <falscheAntwort1>Hessische Meer</falscheAntwort1>
+            <falscheAntwort2>Bayrische Meer</falscheAntwort2>
+            <falscheAntwort3>Fränkische Meer</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch ist der Wilseder Berg, die höchste Erhebung in der Lüneburger Heide?</fragenText>
+            <richtigeAntwort>169 m</richtigeAntwort>
+            <falscheAntwort1>87 m</falscheAntwort1>
+            <falscheAntwort2>205 m</falscheAntwort2>
+            <falscheAntwort3>141 m</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die höchste Erhebung in der Lüneburger Heide?</fragenText>
+            <richtigeAntwort>Wilseder Berg</richtigeAntwort>
+            <falscheAntwort1>Bilseder Berg</falscheAntwort1>
+            <falscheAntwort2>Milscheider Berg</falscheAntwort2>
+            <falscheAntwort3>Linseder Berg</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welcher Stadt findet der berühmte Christkindlmarkt statt?</fragenText>
+            <richtigeAntwort>Nürnberg</richtigeAntwort>
+            <falscheAntwort1>Freiburg</falscheAntwort1>
+            <falscheAntwort2>München</falscheAntwort2>
+            <falscheAntwort3>Bamberg</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Berg gibt es in der Eifel?</fragenText>
+            <richtigeAntwort>Hohe Acht</richtigeAntwort>
+            <falscheAntwort1>Tiefe Fünf</falscheAntwort1>
+            <falscheAntwort2>Niedrige Sieben</falscheAntwort2>
+            <falscheAntwort3>Hohe Zehn</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch ist die Hohe Acht in der Eifel?</fragenText>
+            <richtigeAntwort>747 m</richtigeAntwort>
+            <falscheAntwort1>1.982 m</falscheAntwort1>
+            <falscheAntwort2>1.357 m</falscheAntwort2>
+            <falscheAntwort3>2.371 m</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der höchste Berg in der Eifel?</fragenText>
+            <richtigeAntwort>Hohe Acht</richtigeAntwort>
+            <falscheAntwort1>Schneeberg</falscheAntwort1>
+            <falscheAntwort2>Feldberg</falscheAntwort2>
+            <falscheAntwort3>Watzmann</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist der Kahle Asten?</fragenText>
+            <richtigeAntwort>ein Berg in NRW</richtigeAntwort>
+            <falscheAntwort1>ein Leuchtturm bei Hamburg</falscheAntwort1>
+            <falscheAntwort2>eine See in der Eifel</falscheAntwort2>
+            <falscheAntwort3>ein Naturschutzgebiet in Bayern</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch ist der Kahle Asten?</fragenText>
+            <richtigeAntwort>841 m</richtigeAntwort>
+            <falscheAntwort1>2.145 m</falscheAntwort1>
+            <falscheAntwort2>1.206 m</falscheAntwort2>
+            <falscheAntwort3>571 m</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der höchste Berg des Rothaargebirges?</fragenText>
+            <richtigeAntwort>Kahler Asten</richtigeAntwort>
+            <falscheAntwort1>Feldberg</falscheAntwort1>
+            <falscheAntwort2>Brocken</falscheAntwort2>
+            <falscheAntwort3>Zugspitze</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Bundesland liegt das Rothaargebirge?</fragenText>
+            <richtigeAntwort>Nordrhein - Westfalen</richtigeAntwort>
+            <falscheAntwort1>Sachsen</falscheAntwort1>
+            <falscheAntwort2>Thüringen</falscheAntwort2>
+            <falscheAntwort3>Baden - Württemberg</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch ist das Nebelhorn?</fragenText>
+            <richtigeAntwort>2.224 m</richtigeAntwort>
+            <falscheAntwort1>2.999 m</falscheAntwort1>
+            <falscheAntwort2>1.113 m</falscheAntwort2>
+            <falscheAntwort3>1.309 m</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Berg gibt es?</fragenText>
+            <richtigeAntwort>Watzmann</richtigeAntwort>
+            <falscheAntwort1>Glatzmann</falscheAntwort1>
+            <falscheAntwort2>Schatzmann</falscheAntwort2>
+            <falscheAntwort3>Witzmann</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch ist der Watzmann?</fragenText>
+            <richtigeAntwort>2.713 m</richtigeAntwort>
+            <falscheAntwort1>1.653 m</falscheAntwort1>
+            <falscheAntwort2>2.007 m</falscheAntwort2>
+            <falscheAntwort3>1.295 m</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch ist der Feldberg im Schwarzwald?</fragenText>
+            <richtigeAntwort>1.493 m</richtigeAntwort>
+            <falscheAntwort1>2.865 m</falscheAntwort1>
+            <falscheAntwort2>1.045 m</falscheAntwort2>
+            <falscheAntwort3>972 m</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der höchste Berg im Schwarzwald?</fragenText>
+            <richtigeAntwort>Feldberg</richtigeAntwort>
+            <falscheAntwort1>Heldberg</falscheAntwort1>
+            <falscheAntwort2>Geldberg</falscheAntwort2>
+            <falscheAntwort3>Zeltberg</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo befindet sich das Fichtelgebirge?</fragenText>
+            <richtigeAntwort>im Nordosten von Bayern</richtigeAntwort>
+            <falscheAntwort1>im Westen von Nordrhein - Westfalen</falscheAntwort1>
+            <falscheAntwort2>im Süden von Rheinland - Pfalz</falscheAntwort2>
+            <falscheAntwort3>im Norden von Brandenburg</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch ist die Zugspitze?</fragenText>
+            <richtigeAntwort>2.963 m</richtigeAntwort>
+            <falscheAntwort1>1.008 m</falscheAntwort1>
+            <falscheAntwort2>1.582 m</falscheAntwort2>
+            <falscheAntwort3>2.367 m</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der höchste Berg Deutschlands?</fragenText>
+            <richtigeAntwort>Zugspitze</richtigeAntwort>
+            <falscheAntwort1>Speerspitze</falscheAntwort1>
+            <falscheAntwort2>Autospitze</falscheAntwort2>
+            <falscheAntwort3>Pfeilspitze</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch ist der Brocken im Harz?</fragenText>
+            <richtigeAntwort>1.142 m</richtigeAntwort>
+            <falscheAntwort1>563 m</falscheAntwort1>
+            <falscheAntwort2>2.078 m</falscheAntwort2>
+            <falscheAntwort3>239 m</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der höchste Berg im Harz?</fragenText>
+            <richtigeAntwort>Brocken</richtigeAntwort>
+            <falscheAntwort1>Stückchen</falscheAntwort1>
+            <falscheAntwort2>Krümel</falscheAntwort2>
+            <falscheAntwort3>Hocker</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Einwohner hat Deutschland?</fragenText>
+            <richtigeAntwort>ca. 82 Millionen</richtigeAntwort>
+            <falscheAntwort1>ca. 62 Millionen</falscheAntwort1>
+            <falscheAntwort2>ca. 72 Millionen</falscheAntwort2>
+            <falscheAntwort3>ca. 92 Millionen</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen See nennt man auch das „Bayrische Meer“?</fragenText>
+            <richtigeAntwort>Chiemsee</richtigeAntwort>
+            <falscheAntwort1>Königssee</falscheAntwort1>
+            <falscheAntwort2>Tegernsee</falscheAntwort2>
+            <falscheAntwort3>Starnberger See</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>15</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der größte See in Bayern?</fragenText>
+            <richtigeAntwort>Chiemsee</richtigeAntwort>
+            <falscheAntwort1>Tegernsee</falscheAntwort1>
+            <falscheAntwort2>Bodensee</falscheAntwort2>
+            <falscheAntwort3>Starnberger See</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch ist der Schneeberg im Fichtelgebirge?</fragenText>
+            <richtigeAntwort>1.053 m</richtigeAntwort>
+            <falscheAntwort1>1.985 m</falscheAntwort1>
+            <falscheAntwort2>1.534 m</falscheAntwort2>
+            <falscheAntwort3>1.798 m</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der höchste Berg des Fichtelgebirges?</fragenText>
+            <richtigeAntwort>Schneeberg</richtigeAntwort>
+            <falscheAntwort1>Nebelberg</falscheAntwort1>
+            <falscheAntwort2>Regenberg</falscheAntwort2>
+            <falscheAntwort3>Hagelberg</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>An welchem Fluss liegt Magdeburg?</fragenText>
+            <richtigeAntwort>Elbe</richtigeAntwort>
+            <falscheAntwort1>Rhein</falscheAntwort1>
+            <falscheAntwort2>Weser</falscheAntwort2>
+            <falscheAntwort3>Donau</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Bundesland liegt nicht am Meer?</fragenText>
+            <richtigeAntwort>Bayern</richtigeAntwort>
+            <falscheAntwort1>Schleswig - Holstein</falscheAntwort1>
+            <falscheAntwort2>Niedersachsen</falscheAntwort2>
+            <falscheAntwort3>Mecklenburg - Vorpommern</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo liegt das Sauerland?</fragenText>
+            <richtigeAntwort>im Südosten von Nordrhein - Westfalen</richtigeAntwort>
+            <falscheAntwort1>im Südwesten von Bayern</falscheAntwort1>
+            <falscheAntwort2>im Norden von Sachsen</falscheAntwort2>
+            <falscheAntwort3>im Westen vom Saarland</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Land gibt es in Deutschland?</fragenText>
+            <richtigeAntwort>Sauerland</richtigeAntwort>
+            <falscheAntwort1>Bitterland</falscheAntwort1>
+            <falscheAntwort2>Süßland</falscheAntwort2>
+            <falscheAntwort3>Salzland</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang ist der Rhein?</fragenText>
+            <richtigeAntwort>1.320 km</richtigeAntwort>
+            <falscheAntwort1>870 km</falscheAntwort1>
+            <falscheAntwort2>1.890 km</falscheAntwort2>
+            <falscheAntwort3>2.460 km</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Fluss fließt durch Nürnberg?</fragenText>
+            <richtigeAntwort>Pregnitz</richtigeAntwort>
+            <falscheAntwort1>Lippe</falscheAntwort1>
+            <falscheAntwort2>Mosel</falscheAntwort2>
+            <falscheAntwort3>Main</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

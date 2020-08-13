@@ -1,0 +1,899 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Erdkunde</fach>
+    <thema>Mineralien und Gesteine</thema>
+    <autor>Andrea Herrmann Juni 2004</autor>
+    <anzahlFragen>90</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>Was sind Mineralien?</fragenText>
+            <richtigeAntwort>chemische Naturstoffe der Erdkruste</richtigeAntwort>
+            <falscheAntwort1>biologische Naturstoffe der Erdkruste</falscheAntwort1>
+            <falscheAntwort2>physikalische Naturstoffe der Erdkruste</falscheAntwort2>
+            <falscheAntwort3>physische Naturstoffe der Erdkruste</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist kein gesteinsbildendes Mineral</fragenText>
+            <richtigeAntwort>Olivin</richtigeAntwort>
+            <falscheAntwort1>Glimmer - Muskuvit</falscheAntwort1>
+            <falscheAntwort2>Quarz</falscheAntwort2>
+            <falscheAntwort3>Feldspat</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist das häufigste chemische Element der Erdkruste?</fragenText>
+            <richtigeAntwort>Sauerstoff</richtigeAntwort>
+            <falscheAntwort1>Silzium</falscheAntwort1>
+            <falscheAntwort2>Aluminium</falscheAntwort2>
+            <falscheAntwort3>Eisen</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist richtig?</fragenText>
+            <richtigeAntwort>Korund kratzt Topas</richtigeAntwort>
+            <falscheAntwort1>Gips kratzt Orthoklas</falscheAntwort1>
+            <falscheAntwort2>Quarz kratzt Diamant</falscheAntwort2>
+            <falscheAntwort3>Talk kratzt Fluorit</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Mit welcher Skala wird die Gesteinshärte bestimmt?</fragenText>
+            <richtigeAntwort>Mohsskala</richtigeAntwort>
+            <falscheAntwort1>Richterskala</falscheAntwort1>
+            <falscheAntwort2>Fujita - Skala</falscheAntwort2>
+            <falscheAntwort3>Saffir - Simpson - Skala</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo können Minerale in reiner Form auskristallisieren?</fragenText>
+            <richtigeAntwort>Druse</richtigeAntwort>
+            <falscheAntwort1>Gänge</falscheAntwort1>
+            <falscheAntwort2>Klüfte</falscheAntwort2>
+            <falscheAntwort3>Schlote</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches gesteinsbildende Mineral tritt am häufigsten auf?</fragenText>
+            <richtigeAntwort>Feldspat</richtigeAntwort>
+            <falscheAntwort1>Quarz</falscheAntwort1>
+            <falscheAntwort2>Glimmer</falscheAntwort2>
+            <falscheAntwort3>Pyroxen / Amphibol</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist das härteste Mineral?</fragenText>
+            <richtigeAntwort>Diamant</richtigeAntwort>
+            <falscheAntwort1>Quarz</falscheAntwort1>
+            <falscheAntwort2>Kalzit</falscheAntwort2>
+            <falscheAntwort3>Topas</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Farbe hat Glimmer?</fragenText>
+            <richtigeAntwort>schwarz / farblos-silbrigweiß</richtigeAntwort>
+            <falscheAntwort1>flaschengrün</falscheAntwort1>
+            <falscheAntwort2>schwarz - grünschwarz</falscheAntwort2>
+            <falscheAntwort3>rötlich - gelblich - weiß</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Bei der Bearbeitung von Mineralien entstehen?</fragenText>
+            <richtigeAntwort>Edelsteine</richtigeAntwort>
+            <falscheAntwort1>Gesteine</falscheAntwort1>
+            <falscheAntwort2>Erze</falscheAntwort2>
+            <falscheAntwort3>Kristalle</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Minerale bestehen aus?</fragenText>
+            <richtigeAntwort>Kristallen</richtigeAntwort>
+            <falscheAntwort1>Erze</falscheAntwort1>
+            <falscheAntwort2>Steinen</falscheAntwort2>
+            <falscheAntwort3>Gemengteilen</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Farbe hat Quarz?</fragenText>
+            <richtigeAntwort>weiß, farblos</richtigeAntwort>
+            <falscheAntwort1>grün</falscheAntwort1>
+            <falscheAntwort2>rot</falscheAntwort2>
+            <falscheAntwort3>gelb</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist kein Edelstein?</fragenText>
+            <richtigeAntwort>Quarz</richtigeAntwort>
+            <falscheAntwort1>Rubin</falscheAntwort1>
+            <falscheAntwort2>Smaragd</falscheAntwort2>
+            <falscheAntwort3>Granat</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Mineral kristallisiert zuerst?</fragenText>
+            <richtigeAntwort>Olivin</richtigeAntwort>
+            <falscheAntwort1>Quarz</falscheAntwort1>
+            <falscheAntwort2>Orthoklas</falscheAntwort2>
+            <falscheAntwort3>Glimmer</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Gesteine aus einem Mineral bezeichnet man als?</fragenText>
+            <richtigeAntwort>monomineralische Gesteine</richtigeAntwort>
+            <falscheAntwort1>polymineralische Gesteine</falscheAntwort1>
+            <falscheAntwort2>hypermineralische Gesteine</falscheAntwort2>
+            <falscheAntwort3>pedromineralische Gesteine</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus was entstehen Magmatite?</fragenText>
+            <richtigeAntwort>Magma oder Lava</richtigeAntwort>
+            <falscheAntwort1>chemischen Lösungen</falscheAntwort1>
+            <falscheAntwort2>Wasser</falscheAntwort2>
+            <falscheAntwort3>toter Flora und Fauna</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was sind mafische Gesteine?</fragenText>
+            <richtigeAntwort>basische Gesteine ohne Feldspäte</richtigeAntwort>
+            <falscheAntwort1>saure Gesteine ohne Quarz</falscheAntwort1>
+            <falscheAntwort2>intermediäre Gesteine</falscheAntwort2>
+            <falscheAntwort3>Gesteine aus Glimmer u. Quarz</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist kein Vulkanit?</fragenText>
+            <richtigeAntwort>Granit</richtigeAntwort>
+            <falscheAntwort1>Basalt</falscheAntwort1>
+            <falscheAntwort2>Rhyolith</falscheAntwort2>
+            <falscheAntwort3>Trachyt</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Magmatite sind?</fragenText>
+            <richtigeAntwort>Erstarrungsgesteine</richtigeAntwort>
+            <falscheAntwort1>Umwandlungsgesteine</falscheAntwort1>
+            <falscheAntwort2>Sedimentgesteine</falscheAntwort2>
+            <falscheAntwort3>metamorphe Gesteine</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>saure Magmatite sind?</fragenText>
+            <richtigeAntwort>hell</richtigeAntwort>
+            <falscheAntwort1>schwer</falscheAntwort1>
+            <falscheAntwort2>dicht</falscheAntwort2>
+            <falscheAntwort3>kieselsäurearm</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was sind Gesteine?</fragenText>
+            <richtigeAntwort>Gemenge aus Mineralien</richtigeAntwort>
+            <falscheAntwort1>Gemenge aus Kristallen</falscheAntwort1>
+            <falscheAntwort2>Gemenge aus Erzen</falscheAntwort2>
+            <falscheAntwort3>Gemenge aus Edelsteinen</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Worin unterscheiden sich Magma und Lava?</fragenText>
+            <richtigeAntwort>enthaltenen Substanzen</richtigeAntwort>
+            <falscheAntwort1>Farbe</falscheAntwort1>
+            <falscheAntwort2>Temperatur</falscheAntwort2>
+            <falscheAntwort3>Aggregatzustand</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie werden Magmatite bezeichnet, welche nicht den Plutoniten oder Vulkaniten zugeordnet werden?</fragenText>
+            <richtigeAntwort>Ganggesteine</richtigeAntwort>
+            <falscheAntwort1>Feuersteine</falscheAntwort1>
+            <falscheAntwort2>Wirtsgestein</falscheAntwort2>
+            <falscheAntwort3>Metamorphite</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Vulkanite weisen dieses Merkmal nicht auf?</fragenText>
+            <richtigeAntwort>eine Schichtung</richtigeAntwort>
+            <falscheAntwort1>porphyrische Struktur</falscheAntwort1>
+            <falscheAntwort2>zu große Kristalle</falscheAntwort2>
+            <falscheAntwort3>keine Kristalle</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist kein Plutonit?</fragenText>
+            <richtigeAntwort>Basalt</richtigeAntwort>
+            <falscheAntwort1>Gabbro</falscheAntwort1>
+            <falscheAntwort2>Diorit</falscheAntwort2>
+            <falscheAntwort3>Granit</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Vulkanite entstehen durch?</fragenText>
+            <richtigeAntwort>schnelle Abkühlung von Lava</richtigeAntwort>
+            <falscheAntwort1>Abkühlung von Magma</falscheAntwort1>
+            <falscheAntwort2>Umwandlung von Plutoniten</falscheAntwort2>
+            <falscheAntwort3>Bildung eines Plutonits</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Merkmal weisen Plutonite nicht auf?</fragenText>
+            <richtigeAntwort>Einsprenglinge in einer Grundmasse</richtigeAntwort>
+            <falscheAntwort1>gut ausgebildete Kristalle</falscheAntwort1>
+            <falscheAntwort2>ein körniges Gefüge</falscheAntwort2>
+            <falscheAntwort3>eine porphyrische Struktur</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie entstehen Magmatite?</fragenText>
+            <richtigeAntwort>Abkühlung einer Gesteinsschmelze</richtigeAntwort>
+            <falscheAntwort1>durch Umwandlung anderer Gesteine</falscheAntwort1>
+            <falscheAntwort2>durch Einschmelzung</falscheAntwort2>
+            <falscheAntwort3>durch Verwitterung</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Sedimentgestein entsteht nicht durch?</fragenText>
+            <richtigeAntwort>anthropogene Einflüsse</richtigeAntwort>
+            <falscheAntwort1>biologische Prozessen</falscheAntwort1>
+            <falscheAntwort2>chemischen Prozessen</falscheAntwort2>
+            <falscheAntwort3>physikalischer Verwitterung</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der Gabbro ist das plutonische Äquivalent von?</fragenText>
+            <richtigeAntwort>Basalt</richtigeAntwort>
+            <falscheAntwort1>Rhyolith</falscheAntwort1>
+            <falscheAntwort2>Trachyt</falscheAntwort2>
+            <falscheAntwort3>Andesit</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ganggestein lässt sich unterschieden in?</fragenText>
+            <richtigeAntwort>hell und dunkel</richtigeAntwort>
+            <falscheAntwort1>fest und flüssig</falscheAntwort1>
+            <falscheAntwort2>dicht und locker</falscheAntwort2>
+            <falscheAntwort3>basisch und sauer</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Warum weisen Bims / vulkanische Gläser keine Kristalle auf?</fragenText>
+            <richtigeAntwort>zu schnelle Abkühlung</richtigeAntwort>
+            <falscheAntwort1>Restkristallisation</falscheAntwort1>
+            <falscheAntwort2>Gesteinsschmelze ist zu Substanzarm</falscheAntwort2>
+            <falscheAntwort3>Wasser an Gesteinsbildung beteiligt</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Gestein gehört nicht zu den Magmatiten?</fragenText>
+            <richtigeAntwort>Tongestein</richtigeAntwort>
+            <falscheAntwort1>Bims</falscheAntwort1>
+            <falscheAntwort2>vulkanische Gläser</falscheAntwort2>
+            <falscheAntwort3>Tuffe</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lange dauert es bis Granit entsteht?</fragenText>
+            <richtigeAntwort>Jahrmillionen</richtigeAntwort>
+            <falscheAntwort1>ein Jahrzehnt</falscheAntwort1>
+            <falscheAntwort2>Jahrhunderte</falscheAntwort2>
+            <falscheAntwort3>Jahrtausende</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Gestein schwimmt?</fragenText>
+            <richtigeAntwort>Bims</richtigeAntwort>
+            <falscheAntwort1>Porphyr</falscheAntwort1>
+            <falscheAntwort2>Granit</falscheAntwort2>
+            <falscheAntwort3>Gabbro</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo ist der Granit zu finden?</fragenText>
+            <richtigeAntwort>Brocken</richtigeAntwort>
+            <falscheAntwort1>Helgoland</falscheAntwort1>
+            <falscheAntwort2>Sächsische Schweiz</falscheAntwort2>
+            <falscheAntwort3>Rügen</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo ist Basalt zu finden?</fragenText>
+            <richtigeAntwort>Scheibenberg (Erzgebirge)</richtigeAntwort>
+            <falscheAntwort1>Brocken</falscheAntwort1>
+            <falscheAntwort2>Kyffhäuser (Harz)</falscheAntwort2>
+            <falscheAntwort3>Kap Arkona</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus welchen Bestandteilen besteht Granit</fragenText>
+            <richtigeAntwort>Quarz, Feldspat, Glimmer</richtigeAntwort>
+            <falscheAntwort1>Quarz, Feldspat, Olivin</falscheAntwort1>
+            <falscheAntwort2>Quarz, Feldspat, Hornblende</falscheAntwort2>
+            <falscheAntwort3>Quarz, Feldspatvertreter, Glimmer</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wofür wird Granit verwendet?</fragenText>
+            <richtigeAntwort>Plastersteinen</richtigeAntwort>
+            <falscheAntwort1>Schotter</falscheAntwort1>
+            <falscheAntwort2>Baumaterial</falscheAntwort2>
+            <falscheAntwort3>zu hochwertigen Werkstoff geschmolzen</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo ist der Porphyr zu finden?</fragenText>
+            <richtigeAntwort>SW Sachsen/Umgebung von Halle</richtigeAntwort>
+            <falscheAntwort1>Ruhrgebiet</falscheAntwort1>
+            <falscheAntwort2>Alpenvorland</falscheAntwort2>
+            <falscheAntwort3>Mecklenburgische Seenplatte</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie kann Kalk nachgewiesen werden?</fragenText>
+            <richtigeAntwort>Salzsäure</richtigeAntwort>
+            <falscheAntwort1>Kochsalzlösung</falscheAntwort1>
+            <falscheAntwort2>Wasser</falscheAntwort2>
+            <falscheAntwort3>Chlorkohlenwasserstoff</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Gefüge weist der Basalt auf?</fragenText>
+            <richtigeAntwort>feinkristallines Gefüge</richtigeAntwort>
+            <falscheAntwort1>Grundmasse mit Einsprenglinge</falscheAntwort1>
+            <falscheAntwort2>grobkristallines Gefüge</falscheAntwort2>
+            <falscheAntwort3>Schieferung</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist für Magmatite typisch?</fragenText>
+            <richtigeAntwort>Kristalle</richtigeAntwort>
+            <falscheAntwort1>Skeletteilchen</falscheAntwort1>
+            <falscheAntwort2>Schieferung</falscheAntwort2>
+            <falscheAntwort3>Schichtung</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist am schnellsten abgekühlt?</fragenText>
+            <richtigeAntwort>Basalt</richtigeAntwort>
+            <falscheAntwort1>Porphyr</falscheAntwort1>
+            <falscheAntwort2>Granit</falscheAntwort2>
+            <falscheAntwort3>Gneis</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist ein Plutonit? null</fragenText>
+            <richtigeAntwort>Syenit</richtigeAntwort>
+            <falscheAntwort1>Andesit</falscheAntwort1>
+            <falscheAntwort2>Schiefer</falscheAntwort2>
+            <falscheAntwort3>Gabbro</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Gestein lässt sich den Plutoniten und Vulkaniten nicht eindeutig zuordnen?</fragenText>
+            <richtigeAntwort>Porphyr</richtigeAntwort>
+            <falscheAntwort1>Diorit</falscheAntwort1>
+            <falscheAntwort2>Syerit</falscheAntwort2>
+            <falscheAntwort3>Gabbro</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo gelten chemische Sedimente als Klimazeugen?</fragenText>
+            <richtigeAntwort>in ariden Gebieten</richtigeAntwort>
+            <falscheAntwort1>an den Polen</falscheAntwort1>
+            <falscheAntwort2>in Hochgebirgsregionen</falscheAntwort2>
+            <falscheAntwort3>in humiden Gebieten</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Hinsichtliche des Ablagerungsortes gibt es folgende Sedimente?</fragenText>
+            <richtigeAntwort>marine</richtigeAntwort>
+            <falscheAntwort1>hydrologische</falscheAntwort1>
+            <falscheAntwort2>pedrographische</falscheAntwort2>
+            <falscheAntwort3>geographische</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo finden wir die häufigsten Sedimentgesteine?</fragenText>
+            <richtigeAntwort>an der Erdoberfläche</richtigeAntwort>
+            <falscheAntwort1>in der Lithosphäre</falscheAntwort1>
+            <falscheAntwort2>in der Asthenosphäre</falscheAntwort2>
+            <falscheAntwort3>in der Hydrosphäre</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was entsteht nicht durch Organismen?</fragenText>
+            <richtigeAntwort>Kalkstein</richtigeAntwort>
+            <falscheAntwort1>Kohle</falscheAntwort1>
+            <falscheAntwort2>Torf</falscheAntwort2>
+            <falscheAntwort3>Graphit</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches ist kein Merkmal von Sedimentgesteinen?</fragenText>
+            <richtigeAntwort>Kristalle</richtigeAntwort>
+            <falscheAntwort1>schichtiger Aufbau</falscheAntwort1>
+            <falscheAntwort2>Fossilien bzw. deren Abdrücke</falscheAntwort2>
+            <falscheAntwort3>Gesteinsstücke</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Terrestrische Sedimente haben folgende Farbe?</fragenText>
+            <richtigeAntwort>rot</richtigeAntwort>
+            <falscheAntwort1>gelb</falscheAntwort1>
+            <falscheAntwort2>braun</falscheAntwort2>
+            <falscheAntwort3>weiß</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo gibt es Kalksinterterrassen?</fragenText>
+            <richtigeAntwort>Türkei</richtigeAntwort>
+            <falscheAntwort1>Deutschland</falscheAntwort1>
+            <falscheAntwort2>Norwegen</falscheAntwort2>
+            <falscheAntwort3>Island</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was wird durch chemische Prozesse nicht ausgeschieden?</fragenText>
+            <richtigeAntwort>Löss</richtigeAntwort>
+            <falscheAntwort1>Dolomit</falscheAntwort1>
+            <falscheAntwort2>Gips</falscheAntwort2>
+            <falscheAntwort3>Steinsalz</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was heißt Diagenese?</fragenText>
+            <richtigeAntwort>Verfestig. Lockersedimente durch p/T</richtigeAntwort>
+            <falscheAntwort1>Transport von Lockersedimenten</falscheAntwort1>
+            <falscheAntwort2>Aufschmelzung von Gesteinen</falscheAntwort2>
+            <falscheAntwort3>Kristallbildung</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Sandstein wird nicht verwendet als?</fragenText>
+            <richtigeAntwort>Baustein</richtigeAntwort>
+            <falscheAntwort1>Schleif- und Mühlstein</falscheAntwort1>
+            <falscheAntwort2>Bildhauerstein</falscheAntwort2>
+            <falscheAntwort3>Werkstein</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist kein physikalischer Verwitterungsprozess?</fragenText>
+            <richtigeAntwort>Lösungsverwitterung</richtigeAntwort>
+            <falscheAntwort1>Frostverwitterung</falscheAntwort1>
+            <falscheAntwort2>Salzsprengung</falscheAntwort2>
+            <falscheAntwort3>Temperaturverwitterung</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie werden lockere Sedimente nicht transportiert?</fragenText>
+            <richtigeAntwort>Tiere</richtigeAntwort>
+            <falscheAntwort1>Wasser</falscheAntwort1>
+            <falscheAntwort2>Wind</falscheAntwort2>
+            <falscheAntwort3>Eis und Schmelzwasser</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lassen sich klastische Sedimente klassifizieren?</fragenText>
+            <richtigeAntwort>nach der Korngröße</richtigeAntwort>
+            <falscheAntwort1>nach der Farbe</falscheAntwort1>
+            <falscheAntwort2>nach dem Gefüge</falscheAntwort2>
+            <falscheAntwort3>nach dem Geruch</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist kein Lockersediment?</fragenText>
+            <richtigeAntwort>Brecczie</richtigeAntwort>
+            <falscheAntwort1>Schotter</falscheAntwort1>
+            <falscheAntwort2>Sand</falscheAntwort2>
+            <falscheAntwort3>Schlamm</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Kaolin wird verwendet für die Herstellung von?</fragenText>
+            <richtigeAntwort>Porzellan</richtigeAntwort>
+            <falscheAntwort1>Glas</falscheAntwort1>
+            <falscheAntwort2>Baumaterial</falscheAntwort2>
+            <falscheAntwort3>Keramik</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo finden wir kein Sandstein?</fragenText>
+            <richtigeAntwort>Erzgebirge</richtigeAntwort>
+            <falscheAntwort1>Helgoland</falscheAntwort1>
+            <falscheAntwort2>Elbsandsteingebirge</falscheAntwort2>
+            <falscheAntwort3>Schwarzwald</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Chemische Sedimente entstehen durch?</fragenText>
+            <richtigeAntwort>Verdunstung von Wasser</richtigeAntwort>
+            <falscheAntwort1>Zerfall der Gesteine</falscheAntwort1>
+            <falscheAntwort2>Auflösung der Gesteine</falscheAntwort2>
+            <falscheAntwort3>Verdichtung von Humus</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Biogene Sedimente entstehen aus?</fragenText>
+            <richtigeAntwort>abgestorbener Flora und Fauna</richtigeAntwort>
+            <falscheAntwort1>Abfällen von Menschen</falscheAntwort1>
+            <falscheAntwort2>umgewandelten Magmatiten</falscheAntwort2>
+            <falscheAntwort3>verwitterten Sedimentiten</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist Löss?</fragenText>
+            <richtigeAntwort>gelbes, kalkhaltiges Material</richtigeAntwort>
+            <falscheAntwort1>Festgestein</falscheAntwort1>
+            <falscheAntwort2>Konglomerat</falscheAntwort2>
+            <falscheAntwort3>rotes, mineralisches Material</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Brecczien unterschieden sich von Konglomerat durch?</fragenText>
+            <richtigeAntwort>Form der Gesteinstrümmer</richtigeAntwort>
+            <falscheAntwort1>Farbe</falscheAntwort1>
+            <falscheAntwort2>Mineralbestand</falscheAntwort2>
+            <falscheAntwort3>Zusammensetzung</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo findet man keine Salzlagerstätten?</fragenText>
+            <richtigeAntwort>Brocken</richtigeAntwort>
+            <falscheAntwort1>Raum Weser, Aller, Elbe</falscheAntwort1>
+            <falscheAntwort2>Erfurt</falscheAntwort2>
+            <falscheAntwort3>Halle</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie wird Salz verwendet?</fragenText>
+            <richtigeAntwort>Düngemittelgewinnung</richtigeAntwort>
+            <falscheAntwort1>Kunststoffe</falscheAntwort1>
+            <falscheAntwort2>Arzneimittel</falscheAntwort2>
+            <falscheAntwort3>Kosmetika</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Kohle ist am effizientesten?</fragenText>
+            <richtigeAntwort>Anthrazit</richtigeAntwort>
+            <falscheAntwort1>Braunkohle</falscheAntwort1>
+            <falscheAntwort2>Magerkohle</falscheAntwort2>
+            <falscheAntwort3>Steinkohle</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo finden wir Braunkohle?</fragenText>
+            <richtigeAntwort>Geiseltal bei Merseburg</richtigeAntwort>
+            <falscheAntwort1>Rheinisch-westfälische Revier</falscheAntwort1>
+            <falscheAntwort2>Zwickauer Revier</falscheAntwort2>
+            <falscheAntwort3>Ostsee</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Als was wird Erdöl nicht verwendet?</fragenText>
+            <richtigeAntwort>Bleistiftminen</richtigeAntwort>
+            <falscheAntwort1>Benzin</falscheAntwort1>
+            <falscheAntwort2>Schmier- und Heizöl</falscheAntwort2>
+            <falscheAntwort3>Vaseline</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Gips wird nicht verwendet als?</fragenText>
+            <richtigeAntwort>Arzneimittel</richtigeAntwort>
+            <falscheAntwort1>Bestandteil von Tischplatten</falscheAntwort1>
+            <falscheAntwort2>Bestandteil von Lampenschalen</falscheAntwort2>
+            <falscheAntwort3>Düngemittel</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Marine Sedimente finden wir?</fragenText>
+            <richtigeAntwort>auf Helgoland</richtigeAntwort>
+            <falscheAntwort1>im Monument Valley (USA)</falscheAntwort1>
+            <falscheAntwort2>im Elbsandsteingebirge</falscheAntwort2>
+            <falscheAntwort3>im Glen Canyon (USA)</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo sind die meisten Sedimente zu finden?</fragenText>
+            <richtigeAntwort>im Meer</richtigeAntwort>
+            <falscheAntwort1>im Hochgebirge</falscheAntwort1>
+            <falscheAntwort2>im Flusslauf</falscheAntwort2>
+            <falscheAntwort3>im Delta</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Kalkstein findet keine Verwendung als?</fragenText>
+            <richtigeAntwort>Baumaterial</richtigeAntwort>
+            <falscheAntwort1>Zement</falscheAntwort1>
+            <falscheAntwort2>Farbe</falscheAntwort2>
+            <falscheAntwort3>Ziegelton</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo ist die Temperatur am höchsten?</fragenText>
+            <richtigeAntwort>in der Katazone</richtigeAntwort>
+            <falscheAntwort1>an der Erdoberfläche</falscheAntwort1>
+            <falscheAntwort2>in der Epizone</falscheAntwort2>
+            <falscheAntwort3>in der Mesozone</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Metamorphite lassen sich nur schlecht nutzen. Warum?</fragenText>
+            <richtigeAntwort>wegen der Schiefrigkeit</richtigeAntwort>
+            <falscheAntwort1>wegen dem Gefüge</falscheAntwort1>
+            <falscheAntwort2>wegen der Härte</falscheAntwort2>
+            <falscheAntwort3>wegen den Kristallen</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was sind Metamorphite?</fragenText>
+            <richtigeAntwort>durch p/T veränderte Sedimentite</richtigeAntwort>
+            <falscheAntwort1>Plutonite</falscheAntwort1>
+            <falscheAntwort2>Ganggesteine</falscheAntwort2>
+            <falscheAntwort3>Feuersteine</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Eine Temperaturerhöhung wird nicht erreicht durch?</fragenText>
+            <richtigeAntwort>Salzsprengung</richtigeAntwort>
+            <falscheAntwort1>Inkohlung</falscheAntwort1>
+            <falscheAntwort2>Regionalmetamorphose</falscheAntwort2>
+            <falscheAntwort3>Kontaktmetamorphose</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Metamorphose fürht zu?</fragenText>
+            <richtigeAntwort>Umkristallisation</richtigeAntwort>
+            <falscheAntwort1>Lösung der Gesteine</falscheAntwort1>
+            <falscheAntwort2>Vernichtung des Gesteins</falscheAntwort2>
+            <falscheAntwort3>Porosität</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Metamorphose führt zur Bildung?</fragenText>
+            <richtigeAntwort>einer Schieferung</richtigeAntwort>
+            <falscheAntwort1>einer Schichtung.</falscheAntwort1>
+            <falscheAntwort2>einer Grundmasse mit Einsprenglinge</falscheAntwort2>
+            <falscheAntwort3>von Fossilien</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Werden Gesteine vollständig aufgeschmolzen, spricht man von?</fragenText>
+            <richtigeAntwort>Anatexis</richtigeAntwort>
+            <falscheAntwort1>Diagenese</falscheAntwort1>
+            <falscheAntwort2>Inkohlung</falscheAntwort2>
+            <falscheAntwort3>Akkumulation</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Marmor ist der Metamorphit aus?</fragenText>
+            <richtigeAntwort>Kalkstein</richtigeAntwort>
+            <falscheAntwort1>Granit</falscheAntwort1>
+            <falscheAntwort2>Mergel</falscheAntwort2>
+            <falscheAntwort3>Sandstein</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was sind Migmatite?</fragenText>
+            <richtigeAntwort>Gesteine mit metamorphen/magmatischen Komponenten</richtigeAntwort>
+            <falscheAntwort1>basische Gesteine</falscheAntwort1>
+            <falscheAntwort2>besonders harte Gesteine</falscheAntwort2>
+            <falscheAntwort3>Ganggesteine</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo wird Marmor abgebaut?</fragenText>
+            <richtigeAntwort>Italien</richtigeAntwort>
+            <falscheAntwort1>Österreich</falscheAntwort1>
+            <falscheAntwort2>Deutschland</falscheAntwort2>
+            <falscheAntwort3>Norwegen</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Glimmerschiefer finden wir nicht?</fragenText>
+            <richtigeAntwort>in der Mecklenburgischen Seenplatte</richtigeAntwort>
+            <falscheAntwort1>in den Zentralalpen</falscheAntwort1>
+            <falscheAntwort2>im Südwesten des Erzgebirges</falscheAntwort2>
+            <falscheAntwort3>im Thüringer Wald</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Gneis entsteht nicht aus?</fragenText>
+            <richtigeAntwort>Bauxit</richtigeAntwort>
+            <falscheAntwort1>Granit</falscheAntwort1>
+            <falscheAntwort2>Ton</falscheAntwort2>
+            <falscheAntwort3>Arkose</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist eine Orthogestein?</fragenText>
+            <richtigeAntwort>Metamorphit aus Magmatiten</richtigeAntwort>
+            <falscheAntwort1>Metamorphit aus Sedimentiten</falscheAntwort1>
+            <falscheAntwort2>Metamorphit aus Metamorphiten</falscheAntwort2>
+            <falscheAntwort3>Metamorphit aus vulkanischer Asche</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie werden Metamorphite noch genannt?</fragenText>
+            <richtigeAntwort>Kristalline Schiefer</richtigeAntwort>
+            <falscheAntwort1>Erstarrungsgesteine</falscheAntwort1>
+            <falscheAntwort2>Trümmergesteine</falscheAntwort2>
+            <falscheAntwort3>Festgestein</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

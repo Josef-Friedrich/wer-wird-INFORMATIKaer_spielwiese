@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Mathe</fach>
+    <thema>Mathematik, Geometrie</thema>
+    <autor>A. Bergkemper, 29/5/2001</autor>
+    <anzahlFragen>93</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>Thema Kreis</fragenText>
+            <richtigeAntwort>richtig</richtigeAntwort>
+            <falscheAntwort1>falsch</falscheAntwort1>
+            <falscheAntwort2>falsch</falscheAntwort2>
+            <falscheAntwort3>falsch</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>15</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wenn man den Radius eines Kreises mit 2 multipliziert, erhält man</fragenText>
+            <richtigeAntwort>den Durchmesser</richtigeAntwort>
+            <falscheAntwort1>den Umfang</falscheAntwort1>
+            <falscheAntwort2>die Fläche</falscheAntwort2>
+            <falscheAntwort3>die Diagonale</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Dividiert man den Umfang eines Kreises durch die Zahl Pi, erhält man</fragenText>
+            <richtigeAntwort>den Durchmesser</richtigeAntwort>
+            <falscheAntwort1>den Radius</falscheAntwort1>
+            <falscheAntwort2>die Fläche</falscheAntwort2>
+            <falscheAntwort3>die Sekante</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wenn man eine Kugel mit einer Ebene schräg durchschneidet, erhält man als Schnittfläche</fragenText>
+            <richtigeAntwort>einen Kreis</richtigeAntwort>
+            <falscheAntwort1>eine Ellipse</falscheAntwort1>
+            <falscheAntwort2>ein Quadrat</falscheAntwort2>
+            <falscheAntwort3>einen Kolloid</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Figur, die eine an einen Pflock auf einer Wiese angebundene Ziege nach einigen Tagen »abgegrast« hat.</fragenText>
+            <richtigeAntwort>Kreis</richtigeAntwort>
+            <falscheAntwort1>Dreieck</falscheAntwort1>
+            <falscheAntwort2>Quadrat</falscheAntwort2>
+            <falscheAntwort3>Ziegenviereck</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wird der Radius einer Kugel verdoppelt, wird ihre Oberfläche</fragenText>
+            <richtigeAntwort>vervierfacht</richtigeAntwort>
+            <falscheAntwort1>versechsfacht</falscheAntwort1>
+            <falscheAntwort2>verdoppelt</falscheAntwort2>
+            <falscheAntwort3>verachtfacht</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviele Schnittpunkte hat eine Gerade höchstens mit einem Kreis?</fragenText>
+            <richtigeAntwort>zwei</richtigeAntwort>
+            <falscheAntwort1>einen</falscheAntwort1>
+            <falscheAntwort2>drei</falscheAntwort2>
+            <falscheAntwort3>vier</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviel mal größer ist die Oberfläche einer Kugel als die Fläche eines Kreises mit dem gleichen Durchmesser?</fragenText>
+            <richtigeAntwort>viermal so groß</richtigeAntwort>
+            <falscheAntwort1>doppelt so groß</falscheAntwort1>
+            <falscheAntwort2>dreimal so groß</falscheAntwort2>
+            <falscheAntwort3>Pi-mal so groß</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Halbiert man den Radius einer Kugel, schrumpft ihr Volumen auf</fragenText>
+            <richtigeAntwort>ein Achtel</richtigeAntwort>
+            <falscheAntwort1>die Hältfte</falscheAntwort1>
+            <falscheAntwort2>ein Sechzehntel</falscheAntwort2>
+            <falscheAntwort3>ein Viertel</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Verdreifacht man den Durchmesser eines Kreises, wird seine Fläche</fragenText>
+            <richtigeAntwort>9mal so groß</richtigeAntwort>
+            <falscheAntwort1>3mal so groß</falscheAntwort1>
+            <falscheAntwort2>6mal so groß</falscheAntwort2>
+            <falscheAntwort3>12mal so groß</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der Mittelpunkt eines Kreises hat von jedem Punkt der Kreislinie aus den gleichen Abstand.</fragenText>
+            <richtigeAntwort>stimmt</richtigeAntwort>
+            <falscheAntwort1>stimmt nicht</falscheAntwort1>
+            <falscheAntwort2>stimmt für einige Punkte</falscheAntwort2>
+            <falscheAntwort3>stimmt bei kleinen Kreisen</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>2</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wenn sich zwei Kreise schneiden, bildet die Verbindungslinie der Schnittpunkte mit der Verbindungslinie der Mittelpunkte einen Winkel von</fragenText>
+            <richtigeAntwort>90°</richtigeAntwort>
+            <falscheAntwort1>60°</falscheAntwort1>
+            <falscheAntwort2>120°</falscheAntwort2>
+            <falscheAntwort3>180°</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zwei Kreise, die überall den gleichen Abstand haben, sind</fragenText>
+            <richtigeAntwort>konzentrisch</richtigeAntwort>
+            <falscheAntwort1>kommunistisch</falscheAntwort1>
+            <falscheAntwort2>kongenial</falscheAntwort2>
+            <falscheAntwort3>kongruent</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Halbiert man den Durchmesser eines Kreises, erhält man</fragenText>
+            <richtigeAntwort>den Radius</richtigeAntwort>
+            <falscheAntwort1>die Diagonale</falscheAntwort1>
+            <falscheAntwort2>Mittelsekante</falscheAntwort2>
+            <falscheAntwort3>ein Viertel des Umfangs</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Mittelsenkrechten zweier beliebiger Sekanten</fragenText>
+            <richtigeAntwort>schneiden sich im Mittelpunkt.</richtigeAntwort>
+            <falscheAntwort1>schneiden sich.</falscheAntwort1>
+            <falscheAntwort2>schneiden sich außerhalb des Kreises.</falscheAntwort2>
+            <falscheAntwort3>schneiden sich nicht.</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Thema Winkel</fragenText>
+            <richtigeAntwort>richtig</richtigeAntwort>
+            <falscheAntwort1>falsch</falscheAntwort1>
+            <falscheAntwort2>falsch</falscheAntwort2>
+            <falscheAntwort3>falsch</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>15</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher dieser Winkel ist stumpf?</fragenText>
+            <richtigeAntwort>91°</richtigeAntwort>
+            <falscheAntwort1>89°</falscheAntwort1>
+            <falscheAntwort2>88°</falscheAntwort2>
+            <falscheAntwort3>90°</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>2</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher dieser Winkel ist spitz?</fragenText>
+            <richtigeAntwort>89°</richtigeAntwort>
+            <falscheAntwort1>90°</falscheAntwort1>
+            <falscheAntwort2>91°</falscheAntwort2>
+            <falscheAntwort3>92°</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher dieser Winkel ist nicht überstumpf?</fragenText>
+            <richtigeAntwort>170°</richtigeAntwort>
+            <falscheAntwort1>190°</falscheAntwort1>
+            <falscheAntwort2>210°</falscheAntwort2>
+            <falscheAntwort3>250°</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher dieser Winkel ist überstumpf?</fragenText>
+            <richtigeAntwort>190°</richtigeAntwort>
+            <falscheAntwort1>150°</falscheAntwort1>
+            <falscheAntwort2>180°</falscheAntwort2>
+            <falscheAntwort3>120°</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>2</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wenn zwei parallele Geraden von einer dritten Gerade geschnitten werden, sind einige der dabei entstehenden Winkel gleich groß. Für welche Winkel trifft das zu?</fragenText>
+            <richtigeAntwort>Stufenwinkel</richtigeAntwort>
+            <falscheAntwort1>Nachbarwinkel</falscheAntwort1>
+            <falscheAntwort2>Wechselwinkel</falscheAntwort2>
+            <falscheAntwort3>Mittelpunktswinkel</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Bei einem rechtwinkligen Dreieck ist die längste Seite</fragenText>
+            <richtigeAntwort>die Hypotenuse</richtigeAntwort>
+            <falscheAntwort1>die Höhe</falscheAntwort1>
+            <falscheAntwort2>die längere Kathete</falscheAntwort2>
+            <falscheAntwort3>die Diagonale</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der größte Winkel in einem gleichseitigen Dreieck ist</fragenText>
+            <richtigeAntwort>60°</richtigeAntwort>
+            <falscheAntwort1>70°</falscheAntwort1>
+            <falscheAntwort2>80°</falscheAntwort2>
+            <falscheAntwort3>90°</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der kleinste Winkel in einem gleichseitigen Dreieck ist</fragenText>
+            <richtigeAntwort>60°</richtigeAntwort>
+            <falscheAntwort1>70°</falscheAntwort1>
+            <falscheAntwort2>45°</falscheAntwort2>
+            <falscheAntwort3>50°</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der größte Winkel in einem rechtwinkligen Dreieck ist</fragenText>
+            <richtigeAntwort>90°</richtigeAntwort>
+            <falscheAntwort1>70°</falscheAntwort1>
+            <falscheAntwort2>80°</falscheAntwort2>
+            <falscheAntwort3>60°</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Winkelsumme in einem gleichschenkligen Dreieck beträgt</fragenText>
+            <richtigeAntwort>180°</richtigeAntwort>
+            <falscheAntwort1>120°</falscheAntwort1>
+            <falscheAntwort2>140°</falscheAntwort2>
+            <falscheAntwort3>160°</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Winkelsumme in einem rechtwinkligen Dreieck beträgt</fragenText>
+            <richtigeAntwort>180°</richtigeAntwort>
+            <falscheAntwort1>120°</falscheAntwort1>
+            <falscheAntwort2>140°</falscheAntwort2>
+            <falscheAntwort3>160°</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der kleinste Winkel in einem rechtwinklig-gleichschenkligen Dreieck ist wie groß?</fragenText>
+            <richtigeAntwort>45°</richtigeAntwort>
+            <falscheAntwort1>30°</falscheAntwort1>
+            <falscheAntwort2>75°</falscheAntwort2>
+            <falscheAntwort3>90°</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der größte Winkel in einem rechtwinklig-gleichschenkligen Dreieck ist wie groß?</fragenText>
+            <richtigeAntwort>90°</richtigeAntwort>
+            <falscheAntwort1>45°</falscheAntwort1>
+            <falscheAntwort2>75°</falscheAntwort2>
+            <falscheAntwort3>60°</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviel mal größer als das Volumen einer quadratischen Pyramide ist das Volumen eines gleich hohen Prismas?</fragenText>
+            <richtigeAntwort>dreimal so groß</richtigeAntwort>
+            <falscheAntwort1>doppelt so groß</falscheAntwort1>
+            <falscheAntwort2>viermal so groß</falscheAntwort2>
+            <falscheAntwort3>zweieinhalb mal so groß</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der Mittelpunkt des Inkreises bei einem Dreieck liegt auf dem Schnittpunkt der</fragenText>
+            <richtigeAntwort>Winkelhalbierenden</richtigeAntwort>
+            <falscheAntwort1>Mittelsenkrechten</falscheAntwort1>
+            <falscheAntwort2>Höhen</falscheAntwort2>
+            <falscheAntwort3>Diagonalen</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der Mittelpunkt des Umkreises bei einem Dreieck liegt auf dem Schnittpunkt der</fragenText>
+            <richtigeAntwort>Mittelsenkrechten</richtigeAntwort>
+            <falscheAntwort1>Winkelhalbierenden</falscheAntwort1>
+            <falscheAntwort2>Höhen</falscheAntwort2>
+            <falscheAntwort3>Diagonalen</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wenn man einen beliebigen Punkt einer Kreislinie, der nicht auf dem Durchmesser liegt, mit den Endpunkten des Kreisduchmessers verbindet, erhält man ein</fragenText>
+            <richtigeAntwort>rechtwinkliges Dreieck</richtigeAntwort>
+            <falscheAntwort1>stumpfwinkliges Dreieck</falscheAntwort1>
+            <falscheAntwort2>gleichseitiges Dreieck</falscheAntwort2>
+            <falscheAntwort3>gleichschenkliges Dreieck</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wenn man einen Kegelmantel flach ausbreitet, erhält man</fragenText>
+            <richtigeAntwort>ein Kreissegment</richtigeAntwort>
+            <falscheAntwort1>ein Rechteck</falscheAntwort1>
+            <falscheAntwort2>ein Dreieck</falscheAntwort2>
+            <falscheAntwort3>einen Kreis</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wenn man jeden Punkt einer Kreislinie mit einem Punkt verbindet, der senkrecht über dem Kreismittelpunkt liegt, erhält man</fragenText>
+            <richtigeAntwort>einen Kegel</richtigeAntwort>
+            <falscheAntwort1>eine Pyramide</falscheAntwort1>
+            <falscheAntwort2>eine Kugel</falscheAntwort2>
+            <falscheAntwort3>einen Würfel</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie oft passt der Inhalt eines Kegels in einen gleich hohen und gleich »dicken« Zylinder?</fragenText>
+            <richtigeAntwort>dreimal</richtigeAntwort>
+            <falscheAntwort1>zweimal</falscheAntwort1>
+            <falscheAntwort2>viermal</falscheAntwort2>
+            <falscheAntwort3>Pi-mal</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviele Flächen hat ein Zylinder?</fragenText>
+            <richtigeAntwort>drei</richtigeAntwort>
+            <falscheAntwort1>zwei</falscheAntwort1>
+            <falscheAntwort2>vier</falscheAntwort2>
+            <falscheAntwort3>fünf</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviele Flächen hat ein Kegelstumpf?</fragenText>
+            <richtigeAntwort>drei</richtigeAntwort>
+            <falscheAntwort1>vier</falscheAntwort1>
+            <falscheAntwort2>zwei</falscheAntwort2>
+            <falscheAntwort3>fünf</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Begriffe</fragenText>
+            <richtigeAntwort/>
+            <falscheAntwort1/>
+            <falscheAntwort2/>
+            <falscheAntwort3/>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>15</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Fremdwort benutzt man auch für den Begriff »waagerecht«</fragenText>
+            <richtigeAntwort>horizontal</richtigeAntwort>
+            <falscheAntwort1>vertikal</falscheAntwort1>
+            <falscheAntwort2>diagonal</falscheAntwort2>
+            <falscheAntwort3>tangential</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher dieser Begriffe bezeichnet einen Würfel?</fragenText>
+            <richtigeAntwort>Hexaeder</richtigeAntwort>
+            <falscheAntwort1>Ikosaeder</falscheAntwort1>
+            <falscheAntwort2>Oktaeder</falscheAntwort2>
+            <falscheAntwort3>Tetraeder</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches ist kein platonischer Körper?</fragenText>
+            <richtigeAntwort>Quader</richtigeAntwort>
+            <falscheAntwort1>Oktaeder</falscheAntwort1>
+            <falscheAntwort2>Tetraeder</falscheAntwort2>
+            <falscheAntwort3>Würfel</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ein dünnes Seil mit einem Gewicht daran hängt</fragenText>
+            <richtigeAntwort>lotrecht</richtigeAntwort>
+            <falscheAntwort1>waagerecht</falscheAntwort1>
+            <falscheAntwort2>senkrecht</falscheAntwort2>
+            <falscheAntwort3>diagonal</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wenn man in einem Rechteck zwei nicht benachbarte Ecken durch eine Gerade verbindet, erhält man</fragenText>
+            <richtigeAntwort>die Diagonale</richtigeAntwort>
+            <falscheAntwort1>die Höhe</falscheAntwort1>
+            <falscheAntwort2>den Durchmesser</falscheAntwort2>
+            <falscheAntwort3>die Sekante</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Eine Gerade, die einen Kreis in einem Punkt berührt, heißt</fragenText>
+            <richtigeAntwort>Tangente</richtigeAntwort>
+            <falscheAntwort1>Sekante</falscheAntwort1>
+            <falscheAntwort2>Diagonale</falscheAntwort2>
+            <falscheAntwort3>Horizontale</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die kürzeste Verbindung zwischen zwei Punkten ist</fragenText>
+            <richtigeAntwort>die Gerade</richtigeAntwort>
+            <falscheAntwort1>die Diagonale</falscheAntwort1>
+            <falscheAntwort2>die Tangente</falscheAntwort2>
+            <falscheAntwort3>die Sekante</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zwei Geraden, die an vier verschiedenen Stellen den gleichen Abstand haben, nennt man</fragenText>
+            <richtigeAntwort>Parallelen</richtigeAntwort>
+            <falscheAntwort1>Quadrat</falscheAntwort1>
+            <falscheAntwort2>Senkrechte</falscheAntwort2>
+            <falscheAntwort3>Diagonalen</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie definiert im rechtwinkligen Dreieck man den Sinus eines Winkels?</fragenText>
+            <richtigeAntwort>Gegenkathete durch Hypotenuse</richtigeAntwort>
+            <falscheAntwort1>Ankathete durch Hypotenuse</falscheAntwort1>
+            <falscheAntwort2>Gegenkathete durch Ankathete</falscheAntwort2>
+            <falscheAntwort3>Ankathete durch Gegenkathete</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man einen Körper, dessen Oberfläche aus einem Rechteck und zwei gleich großen parallelen Kreisen besteht?</fragenText>
+            <richtigeAntwort>Zylinder</richtigeAntwort>
+            <falscheAntwort1>Kegel</falscheAntwort1>
+            <falscheAntwort2>Kegelstumpf</falscheAntwort2>
+            <falscheAntwort3>Kegelrumpf</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Nach wem benennt man den Lehrsatz, dass die Summe der Quadrate über den Katheten eines rechtwinkligen Dreiecks gleich dem Quadrat über der Hypotenuse ist?</fragenText>
+            <richtigeAntwort>Pythagoras</richtigeAntwort>
+            <falscheAntwort1>Thales von Milet</falscheAntwort1>
+            <falscheAntwort2>Diogenes</falscheAntwort2>
+            <falscheAntwort3>Sokrates</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Teil des Volumens geht verloren, wenn man von einem Kreiskegel genau das obere Drittel abschneidet?</fragenText>
+            <richtigeAntwort>ein 27stel</richtigeAntwort>
+            <falscheAntwort1>ein Drittel</falscheAntwort1>
+            <falscheAntwort2>ein Neuntel</falscheAntwort2>
+            <falscheAntwort3>ein 81stel</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches »Paar« in dieser Gruppe ist anders?</fragenText>
+            <richtigeAntwort>Dreieck - Dreieckspyramide</richtigeAntwort>
+            <falscheAntwort1>Rechteck - Quader</falscheAntwort1>
+            <falscheAntwort2>Fünfeck - Fünfeckprisma</falscheAntwort2>
+            <falscheAntwort3>Kreis - Zylinder</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviele Seiten hat ein Würfel?</fragenText>
+            <richtigeAntwort>sechs</richtigeAntwort>
+            <falscheAntwort1>vier</falscheAntwort1>
+            <falscheAntwort2>acht</falscheAntwort2>
+            <falscheAntwort3>zehn</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>2</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviele Kanten hat ein Würfel?</fragenText>
+            <richtigeAntwort>zwölf</richtigeAntwort>
+            <falscheAntwort1>sechs</falscheAntwort1>
+            <falscheAntwort2>acht</falscheAntwort2>
+            <falscheAntwort3>zehn</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wenn man die Kantenlänge eines Würfels verdoppelt, wird sein Volumen</fragenText>
+            <richtigeAntwort>verachtfacht</richtigeAntwort>
+            <falscheAntwort1>vervierfacht</falscheAntwort1>
+            <falscheAntwort2>versechsfacht</falscheAntwort2>
+            <falscheAntwort3>verdoppelt</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviel mal größer ist die Oberfläche eines Würfels als die Fläche eines Quadrats mit der gleichen Seitenlänge?</fragenText>
+            <richtigeAntwort>sechsmal so groß</richtigeAntwort>
+            <falscheAntwort1>viermal so groß</falscheAntwort1>
+            <falscheAntwort2>dreimal so groß</falscheAntwort2>
+            <falscheAntwort3>doppelt so groß</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man einen Körper, der von zwei parallelen deckungsgleichen Vielecken und Parallelogrammen als Seitenflächen begrenzt wird?</fragenText>
+            <richtigeAntwort>Prisma</richtigeAntwort>
+            <falscheAntwort1>Oktaeder</falscheAntwort1>
+            <falscheAntwort2>Ikosaeder</falscheAntwort2>
+            <falscheAntwort3>Dodekaeder</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Unter welchem Winkel treffen sich je zwei Kanten eines Würfels in einer Ecke?</fragenText>
+            <richtigeAntwort>90°</richtigeAntwort>
+            <falscheAntwort1>60°</falscheAntwort1>
+            <falscheAntwort2>80°</falscheAntwort2>
+            <falscheAntwort3>120°</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviele Kanten treffen in der Ecke eines Würfels aufeinander?</fragenText>
+            <richtigeAntwort>drei</richtigeAntwort>
+            <falscheAntwort1>zwei</falscheAntwort1>
+            <falscheAntwort2>vier</falscheAntwort2>
+            <falscheAntwort3>sechs</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>2</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wenn man die Kantenlänge eines Würfels verdoppelt, wird seine Oberfläche</fragenText>
+            <richtigeAntwort>vervierfacht</richtigeAntwort>
+            <falscheAntwort1>versechsfacht</falscheAntwort1>
+            <falscheAntwort2>verdoppelt</falscheAntwort2>
+            <falscheAntwort3>verachtfacht</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviele Seiten hat ein Quader?</fragenText>
+            <richtigeAntwort>sechs</richtigeAntwort>
+            <falscheAntwort1>fünf</falscheAntwort1>
+            <falscheAntwort2>acht</falscheAntwort2>
+            <falscheAntwort3>vier</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviele Kanten hat ein Quader?</fragenText>
+            <richtigeAntwort>12</richtigeAntwort>
+            <falscheAntwort1>10</falscheAntwort1>
+            <falscheAntwort2>8</falscheAntwort2>
+            <falscheAntwort3>16</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviele Seiten hat ein Dreiecksprisma?</fragenText>
+            <richtigeAntwort>fünf</richtigeAntwort>
+            <falscheAntwort1>vier</falscheAntwort1>
+            <falscheAntwort2>drei</falscheAntwort2>
+            <falscheAntwort3>sechs</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher dieser gleich hohen und gleich »dicken« Körper hat das größte Volumen?</fragenText>
+            <richtigeAntwort>Würfel</richtigeAntwort>
+            <falscheAntwort1>Zylinder</falscheAntwort1>
+            <falscheAntwort2>Pyramide</falscheAntwort2>
+            <falscheAntwort3>Kegel</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Unter welchem Winkel treffen sich je zwei Kanten eines regelmäßigen Tetraeders in einer Ecke?</fragenText>
+            <richtigeAntwort>60°</richtigeAntwort>
+            <falscheAntwort1>90°</falscheAntwort1>
+            <falscheAntwort2>80°</falscheAntwort2>
+            <falscheAntwort3>120°</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviele Seiten hat eine quadratische Pyramide?</fragenText>
+            <richtigeAntwort>fünf</richtigeAntwort>
+            <falscheAntwort1>vier</falscheAntwort1>
+            <falscheAntwort2>sechs</falscheAntwort2>
+            <falscheAntwort3>sieben</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviele Kanten treffen sich in der Spitze einer Dreieckspyramide?</fragenText>
+            <richtigeAntwort>drei</richtigeAntwort>
+            <falscheAntwort1>vier</falscheAntwort1>
+            <falscheAntwort2>fünf</falscheAntwort2>
+            <falscheAntwort3>sechs</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviele Kanten treffen in der Ecke eines Tetraeders aufeinander?</fragenText>
+            <richtigeAntwort>drei</richtigeAntwort>
+            <falscheAntwort1>zwei</falscheAntwort1>
+            <falscheAntwort2>vier</falscheAntwort2>
+            <falscheAntwort3>sechs</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Für welchen dieser Körper gilt nicht: »Volumen = Grundfläche mal Höhe?«</fragenText>
+            <richtigeAntwort>Dreieckspyramide</richtigeAntwort>
+            <falscheAntwort1>Dreiecksprisma</falscheAntwort1>
+            <falscheAntwort2>Zylinder</falscheAntwort2>
+            <falscheAntwort3>Würfel</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche geometrische Figur entsteht, wenn man vier gleich lange Stangen so aneinander lötet, dass sich jeweils drei von ihnen berühren?</fragenText>
+            <richtigeAntwort>Tetraeder</richtigeAntwort>
+            <falscheAntwort1>Quadrat</falscheAntwort1>
+            <falscheAntwort2>Okateder</falscheAntwort2>
+            <falscheAntwort3>Rechteck</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Flächen hat ein Ikosaeder?</fragenText>
+            <richtigeAntwort>20</richtigeAntwort>
+            <falscheAntwort1>9</falscheAntwort1>
+            <falscheAntwort2>12</falscheAntwort2>
+            <falscheAntwort3>16</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Flächen hat ein Pentagondodekaeder?</fragenText>
+            <richtigeAntwort>12</richtigeAntwort>
+            <falscheAntwort1>8</falscheAntwort1>
+            <falscheAntwort2>6</falscheAntwort2>
+            <falscheAntwort3>5</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Flächen hat ein Oktaeder?</fragenText>
+            <richtigeAntwort>8</richtigeAntwort>
+            <falscheAntwort1>6</falscheAntwort1>
+            <falscheAntwort2>10</falscheAntwort2>
+            <falscheAntwort3>12</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviemal länger ist der Umfang eines Quadrates als seine Seite?</fragenText>
+            <richtigeAntwort>viermal so lang</richtigeAntwort>
+            <falscheAntwort1>doppelt so lang</falscheAntwort1>
+            <falscheAntwort2>dreimal so lang</falscheAntwort2>
+            <falscheAntwort3>sechsmal so lang</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviele Ecken hat ein Quadrat?</fragenText>
+            <richtigeAntwort>vier</richtigeAntwort>
+            <falscheAntwort1>drei</falscheAntwort1>
+            <falscheAntwort2>fünf</falscheAntwort2>
+            <falscheAntwort3>zwei</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche dieser Figuren ist kein Viereck?</fragenText>
+            <richtigeAntwort>Quader</richtigeAntwort>
+            <falscheAntwort1>Quadrat</falscheAntwort1>
+            <falscheAntwort2>Rechteck</falscheAntwort2>
+            <falscheAntwort3>Rhombus</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches dieser Vierecke ist *kein* Parallelogramm?</fragenText>
+            <richtigeAntwort>Trapez</richtigeAntwort>
+            <falscheAntwort1>Quadrat</falscheAntwort1>
+            <falscheAntwort2>Rechteck</falscheAntwort2>
+            <falscheAntwort3>Rhombus</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wenn man die Seitenlänge eines Quadrats verdoppelt, wird seine Fläche</fragenText>
+            <richtigeAntwort>vervierfacht</richtigeAntwort>
+            <falscheAntwort1>verdreifacht</falscheAntwort1>
+            <falscheAntwort2>verdoppelt</falscheAntwort2>
+            <falscheAntwort3>verachtfacht</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Alle diese Rechtecke haben den gleichen Umfang von 24m. Welches davon hat die größte Fläche?</fragenText>
+            <richtigeAntwort>a = 6m; b = 6m</richtigeAntwort>
+            <falscheAntwort1>a = 5m; b = 7m</falscheAntwort1>
+            <falscheAntwort2>a = 7m; b = 5m</falscheAntwort2>
+            <falscheAntwort3>a = 11m; b = 1m</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviele Kubikzentimeter hat ein Liter?</fragenText>
+            <richtigeAntwort>1000</richtigeAntwort>
+            <falscheAntwort1>10</falscheAntwort1>
+            <falscheAntwort2>100</falscheAntwort2>
+            <falscheAntwort3>10000</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviele cm² hat ein m²?</fragenText>
+            <richtigeAntwort>10.000</richtigeAntwort>
+            <falscheAntwort1>1.000</falscheAntwort1>
+            <falscheAntwort2>100</falscheAntwort2>
+            <falscheAntwort3>100.000</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviele Dezimeter hat ein Kilometer</fragenText>
+            <richtigeAntwort>10.000</richtigeAntwort>
+            <falscheAntwort1>1.000</falscheAntwort1>
+            <falscheAntwort2>100.000</falscheAntwort2>
+            <falscheAntwort3>1.000.000</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviele Quadratmeter hat ein Hektar?</fragenText>
+            <richtigeAntwort>10.000</richtigeAntwort>
+            <falscheAntwort1>100</falscheAntwort1>
+            <falscheAntwort2>1.000</falscheAntwort2>
+            <falscheAntwort3>100.000</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviele Zentimeter hat ein Meter?</fragenText>
+            <richtigeAntwort>100</richtigeAntwort>
+            <falscheAntwort1>10</falscheAntwort1>
+            <falscheAntwort2>0,1</falscheAntwort2>
+            <falscheAntwort3>0,01</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviele Millimeter hat ein Meter?</fragenText>
+            <richtigeAntwort>1.000</richtigeAntwort>
+            <falscheAntwort1>10</falscheAntwort1>
+            <falscheAntwort2>100</falscheAntwort2>
+            <falscheAntwort3>10.000</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>2</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviel Quadratmillimeter hat ein Quadratzentimeter?</fragenText>
+            <richtigeAntwort>100</richtigeAntwort>
+            <falscheAntwort1>10</falscheAntwort1>
+            <falscheAntwort2>1000</falscheAntwort2>
+            <falscheAntwort3>10.000</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviele Kubikmillimeter hat ein Kubikzentimeter?</fragenText>
+            <richtigeAntwort>1000</richtigeAntwort>
+            <falscheAntwort1>10</falscheAntwort1>
+            <falscheAntwort2>100</falscheAntwort2>
+            <falscheAntwort3>10.000</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Winkel überstreicht der Minutenzeiger einer Uhr in der Zeit von 16:20 Uhr bis 16:35 Uhr?</fragenText>
+            <richtigeAntwort>90°</richtigeAntwort>
+            <falscheAntwort1>15°</falscheAntwort1>
+            <falscheAntwort2>35°</falscheAntwort2>
+            <falscheAntwort3>120°</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Winkel überstreicht der Stundenzeiger einer Uhr in der Zeit von 6:00 Uhr bis Mitternacht?</fragenText>
+            <richtigeAntwort>540°</richtigeAntwort>
+            <falscheAntwort1>270°</falscheAntwort1>
+            <falscheAntwort2>180°</falscheAntwort2>
+            <falscheAntwort3>360°</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Winkel überstreicht der Minutenzeiger einer Uhr in einer Stunde?</fragenText>
+            <richtigeAntwort>360°</richtigeAntwort>
+            <falscheAntwort1>100°</falscheAntwort1>
+            <falscheAntwort2>90°</falscheAntwort2>
+            <falscheAntwort3>180°</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Winkel überstreicht der Stundenzeiger einer Uhr in einer Stunde?</fragenText>
+            <richtigeAntwort>30°</richtigeAntwort>
+            <falscheAntwort1>10°</falscheAntwort1>
+            <falscheAntwort2>20°</falscheAntwort2>
+            <falscheAntwort3>60°</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Winkel überstreicht der Sekundenzeiger einer Uhr in 3 Minuten?</fragenText>
+            <richtigeAntwort>1080°</richtigeAntwort>
+            <falscheAntwort1>300°</falscheAntwort1>
+            <falscheAntwort2>680°</falscheAntwort2>
+            <falscheAntwort3>1800°</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Mit welchen dieser regelmäßigen Vielecke lässt sich eine Ebene nicht deckend pflastern (parkettieren)?</fragenText>
+            <richtigeAntwort>mit Achtecken</richtigeAntwort>
+            <falscheAntwort1>mit Dreiecken</falscheAntwort1>
+            <falscheAntwort2>mit Quadraten</falscheAntwort2>
+            <falscheAntwort3>mit Sechsecken</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

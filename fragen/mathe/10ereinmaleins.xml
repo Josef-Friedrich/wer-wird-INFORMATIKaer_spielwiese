@@ -1,0 +1,2009 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Mathe</fach>
+    <thema>10-er Einmaleins</thema>
+    <autor>Manfred Hartisch</autor>
+    <anzahlFragen>200</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>10 : 10</fragenText>
+            <richtigeAntwort>1</richtigeAntwort>
+            <falscheAntwort1>2</falscheAntwort1>
+            <falscheAntwort2>10</falscheAntwort2>
+            <falscheAntwort3>11</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>2</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>20 : 10</fragenText>
+            <richtigeAntwort>2</richtigeAntwort>
+            <falscheAntwort1>3</falscheAntwort1>
+            <falscheAntwort2>1</falscheAntwort2>
+            <falscheAntwort3>4</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>30 : 10</fragenText>
+            <richtigeAntwort>3</richtigeAntwort>
+            <falscheAntwort1>2</falscheAntwort1>
+            <falscheAntwort2>1</falscheAntwort2>
+            <falscheAntwort3>4</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>200 : 20</fragenText>
+            <richtigeAntwort>10</richtigeAntwort>
+            <falscheAntwort1>1</falscheAntwort1>
+            <falscheAntwort2>2</falscheAntwort2>
+            <falscheAntwort3>9</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>180 : 20</fragenText>
+            <richtigeAntwort>9</richtigeAntwort>
+            <falscheAntwort1>7</falscheAntwort1>
+            <falscheAntwort2>8</falscheAntwort2>
+            <falscheAntwort3>6</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>160 : 20</fragenText>
+            <richtigeAntwort>8</richtigeAntwort>
+            <falscheAntwort1>9</falscheAntwort1>
+            <falscheAntwort2>7</falscheAntwort2>
+            <falscheAntwort3>4</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>140 : 20</fragenText>
+            <richtigeAntwort>7</richtigeAntwort>
+            <falscheAntwort1>9</falscheAntwort1>
+            <falscheAntwort2>8</falscheAntwort2>
+            <falscheAntwort3>6</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>120 : 20</fragenText>
+            <richtigeAntwort>6</richtigeAntwort>
+            <falscheAntwort1>5</falscheAntwort1>
+            <falscheAntwort2>7</falscheAntwort2>
+            <falscheAntwort3>4</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>100 : 20</fragenText>
+            <richtigeAntwort>5</richtigeAntwort>
+            <falscheAntwort1>2</falscheAntwort1>
+            <falscheAntwort2>10</falscheAntwort2>
+            <falscheAntwort3>6</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>80 : 20</fragenText>
+            <richtigeAntwort>4</richtigeAntwort>
+            <falscheAntwort1>1</falscheAntwort1>
+            <falscheAntwort2>8</falscheAntwort2>
+            <falscheAntwort3>3</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>60 : 20</fragenText>
+            <richtigeAntwort>3</richtigeAntwort>
+            <falscheAntwort1>1</falscheAntwort1>
+            <falscheAntwort2>2</falscheAntwort2>
+            <falscheAntwort3>6</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>20 : 20</fragenText>
+            <richtigeAntwort>1</richtigeAntwort>
+            <falscheAntwort1>4</falscheAntwort1>
+            <falscheAntwort2>2</falscheAntwort2>
+            <falscheAntwort3>20</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>100 : 10</fragenText>
+            <richtigeAntwort>10</richtigeAntwort>
+            <falscheAntwort1>11</falscheAntwort1>
+            <falscheAntwort2>1</falscheAntwort2>
+            <falscheAntwort3>5</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>90 : 10</fragenText>
+            <richtigeAntwort>9</richtigeAntwort>
+            <falscheAntwort1>19</falscheAntwort1>
+            <falscheAntwort2>1</falscheAntwort2>
+            <falscheAntwort3>3</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>80 : 10</fragenText>
+            <richtigeAntwort>8</richtigeAntwort>
+            <falscheAntwort1>1</falscheAntwort1>
+            <falscheAntwort2>18</falscheAntwort2>
+            <falscheAntwort3>4</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>70 : 10</fragenText>
+            <richtigeAntwort>7</richtigeAntwort>
+            <falscheAntwort1>1</falscheAntwort1>
+            <falscheAntwort2>17</falscheAntwort2>
+            <falscheAntwort3>5</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>60 : 10</fragenText>
+            <richtigeAntwort>6</richtigeAntwort>
+            <falscheAntwort1>16</falscheAntwort1>
+            <falscheAntwort2>1</falscheAntwort2>
+            <falscheAntwort3>3</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>50 : 10</fragenText>
+            <richtigeAntwort>5</richtigeAntwort>
+            <falscheAntwort1>15</falscheAntwort1>
+            <falscheAntwort2>1</falscheAntwort2>
+            <falscheAntwort3>3</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>40 : 10</fragenText>
+            <richtigeAntwort>4</richtigeAntwort>
+            <falscheAntwort1>2</falscheAntwort1>
+            <falscheAntwort2>1</falscheAntwort2>
+            <falscheAntwort3>3</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>1000 : 100</fragenText>
+            <richtigeAntwort>10</richtigeAntwort>
+            <falscheAntwort1>5</falscheAntwort1>
+            <falscheAntwort2>1</falscheAntwort2>
+            <falscheAntwort3>8</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>900 : 100</fragenText>
+            <richtigeAntwort>9</richtigeAntwort>
+            <falscheAntwort1>7</falscheAntwort1>
+            <falscheAntwort2>8</falscheAntwort2>
+            <falscheAntwort3>6</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>800 : 100</fragenText>
+            <richtigeAntwort>8</richtigeAntwort>
+            <falscheAntwort1>5</falscheAntwort1>
+            <falscheAntwort2>9</falscheAntwort2>
+            <falscheAntwort3>2</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>700 : 100</fragenText>
+            <richtigeAntwort>7</richtigeAntwort>
+            <falscheAntwort1>9</falscheAntwort1>
+            <falscheAntwort2>8</falscheAntwort2>
+            <falscheAntwort3>3</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>600 : 100</fragenText>
+            <richtigeAntwort>6</richtigeAntwort>
+            <falscheAntwort1>3</falscheAntwort1>
+            <falscheAntwort2>5</falscheAntwort2>
+            <falscheAntwort3>9</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>500 : 100</fragenText>
+            <richtigeAntwort>5</richtigeAntwort>
+            <falscheAntwort1>3</falscheAntwort1>
+            <falscheAntwort2>6</falscheAntwort2>
+            <falscheAntwort3>8</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>400 : 100</fragenText>
+            <richtigeAntwort>4</richtigeAntwort>
+            <falscheAntwort1>2</falscheAntwort1>
+            <falscheAntwort2>5</falscheAntwort2>
+            <falscheAntwort3>8</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>300 : 100</fragenText>
+            <richtigeAntwort>3</richtigeAntwort>
+            <falscheAntwort1>7</falscheAntwort1>
+            <falscheAntwort2>5</falscheAntwort2>
+            <falscheAntwort3>9</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>200 : 100</fragenText>
+            <richtigeAntwort>2</richtigeAntwort>
+            <falscheAntwort1>5</falscheAntwort1>
+            <falscheAntwort2>3</falscheAntwort2>
+            <falscheAntwort3>1</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>100 : 100</fragenText>
+            <richtigeAntwort>1</richtigeAntwort>
+            <falscheAntwort1>5</falscheAntwort1>
+            <falscheAntwort2>2</falscheAntwort2>
+            <falscheAntwort3>10</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>900 : 90</fragenText>
+            <richtigeAntwort>10</richtigeAntwort>
+            <falscheAntwort1>8</falscheAntwort1>
+            <falscheAntwort2>9</falscheAntwort2>
+            <falscheAntwort3>5</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>810 : 90</fragenText>
+            <richtigeAntwort>9</richtigeAntwort>
+            <falscheAntwort1>7</falscheAntwort1>
+            <falscheAntwort2>8</falscheAntwort2>
+            <falscheAntwort3>5</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>720 : 90</fragenText>
+            <richtigeAntwort>8</richtigeAntwort>
+            <falscheAntwort1>7</falscheAntwort1>
+            <falscheAntwort2>9</falscheAntwort2>
+            <falscheAntwort3>6</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>630 : 90</fragenText>
+            <richtigeAntwort>7</richtigeAntwort>
+            <falscheAntwort1>5</falscheAntwort1>
+            <falscheAntwort2>6</falscheAntwort2>
+            <falscheAntwort3>9</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>540 : 90</fragenText>
+            <richtigeAntwort>6</richtigeAntwort>
+            <falscheAntwort1>8</falscheAntwort1>
+            <falscheAntwort2>7</falscheAntwort2>
+            <falscheAntwort3>9</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>450 : 90</fragenText>
+            <richtigeAntwort>5</richtigeAntwort>
+            <falscheAntwort1>7</falscheAntwort1>
+            <falscheAntwort2>6</falscheAntwort2>
+            <falscheAntwort3>9</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>360 : 90</fragenText>
+            <richtigeAntwort>4</richtigeAntwort>
+            <falscheAntwort1>6</falscheAntwort1>
+            <falscheAntwort2>5</falscheAntwort2>
+            <falscheAntwort3>8</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>270 : 90</fragenText>
+            <richtigeAntwort>3</richtigeAntwort>
+            <falscheAntwort1>5</falscheAntwort1>
+            <falscheAntwort2>2</falscheAntwort2>
+            <falscheAntwort3>9</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>180 : 90</fragenText>
+            <richtigeAntwort>2</richtigeAntwort>
+            <falscheAntwort1>9</falscheAntwort1>
+            <falscheAntwort2>1</falscheAntwort2>
+            <falscheAntwort3>5</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>90 : 90</fragenText>
+            <richtigeAntwort>1</richtigeAntwort>
+            <falscheAntwort1>9</falscheAntwort1>
+            <falscheAntwort2>2</falscheAntwort2>
+            <falscheAntwort3>10</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>800 : 80</fragenText>
+            <richtigeAntwort>10</richtigeAntwort>
+            <falscheAntwort1>8</falscheAntwort1>
+            <falscheAntwort2>9</falscheAntwort2>
+            <falscheAntwort3>5</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>720 : 80</fragenText>
+            <richtigeAntwort>9</richtigeAntwort>
+            <falscheAntwort1>7</falscheAntwort1>
+            <falscheAntwort2>8</falscheAntwort2>
+            <falscheAntwort3>10</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>640 : 80</fragenText>
+            <richtigeAntwort>8</richtigeAntwort>
+            <falscheAntwort1>6</falscheAntwort1>
+            <falscheAntwort2>9</falscheAntwort2>
+            <falscheAntwort3>4</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>560 : 80</fragenText>
+            <richtigeAntwort>7</richtigeAntwort>
+            <falscheAntwort1>6</falscheAntwort1>
+            <falscheAntwort2>8</falscheAntwort2>
+            <falscheAntwort3>5</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>480 : 80</fragenText>
+            <richtigeAntwort>6</richtigeAntwort>
+            <falscheAntwort1>8</falscheAntwort1>
+            <falscheAntwort2>7</falscheAntwort2>
+            <falscheAntwort3>9</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>400 : 80</fragenText>
+            <richtigeAntwort>5</richtigeAntwort>
+            <falscheAntwort1>8</falscheAntwort1>
+            <falscheAntwort2>6</falscheAntwort2>
+            <falscheAntwort3>3</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>320 : 80</fragenText>
+            <richtigeAntwort>4</richtigeAntwort>
+            <falscheAntwort1>8</falscheAntwort1>
+            <falscheAntwort2>6</falscheAntwort2>
+            <falscheAntwort3>2</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>240 : 80</fragenText>
+            <richtigeAntwort>3</richtigeAntwort>
+            <falscheAntwort1>8</falscheAntwort1>
+            <falscheAntwort2>4</falscheAntwort2>
+            <falscheAntwort3>2</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>160 : 80</fragenText>
+            <richtigeAntwort>2</richtigeAntwort>
+            <falscheAntwort1>6</falscheAntwort1>
+            <falscheAntwort2>4</falscheAntwort2>
+            <falscheAntwort3>8</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>80 : 80</fragenText>
+            <richtigeAntwort>1</richtigeAntwort>
+            <falscheAntwort1>4</falscheAntwort1>
+            <falscheAntwort2>2</falscheAntwort2>
+            <falscheAntwort3>8</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>700 : 70</fragenText>
+            <richtigeAntwort>10</richtigeAntwort>
+            <falscheAntwort1>5</falscheAntwort1>
+            <falscheAntwort2>7</falscheAntwort2>
+            <falscheAntwort3>3</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>630 : 70</fragenText>
+            <richtigeAntwort>9</richtigeAntwort>
+            <falscheAntwort1>7</falscheAntwort1>
+            <falscheAntwort2>8</falscheAntwort2>
+            <falscheAntwort3>6</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>560 : 70</fragenText>
+            <richtigeAntwort>8</richtigeAntwort>
+            <falscheAntwort1>9</falscheAntwort1>
+            <falscheAntwort2>7</falscheAntwort2>
+            <falscheAntwort3>6</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>490 : 70</fragenText>
+            <richtigeAntwort>7</richtigeAntwort>
+            <falscheAntwort1>5</falscheAntwort1>
+            <falscheAntwort2>6</falscheAntwort2>
+            <falscheAntwort3>9</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>420 : 70</fragenText>
+            <richtigeAntwort>6</richtigeAntwort>
+            <falscheAntwort1>8</falscheAntwort1>
+            <falscheAntwort2>7</falscheAntwort2>
+            <falscheAntwort3>9</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>350 : 70</fragenText>
+            <richtigeAntwort>5</richtigeAntwort>
+            <falscheAntwort1>7</falscheAntwort1>
+            <falscheAntwort2>6</falscheAntwort2>
+            <falscheAntwort3>4</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>280 : 70</fragenText>
+            <richtigeAntwort>4</richtigeAntwort>
+            <falscheAntwort1>7</falscheAntwort1>
+            <falscheAntwort2>3</falscheAntwort2>
+            <falscheAntwort3>5</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>210 : 70</fragenText>
+            <richtigeAntwort>3</richtigeAntwort>
+            <falscheAntwort1>4</falscheAntwort1>
+            <falscheAntwort2>2</falscheAntwort2>
+            <falscheAntwort3>7</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>140 : 70</fragenText>
+            <richtigeAntwort>2</richtigeAntwort>
+            <falscheAntwort1>7</falscheAntwort1>
+            <falscheAntwort2>1</falscheAntwort2>
+            <falscheAntwort3>3</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>70 : 70</fragenText>
+            <richtigeAntwort>1</richtigeAntwort>
+            <falscheAntwort1>7</falscheAntwort1>
+            <falscheAntwort2>2</falscheAntwort2>
+            <falscheAntwort3>4</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>600 : 60</fragenText>
+            <richtigeAntwort>10</richtigeAntwort>
+            <falscheAntwort1>4</falscheAntwort1>
+            <falscheAntwort2>6</falscheAntwort2>
+            <falscheAntwort3>5</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>540 : 60</fragenText>
+            <richtigeAntwort>9</richtigeAntwort>
+            <falscheAntwort1>7</falscheAntwort1>
+            <falscheAntwort2>8</falscheAntwort2>
+            <falscheAntwort3>6</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>480 : 60</fragenText>
+            <richtigeAntwort>8</richtigeAntwort>
+            <falscheAntwort1>7</falscheAntwort1>
+            <falscheAntwort2>9</falscheAntwort2>
+            <falscheAntwort3>6</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>420 : 60</fragenText>
+            <richtigeAntwort>7</richtigeAntwort>
+            <falscheAntwort1>5</falscheAntwort1>
+            <falscheAntwort2>6</falscheAntwort2>
+            <falscheAntwort3>9</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>360 : 60</fragenText>
+            <richtigeAntwort>6</richtigeAntwort>
+            <falscheAntwort1>8</falscheAntwort1>
+            <falscheAntwort2>7</falscheAntwort2>
+            <falscheAntwort3>3</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>300 : 60</fragenText>
+            <richtigeAntwort>5</richtigeAntwort>
+            <falscheAntwort1>7</falscheAntwort1>
+            <falscheAntwort2>6</falscheAntwort2>
+            <falscheAntwort3>4</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>240 : 60</fragenText>
+            <richtigeAntwort>4</richtigeAntwort>
+            <falscheAntwort1>8</falscheAntwort1>
+            <falscheAntwort2>6</falscheAntwort2>
+            <falscheAntwort3>2</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>180 : 60</fragenText>
+            <richtigeAntwort>3</richtigeAntwort>
+            <falscheAntwort1>9</falscheAntwort1>
+            <falscheAntwort2>6</falscheAntwort2>
+            <falscheAntwort3>8</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>120 : 60</fragenText>
+            <richtigeAntwort>2</richtigeAntwort>
+            <falscheAntwort1>6</falscheAntwort1>
+            <falscheAntwort2>1</falscheAntwort2>
+            <falscheAntwort3>3</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>60 : 60</fragenText>
+            <richtigeAntwort>1</richtigeAntwort>
+            <falscheAntwort1>3</falscheAntwort1>
+            <falscheAntwort2>2</falscheAntwort2>
+            <falscheAntwort3>6</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>500 : 50</fragenText>
+            <richtigeAntwort>10</richtigeAntwort>
+            <falscheAntwort1>6</falscheAntwort1>
+            <falscheAntwort2>8</falscheAntwort2>
+            <falscheAntwort3>5</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>450 : 50</fragenText>
+            <richtigeAntwort>9</richtigeAntwort>
+            <falscheAntwort1>6</falscheAntwort1>
+            <falscheAntwort2>8</falscheAntwort2>
+            <falscheAntwort3>4</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>400 : 50</fragenText>
+            <richtigeAntwort>8</richtigeAntwort>
+            <falscheAntwort1>6</falscheAntwort1>
+            <falscheAntwort2>9</falscheAntwort2>
+            <falscheAntwort3>4</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>350 : 50</fragenText>
+            <richtigeAntwort>7</richtigeAntwort>
+            <falscheAntwort1>9</falscheAntwort1>
+            <falscheAntwort2>8</falscheAntwort2>
+            <falscheAntwort3>4</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>300 : 50</fragenText>
+            <richtigeAntwort>6</richtigeAntwort>
+            <falscheAntwort1>4</falscheAntwort1>
+            <falscheAntwort2>8</falscheAntwort2>
+            <falscheAntwort3>2</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>250 : 50</fragenText>
+            <richtigeAntwort>5</richtigeAntwort>
+            <falscheAntwort1>8</falscheAntwort1>
+            <falscheAntwort2>7</falscheAntwort2>
+            <falscheAntwort3>3</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>200 : 50</fragenText>
+            <richtigeAntwort>4</richtigeAntwort>
+            <falscheAntwort1>8</falscheAntwort1>
+            <falscheAntwort2>5</falscheAntwort2>
+            <falscheAntwort3>2</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>150 : 50</fragenText>
+            <richtigeAntwort>3</richtigeAntwort>
+            <falscheAntwort1>4</falscheAntwort1>
+            <falscheAntwort2>2</falscheAntwort2>
+            <falscheAntwort3>5</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>100 : 50</fragenText>
+            <richtigeAntwort>2</richtigeAntwort>
+            <falscheAntwort1>3</falscheAntwort1>
+            <falscheAntwort2>1</falscheAntwort2>
+            <falscheAntwort3>5</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>50 : 50</fragenText>
+            <richtigeAntwort>1</richtigeAntwort>
+            <falscheAntwort1>3</falscheAntwort1>
+            <falscheAntwort2>2</falscheAntwort2>
+            <falscheAntwort3>5</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>400 : 40</fragenText>
+            <richtigeAntwort>10</richtigeAntwort>
+            <falscheAntwort1>8</falscheAntwort1>
+            <falscheAntwort2>9</falscheAntwort2>
+            <falscheAntwort3>7</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>360 : 40</fragenText>
+            <richtigeAntwort>9</richtigeAntwort>
+            <falscheAntwort1>7</falscheAntwort1>
+            <falscheAntwort2>8</falscheAntwort2>
+            <falscheAntwort3>6</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>320 : 40</fragenText>
+            <richtigeAntwort>8</richtigeAntwort>
+            <falscheAntwort1>9</falscheAntwort1>
+            <falscheAntwort2>7</falscheAntwort2>
+            <falscheAntwort3>6</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>280 : 40</fragenText>
+            <richtigeAntwort>7</richtigeAntwort>
+            <falscheAntwort1>6</falscheAntwort1>
+            <falscheAntwort2>8</falscheAntwort2>
+            <falscheAntwort3>5</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>240 : 40</fragenText>
+            <richtigeAntwort>6</richtigeAntwort>
+            <falscheAntwort1>7</falscheAntwort1>
+            <falscheAntwort2>5</falscheAntwort2>
+            <falscheAntwort3>8</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>200 : 40</fragenText>
+            <richtigeAntwort>5</richtigeAntwort>
+            <falscheAntwort1>4</falscheAntwort1>
+            <falscheAntwort2>6</falscheAntwort2>
+            <falscheAntwort3>7</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>160 : 40</fragenText>
+            <richtigeAntwort>4</richtigeAntwort>
+            <falscheAntwort1>7</falscheAntwort1>
+            <falscheAntwort2>5</falscheAntwort2>
+            <falscheAntwort3>3</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>120 : 40</fragenText>
+            <richtigeAntwort>3</richtigeAntwort>
+            <falscheAntwort1>4</falscheAntwort1>
+            <falscheAntwort2>6</falscheAntwort2>
+            <falscheAntwort3>5</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>80 : 40</fragenText>
+            <richtigeAntwort>2</richtigeAntwort>
+            <falscheAntwort1>4</falscheAntwort1>
+            <falscheAntwort2>3</falscheAntwort2>
+            <falscheAntwort3>5</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>40 : 40</fragenText>
+            <richtigeAntwort>1</richtigeAntwort>
+            <falscheAntwort1>3</falscheAntwort1>
+            <falscheAntwort2>2</falscheAntwort2>
+            <falscheAntwort3>4</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>300 : 30</fragenText>
+            <richtigeAntwort>10</richtigeAntwort>
+            <falscheAntwort1>8</falscheAntwort1>
+            <falscheAntwort2>9</falscheAntwort2>
+            <falscheAntwort3>5</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>270 : 30</fragenText>
+            <richtigeAntwort>9</richtigeAntwort>
+            <falscheAntwort1>7</falscheAntwort1>
+            <falscheAntwort2>8</falscheAntwort2>
+            <falscheAntwort3>6</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>240 : 30</fragenText>
+            <richtigeAntwort>7</richtigeAntwort>
+            <falscheAntwort1>8</falscheAntwort1>
+            <falscheAntwort2>6</falscheAntwort2>
+            <falscheAntwort3>9</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>210 : 30</fragenText>
+            <richtigeAntwort>7</richtigeAntwort>
+            <falscheAntwort1>8</falscheAntwort1>
+            <falscheAntwort2>6</falscheAntwort2>
+            <falscheAntwort3>5</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>180 : 30</fragenText>
+            <richtigeAntwort>6</richtigeAntwort>
+            <falscheAntwort1>5</falscheAntwort1>
+            <falscheAntwort2>7</falscheAntwort2>
+            <falscheAntwort3>4</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>150 : 30</fragenText>
+            <richtigeAntwort>5</richtigeAntwort>
+            <falscheAntwort1>4</falscheAntwort1>
+            <falscheAntwort2>6</falscheAntwort2>
+            <falscheAntwort3>7</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>120 : 30</fragenText>
+            <richtigeAntwort>4</richtigeAntwort>
+            <falscheAntwort1>5</falscheAntwort1>
+            <falscheAntwort2>3</falscheAntwort2>
+            <falscheAntwort3>6</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>90 : 30</fragenText>
+            <richtigeAntwort>3</richtigeAntwort>
+            <falscheAntwort1>4</falscheAntwort1>
+            <falscheAntwort2>2</falscheAntwort2>
+            <falscheAntwort3>5</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>60 : 30</fragenText>
+            <richtigeAntwort>2</richtigeAntwort>
+            <falscheAntwort1>6</falscheAntwort1>
+            <falscheAntwort2>3</falscheAntwort2>
+            <falscheAntwort3>1</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>40 : 20</fragenText>
+            <richtigeAntwort>2</richtigeAntwort>
+            <falscheAntwort1>4</falscheAntwort1>
+            <falscheAntwort2>1</falscheAntwort2>
+            <falscheAntwort3>3</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>30 : 30</fragenText>
+            <richtigeAntwort>1</richtigeAntwort>
+            <falscheAntwort1>5</falscheAntwort1>
+            <falscheAntwort2>3</falscheAntwort2>
+            <falscheAntwort3>10</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>10 x 100</fragenText>
+            <richtigeAntwort>1000</richtigeAntwort>
+            <falscheAntwort1>10</falscheAntwort1>
+            <falscheAntwort2>100</falscheAntwort2>
+            <falscheAntwort3>110</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>10 x 90</fragenText>
+            <richtigeAntwort>900</richtigeAntwort>
+            <falscheAntwort1>190</falscheAntwort1>
+            <falscheAntwort2>90</falscheAntwort2>
+            <falscheAntwort3>990</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>10 x 80</fragenText>
+            <richtigeAntwort>800</richtigeAntwort>
+            <falscheAntwort1>180</falscheAntwort1>
+            <falscheAntwort2>80</falscheAntwort2>
+            <falscheAntwort3>880</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>10 x 70</fragenText>
+            <richtigeAntwort>700</richtigeAntwort>
+            <falscheAntwort1>70</falscheAntwort1>
+            <falscheAntwort2>770</falscheAntwort2>
+            <falscheAntwort3>170</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>10 x 60</fragenText>
+            <richtigeAntwort>600</richtigeAntwort>
+            <falscheAntwort1>60</falscheAntwort1>
+            <falscheAntwort2>160</falscheAntwort2>
+            <falscheAntwort3>660</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>10 x 50</fragenText>
+            <richtigeAntwort>500</richtigeAntwort>
+            <falscheAntwort1>50</falscheAntwort1>
+            <falscheAntwort2>150</falscheAntwort2>
+            <falscheAntwort3>550</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>10 x 40</fragenText>
+            <richtigeAntwort>400</richtigeAntwort>
+            <falscheAntwort1>140</falscheAntwort1>
+            <falscheAntwort2>40</falscheAntwort2>
+            <falscheAntwort3>440</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>10 x 30</fragenText>
+            <richtigeAntwort>300</richtigeAntwort>
+            <falscheAntwort1>330</falscheAntwort1>
+            <falscheAntwort2>130</falscheAntwort2>
+            <falscheAntwort3>30</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>10 x 20</fragenText>
+            <richtigeAntwort>200</richtigeAntwort>
+            <falscheAntwort1>210</falscheAntwort1>
+            <falscheAntwort2>120</falscheAntwort2>
+            <falscheAntwort3>220</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>10 x 10</fragenText>
+            <richtigeAntwort>100</richtigeAntwort>
+            <falscheAntwort1>1000</falscheAntwort1>
+            <falscheAntwort2>110</falscheAntwort2>
+            <falscheAntwort3>1010</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>9 x 10</fragenText>
+            <richtigeAntwort>90</richtigeAntwort>
+            <falscheAntwort1>91</falscheAntwort1>
+            <falscheAntwort2>19</falscheAntwort2>
+            <falscheAntwort3>99</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>9 x 90</fragenText>
+            <richtigeAntwort>810</richtigeAntwort>
+            <falscheAntwort1>630</falscheAntwort1>
+            <falscheAntwort2>720</falscheAntwort2>
+            <falscheAntwort3>990</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>9 x 80</fragenText>
+            <richtigeAntwort>720</richtigeAntwort>
+            <falscheAntwort1>810</falscheAntwort1>
+            <falscheAntwort2>630</falscheAntwort2>
+            <falscheAntwort3>540</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>9 x 70</fragenText>
+            <richtigeAntwort>630</richtigeAntwort>
+            <falscheAntwort1>540</falscheAntwort1>
+            <falscheAntwort2>720</falscheAntwort2>
+            <falscheAntwort3>810</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>9 x 60</fragenText>
+            <richtigeAntwort>540</richtigeAntwort>
+            <falscheAntwort1>960</falscheAntwort1>
+            <falscheAntwort2>450</falscheAntwort2>
+            <falscheAntwort3>690</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>9 x 50</fragenText>
+            <richtigeAntwort>450</richtigeAntwort>
+            <falscheAntwort1>250</falscheAntwort1>
+            <falscheAntwort2>350</falscheAntwort2>
+            <falscheAntwort3>550</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>9 x 40</fragenText>
+            <richtigeAntwort>360</richtigeAntwort>
+            <falscheAntwort1>340</falscheAntwort1>
+            <falscheAntwort2>320</falscheAntwort2>
+            <falscheAntwort3>380</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>9 x 30</fragenText>
+            <richtigeAntwort>270</richtigeAntwort>
+            <falscheAntwort1>290</falscheAntwort1>
+            <falscheAntwort2>170</falscheAntwort2>
+            <falscheAntwort3>390</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>9 x 20</fragenText>
+            <richtigeAntwort>180</richtigeAntwort>
+            <falscheAntwort1>280</falscheAntwort1>
+            <falscheAntwort2>190</falscheAntwort2>
+            <falscheAntwort3>160</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>9 x 10</fragenText>
+            <richtigeAntwort>90</richtigeAntwort>
+            <falscheAntwort1>900</falscheAntwort1>
+            <falscheAntwort2>190</falscheAntwort2>
+            <falscheAntwort3>990</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>8 x 10</fragenText>
+            <richtigeAntwort>80</richtigeAntwort>
+            <falscheAntwort1>88</falscheAntwort1>
+            <falscheAntwort2>8</falscheAntwort2>
+            <falscheAntwort3>18</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>8 x 90</fragenText>
+            <richtigeAntwort>720</richtigeAntwort>
+            <falscheAntwort1>710</falscheAntwort1>
+            <falscheAntwort2>700</falscheAntwort2>
+            <falscheAntwort3>730</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>8 x 80</fragenText>
+            <richtigeAntwort>640</richtigeAntwort>
+            <falscheAntwort1>480</falscheAntwort1>
+            <falscheAntwort2>460</falscheAntwort2>
+            <falscheAntwort3>660</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>8 x 70</fragenText>
+            <richtigeAntwort>560</richtigeAntwort>
+            <falscheAntwort1>490</falscheAntwort1>
+            <falscheAntwort2>650</falscheAntwort2>
+            <falscheAntwort3>540</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>8 x 60</fragenText>
+            <richtigeAntwort>480</richtigeAntwort>
+            <falscheAntwort1>460</falscheAntwort1>
+            <falscheAntwort2>420</falscheAntwort2>
+            <falscheAntwort3>440</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>8 x 50</fragenText>
+            <richtigeAntwort>400</richtigeAntwort>
+            <falscheAntwort1>200</falscheAntwort1>
+            <falscheAntwort2>300</falscheAntwort2>
+            <falscheAntwort3>500</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>8 x 40</fragenText>
+            <richtigeAntwort>320</richtigeAntwort>
+            <falscheAntwort1>300</falscheAntwort1>
+            <falscheAntwort2>330</falscheAntwort2>
+            <falscheAntwort3>340</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>8 x 30</fragenText>
+            <richtigeAntwort>240</richtigeAntwort>
+            <falscheAntwort1>380</falscheAntwort1>
+            <falscheAntwort2>830</falscheAntwort2>
+            <falscheAntwort3>280</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>8 x 20</fragenText>
+            <richtigeAntwort>160</richtigeAntwort>
+            <falscheAntwort1>140</falscheAntwort1>
+            <falscheAntwort2>180</falscheAntwort2>
+            <falscheAntwort3>120</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>8 x 10</fragenText>
+            <richtigeAntwort>80</richtigeAntwort>
+            <falscheAntwort1>800</falscheAntwort1>
+            <falscheAntwort2>180</falscheAntwort2>
+            <falscheAntwort3>880</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>7 x 10</fragenText>
+            <richtigeAntwort>70</richtigeAntwort>
+            <falscheAntwort1>17</falscheAntwort1>
+            <falscheAntwort2>7</falscheAntwort2>
+            <falscheAntwort3>77</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>7 x 90</fragenText>
+            <richtigeAntwort>630</richtigeAntwort>
+            <falscheAntwort1>610</falscheAntwort1>
+            <falscheAntwort2>620</falscheAntwort2>
+            <falscheAntwort3>640</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>7 x 80</fragenText>
+            <richtigeAntwort>560</richtigeAntwort>
+            <falscheAntwort1>460</falscheAntwort1>
+            <falscheAntwort2>660</falscheAntwort2>
+            <falscheAntwort3>760</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>7 x 70</fragenText>
+            <richtigeAntwort>490</richtigeAntwort>
+            <falscheAntwort1>770</falscheAntwort1>
+            <falscheAntwort2>560</falscheAntwort2>
+            <falscheAntwort3>350</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>7 x 60</fragenText>
+            <richtigeAntwort>420</richtigeAntwort>
+            <falscheAntwort1>490</falscheAntwort1>
+            <falscheAntwort2>240</falscheAntwort2>
+            <falscheAntwort3>760</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>7 x 50</fragenText>
+            <richtigeAntwort>350</richtigeAntwort>
+            <falscheAntwort1>450</falscheAntwort1>
+            <falscheAntwort2>250</falscheAntwort2>
+            <falscheAntwort3>750</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>7 x 40</fragenText>
+            <richtigeAntwort>280</richtigeAntwort>
+            <falscheAntwort1>470</falscheAntwort1>
+            <falscheAntwort2>740</falscheAntwort2>
+            <falscheAntwort3>270</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>7 x 30</fragenText>
+            <richtigeAntwort>210</richtigeAntwort>
+            <falscheAntwort1>140</falscheAntwort1>
+            <falscheAntwort2>280</falscheAntwort2>
+            <falscheAntwort3>350</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>7 x 20</fragenText>
+            <richtigeAntwort>140</richtigeAntwort>
+            <falscheAntwort1>270</falscheAntwort1>
+            <falscheAntwort2>720</falscheAntwort2>
+            <falscheAntwort3>210</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>7 x 10</fragenText>
+            <richtigeAntwort>70</richtigeAntwort>
+            <falscheAntwort1>700</falscheAntwort1>
+            <falscheAntwort2>170</falscheAntwort2>
+            <falscheAntwort3>770</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>6 x 10</fragenText>
+            <richtigeAntwort>60</richtigeAntwort>
+            <falscheAntwort1>16</falscheAntwort1>
+            <falscheAntwort2>66</falscheAntwort2>
+            <falscheAntwort3>56</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>6 x 90</fragenText>
+            <richtigeAntwort>540</richtigeAntwort>
+            <falscheAntwort1>550</falscheAntwort1>
+            <falscheAntwort2>530</falscheAntwort2>
+            <falscheAntwort3>570</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>6 x 80</fragenText>
+            <richtigeAntwort>480</richtigeAntwort>
+            <falscheAntwort1>420</falscheAntwort1>
+            <falscheAntwort2>360</falscheAntwort2>
+            <falscheAntwort3>540</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>6 x 70</fragenText>
+            <richtigeAntwort>420</richtigeAntwort>
+            <falscheAntwort1>360</falscheAntwort1>
+            <falscheAntwort2>240</falscheAntwort2>
+            <falscheAntwort3>540</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>6 x 60</fragenText>
+            <richtigeAntwort>360</richtigeAntwort>
+            <falscheAntwort1>180</falscheAntwort1>
+            <falscheAntwort2>420</falscheAntwort2>
+            <falscheAntwort3>660</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>6 x 50</fragenText>
+            <richtigeAntwort>300</richtigeAntwort>
+            <falscheAntwort1>240</falscheAntwort1>
+            <falscheAntwort2>360</falscheAntwort2>
+            <falscheAntwort3>650</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>6 x 40</fragenText>
+            <richtigeAntwort>240</richtigeAntwort>
+            <falscheAntwort1>180</falscheAntwort1>
+            <falscheAntwort2>640</falscheAntwort2>
+            <falscheAntwort3>220</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>6 x 30</fragenText>
+            <richtigeAntwort>180</richtigeAntwort>
+            <falscheAntwort1>240</falscheAntwort1>
+            <falscheAntwort2>120</falscheAntwort2>
+            <falscheAntwort3>360</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>6 x 20</fragenText>
+            <richtigeAntwort>120</richtigeAntwort>
+            <falscheAntwort1>260</falscheAntwort1>
+            <falscheAntwort2>160</falscheAntwort2>
+            <falscheAntwort3>620</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>6 x 10</fragenText>
+            <richtigeAntwort>60</richtigeAntwort>
+            <falscheAntwort1>660</falscheAntwort1>
+            <falscheAntwort2>160</falscheAntwort2>
+            <falscheAntwort3>120</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>5 x 10</fragenText>
+            <richtigeAntwort>50</richtigeAntwort>
+            <falscheAntwort1>55</falscheAntwort1>
+            <falscheAntwort2>15</falscheAntwort2>
+            <falscheAntwort3>75</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>5 x 90</fragenText>
+            <richtigeAntwort>450</richtigeAntwort>
+            <falscheAntwort1>440</falscheAntwort1>
+            <falscheAntwort2>460</falscheAntwort2>
+            <falscheAntwort3>470</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>5 x 80</fragenText>
+            <richtigeAntwort>400</richtigeAntwort>
+            <falscheAntwort1>500</falscheAntwort1>
+            <falscheAntwort2>300</falscheAntwort2>
+            <falscheAntwort3>200</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>5 x 70</fragenText>
+            <richtigeAntwort>350</richtigeAntwort>
+            <falscheAntwort1>400</falscheAntwort1>
+            <falscheAntwort2>250</falscheAntwort2>
+            <falscheAntwort3>570</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>5 x 60</fragenText>
+            <richtigeAntwort>300</richtigeAntwort>
+            <falscheAntwort1>350</falscheAntwort1>
+            <falscheAntwort2>250</falscheAntwort2>
+            <falscheAntwort3>560</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>5 x 50</fragenText>
+            <richtigeAntwort>250</richtigeAntwort>
+            <falscheAntwort1>150</falscheAntwort1>
+            <falscheAntwort2>550</falscheAntwort2>
+            <falscheAntwort3>350</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>5 x 40</fragenText>
+            <richtigeAntwort>200</richtigeAntwort>
+            <falscheAntwort1>540</falscheAntwort1>
+            <falscheAntwort2>240</falscheAntwort2>
+            <falscheAntwort3>140</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>5 x 30</fragenText>
+            <richtigeAntwort>150</richtigeAntwort>
+            <falscheAntwort1>350</falscheAntwort1>
+            <falscheAntwort2>200</falscheAntwort2>
+            <falscheAntwort3>530</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>5 x 20</fragenText>
+            <richtigeAntwort>100</richtigeAntwort>
+            <falscheAntwort1>200</falscheAntwort1>
+            <falscheAntwort2>150</falscheAntwort2>
+            <falscheAntwort3>250</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>5 x 10</fragenText>
+            <richtigeAntwort>50</richtigeAntwort>
+            <falscheAntwort1>550</falscheAntwort1>
+            <falscheAntwort2>150</falscheAntwort2>
+            <falscheAntwort3>500</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>4 x 10</fragenText>
+            <richtigeAntwort>40</richtigeAntwort>
+            <falscheAntwort1>38</falscheAntwort1>
+            <falscheAntwort2>44</falscheAntwort2>
+            <falscheAntwort3>14</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>4 x 9</fragenText>
+            <richtigeAntwort>360</richtigeAntwort>
+            <falscheAntwort1>490</falscheAntwort1>
+            <falscheAntwort2>320</falscheAntwort2>
+            <falscheAntwort3>380</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>4 x 80</fragenText>
+            <richtigeAntwort>320</richtigeAntwort>
+            <falscheAntwort1>360</falscheAntwort1>
+            <falscheAntwort2>280</falscheAntwort2>
+            <falscheAntwort3>480</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>4 x 70</fragenText>
+            <richtigeAntwort>280</richtigeAntwort>
+            <falscheAntwort1>240</falscheAntwort1>
+            <falscheAntwort2>470</falscheAntwort2>
+            <falscheAntwort3>780</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>4 x 60</fragenText>
+            <richtigeAntwort>240</richtigeAntwort>
+            <falscheAntwort1>640</falscheAntwort1>
+            <falscheAntwort2>460</falscheAntwort2>
+            <falscheAntwort3>220</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>4 x 50</fragenText>
+            <richtigeAntwort>200</richtigeAntwort>
+            <falscheAntwort1>450</falscheAntwort1>
+            <falscheAntwort2>240</falscheAntwort2>
+            <falscheAntwort3>540</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>4 x 40</fragenText>
+            <richtigeAntwort>160</richtigeAntwort>
+            <falscheAntwort1>240</falscheAntwort1>
+            <falscheAntwort2>140</falscheAntwort2>
+            <falscheAntwort3>260</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>4 x 30</fragenText>
+            <richtigeAntwort>120</richtigeAntwort>
+            <falscheAntwort1>430</falscheAntwort1>
+            <falscheAntwort2>140</falscheAntwort2>
+            <falscheAntwort3>340</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>4 x 20</fragenText>
+            <richtigeAntwort>80</richtigeAntwort>
+            <falscheAntwort1>240</falscheAntwort1>
+            <falscheAntwort2>280</falscheAntwort2>
+            <falscheAntwort3>120</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>4 x 10</fragenText>
+            <richtigeAntwort>40</richtigeAntwort>
+            <falscheAntwort1>400</falscheAntwort1>
+            <falscheAntwort2>140</falscheAntwort2>
+            <falscheAntwort3>440</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>3 x 10</fragenText>
+            <richtigeAntwort>30</richtigeAntwort>
+            <falscheAntwort1>33</falscheAntwort1>
+            <falscheAntwort2>13</falscheAntwort2>
+            <falscheAntwort3>31</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>3 x 90</fragenText>
+            <richtigeAntwort>270</richtigeAntwort>
+            <falscheAntwort1>390</falscheAntwort1>
+            <falscheAntwort2>240</falscheAntwort2>
+            <falscheAntwort3>180</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>3 x 80</fragenText>
+            <richtigeAntwort>240</richtigeAntwort>
+            <falscheAntwort1>180</falscheAntwort1>
+            <falscheAntwort2>380</falscheAntwort2>
+            <falscheAntwort3>150</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>3 x 70</fragenText>
+            <richtigeAntwort>210</richtigeAntwort>
+            <falscheAntwort1>370</falscheAntwort1>
+            <falscheAntwort2>280</falscheAntwort2>
+            <falscheAntwort3>140</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>3 x 60</fragenText>
+            <richtigeAntwort>180</richtigeAntwort>
+            <falscheAntwort1>260</falscheAntwort1>
+            <falscheAntwort2>160</falscheAntwort2>
+            <falscheAntwort3>210</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>3 x 50</fragenText>
+            <richtigeAntwort>150</richtigeAntwort>
+            <falscheAntwort1>180</falscheAntwort1>
+            <falscheAntwort2>130</falscheAntwort2>
+            <falscheAntwort3>100</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>3 x 40</fragenText>
+            <richtigeAntwort>120</richtigeAntwort>
+            <falscheAntwort1>340</falscheAntwort1>
+            <falscheAntwort2>140</falscheAntwort2>
+            <falscheAntwort3>130</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>3 x 30</fragenText>
+            <richtigeAntwort>90</richtigeAntwort>
+            <falscheAntwort1>130</falscheAntwort1>
+            <falscheAntwort2>30</falscheAntwort2>
+            <falscheAntwort3>190</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>3 x 20</fragenText>
+            <richtigeAntwort>60</richtigeAntwort>
+            <falscheAntwort1>230</falscheAntwort1>
+            <falscheAntwort2>120</falscheAntwort2>
+            <falscheAntwort3>320</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>3 x 10</fragenText>
+            <richtigeAntwort>30</richtigeAntwort>
+            <falscheAntwort1>130</falscheAntwort1>
+            <falscheAntwort2>60</falscheAntwort2>
+            <falscheAntwort3>310</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>2 x 10</fragenText>
+            <richtigeAntwort>20</richtigeAntwort>
+            <falscheAntwort1>12</falscheAntwort1>
+            <falscheAntwort2>22</falscheAntwort2>
+            <falscheAntwort3>21</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>2 x 90</fragenText>
+            <richtigeAntwort>180</richtigeAntwort>
+            <falscheAntwort1>290</falscheAntwort1>
+            <falscheAntwort2>190</falscheAntwort2>
+            <falscheAntwort3>110</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>2 x 80</fragenText>
+            <richtigeAntwort>160</richtigeAntwort>
+            <falscheAntwort1>280</falscheAntwort1>
+            <falscheAntwort2>180</falscheAntwort2>
+            <falscheAntwort3>80</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>2 x 70</fragenText>
+            <richtigeAntwort>140</richtigeAntwort>
+            <falscheAntwort1>240</falscheAntwort1>
+            <falscheAntwort2>170</falscheAntwort2>
+            <falscheAntwort3>270</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>2 x 60</fragenText>
+            <richtigeAntwort>120</richtigeAntwort>
+            <falscheAntwort1>260</falscheAntwort1>
+            <falscheAntwort2>160</falscheAntwort2>
+            <falscheAntwort3>100</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>2 x 50</fragenText>
+            <richtigeAntwort>100</richtigeAntwort>
+            <falscheAntwort1>200</falscheAntwort1>
+            <falscheAntwort2>150</falscheAntwort2>
+            <falscheAntwort3>50</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>2 x 40</fragenText>
+            <richtigeAntwort>80</richtigeAntwort>
+            <falscheAntwort1>140</falscheAntwort1>
+            <falscheAntwort2>60</falscheAntwort2>
+            <falscheAntwort3>200</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>2 x 30</fragenText>
+            <richtigeAntwort>60</richtigeAntwort>
+            <falscheAntwort1>120</falscheAntwort1>
+            <falscheAntwort2>40</falscheAntwort2>
+            <falscheAntwort3>200</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>2 x 20</fragenText>
+            <richtigeAntwort>40</richtigeAntwort>
+            <falscheAntwort1>140</falscheAntwort1>
+            <falscheAntwort2>20</falscheAntwort2>
+            <falscheAntwort3>120</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>2 x 10</fragenText>
+            <richtigeAntwort>20</richtigeAntwort>
+            <falscheAntwort1>120</falscheAntwort1>
+            <falscheAntwort2>200</falscheAntwort2>
+            <falscheAntwort3>60</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>1 x 10</fragenText>
+            <richtigeAntwort>10</richtigeAntwort>
+            <falscheAntwort1>100</falscheAntwort1>
+            <falscheAntwort2>1</falscheAntwort2>
+            <falscheAntwort3>50</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>1 x 90</fragenText>
+            <richtigeAntwort>90</richtigeAntwort>
+            <falscheAntwort1>990</falscheAntwort1>
+            <falscheAntwort2>190</falscheAntwort2>
+            <falscheAntwort3>60</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>1 x 80</fragenText>
+            <richtigeAntwort>80</richtigeAntwort>
+            <falscheAntwort1>120</falscheAntwort1>
+            <falscheAntwort2>180</falscheAntwort2>
+            <falscheAntwort3>800</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>1 x 70</fragenText>
+            <richtigeAntwort>70</richtigeAntwort>
+            <falscheAntwort1>50</falscheAntwort1>
+            <falscheAntwort2>170</falscheAntwort2>
+            <falscheAntwort3>20</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>1 x 60</fragenText>
+            <richtigeAntwort>60</richtigeAntwort>
+            <falscheAntwort1>30</falscheAntwort1>
+            <falscheAntwort2>160</falscheAntwort2>
+            <falscheAntwort3>90</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>1 x 50</fragenText>
+            <richtigeAntwort>50</richtigeAntwort>
+            <falscheAntwort1>30</falscheAntwort1>
+            <falscheAntwort2>150</falscheAntwort2>
+            <falscheAntwort3>100</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>1 x 40</fragenText>
+            <richtigeAntwort>40</richtigeAntwort>
+            <falscheAntwort1>120</falscheAntwort1>
+            <falscheAntwort2>80</falscheAntwort2>
+            <falscheAntwort3>70</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>1 x 30</fragenText>
+            <richtigeAntwort>30</richtigeAntwort>
+            <falscheAntwort1>80</falscheAntwort1>
+            <falscheAntwort2>60</falscheAntwort2>
+            <falscheAntwort3>90</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>1 x 20</fragenText>
+            <richtigeAntwort>20</richtigeAntwort>
+            <falscheAntwort1>60</falscheAntwort1>
+            <falscheAntwort2>40</falscheAntwort2>
+            <falscheAntwort3>80</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>1 x 10</fragenText>
+            <richtigeAntwort>10</richtigeAntwort>
+            <falscheAntwort1>60</falscheAntwort1>
+            <falscheAntwort2>100</falscheAntwort2>
+            <falscheAntwort3>40</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>2</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

@@ -1,0 +1,3339 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Biologie</fach>
+    <thema>Rund um den menschlichen Körper</thema>
+    <autor>Manfred Hartisch</autor>
+    <anzahlFragen>333</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>Welchen Knochen gibt es?</fragenText>
+            <richtigeAntwort>Kniescheibe</richtigeAntwort>
+            <falscheAntwort1>Knieteller</falscheAntwort1>
+            <falscheAntwort2>Kniebrett</falscheAntwort2>
+            <falscheAntwort3>Knietasse</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Blutbahnen?</fragenText>
+            <richtigeAntwort>Adern</richtigeAntwort>
+            <falscheAntwort1>Odern</falscheAntwort1>
+            <falscheAntwort2>Idern</falscheAntwort2>
+            <falscheAntwort3>Udern</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was sind Adern?</fragenText>
+            <richtigeAntwort>Blutbahnen</richtigeAntwort>
+            <falscheAntwort1>große Knochen</falscheAntwort1>
+            <falscheAntwort2>kleine Sehnen</falscheAntwort2>
+            <falscheAntwort3>Muskeln</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist k e i n e Blutgruppe?</fragenText>
+            <richtigeAntwort>C</richtigeAntwort>
+            <falscheAntwort1>B</falscheAntwort1>
+            <falscheAntwort2>A</falscheAntwort2>
+            <falscheAntwort3>0</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Körperteil findet man die Bandscheibe?</fragenText>
+            <richtigeAntwort>zwischen den Wirbeln</richtigeAntwort>
+            <falscheAntwort1>im Oberarmgelenk</falscheAntwort1>
+            <falscheAntwort2>im Kniegelenk</falscheAntwort2>
+            <falscheAntwort3>zwischen den Fußwurzelknochen</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man den Knochenbau des Menschen?</fragenText>
+            <richtigeAntwort>Skelett</richtigeAntwort>
+            <falscheAntwort1>Skribent</falscheAntwort1>
+            <falscheAntwort2>Skalpell</falscheAntwort2>
+            <falscheAntwort3>Spinett</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der größte Fußwurzelknochen?</fragenText>
+            <richtigeAntwort>Fersenbein</richtigeAntwort>
+            <falscheAntwort1>Würfelbein</falscheAntwort1>
+            <falscheAntwort2>Sprungbein</falscheAntwort2>
+            <falscheAntwort3>Keilbein</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Fußknochen gibt es?</fragenText>
+            <richtigeAntwort>Kahnbein</richtigeAntwort>
+            <falscheAntwort1>Dampferbein</falscheAntwort1>
+            <falscheAntwort2>Bootbein</falscheAntwort2>
+            <falscheAntwort3>Kutterbein</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man das Organ, das sich mit Urin füllt?</fragenText>
+            <richtigeAntwort>Blase</richtigeAntwort>
+            <falscheAntwort1>Beutel</falscheAntwort1>
+            <falscheAntwort2>Ballon</falscheAntwort2>
+            <falscheAntwort3>Becher</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie groß ist die Gallenblase?</fragenText>
+            <richtigeAntwort>ca. 10 cm</richtigeAntwort>
+            <falscheAntwort1>ca. 5 cm</falscheAntwort1>
+            <falscheAntwort2>ca. 20 cm</falscheAntwort2>
+            <falscheAntwort3>ca. 2 cm</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viel Liter Galle produziert die Leber am Tag?</fragenText>
+            <richtigeAntwort>ca. 1 Liter</richtigeAntwort>
+            <falscheAntwort1>ca. 1,5 Liter</falscheAntwort1>
+            <falscheAntwort2>ca. 0,5 Liter</falscheAntwort2>
+            <falscheAntwort3>ca. 2 Liter</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText/>
+            <richtigeAntwort/>
+            <falscheAntwort1/>
+            <falscheAntwort2/>
+            <falscheAntwort3/>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>15</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In wie viele Äste teilt sich die Milzarterie, bevor sie das Organ erreicht?</fragenText>
+            <richtigeAntwort>5</richtigeAntwort>
+            <falscheAntwort1>3</falscheAntwort1>
+            <falscheAntwort2>7</falscheAntwort2>
+            <falscheAntwort3>9</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie groß sind die Leberläppchen im Querschnitt?</fragenText>
+            <richtigeAntwort>2 mm</richtigeAntwort>
+            <falscheAntwort1>0,5 mm</falscheAntwort1>
+            <falscheAntwort2>1 mm</falscheAntwort2>
+            <falscheAntwort3>0,1 mm</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus wie vielen Leberläppchen besteht das Innere der Leber?</fragenText>
+            <richtigeAntwort>ca. 75.000</richtigeAntwort>
+            <falscheAntwort1>ca. 100.000</falscheAntwort1>
+            <falscheAntwort2>ca. 50.000</falscheAntwort2>
+            <falscheAntwort3>ca. 150.000</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man es, wenn man Luft aus dem Magen wieder durch die Speiseröhre ausstößt?</fragenText>
+            <richtigeAntwort>rülpsen</richtigeAntwort>
+            <falscheAntwort1>niesen</falscheAntwort1>
+            <falscheAntwort2>gähnen</falscheAntwort2>
+            <falscheAntwort3>schnarchen</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus wie vielen Schichten besteht die Magenwand?</fragenText>
+            <richtigeAntwort>4</richtigeAntwort>
+            <falscheAntwort1>3</falscheAntwort1>
+            <falscheAntwort2>2</falscheAntwort2>
+            <falscheAntwort3>5</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Mittelhandknochen gibt es?</fragenText>
+            <richtigeAntwort>5</richtigeAntwort>
+            <falscheAntwort1>9</falscheAntwort1>
+            <falscheAntwort2>7</falscheAntwort2>
+            <falscheAntwort3>11</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Knochen bilden das Grundgerüst der Hand?</fragenText>
+            <richtigeAntwort>27</richtigeAntwort>
+            <falscheAntwort1>33</falscheAntwort1>
+            <falscheAntwort2>23</falscheAntwort2>
+            <falscheAntwort3>21</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Wirbel sind zum dreieckigen Kreuzbein verschmolzen?</fragenText>
+            <richtigeAntwort>5</richtigeAntwort>
+            <falscheAntwort1>7</falscheAntwort1>
+            <falscheAntwort2>3</falscheAntwort2>
+            <falscheAntwort3>2</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche beiden Hirnnerven - sie stellen die Verbindung zu den Sinnesorganen her - bezeichnet man auch als Ausstülpungen des Gehirns?</fragenText>
+            <richtigeAntwort>Riechnerv und Sehnerv</richtigeAntwort>
+            <falscheAntwort1>Eingeweidenerv und Beinnerv</falscheAntwort1>
+            <falscheAntwort2>Gesichtsnerv und Augenmuskelnerv</falscheAntwort2>
+            <falscheAntwort3>Augenrollnerv und Drillingsnerv</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo sind die Gene im Körper gespeichert?</fragenText>
+            <richtigeAntwort>in jedem Zellkern</richtigeAntwort>
+            <falscheAntwort1>nur in den Eizellen</falscheAntwort1>
+            <falscheAntwort2>nur in den Herzzellen</falscheAntwort2>
+            <falscheAntwort3>nur in den Gehirnzellen</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus wie vielen verschiedenen Zelltypen ist der menschliche Körper gebaut?</fragenText>
+            <richtigeAntwort>ca. 200</richtigeAntwort>
+            <falscheAntwort1>ca. 100</falscheAntwort1>
+            <falscheAntwort2>ca. 150</falscheAntwort2>
+            <falscheAntwort3>ca. 50</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Zellen müssen ein Leben lang ihren Dienst tun, ohne sich zu erneuern?</fragenText>
+            <richtigeAntwort>Nervenzellen</richtigeAntwort>
+            <falscheAntwort1>Blutzellen</falscheAntwort1>
+            <falscheAntwort2>Hautzellen</falscheAntwort2>
+            <falscheAntwort3>Leberzellen</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie vermehren sich die Zellen?</fragenText>
+            <richtigeAntwort>durch Teilung</richtigeAntwort>
+            <falscheAntwort1>durch Eiablage</falscheAntwort1>
+            <falscheAntwort2>durch Verschmelzung</falscheAntwort2>
+            <falscheAntwort3>Zellen vermehren sich nicht</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man den kleinsten Baustein, aus dem der Mensch besteht?</fragenText>
+            <richtigeAntwort>Zelle</richtigeAntwort>
+            <falscheAntwort1>Muskel</falscheAntwort1>
+            <falscheAntwort2>Knochen</falscheAntwort2>
+            <falscheAntwort3>Knorpel</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist Melatonin?</fragenText>
+            <richtigeAntwort>ein Hormon, das schläfrig macht</richtigeAntwort>
+            <falscheAntwort1>eine ansteckende Hautkrankheit</falscheAntwort1>
+            <falscheAntwort2>der rote Farbstoff im Blut</falscheAntwort2>
+            <falscheAntwort3>ein Hormon, das munter macht</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das Hormon, das schläfrig macht?</fragenText>
+            <richtigeAntwort>Melatonin</richtigeAntwort>
+            <falscheAntwort1>Kelatonin</falscheAntwort1>
+            <falscheAntwort2>Belatonin</falscheAntwort2>
+            <falscheAntwort3>Selatonin</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Teil des Gehirns steuert den Schlaf?</fragenText>
+            <richtigeAntwort>die Zirbeldrüse</richtigeAntwort>
+            <falscheAntwort1>das Zwischenhirn</falscheAntwort1>
+            <falscheAntwort2>der Hirnstamm</falscheAntwort2>
+            <falscheAntwort3>das Großhirn</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann fand die erste erfolgreiche Herztransplantation statt?</fragenText>
+            <richtigeAntwort>1967</richtigeAntwort>
+            <falscheAntwort1>1987</falscheAntwort1>
+            <falscheAntwort2>1977</falscheAntwort2>
+            <falscheAntwort3>1957</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man einen Menschen, der sich einbildet, krank zu sein?</fragenText>
+            <richtigeAntwort>Hypochonder</richtigeAntwort>
+            <falscheAntwort1>Hysteriker</falscheAntwort1>
+            <falscheAntwort2>Hypnotiseure</falscheAntwort2>
+            <falscheAntwort3>Historiker</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was sind Thrombozyten?</fragenText>
+            <richtigeAntwort>Blutplättchen</richtigeAntwort>
+            <falscheAntwort1>Schweißdrüsen</falscheAntwort1>
+            <falscheAntwort2>Haarwurzeln</falscheAntwort2>
+            <falscheAntwort3>Gallensteine</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wozu benötigt der Körper den Mineralstoff Eisen?</fragenText>
+            <richtigeAntwort>zur Blutbildung</richtigeAntwort>
+            <falscheAntwort1>zur Erkältungsabwehr</falscheAntwort1>
+            <falscheAntwort2>zur Zellerneuerung</falscheAntwort2>
+            <falscheAntwort3>zur Bildung der Fuß- und Fingernägel</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie alt können Leberzellen werden?</fragenText>
+            <richtigeAntwort>ca. 18 Monate</richtigeAntwort>
+            <falscheAntwort1>ca. 26 Monate</falscheAntwort1>
+            <falscheAntwort2>ca. 12 Monate</falscheAntwort2>
+            <falscheAntwort3>ca. 48 Monate</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie alt können Blutzellen werden?</fragenText>
+            <richtigeAntwort>etwa 120 Tage</richtigeAntwort>
+            <falscheAntwort1>etwa 240 Tage</falscheAntwort1>
+            <falscheAntwort2>etwa 10 Tage</falscheAntwort2>
+            <falscheAntwort3>etwa 60 Tage</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie alt können Nervenzellen werden?</fragenText>
+            <richtigeAntwort>mehr als 100 Jahre</richtigeAntwort>
+            <falscheAntwort1>ca. 10 Jahre</falscheAntwort1>
+            <falscheAntwort2>40 - 60 Jahre</falscheAntwort2>
+            <falscheAntwort3>24 Monate</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche der folgenden Zellen haben die längste Lebensdauer?</fragenText>
+            <richtigeAntwort>Nervenzellen</richtigeAntwort>
+            <falscheAntwort1>Hautzellen</falscheAntwort1>
+            <falscheAntwort2>Leberzellen</falscheAntwort2>
+            <falscheAntwort3>Blutzellen</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Womit sind die Muskeln an den Knochen verankert?</fragenText>
+            <richtigeAntwort>mit Sehnen</richtigeAntwort>
+            <falscheAntwort1>mit Bändern</falscheAntwort1>
+            <falscheAntwort2>mit Knorpeln</falscheAntwort2>
+            <falscheAntwort3>mit Drähten</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wodurch entsteht Muskelkater?</fragenText>
+            <richtigeAntwort>durch winzige Muskelrisse, die bei Überbeanspruchung eines Muskels entstehen können</richtigeAntwort>
+            <falscheAntwort1>durch Abkühlung der Muskulatur</falscheAntwort1>
+            <falscheAntwort2>durch einseitige, zu geringe Belastung des Muskels</falscheAntwort2>
+            <falscheAntwort3>durch zu schnelles Aufwärmen der Muskulatur, z.B. auf einer Sonnenbank</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele verschiedene Gerüche können unsere Riechzellen registrieren?</fragenText>
+            <richtigeAntwort>über 1.000</richtigeAntwort>
+            <falscheAntwort1>ca. 500</falscheAntwort1>
+            <falscheAntwort2>700 - 900</falscheAntwort2>
+            <falscheAntwort3>345</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der kleinste Muskel des Körpers?</fragenText>
+            <richtigeAntwort>Steigbügelspanner</richtigeAntwort>
+            <falscheAntwort1>Daumenspanner</falscheAntwort1>
+            <falscheAntwort2>Ellebogenspanner</falscheAntwort2>
+            <falscheAntwort3>Zaumzeugspanner</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo liegt der kleinste Muskel des Körpers?</fragenText>
+            <richtigeAntwort>im Ohr</richtigeAntwort>
+            <falscheAntwort1>in der Hand</falscheAntwort1>
+            <falscheAntwort2>im Auge</falscheAntwort2>
+            <falscheAntwort3>im Fuß</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man Nerven, die Signale vom Körper an das Gehirn übermitteln?</fragenText>
+            <richtigeAntwort>sensorische Nerven</richtigeAntwort>
+            <falscheAntwort1>Nerventransmitter</falscheAntwort1>
+            <falscheAntwort2>notorische Nerven</falscheAntwort2>
+            <falscheAntwort3>motorische Nerven</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was passiert, wenn Luft aus dem Magen wieder in die Speiseröhre hochkommt?</fragenText>
+            <richtigeAntwort>Man muss aufstoßen.</richtigeAntwort>
+            <falscheAntwort1>Man muss weinen.</falscheAntwort1>
+            <falscheAntwort2>Man muss lachen.</falscheAntwort2>
+            <falscheAntwort3>Man wird rot.</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man es, wenn sich ein Muskel zusammengezogen hat und sich nicht wieder auseinander ziehen lässt?</fragenText>
+            <richtigeAntwort>Krampf</richtigeAntwort>
+            <falscheAntwort1>Muskelkater</falscheAntwort1>
+            <falscheAntwort2>Hexenschuss</falscheAntwort2>
+            <falscheAntwort3>Verdauung</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Phasen des Schlafes, in denen wir träumen?</fragenText>
+            <richtigeAntwort>REM - Schlaf</richtigeAntwort>
+            <falscheAntwort1>Leichtschlaf</falscheAntwort1>
+            <falscheAntwort2>BMW - Schlaf</falscheAntwort2>
+            <falscheAntwort3>Tiefschlaf</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welche Richtung drehen sich die Augen, wenn man Dinge aus der Nähe anschaut?</fragenText>
+            <richtigeAntwort>einwärts</richtigeAntwort>
+            <falscheAntwort1>nach unten</falscheAntwort1>
+            <falscheAntwort2>auswärts</falscheAntwort2>
+            <falscheAntwort3>nach oben</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Zähne hat das vollständige Gebiss eines Erwachsenen?</fragenText>
+            <richtigeAntwort>32</richtigeAntwort>
+            <falscheAntwort1>28</falscheAntwort1>
+            <falscheAntwort2>24</falscheAntwort2>
+            <falscheAntwort3>36</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man das Fachgebiet der Medizin, das sich mit dem menschlichen Bewegungsapparat beschäftigt?</fragenText>
+            <richtigeAntwort>Orthopädie</richtigeAntwort>
+            <falscheAntwort1>Odysee</falscheAntwort1>
+            <falscheAntwort2>Ornitologie</falscheAntwort2>
+            <falscheAntwort3>Okkultismus</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was wird man, wenn es im Gehirn kurzfristig zu einer Durchblutungsstörung kommt?</fragenText>
+            <richtigeAntwort>ohnmächtig</richtigeAntwort>
+            <falscheAntwort1>albern</falscheAntwort1>
+            <falscheAntwort2>munter</falscheAntwort2>
+            <falscheAntwort3>stark</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das Instrument, mit dem der Arzt das Herz abhört?</fragenText>
+            <richtigeAntwort>Stethoskop</richtigeAntwort>
+            <falscheAntwort1>Katalog</falscheAntwort1>
+            <falscheAntwort2>Mikroskop</falscheAntwort2>
+            <falscheAntwort3>Periskop</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Haare verliert man im Durchschnitt an einem Tag?</fragenText>
+            <richtigeAntwort>50 - 100</richtigeAntwort>
+            <falscheAntwort1>150 - 300</falscheAntwort1>
+            <falscheAntwort2>10 - 40</falscheAntwort2>
+            <falscheAntwort3>500 - 1.000</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was befindet sich über dem Racheneingang und verhindert, dass beim Essen Nahrung in die Nase gelangt?</fragenText>
+            <richtigeAntwort>das Zäpfchen</richtigeAntwort>
+            <falscheAntwort1>das Röllchen</falscheAntwort1>
+            <falscheAntwort2>das Stäbchen</falscheAntwort2>
+            <falscheAntwort3>das Häkchen</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist bei Kindern die häufigste chronische Krankheit?</fragenText>
+            <richtigeAntwort>Asthma</richtigeAntwort>
+            <falscheAntwort1>Röteln</falscheAntwort1>
+            <falscheAntwort2>Windpocken</falscheAntwort2>
+            <falscheAntwort3>Masern</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches sind die kleinsten Zellen im Körper?</fragenText>
+            <richtigeAntwort>rote Blutzellen</richtigeAntwort>
+            <falscheAntwort1>Muskelzellen</falscheAntwort1>
+            <falscheAntwort2>Gehirnzellen</falscheAntwort2>
+            <falscheAntwort3>Fettzellen</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Gas produzieren die Arterien, das die Muskeln entspannt, damit das Blut besser fließen kann?</fragenText>
+            <richtigeAntwort>Stickstoffoxid</richtigeAntwort>
+            <falscheAntwort1>Wasserstoff</falscheAntwort1>
+            <falscheAntwort2>Kohlendioxid</falscheAntwort2>
+            <falscheAntwort3>Neon</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In wie vielen Chromosomen sind die menschlichen Gene gespeichert?</fragenText>
+            <richtigeAntwort>46</richtigeAntwort>
+            <falscheAntwort1>58</falscheAntwort1>
+            <falscheAntwort2>24</falscheAntwort2>
+            <falscheAntwort3>66</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist die Iris?</fragenText>
+            <richtigeAntwort>der farbige Muskelring im Auge</richtigeAntwort>
+            <falscheAntwort1>das Mittelstück der Speiseröhre</falscheAntwort1>
+            <falscheAntwort2>die linke Herzklappe</falscheAntwort2>
+            <falscheAntwort3>eine Sehne im Kniegelenk</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man den farbigen Muskelring im Auge?</fragenText>
+            <richtigeAntwort>Iris</richtigeAntwort>
+            <falscheAntwort1>Pia</falscheAntwort1>
+            <falscheAntwort2>Linda</falscheAntwort2>
+            <falscheAntwort3>Rosi</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man das Gewebe im Herzen, das den Herzschlag steuert?</fragenText>
+            <richtigeAntwort>Schrittmacher</richtigeAntwort>
+            <falscheAntwort1>Impulsgeber</falscheAntwort1>
+            <falscheAntwort2>Steuerzentrum</falscheAntwort2>
+            <falscheAntwort3>Kontraktionsgewebe</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Finger hat nur zwei Glieder?</fragenText>
+            <richtigeAntwort>Daumen</richtigeAntwort>
+            <falscheAntwort1>Zeigefinger</falscheAntwort1>
+            <falscheAntwort2>Mittelfinger</falscheAntwort2>
+            <falscheAntwort3>der kleine Finger</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Rippen hat gewöhnlich ein Mensch?</fragenText>
+            <richtigeAntwort>24</richtigeAntwort>
+            <falscheAntwort1>32</falscheAntwort1>
+            <falscheAntwort2>28</falscheAntwort2>
+            <falscheAntwort3>20</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was für eine Art Gelenk ist das Hüftgelenk?</fragenText>
+            <richtigeAntwort>Kugelgelenk</richtigeAntwort>
+            <falscheAntwort1>Sattelgelenk</falscheAntwort1>
+            <falscheAntwort2>Scharniergelenk</falscheAntwort2>
+            <falscheAntwort3>Winkelgelenk</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang ist die Achillessehne?</fragenText>
+            <richtigeAntwort>ca. 15 cm</richtigeAntwort>
+            <falscheAntwort1>ca. 5 cm</falscheAntwort1>
+            <falscheAntwort2>ca. 10 cm</falscheAntwort2>
+            <falscheAntwort3>ca. 2cm</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die längste Sehne im menschlichen Körper?</fragenText>
+            <richtigeAntwort>Achillessehne</richtigeAntwort>
+            <falscheAntwort1>Prometeussehne</falscheAntwort1>
+            <falscheAntwort2>Odysseussehne</falscheAntwort2>
+            <falscheAntwort3>Kolumbussehne</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo sitzt der Musikantenknochen?</fragenText>
+            <richtigeAntwort>am Ellenbogen</richtigeAntwort>
+            <falscheAntwort1>im Knie</falscheAntwort1>
+            <falscheAntwort2>im Ohr</falscheAntwort2>
+            <falscheAntwort3>an der Ferse</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man lange Knochen?</fragenText>
+            <richtigeAntwort>Röhrenknochen</richtigeAntwort>
+            <falscheAntwort1>Hauptknochen</falscheAntwort1>
+            <falscheAntwort2>Längsknochen</falscheAntwort2>
+            <falscheAntwort3>Stabknochen</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Mineralstoff wird hauptsächlich im Knochen gespeichert?</fragenText>
+            <richtigeAntwort>Kalzium</richtigeAntwort>
+            <falscheAntwort1>Aluminium</falscheAntwort1>
+            <falscheAntwort2>Kalium</falscheAntwort2>
+            <falscheAntwort3>Helium</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die harte, schützende Schale, die um die schwammige Markhöhle eines Knochens herum verläuft?</fragenText>
+            <richtigeAntwort>Knochenrinde</richtigeAntwort>
+            <falscheAntwort1>Knochenschale</falscheAntwort1>
+            <falscheAntwort2>Knochenstamm</falscheAntwort2>
+            <falscheAntwort3>Knochenrüstung</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die äußere Schicht des Knochens?</fragenText>
+            <richtigeAntwort>Knochenhaut</richtigeAntwort>
+            <falscheAntwort1>Knochenmantel</falscheAntwort1>
+            <falscheAntwort2>Knochenröhre</falscheAntwort2>
+            <falscheAntwort3>Knochenring</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Das Innere eines Knochens wird aus leichtem, schwammigem Gitterwerk geformt. Was befindet sich in den Zwischenräumen des Gitterwerks?</fragenText>
+            <richtigeAntwort>Knochenmark</richtigeAntwort>
+            <falscheAntwort1>Knochenpaste</falscheAntwort1>
+            <falscheAntwort2>Knochenbrei</falscheAntwort2>
+            <falscheAntwort3>Knochensand</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man das Verkürzen eines Muskels in der Fachsprache?</fragenText>
+            <richtigeAntwort>Kontraktion</richtigeAntwort>
+            <falscheAntwort1>Explosion</falscheAntwort1>
+            <falscheAntwort2>Kondition</falscheAntwort2>
+            <falscheAntwort3>Mutation</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen die zwei kräftigen Wadenmuskeln?</fragenText>
+            <richtigeAntwort>Zwillingsmuskel</richtigeAntwort>
+            <falscheAntwort1>doppelter Wadenmuskel</falscheAntwort1>
+            <falscheAntwort2>Duomuskel</falscheAntwort2>
+            <falscheAntwort3>Spiegelmuskel</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Muskeln sind die aktivsten?</fragenText>
+            <richtigeAntwort>Augenmuskeln</richtigeAntwort>
+            <falscheAntwort1>Armmuskeln</falscheAntwort1>
+            <falscheAntwort2>Kaumuskeln</falscheAntwort2>
+            <falscheAntwort3>Fingermuskeln</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen die feinen, lang gestreckten Zellen, aus denen die einzelnen Faserbündel der Skelettmuskeln bestehen?</fragenText>
+            <richtigeAntwort>Fibrillen</richtigeAntwort>
+            <falscheAntwort1>Fibrallen</falscheAntwort1>
+            <falscheAntwort2>Fibrollen</falscheAntwort2>
+            <falscheAntwort3>Fibrullen</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Körperteil bewegen Trizeps und Bizeps?</fragenText>
+            <richtigeAntwort>den Unterarm</richtigeAntwort>
+            <falscheAntwort1>das Augenlid</falscheAntwort1>
+            <falscheAntwort2>den Oberschenkel</falscheAntwort2>
+            <falscheAntwort3>den Mittelfuß</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Warum soll man nicht gleichzeitig sprechen und kauen?</fragenText>
+            <richtigeAntwort>weil man sich verschlucken kann</richtigeAntwort>
+            <falscheAntwort1>weil man dann keine Luft bekommt</falscheAntwort1>
+            <falscheAntwort2>weil so die Stimmbänder geschädigt werden</falscheAntwort2>
+            <falscheAntwort3>weil dann das Essen nicht schmeckt</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen die kleinen Erhöhungen auf der Zunge, die man mit bloßem Auge sehen kann?</fragenText>
+            <richtigeAntwort>Papillen</richtigeAntwort>
+            <falscheAntwort1>Popillen</falscheAntwort1>
+            <falscheAntwort2>Pupillen</falscheAntwort2>
+            <falscheAntwort3>Pepillen</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Bei welcher Sinneswahrnehmung ist das Riechen stark beteiligt?</fragenText>
+            <richtigeAntwort>beim Schmecken</richtigeAntwort>
+            <falscheAntwort1>beim Hören</falscheAntwort1>
+            <falscheAntwort2>beim Sehen</falscheAntwort2>
+            <falscheAntwort3>beim Fühlen</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen die Härchen in der Nase, die dafür sorgen, dass Schmutz und sogar kleines Ungeziefer nicht weiter nach innen dringen können?</fragenText>
+            <richtigeAntwort>Flimmerhärchen</richtigeAntwort>
+            <falscheAntwort1>Schimmerhärchen</falscheAntwort1>
+            <falscheAntwort2>Glimmerhärchen</falscheAntwort2>
+            <falscheAntwort3>Bimmelhärchen</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele verschiedene Gerüche können die Riechzellen der Nase unterscheiden?</fragenText>
+            <richtigeAntwort>ca. 1.000</richtigeAntwort>
+            <falscheAntwort1>250 - 400</falscheAntwort1>
+            <falscheAntwort2>ca. 500</falscheAntwort2>
+            <falscheAntwort3>etwa 120</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele verschiedene Geschmacksrichtungen können wir mit unserem Geschmackssinn unterscheiden?</fragenText>
+            <richtigeAntwort>4</richtigeAntwort>
+            <falscheAntwort1>8</falscheAntwort1>
+            <falscheAntwort2>6</falscheAntwort2>
+            <falscheAntwort3>10</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die durch HI-Viren verursachte Krankheit, die zum Zusammenbruch des Immunsystems führt?</fragenText>
+            <richtigeAntwort>Aids</richtigeAntwort>
+            <falscheAntwort1>Leukämie</falscheAntwort1>
+            <falscheAntwort2>Bronchitis</falscheAntwort2>
+            <falscheAntwort3>Galeteries</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang braucht das Blut, um einmal durch den ganzen Körper zu fließen, wenn dieser ruht?</fragenText>
+            <richtigeAntwort>ungefähr 1 Minute</richtigeAntwort>
+            <falscheAntwort1>ungefähr 15 Minuten</falscheAntwort1>
+            <falscheAntwort2>ungefähr 10 Minuten</falscheAntwort2>
+            <falscheAntwort3>ungefähr 5 Minuten</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus wie vielen Schichten bestehen die Wände von Arterien und Venen?</fragenText>
+            <richtigeAntwort>3</richtigeAntwort>
+            <falscheAntwort1>4</falscheAntwort1>
+            <falscheAntwort2>2</falscheAntwort2>
+            <falscheAntwort3>5</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was sind Endorphine?</fragenText>
+            <richtigeAntwort>Schmerzmittel, die das Gehirn selbst produzieren kann</richtigeAntwort>
+            <falscheAntwort1>Antikörper, die die Bauchspeicheldrüse produziert</falscheAntwort1>
+            <falscheAntwort2>Drüsenabsonderungen der Haut</falscheAntwort2>
+            <falscheAntwort3>zusammengewachsene Knochen</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Schmerzmittel, die das Gehirn selbst produzieren kann?</fragenText>
+            <richtigeAntwort>Endorphine</richtigeAntwort>
+            <falscheAntwort1>Halluzinogene</falscheAntwort1>
+            <falscheAntwort2>Opiate</falscheAntwort2>
+            <falscheAntwort3>Aspirinate</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang können Nervenzellen werden?</fragenText>
+            <richtigeAntwort>über 1 m</richtigeAntwort>
+            <falscheAntwort1>ca. 15 cm</falscheAntwort1>
+            <falscheAntwort2>20 - 30 cm</falscheAntwort2>
+            <falscheAntwort3>46 cm</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie oft atmet man im Ruhestand pro Minute ein und aus?</fragenText>
+            <richtigeAntwort>ca. 15 - mal</richtigeAntwort>
+            <falscheAntwort1>ca. 5 - mal</falscheAntwort1>
+            <falscheAntwort2>ca. 10 - mal</falscheAntwort2>
+            <falscheAntwort3>ca. 20 - mal</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie oft schlägt das Herz eines Säuglings in der Minute?</fragenText>
+            <richtigeAntwort>ca. 120 - mal</richtigeAntwort>
+            <falscheAntwort1>ca. 90 - mal</falscheAntwort1>
+            <falscheAntwort2>ca. 70 - mal</falscheAntwort2>
+            <falscheAntwort3>ca. 50 - mal</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie oft schlägt das Herz eines Kindes in der Minute?</fragenText>
+            <richtigeAntwort>ca. 90 - mal</richtigeAntwort>
+            <falscheAntwort1>ca. 50 - mal</falscheAntwort1>
+            <falscheAntwort2>ca. 70 - mal</falscheAntwort2>
+            <falscheAntwort3>ca. 30 - mal</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie oft schlägt das Herz eines Erwachsenen in der Minute?</fragenText>
+            <richtigeAntwort>ca. 70 - mal</richtigeAntwort>
+            <falscheAntwort1>ca. 90 - mal</falscheAntwort1>
+            <falscheAntwort2>ca. 50 - mal</falscheAntwort2>
+            <falscheAntwort3>ca. 30 - mal</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Warum schlägt das Herz eines Kindes schneller als das Herz eines Erwachsenen?</fragenText>
+            <richtigeAntwort>weil das Wachsen viel Energie erfordert</richtigeAntwort>
+            <falscheAntwort1>weil Kinder immer in Bewegung sind</falscheAntwort1>
+            <falscheAntwort2>weil das Herz kleiner ist</falscheAntwort2>
+            <falscheAntwort3>weil Kinder schneller atmen</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Länge haben alle Blutgefäße zusammen?</fragenText>
+            <richtigeAntwort>96.000 km</richtigeAntwort>
+            <falscheAntwort1>2.000 km</falscheAntwort1>
+            <falscheAntwort2>6.000 m</falscheAntwort2>
+            <falscheAntwort3>4 km</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Nuss sieht das Großhirn ähnlich?</fragenText>
+            <richtigeAntwort>Walnuss</richtigeAntwort>
+            <falscheAntwort1>Paranuss</falscheAntwort1>
+            <falscheAntwort2>Kokosnuss</falscheAntwort2>
+            <falscheAntwort3>Erdnuss</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen die Eiweißverbindungen, die bei der Bekämpfung von Krankheitserregern helfen?</fragenText>
+            <richtigeAntwort>Antikörper</richtigeAntwort>
+            <falscheAntwort1>Makrophagen</falscheAntwort1>
+            <falscheAntwort2>Hämoglobin</falscheAntwort2>
+            <falscheAntwort3>Mikroplasmen</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Lehre vom Körperbau?</fragenText>
+            <richtigeAntwort>Anatomie</richtigeAntwort>
+            <falscheAntwort1>Chirurgie</falscheAntwort1>
+            <falscheAntwort2>Anästhesie</falscheAntwort2>
+            <falscheAntwort3>Philosophie</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>An welchem Ort im Gehirn liegt bei den meisten Menschen das Sprachzentrum?</fragenText>
+            <richtigeAntwort>in der linken Hälfte</richtigeAntwort>
+            <falscheAntwort1>in der vorderen Hälfte</falscheAntwort1>
+            <falscheAntwort2>in der rechten Hälfte</falscheAntwort2>
+            <falscheAntwort3>in der hinteren Hälfte</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die gallertartige Flüssigkeit, mit der das Auge gefüllt ist?</fragenText>
+            <richtigeAntwort>Glaskörper</richtigeAntwort>
+            <falscheAntwort1>Iris</falscheAntwort1>
+            <falscheAntwort2>Linse</falscheAntwort2>
+            <falscheAntwort3>Glasbrei</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Teil des Körpers entscheidet, wie viel Luft eingeatmet wird?</fragenText>
+            <richtigeAntwort>das Atemzentrum im Gehirn</richtigeAntwort>
+            <falscheAntwort1>das Herz</falscheAntwort1>
+            <falscheAntwort2>die Lunge</falscheAntwort2>
+            <falscheAntwort3>der Mund</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Muskeln sind am stärksten?</fragenText>
+            <richtigeAntwort>die Kaumuskeln</richtigeAntwort>
+            <falscheAntwort1>die Beinmuskeln</falscheAntwort1>
+            <falscheAntwort2>die Armmuskeln</falscheAntwort2>
+            <falscheAntwort3>die Handmuskeln</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie groß ist die Oberfläche aller Lungenbläschen?</fragenText>
+            <richtigeAntwort>ca. 100 qm</richtigeAntwort>
+            <falscheAntwort1>ca. 25 qm</falscheAntwort1>
+            <falscheAntwort2>ca. 50 qm</falscheAntwort2>
+            <falscheAntwort3>ca. 6 qm</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo liegen Hammer, Amboss und Steigbügel?</fragenText>
+            <richtigeAntwort>im Ohr</richtigeAntwort>
+            <falscheAntwort1>in der Bauchhöhle</falscheAntwort1>
+            <falscheAntwort2>in der Nase</falscheAntwort2>
+            <falscheAntwort3>im Fuß</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele winzigen Kammern gibt es in der Lunge, in denen die Atemluft hin- und herpendelt?</fragenText>
+            <richtigeAntwort>400 Millionen</richtigeAntwort>
+            <falscheAntwort1>200 Millionen</falscheAntwort1>
+            <falscheAntwort2>300 Millionen</falscheAntwort2>
+            <falscheAntwort3>100 Millionen</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die winzigen Kammern, in der Lunge, in denen die Atemluft hin- und herpendelt?</fragenText>
+            <richtigeAntwort>Alveolen</richtigeAntwort>
+            <falscheAntwort1>Bromelien</falscheAntwort1>
+            <falscheAntwort2>Bronchien</falscheAntwort2>
+            <falscheAntwort3>Lungenalkoven</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Stoff erzeugen die Drüsenzellen des Magens, um die Eiweißketten der Nahrung zu zerlegen?</fragenText>
+            <richtigeAntwort>Pepsin</richtigeAntwort>
+            <falscheAntwort1>Coca</falscheAntwort1>
+            <falscheAntwort2>Pepsi</falscheAntwort2>
+            <falscheAntwort3>Cola</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Teil der Luft wird in der Lunge aufgenommen und an das Blut weitergegeben?</fragenText>
+            <richtigeAntwort>Sauerstoff</richtigeAntwort>
+            <falscheAntwort1>Kohlendioxid</falscheAntwort1>
+            <falscheAntwort2>Stickstoff</falscheAntwort2>
+            <falscheAntwort3>Schwefeldioxid</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Menge an Luft atmet ein Mensch an jedem Tag ein und aus?</fragenText>
+            <richtigeAntwort>ca. 18.000 l</richtigeAntwort>
+            <falscheAntwort1>ca. 9.000 l</falscheAntwort1>
+            <falscheAntwort2>ca. 12.000 l</falscheAntwort2>
+            <falscheAntwort3>ca. 3.000 l</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Lungenlappen hat der Mensch?</fragenText>
+            <richtigeAntwort>5</richtigeAntwort>
+            <falscheAntwort1>4</falscheAntwort1>
+            <falscheAntwort2>2</falscheAntwort2>
+            <falscheAntwort3>7</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Lungenflügel hat der Mensch?</fragenText>
+            <richtigeAntwort>2</richtigeAntwort>
+            <falscheAntwort1>4</falscheAntwort1>
+            <falscheAntwort2>3</falscheAntwort2>
+            <falscheAntwort3>5</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist ein Elektrokardiogramm?</fragenText>
+            <richtigeAntwort>eine mit Apparaten aufgezeichnete Herzstromkurve</richtigeAntwort>
+            <falscheAntwort1>eine besondere Art der Röntgenaufnahme</falscheAntwort1>
+            <falscheAntwort2>die elektrische Stimulation bei einer Wiederbelebung</falscheAntwort2>
+            <falscheAntwort3>ein Rollstuhl mit Elektromotor</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man eine mit Apparaten aufgezeichnete Herzstromkurve?</fragenText>
+            <richtigeAntwort>EKG</richtigeAntwort>
+            <falscheAntwort1>ERT</falscheAntwort1>
+            <falscheAntwort2>EEG</falscheAntwort2>
+            <falscheAntwort3>EWG</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der mit Flüssigkeit gefüllte Gang im Ohr?</fragenText>
+            <richtigeAntwort>Schnecke</richtigeAntwort>
+            <falscheAntwort1>Käfer</falscheAntwort1>
+            <falscheAntwort2>Wurm</falscheAntwort2>
+            <falscheAntwort3>Muschel</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Körperteil verhindert, dass beim Schlucken die Nahrung in die Luftröhre gerät?</fragenText>
+            <richtigeAntwort>der Kehldeckel</richtigeAntwort>
+            <falscheAntwort1>die Mandeln</falscheAntwort1>
+            <falscheAntwort2>der Gaumen</falscheAntwort2>
+            <falscheAntwort3>die Zunge</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Teil des Auges ist für das Farbensehen zuständig?</fragenText>
+            <richtigeAntwort>die Zapfen</richtigeAntwort>
+            <falscheAntwort1>die Linse</falscheAntwort1>
+            <falscheAntwort2>die Stäbchen</falscheAntwort2>
+            <falscheAntwort3>die Pupille</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die größte Körperschlagader?</fragenText>
+            <richtigeAntwort>Aorta</richtigeAntwort>
+            <falscheAntwort1>Arterie</falscheAntwort1>
+            <falscheAntwort2>Arteriole</falscheAntwort2>
+            <falscheAntwort3>Aquamarin</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was hilft im hinteren Teil des Mundes Bakterien zu bekämpfen?</fragenText>
+            <richtigeAntwort>Mandeln</richtigeAntwort>
+            <falscheAntwort1>Rosinen</falscheAntwort1>
+            <falscheAntwort2>Nüsse</falscheAntwort2>
+            <falscheAntwort3>Pistazien</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man es, wenn ein Teil des Gehirns nicht mehr genug durchblutet wird und abstirbt?</fragenText>
+            <richtigeAntwort>Schlaganfall</richtigeAntwort>
+            <falscheAntwort1>Gehirnblutung</falscheAntwort1>
+            <falscheAntwort2>Herzinfarkt</falscheAntwort2>
+            <falscheAntwort3>Ohnmacht</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Funktion hat die Linse im Auge?</fragenText>
+            <richtigeAntwort>Sie sorgt dafür, dass man scharf sehen kann.</richtigeAntwort>
+            <falscheAntwort1>Sie reguliert den Tränenfluss.</falscheAntwort1>
+            <falscheAntwort2>Sie sorgt dafür, dass man das Auge schließen kann.</falscheAntwort2>
+            <falscheAntwort3>Sie unterscheidet die einzelnen Farben.</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man es, wenn die Muskelspannung der beiden Augen verschieden ist und von der normalen parallelen Blickrichtung in die Ferne abweicht?</fragenText>
+            <richtigeAntwort>schielen</richtigeAntwort>
+            <falscheAntwort1>zwinkern</falscheAntwort1>
+            <falscheAntwort2>biegen</falscheAntwort2>
+            <falscheAntwort3>blinzeln</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Teil des Auges sorgt dafür, dass man scharf sehen kann?</fragenText>
+            <richtigeAntwort>Linse</richtigeAntwort>
+            <falscheAntwort1>Erbse</falscheAntwort1>
+            <falscheAntwort2>Bohne</falscheAntwort2>
+            <falscheAntwort3>Reis</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man Kranke, bei denen die Gerinnung des Blutes gestört ist?</fragenText>
+            <richtigeAntwort>Bluter</richtigeAntwort>
+            <falscheAntwort1>Blutamus</falscheAntwort1>
+            <falscheAntwort2>Blutino</falscheAntwort2>
+            <falscheAntwort3>Blutolli</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man eine überempfindliche Reaktion des Körpers gegen bestimmte Stoffe?</fragenText>
+            <richtigeAntwort>Allergie</richtigeAntwort>
+            <falscheAntwort1>Bronchitis</falscheAntwort1>
+            <falscheAntwort2>Anämie</falscheAntwort2>
+            <falscheAntwort3>Leukämie</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen zwei häufige Arten von Krankheitserregern?</fragenText>
+            <richtigeAntwort>Bakterien und Viren</richtigeAntwort>
+            <falscheAntwort1>Salmonellen und Pilze</falscheAntwort1>
+            <falscheAntwort2>Karius und Baktus</falscheAntwort2>
+            <falscheAntwort3>Eiter und Lymphe</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Organ kann man als die Waschmaschine des Blutes bezeichnen?</fragenText>
+            <richtigeAntwort>Nieren</richtigeAntwort>
+            <falscheAntwort1>Lunge</falscheAntwort1>
+            <falscheAntwort2>Magen</falscheAntwort2>
+            <falscheAntwort3>Herz</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Mit wie viel Stundenkilometern saust die Luft beim Niesen durch die Nase?</fragenText>
+            <richtigeAntwort>ca. 160 km/h</richtigeAntwort>
+            <falscheAntwort1>ca. 80 km/h</falscheAntwort1>
+            <falscheAntwort2>ca. 120 km/h</falscheAntwort2>
+            <falscheAntwort3>ca. 60 km/h</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist ein Reflex?</fragenText>
+            <richtigeAntwort>eine unwillkürliche Reaktion, die ohne Beteiligung des Gehirns abläuft</richtigeAntwort>
+            <falscheAntwort1>ein kleiner Knochen im Handgelenk</falscheAntwort1>
+            <falscheAntwort2>eine willkürliche Muskelanspannung</falscheAntwort2>
+            <falscheAntwort3>ein Rückenmuskel</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man eine unwillkürliche Reaktion, die ohne Beteiligung des Gehirns abläuft?</fragenText>
+            <richtigeAntwort>Reflex</richtigeAntwort>
+            <falscheAntwort1>Impuls</falscheAntwort1>
+            <falscheAntwort2>Reflexion</falscheAntwort2>
+            <falscheAntwort3>Aktion</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen die Träger der Erbinformationen im Zellkern?</fragenText>
+            <richtigeAntwort>Chromosomen</richtigeAntwort>
+            <falscheAntwort1>Chlorophyll</falscheAntwort1>
+            <falscheAntwort2>Chronographen</falscheAntwort2>
+            <falscheAntwort3>Colesterin</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen Organe, die Substanzen wie Schweiß oder Speichel absondern?</fragenText>
+            <richtigeAntwort>Drüsen</richtigeAntwort>
+            <falscheAntwort1>Dünen</falscheAntwort1>
+            <falscheAntwort2>Düsen</falscheAntwort2>
+            <falscheAntwort3>Dosen</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie erscheint das Bild, das wir sehen, auf der Netzhaut?</fragenText>
+            <richtigeAntwort>auf dem Kopf stehend</richtigeAntwort>
+            <falscheAntwort1>seitenverkehrt</falscheAntwort1>
+            <falscheAntwort2>richtig herum</falscheAntwort2>
+            <falscheAntwort3>schwarz - weiß</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist Seitenstechen?</fragenText>
+            <richtigeAntwort>ein Krampf im Zwerchfell</richtigeAntwort>
+            <falscheAntwort1>eine Grippeschutzimpfung</falscheAntwort1>
+            <falscheAntwort2>eine besondere Art der Akupunktur</falscheAntwort2>
+            <falscheAntwort3>ein zu hoher Blutdruck</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man einen Krampf im Zwerchfell?</fragenText>
+            <richtigeAntwort>Seitenstechen</richtigeAntwort>
+            <falscheAntwort1>Schluckauf</falscheAntwort1>
+            <falscheAntwort2>Muskelkater</falscheAntwort2>
+            <falscheAntwort3>Niesen</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man erhöhte Körpertemperatur?</fragenText>
+            <richtigeAntwort>Fieber</richtigeAntwort>
+            <falscheAntwort1>Kieber</falscheAntwort1>
+            <falscheAntwort2>Zieber</falscheAntwort2>
+            <falscheAntwort3>Dieber</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ab welcher Temperatur wird Fieber gefährlich?</fragenText>
+            <richtigeAntwort>ab 40 Grad</richtigeAntwort>
+            <falscheAntwort1>ab 45 Grad</falscheAntwort1>
+            <falscheAntwort2>ab 38 Grad</falscheAntwort2>
+            <falscheAntwort3>ab 36 Grad</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lange dauert eine normale Schwangerschaft?</fragenText>
+            <richtigeAntwort>9 Monate</richtigeAntwort>
+            <falscheAntwort1>10 Monate</falscheAntwort1>
+            <falscheAntwort2>8 Monate</falscheAntwort2>
+            <falscheAntwort3>11 Monate</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Körperteil des Kindes wird normalerweise zuerst geboren?</fragenText>
+            <richtigeAntwort>der Kopf</richtigeAntwort>
+            <falscheAntwort1>das Bein</falscheAntwort1>
+            <falscheAntwort2>der Arm</falscheAntwort2>
+            <falscheAntwort3>der Po</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus wie vielen Schichten besteht die Haut?</fragenText>
+            <richtigeAntwort>3</richtigeAntwort>
+            <falscheAntwort1>4</falscheAntwort1>
+            <falscheAntwort2>2</falscheAntwort2>
+            <falscheAntwort3>5</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Woraus bestehen Muskeln?</fragenText>
+            <richtigeAntwort>aus dicken Faserbündeln</richtigeAntwort>
+            <falscheAntwort1>aus einem einheitlichen Gewebe</falscheAntwort1>
+            <falscheAntwort2>aus übereinanderliegenden Schichten</falscheAntwort2>
+            <falscheAntwort3>aus biegsamen Knochen</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Knochen hat ein Säugling bei der Geburt?</fragenText>
+            <richtigeAntwort>ca. 350</richtigeAntwort>
+            <falscheAntwort1>ca. 200</falscheAntwort1>
+            <falscheAntwort2>ca. 300</falscheAntwort2>
+            <falscheAntwort3>ca. 250</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist Leukämie?</fragenText>
+            <richtigeAntwort>die krankhafte Vermehrung der weißen Blutkörperchen</richtigeAntwort>
+            <falscheAntwort1>eine Entzündung der Bauchspeicheldrüse</falscheAntwort1>
+            <falscheAntwort2>die krankhafte Vermehrung der roten Blutkörperchen</falscheAntwort2>
+            <falscheAntwort3>die Verdickung der Gallenblase</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die krankhafte Vermehrung der weißen Blutkörperchen?</fragenText>
+            <richtigeAntwort>Leukämie</richtigeAntwort>
+            <falscheAntwort1>Legasthenie</falscheAntwort1>
+            <falscheAntwort2>Dyskalkulie</falscheAntwort2>
+            <falscheAntwort3>Gelbsucht?</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Muskel ist für unsere Atmung am wichtigsten?</fragenText>
+            <richtigeAntwort>das Zwerchfell</richtigeAntwort>
+            <falscheAntwort1>die Lunge</falscheAntwort1>
+            <falscheAntwort2>der linke Herzmuskel</falscheAntwort2>
+            <falscheAntwort3>der obere Brustmuskel</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu wie viel Prozent stimmt das Erbgut von Menschen und Schimpansen überein?</fragenText>
+            <richtigeAntwort>98,4 %</richtigeAntwort>
+            <falscheAntwort1>77,2 %</falscheAntwort1>
+            <falscheAntwort2>89,5 %</falscheAntwort2>
+            <falscheAntwort3>69,1 %</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist Akne?</fragenText>
+            <richtigeAntwort>eine Hauterkrankung, die durch überschüssige Talgproduktion der Haut entsteht</richtigeAntwort>
+            <falscheAntwort1>eine Nebenhöhle der Bauchspeicheldrüse</falscheAntwort1>
+            <falscheAntwort2>die Umwandlung der roten Blutkörperchen</falscheAntwort2>
+            <falscheAntwort3>eine Haarerkrankung, bei der die Haare langsam ausfallen</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Hauterkrankung, die durch überschüssige Talgproduktion der Haut entsteht?</fragenText>
+            <richtigeAntwort>Akne</richtigeAntwort>
+            <falscheAntwort1>Allergie</falscheAntwort1>
+            <falscheAntwort2>Albinismus</falscheAntwort2>
+            <falscheAntwort3>Akmisum</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie geben die Nerven Signale weiter?</fragenText>
+            <richtigeAntwort>durch winzige elektrische Impulse</richtigeAntwort>
+            <falscheAntwort1>durch magnetische Felder</falscheAntwort1>
+            <falscheAntwort2>durch Muskelkontraktionen</falscheAntwort2>
+            <falscheAntwort3>durch Blutkörperchen</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viel Prozent Wasser enthält das Blut?</fragenText>
+            <richtigeAntwort>ca. 90 %</richtigeAntwort>
+            <falscheAntwort1>ca. 50 %</falscheAntwort1>
+            <falscheAntwort2>ca. 70 %</falscheAntwort2>
+            <falscheAntwort3>ca. 98 %</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das Protein (Eiweiß), aus dem Haare und Nägel aufgebaut sind?</fragenText>
+            <richtigeAntwort>Keratin</richtigeAntwort>
+            <falscheAntwort1>Hämoglobin</falscheAntwort1>
+            <falscheAntwort2>Kerosin</falscheAntwort2>
+            <falscheAntwort3>Sacharin</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Zentimeter wachsen die Fingernägel im Jahr?</fragenText>
+            <richtigeAntwort>ca. 4 cm</richtigeAntwort>
+            <falscheAntwort1>ca. 2 cm</falscheAntwort1>
+            <falscheAntwort2>ca. 8 cm</falscheAntwort2>
+            <falscheAntwort3>ca. 10 cm</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Blutzellen bildet der Körper täglich neu?</fragenText>
+            <richtigeAntwort>ca. 200 Milliarden</richtigeAntwort>
+            <falscheAntwort1>ca. 100 Milliarden</falscheAntwort1>
+            <falscheAntwort2>ca. 400 Milliarden</falscheAntwort2>
+            <falscheAntwort3>ca. 200 Millionen</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Warum verliert der Mensch die Milchzähne?</fragenText>
+            <richtigeAntwort>weil Menschenzähne nicht wachsen können</richtigeAntwort>
+            <falscheAntwort1>weil sie zu weich sind</falscheAntwort1>
+            <falscheAntwort2>weil sie zu lose sind</falscheAntwort2>
+            <falscheAntwort3>weil sie zu klein sind</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die ersten Zähne?</fragenText>
+            <richtigeAntwort>Milchzähne</richtigeAntwort>
+            <falscheAntwort1>Kaffeezähne</falscheAntwort1>
+            <falscheAntwort2>Kakaozähne</falscheAntwort2>
+            <falscheAntwort3>Teezähne</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was bezeichnet man als Epidermis?</fragenText>
+            <richtigeAntwort>die oberste Hautschicht</richtigeAntwort>
+            <falscheAntwort1>eine Knochenkrankheit</falscheAntwort1>
+            <falscheAntwort2>eine ansteckende Krankheit</falscheAntwort2>
+            <falscheAntwort3>die unterste Hautschicht</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die oberste Hautschicht?</fragenText>
+            <richtigeAntwort>Epidermis</richtigeAntwort>
+            <falscheAntwort1>Epidemie</falscheAntwort1>
+            <falscheAntwort2>Epilog</falscheAntwort2>
+            <falscheAntwort3>Epilepsie</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was zeigt eine Gänsehaut an?</fragenText>
+            <richtigeAntwort>dass man friert</richtigeAntwort>
+            <falscheAntwort1>dass man neugierig ist</falscheAntwort1>
+            <falscheAntwort2>dass man schwitzt</falscheAntwort2>
+            <falscheAntwort3>dass man Langeweile hat</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Drüsen sorgen dafür, dass die Haut gefettet und somit geschmeidig bleibt?</fragenText>
+            <richtigeAntwort>Talgdrüsen</richtigeAntwort>
+            <falscheAntwort1>Bauchspeicheldrüse</falscheAntwort1>
+            <falscheAntwort2>Fettdrüsen</falscheAntwort2>
+            <falscheAntwort3>Schmalzdrüse</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viel Haut verliert ein Mensch im Laufe seines Lebens?</fragenText>
+            <richtigeAntwort>ca. 35 kg</richtigeAntwort>
+            <falscheAntwort1>ca. 10 kg</falscheAntwort1>
+            <falscheAntwort2>ca. 15 kg</falscheAntwort2>
+            <falscheAntwort3>ca. 5 kg</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Muskeln benötigt man zum Laufen?</fragenText>
+            <richtigeAntwort>ca. 200</richtigeAntwort>
+            <falscheAntwort1>ca. 100</falscheAntwort1>
+            <falscheAntwort2>ca. 150</falscheAntwort2>
+            <falscheAntwort3>ca. 50</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie verhindern die Venen, dass das Blut in Arme und Beine zurückfließt?</fragenText>
+            <richtigeAntwort>Sie enthalten Klappen, die wie Ventile funktionieren.</richtigeAntwort>
+            <falscheAntwort1>Sie sind innen mit kleinen Widerhaken versehen, die ein Zurückfließen verhindern.</falscheAntwort1>
+            <falscheAntwort2>Sie ziehen sich im Rhythmus des Herzschlages zusammen.</falscheAntwort2>
+            <falscheAntwort3>Durch kleine Venendüsen wird der Blutfluss beschleunigt.</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man durch Viren hervorgerufene Hautwucherungen, die ansteckend sein können?</fragenText>
+            <richtigeAntwort>Warzen</richtigeAntwort>
+            <falscheAntwort1>Pickel</falscheAntwort1>
+            <falscheAntwort2>Muttermale</falscheAntwort2>
+            <falscheAntwort3>Eiterbeulen</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo werden die Blutzellen und Blutplättchen gebildet?</fragenText>
+            <richtigeAntwort>im Knochenmark</richtigeAntwort>
+            <falscheAntwort1>in der Lunge</falscheAntwort1>
+            <falscheAntwort2>im Herzen</falscheAntwort2>
+            <falscheAntwort3>in der Leber</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch ist die durchschnittliche Lebenserwartung in Europa?</fragenText>
+            <richtigeAntwort>76 Jahre</richtigeAntwort>
+            <falscheAntwort1>56 Jahre</falscheAntwort1>
+            <falscheAntwort2>86 Jahre</falscheAntwort2>
+            <falscheAntwort3>66 Jahre</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie kommt man eine Grippe?</fragenText>
+            <richtigeAntwort>durch Viren</richtigeAntwort>
+            <falscheAntwort1>durch erbliche Veranlagung</falscheAntwort1>
+            <falscheAntwort2>durch Bakterien</falscheAntwort2>
+            <falscheAntwort3>durch Übung</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Schlafen die Zellen auch, wenn man schläft?</fragenText>
+            <richtigeAntwort>Nein, Zellen arbeiten unermüdlich Tag und Nacht.</richtigeAntwort>
+            <falscheAntwort1>ja</falscheAntwort1>
+            <falscheAntwort2>Nein, die Zellen haben einen anderen Schlafrhythmus.</falscheAntwort2>
+            <falscheAntwort3>Nein, die Zellen benötigen nur zwei Stunden Schlaf am Tag.</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wozu werden die Fettzellen gebraucht?</fragenText>
+            <richtigeAntwort>Sie schützen Gelenke und Organe, liefern Wärme und speichern Energie.</richtigeAntwort>
+            <falscheAntwort1>Sie überwachen das Hungergefühl.</falscheAntwort1>
+            <falscheAntwort2>Sie sorgen für ausreichenden Speichelfluss und regulieren die Tränenflüssigkeit.</falscheAntwort2>
+            <falscheAntwort3>Sie unterstützen den Knochenaufbau und sind für die Wundheilung verantwortlich.</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo werden die Zellen gebildet, die Eindringlinge im Körper aufspüren und unschädlich machen?</fragenText>
+            <richtigeAntwort>in der Thymusdrüse</richtigeAntwort>
+            <falscheAntwort1>in der Schilddrüse</falscheAntwort1>
+            <falscheAntwort2>in der Bauchspeicheldrüse</falscheAntwort2>
+            <falscheAntwort3>in der Lymphdrüse</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen die Zellen, die Eindringlinge im Körper aufspüren und unschädlich machen?</fragenText>
+            <richtigeAntwort>T - Zellen</richtigeAntwort>
+            <falscheAntwort1>A - Zellen</falscheAntwort1>
+            <falscheAntwort2>K - Zellen</falscheAntwort2>
+            <falscheAntwort3>Z - Zellen</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Knochen sind an einem Achselzucken beteiligt?</fragenText>
+            <richtigeAntwort>64</richtigeAntwort>
+            <falscheAntwort1>38</falscheAntwort1>
+            <falscheAntwort2>46</falscheAntwort2>
+            <falscheAntwort3>24</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man eine schwere Durchblutungsstörung des Herzmuskels?</fragenText>
+            <richtigeAntwort>Herzinfarkt</richtigeAntwort>
+            <falscheAntwort1>Herzrhythmusstörung</falscheAntwort1>
+            <falscheAntwort2>Schlaganfall</falscheAntwort2>
+            <falscheAntwort3>Muskelkater</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Gehirnkrankheit, bei der es zu plötzlicher Bewusstlosigkeit, Krämpfen und Gliederzucken kommt?</fragenText>
+            <richtigeAntwort>Epilepsie</richtigeAntwort>
+            <falscheAntwort1>Diabetis</falscheAntwort1>
+            <falscheAntwort2>Leukämie</falscheAntwort2>
+            <falscheAntwort3>Aids</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man es, wenn sich winzige Muskeln, die mit den Hautvertiefungen, in denen die Haare wachsen verbunden sind, sich zusammenziehen, damit keine warme Luft entweicht?</fragenText>
+            <richtigeAntwort>Gänsehaut</richtigeAntwort>
+            <falscheAntwort1>Hühnerhaut</falscheAntwort1>
+            <falscheAntwort2>Entenhaut</falscheAntwort2>
+            <falscheAntwort3>Wachtelhaut</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Menschen, denen Farbstoffe (Pigmente) in Haut, Haaren und Augen fehlen?</fragenText>
+            <richtigeAntwort>Albinos</richtigeAntwort>
+            <falscheAntwort1>Fermente</falscheAntwort1>
+            <falscheAntwort2>Albatross</falscheAntwort2>
+            <falscheAntwort3>Daktylus</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Von welchem Teil des Verdauungssystems aus gelangen die Nährstoffe ins Blut?</fragenText>
+            <richtigeAntwort>vom Dünndarm</richtigeAntwort>
+            <falscheAntwort1>vom Magen</falscheAntwort1>
+            <falscheAntwort2>vom Dockdarm</falscheAntwort2>
+            <falscheAntwort3>von der Speiseröhre</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Hormon ist für die Stressbewältigung zuständig?</fragenText>
+            <richtigeAntwort>Adrenalin</richtigeAntwort>
+            <falscheAntwort1>Cedrenalin</falscheAntwort1>
+            <falscheAntwort2>Bedrenalin</falscheAntwort2>
+            <falscheAntwort3>Dedrenalin</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wofür ist das Hormon Adrenalin zuständig?</fragenText>
+            <richtigeAntwort>für die Stressbewältigung</richtigeAntwort>
+            <falscheAntwort1>für die Verdauung</falscheAntwort1>
+            <falscheAntwort2>für das Wachstum</falscheAntwort2>
+            <falscheAntwort3>für die Atmung</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Muskeln bewegen den Augapfel, wenn er die Blickrichtung ändert?</fragenText>
+            <richtigeAntwort>6</richtigeAntwort>
+            <falscheAntwort1>8</falscheAntwort1>
+            <falscheAntwort2>4</falscheAntwort2>
+            <falscheAntwort3>2</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viel Prozent der Informationen, die im Gehirn verarbeitet werden, kommen von den Augen?</fragenText>
+            <richtigeAntwort>75 %</richtigeAntwort>
+            <falscheAntwort1>90 %</falscheAntwort1>
+            <falscheAntwort2>50 %</falscheAntwort2>
+            <falscheAntwort3>25 %</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt eine eitrige Entzündung am Augenlid?</fragenText>
+            <richtigeAntwort>Gerstenkorn</richtigeAntwort>
+            <falscheAntwort1>Maiskorn</falscheAntwort1>
+            <falscheAntwort2>Weizenkorn</falscheAntwort2>
+            <falscheAntwort3>Roggenkorn</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo ist die Haut am dicksten?</fragenText>
+            <richtigeAntwort>an den Fußsohlen</richtigeAntwort>
+            <falscheAntwort1>im Gesicht</falscheAntwort1>
+            <falscheAntwort2>an den Handflächen</falscheAntwort2>
+            <falscheAntwort3>am Popo</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Warum muss man blinzeln?</fragenText>
+            <richtigeAntwort>Beim Blinzeln wird Tränenflüssigkeit über das Auge gespült. Sie hat Sub- stanzen, die Krankheitskeime abtöten.</richtigeAntwort>
+            <falscheAntwort1>Beim Blinzeln stellt sich die Sehschärfe immer wieder neu ein.</falscheAntwort1>
+            <falscheAntwort2>Damit die Augenmuskeln nicht erschlaffen.</falscheAntwort2>
+            <falscheAntwort3>Das Blinzeln verhindert, dass man unaufmerksam wird.</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo wird die Galle produziert?</fragenText>
+            <richtigeAntwort>in der Leber</richtigeAntwort>
+            <falscheAntwort1>im Zwölffingerdarm</falscheAntwort1>
+            <falscheAntwort2>in der Bauchspeicheldrüse</falscheAntwort2>
+            <falscheAntwort3>in der Milz</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wozu sind die Augenbrauen da?</fragenText>
+            <richtigeAntwort>Sie verhindern, dass Schweiß und Staub in die Augen gerät.</richtigeAntwort>
+            <falscheAntwort1>Sie sorgen dafür, dass eine Brille nicht drückt.</falscheAntwort1>
+            <falscheAntwort2>Sie werfen einen Schatten, damit es für die Pupille nicht zu hell ist.</falscheAntwort2>
+            <falscheAntwort3>Sie verschönern das Gesicht.</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu wie vielen Prozent besteht der menschliche Körper aus Wasser?</fragenText>
+            <richtigeAntwort>ca. 60 %</richtigeAntwort>
+            <falscheAntwort1>ca. 20 %</falscheAntwort1>
+            <falscheAntwort2>ca. 40 %</falscheAntwort2>
+            <falscheAntwort3>ca. 80 %</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was geschieht mit den Gehirnzellen, wenn die Blutzufuhr für ein paar Minuten unterbrochen wird?</fragenText>
+            <richtigeAntwort>Sie sterben ab.</richtigeAntwort>
+            <falscheAntwort1>Sie werden größer.</falscheAntwort1>
+            <falscheAntwort2>Sie werden kleiner.</falscheAntwort2>
+            <falscheAntwort3>Sie vermehren sich.</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was geschieht mit dem Gehirn des Menschen im Alter?</fragenText>
+            <richtigeAntwort>Es wird kleiner.</richtigeAntwort>
+            <falscheAntwort1>Es bleibt immer gleich groß.</falscheAntwort1>
+            <falscheAntwort2>Es wird kleiner.</falscheAntwort2>
+            <falscheAntwort3>Es wird abwechselnd größer und kleiner.</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist eine Epidemie?</fragenText>
+            <richtigeAntwort>die schnelle Ausbreitung einer Infektionskrankheit</richtigeAntwort>
+            <falscheAntwort1>eine ansteckende Hautkrankheit</falscheAntwort1>
+            <falscheAntwort2>eine vorbeugende Schutzimpfung</falscheAntwort2>
+            <falscheAntwort3>das langsame Ansteigen der Körpertemperatur</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die schnelle Ausbreitung einer Infektionskrankheit?</fragenText>
+            <richtigeAntwort>Epidemie</richtigeAntwort>
+            <falscheAntwort1>Epilog</falscheAntwort1>
+            <falscheAntwort2>Episode</falscheAntwort2>
+            <falscheAntwort3>Epilepsie</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist eine Embolie?</fragenText>
+            <richtigeAntwort>ein plötzlicher Verschluss eines Blutgefäßes durch einen Pfropf aus geronnenem Blut</richtigeAntwort>
+            <falscheAntwort1>eine plötzliche Erhöhung der Atemfrequenz</falscheAntwort1>
+            <falscheAntwort2>die Entzündung des Magen- Darmtraktes</falscheAntwort2>
+            <falscheAntwort3>eine langsame Verkalkung der Blutgefäße</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man einen plötzlichen Verschluss eines Blutgefäßes durch einen Pfropf aus geronnenem Blut?</fragenText>
+            <richtigeAntwort>Embolie</richtigeAntwort>
+            <falscheAntwort1>Entzündung</falscheAntwort1>
+            <falscheAntwort2>Enzym</falscheAntwort2>
+            <falscheAntwort3>Empathie</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann fand Alexander Fleming das erste Antibiotikum?</fragenText>
+            <richtigeAntwort>1928</richtigeAntwort>
+            <falscheAntwort1>1928</falscheAntwort1>
+            <falscheAntwort2>1908</falscheAntwort2>
+            <falscheAntwort3>1938</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer fand 1928 das erste Antibiotikum?</fragenText>
+            <richtigeAntwort>Alexander Fleming</richtigeAntwort>
+            <falscheAntwort1>Albert Einstein</falscheAntwort1>
+            <falscheAntwort2>Robert Koch</falscheAntwort2>
+            <falscheAntwort3>Sigmund Freud</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lange dauert es, bis das Herz eines Embryos zu schlagen beginnt?</fragenText>
+            <richtigeAntwort>ca. 3 Wochen</richtigeAntwort>
+            <falscheAntwort1>ca. 3 Stunden</falscheAntwort1>
+            <falscheAntwort2>ca. 3 Tage</falscheAntwort2>
+            <falscheAntwort3>ca. 3 Monate</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Samenzellen werden in den Hoden des Mannes täglich gebildet?</fragenText>
+            <richtigeAntwort>ca. 300 Millionen</richtigeAntwort>
+            <falscheAntwort1>ca. 3 Millionen</falscheAntwort1>
+            <falscheAntwort2>ca. 30 Millionen</falscheAntwort2>
+            <falscheAntwort3>ca. 300.000</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist eine Angina?</fragenText>
+            <richtigeAntwort>eine Halsentzündung, bei der vor allem die Mandeln betroffen sind</richtigeAntwort>
+            <falscheAntwort1>eine Entzündung der rechten Herzkammer</falscheAntwort1>
+            <falscheAntwort2>eine Verstauchung des Fußknöchels</falscheAntwort2>
+            <falscheAntwort3>eine Blinddarmentzündung</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt eine Halsentzündung, bei der vor allem die Mandeln betroffen sind?</fragenText>
+            <richtigeAntwort>Angina</richtigeAntwort>
+            <falscheAntwort1>Grippe</falscheAntwort1>
+            <falscheAntwort2>Erkältung</falscheAntwort2>
+            <falscheAntwort3>Bronchitis</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Wegstrecke legt die Nahrung auf dem Weg durch das Verdauungssystem zurück?</fragenText>
+            <richtigeAntwort>9 m</richtigeAntwort>
+            <falscheAntwort1>0,50 cm</falscheAntwort1>
+            <falscheAntwort2>2,50 m</falscheAntwort2>
+            <falscheAntwort3>3,80 m</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man unverdauliche Bestandteile der Nahrung, die die Verdauung fördern?</fragenText>
+            <richtigeAntwort>Ballaststoffe</richtigeAntwort>
+            <falscheAntwort1>Vitamine</falscheAntwort1>
+            <falscheAntwort2>Nährstoffe</falscheAntwort2>
+            <falscheAntwort3>Kohlenhydrate</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wodurch entstehen die Herztöne?</fragenText>
+            <richtigeAntwort>durch das Öffnen und das Schließen der Herzklappen</richtigeAntwort>
+            <falscheAntwort1>durch das heftige Atmen</falscheAntwort1>
+            <falscheAntwort2>durch die Bewegung der darüberliegenden Lunge</falscheAntwort2>
+            <falscheAntwort3>durch das Zwerchfell, das das Herz hin- und herbewegt</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist der Bizeps?</fragenText>
+            <richtigeAntwort>ein Armmuskel</richtigeAntwort>
+            <falscheAntwort1>ein Beinmuskel</falscheAntwort1>
+            <falscheAntwort2>ein Knochen</falscheAntwort2>
+            <falscheAntwort3>der Mageneingang</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Ringmuskel, der den Nahrungsbrei aus dem Magen in den Darm drückt?</fragenText>
+            <richtigeAntwort>Pförtner</richtigeAntwort>
+            <falscheAntwort1>Türsteher</falscheAntwort1>
+            <falscheAntwort2>Drücker</falscheAntwort2>
+            <falscheAntwort3>Wächter</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Warum ist der linke Lungenflügel etwas kleiner als der rechte Lungenflügel?</fragenText>
+            <richtigeAntwort>Er hat eine Einbuchtung, um Platz für das Herz zu machen.</richtigeAntwort>
+            <falscheAntwort1>Durch den linken Lungenflügel strömt nicht so viel Luft.</falscheAntwort1>
+            <falscheAntwort2>Er entwickelt sich etwas später.</falscheAntwort2>
+            <falscheAntwort3>Er hat eine Einbuchtung, um Platz für den Magen zu machen.</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches ist der längste Knochen im Körper?</fragenText>
+            <richtigeAntwort>der Oberschenkelknochen</richtigeAntwort>
+            <falscheAntwort1>der Unterarmknochen</falscheAntwort1>
+            <falscheAntwort2>der Oberarmknochen</falscheAntwort2>
+            <falscheAntwort3>das Wadenbein</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Verbindung zwischen Niere und Blase?</fragenText>
+            <richtigeAntwort>Harnleiter</richtigeAntwort>
+            <falscheAntwort1>Harntunnel</falscheAntwort1>
+            <falscheAntwort2>Harntreppe</falscheAntwort2>
+            <falscheAntwort3>Harnbrücke</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Menge an Flüssigkeit läuft täglich durch die Nieren?</fragenText>
+            <richtigeAntwort>ca. 180 Liter</richtigeAntwort>
+            <falscheAntwort1>ca. 90 Liter</falscheAntwort1>
+            <falscheAntwort2>ca. 120 Liter</falscheAntwort2>
+            <falscheAntwort3>ca. 35 Liter</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Organe sind dafür zuständig, körpereigenes Wasser sauber zu halten?</fragenText>
+            <richtigeAntwort>die Nieren</richtigeAntwort>
+            <falscheAntwort1>die Ohren</falscheAntwort1>
+            <falscheAntwort2>die Lungen</falscheAntwort2>
+            <falscheAntwort3>die Mandeln</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man ein kleines Stück Darm am Übergang vom Dünndarm in den Dickdarm, das sich manchmal entzündet?</fragenText>
+            <richtigeAntwort>Wurmfortsatz</richtigeAntwort>
+            <falscheAntwort1>Krummdarm</falscheAntwort1>
+            <falscheAntwort2>Blindarm</falscheAntwort2>
+            <falscheAntwort3>Käferbein</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Krankheit kann man bekommen, wenn die Bauchspeicheldrüse nicht mehr richtig funktioniert?</fragenText>
+            <richtigeAntwort>Diabetes</richtigeAntwort>
+            <falscheAntwort1>Dabolo</falscheAntwort1>
+            <falscheAntwort2>Diogenes</falscheAntwort2>
+            <falscheAntwort3>Diarama</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Hauptverdauungsdrüse beim Menschen, die ihre Säfte in den ersten Abschnitt des Darms abgibt?</fragenText>
+            <richtigeAntwort>Bauchspeicheldrüse</richtigeAntwort>
+            <falscheAntwort1>Bauchnebendrüse</falscheAntwort1>
+            <falscheAntwort2>Bauchsaftdrüse</falscheAntwort2>
+            <falscheAntwort3>Bauchhauptdrdüse</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das Darmstück, in das der Magen die Nahrung weiterleitet?</fragenText>
+            <richtigeAntwort>Zwölffingerdarm</richtigeAntwort>
+            <falscheAntwort1>Zehndaumendarm</falscheAntwort1>
+            <falscheAntwort2>Vierzehendarm</falscheAntwort2>
+            <falscheAntwort3>Neunhändedarm</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Organ dient vor allem dazu, Fett aufzuspalten und verdaulich zu machen?</fragenText>
+            <richtigeAntwort>die Galle</richtigeAntwort>
+            <falscheAntwort1>die Milz</falscheAntwort1>
+            <falscheAntwort2>die Niere</falscheAntwort2>
+            <falscheAntwort3>die Lunge</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wovon wird der gesamte Herzmuskel umspannt?</fragenText>
+            <richtigeAntwort>vom zweischichtigen Herzbeutel</richtigeAntwort>
+            <falscheAntwort1>vom dreifachen Herznetz</falscheAntwort1>
+            <falscheAntwort2>von der einlagigen Herzlederhaut</falscheAntwort2>
+            <falscheAntwort3>von der doppelten Herztüte</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie groß ist der Innendurchmesser der Aorta?</fragenText>
+            <richtigeAntwort>ca. 25 mm</richtigeAntwort>
+            <falscheAntwort1>ca. 35 mm</falscheAntwort1>
+            <falscheAntwort2>ca. 18 mm</falscheAntwort2>
+            <falscheAntwort3>ca. 12 mm</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der unterste Teil des Brustbeins?</fragenText>
+            <richtigeAntwort>Schwertfortsatz</richtigeAntwort>
+            <falscheAntwort1>Degenfortsatz</falscheAntwort1>
+            <falscheAntwort2>Messerfortsatz</falscheAntwort2>
+            <falscheAntwort3>Gabelfortsatz</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist am Eingang zum Mittelohr aufgespannt und bildet einen luftdichten Abschluss?</fragenText>
+            <richtigeAntwort>Trommelfell</richtigeAntwort>
+            <falscheAntwort1>Paukenfell</falscheAntwort1>
+            <falscheAntwort2>Zwerchfell</falscheAntwort2>
+            <falscheAntwort3>Kesselfell</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Zapfen gibt es in der Netzhaut?</fragenText>
+            <richtigeAntwort>ca. 7 Millionen</richtigeAntwort>
+            <falscheAntwort1>ca. 55 Millionen</falscheAntwort1>
+            <falscheAntwort2>ca. 120 Millionen</falscheAntwort2>
+            <falscheAntwort3>ca. 80 Millionen</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Haut gehört n i c h t zum Auge?</fragenText>
+            <richtigeAntwort>Fadenhaut</richtigeAntwort>
+            <falscheAntwort1>Lederhaut</falscheAntwort1>
+            <falscheAntwort2>Hornhaut</falscheAntwort2>
+            <falscheAntwort3>Bindehaut</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das Gehirnwasser, das in dem Raum zwischen Schädelknochen und Hirnoberfläche fließt?</fragenText>
+            <richtigeAntwort>Liquor</richtigeAntwort>
+            <falscheAntwort1>Sekt</falscheAntwort1>
+            <falscheAntwort2>Rum</falscheAntwort2>
+            <falscheAntwort3>Gin</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Milchzähne hat ein Kind?</fragenText>
+            <richtigeAntwort>20</richtigeAntwort>
+            <falscheAntwort1>18</falscheAntwort1>
+            <falscheAntwort2>16</falscheAntwort2>
+            <falscheAntwort3>24</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen die beiden Teile eines Zahnes?</fragenText>
+            <richtigeAntwort>Krone und Wurzel</richtigeAntwort>
+            <falscheAntwort1>Ast und Zweig</falscheAntwort1>
+            <falscheAntwort2>Stamm und Blatt</falscheAntwort2>
+            <falscheAntwort3>Rinde und Nadel</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo ist die Haut am dünnsten?</fragenText>
+            <richtigeAntwort>an den Augenlidern</richtigeAntwort>
+            <falscheAntwort1>am Ellenbogen</falscheAntwort1>
+            <falscheAntwort2>am kleinen Zeh</falscheAntwort2>
+            <falscheAntwort3>am Bauchnabel</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo befinden sich die Stimmbänder?</fragenText>
+            <richtigeAntwort>im Kehlkopf</richtigeAntwort>
+            <falscheAntwort1>neben der Speiseröhre</falscheAntwort1>
+            <falscheAntwort2>in der Nasenhöhle</falscheAntwort2>
+            <falscheAntwort3>unter dem Zwerchfell</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Drüse hilft bei der Regulierung des Körperwachstums?</fragenText>
+            <richtigeAntwort>Schilddrüse</richtigeAntwort>
+            <falscheAntwort1>Talgdrüse</falscheAntwort1>
+            <falscheAntwort2>Bauchspeicheldrüse</falscheAntwort2>
+            <falscheAntwort3>Speicheldrüse</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Knochen hat ein Fuß?</fragenText>
+            <richtigeAntwort>26</richtigeAntwort>
+            <falscheAntwort1>30</falscheAntwort1>
+            <falscheAntwort2>28</falscheAntwort2>
+            <falscheAntwort3>32</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen die Knochen des Unterarmes?</fragenText>
+            <richtigeAntwort>Speiche und Elle</richtigeAntwort>
+            <falscheAntwort1>Felge und Stab</falscheAntwort1>
+            <falscheAntwort2>Bogen und Faden</falscheAntwort2>
+            <falscheAntwort3>Stock und Haken</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was geschieht mit den verwertbaren Bestandteilen der Nahrung im Darm?</fragenText>
+            <richtigeAntwort>Sie werden ans Blut abgegeben.</richtigeAntwort>
+            <falscheAntwort1>Sie werden ausgeschieden.</falscheAntwort1>
+            <falscheAntwort2>Sie werden im Darm gespeichert.</falscheAntwort2>
+            <falscheAntwort3>Sie werden zum Magen transportiert.</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die vielen verschiedenen Stoffe, die im Verdauungstrakt produziert werden, um die Nahrung aufzuspalten?</fragenText>
+            <richtigeAntwort>Enzyme</richtigeAntwort>
+            <falscheAntwort1>Zypressen</falscheAntwort1>
+            <falscheAntwort2>Phosphate</falscheAntwort2>
+            <falscheAntwort3>Vitamine</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die ätzende Flüssigkeit, die von der Magenschleimhaut produziert wird?</fragenText>
+            <richtigeAntwort>Salzsäure</richtigeAntwort>
+            <falscheAntwort1>Pfeffersäure</falscheAntwort1>
+            <falscheAntwort2>Zuckersäure</falscheAntwort2>
+            <falscheAntwort3>Zimtsäure</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Knet- und Vorwärtsbewegung im Magen oder im Darm, die den Speisebrei befördert?</fragenText>
+            <richtigeAntwort>Peristaltik</richtigeAntwort>
+            <falscheAntwort1>Hydraulik</falscheAntwort1>
+            <falscheAntwort2>Magenta</falscheAntwort2>
+            <falscheAntwort3>Motorik</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Liter Nahrung kann der Magen aufnehmen?</fragenText>
+            <richtigeAntwort>bis zu 2,5 l</richtigeAntwort>
+            <falscheAntwort1>ca. 0,5 l</falscheAntwort1>
+            <falscheAntwort2>1 - 2 l</falscheAntwort2>
+            <falscheAntwort3>1,75 l</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie ist der Unterkiefer mit dem Oberkiefer verbunden?</fragenText>
+            <richtigeAntwort>Sie halten durch Gelenke zusammen.</richtigeAntwort>
+            <falscheAntwort1>Sie sind durch zwei feste Bänder verbunden.</falscheAntwort1>
+            <falscheAntwort2>Sie sind zusammengewachsen.</falscheAntwort2>
+            <falscheAntwort3>Sie sind durch zahlreiche, feine Sehnen miteinander verbunden.</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man das weichere Innere des Zahnes?</fragenText>
+            <richtigeAntwort>Zahnmark</richtigeAntwort>
+            <falscheAntwort1>Zahnstein</falscheAntwort1>
+            <falscheAntwort2>Zahnschmelz</falscheAntwort2>
+            <falscheAntwort3>Zahnbrei</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Knochen gehört zur Hand?</fragenText>
+            <richtigeAntwort>Erbsenbein</richtigeAntwort>
+            <falscheAntwort1>Möhrenbein</falscheAntwort1>
+            <falscheAntwort2>Bohnenbein</falscheAntwort2>
+            <falscheAntwort3>Maisbein</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der lange Knochen, der von der Schulter bis zum Brustbein reicht?</fragenText>
+            <richtigeAntwort>Schlüsselbein</richtigeAntwort>
+            <falscheAntwort1>Schlussbein</falscheAntwort1>
+            <falscheAntwort2>Schlossbein</falscheAntwort2>
+            <falscheAntwort3>Klingelbein</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der zweite Halswirbel von oben, der so gebaut ist, dass man den Kopf drehen kann?</fragenText>
+            <richtigeAntwort>Axis</richtigeAntwort>
+            <falscheAntwort1>Asia</falscheAntwort1>
+            <falscheAntwort2>Atlas</falscheAntwort2>
+            <falscheAntwort3>Ayers</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der erste (oberste) Halswirbel?</fragenText>
+            <richtigeAntwort>Atlas</richtigeAntwort>
+            <falscheAntwort1>Alex</falscheAntwort1>
+            <falscheAntwort2>Axis</falscheAntwort2>
+            <falscheAntwort3>Axion</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Polster zwischen den einzelnen Wirbeln?</fragenText>
+            <richtigeAntwort>Bandscheiben</richtigeAntwort>
+            <falscheAntwort1>Drehgelenke</falscheAntwort1>
+            <falscheAntwort2>Schnurscheiben</falscheAntwort2>
+            <falscheAntwort3>Dornfortsätze</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist eine Fontanelle?</fragenText>
+            <richtigeAntwort>das Loch in der Schädeldecke eines Säuglings, das nur durch Haut geschützt ist</richtigeAntwort>
+            <falscheAntwort1>eine schmerzhafte Verdickung der Speiseröhre</falscheAntwort1>
+            <falscheAntwort2>eine einzelne Zelle im Hirnstamm, die für die Gefühle verantwortlich ist</falscheAntwort2>
+            <falscheAntwort3>eine angebrochene Rippe</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man das Loch in der Schädeldecke eines Säuglings, das nur durch Haut geschützt ist?</fragenText>
+            <richtigeAntwort>Fontanelle</richtigeAntwort>
+            <falscheAntwort1>Bagatelle</falscheAntwort1>
+            <falscheAntwort2>Pimpanelle</falscheAntwort2>
+            <falscheAntwort3>Grisuzelle</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man das elastische Stützgewebe, das sich an den Gelenken, in der Ohrmuschel oder in den Zwischenwirbeln befindet?</fragenText>
+            <richtigeAntwort>Knorpel</richtigeAntwort>
+            <falscheAntwort1>Gelenkschmiere</falscheAntwort1>
+            <falscheAntwort2>Fettgewebe</falscheAntwort2>
+            <falscheAntwort3>Knochenmark</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man es, wenn sich das Zwerchfell ruckartig zusammenzieht?</fragenText>
+            <richtigeAntwort>Schluckauf</richtigeAntwort>
+            <falscheAntwort1>Niesen</falscheAntwort1>
+            <falscheAntwort2>Schluckab</falscheAntwort2>
+            <falscheAntwort3>Gähnen</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo liegen auf der Zunge die Geschmacksknospen, die auf süßen Geschmack reagieren?</fragenText>
+            <richtigeAntwort>ganz vorne</richtigeAntwort>
+            <falscheAntwort1>in der Mitte</falscheAntwort1>
+            <falscheAntwort2>ganz hinten</falscheAntwort2>
+            <falscheAntwort3>an der rechten Seite</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was sondert der Körper an entzündeten Stellen ab?</fragenText>
+            <richtigeAntwort>Eiter</richtigeAntwort>
+            <falscheAntwort1>Hormone</falscheAntwort1>
+            <falscheAntwort2>Blut</falscheAntwort2>
+            <falscheAntwort3>Talg</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das Abtöten von Krankheitserregern?</fragenText>
+            <richtigeAntwort>Desinfektion</richtigeAntwort>
+            <falscheAntwort1>Destillation</falscheAntwort1>
+            <falscheAntwort2>Detonation</falscheAntwort2>
+            <falscheAntwort3>Denunziation</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Vereinigung einer männlichen und einer weiblichen Geschlechtszelle?</fragenText>
+            <richtigeAntwort>Befruchtung</richtigeAntwort>
+            <falscheAntwort1>Fortpflanzung</falscheAntwort1>
+            <falscheAntwort2>Geschlechtsverkehr</falscheAntwort2>
+            <falscheAntwort3>Pubertät</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Krankheit, die das Gehirn befällt und dort einen schleichenden Verfall bewirkt?</fragenText>
+            <richtigeAntwort>Alzheimer</richtigeAntwort>
+            <falscheAntwort1>Tuberkulose</falscheAntwort1>
+            <falscheAntwort2>Diabetes</falscheAntwort2>
+            <falscheAntwort3>Meningitis</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Anteil aller Knochen unseres Körpers enthalten Hände und Füße?</fragenText>
+            <richtigeAntwort>mehr als die Hälfte</richtigeAntwort>
+            <falscheAntwort1>genau ein Viertel</falscheAntwort1>
+            <falscheAntwort2>etwa ein Drittel</falscheAntwort2>
+            <falscheAntwort3>ungefähr ein Zehntel</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Teil des Ohres hilft uns, das Gleichgewicht zu halten?</fragenText>
+            <richtigeAntwort>die Bogengänge</richtigeAntwort>
+            <falscheAntwort1>das Trommelfell</falscheAntwort1>
+            <falscheAntwort2>der Steigbügel</falscheAntwort2>
+            <falscheAntwort3>die Zügel</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie ändert sich die Farbe der Haut, wenn wir frieren?</fragenText>
+            <richtigeAntwort>Sie wird blass.</richtigeAntwort>
+            <falscheAntwort1>Sie wird schwärzlich.</falscheAntwort1>
+            <falscheAntwort2>Sie wird rötlich.</falscheAntwort2>
+            <falscheAntwort3>Sie wird grünlich.</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Strahlen, mit denen man ins Körperinnere sehen kann?</fragenText>
+            <richtigeAntwort>Röntgenstrahlen</richtigeAntwort>
+            <falscheAntwort1>Infrarotstrahlen</falscheAntwort1>
+            <falscheAntwort2>Laserstrahlen</falscheAntwort2>
+            <falscheAntwort3>Gammastrahlen</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das chinesische Heilverfahren, bei dem Nadeln an bestimmten Körperstellen eingestochen werden?</fragenText>
+            <richtigeAntwort>Akupunktur</richtigeAntwort>
+            <falscheAntwort1>Akumulator</falscheAntwort1>
+            <falscheAntwort2>Akupressur</falscheAntwort2>
+            <falscheAntwort3>Akustik</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Teil des Gehirns ist für die rechte Körperseite zuständig?</fragenText>
+            <richtigeAntwort>die linke Gehirnhälfte</richtigeAntwort>
+            <falscheAntwort1>die vordere Gehirnhälfte</falscheAntwort1>
+            <falscheAntwort2>die rechte Gehirnhälfte</falscheAntwort2>
+            <falscheAntwort3>die hintere Gehirnhälfte</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Wissenschaft, die die Lebensvorgänge und die Funktion der Organe untersucht?</fragenText>
+            <richtigeAntwort>Physiologie</richtigeAntwort>
+            <falscheAntwort1>Pathologie</falscheAntwort1>
+            <falscheAntwort2>Psychologie</falscheAntwort2>
+            <falscheAntwort3>Pädagogoik</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was verbindet Rachen und Mageneingang?</fragenText>
+            <richtigeAntwort>Speiseröhre</richtigeAntwort>
+            <falscheAntwort1>Nahrungsschacht</falscheAntwort1>
+            <falscheAntwort2>Essenskanal</falscheAntwort2>
+            <falscheAntwort3>Futterbrücke</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lange können wir pro Tag wegen des Lidschlages nichts sehen?</fragenText>
+            <richtigeAntwort>30 Minuten</richtigeAntwort>
+            <falscheAntwort1>5 Minuten</falscheAntwort1>
+            <falscheAntwort2>1 Stunde</falscheAntwort2>
+            <falscheAntwort3>15 Minuten</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>An welchen Stellen des Körpers ist die Haut unempfindlicher?</fragenText>
+            <richtigeAntwort>Rücken</richtigeAntwort>
+            <falscheAntwort1>Zehen</falscheAntwort1>
+            <falscheAntwort2>Finger</falscheAntwort2>
+            <falscheAntwort3>Lippen</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was schützt das Ohr vor Schmutz und Bakterien?</fragenText>
+            <richtigeAntwort>Ohrenschmalz</richtigeAntwort>
+            <falscheAntwort1>Ohrenmargarine</falscheAntwort1>
+            <falscheAntwort2>Ohrenbutter</falscheAntwort2>
+            <falscheAntwort3>Ohrenöl</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Womit werden die Wirbel der Wirbelsäule zusammengehalten?</fragenText>
+            <richtigeAntwort>durch Bandscheiben und Bänder</richtigeAntwort>
+            <falscheAntwort1>durch Knorpel und Muskeln</falscheAntwort1>
+            <falscheAntwort2>durch elastische Knochen und Sehnen</falscheAntwort2>
+            <falscheAntwort3>durch Leukozyten und Neuronen</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus wie vielen beweglichen Wirbeln besteht unsere Wirbelsäule?</fragenText>
+            <richtigeAntwort>24</richtigeAntwort>
+            <falscheAntwort1>12</falscheAntwort1>
+            <falscheAntwort2>18</falscheAntwort2>
+            <falscheAntwort3>48</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Mit welcher Gruppe von Zähnen wird die Nahrung zermahlen?</fragenText>
+            <richtigeAntwort>mit den Backenzähnen</richtigeAntwort>
+            <falscheAntwort1>mit den Schneidezähnen</falscheAntwort1>
+            <falscheAntwort2>mit den Eckzähnen</falscheAntwort2>
+            <falscheAntwort3>mit den Weisheitszähnen</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Muskeln enthält der menschliche Körper?</fragenText>
+            <richtigeAntwort>ca. 150</richtigeAntwort>
+            <falscheAntwort1>ca. 290</falscheAntwort1>
+            <falscheAntwort2>300 - 500</falscheAntwort2>
+            <falscheAntwort3>über 600</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo im Körper der Frau befinden sich die Eizellen?</fragenText>
+            <richtigeAntwort>in den Eierstöcken</richtigeAntwort>
+            <falscheAntwort1>in der Gebärmutter</falscheAntwort1>
+            <falscheAntwort2>im Eileiter</falscheAntwort2>
+            <falscheAntwort3>in den Eiertaschen</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viel Blut enthält der menschliche Körper?</fragenText>
+            <richtigeAntwort>ca. 5 l</richtigeAntwort>
+            <falscheAntwort1>ca. 3 l</falscheAntwort1>
+            <falscheAntwort2>ca. 2 l</falscheAntwort2>
+            <falscheAntwort3>ca. 9 l</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das Gas, das als Abfallprodukt bei unserer Atmung entsteht?</fragenText>
+            <richtigeAntwort>Kohlendioxid</richtigeAntwort>
+            <falscheAntwort1>Kohlenmonoxid</falscheAntwort1>
+            <falscheAntwort2>Kohlenhydrat</falscheAntwort2>
+            <falscheAntwort3>Kohlenwasserstoff</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wofür sind die Neuronen zuständig?</fragenText>
+            <richtigeAntwort>für die Übermittlung von Nachrichten</richtigeAntwort>
+            <falscheAntwort1>für den Sauerstofftransport</falscheAntwort1>
+            <falscheAntwort2>für die Blutgerinnung</falscheAntwort2>
+            <falscheAntwort3>für das Haarwachstum</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Zellen, die im Körper für die Übermittlung von Nachrichten zuständig sind?</fragenText>
+            <richtigeAntwort>Neuronen</richtigeAntwort>
+            <falscheAntwort1>Arterien</falscheAntwort1>
+            <falscheAntwort2>Leukozyten</falscheAntwort2>
+            <falscheAntwort3>Plutonen</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Hormon ist für die Regulierung des Blutzuckerspiegels zuständig?</fragenText>
+            <richtigeAntwort>Insulin</richtigeAntwort>
+            <falscheAntwort1>Adrenalin</falscheAntwort1>
+            <falscheAntwort2>Sacharin</falscheAntwort2>
+            <falscheAntwort3>Bergolin</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wofür ist das Hormon Insulin zuständig?</fragenText>
+            <richtigeAntwort>für die Regulierung des Blutzuckerspiegels</richtigeAntwort>
+            <falscheAntwort1>für das Knochenwachstum</falscheAntwort1>
+            <falscheAntwort2>für die Regulierung der Atemfrequenz</falscheAntwort2>
+            <falscheAntwort3>für die Stärkung des Immunsystems</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viel Prozent unseres Gewichts machen die Muskeln aus?</fragenText>
+            <richtigeAntwort>ca. 40 %</richtigeAntwort>
+            <falscheAntwort1>ca. 60 %</falscheAntwort1>
+            <falscheAntwort2>ca. 50 %</falscheAntwort2>
+            <falscheAntwort3>ca. 70 %</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Aufgabe haben die weißen Blutkörperchen?</fragenText>
+            <richtigeAntwort>Sie bekämpfen Krankheitserreger.</richtigeAntwort>
+            <falscheAntwort1>Sie verursachen die Blutgerinnung.</falscheAntwort1>
+            <falscheAntwort2>Sie transportieren den Sauerstoff.</falscheAntwort2>
+            <falscheAntwort3>Sie verdünnen das Blut, damit es besser fließen kann.</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus wie vielen Knochen besteht das menschliche Skelett?</fragenText>
+            <richtigeAntwort>206</richtigeAntwort>
+            <falscheAntwort1>104</falscheAntwort1>
+            <falscheAntwort2>308</falscheAntwort2>
+            <falscheAntwort3>410</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Haare hat der Mensch auf dem Kopf?</fragenText>
+            <richtigeAntwort>80.000 - 140.000</richtigeAntwort>
+            <falscheAntwort1>140.000 - 200.000</falscheAntwort1>
+            <falscheAntwort2>50.000 - 80.000</falscheAntwort2>
+            <falscheAntwort3>200.000 - 300.000</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lange dauert es, bis die Fingernägel 1mm gewachsen sind?</fragenText>
+            <richtigeAntwort>ca. 10 -12 Tage</richtigeAntwort>
+            <falscheAntwort1>ca. 3 Wochen</falscheAntwort1>
+            <falscheAntwort2>3 - 4 Tage</falscheAntwort2>
+            <falscheAntwort3>1 Monat</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Schweißdrüsen hat die Haut?</fragenText>
+            <richtigeAntwort>ca. 2 Millionen</richtigeAntwort>
+            <falscheAntwort1>ca. 3 Millionen</falscheAntwort1>
+            <falscheAntwort2>ca. 1 Million</falscheAntwort2>
+            <falscheAntwort3>ca. 4 Millionen</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In wie vielen Tagen wachsen die Wimpern um ihre eigene Länge nach?</fragenText>
+            <richtigeAntwort>ca. 100</richtigeAntwort>
+            <falscheAntwort1>ca. 200</falscheAntwort1>
+            <falscheAntwort2>ca. 50</falscheAntwort2>
+            <falscheAntwort3>ca. 300</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Farbe haben die äußeren Gehirnzellen?</fragenText>
+            <richtigeAntwort>grau</richtigeAntwort>
+            <falscheAntwort1>rot</falscheAntwort1>
+            <falscheAntwort2>weiß</falscheAntwort2>
+            <falscheAntwort3>blau</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Muskelpaare hat die Frau?</fragenText>
+            <richtigeAntwort>315</richtigeAntwort>
+            <falscheAntwort1>245</falscheAntwort1>
+            <falscheAntwort2>295</falscheAntwort2>
+            <falscheAntwort3>213</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Muskelpaare hat der Mann?</fragenText>
+            <richtigeAntwort>316</richtigeAntwort>
+            <falscheAntwort1>378</falscheAntwort1>
+            <falscheAntwort2>288</falscheAntwort2>
+            <falscheAntwort3>232</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann fallen die Milchzähne aus?</fragenText>
+            <richtigeAntwort>im Alter von 6 - 7 Jahren</richtigeAntwort>
+            <falscheAntwort1>im Alter von 8 - 9 Jahren</falscheAntwort1>
+            <falscheAntwort2>im Alter von 4 - 5 Jahren</falscheAntwort2>
+            <falscheAntwort3>im Alter von 9 - 11 Jahren</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen die Blutgefäße, die das Blut zum Herzen zurückführen?</fragenText>
+            <richtigeAntwort>Venen</richtigeAntwort>
+            <falscheAntwort1>Vasen</falscheAntwort1>
+            <falscheAntwort2>Arterien</falscheAntwort2>
+            <falscheAntwort3>Turkmenen</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen die Blutgefäße, die das sauerstoffreiche Blut vom Herzen wegführen?</fragenText>
+            <richtigeAntwort>Arterien</richtigeAntwort>
+            <falscheAntwort1>Venen</falscheAntwort1>
+            <falscheAntwort2>Alveolen</falscheAntwort2>
+            <falscheAntwort3>Artillen</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Warum hört sich die eigene Stimme fremd an, wenn sie vom Rekorder kommt?</fragenText>
+            <richtigeAntwort>die Schallwellen erreichen einen nur durch die Luft und nicht auch durch die Schädelknochen</richtigeAntwort>
+            <falscheAntwort1>die Schallwellen können mit dem Rekorder laut und leise gestellt werden</falscheAntwort1>
+            <falscheAntwort2>die Schallwellen werden durch den Rekorder verstärkt</falscheAntwort2>
+            <falscheAntwort3>die Schallwellen treffen oft nur auf ein Ohr</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Teil unseres Gehirns steuert die Atmung?</fragenText>
+            <richtigeAntwort>der Hirnstamm</richtigeAntwort>
+            <falscheAntwort1>das Kleinhirn</falscheAntwort1>
+            <falscheAntwort2>das Großhirn</falscheAntwort2>
+            <falscheAntwort3>das Mittelhirn</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viel Prozent des Sauerstoffs, den wir einatmen, verbraucht unser Gehirn?</fragenText>
+            <richtigeAntwort>ca. 20 Prozent</richtigeAntwort>
+            <falscheAntwort1>ca. 10 Prozent</falscheAntwort1>
+            <falscheAntwort2>ca. 30 Prozent</falscheAntwort2>
+            <falscheAntwort3>ca. 40 Prozent</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Bestandteil des Blutes ist für den Transport von Sauerstoff zuständig?</fragenText>
+            <richtigeAntwort>die roten Blutkörperchen</richtigeAntwort>
+            <falscheAntwort1>die Blutplättchen</falscheAntwort1>
+            <falscheAntwort2>die weißen Blutkörperchen</falscheAntwort2>
+            <falscheAntwort3>das Hämoglobin</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer braucht am meisten Schlaf?</fragenText>
+            <richtigeAntwort>ein Säugling</richtigeAntwort>
+            <falscheAntwort1>ein alter Mensch</falscheAntwort1>
+            <falscheAntwort2>ein Jugendlicher</falscheAntwort2>
+            <falscheAntwort3>ein Beamter</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist das größte Organ des Körpers?</fragenText>
+            <richtigeAntwort>Haut</richtigeAntwort>
+            <falscheAntwort1>Leber</falscheAntwort1>
+            <falscheAntwort2>Herz</falscheAntwort2>
+            <falscheAntwort3>Lunge</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wofür ist Melanin verantwortlich?</fragenText>
+            <richtigeAntwort>für die Augen-, Haut- und Haarfarbe</richtigeAntwort>
+            <falscheAntwort1>für die Verdauung</falscheAntwort1>
+            <falscheAntwort2>für das Wachstum</falscheAntwort2>
+            <falscheAntwort3>für die Blutgerinnung</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Stoff ist für die Haarfarbe verantwortlich?</fragenText>
+            <richtigeAntwort>Melanin</richtigeAntwort>
+            <falscheAntwort1>Thrombin</falscheAntwort1>
+            <falscheAntwort2>Adrenalin</falscheAntwort2>
+            <falscheAntwort3>Kerubim</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Muskeln braucht man zum Lächeln?</fragenText>
+            <richtigeAntwort>ca. 30</richtigeAntwort>
+            <falscheAntwort1>ca. 10</falscheAntwort1>
+            <falscheAntwort2>ca. 20</falscheAntwort2>
+            <falscheAntwort3>ca. 40</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Gegen welche Krankheit wurde der erste Impfstoff gefunden?</fragenText>
+            <richtigeAntwort>Pocken</richtigeAntwort>
+            <falscheAntwort1>Tuberkulose</falscheAntwort1>
+            <falscheAntwort2>Aids</falscheAntwort2>
+            <falscheAntwort3>Malaria</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann wurde der erste Impfstoff gefunden?</fragenText>
+            <richtigeAntwort>1796</richtigeAntwort>
+            <falscheAntwort1>1911</falscheAntwort1>
+            <falscheAntwort2>1643</falscheAntwort2>
+            <falscheAntwort3>1834</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele verschiedene Blutgruppen gibt es?</fragenText>
+            <richtigeAntwort>4</richtigeAntwort>
+            <falscheAntwort1>3</falscheAntwort1>
+            <falscheAntwort2>2</falscheAntwort2>
+            <falscheAntwort3>5</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viel Blut pumpt das Herz bei jedem Schlag in die Arterien?</fragenText>
+            <richtigeAntwort>70 Milliliter</richtigeAntwort>
+            <falscheAntwort1>500 Milliliter</falscheAntwort1>
+            <falscheAntwort2>150 Milliliter</falscheAntwort2>
+            <falscheAntwort3>10 Milliliter</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die chemischen Botenstoffe im Körper?</fragenText>
+            <richtigeAntwort>Hormone</richtigeAntwort>
+            <falscheAntwort1>Chromosomen</falscheAntwort1>
+            <falscheAntwort2>Proteine</falscheAntwort2>
+            <falscheAntwort3>Leukozyten</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist die härteste Substanz im Körper?</fragenText>
+            <richtigeAntwort>Zähne</richtigeAntwort>
+            <falscheAntwort1>Knochen</falscheAntwort1>
+            <falscheAntwort2>Fingernägel</falscheAntwort2>
+            <falscheAntwort3>Muskeln</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was geschieht, wenn über einen längeren Zeitraum auf einem Nerv im Bein Druck ausgeübt wird?</fragenText>
+            <richtigeAntwort>Es schläft ein.</richtigeAntwort>
+            <falscheAntwort1>Es wird dünner.</falscheAntwort1>
+            <falscheAntwort2>Es wird dicker.</falscheAntwort2>
+            <falscheAntwort3>Es wird rot.</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die winzigen Lücken zwischen den einzelnen Neuronen, die überbrückt werden müssen?</fragenText>
+            <richtigeAntwort>Synapsen</richtigeAntwort>
+            <falscheAntwort1>Berberitze</falscheAntwort1>
+            <falscheAntwort2>Kollapse</falscheAntwort2>
+            <falscheAntwort3>Glukose</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Mit welcher Geschwindigkeit können die Nerven eine Nachricht durch den Körper weiterleiten?</fragenText>
+            <richtigeAntwort>ca. 90 km/h</richtigeAntwort>
+            <falscheAntwort1>ca. 30 km/h</falscheAntwort1>
+            <falscheAntwort2>ca. 60 km/h</falscheAntwort2>
+            <falscheAntwort3>ca. 15 km/h</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie oft wandern die roten Blutzellen durch den Körper, bevor sie nach ca. 120 Tagen absterben?</fragenText>
+            <richtigeAntwort>ca. 300.000 - mal</richtigeAntwort>
+            <falscheAntwort1>ca. 500.000 - mal</falscheAntwort1>
+            <falscheAntwort2>ca. 100.000 - mal</falscheAntwort2>
+            <falscheAntwort3>ca. 10.000 - mal</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Teil des Gehirns ist dafür zuständig, dass man sich z.B. Vokabeln merken kann?</fragenText>
+            <richtigeAntwort>Großhirn</richtigeAntwort>
+            <falscheAntwort1>Kleinhirn</falscheAntwort1>
+            <falscheAntwort2>Mittelhirn</falscheAntwort2>
+            <falscheAntwort3>Hirnstamm</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie wird der dicke Nervenstrang genannt, der die beiden Halbkugeln des Gehirns miteinander verbindet?</fragenText>
+            <richtigeAntwort>Balken</richtigeAntwort>
+            <falscheAntwort1>Stange</falscheAntwort1>
+            <falscheAntwort2>Brett</falscheAntwort2>
+            <falscheAntwort3>Stempel</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo befindet sich die Spinnwebenhaut?</fragenText>
+            <richtigeAntwort>über dem Gehirn</richtigeAntwort>
+            <falscheAntwort1>über dem Schulterblatt</falscheAntwort1>
+            <falscheAntwort2>unter dem Zwerchfell</falscheAntwort2>
+            <falscheAntwort3>am Oberschenkel</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele verschiedene Hirnhäute gibt es?</fragenText>
+            <richtigeAntwort>3</richtigeAntwort>
+            <falscheAntwort1>4</falscheAntwort1>
+            <falscheAntwort2>2</falscheAntwort2>
+            <falscheAntwort3>5</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen die Hüllen, die sich als Polsterung zwischen Schädel und Gehirn befinden?</fragenText>
+            <richtigeAntwort>Hirnhäute</richtigeAntwort>
+            <falscheAntwort1>Hirnkissen</falscheAntwort1>
+            <falscheAntwort2>Hirnpolster</falscheAntwort2>
+            <falscheAntwort3>Hirndecken</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Folgen haben sehr laute Geräusche für das Ohr?</fragenText>
+            <richtigeAntwort>Schwerhörigkeit</richtigeAntwort>
+            <falscheAntwort1>Mittelohrentzündung</falscheAntwort1>
+            <falscheAntwort2>Leichthörigkeit</falscheAntwort2>
+            <falscheAntwort3>das Ohrenschmalz verflüssigt sich</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Hörzellen befinden sich am cortischen Organ? (Dieses Organ nimmt den Schall auf.)</fragenText>
+            <richtigeAntwort>ca. 20.000</richtigeAntwort>
+            <falscheAntwort1>ca. 5.000</falscheAntwort1>
+            <falscheAntwort2>ca. 10.000</falscheAntwort2>
+            <falscheAntwort3>ca. 1.000</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das Organ, das den Schall tatsächlich aufnimmt?</fragenText>
+            <richtigeAntwort>das cortische Organ</richtigeAntwort>
+            <falscheAntwort1>das xeritische Organ</falscheAntwort1>
+            <falscheAntwort2>das monolithe Organ</falscheAntwort2>
+            <falscheAntwort3>das labiale Organ</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man den äußeren, sichtbaren Teil des Ohrs?</fragenText>
+            <richtigeAntwort>Ohrmuschel</richtigeAntwort>
+            <falscheAntwort1>Ohrqualle</falscheAntwort1>
+            <falscheAntwort2>Ohrschale</falscheAntwort2>
+            <falscheAntwort3>Ohrschnecke</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wofür ist der stammesgeschichtlich älteste Teil des Gehirns zuständig?</fragenText>
+            <richtigeAntwort>Atmung und Blutkreislauf</richtigeAntwort>
+            <falscheAntwort1>Wachstum und Gleichgewicht</falscheAntwort1>
+            <falscheAntwort2>Nahrungsaufnahme und Fortpflanzung</falscheAntwort2>
+            <falscheAntwort3>Sehen und Riechen</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der stammesgeschichtlich älteste Teil des Gehirns?</fragenText>
+            <richtigeAntwort>Hirnstamm</richtigeAntwort>
+            <falscheAntwort1>Großhirn</falscheAntwort1>
+            <falscheAntwort2>Kleinhirn</falscheAntwort2>
+            <falscheAntwort3>Hirnanhangdrüse</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Hirnnerven (Hauptnervenpaare) entspringen direkt am Gehirn?</fragenText>
+            <richtigeAntwort>12</richtigeAntwort>
+            <falscheAntwort1>8</falscheAntwort1>
+            <falscheAntwort2>10</falscheAntwort2>
+            <falscheAntwort3>6</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie schwer ist das menschliche Gehirn im Durchschnitt?</fragenText>
+            <richtigeAntwort>ca. 1.300 g</richtigeAntwort>
+            <falscheAntwort1>ca. 2 kg</falscheAntwort1>
+            <falscheAntwort2>ca. 900 g</falscheAntwort2>
+            <falscheAntwort3>500 - 800 g</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Von wo geht der Impuls aus, wenn man eine Tür schließen will?</fragenText>
+            <richtigeAntwort>vom Gehirn</richtigeAntwort>
+            <falscheAntwort1>vom Auge</falscheAntwort1>
+            <falscheAntwort2>von der Hand</falscheAntwort2>
+            <falscheAntwort3>vom Arm</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Das schwarze Sehloch wird auch Pupille genannt. Wie heißt dies aus dem Lateinischen übersetzt?</fragenText>
+            <richtigeAntwort>kleines Püppchen</richtigeAntwort>
+            <falscheAntwort1>kleiner Punkt</falscheAntwort1>
+            <falscheAntwort2>kleine Pille</falscheAntwort2>
+            <falscheAntwort3>kleines Mädchen</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man den Punkt auf der Netzhaut, der mit dem Sehnerv verbunden ist?</fragenText>
+            <richtigeAntwort>blinder Fleck</richtigeAntwort>
+            <falscheAntwort1>schwarzer Fleck</falscheAntwort1>
+            <falscheAntwort2>heller Fleck</falscheAntwort2>
+            <falscheAntwort3>runder Fleck</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Haut hinten im Auge, die die Lichtreize direkt an den Sehnerv weitergibt?</fragenText>
+            <richtigeAntwort>Netzhaut</richtigeAntwort>
+            <falscheAntwort1>Hornhaut</falscheAntwort1>
+            <falscheAntwort2>Lederhaut</falscheAntwort2>
+            <falscheAntwort3>Beutelhaut</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man das Auge, seiner Form entsprechend?</fragenText>
+            <richtigeAntwort>Augapfel</richtigeAntwort>
+            <falscheAntwort1>Augkirsche</falscheAntwort1>
+            <falscheAntwort2>Augbirne</falscheAntwort2>
+            <falscheAntwort3>Augbanane</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wofür ist der stammesgeschichtlich älteste Teil des Gehirns zuständig?</fragenText>
+            <richtigeAntwort>Atmung und Blutkreislauf</richtigeAntwort>
+            <falscheAntwort1>Wachstum und Gleichgewicht</falscheAntwort1>
+            <falscheAntwort2>Nahrungsaufnahme und Fortpflanzung</falscheAntwort2>
+            <falscheAntwort3>Sehen und Riechen</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Auf welche Haut des Auges trifft das Licht zuerst?</fragenText>
+            <richtigeAntwort>auf die Hornhaut</richtigeAntwort>
+            <falscheAntwort1>auf die Feinhaut</falscheAntwort1>
+            <falscheAntwort2>auf die Schutzhaut</falscheAntwort2>
+            <falscheAntwort3>auf die Netzhaut</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man das Pochen in den Arterien, das jeder Herzschlag erzeugt?</fragenText>
+            <richtigeAntwort>Puls</richtigeAntwort>
+            <falscheAntwort1>Muls</falscheAntwort1>
+            <falscheAntwort2>Sulz</falscheAntwort2>
+            <falscheAntwort3>Gruls</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Kammern hat das Herz?</fragenText>
+            <richtigeAntwort>4</richtigeAntwort>
+            <falscheAntwort1>6</falscheAntwort1>
+            <falscheAntwort2>2</falscheAntwort2>
+            <falscheAntwort3>8</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele verschiedene Geschmacksrichtungen können wir mit unserem Geschmackssinn unterscheiden?</fragenText>
+            <richtigeAntwort>4</richtigeAntwort>
+            <falscheAntwort1>8</falscheAntwort1>
+            <falscheAntwort2>6</falscheAntwort2>
+            <falscheAntwort3>10</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Woraus besteht die Nasenscheidewand im vorderen Teil?</fragenText>
+            <richtigeAntwort>Knorpel</richtigeAntwort>
+            <falscheAntwort1>Muskelgewebe</falscheAntwort1>
+            <falscheAntwort2>Knochen</falscheAntwort2>
+            <falscheAntwort3>Sehnen</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Es kann vorkommen, dass sich das Immunsystem gegen den eigenen Körper richtet oder harmlose Eindringlinge als gefährlich einstuft. Wie nennt man solche Erkrankungen?</fragenText>
+            <richtigeAntwort>Allergien</richtigeAntwort>
+            <falscheAntwort1>Röteln</falscheAntwort1>
+            <falscheAntwort2>Masern</falscheAntwort2>
+            <falscheAntwort3>Keuchhusten</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Schutzeinrichtung, die dem Körper hilft, Krankheiten abzuwehren?</fragenText>
+            <richtigeAntwort>Immunsystem</richtigeAntwort>
+            <falscheAntwort1>Gesundheitssystem</falscheAntwort1>
+            <falscheAntwort2>Schutzsystem</falscheAntwort2>
+            <falscheAntwort3>Emmonsystem</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche besonderen Wirkstoffe steuern zusammen mit dem Nervensystem den menschlichen Organismus?</fragenText>
+            <richtigeAntwort>Hormone</richtigeAntwort>
+            <falscheAntwort1>Tormone</falscheAntwort1>
+            <falscheAntwort2>Mormone</falscheAntwort2>
+            <falscheAntwort3>Bormone</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viel Blutzellen produziert das Knochenmark in einer Sekunde?</fragenText>
+            <richtigeAntwort>1 Millionen</richtigeAntwort>
+            <falscheAntwort1>250.000</falscheAntwort1>
+            <falscheAntwort2>500.000</falscheAntwort2>
+            <falscheAntwort3>100.000</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Organ werden abgestorbene rote Blutkörperchen aussortiert und zudem weiße Blutzellen gebildet?</fragenText>
+            <richtigeAntwort>in der Milz</richtigeAntwort>
+            <falscheAntwort1>in den Nieren</falscheAntwort1>
+            <falscheAntwort2>in der Leber</falscheAntwort2>
+            <falscheAntwort3>im Magen</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Farbe hat das Blut, wenn es den Sauerstoff an die Zellen abgegeben hat?</fragenText>
+            <richtigeAntwort>bläulich</richtigeAntwort>
+            <falscheAntwort1>grünlich</falscheAntwort1>
+            <falscheAntwort2>rötlich</falscheAntwort2>
+            <falscheAntwort3>gräulich</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Hauptschlagader?</fragenText>
+            <richtigeAntwort>Aorta</richtigeAntwort>
+            <falscheAntwort1>Cuirta</falscheAntwort1>
+            <falscheAntwort2>Beatra</falscheAntwort2>
+            <falscheAntwort3>Dourta</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Woraus bestehen Muskeln?</fragenText>
+            <richtigeAntwort>aus dicken Faserbündeln</richtigeAntwort>
+            <falscheAntwort1>aus einem einheitlichen Gewebe</falscheAntwort1>
+            <falscheAntwort2>aus übereinanderliegenden Schichten</falscheAntwort2>
+            <falscheAntwort3>aus biegsamen Knochen</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen die Blutgefäße, die das sauerstoffreiche Blut vom Herzen wegführen?</fragenText>
+            <richtigeAntwort>Arterien</richtigeAntwort>
+            <falscheAntwort1>Venen</falscheAntwort1>
+            <falscheAntwort2>Alveolen</falscheAntwort2>
+            <falscheAntwort3>Artillen</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

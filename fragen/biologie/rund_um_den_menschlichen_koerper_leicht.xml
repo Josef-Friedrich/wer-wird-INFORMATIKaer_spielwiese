@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Biologie</fach>
+    <thema>Rund um den menschlichen Körper</thema>
+    <autor>Manfred Hartisch</autor>
+    <anzahlFragen>61</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>Was sind Adern?</fragenText>
+            <richtigeAntwort>Blutbahnen</richtigeAntwort>
+            <falscheAntwort1>Sehnen</falscheAntwort1>
+            <falscheAntwort2>kleine Muskeln</falscheAntwort2>
+            <falscheAntwort3>große Knochen</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Knochen gibt es?</fragenText>
+            <richtigeAntwort>Kniescheibe</richtigeAntwort>
+            <falscheAntwort1>Knieteller</falscheAntwort1>
+            <falscheAntwort2>Kniebrett</falscheAntwort2>
+            <falscheAntwort3>Knietasse</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Blutbahnen?</fragenText>
+            <richtigeAntwort>Adern</richtigeAntwort>
+            <falscheAntwort1>Edern</falscheAntwort1>
+            <falscheAntwort2>Odern</falscheAntwort2>
+            <falscheAntwort3>Idern</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man den Knochenbau des Menschen?</fragenText>
+            <richtigeAntwort>Skelett</richtigeAntwort>
+            <falscheAntwort1>Skribent</falscheAntwort1>
+            <falscheAntwort2>Skalpell</falscheAntwort2>
+            <falscheAntwort3>Spinett</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man das Organ, das sich mit Urin füllt?</fragenText>
+            <richtigeAntwort>Blase</richtigeAntwort>
+            <falscheAntwort1>Beutel</falscheAntwort1>
+            <falscheAntwort2>Ballon</falscheAntwort2>
+            <falscheAntwort3>Becher</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man es, wenn man Luft aus dem Magen wieder durch die Speiseröhre ausstößt?</fragenText>
+            <richtigeAntwort>rülpsen</richtigeAntwort>
+            <falscheAntwort1>niesen</falscheAntwort1>
+            <falscheAntwort2>gähnen</falscheAntwort2>
+            <falscheAntwort3>schnarchen</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man den kleinsten Baustein, aus dem der Mensch besteht?</fragenText>
+            <richtigeAntwort>Zelle</richtigeAntwort>
+            <falscheAntwort1>Muskel</falscheAntwort1>
+            <falscheAntwort2>Knochen</falscheAntwort2>
+            <falscheAntwort3>Knorpel</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Womit sind die Muskeln an den Knochen verankert?</fragenText>
+            <richtigeAntwort>mit Sehnen</richtigeAntwort>
+            <falscheAntwort1>mit Bändern</falscheAntwort1>
+            <falscheAntwort2>mit Knorpeln</falscheAntwort2>
+            <falscheAntwort3>mit Drähten</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was passiert, wenn Luft aus dem Magen wieder in die Speiseröhre hochkommt?</fragenText>
+            <richtigeAntwort>Man muss aufstoßen.</richtigeAntwort>
+            <falscheAntwort1>Man muss weinen.</falscheAntwort1>
+            <falscheAntwort2>Man muss lachen.</falscheAntwort2>
+            <falscheAntwort3>Man wird rot.</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was wird man, wenn es im Gehirn kurzfristig zu einer Durchblutungsstörung kommt?</fragenText>
+            <richtigeAntwort>ohnmächtig</richtigeAntwort>
+            <falscheAntwort1>albern</falscheAntwort1>
+            <falscheAntwort2>munter</falscheAntwort2>
+            <falscheAntwort3>stark</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das Instrument, mit dem der Arzt das Herz abhört?</fragenText>
+            <richtigeAntwort>Stethoskop</richtigeAntwort>
+            <falscheAntwort1>Katalog</falscheAntwort1>
+            <falscheAntwort2>Mikroskop</falscheAntwort2>
+            <falscheAntwort3>Periskop</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was befindet sich über dem Racheneingang und verhindert, dass beim Essen Nahrung in die Nase gelangt?</fragenText>
+            <richtigeAntwort>das Zäpfchen</richtigeAntwort>
+            <falscheAntwort1>das Röllchen</falscheAntwort1>
+            <falscheAntwort2>das Stäbchen</falscheAntwort2>
+            <falscheAntwort3>das Häkchen</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist bei Kindern die häufigste chronische Krankheit?</fragenText>
+            <richtigeAntwort>Asthma</richtigeAntwort>
+            <falscheAntwort1>Röteln</falscheAntwort1>
+            <falscheAntwort2>Windpocken</falscheAntwort2>
+            <falscheAntwort3>Masern</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man den farbigen Muskelring im Auge?</fragenText>
+            <richtigeAntwort>Iris</richtigeAntwort>
+            <falscheAntwort1>Pia</falscheAntwort1>
+            <falscheAntwort2>Linda</falscheAntwort2>
+            <falscheAntwort3>Rosi</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Finger hat nur zwei Glieder?</fragenText>
+            <richtigeAntwort>Daumen</richtigeAntwort>
+            <falscheAntwort1>Zeigefinger</falscheAntwort1>
+            <falscheAntwort2>Mittelfinger</falscheAntwort2>
+            <falscheAntwort3>der kleine Finger</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo sitzt der Musikantenknochen?</fragenText>
+            <richtigeAntwort>am Ellenbogen</richtigeAntwort>
+            <falscheAntwort1>im Knie</falscheAntwort1>
+            <falscheAntwort2>im Ohr</falscheAntwort2>
+            <falscheAntwort3>an der Ferse</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Warum soll man nicht gleichzeitig sprechen und kauen?</fragenText>
+            <richtigeAntwort>weil man sich verschlucken kann</richtigeAntwort>
+            <falscheAntwort1>weil man dann keine Luft bekommt</falscheAntwort1>
+            <falscheAntwort2>weil so die Stimmbänder geschädigt werden</falscheAntwort2>
+            <falscheAntwort3>weil dann das Essen nicht schmeckt</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Bei welcher Sinneswahrnehmung ist das Riechen stark beteiligt?</fragenText>
+            <richtigeAntwort>beim Schmecken</richtigeAntwort>
+            <falscheAntwort1>beim Hören</falscheAntwort1>
+            <falscheAntwort2>beim Sehen</falscheAntwort2>
+            <falscheAntwort3>beim Fühlen</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Teil der Luft wird in der Lunge aufgenommen und an das Blut weitergegeben?</fragenText>
+            <richtigeAntwort>Sauerstoff</richtigeAntwort>
+            <falscheAntwort1>Kohlendioxid</falscheAntwort1>
+            <falscheAntwort2>Stickstoff</falscheAntwort2>
+            <falscheAntwort3>Schwefeldioxid</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Lungenflügel hat der Mensch?</fragenText>
+            <richtigeAntwort>2</richtigeAntwort>
+            <falscheAntwort1>4</falscheAntwort1>
+            <falscheAntwort2>3</falscheAntwort2>
+            <falscheAntwort3>5</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was hilft im hinteren Teil des Mundes Bakterien zu bekämpfen?</fragenText>
+            <richtigeAntwort>Mandeln</richtigeAntwort>
+            <falscheAntwort1>Rosinen</falscheAntwort1>
+            <falscheAntwort2>Nüsse</falscheAntwort2>
+            <falscheAntwort3>Pistazien</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Teil des Auges sorgt dafür, dass man scharf sehen kann?</fragenText>
+            <richtigeAntwort>Linse</richtigeAntwort>
+            <falscheAntwort1>Erbse</falscheAntwort1>
+            <falscheAntwort2>Bohne</falscheAntwort2>
+            <falscheAntwort3>Reis</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man eine überempfindliche Reaktion des Körpers gegen bestimmte Stoffe?</fragenText>
+            <richtigeAntwort>Allergie</richtigeAntwort>
+            <falscheAntwort1>Bronchitis</falscheAntwort1>
+            <falscheAntwort2>Anämie</falscheAntwort2>
+            <falscheAntwort3>Leukämie</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man erhöhte Körpertemperatur?</fragenText>
+            <richtigeAntwort>Fieber</richtigeAntwort>
+            <falscheAntwort1>Kieber</falscheAntwort1>
+            <falscheAntwort2>Zieber</falscheAntwort2>
+            <falscheAntwort3>Dieber</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ab welcher Temperatur wird Fieber gefährlich?</fragenText>
+            <richtigeAntwort>ab 40 Grad</richtigeAntwort>
+            <falscheAntwort1>ab 45 Grad</falscheAntwort1>
+            <falscheAntwort2>ab 38 Grad</falscheAntwort2>
+            <falscheAntwort3>ab 36 Grad</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lange dauert eine normale Schwangerschaft?</fragenText>
+            <richtigeAntwort>9 Monate</richtigeAntwort>
+            <falscheAntwort1>10 Monate</falscheAntwort1>
+            <falscheAntwort2>8 Monate</falscheAntwort2>
+            <falscheAntwort3>11 Monate</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Körperteil des Kindes wird normalerweise zuerst geboren?</fragenText>
+            <richtigeAntwort>der Kopf</richtigeAntwort>
+            <falscheAntwort1>das Bein</falscheAntwort1>
+            <falscheAntwort2>der Arm</falscheAntwort2>
+            <falscheAntwort3>der Po</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Warum verliert der Mensch die Milchzähne?</fragenText>
+            <richtigeAntwort>weil Menschenzähne nicht wachsen können</richtigeAntwort>
+            <falscheAntwort1>weil sie zu weich sind</falscheAntwort1>
+            <falscheAntwort2>weil sie zu lose sind</falscheAntwort2>
+            <falscheAntwort3>weil sie zu klein sind</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die ersten Zähne?</fragenText>
+            <richtigeAntwort>Milchzähne</richtigeAntwort>
+            <falscheAntwort1>Kaffeezähne</falscheAntwort1>
+            <falscheAntwort2>Kakaozähne</falscheAntwort2>
+            <falscheAntwort3>Teezähne</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was zeigt eine Gänsehaut an?</fragenText>
+            <richtigeAntwort>dass man friert</richtigeAntwort>
+            <falscheAntwort1>dass man neugierig ist</falscheAntwort1>
+            <falscheAntwort2>dass man schwitzt</falscheAntwort2>
+            <falscheAntwort3>dass man Langeweile hat</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Drüsen sorgen dafür, dass die Haut gefettet und somit geschmeidig bleibt?</fragenText>
+            <richtigeAntwort>Talgdrüsen</richtigeAntwort>
+            <falscheAntwort1>Bauchspeicheldrüse</falscheAntwort1>
+            <falscheAntwort2>Fettdrüsen</falscheAntwort2>
+            <falscheAntwort3>Schmalzdrüse</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man es, wenn sich winzige Muskeln, die mit den Hautvertiefungen, in denen die Haare wachsen verbunden sind, sich zusammenziehen, damit keine warme Luft entweicht?</fragenText>
+            <richtigeAntwort>Gänsehaut</richtigeAntwort>
+            <falscheAntwort1>Hühnerhaut</falscheAntwort1>
+            <falscheAntwort2>Entenhaut</falscheAntwort2>
+            <falscheAntwort3>Wachtelhaut</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt eine eitrige Entzündung am Augenlid?</fragenText>
+            <richtigeAntwort>Gerstenkorn</richtigeAntwort>
+            <falscheAntwort1>Maiskorn</falscheAntwort1>
+            <falscheAntwort2>Weizenkorn</falscheAntwort2>
+            <falscheAntwort3>Roggenkorn</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo ist die Haut am dicksten?</fragenText>
+            <richtigeAntwort>an den Fußsohlen</richtigeAntwort>
+            <falscheAntwort1>im Gesicht</falscheAntwort1>
+            <falscheAntwort2>an den Handflächen</falscheAntwort2>
+            <falscheAntwort3>am Popo</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wozu sind die Augenbrauen da?</fragenText>
+            <richtigeAntwort>Sie verhindern, dass Schweiß und Staub in die Augen gerät.</richtigeAntwort>
+            <falscheAntwort1>Sie sorgen dafür, dass eine Brille nicht drückt.</falscheAntwort1>
+            <falscheAntwort2>Sie werfen einen Schatten, damit es für die Pupille nicht zu hell ist.</falscheAntwort2>
+            <falscheAntwort3>Sie verschönern das Gesicht.</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches ist der längste Knochen im Körper?</fragenText>
+            <richtigeAntwort>der Oberschenkelknochen</richtigeAntwort>
+            <falscheAntwort1>der Unterarmknochen</falscheAntwort1>
+            <falscheAntwort2>der Oberarmknochen</falscheAntwort2>
+            <falscheAntwort3>das Wadenbein</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist am Eingang zum Mittelohr aufgespannt und bildet einen luftdichten Abschluss?</fragenText>
+            <richtigeAntwort>Trommelfell</richtigeAntwort>
+            <falscheAntwort1>Paukenfell</falscheAntwort1>
+            <falscheAntwort2>Zwerchfell</falscheAntwort2>
+            <falscheAntwort3>Kesselfell</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen die beiden Teile eines Zahnes?</fragenText>
+            <richtigeAntwort>Krone und Wurzel</richtigeAntwort>
+            <falscheAntwort1>Ast und Zweig</falscheAntwort1>
+            <falscheAntwort2>Stamm und Blatt</falscheAntwort2>
+            <falscheAntwort3>Rinde und Nadel</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo befinden sich die Stimmbänder?</fragenText>
+            <richtigeAntwort>im Kehlkopf</richtigeAntwort>
+            <falscheAntwort1>neben der Speiseröhre</falscheAntwort1>
+            <falscheAntwort2>in der Nasenhöhle</falscheAntwort2>
+            <falscheAntwort3>unter dem Zwerchfell</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen die Knochen des Unterarmes?</fragenText>
+            <richtigeAntwort>Speiche und Elle</richtigeAntwort>
+            <falscheAntwort1>Felge und Stab</falscheAntwort1>
+            <falscheAntwort2>Bogen und Faden</falscheAntwort2>
+            <falscheAntwort3>Stock und Haken</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die ätzende Flüssigkeit, die von der Magenschleimhaut produziert wird?</fragenText>
+            <richtigeAntwort>Salzsäure</richtigeAntwort>
+            <falscheAntwort1>Pfeffersäure</falscheAntwort1>
+            <falscheAntwort2>Zuckersäure</falscheAntwort2>
+            <falscheAntwort3>Zimtsäure</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man es, wenn sich das Zwerchfell ruckartig zusammenzieht?</fragenText>
+            <richtigeAntwort>Schluckauf</richtigeAntwort>
+            <falscheAntwort1>Niesen</falscheAntwort1>
+            <falscheAntwort2>Schluckab</falscheAntwort2>
+            <falscheAntwort3>Gähnen</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was sondert der Körper an entzündeten Stellen ab?</fragenText>
+            <richtigeAntwort>Eiter</richtigeAntwort>
+            <falscheAntwort1>Hormone</falscheAntwort1>
+            <falscheAntwort2>Blut</falscheAntwort2>
+            <falscheAntwort3>Talg</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das Abtöten von Krankheitserregern?</fragenText>
+            <richtigeAntwort>Desinfektion</richtigeAntwort>
+            <falscheAntwort1>Destillation</falscheAntwort1>
+            <falscheAntwort2>Detonation</falscheAntwort2>
+            <falscheAntwort3>Denunziation</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie ändert sich die Farbe der Haut, wenn wir frieren?</fragenText>
+            <richtigeAntwort>Sie wird blass.</richtigeAntwort>
+            <falscheAntwort1>Sie wird schwärzlich.</falscheAntwort1>
+            <falscheAntwort2>Sie wird rötlich.</falscheAntwort2>
+            <falscheAntwort3>Sie wird grünlich.</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Strahlen, mit denen man ins Körperinnere sehen kann?</fragenText>
+            <richtigeAntwort>Röntgenstrahlen</richtigeAntwort>
+            <falscheAntwort1>Infrarotstrahlen</falscheAntwort1>
+            <falscheAntwort2>Laserstrahlen</falscheAntwort2>
+            <falscheAntwort3>Gammastrahlen</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das chinesische Heilverfahren, bei dem Nadeln an bestimmten Körperstellen eingestochen werden?</fragenText>
+            <richtigeAntwort>Akupunktur</richtigeAntwort>
+            <falscheAntwort1>Akumulator</falscheAntwort1>
+            <falscheAntwort2>Akupressur</falscheAntwort2>
+            <falscheAntwort3>Akustik</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was verbindet Rachen und Mageneingang?</fragenText>
+            <richtigeAntwort>Speiseröhre</richtigeAntwort>
+            <falscheAntwort1>Nahrungsschacht</falscheAntwort1>
+            <falscheAntwort2>Essenskanal</falscheAntwort2>
+            <falscheAntwort3>Futterbrücke</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>An welchen Stellen des Körpers ist die Haut unempfindlicher?</fragenText>
+            <richtigeAntwort>Rücken</richtigeAntwort>
+            <falscheAntwort1>Zehen</falscheAntwort1>
+            <falscheAntwort2>Finger</falscheAntwort2>
+            <falscheAntwort3>Lippen</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was schützt das Ohr vor Schmutz und Bakterien?</fragenText>
+            <richtigeAntwort>Ohrenschmalz</richtigeAntwort>
+            <falscheAntwort1>Ohrenmargarine</falscheAntwort1>
+            <falscheAntwort2>Ohrenbutter</falscheAntwort2>
+            <falscheAntwort3>Ohrenöl</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Mit welcher Gruppe von Zähnen wird die Nahrung zermahlen?</fragenText>
+            <richtigeAntwort>mit den Backenzähnen</richtigeAntwort>
+            <falscheAntwort1>mit den Schneidezähnen</falscheAntwort1>
+            <falscheAntwort2>mit den Eckzähnen</falscheAntwort2>
+            <falscheAntwort3>mit den Weißheitszähnen</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viel Blut enthält der menschliche Körper?</fragenText>
+            <richtigeAntwort>ca. 5 l</richtigeAntwort>
+            <falscheAntwort1>ca. 3 l</falscheAntwort1>
+            <falscheAntwort2>ca. 2 l</falscheAntwort2>
+            <falscheAntwort3>ca. 9 l</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann fallen die Milchzähne aus?</fragenText>
+            <richtigeAntwort>im Alter von 6 - 7 Jahren</richtigeAntwort>
+            <falscheAntwort1>im Alter von 8 - 9 Jahren</falscheAntwort1>
+            <falscheAntwort2>im Alter von 4 - 5 Jahren</falscheAntwort2>
+            <falscheAntwort3>im Alter von 9 - 11 Jahren</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen die Blutgefäße, die das Blut zum Herzen zurückführen?</fragenText>
+            <richtigeAntwort>Venen</richtigeAntwort>
+            <falscheAntwort1>Vasen</falscheAntwort1>
+            <falscheAntwort2>Arterien</falscheAntwort2>
+            <falscheAntwort3>Turkmenen</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen die Blutgefäße, die das sauerstoffreiche Blut vom Herzen wegführen?</fragenText>
+            <richtigeAntwort>Arterien</richtigeAntwort>
+            <falscheAntwort1>Venen</falscheAntwort1>
+            <falscheAntwort2>Alveolen</falscheAntwort2>
+            <falscheAntwort3>Artillen</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer braucht am meisten Schlaf?</fragenText>
+            <richtigeAntwort>ein Säugling</richtigeAntwort>
+            <falscheAntwort1>ein alter Mensch</falscheAntwort1>
+            <falscheAntwort2>ein Jugendlicher</falscheAntwort2>
+            <falscheAntwort3>ein Beamter</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele verschiedene Blutgruppen gibt es?</fragenText>
+            <richtigeAntwort>4</richtigeAntwort>
+            <falscheAntwort1>3</falscheAntwort1>
+            <falscheAntwort2>2</falscheAntwort2>
+            <falscheAntwort3>5</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist die härteste Substanz im Körper?</fragenText>
+            <richtigeAntwort>Zähne</richtigeAntwort>
+            <falscheAntwort1>Knochen</falscheAntwort1>
+            <falscheAntwort2>Fingernägel</falscheAntwort2>
+            <falscheAntwort3>Muskeln</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man den äußeren, sichtbaren Teil des Ohrs?</fragenText>
+            <richtigeAntwort>Ohrmuschel</richtigeAntwort>
+            <falscheAntwort1>Ohrqualle</falscheAntwort1>
+            <falscheAntwort2>Ohrschale</falscheAntwort2>
+            <falscheAntwort3>Ohrschnecke</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man das Pochen in den Arterien, das jeder Herzschlag erzeugt?</fragenText>
+            <richtigeAntwort>Puls</richtigeAntwort>
+            <falscheAntwort1>Muls</falscheAntwort1>
+            <falscheAntwort2>Sulz</falscheAntwort2>
+            <falscheAntwort3>Gruls</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Woraus besteht die Nasenscheidewand im vorderen Teil?</fragenText>
+            <richtigeAntwort>Knorpel</richtigeAntwort>
+            <falscheAntwort1>Muskelgewebe</falscheAntwort1>
+            <falscheAntwort2>Knochen</falscheAntwort2>
+            <falscheAntwort3>Sehnen</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Biologie</fach>
+    <thema>Tierquiz 1</thema>
+    <autor>Manfred Hartisch, 5/2001</autor>
+    <anzahlFragen>27</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>Wer hat das Rotkäppchen gefressen?</fragenText>
+            <richtigeAntwort>Wolf</richtigeAntwort>
+            <falscheAntwort1>Tiger</falscheAntwort1>
+            <falscheAntwort2>Löwe</falscheAntwort2>
+            <falscheAntwort3>Fuchs</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In einem Kinderlied heißt es: „Fuchs du hast die .... gestohlen,“</fragenText>
+            <richtigeAntwort>Gans</richtigeAntwort>
+            <falscheAntwort1>Ente</falscheAntwort1>
+            <falscheAntwort2>Maus</falscheAntwort2>
+            <falscheAntwort3>Amsel</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Tier sitzt in einem Kinderlied in einer Grube?</fragenText>
+            <richtigeAntwort>Häschen</richtigeAntwort>
+            <falscheAntwort1>Mäuschen</falscheAntwort1>
+            <falscheAntwort2>Hündchen</falscheAntwort2>
+            <falscheAntwort3>Entchen</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Vorsicht, dieses Tier kann spucken !</fragenText>
+            <richtigeAntwort>Lama</richtigeAntwort>
+            <falscheAntwort1>Marienkäfer</falscheAntwort1>
+            <falscheAntwort2>Feldhase</falscheAntwort2>
+            <falscheAntwort3>Zebra</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Tier ist ein Vogel?</fragenText>
+            <richtigeAntwort>Neuntöter</richtigeAntwort>
+            <falscheAntwort1>Neunauge</falscheAntwort1>
+            <falscheAntwort2>Siebenschläfer</falscheAntwort2>
+            <falscheAntwort3>Einhorn</falscheAntwort3>
+            <schwierikeit>15</schwierikeit>
+            <schwierigkeitMin>15</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man ein junges Wildschwein?</fragenText>
+            <richtigeAntwort>Frischling</richtigeAntwort>
+            <falscheAntwort1>Ferkel</falscheAntwort1>
+            <falscheAntwort2>Säuchen</falscheAntwort2>
+            <falscheAntwort3>Schweinchen</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man ein junges Pferd?</fragenText>
+            <richtigeAntwort>Fohlen</richtigeAntwort>
+            <falscheAntwort1>Pferdchen</falscheAntwort1>
+            <falscheAntwort2>Hengst</falscheAntwort2>
+            <falscheAntwort3>Welpe</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man einen jungen Frosch?</fragenText>
+            <richtigeAntwort>Kaulquappe</richtigeAntwort>
+            <falscheAntwort1>Quaker</falscheAntwort1>
+            <falscheAntwort2>Fröschli</falscheAntwort2>
+            <falscheAntwort3>Quapperling</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man einen jungen Hund?</fragenText>
+            <richtigeAntwort>Welpe</richtigeAntwort>
+            <falscheAntwort1>Rüde</falscheAntwort1>
+            <falscheAntwort2>Willi</falscheAntwort2>
+            <falscheAntwort3>Dackel</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Vogel kann nicht fliegen?</fragenText>
+            <richtigeAntwort>Pinguin</richtigeAntwort>
+            <falscheAntwort1>Adler</falscheAntwort1>
+            <falscheAntwort2>Schwalbe</falscheAntwort2>
+            <falscheAntwort3>Fink</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Bär hat ein weißes fell?</fragenText>
+            <richtigeAntwort>Eisbär</richtigeAntwort>
+            <falscheAntwort1>Grizzly</falscheAntwort1>
+            <falscheAntwort2>Waschbär</falscheAntwort2>
+            <falscheAntwort3>Brummbär</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Höcker hat ein Dromedar?</fragenText>
+            <richtigeAntwort>1</richtigeAntwort>
+            <falscheAntwort1>0</falscheAntwort1>
+            <falscheAntwort2>3</falscheAntwort2>
+            <falscheAntwort3>2</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das männliche Pferd?</fragenText>
+            <richtigeAntwort>Hengst</richtigeAntwort>
+            <falscheAntwort1>Schimmel</falscheAntwort1>
+            <falscheAntwort2>Rappe</falscheAntwort2>
+            <falscheAntwort3>Stute</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist eine Anakonda?</fragenText>
+            <richtigeAntwort>eine Schlange</richtigeAntwort>
+            <falscheAntwort1>eine Raubkatze</falscheAntwort1>
+            <falscheAntwort2>eine Giftspinne</falscheAntwort2>
+            <falscheAntwort3>eine Möwenart</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Tier ist kein Säugetier?</fragenText>
+            <richtigeAntwort>Krokodil</richtigeAntwort>
+            <falscheAntwort1>Wal</falscheAntwort1>
+            <falscheAntwort2>Maus</falscheAntwort2>
+            <falscheAntwort3>Hund</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Tier ist ein Affe?</fragenText>
+            <richtigeAntwort>Pavian</richtigeAntwort>
+            <falscheAntwort1>Grobian</falscheAntwort1>
+            <falscheAntwort2>Pakistan</falscheAntwort2>
+            <falscheAntwort3>Florian</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie weit kann ein „Fliegender Fisch“ fliegen?</fragenText>
+            <richtigeAntwort>ca. 180 cm</richtigeAntwort>
+            <falscheAntwort1>ca. 18 Meter</falscheAntwort1>
+            <falscheAntwort2>ca. 180 Kilometer</falscheAntwort2>
+            <falscheAntwort3>ca. 8 mm</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Tier nennt man auch „Wüstenschiff“?</fragenText>
+            <richtigeAntwort>Kamel</richtigeAntwort>
+            <falscheAntwort1>Gazelle</falscheAntwort1>
+            <falscheAntwort2>Zebra</falscheAntwort2>
+            <falscheAntwort3>Wühlmaus</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Farbe hat die Giraffenzunge?</fragenText>
+            <richtigeAntwort>blau</richtigeAntwort>
+            <falscheAntwort1>rosa</falscheAntwort1>
+            <falscheAntwort2>grün</falscheAntwort2>
+            <falscheAntwort3>schwarz</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Beine hat eine Spinne?</fragenText>
+            <richtigeAntwort>8</richtigeAntwort>
+            <falscheAntwort1>6</falscheAntwort1>
+            <falscheAntwort2>4</falscheAntwort2>
+            <falscheAntwort3>2</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Tier ist ausgestorben?</fragenText>
+            <richtigeAntwort>Dinosaurier</richtigeAntwort>
+            <falscheAntwort1>Leguan</falscheAntwort1>
+            <falscheAntwort2>Krokodil</falscheAntwort2>
+            <falscheAntwort3>Lapatamos</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Hunderasse heißt auf deutsch „lecker - lecker“?</fragenText>
+            <richtigeAntwort>Chow - Chow</richtigeAntwort>
+            <falscheAntwort1>Pekinese</falscheAntwort1>
+            <falscheAntwort2>Dalmatiner</falscheAntwort2>
+            <falscheAntwort3>Spitz</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was für ein Tier ist der „Ara“?</fragenText>
+            <richtigeAntwort>ein Papagei</richtigeAntwort>
+            <falscheAntwort1>ein seltener Hirtenhund</falscheAntwort1>
+            <falscheAntwort2>ein scheuer Waldbewohner</falscheAntwort2>
+            <falscheAntwort3>ein gefährlicher Fleischfresser</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Vogel legt das kleinste Ei?</fragenText>
+            <richtigeAntwort>Kolibri</richtigeAntwort>
+            <falscheAntwort1>Amsel</falscheAntwort1>
+            <falscheAntwort2>Specht</falscheAntwort2>
+            <falscheAntwort3>Strauß</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Vogel legt seine Eier in fremde Nester?</fragenText>
+            <richtigeAntwort>Kuckuck</richtigeAntwort>
+            <falscheAntwort1>Habicht</falscheAntwort1>
+            <falscheAntwort2>Krähe</falscheAntwort2>
+            <falscheAntwort3>Rotkehlchen</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Tier hat keine Beine?</fragenText>
+            <richtigeAntwort>Schlange</richtigeAntwort>
+            <falscheAntwort1>Hund</falscheAntwort1>
+            <falscheAntwort2>Maus</falscheAntwort2>
+            <falscheAntwort3>Schmetterling</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das sagenhafte Tier, das in „Loch Ness“ leben soll?</fragenText>
+            <richtigeAntwort>Nessie</richtigeAntwort>
+            <falscheAntwort1>Lassie</falscheAntwort1>
+            <falscheAntwort2>Ressie</falscheAntwort2>
+            <falscheAntwort3>Urmel</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

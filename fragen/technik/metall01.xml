@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Technik</fach>
+    <thema>Metall</thema>
+    <autor>Andreas Karl / Joachim Siebler 7/2002</autor>
+    <anzahlFragen>56</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>Wie hoch ist die Temperatur beim Weichlöten?</fragenText>
+            <richtigeAntwort>unter 450°C</richtigeAntwort>
+            <falscheAntwort1>egal!</falscheAntwort1>
+            <falscheAntwort2>bis 600°C</falscheAntwort2>
+            <falscheAntwort3>über 900°C</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Das Flussmittel beim Löten ...</fragenText>
+            <richtigeAntwort>beseitigt und verhindert eine Metalloxydschicht.</richtigeAntwort>
+            <falscheAntwort1>macht die Löteflächen glatt.</falscheAntwort1>
+            <falscheAntwort2>beseitigt grobe Verschmutzungen.</falscheAntwort2>
+            <falscheAntwort3>macht die Beachtung der Lötspaltgröße überflüssig.</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der Lötspalt beim Löten soll sein:</fragenText>
+            <richtigeAntwort>0,05 - 0,25</richtigeAntwort>
+            <falscheAntwort1>unter 0,05 mm</falscheAntwort1>
+            <falscheAntwort2>0,3 - 0,6</falscheAntwort2>
+            <falscheAntwort3>ist ohne Bedeutung</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welcher Antwort wurde sowohl der Formelbuchstabe als auch die Maßeneinheit richtig zugeordnet?</fragenText>
+            <richtigeAntwort>Drehmoment M in Nm</richtigeAntwort>
+            <falscheAntwort1>Leistung P in kWh</falscheAntwort1>
+            <falscheAntwort2>Elektr. Arbeit in kW</falscheAntwort2>
+            <falscheAntwort3>Elektr. Spannung U in A</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Behauptung über den Keilwinkel eines Meißels ist richtig?</fragenText>
+            <richtigeAntwort>Je härter der Werkstoff, um so größer muss der Keilwinkel sein.</richtigeAntwort>
+            <falscheAntwort1>Der Keilwinkel ist abhängig von der Neigung des Meißels zum Werkstück.</falscheAntwort1>
+            <falscheAntwort2>Der Keilwinkel kann bei allen Werkstoffen gleich groß sein.</falscheAntwort2>
+            <falscheAntwort3>Der Keilwinkel ist für die Spanbildung verantwortlich.</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Warum werden Sägeblätter gewellt bzw. geschränkt?</fragenText>
+            <richtigeAntwort>Damit sich das Sägeblatt freischneidet und nicht klemmt.</richtigeAntwort>
+            <falscheAntwort1>Damit der Sägeschnitt nicht breiter als das Sägeblatt wird.</falscheAntwort1>
+            <falscheAntwort2>Damit möglichst lange Fließspäne entstehen.</falscheAntwort2>
+            <falscheAntwort3>Um auch dünne Bleche hochkannt durchsägen zu können.</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Reibahlen verwendet man zum...</fragenText>
+            <richtigeAntwort>Glätten einer Bohrung.</richtigeAntwort>
+            <falscheAntwort1>Entrgraten.</falscheAntwort1>
+            <falscheAntwort2>Zentrieren einer Bohrung.</falscheAntwort2>
+            <falscheAntwort3>Senken.</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Senker gibt es?</fragenText>
+            <richtigeAntwort>Senkmesser</richtigeAntwort>
+            <falscheAntwort1>Senkprüfer</falscheAntwort1>
+            <falscheAntwort2>Senkanreißer</falscheAntwort2>
+            <falscheAntwort3>Senkbohrer</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist eine Korrosionsschicht?</fragenText>
+            <richtigeAntwort>Grünspan</richtigeAntwort>
+            <falscheAntwort1>Blauschimmel</falscheAntwort1>
+            <falscheAntwort2>Laubrost</falscheAntwort2>
+            <falscheAntwort3>Braunfäule</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Auf einem Bohrer steht die Bezeichnung HSS. Was bedeuten diese drei Buchstaben?</fragenText>
+            <richtigeAntwort>Hochleistungschnellarbeitsstahl</richtigeAntwort>
+            <falscheAntwort1>Hinterschliffene Schneiden</falscheAntwort1>
+            <falscheAntwort2>Hartmetallschruppschneiden</falscheAntwort2>
+            <falscheAntwort3>Hohe-Schneid-Sicherheit</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Bei welcher Werkstoffpaarung korrodiert das Eisen?</fragenText>
+            <richtigeAntwort>Eisen - Gold</richtigeAntwort>
+            <falscheAntwort1>Eisen - Chrom</falscheAntwort1>
+            <falscheAntwort2>Eisen - Zink</falscheAntwort2>
+            <falscheAntwort3>Eisen - Aluminium</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Behauptung über gefräste Feilen ist richtig?</fragenText>
+            <richtigeAntwort>Gefräste Schneiden wirken schneidend.</richtigeAntwort>
+            <falscheAntwort1>Der Spanwinkel der Feilenzähne ist immer negativ.</falscheAntwort1>
+            <falscheAntwort2>Mit gefrästen Feilen können nur Leichtmetalle bearbeitet werden.</falscheAntwort2>
+            <falscheAntwort3>Der Spanwinkel der Feilenzähne ist immer Null Grad.</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ein Werkstück soll mit der Feile geschlichtet werden. Wie lassen sich Riefen in Werkstückoberfläche vermeiden?</fragenText>
+            <richtigeAntwort>In dem man die Feile mit Kreide einstreicht.</richtigeAntwort>
+            <falscheAntwort1>In dem man die Feile mit Öl einsteicht.</falscheAntwort1>
+            <falscheAntwort2>In dem man die Feile nach etwa 20 Feilstrichen mit Petroleum auswäscht.</falscheAntwort2>
+            <falscheAntwort3>In dem man die Feile mit Graghit einstreicht.</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Behauptung über das Kleben ist richtig?</fragenText>
+            <richtigeAntwort>Klebeverbindungen sind geräuschdämpfend</richtigeAntwort>
+            <falscheAntwort1>Das Kleben ist besonders für kleine Flächen geeignet.</falscheAntwort1>
+            <falscheAntwort2>Klebeverbindungen sind besonders auf Zugbeanspruchung günstig.</falscheAntwort2>
+            <falscheAntwort3>Klebeverbindungen rechnet man zu den lösbaren Verbindungen.</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist ein Edelstahl?</fragenText>
+            <richtigeAntwort>C60E</richtigeAntwort>
+            <falscheAntwort1>C60</falscheAntwort1>
+            <falscheAntwort2>X 5CrNi 18-10</falscheAntwort2>
+            <falscheAntwort3>Gold</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Element hat bei der Stahlnormung den Multiplikationsfaktor „4“?</fragenText>
+            <richtigeAntwort>Cr</richtigeAntwort>
+            <falscheAntwort1>Cu</falscheAntwort1>
+            <falscheAntwort2>C</falscheAntwort2>
+            <falscheAntwort3>Cl</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist eine Verliersicherung bei einer Schraubenverbindung?</fragenText>
+            <richtigeAntwort>Sicherungsblech</richtigeAntwort>
+            <falscheAntwort1>Zahnscheibe</falscheAntwort1>
+            <falscheAntwort2>Sperzahnschraube</falscheAntwort2>
+            <falscheAntwort3>Federring</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Stahlsorten können im Lichtbogenofen hergestellt werden?</fragenText>
+            <richtigeAntwort>Edelstähle</richtigeAntwort>
+            <falscheAntwort1>Gußeisen</falscheAntwort1>
+            <falscheAntwort2>Weißes Roheisen</falscheAntwort2>
+            <falscheAntwort3>Graphit</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Element hat bei der Stahlnormung den Multiplikationsfaktor „10“?</fragenText>
+            <richtigeAntwort>Cu</richtigeAntwort>
+            <falscheAntwort1>Ni</falscheAntwort1>
+            <falscheAntwort2>Mn</falscheAntwort2>
+            <falscheAntwort3>N</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Bei welcher Temperatur liegt angenähert der absolute Nullpunkt? Bei...</fragenText>
+            <richtigeAntwort>0 K</richtigeAntwort>
+            <falscheAntwort1>273 K</falscheAntwort1>
+            <falscheAntwort2>273 °C</falscheAntwort2>
+            <falscheAntwort3>0 °C</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was versteht man unter Prüfen? Unter Prüfen versteht man ...</fragenText>
+            <richtigeAntwort>das Messen und Lehren</richtigeAntwort>
+            <falscheAntwort1>das Feingohren und Feindrehen</falscheAntwort1>
+            <falscheAntwort2>das Honen und Läppen</falscheAntwort2>
+            <falscheAntwort3>das Polieren</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher der Stähle ist ein unlegierter Baustahl?</fragenText>
+            <richtigeAntwort>S235JR</richtigeAntwort>
+            <falscheAntwort1>17 Cr 3</falscheAntwort1>
+            <falscheAntwort2>GTW-35-04</falscheAntwort2>
+            <falscheAntwort3>X 5CrNi 18-10</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie groß ist die genormte Bezugstemperatur in der Messtechnik?</fragenText>
+            <richtigeAntwort>20°C</richtigeAntwort>
+            <falscheAntwort1>10°C</falscheAntwort1>
+            <falscheAntwort2>0°C</falscheAntwort2>
+            <falscheAntwort3>15°C</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Fläche findet man nicht an einem Drehmeißel?</fragenText>
+            <richtigeAntwort>Hauptschneidenfläche</richtigeAntwort>
+            <falscheAntwort1>Hauptfreifläche</falscheAntwort1>
+            <falscheAntwort2>Nebenfreifläche</falscheAntwort2>
+            <falscheAntwort3>Spanfläche</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche der genannten Spanformen sind eher ungünstig?</fragenText>
+            <richtigeAntwort>Bandpäne</richtigeAntwort>
+            <falscheAntwort1>Bröckelspäne</falscheAntwort1>
+            <falscheAntwort2>Spiralspäne</falscheAntwort2>
+            <falscheAntwort3>Spiralwendelspäne</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie sind die Zähne eines Sägeblattes angeordnet, damit ein Freischneiden möglich ist?</fragenText>
+            <richtigeAntwort>geschränkt</richtigeAntwort>
+            <falscheAntwort1>beschränkt</falscheAntwort1>
+            <falscheAntwort2>verschränkt</falscheAntwort2>
+            <falscheAntwort3>unverschränkt</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wofür eignen sich Grenzrachenlehrer?</fragenText>
+            <richtigeAntwort>Prüfen von Wellen</richtigeAntwort>
+            <falscheAntwort1>Prüfen von Bohrungen</falscheAntwort1>
+            <falscheAntwort2>Messen von Wellen</falscheAntwort2>
+            <falscheAntwort3>Feststellen der Wellentoleranz</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wozu dient die Kupplung an der Messschraube? Sie dient zum ...</fragenText>
+            <richtigeAntwort>Begrenzen der Messkraft</richtigeAntwort>
+            <falscheAntwort1>Ausrichten der Messschraube</falscheAntwort1>
+            <falscheAntwort2>Einstellen auf einen bestimmten Wert</falscheAntwort2>
+            <falscheAntwort3>Ausgleich der Wärmeausdehnung</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Prüfmittel eignet sich nicht zum Messen?</fragenText>
+            <richtigeAntwort>Grenzrachenlehre</richtigeAntwort>
+            <falscheAntwort1>Feinzeiger</falscheAntwort1>
+            <falscheAntwort2>Messuhr</falscheAntwort2>
+            <falscheAntwort3>Maßstab</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Faktor hat bei spanender Fertigung keinen Einfluss auf die Oberflächenrauheit?</fragenText>
+            <richtigeAntwort>Die Toleranz</richtigeAntwort>
+            <falscheAntwort1>Der Schneidstoff</falscheAntwort1>
+            <falscheAntwort2>Der Spanwinkel</falscheAntwort2>
+            <falscheAntwort3>Der Schneidenradius</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Auf einer zeichnung ist das Maß 70 eingetragen. Wie wird dieses Maß bezeichnet?</fragenText>
+            <richtigeAntwort>Nennmaß</richtigeAntwort>
+            <falscheAntwort1>Istmaß</falscheAntwort1>
+            <falscheAntwort2>Höchstmaß</falscheAntwort2>
+            <falscheAntwort3>Übermaß</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Passungsart ergibt die Angabe 40H7/f7?</fragenText>
+            <richtigeAntwort>Spielpassung</richtigeAntwort>
+            <falscheAntwort1>Übermaßpassung</falscheAntwort1>
+            <falscheAntwort2>Übergangspassung</falscheAntwort2>
+            <falscheAntwort3>Feinpassung</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Buchstaben kennzeichnen beim ISO-Passungssystem Einheitswelle die Bohrungen für das Spiel?</fragenText>
+            <richtigeAntwort>A bis H</richtigeAntwort>
+            <falscheAntwort1>M bis N</falscheAntwort1>
+            <falscheAntwort2>J bis K</falscheAntwort2>
+            <falscheAntwort3>P bis R</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wozu benötigt man einen Kegellehrdorn?</fragenText>
+            <richtigeAntwort>Prüfen von Innenkegeln</richtigeAntwort>
+            <falscheAntwort1>Prüfen von Außenkegeln</falscheAntwort1>
+            <falscheAntwort2>Messen von Innenkegeln</falscheAntwort2>
+            <falscheAntwort3>Messen von Außenkegeln</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welcher Hauptgruppe der Fertigungsverfahren gehört das Drehen? Zur Hauptgruppe ...</fragenText>
+            <richtigeAntwort>Trennen</richtigeAntwort>
+            <falscheAntwort1>Urformen</falscheAntwort1>
+            <falscheAntwort2>Fügen</falscheAntwort2>
+            <falscheAntwort3>Umformen</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Fertigungsverfahren gehört nicht zur hauptgruppe Fügen?</fragenText>
+            <richtigeAntwort>Auftragsschweißen</richtigeAntwort>
+            <falscheAntwort1>Löten</falscheAntwort1>
+            <falscheAntwort2>Schmelzschweißen</falscheAntwort2>
+            <falscheAntwort3>Schrauben</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher der angegebenen Werkstoffe ist nicht schmiedbar?</fragenText>
+            <richtigeAntwort>GG-25</richtigeAntwort>
+            <falscheAntwort1>S235JR</falscheAntwort1>
+            <falscheAntwort2>CuZn37</falscheAntwort2>
+            <falscheAntwort3>AL99,9</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Winkel an der Werkzeugschneide wird mit BETA bezeichnet?</fragenText>
+            <richtigeAntwort>Keilwinkel</richtigeAntwort>
+            <falscheAntwort1>Spanwinkel</falscheAntwort1>
+            <falscheAntwort2>Freiwinkel</falscheAntwort2>
+            <falscheAntwort3>Neigungswinkel</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher der genannten Eigenschaften ist bei Schneidstoffen unerwünscht</fragenText>
+            <richtigeAntwort>Große Sprödigkeit</richtigeAntwort>
+            <falscheAntwort1>Große Verschleißfestigkeit</falscheAntwort1>
+            <falscheAntwort2>Große Warmhärte</falscheAntwort2>
+            <falscheAntwort3>Temperaturwechselbeständigkeit</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches sind die Zerspanungshauptgruppen der Hartmetalle?</fragenText>
+            <richtigeAntwort>P, M, K</richtigeAntwort>
+            <falscheAntwort1>H, K, S</falscheAntwort1>
+            <falscheAntwort2>H, S, T</falscheAntwort2>
+            <falscheAntwort3>A, L, S</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche der genannten Eigenschaft spielt bei der Auswahl der Schneidstoffe keine Rolle?</fragenText>
+            <richtigeAntwort>Zugfestigkeit</richtigeAntwort>
+            <falscheAntwort1>Anlassbeständigkeit</falscheAntwort1>
+            <falscheAntwort2>Temperaturwechselbeständigkeit</falscheAntwort2>
+            <falscheAntwort3>Warmhärte</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Woraus bestehen Hartmetalle?</fragenText>
+            <richtigeAntwort>Metallcarbide und Cobalt</richtigeAntwort>
+            <falscheAntwort1>Bornitrid und Aluminiumoxid</falscheAntwort1>
+            <falscheAntwort2>Aluminiumoxid und Metallcarbide</falscheAntwort2>
+            <falscheAntwort3>Metalloxide und Cobalt</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch ist der Kohlenstoffgehalt von Gusseisen mit Lamellengraphit?</fragenText>
+            <richtigeAntwort>2,6% - 3,6%</richtigeAntwort>
+            <falscheAntwort1>0,1% - 0,8%</falscheAntwort1>
+            <falscheAntwort2>0,5% - 1,5%</falscheAntwort2>
+            <falscheAntwort3>0,7% - 2,0%</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie Groß ist die Dichte von Aluminium? kg/dm^3</fragenText>
+            <richtigeAntwort>2,7</richtigeAntwort>
+            <falscheAntwort1>7,85</falscheAntwort1>
+            <falscheAntwort2>4,5</falscheAntwort2>
+            <falscheAntwort3>11,9</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie Groß ist die Dichte von Eisen? kg/dm^3</fragenText>
+            <richtigeAntwort>7,85</richtigeAntwort>
+            <falscheAntwort1>3,5</falscheAntwort1>
+            <falscheAntwort2>8,9</falscheAntwort2>
+            <falscheAntwort3>6,5</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie Groß ist die Dichte von Kupfer? kg/dm^3</fragenText>
+            <richtigeAntwort>8,9</richtigeAntwort>
+            <falscheAntwort1>2,7</falscheAntwort1>
+            <falscheAntwort2>7,85</falscheAntwort2>
+            <falscheAntwort3>4,5</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus welchem Rohstoff wird Aluminium gewonnen?</fragenText>
+            <richtigeAntwort>Bauxit</richtigeAntwort>
+            <falscheAntwort1>Dolomit</falscheAntwort1>
+            <falscheAntwort2>Martensit</falscheAntwort2>
+            <falscheAntwort3>Perlit</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Eigenschaften haben Kupferhaltige AL-Legierungen? Si sind ...</fragenText>
+            <richtigeAntwort>aushärtbar und hochfest</richtigeAntwort>
+            <falscheAntwort1>besonders gut dehnbar</falscheAntwort1>
+            <falscheAntwort2>sehr weich und korrosionsbeständig</falscheAntwort2>
+            <falscheAntwort3>gut anodisch oxidierbar</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Aussage trifft auf Titan zu?</fragenText>
+            <richtigeAntwort>Es besitzt hohe Festigkeit und ist zäh</richtigeAntwort>
+            <falscheAntwort1>Seine Festigkeit ist gering</falscheAntwort1>
+            <falscheAntwort2>Es ist leicht umformbar</falscheAntwort2>
+            <falscheAntwort3>Es ist wenig korrosionsbeständig</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Bei welchem Kohlenstoffgehalt liegt im Stahl reines Perlitgefüge vor?</fragenText>
+            <richtigeAntwort>0,8%</richtigeAntwort>
+            <falscheAntwort1>2,06%</falscheAntwort1>
+            <falscheAntwort2>2,86%</falscheAntwort2>
+            <falscheAntwort3>4,3%</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Bei welchem Kohlenstoffgehalt liegt die Grenze zwischen Gusseisen und Stählen?</fragenText>
+            <richtigeAntwort>2,06%</richtigeAntwort>
+            <falscheAntwort1>0,8%</falscheAntwort1>
+            <falscheAntwort2>2,86%</falscheAntwort2>
+            <falscheAntwort3>4,3%</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Gefüge entsteht beimErhitzen von Stahl mit 0,8% Kohlenstoff über eine Temperatur von 723°C</fragenText>
+            <richtigeAntwort>Austenit</richtigeAntwort>
+            <falscheAntwort1>Martensit</falscheAntwort1>
+            <falscheAntwort2>Perlit</falscheAntwort2>
+            <falscheAntwort3>Ferrit</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer rastet der ....</fragenText>
+            <richtigeAntwort>rostet</richtigeAntwort>
+            <falscheAntwort1>kostet</falscheAntwort1>
+            <falscheAntwort2>korrodiert</falscheAntwort2>
+            <falscheAntwort3>ist müde</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer gut schmiert der gut ...</fragenText>
+            <richtigeAntwort>fährt</richtigeAntwort>
+            <falscheAntwort1>fliegt</falscheAntwort1>
+            <falscheAntwort2>steht</falscheAntwort2>
+            <falscheAntwort3>geht</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Am Schall erkennt man</fragenText>
+            <richtigeAntwort>das Metall</richtigeAntwort>
+            <falscheAntwort1>das Auto</falscheAntwort1>
+            <falscheAntwort2>den Kunsstoff</falscheAntwort2>
+            <falscheAntwort3>das Tier</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Jeder ist seines Glückes ....</fragenText>
+            <richtigeAntwort>Schmied</richtigeAntwort>
+            <falscheAntwort1>Geselle</falscheAntwort1>
+            <falscheAntwort2>Meister</falscheAntwort2>
+            <falscheAntwort3>Gießer</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

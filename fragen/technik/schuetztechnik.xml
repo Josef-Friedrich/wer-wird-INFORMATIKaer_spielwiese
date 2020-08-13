@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Technik</fach>
+    <thema>„Schütztechnik“</thema>
+    <autor>Elmar F. Werker, V1.0 11/2001</autor>
+    <anzahlFragen>17</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>Welche Klemmenbezeichnungen tragen Öffnerkontakte?</fragenText>
+            <richtigeAntwort>11, 12</richtigeAntwort>
+            <falscheAntwort1>13, 14</falscheAntwort1>
+            <falscheAntwort2>16, 17</falscheAntwort2>
+            <falscheAntwort3>95, 96</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>2</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Klemmenbezeichnungen tragen Schließerkontakte?</fragenText>
+            <richtigeAntwort>13, 14</richtigeAntwort>
+            <falscheAntwort1>11, 12</falscheAntwort1>
+            <falscheAntwort2>16, 17</falscheAntwort2>
+            <falscheAntwort3>95, 96</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Mit welcher Spannungsart werden typische Betriebsmittel von Haushalten versorgt?</fragenText>
+            <richtigeAntwort>Wechselstrom</richtigeAntwort>
+            <falscheAntwort1>Gleichstrom</falscheAntwort1>
+            <falscheAntwort2>Multistrom</falscheAntwort2>
+            <falscheAntwort3>Schnellstrom</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Bei Schützen mit mehreren Schaltgliedern arbeiten _____ schneller als _____!</fragenText>
+            <richtigeAntwort>Öffner schneller als Schließer</richtigeAntwort>
+            <falscheAntwort1>Lastkontakte schneller als Öffner</falscheAntwort1>
+            <falscheAntwort2>Schließer schneller als Öffner</falscheAntwort2>
+            <falscheAntwort3>Kontakte schneller als Schließer</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Schaltwirkung von Relais und Schützen erfolgt</fragenText>
+            <richtigeAntwort>magnetisch</richtigeAntwort>
+            <falscheAntwort1>elektrisch</falscheAntwort1>
+            <falscheAntwort2>optisch</falscheAntwort2>
+            <falscheAntwort3>akustisch</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der Spulenanschluß eines Schützes trägt die Klemmenbezeichnung</fragenText>
+            <richtigeAntwort>A1, A2</richtigeAntwort>
+            <falscheAntwort1>11, 12</falscheAntwort1>
+            <falscheAntwort2>13, 14</falscheAntwort2>
+            <falscheAntwort3>15, 16</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zwei Schließerkontakte in Reihe geschaltet bewirken eine _______ Funktion.</fragenText>
+            <richtigeAntwort>AND / UND</richtigeAntwort>
+            <falscheAntwort1>OR / ODER</falscheAntwort1>
+            <falscheAntwort2>NAND / Nicht Und</falscheAntwort2>
+            <falscheAntwort3>Nor / Nicht Oder</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zwei Schließerkontakte parallel geschaltet bewirken eine ____ Funktion!</fragenText>
+            <richtigeAntwort>OR / ODER</richtigeAntwort>
+            <falscheAntwort1>AND / UND</falscheAntwort1>
+            <falscheAntwort2>NAND / Nicht Und</falscheAntwort2>
+            <falscheAntwort3>NOR / Nicht Oder</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Eine Wechselschaltung entspricht der logischen _____ Funktion</fragenText>
+            <richtigeAntwort>XOR</richtigeAntwort>
+            <falscheAntwort1>AND</falscheAntwort1>
+            <falscheAntwort2>OR</falscheAntwort2>
+            <falscheAntwort3>NAND</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Eine Wechselschaltung läßt sich bei Hinzufügen einer Schaltstelle erweitern zu einer?</fragenText>
+            <richtigeAntwort>Kreuzschaltung</richtigeAntwort>
+            <falscheAntwort1>Wechselschaltung</falscheAntwort1>
+            <falscheAntwort2>Ausschaltung</falscheAntwort2>
+            <falscheAntwort3>Gruppenschaltung</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Eine standard Treppenhauslichtschaltung eines Wohnhauses entspricht welcher Zeitfunktion?</fragenText>
+            <richtigeAntwort>Ausschaltverzögerung</richtigeAntwort>
+            <falscheAntwort1>Einschaltverzögerung</falscheAntwort1>
+            <falscheAntwort2>Impulsverlängerung</falscheAntwort2>
+            <falscheAntwort3>Ein- Ausschaltverzögerung</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Eine Flurlichtsteuerung mit mehr als 5 Schaltstellen wird gelöst durch eine...?</fragenText>
+            <richtigeAntwort>Stromstoßrelaisschaltung</richtigeAntwort>
+            <falscheAntwort1>Ausschaltung</falscheAntwort1>
+            <falscheAntwort2>Wechselschaltung</falscheAntwort2>
+            <falscheAntwort3>Kreuzschaltung</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Klemmenbezeichnungen tragen Motorschutzschalterkontakte?</fragenText>
+            <richtigeAntwort>95, 96</richtigeAntwort>
+            <falscheAntwort1>11, 12</falscheAntwort1>
+            <falscheAntwort2>13, 14</falscheAntwort2>
+            <falscheAntwort3>15, 16</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Klemmenbezeichnung tragen Zeitrelaiskontakte?</fragenText>
+            <richtigeAntwort>15, 16</richtigeAntwort>
+            <falscheAntwort1>11, 12</falscheAntwort1>
+            <falscheAntwort2>13, 14</falscheAntwort2>
+            <falscheAntwort3>95, 96</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Eine Wechselschaltung läßt sich durch welche Schützschaltung ersetzen?</fragenText>
+            <richtigeAntwort>Taster und Stromstoßrelais</richtigeAntwort>
+            <falscheAntwort1>Taster und Selbsthaltung</falscheAntwort1>
+            <falscheAntwort2>Kreuzschaltung</falscheAntwort2>
+            <falscheAntwort3>Stern- Dreieck Schaltung</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zwei Öffnerkontakte in Reihe geschaltet bewirken eine _______ Funktion.</fragenText>
+            <richtigeAntwort>NAND / Nicht Und</richtigeAntwort>
+            <falscheAntwort1>AND / UND</falscheAntwort1>
+            <falscheAntwort2>OR / ODER</falscheAntwort2>
+            <falscheAntwort3>NOR / Nicht Oder</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zwei Öffnerkontakte parallel geschaltet bewirken eine ______ Funktion!</fragenText>
+            <richtigeAntwort>NOR / Nicht Oder</richtigeAntwort>
+            <falscheAntwort1>AND / UND</falscheAntwort1>
+            <falscheAntwort2>OR / ODER</falscheAntwort2>
+            <falscheAntwort3>NAND / Nicht Und</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

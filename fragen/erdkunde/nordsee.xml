@@ -1,0 +1,3219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Erdkunde</fach>
+    <thema>Nordsee</thema>
+    <autor>Manfred Hartisch 6/2001</autor>
+    <anzahlFragen>322</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>Wie nennt man die schwimmenden Seezeichen, die am Meeresgrund verankert sind?</fragenText>
+            <richtigeAntwort>Bojen</richtigeAntwort>
+            <falscheAntwort1>Boote</falscheAntwort1>
+            <falscheAntwort2>Kojen</falscheAntwort2>
+            <falscheAntwort3>Leuchtturm</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Boje gibt es n i c h t?</fragenText>
+            <richtigeAntwort>Schreiboje</richtigeAntwort>
+            <falscheAntwort1>Heulboje</falscheAntwort1>
+            <falscheAntwort2>Leuchtboje</falscheAntwort2>
+            <falscheAntwort3>Ankerboje</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Mischung aus Salz- und Süßwasser im Mündungsbereich von Flüssen?</fragenText>
+            <richtigeAntwort>Brackwasser</richtigeAntwort>
+            <falscheAntwort1>Flachwasser</falscheAntwort1>
+            <falscheAntwort2>Schlackwasser</falscheAntwort2>
+            <falscheAntwort3>Bitterwasser</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man rechtwinklig zum Ufer gebaute Dämme, die ins Meer oder in Flüsse hinausragen?</fragenText>
+            <richtigeAntwort>Buhnen</richtigeAntwort>
+            <falscheAntwort1>Duhnen</falscheAntwort1>
+            <falscheAntwort2>Puhnen</falscheAntwort2>
+            <falscheAntwort3>Kluhnen</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Funktion haben die Buhnen?</fragenText>
+            <richtigeAntwort>Sie lenken die Strömung ab.</richtigeAntwort>
+            <falscheAntwort1>Sie erzeugen Wellen.</falscheAntwort1>
+            <falscheAntwort2>Sie vertreiben Fische.</falscheAntwort2>
+            <falscheAntwort3>Sie erzeugen Strom.</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche ostfriesische Insel errichtete 1857 die ersten Küstenschutz - Bollwerke (Buhnen)?</fragenText>
+            <richtigeAntwort>Norderney</richtigeAntwort>
+            <falscheAntwort1>Wangerooge</falscheAntwort1>
+            <falscheAntwort2>Juist</falscheAntwort2>
+            <falscheAntwort3>Langeoog</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man einen Schutzdamm am Fluss- oder Meeresufer zum Schutz gegen die Überflutung des Hinterlandes?</fragenText>
+            <richtigeAntwort>Deich</richtigeAntwort>
+            <falscheAntwort1>Burg</falscheAntwort1>
+            <falscheAntwort2>Wall</falscheAntwort2>
+            <falscheAntwort3>Ring</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man das Binnendeichland - also das Land hinter dem Deich - auch noch?</fragenText>
+            <richtigeAntwort>Polder</richtigeAntwort>
+            <falscheAntwort1>Watt</falscheAntwort1>
+            <falscheAntwort2>Schlick</falscheAntwort2>
+            <falscheAntwort3>Holder</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man eine Anhäufung aus feinem Sand durch den Wind?</fragenText>
+            <richtigeAntwort>Düne</richtigeAntwort>
+            <falscheAntwort1>Küste</falscheAntwort1>
+            <falscheAntwort2>Bühne</falscheAntwort2>
+            <falscheAntwort3>Berg</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Womit sind die meisten Deiche bewachsen?</fragenText>
+            <richtigeAntwort>Gras</richtigeAntwort>
+            <falscheAntwort1>Kiefern</falscheAntwort1>
+            <falscheAntwort2>Farn</falscheAntwort2>
+            <falscheAntwort3>Moos</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die dem Wind zugekehrte Seite?</fragenText>
+            <richtigeAntwort>Luv</richtigeAntwort>
+            <falscheAntwort1>Lee</falscheAntwort1>
+            <falscheAntwort2>Tee</falscheAntwort2>
+            <falscheAntwort3>Buv</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die dem Wind abgekehrte Seite?</fragenText>
+            <richtigeAntwort>Lee</richtigeAntwort>
+            <falscheAntwort1>See</falscheAntwort1>
+            <falscheAntwort2>Guv</falscheAntwort2>
+            <falscheAntwort3>Luv</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die sich seitwärts fortbewegenden Strandkrabben?</fragenText>
+            <richtigeAntwort>Dwarslöper (Querläufer)</richtigeAntwort>
+            <falscheAntwort1>Quarsgänger (Quergänger)</falscheAntwort1>
+            <falscheAntwort2>Länglupper (Längsläufer)</falscheAntwort2>
+            <falscheAntwort3>Schiipranner (Schiefrenner)</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man „ablaufendes Wasser“?</fragenText>
+            <richtigeAntwort>Ebbe</richtigeAntwort>
+            <falscheAntwort1>Flut</falscheAntwort1>
+            <falscheAntwort2>Gezeiten</falscheAntwort2>
+            <falscheAntwort3>Tide</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man „auflaufendes Wasser“?</fragenText>
+            <richtigeAntwort>Flut</richtigeAntwort>
+            <falscheAntwort1>Ebbe</falscheAntwort1>
+            <falscheAntwort2>Gezeiten</falscheAntwort2>
+            <falscheAntwort3>Tide</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man „Ebbe und Flut“?</fragenText>
+            <richtigeAntwort>Gezeiten</richtigeAntwort>
+            <falscheAntwort1>Hochzeiten</falscheAntwort1>
+            <falscheAntwort2>Mahlzeiten</falscheAntwort2>
+            <falscheAntwort3>Urzeiten</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die zusammengeklebten Eier von Schnecken und Fischen, die im Wasser treiben?</fragenText>
+            <richtigeAntwort>Eiballen</richtigeAntwort>
+            <falscheAntwort1>Treibeier</falscheAntwort1>
+            <falscheAntwort2>Klebeier</falscheAntwort2>
+            <falscheAntwort3>Eizellen</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man natürliche Fahrrinnen für Schiffe im Wattenmeer?</fragenText>
+            <richtigeAntwort>Priele</richtigeAntwort>
+            <falscheAntwort1>Siele</falscheAntwort1>
+            <falscheAntwort2>Stiele</falscheAntwort2>
+            <falscheAntwort3>Kanäle</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Fahrrinnen für Schiffe im Wattenmeer, die ausgebaggert wurden und ständig auf Tiefe gehalten werden müssen?</fragenText>
+            <richtigeAntwort>Baljen</richtigeAntwort>
+            <falscheAntwort1>Waljen</falscheAntwort1>
+            <falscheAntwort2>Knaljen</falscheAntwort2>
+            <falscheAntwort3>Traljen</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die linke Schiffsseite?</fragenText>
+            <richtigeAntwort>backbord</richtigeAntwort>
+            <falscheAntwort1>steuerbord</falscheAntwort1>
+            <falscheAntwort2>bugbord</falscheAntwort2>
+            <falscheAntwort3>heckbord</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Farbe hat die Signallampe an der Backbordseite eines Schiffes?</fragenText>
+            <richtigeAntwort>rot</richtigeAntwort>
+            <falscheAntwort1>gelb</falscheAntwort1>
+            <falscheAntwort2>grün</falscheAntwort2>
+            <falscheAntwort3>weiß</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Farbe hat die Signallampe an der Steuerbordseite eines Schiffes?</fragenText>
+            <richtigeAntwort>grün</richtigeAntwort>
+            <falscheAntwort1>gelb</falscheAntwort1>
+            <falscheAntwort2>rot</falscheAntwort2>
+            <falscheAntwort3>weiß</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die rechte Schiffsseite?</fragenText>
+            <richtigeAntwort>steuerbord</richtigeAntwort>
+            <falscheAntwort1>backbord</falscheAntwort1>
+            <falscheAntwort2>bugbord</falscheAntwort2>
+            <falscheAntwort3>heckbord</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was waren „Feuerschiffe“?</fragenText>
+            <richtigeAntwort>schwimmende Seezeichen</richtigeAntwort>
+            <falscheAntwort1>brennende Schiffe</falscheAntwort1>
+            <falscheAntwort2>Löschboote</falscheAntwort2>
+            <falscheAntwort3>rote Schiffe</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Weshalb wurden die „Feuerschiffe“ außer Dienst gestellt?</fragenText>
+            <richtigeAntwort>Der Unterhalt wurde zu teuer.</richtigeAntwort>
+            <falscheAntwort1>Sie leuchteten zu schwach.</falscheAntwort1>
+            <falscheAntwort2>Sie leuchteten zu stark.</falscheAntwort2>
+            <falscheAntwort3>Sie wurden zu klein.</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann wurden die „Feuerschiffe“ außer Dienst gestellt?</fragenText>
+            <richtigeAntwort>in den 80 - ziger Jahren</richtigeAntwort>
+            <falscheAntwort1>in den 90 - ziger Jahren</falscheAntwort1>
+            <falscheAntwort2>in den 20 - ziger Jahren</falscheAntwort2>
+            <falscheAntwort3>in den 50 - ziger Jahren</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man den höchsten Wasserstand?</fragenText>
+            <richtigeAntwort>Hochwasser</richtigeAntwort>
+            <falscheAntwort1>Niedrigwasser</falscheAntwort1>
+            <falscheAntwort2>Ebbe</falscheAntwort2>
+            <falscheAntwort3>Springflut</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man den tiefsten Wasserstand?</fragenText>
+            <richtigeAntwort>Niedrigwasser</richtigeAntwort>
+            <falscheAntwort1>Hochwasser</falscheAntwort1>
+            <falscheAntwort2>Frühwasser</falscheAntwort2>
+            <falscheAntwort3>Nullwasser</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wodurch entsteht „Ebbe und Flut“?</fragenText>
+            <richtigeAntwort>Anziehungskraft von Sonne und Mond</richtigeAntwort>
+            <falscheAntwort1>durch den Sonnenwind</falscheAntwort1>
+            <falscheAntwort2>Mondfinsternis</falscheAntwort2>
+            <falscheAntwort3>durch Sternschnuppen</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie oft kommt „Ebbe und Flut“ an einem Tag?</fragenText>
+            <richtigeAntwort>2 mal</richtigeAntwort>
+            <falscheAntwort1>3 mal</falscheAntwort1>
+            <falscheAntwort2>4 mal</falscheAntwort2>
+            <falscheAntwort3>5 mal</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viel Zeit vergeht von Hochwasser zu Hochwasser, bzw. von Niedrigwasser zu Niedrigwasser?</fragenText>
+            <richtigeAntwort>12 Stunden 25 Minuten</richtigeAntwort>
+            <falscheAntwort1>3 Stunden 12 Minuten</falscheAntwort1>
+            <falscheAntwort2>6 Stunden 24 Minuten</falscheAntwort2>
+            <falscheAntwort3>9 Stunden 36 Minuten</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Gezeiten bei Voll- und Neumond?</fragenText>
+            <richtigeAntwort>Springtiden</richtigeAntwort>
+            <falscheAntwort1>Neutiden</falscheAntwort1>
+            <falscheAntwort2>Volltiden</falscheAntwort2>
+            <falscheAntwort3>Lauftiden</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Bei Neu- und Vollmond sind die Gezeiten ....</fragenText>
+            <richtigeAntwort>stärker</richtigeAntwort>
+            <falscheAntwort1>schwächer</falscheAntwort1>
+            <falscheAntwort2>wechselhaft</falscheAntwort2>
+            <falscheAntwort3>gleichbleibend</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Bei Halbmond sind die Gezeiten ....</fragenText>
+            <richtigeAntwort>besonders schwach</richtigeAntwort>
+            <falscheAntwort1>besonders stark</falscheAntwort1>
+            <falscheAntwort2>besonders wechselhaft</falscheAntwort2>
+            <falscheAntwort3>nicht vorhanden</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Gezeiten bei Halbmond?</fragenText>
+            <richtigeAntwort>Nipptiden</richtigeAntwort>
+            <falscheAntwort1>Wipptiden</falscheAntwort1>
+            <falscheAntwort2>Springtiden</falscheAntwort2>
+            <falscheAntwort3>Halbtiden</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Muschel gibt es?</fragenText>
+            <richtigeAntwort>Herzmuschel</richtigeAntwort>
+            <falscheAntwort1>Magenmuschel</falscheAntwort1>
+            <falscheAntwort2>Lungenmuschel</falscheAntwort2>
+            <falscheAntwort3>Nierenmuschel</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wodurch sind die Halligen vor der nordfriesischen Küste entstanden?</fragenText>
+            <richtigeAntwort>Schlick</richtigeAntwort>
+            <falscheAntwort1>Schilf</falscheAntwort1>
+            <falscheAntwort2>Sand</falscheAntwort2>
+            <falscheAntwort3>Moor</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Halligen gibt es vor der nordfriesischen Küste?</fragenText>
+            <richtigeAntwort>10</richtigeAntwort>
+            <falscheAntwort1>8</falscheAntwort1>
+            <falscheAntwort2>12</falscheAntwort2>
+            <falscheAntwort3>14</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist keine Hallig?</fragenText>
+            <richtigeAntwort>Sylt</richtigeAntwort>
+            <falscheAntwort1>Hooge</falscheAntwort1>
+            <falscheAntwort2>Langeneß</falscheAntwort2>
+            <falscheAntwort3>Oland</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist keine Hallig?</fragenText>
+            <richtigeAntwort>Langeoog</richtigeAntwort>
+            <falscheAntwort1>Norderoog</falscheAntwort1>
+            <falscheAntwort2>Süderoog</falscheAntwort2>
+            <falscheAntwort3>Südfall</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist keine Hallig?</fragenText>
+            <richtigeAntwort>Spiekeroog</richtigeAntwort>
+            <falscheAntwort1>Hooge</falscheAntwort1>
+            <falscheAntwort2>Norderoog</falscheAntwort2>
+            <falscheAntwort3>Süderoog</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist keine Hallig?</fragenText>
+            <richtigeAntwort>Baltrum</richtigeAntwort>
+            <falscheAntwort1>Nordstrandischmoor</falscheAntwort1>
+            <falscheAntwort2>Hamburger Hallig</falscheAntwort2>
+            <falscheAntwort3>Gröde</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man es, wenn eine Hallig mit Meerwasser überspült ist?</fragenText>
+            <richtigeAntwort>Land unter</richtigeAntwort>
+            <falscheAntwort1>Land über</falscheAntwort1>
+            <falscheAntwort2>Meer unter</falscheAntwort2>
+            <falscheAntwort3>Meer über</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wovon leben die Menschen auf den Halligen?</fragenText>
+            <richtigeAntwort>Weidewirtschaft und Tourismus</richtigeAntwort>
+            <falscheAntwort1>Ackerbau und Viehzucht</falscheAntwort1>
+            <falscheAntwort2>Rohöl und Viehzucht</falscheAntwort2>
+            <falscheAntwort3>Industrie und Obstanbau</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Erdhügel auf den Halligen, auf denen die Häuser stehen?</fragenText>
+            <richtigeAntwort>Warften</richtigeAntwort>
+            <falscheAntwort1>Schwarten</falscheAntwort1>
+            <falscheAntwort2>Burgen</falscheAntwort2>
+            <falscheAntwort3>Kronen</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die deutsche Hochseeinsel?</fragenText>
+            <richtigeAntwort>Helgoland</richtigeAntwort>
+            <falscheAntwort1>Sylt</falscheAntwort1>
+            <falscheAntwort2>Norderney</falscheAntwort2>
+            <falscheAntwort3>Borkum</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Helgoland liegt ca. .... Kilometer vor der Weser- und Elbemündung.</fragenText>
+            <richtigeAntwort>70</richtigeAntwort>
+            <falscheAntwort1>125</falscheAntwort1>
+            <falscheAntwort2>30</falscheAntwort2>
+            <falscheAntwort3>6</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man jungen Robben, die den Kontakt zur Mutter verloren haben?</fragenText>
+            <richtigeAntwort>Heuler</richtigeAntwort>
+            <falscheAntwort1>Brüller</falscheAntwort1>
+            <falscheAntwort2>Schreier</falscheAntwort2>
+            <falscheAntwort3>Rufer</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man ein Schiff für die Fischerei im Küstenbereich?</fragenText>
+            <richtigeAntwort>Kutter</richtigeAntwort>
+            <falscheAntwort1>Schlepper</falscheAntwort1>
+            <falscheAntwort2>Kajak</falscheAntwort2>
+            <falscheAntwort3>Fähre</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man ein feststehendes Leuchtfeuer im Küstenbereich?</fragenText>
+            <richtigeAntwort>Leuchtturm</richtigeAntwort>
+            <falscheAntwort1>Lagerfeuer</falscheAntwort1>
+            <falscheAntwort2>Leuchtstab</falscheAntwort2>
+            <falscheAntwort3>Feuerscheinwerfer</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man einen Ankerplatz für Schiffe, der durch einen Damm geschützt ist?</fragenText>
+            <richtigeAntwort>Mole</richtigeAntwort>
+            <falscheAntwort1>Anker</falscheAntwort1>
+            <falscheAntwort2>Steg</falscheAntwort2>
+            <falscheAntwort3>Buhne</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man eine Anlegestelle für Schiffe, die ins Wasser hineinreicht?</fragenText>
+            <richtigeAntwort>Pier</richtigeAntwort>
+            <falscheAntwort1>Stier</falscheAntwort1>
+            <falscheAntwort2>Steg</falscheAntwort2>
+            <falscheAntwort3>Deich</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man das Birken- oder Eichenbäumchen, das als festes Seezeichen zur Kennzeichnung der Fahrrinne in den Wattboden gesteckt wird?</fragenText>
+            <richtigeAntwort>Pricke</richtigeAntwort>
+            <falscheAntwort1>Fricke</falscheAntwort1>
+            <falscheAntwort2>Wricke</falscheAntwort2>
+            <falscheAntwort3>Micke</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Weshalb können Priele für unkundige Wattwanderer sehr gefährlich sein?</fragenText>
+            <richtigeAntwort>Sie laufen bei Flut schnell voll.</richtigeAntwort>
+            <falscheAntwort1>Der Boden ist sehr glatt.</falscheAntwort1>
+            <falscheAntwort2>Dort liegen scharfe Muscheln.</falscheAntwort2>
+            <falscheAntwort3>Man kann dort leicht stolpern.</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man eine Schleuse im Deich zum Durchtritt eines Süßwasserlaufes aus dem Binnenland?</fragenText>
+            <richtigeAntwort>Siel</richtigeAntwort>
+            <falscheAntwort1>Priel</falscheAntwort1>
+            <falscheAntwort2>Kai</falscheAntwort2>
+            <falscheAntwort3>Mole</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man den Meeresboden, der bei Ebbe „trockenfällt“ und bei Flut überflutet wird?</fragenText>
+            <richtigeAntwort>Watt</richtigeAntwort>
+            <falscheAntwort1>Strand</falscheAntwort1>
+            <falscheAntwort2>Küste</falscheAntwort2>
+            <falscheAntwort3>Insel</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Ort gibt es an der Nordsee?</fragenText>
+            <richtigeAntwort>Hooksiel</richtigeAntwort>
+            <falscheAntwort1>Hückeswagen</falscheAntwort1>
+            <falscheAntwort2>Cloppenburg</falscheAntwort2>
+            <falscheAntwort3>Rostock</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie weit ist die Insel Borkum vom Festland entfernt?</fragenText>
+            <richtigeAntwort>20 km</richtigeAntwort>
+            <falscheAntwort1>8 km</falscheAntwort1>
+            <falscheAntwort2>40 km</falscheAntwort2>
+            <falscheAntwort3>12 km</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennen die Küstenbewohner die Nordsee?</fragenText>
+            <richtigeAntwort>Blanke Hans</richtigeAntwort>
+            <falscheAntwort1>Schlanker Klaus</falscheAntwort1>
+            <falscheAntwort2>Glatte Frieda</falscheAntwort2>
+            <falscheAntwort3>Rauer Otto</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die mit 36 Quadratkilometern größte ostfriesische Insel?</fragenText>
+            <richtigeAntwort>Borkum</richtigeAntwort>
+            <falscheAntwort1>Baltrum</falscheAntwort1>
+            <falscheAntwort2>Norderney</falscheAntwort2>
+            <falscheAntwort3>Sylt</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann wurde der Alte Leuchtturm auf Borkum erbaut?</fragenText>
+            <richtigeAntwort>1576</richtigeAntwort>
+            <falscheAntwort1>1134</falscheAntwort1>
+            <falscheAntwort2>1609</falscheAntwort2>
+            <falscheAntwort3>1743</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Tier lebt n i c h t im Watt?</fragenText>
+            <richtigeAntwort>Steinbock</richtigeAntwort>
+            <falscheAntwort1>Schnecke</falscheAntwort1>
+            <falscheAntwort2>Krebs</falscheAntwort2>
+            <falscheAntwort3>Seestern</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer wird auch der „Straßenkehrer des Meeres“ genannt?</fragenText>
+            <richtigeAntwort>die Wellhornschnecke</richtigeAntwort>
+            <falscheAntwort1>die Herzmuschel</falscheAntwort1>
+            <falscheAntwort2>der Seestern</falscheAntwort2>
+            <falscheAntwort3>die Qualle</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was bringt der Einsiedlerkrebs in einem leeren Schneckenhaus in Sicherheit?</fragenText>
+            <richtigeAntwort>sein weiches Hinterteil</richtigeAntwort>
+            <falscheAntwort1>seine empfindlichen Fühler</falscheAntwort1>
+            <falscheAntwort2>seine dünnen Beinchen</falscheAntwort2>
+            <falscheAntwort3>seine zarten Scheren</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die längste ostfriesische Insel?</fragenText>
+            <richtigeAntwort>Juist</richtigeAntwort>
+            <falscheAntwort1>Langeoog</falscheAntwort1>
+            <falscheAntwort2>Wangerooge</falscheAntwort2>
+            <falscheAntwort3>Norderney</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie breit ist die Insel Juist?</fragenText>
+            <richtigeAntwort>ca. 500 m</richtigeAntwort>
+            <falscheAntwort1>ca. 150 m</falscheAntwort1>
+            <falscheAntwort2>ca. 50 m</falscheAntwort2>
+            <falscheAntwort3>ca. 5000 m</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Binnensee der Insel Juist?</fragenText>
+            <richtigeAntwort>Hammersee</richtigeAntwort>
+            <falscheAntwort1>Zangensee</falscheAntwort1>
+            <falscheAntwort2>Feilensee</falscheAntwort2>
+            <falscheAntwort3>Sägensee</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der Binnensee der Insel Juist hat ....</fragenText>
+            <richtigeAntwort>Süßwasser</richtigeAntwort>
+            <falscheAntwort1>Salzwasser</falscheAntwort1>
+            <falscheAntwort2>Mischwasser</falscheAntwort2>
+            <falscheAntwort3>Sprudelwasser</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang ist die Insel Juist?</fragenText>
+            <richtigeAntwort>17 km</richtigeAntwort>
+            <falscheAntwort1>5 km</falscheAntwort1>
+            <falscheAntwort2>23 km</falscheAntwort2>
+            <falscheAntwort3>9 km</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welcher Himmelsrichtung liegt der Binnensee der Insel Juist?</fragenText>
+            <richtigeAntwort>im Westen</richtigeAntwort>
+            <falscheAntwort1>im Süden</falscheAntwort1>
+            <falscheAntwort2>im Norden</falscheAntwort2>
+            <falscheAntwort3>im Osten</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was gibt es nicht auf Juist?</fragenText>
+            <richtigeAntwort>Gletscher</richtigeAntwort>
+            <falscheAntwort1>Sandstrand</falscheAntwort1>
+            <falscheAntwort2>Dünen</falscheAntwort2>
+            <falscheAntwort3>Salzwiesen</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Domäne im Westen der Insel Juist?</fragenText>
+            <richtigeAntwort>Domäne Bill</richtigeAntwort>
+            <falscheAntwort1>Domäne Will</falscheAntwort1>
+            <falscheAntwort2>Domäne Still</falscheAntwort2>
+            <falscheAntwort3>Domäne Kill</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lange dauert die Schifffahrt von Norddeich aus nach Juist?</fragenText>
+            <richtigeAntwort>ca. 90 Minuten</richtigeAntwort>
+            <falscheAntwort1>ca. 45 Minuten</falscheAntwort1>
+            <falscheAntwort2>ca. 65 Minuten</falscheAntwort2>
+            <falscheAntwort3>ca. 30 Minuten</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Inseln, die Reste einer untergegangenen Landschaft sind?</fragenText>
+            <richtigeAntwort>Geestinseln</richtigeAntwort>
+            <falscheAntwort1>Düneninseln</falscheAntwort1>
+            <falscheAntwort2>Felseninseln</falscheAntwort2>
+            <falscheAntwort3>Sooginseln</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Inseln, die aus Sandbänken entstanden sind und noch heute ihre Form durch Sturm und Meer verändern?</fragenText>
+            <richtigeAntwort>Düneninseln</richtigeAntwort>
+            <falscheAntwort1>Koralleninseln</falscheAntwort1>
+            <falscheAntwort2>Vogelinseln</falscheAntwort2>
+            <falscheAntwort3>Sandinseln</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viel Zeit vergeht zwischen dem höchsten und dem niedrigsten Wasserstand?</fragenText>
+            <richtigeAntwort>6 Stunden 12 1/2 Minuten</richtigeAntwort>
+            <falscheAntwort1>4 Stunden 8 1/4 Minuten</falscheAntwort1>
+            <falscheAntwort2>12 Stunden 24 2/3 Minuten</falscheAntwort2>
+            <falscheAntwort3>8 Stunden 10 3/4 Minuten</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viel Salz enthält 1 Liter Nordseewasser?</fragenText>
+            <richtigeAntwort>35 g</richtigeAntwort>
+            <falscheAntwort1>70 g</falscheAntwort1>
+            <falscheAntwort2>125 g</falscheAntwort2>
+            <falscheAntwort3>9 g</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie breit ist die Ohrenqualle?</fragenText>
+            <richtigeAntwort>10 - 20 cm</richtigeAntwort>
+            <falscheAntwort1>20 - 30 cm</falscheAntwort1>
+            <falscheAntwort2>30 - 40 cm</falscheAntwort2>
+            <falscheAntwort3>40 - 50 cm</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Fangarme hat die Ohrenqualle?</fragenText>
+            <richtigeAntwort>4</richtigeAntwort>
+            <falscheAntwort1>12</falscheAntwort1>
+            <falscheAntwort2>8</falscheAntwort2>
+            <falscheAntwort3>36</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Qualle gibt es?</fragenText>
+            <richtigeAntwort>Ohrenqualle</richtigeAntwort>
+            <falscheAntwort1>Nasenqualle</falscheAntwort1>
+            <falscheAntwort2>Augenqualle</falscheAntwort2>
+            <falscheAntwort3>Mundqualle</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie tief unter dem Wattboden lebt der Wattwurm?</fragenText>
+            <richtigeAntwort>ca. 25 cm</richtigeAntwort>
+            <falscheAntwort1>ca. 5 cm</falscheAntwort1>
+            <falscheAntwort2>ca. 50 cm</falscheAntwort2>
+            <falscheAntwort3>ca. 75 cm</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was frisst der Wattwurm mit und scheidet anschließend wieder aus?</fragenText>
+            <richtigeAntwort>Sand</richtigeAntwort>
+            <falscheAntwort1>Muscheln</falscheAntwort1>
+            <falscheAntwort2>Krebse</falscheAntwort2>
+            <falscheAntwort3>Algen</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie breit wird eine Strandkrabbe?</fragenText>
+            <richtigeAntwort>ca. 6 cm</richtigeAntwort>
+            <falscheAntwort1>ca. 4 cm</falscheAntwort1>
+            <falscheAntwort2>ca. 2 cm</falscheAntwort2>
+            <falscheAntwort3>ca. 10 cm</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie läuft eine Strandkrabbe?</fragenText>
+            <richtigeAntwort>seitwärts</richtigeAntwort>
+            <falscheAntwort1>rückwärts</falscheAntwort1>
+            <falscheAntwort2>vorwärts</falscheAntwort2>
+            <falscheAntwort3>aufwärts</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wächst der Panzer einer Strandkrabbe mit?</fragenText>
+            <richtigeAntwort>nein</richtigeAntwort>
+            <falscheAntwort1>ja</falscheAntwort1>
+            <falscheAntwort2>nur bei den Männchen</falscheAntwort2>
+            <falscheAntwort3>nur bei den Weibchen</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Tier an der Nordsee hat keinen Kopf?</fragenText>
+            <richtigeAntwort>Seestern</richtigeAntwort>
+            <falscheAntwort1>Garnele</falscheAntwort1>
+            <falscheAntwort2>Wattschnecke</falscheAntwort2>
+            <falscheAntwort3>Lachmöwe</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Schalen hat eine Muschel?</fragenText>
+            <richtigeAntwort>2</richtigeAntwort>
+            <falscheAntwort1>1</falscheAntwort1>
+            <falscheAntwort2>3</falscheAntwort2>
+            <falscheAntwort3>4</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang wird die Sandklaffmuschel?</fragenText>
+            <richtigeAntwort>ca. 12 cm</richtigeAntwort>
+            <falscheAntwort1>ca. 10 cm</falscheAntwort1>
+            <falscheAntwort2>ca. 16 cm</falscheAntwort2>
+            <falscheAntwort3>ca. 20 cm</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie tief gräbt sich die Sandklaffmuschel in den Wattboden ein?</fragenText>
+            <richtigeAntwort>ca. 30 cm</richtigeAntwort>
+            <falscheAntwort1>ca. 15 cm</falscheAntwort1>
+            <falscheAntwort2>ca. 45 cm</falscheAntwort2>
+            <falscheAntwort3>gar nicht</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie groß wird die Herzmuschel?</fragenText>
+            <richtigeAntwort>ca. 5 cm</richtigeAntwort>
+            <falscheAntwort1>ca. 8 cm</falscheAntwort1>
+            <falscheAntwort2>ca. 2 cm</falscheAntwort2>
+            <falscheAntwort3>ca. 12 cm</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie tief gräbt sich die Miesmuschel ein?</fragenText>
+            <richtigeAntwort>gar nicht</richtigeAntwort>
+            <falscheAntwort1>ca. 10 cm</falscheAntwort1>
+            <falscheAntwort2>ca. 15 cm</falscheAntwort2>
+            <falscheAntwort3>ca. 25 cm</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Möwe gibt es?</fragenText>
+            <richtigeAntwort>Silbermöwe</richtigeAntwort>
+            <falscheAntwort1>Goldmöwe</falscheAntwort1>
+            <falscheAntwort2>Bronzemöwe</falscheAntwort2>
+            <falscheAntwort3>Kupfermöwe</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Möwe gibt es?</fragenText>
+            <richtigeAntwort>Mantelmöwe</richtigeAntwort>
+            <falscheAntwort1>Rockmöwe</falscheAntwort1>
+            <falscheAntwort2>Hosenmöwe</falscheAntwort2>
+            <falscheAntwort3>Jackenmöwe</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Möwe gibt es?</fragenText>
+            <richtigeAntwort>Lachmöwe</richtigeAntwort>
+            <falscheAntwort1>Weinmöwe</falscheAntwort1>
+            <falscheAntwort2>Grinsmöwe</falscheAntwort2>
+            <falscheAntwort3>Heulmöwe</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen die größten Tiere an der Nordsee?</fragenText>
+            <richtigeAntwort>Seehunde</richtigeAntwort>
+            <falscheAntwort1>Strandkrabben</falscheAntwort1>
+            <falscheAntwort2>Heringsmöwe</falscheAntwort2>
+            <falscheAntwort3>Austernfischer</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang werden Seehunde?</fragenText>
+            <richtigeAntwort>1,50 m - 2 m</richtigeAntwort>
+            <falscheAntwort1>0,75 cm - 1,15 m</falscheAntwort1>
+            <falscheAntwort2>30 cm - 90 cm</falscheAntwort2>
+            <falscheAntwort3>1,80 m - 3,20 m</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie schwer werden Seehunde?</fragenText>
+            <richtigeAntwort>50 kg - 100 kg</richtigeAntwort>
+            <falscheAntwort1>10 kg - 20 kg</falscheAntwort1>
+            <falscheAntwort2>30 kg - 40 kg</falscheAntwort2>
+            <falscheAntwort3>60 kg - 80 kg</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lange können Seehunde unter Wasser bleiben?</fragenText>
+            <richtigeAntwort>bis zu 15 Minuten</richtigeAntwort>
+            <falscheAntwort1>1 - 2 Stunden</falscheAntwort1>
+            <falscheAntwort2>weniger als 10 Minuten</falscheAntwort2>
+            <falscheAntwort3>genau 27 Minuten</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was jagen Seehunde n i c h t?</fragenText>
+            <richtigeAntwort>Möwen</richtigeAntwort>
+            <falscheAntwort1>Fische</falscheAntwort1>
+            <falscheAntwort2>Krebse</falscheAntwort2>
+            <falscheAntwort3>Weichtiere</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie entstehen die Wellen?</fragenText>
+            <richtigeAntwort>durch den Wind</richtigeAntwort>
+            <falscheAntwort1>durch die Schiffe</falscheAntwort1>
+            <falscheAntwort2>durch die Flut</falscheAntwort2>
+            <falscheAntwort3>durch die Erddrehung</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist das Gegenteil von „Flut“?</fragenText>
+            <richtigeAntwort>Ebbe</richtigeAntwort>
+            <falscheAntwort1>Sturm</falscheAntwort1>
+            <falscheAntwort2>Gischt</falscheAntwort2>
+            <falscheAntwort3>Brise</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist das Gegenteil von „Ebbe“?</fragenText>
+            <richtigeAntwort>Flut</richtigeAntwort>
+            <falscheAntwort1>Sturm</falscheAntwort1>
+            <falscheAntwort2>Brandung</falscheAntwort2>
+            <falscheAntwort3>Brise</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Auf welcher Insel gibt es keinen Autoverkehr?</fragenText>
+            <richtigeAntwort>Juist</richtigeAntwort>
+            <falscheAntwort1>Sylt</falscheAntwort1>
+            <falscheAntwort2>Norderney</falscheAntwort2>
+            <falscheAntwort3>Föhr</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist k e i n e ostfriesische Insel?</fragenText>
+            <richtigeAntwort>Amrum</richtigeAntwort>
+            <falscheAntwort1>Borkum</falscheAntwort1>
+            <falscheAntwort2>Juist</falscheAntwort2>
+            <falscheAntwort3>Norderney</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist k e i n e ostfriesische Insel?</fragenText>
+            <richtigeAntwort>Kurzeoog</richtigeAntwort>
+            <falscheAntwort1>Wangerooge</falscheAntwort1>
+            <falscheAntwort2>Spiekeroog</falscheAntwort2>
+            <falscheAntwort3>Langeoog</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist k e i n e ostfriesische Insel?</fragenText>
+            <richtigeAntwort>Amrum</richtigeAntwort>
+            <falscheAntwort1>Baltrum</falscheAntwort1>
+            <falscheAntwort2>Borkum</falscheAntwort2>
+            <falscheAntwort3>Juist</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist k e i n e nordfriesische Insel?</fragenText>
+            <richtigeAntwort>Juist</richtigeAntwort>
+            <falscheAntwort1>Sylt</falscheAntwort1>
+            <falscheAntwort2>Amrum</falscheAntwort2>
+            <falscheAntwort3>Föhr</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist k e i n e nordfriesische Insel?</fragenText>
+            <richtigeAntwort>Helgoland</richtigeAntwort>
+            <falscheAntwort1>Pellworm</falscheAntwort1>
+            <falscheAntwort2>Amrum</falscheAntwort2>
+            <falscheAntwort3>Föhr</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was bedeutet der Name „Helgoland“?</fragenText>
+            <richtigeAntwort>heiliges Land</richtigeAntwort>
+            <falscheAntwort1>helles Land</falscheAntwort1>
+            <falscheAntwort2>hinter dem Land</falscheAntwort2>
+            <falscheAntwort3>heftiges Land</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Fluss fließt n i c h t in die Nordsee?</fragenText>
+            <richtigeAntwort>Ruhr</richtigeAntwort>
+            <falscheAntwort1>Ems</falscheAntwort1>
+            <falscheAntwort2>Elbe</falscheAntwort2>
+            <falscheAntwort3>Weser</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Fluss fließt in die Nordsee?</fragenText>
+            <richtigeAntwort>Ems</richtigeAntwort>
+            <falscheAntwort1>Donau</falscheAntwort1>
+            <falscheAntwort2>Main</falscheAntwort2>
+            <falscheAntwort3>Mosel</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Fluss fließt in die Nordsee?</fragenText>
+            <richtigeAntwort>Elbe</richtigeAntwort>
+            <falscheAntwort1>Neckar</falscheAntwort1>
+            <falscheAntwort2>Lahn</falscheAntwort2>
+            <falscheAntwort3>Inn</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Fluss fließt in die Nordsee?</fragenText>
+            <richtigeAntwort>Rhein</richtigeAntwort>
+            <falscheAntwort1>Lippe</falscheAntwort1>
+            <falscheAntwort2>Emscher</falscheAntwort2>
+            <falscheAntwort3>Regen</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Fluss fließt in die Nordsee?</fragenText>
+            <richtigeAntwort>Weser</richtigeAntwort>
+            <falscheAntwort1>Fulda</falscheAntwort1>
+            <falscheAntwort2>Isar</falscheAntwort2>
+            <falscheAntwort3>Nil</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Stadt liegt n i c h t an der Nordsee?</fragenText>
+            <richtigeAntwort>Friedrichshafen</richtigeAntwort>
+            <falscheAntwort1>Cuxhaven</falscheAntwort1>
+            <falscheAntwort2>Wilhelmshaven</falscheAntwort2>
+            <falscheAntwort3>Bremerhaven</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welcher Inselgruppe gehören: Borkum, Juist, Norderney, Baltrum, Langeoog, Spiekeroog, Wangerooge?</fragenText>
+            <richtigeAntwort>ostfriesisiche Inseln</richtigeAntwort>
+            <falscheAntwort1>westfriesische Inseln</falscheAntwort1>
+            <falscheAntwort2>nordfriesische Inseln</falscheAntwort2>
+            <falscheAntwort3>südfriesische Inseln</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welcher Inselgruppe gehören: Sylt, Amrum, Föhr, Pellworm?</fragenText>
+            <richtigeAntwort>nordfriesische Inseln</richtigeAntwort>
+            <falscheAntwort1>südfriesische Inseln</falscheAntwort1>
+            <falscheAntwort2>westfriesische Inseln</falscheAntwort2>
+            <falscheAntwort3>ostfriesische Inseln</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die größte nordfriesische Insel?</fragenText>
+            <richtigeAntwort>Sylt</richtigeAntwort>
+            <falscheAntwort1>Pellworm</falscheAntwort1>
+            <falscheAntwort2>Amrum</falscheAntwort2>
+            <falscheAntwort3>Föhr</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die kleinen „Inseln“, auf denen man Seehunde beobachten kann?</fragenText>
+            <richtigeAntwort>Seehundbänke</richtigeAntwort>
+            <falscheAntwort1>Seehundstühle</falscheAntwort1>
+            <falscheAntwort2>Seehundtische</falscheAntwort2>
+            <falscheAntwort3>Seehundsessel</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist „Hooksiel“?</fragenText>
+            <richtigeAntwort>ein Ort an der Nordsee</richtigeAntwort>
+            <falscheAntwort1>ein alter Pirat</falscheAntwort1>
+            <falscheAntwort2>ein versunkenes Schiff</falscheAntwort2>
+            <falscheAntwort3>eine Schifffahrtsrinne</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man ein Schiff, das regelmäßig vom Festland zur Insel fährt?</fragenText>
+            <richtigeAntwort>Fähre</richtigeAntwort>
+            <falscheAntwort1>Kutter</falscheAntwort1>
+            <falscheAntwort2>Schlepper</falscheAntwort2>
+            <falscheAntwort3>Dampfer</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Weshalb ist das Baden bei Ebbe gefährlich?</fragenText>
+            <richtigeAntwort>wegen der Strömung</richtigeAntwort>
+            <falscheAntwort1>Das Wasser wird zu kalt.</falscheAntwort1>
+            <falscheAntwort2>Man stößt auf den Grund.</falscheAntwort2>
+            <falscheAntwort3>Man gefährdet die Tiere.</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Bundesland hat e i n e n Nordseestrand?</fragenText>
+            <richtigeAntwort>Schleswig - Holstein</richtigeAntwort>
+            <falscheAntwort1>Rheinland - Pfalz</falscheAntwort1>
+            <falscheAntwort2>Baden - Württemberg</falscheAntwort2>
+            <falscheAntwort3>Nordrhein - Westfalen</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Bundesland hat e i n e n Nordseestrand?</fragenText>
+            <richtigeAntwort>Niedersachsen</richtigeAntwort>
+            <falscheAntwort1>Sachsen</falscheAntwort1>
+            <falscheAntwort2>Sachsen - Anhalt</falscheAntwort2>
+            <falscheAntwort3>Thüringen</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Vögel trifft man an der Nordsee am häufigsten an?</fragenText>
+            <richtigeAntwort>Möwen</richtigeAntwort>
+            <falscheAntwort1>Spechte</falscheAntwort1>
+            <falscheAntwort2>Meisen</falscheAntwort2>
+            <falscheAntwort3>Amseln</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Krebs hat einen weichen Hinterleib?</fragenText>
+            <richtigeAntwort>Einsiedlerkrebs</richtigeAntwort>
+            <falscheAntwort1>Taschenkrebs</falscheAntwort1>
+            <falscheAntwort2>Softkrebs</falscheAntwort2>
+            <falscheAntwort3>Weichkrebs</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Krebs gibt es?</fragenText>
+            <richtigeAntwort>Taschenkrebs</richtigeAntwort>
+            <falscheAntwort1>Beutelkrebs</falscheAntwort1>
+            <falscheAntwort2>Tütenkrebs</falscheAntwort2>
+            <falscheAntwort3>Netzkrebs</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Muschel kann sich schnell eingraben?</fragenText>
+            <richtigeAntwort>Herzmuschel</richtigeAntwort>
+            <falscheAntwort1>Sandklaffmuschel</falscheAntwort1>
+            <falscheAntwort2>Miesmuschel</falscheAntwort2>
+            <falscheAntwort3>Taschenmessermuschel</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die kleinste ostfriesische Insel?</fragenText>
+            <richtigeAntwort>Baltrum</richtigeAntwort>
+            <falscheAntwort1>Juist</falscheAntwort1>
+            <falscheAntwort2>Borkum</falscheAntwort2>
+            <falscheAntwort3>Norderney</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang ist der Sandstrand von Langeoog?</fragenText>
+            <richtigeAntwort>14 km</richtigeAntwort>
+            <falscheAntwort1>10 km</falscheAntwort1>
+            <falscheAntwort2>20 km</falscheAntwort2>
+            <falscheAntwort3>6 km</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das älteste deutsche Nordseeheilbad?</fragenText>
+            <richtigeAntwort>Norderney</richtigeAntwort>
+            <falscheAntwort1>Sylt</falscheAntwort1>
+            <falscheAntwort2>Föhr</falscheAntwort2>
+            <falscheAntwort3>Juist</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann wurde das erste deutsche Nordseeheilbad gegründet?</fragenText>
+            <richtigeAntwort>1797</richtigeAntwort>
+            <falscheAntwort1>1697</falscheAntwort1>
+            <falscheAntwort2>1745</falscheAntwort2>
+            <falscheAntwort3>1812</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die höchste Erhebung Ostfrieslands?</fragenText>
+            <richtigeAntwort>Düne Melkhörn</richtigeAntwort>
+            <falscheAntwort1>Domäne Bill</falscheAntwort1>
+            <falscheAntwort2>Wilhelmshöhe</falscheAntwort2>
+            <falscheAntwort3>Hoge Hörn</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Auf welcher Insel befindet sich die höchste Erhebung Ostfrieslands?</fragenText>
+            <richtigeAntwort>Langeoog</richtigeAntwort>
+            <falscheAntwort1>Juist</falscheAntwort1>
+            <falscheAntwort2>Norderney</falscheAntwort2>
+            <falscheAntwort3>Wangerooge</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch ist die höchste Erhebung Ostfrieslands?</fragenText>
+            <richtigeAntwort>29 Meter</richtigeAntwort>
+            <falscheAntwort1>12 Meter</falscheAntwort1>
+            <falscheAntwort2>20 Meter</falscheAntwort2>
+            <falscheAntwort3>35 Meter</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man kleine Modellschiffe in leeren Flaschen?</fragenText>
+            <richtigeAntwort>Buddelschiffe</richtigeAntwort>
+            <falscheAntwort1>Flaschenschiffe</falscheAntwort1>
+            <falscheAntwort2>Museumsschiffe</falscheAntwort2>
+            <falscheAntwort3>Pfandschiffe</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welchem Land hat die Insel Wangerooge in der Vergangenheit n i c h t gehört?</fragenText>
+            <richtigeAntwort>Spanien</richtigeAntwort>
+            <falscheAntwort1>Niederlande</falscheAntwort1>
+            <falscheAntwort2>Frankreich</falscheAntwort2>
+            <falscheAntwort3>Rußland</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Emden ist bekannt für seinen großen ....</fragenText>
+            <richtigeAntwort>Exporthafen</richtigeAntwort>
+            <falscheAntwort1>Nordseekanal</falscheAntwort1>
+            <falscheAntwort2>Sandstrand</falscheAntwort2>
+            <falscheAntwort3>Leuchtturm</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man einen alten „Wintersport“ der Ostfriesen?</fragenText>
+            <richtigeAntwort>Boßeln</richtigeAntwort>
+            <falscheAntwort1>Stoßeln</falscheAntwort1>
+            <falscheAntwort2>Woßeln</falscheAntwort2>
+            <falscheAntwort3>Kloßeln</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die älteste Stadt Ostfrieslands?</fragenText>
+            <richtigeAntwort>Norden</richtigeAntwort>
+            <falscheAntwort1>Süden</falscheAntwort1>
+            <falscheAntwort2>Westen</falscheAntwort2>
+            <falscheAntwort3>Osten</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wilhelmshaven liegt am ....</fragenText>
+            <richtigeAntwort>Jadebusen</richtigeAntwort>
+            <falscheAntwort1>Bernsteinrücken</falscheAntwort1>
+            <falscheAntwort2>Rubinbauch</falscheAntwort2>
+            <falscheAntwort3>Smaragthals</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen bedeutenden Hafen besitzt Wilhelmshaven?</fragenText>
+            <richtigeAntwort>Ölhafen</richtigeAntwort>
+            <falscheAntwort1>Überseehafen</falscheAntwort1>
+            <falscheAntwort2>Exporthafen</falscheAntwort2>
+            <falscheAntwort3>Touristenhafen</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Menschen machen jährlich an der Nordsee Urlaub?</fragenText>
+            <richtigeAntwort>ca. 3 Millionen</richtigeAntwort>
+            <falscheAntwort1>ca. 1 Millionen</falscheAntwort1>
+            <falscheAntwort2>ca. 12 Millionen</falscheAntwort2>
+            <falscheAntwort3>ca. 750 000</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Nationalparks gibt es an der Nordseeküste?</fragenText>
+            <richtigeAntwort>3</richtigeAntwort>
+            <falscheAntwort1>1</falscheAntwort1>
+            <falscheAntwort2>2</falscheAntwort2>
+            <falscheAntwort3>4</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann ist der Nationalpark „Niedersächsisches Wattenmeer“ entstanden?</fragenText>
+            <richtigeAntwort>1986</richtigeAntwort>
+            <falscheAntwort1>1995</falscheAntwort1>
+            <falscheAntwort2>1970</falscheAntwort2>
+            <falscheAntwort3>1899</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann sollte man eine Wattwanderung beginnen?</fragenText>
+            <richtigeAntwort>mehrere Stunden vor Niedrigwasser</richtigeAntwort>
+            <falscheAntwort1>1 Stunde vor Hochwasser</falscheAntwort1>
+            <falscheAntwort2>1 Stunde nach Hochwasser</falscheAntwort2>
+            <falscheAntwort3>1 Stunde vor Niedrigwasser</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was gehört nicht zum „Niedersächsischen Nationalpark“?</fragenText>
+            <richtigeAntwort>Flussmündungen</richtigeAntwort>
+            <falscheAntwort1>Inseln</falscheAntwort1>
+            <falscheAntwort2>Watt</falscheAntwort2>
+            <falscheAntwort3>Sandbänke</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Autos können am Strand von St. Peter - Ording parken?</fragenText>
+            <richtigeAntwort>6000</richtigeAntwort>
+            <falscheAntwort1>keines</falscheAntwort1>
+            <falscheAntwort2>1000</falscheAntwort2>
+            <falscheAntwort3>3000</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Warum darf man die Pfade in den Dünen nicht verlassen?</fragenText>
+            <richtigeAntwort>Die Pflanzendecke geht kaputt.</richtigeAntwort>
+            <falscheAntwort1>Man kann sich verlaufen.</falscheAntwort1>
+            <falscheAntwort2>Man sinkt tief ein.</falscheAntwort2>
+            <falscheAntwort3>Die Anwohner werden gestört.</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Flugzeuge landen und starten jährlich auf Sylt?</fragenText>
+            <richtigeAntwort>ca. 35 000</richtigeAntwort>
+            <falscheAntwort1>ca. 12 000</falscheAntwort1>
+            <falscheAntwort2>ca. 21 000</falscheAntwort2>
+            <falscheAntwort3>ca. 8 0000</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Warum ist für die Küste der Tourismus wichtig?</fragenText>
+            <richtigeAntwort>Er ist die Haupterwerbsquelle.</richtigeAntwort>
+            <falscheAntwort1>Damit die Menschen nicht einsam sind.</falscheAntwort1>
+            <falscheAntwort2>Damit die Hotels voll sind.</falscheAntwort2>
+            <falscheAntwort3>Damit die Schiffe voll sind.</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Warum sind die Fahrten zu den Seehundbänken gefährlich?</fragenText>
+            <richtigeAntwort>Die Tiere werden gestört.</richtigeAntwort>
+            <falscheAntwort1>Die Strömung ist zu stark.</falscheAntwort1>
+            <falscheAntwort2>Das Wasser ist zu flach.</falscheAntwort2>
+            <falscheAntwort3>Das Wetter verändert sich schnell.</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Worauf muss man beim Baden an der Nordseeküste achten?</fragenText>
+            <richtigeAntwort>auf die starke Strömung</richtigeAntwort>
+            <falscheAntwort1>auf den Wind</falscheAntwort1>
+            <falscheAntwort2>auf Haie</falscheAntwort2>
+            <falscheAntwort3>auf die spitzen Felsen</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Warum nehmen Robben Sonnenbäder?</fragenText>
+            <richtigeAntwort>um ihren Vitamin - D - Haushalt aufzubessern</richtigeAntwort>
+            <falscheAntwort1>um ihr Fell zu trocknen</falscheAntwort1>
+            <falscheAntwort2>um schön braun zu werden</falscheAntwort2>
+            <falscheAntwort3>um sich auszuruhen</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die flachste Stelle der Nordsee?</fragenText>
+            <richtigeAntwort>Doggerbank</richtigeAntwort>
+            <falscheAntwort1>Dackelbank</falscheAntwort1>
+            <falscheAntwort2>Deutsche Bucht</falscheAntwort2>
+            <falscheAntwort3>Skagerrak</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie tief ist die flachste Stelle der Nordsee?</fragenText>
+            <richtigeAntwort>13 - 30 m</richtigeAntwort>
+            <falscheAntwort1>2 - 6 m</falscheAntwort1>
+            <falscheAntwort2>32 - 45 m</falscheAntwort2>
+            <falscheAntwort3>51 - 88 m</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die tiefste Stelle der Nordsee?</fragenText>
+            <richtigeAntwort>Norwegische Rinne</richtigeAntwort>
+            <falscheAntwort1>Dänische Kuhle</falscheAntwort1>
+            <falscheAntwort2>Deutsche Bucht</falscheAntwort2>
+            <falscheAntwort3>Englisches Loch</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie tief ist die tiefste Stelle der Nordsee?</fragenText>
+            <richtigeAntwort>712 m</richtigeAntwort>
+            <falscheAntwort1>305 m</falscheAntwort1>
+            <falscheAntwort2>556 m</falscheAntwort2>
+            <falscheAntwort3>923 m</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen die Inselbewohner von Sylt?</fragenText>
+            <richtigeAntwort>Syltringer</richtigeAntwort>
+            <falscheAntwort1>Syltaner</falscheAntwort1>
+            <falscheAntwort2>Syltener</falscheAntwort2>
+            <falscheAntwort3>Syltsen</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Auf welcher Insel liegt Kampen?</fragenText>
+            <richtigeAntwort>Sylt</richtigeAntwort>
+            <falscheAntwort1>Norderney</falscheAntwort1>
+            <falscheAntwort2>Borkum</falscheAntwort2>
+            <falscheAntwort3>Föhr</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Damm, der die Insel Sylt mit dem Festland verbindet?</fragenText>
+            <richtigeAntwort>Hindenburg - Damm</richtigeAntwort>
+            <falscheAntwort1>Bismarck - Damm</falscheAntwort1>
+            <falscheAntwort2>Friesen - Damm</falscheAntwort2>
+            <falscheAntwort3>Kaiser Wilhelm - Damm</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie breit ist die Insel Sylt an der breitesten Stelle?</fragenText>
+            <richtigeAntwort>12 km</richtigeAntwort>
+            <falscheAntwort1>16 km</falscheAntwort1>
+            <falscheAntwort2>8 km</falscheAntwort2>
+            <falscheAntwort3>23 km</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie breit ist die Insel Sylt an der schmalsten Stelle?</fragenText>
+            <richtigeAntwort>500 m</richtigeAntwort>
+            <falscheAntwort1>800 m</falscheAntwort1>
+            <falscheAntwort2>1400 m</falscheAntwort2>
+            <falscheAntwort3>1000 m</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Einwohner hat die Insel Sylt?</fragenText>
+            <richtigeAntwort>ca. 24 000</richtigeAntwort>
+            <falscheAntwort1>ca. 16 000</falscheAntwort1>
+            <falscheAntwort2>ca. 38 000</falscheAntwort2>
+            <falscheAntwort3>ca. 57 000</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der südlichste Inselort von Sylt?</fragenText>
+            <richtigeAntwort>Hörnum</richtigeAntwort>
+            <falscheAntwort1>Kampen</falscheAntwort1>
+            <falscheAntwort2>Westerland</falscheAntwort2>
+            <falscheAntwort3>List</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Auf welcher Insel befindet sich der Ort Wyk?</fragenText>
+            <richtigeAntwort>Föhr</richtigeAntwort>
+            <falscheAntwort1>Amrum</falscheAntwort1>
+            <falscheAntwort2>Baltrum</falscheAntwort2>
+            <falscheAntwort3>Juist</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Von welchem Hafen kommt man am schnellsten nach Föhr?</fragenText>
+            <richtigeAntwort>Dagebüll</richtigeAntwort>
+            <falscheAntwort1>Bremerhaven</falscheAntwort1>
+            <falscheAntwort2>Wilhelmshaven</falscheAntwort2>
+            <falscheAntwort3>Norden - Norddeich</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die kleinste der nordfriesischen Inseln?</fragenText>
+            <richtigeAntwort>Amrum</richtigeAntwort>
+            <falscheAntwort1>Sylt</falscheAntwort1>
+            <falscheAntwort2>Föhr</falscheAntwort2>
+            <falscheAntwort3>Pellworm</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch ist die höchste Düne auf Amrum?</fragenText>
+            <richtigeAntwort>32 m</richtigeAntwort>
+            <falscheAntwort1>15 m</falscheAntwort1>
+            <falscheAntwort2>20 m</falscheAntwort2>
+            <falscheAntwort3>45 m</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Auf welcher nordfriesischen Insel liegt der Ort Norddorf?</fragenText>
+            <richtigeAntwort>Amrum</richtigeAntwort>
+            <falscheAntwort1>Sylt</falscheAntwort1>
+            <falscheAntwort2>Föhr</falscheAntwort2>
+            <falscheAntwort3>Norderney</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang ist der Deich, der die Insel Pellworm umgibt?</fragenText>
+            <richtigeAntwort>26 km</richtigeAntwort>
+            <falscheAntwort1>16 km</falscheAntwort1>
+            <falscheAntwort2>36 km</falscheAntwort2>
+            <falscheAntwort3>46 km</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die größte Hallig?</fragenText>
+            <richtigeAntwort>Langeneß</richtigeAntwort>
+            <falscheAntwort1>Oland</falscheAntwort1>
+            <falscheAntwort2>Norderoog</falscheAntwort2>
+            <falscheAntwort3>Hamburger Hallig</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang ist der Klippenrundweg von Helgoland?</fragenText>
+            <richtigeAntwort>2800 m</richtigeAntwort>
+            <falscheAntwort1>2000 m</falscheAntwort1>
+            <falscheAntwort2>2200 m</falscheAntwort2>
+            <falscheAntwort3>2500 m</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Teil gehört nicht zu Helgoland?</fragenText>
+            <richtigeAntwort>Mittelland</richtigeAntwort>
+            <falscheAntwort1>Oberland</falscheAntwort1>
+            <falscheAntwort2>Unterland</falscheAntwort2>
+            <falscheAntwort3>Düne</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das Wahrzeichen der Insel Helgoland?</fragenText>
+            <richtigeAntwort>„Lange Anna“</richtigeAntwort>
+            <falscheAntwort1>„Kurze Berta“</falscheAntwort1>
+            <falscheAntwort2>„Dicke Frieda“</falscheAntwort2>
+            <falscheAntwort3>„Dünne Dern“</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie groß ist die Nordsee?</fragenText>
+            <richtigeAntwort>doppelt so groß wie Deutschland</richtigeAntwort>
+            <falscheAntwort1>so groß wie Deutschland</falscheAntwort1>
+            <falscheAntwort2>so groß wie die Schweiz</falscheAntwort2>
+            <falscheAntwort3>so groß wie die USA</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die mittlere Tiefe der Nordsee beträgt ...</fragenText>
+            <richtigeAntwort>70 m</richtigeAntwort>
+            <falscheAntwort1>40 m</falscheAntwort1>
+            <falscheAntwort2>120 m</falscheAntwort2>
+            <falscheAntwort3>260 m</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Nordsee ist ein Randmeer des ...</fragenText>
+            <richtigeAntwort>Atlantischen Ozeans</richtigeAntwort>
+            <falscheAntwort1>Pazifischen Ozeans</falscheAntwort1>
+            <falscheAntwort2>Stillen Ozeans</falscheAntwort2>
+            <falscheAntwort3>Indischen Ozeans</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Woher fließt das meiste Wasser in die Nordsee?</fragenText>
+            <richtigeAntwort>aus dem Atlantik</richtigeAntwort>
+            <falscheAntwort1>aus den Flüssen</falscheAntwort1>
+            <falscheAntwort2>aus der Ostsee</falscheAntwort2>
+            <falscheAntwort3>aus den Kanälen</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Stadt liegt an der Elbe?</fragenText>
+            <richtigeAntwort>Hamburg</richtigeAntwort>
+            <falscheAntwort1>Wilhelmshaven</falscheAntwort1>
+            <falscheAntwort2>Bremerhaven</falscheAntwort2>
+            <falscheAntwort3>Emden</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Weser mündet in ...</fragenText>
+            <richtigeAntwort>die Deutsche Bucht</richtigeAntwort>
+            <falscheAntwort1>die Ostsee</falscheAntwort1>
+            <falscheAntwort2>den Ärmelkanal</falscheAntwort2>
+            <falscheAntwort3>den Skagerrak</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Von der Nordsee fahren die Schiffe zur Ostsee durch ...</fragenText>
+            <richtigeAntwort>den Skagerrak</richtigeAntwort>
+            <falscheAntwort1>den Ärmelkanal</falscheAntwort1>
+            <falscheAntwort2>die Straße von Gibraltar</falscheAntwort2>
+            <falscheAntwort3>die Deutsche Bucht</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Für wie viele Vogelarten ist das Wattenmeer lebenswichtig?</fragenText>
+            <richtigeAntwort>ca. 50</richtigeAntwort>
+            <falscheAntwort1>ca. 10</falscheAntwort1>
+            <falscheAntwort2>ca. 20</falscheAntwort2>
+            <falscheAntwort3>ca. 35</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie wird der „Knutt“ auch noch genannt?</fragenText>
+            <richtigeAntwort>Küstenstrandläufer</richtigeAntwort>
+            <falscheAntwort1>Küstenrenner</falscheAntwort1>
+            <falscheAntwort2>Strandgeher</falscheAntwort2>
+            <falscheAntwort3>Wattspazierer</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele „Knutts“ fliegen manchmal in einer „Wolke“ zusammen?</fragenText>
+            <richtigeAntwort>30 000</richtigeAntwort>
+            <falscheAntwort1>2 000</falscheAntwort1>
+            <falscheAntwort2>15 000</falscheAntwort2>
+            <falscheAntwort3>8 000</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Wurm baut feine Röhren aus Sand?</fragenText>
+            <richtigeAntwort>Bäumchenröhrenwurm</richtigeAntwort>
+            <falscheAntwort1>Regenwurm</falscheAntwort1>
+            <falscheAntwort2>Wattwurm</falscheAntwort2>
+            <falscheAntwort3>Dünenwurm</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer hat früher regelmäßig im Watt gelebt und gilt heute dort als ausgestorben?</fragenText>
+            <richtigeAntwort>Große Tümmler</richtigeAntwort>
+            <falscheAntwort1>Seehund</falscheAntwort1>
+            <falscheAntwort2>Silbermöwe</falscheAntwort2>
+            <falscheAntwort3>Einsiedlerkrebs</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer ist es? Er hat lange Tentakeln und wenn man ihn anfasst, brennt es.</fragenText>
+            <richtigeAntwort>eine blaue Nesselqualle</richtigeAntwort>
+            <falscheAntwort1>eine Ohrenqualle</falscheAntwort1>
+            <falscheAntwort2>ein Tintenfisch</falscheAntwort2>
+            <falscheAntwort3>eine Garnele</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Eier produziert eine Miesmuschel?</fragenText>
+            <richtigeAntwort>10 Millionen</richtigeAntwort>
+            <falscheAntwort1>100 000</falscheAntwort1>
+            <falscheAntwort2>1 Milliarde</falscheAntwort2>
+            <falscheAntwort3>1 Millionen</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Pflanze blüht lila in riesigen Mengen in den Salzwiesen?</fragenText>
+            <richtigeAntwort>die Strandaster</richtigeAntwort>
+            <falscheAntwort1>das Milchkraut</falscheAntwort1>
+            <falscheAntwort2>die Veilchen</falscheAntwort2>
+            <falscheAntwort3>die Silberdistel</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was frisst eine Wattschnecke?</fragenText>
+            <richtigeAntwort>Kieselalgen</richtigeAntwort>
+            <falscheAntwort1>Muscheln</falscheAntwort1>
+            <falscheAntwort2>Krebse</falscheAntwort2>
+            <falscheAntwort3>Tintenfische</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was frisst der Seeringelwurm?</fragenText>
+            <richtigeAntwort>Würmer</richtigeAntwort>
+            <falscheAntwort1>Muscheln</falscheAntwort1>
+            <falscheAntwort2>Kieselalgen</falscheAntwort2>
+            <falscheAntwort3>Watt</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Tragzeit der Seehunde beträgt ...</fragenText>
+            <richtigeAntwort>11 Monate</richtigeAntwort>
+            <falscheAntwort1>9 Monate</falscheAntwort1>
+            <falscheAntwort2>6 Monate</falscheAntwort2>
+            <falscheAntwort3>16 Monate</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist ein „Petermännchen“?</fragenText>
+            <richtigeAntwort>ein Fisch</richtigeAntwort>
+            <falscheAntwort1>der Wattführer von St. Peter - Ording</falscheAntwort1>
+            <falscheAntwort2>eine Schnecke</falscheAntwort2>
+            <falscheAntwort3>eine Muschel</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie groß wird der Schlickkrebs?</fragenText>
+            <richtigeAntwort>ca. 1 cm</richtigeAntwort>
+            <falscheAntwort1>ca. 2 cm</falscheAntwort1>
+            <falscheAntwort2>ca. 3 cm</falscheAntwort2>
+            <falscheAntwort3>ca. 4 cm</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man festsitzende Krebse?</fragenText>
+            <richtigeAntwort>Seepocken</richtigeAntwort>
+            <falscheAntwort1>Seerochen</falscheAntwort1>
+            <falscheAntwort2>Landkrebs</falscheAntwort2>
+            <falscheAntwort3>Mieskrebs</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie wird die Nordseegarnele auch genannt?</fragenText>
+            <richtigeAntwort>Granat</richtigeAntwort>
+            <falscheAntwort1>Spinat</falscheAntwort1>
+            <falscheAntwort2>Salat</falscheAntwort2>
+            <falscheAntwort3>Zutat</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie groß ist das Gehäuse der Strandschnecke?</fragenText>
+            <richtigeAntwort>ca. 2 cm</richtigeAntwort>
+            <falscheAntwort1>ca. 1 cm</falscheAntwort1>
+            <falscheAntwort2>ca. 3 cm</falscheAntwort2>
+            <falscheAntwort3>ca. 4 cm</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie groß wird das Gehäuse der Wattschnecke?</fragenText>
+            <richtigeAntwort>ca. 6 mm</richtigeAntwort>
+            <falscheAntwort1>ca. 10 mm</falscheAntwort1>
+            <falscheAntwort2>ca. 14 mm</falscheAntwort2>
+            <falscheAntwort3>ca. 16 mm</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang wird das Gehäuse der Wellhornschnecke?</fragenText>
+            <richtigeAntwort>ca. 11 cm</richtigeAntwort>
+            <falscheAntwort1>ca. 6 cm</falscheAntwort1>
+            <falscheAntwort2>ca. 8 cm</falscheAntwort2>
+            <falscheAntwort3>ca. 15 cm</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie wird der Wattwurm auch noch genannt?</fragenText>
+            <richtigeAntwort>Sandpierwurm</richtigeAntwort>
+            <falscheAntwort1>Regenwurm</falscheAntwort1>
+            <falscheAntwort2>Borstenwurm</falscheAntwort2>
+            <falscheAntwort3>Kriechwurm</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang wird der Seeringelwurm?</fragenText>
+            <richtigeAntwort>ca. 20 cm</richtigeAntwort>
+            <falscheAntwort1>ca. 4 cm</falscheAntwort1>
+            <falscheAntwort2>ca. 10 cm</falscheAntwort2>
+            <falscheAntwort3>ca. 14 cm</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie groß wird der Bäumchenröhrenwurm?</fragenText>
+            <richtigeAntwort>5 - 8 cm</richtigeAntwort>
+            <falscheAntwort1>1 - 4 cm</falscheAntwort1>
+            <falscheAntwort2>2 - 6 cm</falscheAntwort2>
+            <falscheAntwort3>8 - 12 cm</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie wird der Kotpillenwurm noch genannt?</fragenText>
+            <richtigeAntwort>Gummiband - Wurm</richtigeAntwort>
+            <falscheAntwort1>Hosenträger - Wurm</falscheAntwort1>
+            <falscheAntwort2>Tischdecken - Wurm</falscheAntwort2>
+            <falscheAntwort3>Wollfaden - Wurm</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang wird der Kotpillenwurm?</fragenText>
+            <richtigeAntwort>ca. 15 cm</richtigeAntwort>
+            <falscheAntwort1>ca. 3 cm</falscheAntwort1>
+            <falscheAntwort2>ca. 6 cm</falscheAntwort2>
+            <falscheAntwort3>ca. 10 cm</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang kann die Miesmuschel werden?</fragenText>
+            <richtigeAntwort>ca. 7 cm</richtigeAntwort>
+            <falscheAntwort1>ca. 3 cm</falscheAntwort1>
+            <falscheAntwort2>ca. 11 cm</falscheAntwort2>
+            <falscheAntwort3>ca. 15 cm</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die bekannteste Wattmuschel?</fragenText>
+            <richtigeAntwort>Miesmuschel</richtigeAntwort>
+            <falscheAntwort1>Plattmuschel</falscheAntwort1>
+            <falscheAntwort2>Taschenmessermuschel</falscheAntwort2>
+            <falscheAntwort3>Pfeffermuschel</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele „Rippen“ hat eine Herzmuschel?</fragenText>
+            <richtigeAntwort>ca. 24</richtigeAntwort>
+            <falscheAntwort1>ca. 6</falscheAntwort1>
+            <falscheAntwort2>ca. 12</falscheAntwort2>
+            <falscheAntwort3>ca. 18</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Eier stößt die weibliche Herzmuschel im Mai aus?</fragenText>
+            <richtigeAntwort>ca. 50 000</richtigeAntwort>
+            <falscheAntwort1>ca. 1 Millionen</falscheAntwort1>
+            <falscheAntwort2>ca. 500 000</falscheAntwort2>
+            <falscheAntwort3>ca. 10 000</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele von 100 jungen Herzmuscheln leben noch nach einem Jahr?</fragenText>
+            <richtigeAntwort>1</richtigeAntwort>
+            <falscheAntwort1>10</falscheAntwort1>
+            <falscheAntwort2>20</falscheAntwort2>
+            <falscheAntwort3>50</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie alt können Herzmuscheln werden?</fragenText>
+            <richtigeAntwort>16 Jahre</richtigeAntwort>
+            <falscheAntwort1>3 Jahre</falscheAntwort1>
+            <falscheAntwort2>5 Jahre</falscheAntwort2>
+            <falscheAntwort3>11 Jahre</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wovon ernähren sich Herzmuscheln?</fragenText>
+            <richtigeAntwort>Plankton</richtigeAntwort>
+            <falscheAntwort1>Salat</falscheAntwort1>
+            <falscheAntwort2>Krebse</falscheAntwort2>
+            <falscheAntwort3>Fische</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie wird die Baltische Plattmuschel auch noch genannt?</fragenText>
+            <richtigeAntwort>rote Bohne</richtigeAntwort>
+            <falscheAntwort1>grüne Erbse</falscheAntwort1>
+            <falscheAntwort2>braune Linse</falscheAntwort2>
+            <falscheAntwort3>gelbes Maiskorn</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang wird die Baltische Plattmuschel?</fragenText>
+            <richtigeAntwort>ca. 2 cm</richtigeAntwort>
+            <falscheAntwort1>ca. 1 cm</falscheAntwort1>
+            <falscheAntwort2>ca. 4 cm</falscheAntwort2>
+            <falscheAntwort3>ca. 7 cm</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang wird die Pfeffermuschel?</fragenText>
+            <richtigeAntwort>ca. 55 mm</richtigeAntwort>
+            <falscheAntwort1>ca. 22 mm</falscheAntwort1>
+            <falscheAntwort2>ca. 33 mm</falscheAntwort2>
+            <falscheAntwort3>ca. 44 mm</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele verschiedene Fischarten leben im Wattenmeer?</fragenText>
+            <richtigeAntwort>mehr als 70</richtigeAntwort>
+            <falscheAntwort1>weniger als 20</falscheAntwort1>
+            <falscheAntwort2>30 - 40</falscheAntwort2>
+            <falscheAntwort3>50 - 60</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Gruppe von Fischen, die ihr ganzes Leben im Wattenmeer verbringen?</fragenText>
+            <richtigeAntwort>Standfische</richtigeAntwort>
+            <falscheAntwort1>Nordseefische</falscheAntwort1>
+            <falscheAntwort2>Wattfische</falscheAntwort2>
+            <falscheAntwort3>Bleibfische</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Fisch ist kein Standfisch?</fragenText>
+            <richtigeAntwort>Makrele</richtigeAntwort>
+            <falscheAntwort1>Aalmutter</falscheAntwort1>
+            <falscheAntwort2>Seeskorpion</falscheAntwort2>
+            <falscheAntwort3>Butterfisch</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Für welchen Fisch ist das Wattenmeer n i c h t die Kinderstube?</fragenText>
+            <richtigeAntwort>Karpfen</richtigeAntwort>
+            <falscheAntwort1>Scholle</falscheAntwort1>
+            <falscheAntwort2>Hering</falscheAntwort2>
+            <falscheAntwort3>Seezunge</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lange bleibt die Seezunge in der Kinderstube Wattenmeer?</fragenText>
+            <richtigeAntwort>2 - 3 Jahre</richtigeAntwort>
+            <falscheAntwort1>6 Monate</falscheAntwort1>
+            <falscheAntwort2>12 Wochen</falscheAntwort2>
+            <falscheAntwort3>1 Jahr</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Meeressäuger gibt es n i c h t im deutschen Wattenmeer?</fragenText>
+            <richtigeAntwort>Schwertwal</richtigeAntwort>
+            <falscheAntwort1>Kegelrobbe</falscheAntwort1>
+            <falscheAntwort2>Seehund</falscheAntwort2>
+            <falscheAntwort3>Schweinswal</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang wird der Schweinswal?</fragenText>
+            <richtigeAntwort>ca. 1,80 m</richtigeAntwort>
+            <falscheAntwort1>ca. 2,90 m</falscheAntwort1>
+            <falscheAntwort2>ca. 4,50 m</falscheAntwort2>
+            <falscheAntwort3>ca. 8,80 m</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie tief kann ein Seehund tauchen?</fragenText>
+            <richtigeAntwort>mehrere hundert Meter</richtigeAntwort>
+            <falscheAntwort1>50 Meter</falscheAntwort1>
+            <falscheAntwort2>zwischen 30 und 45 Meter</falscheAntwort2>
+            <falscheAntwort3>weniger als 30 Meter</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo haben die Seehunde k e i n e Tasthaare?</fragenText>
+            <richtigeAntwort>Ohren</richtigeAntwort>
+            <falscheAntwort1>Mund</falscheAntwort1>
+            <falscheAntwort2>Nase</falscheAntwort2>
+            <falscheAntwort3>Augen</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo ist der typische Lebensraum der Kegelrobben?</fragenText>
+            <richtigeAntwort>Felsenküste</richtigeAntwort>
+            <falscheAntwort1>Sandstrand</falscheAntwort1>
+            <falscheAntwort2>Flussmündung</falscheAntwort2>
+            <falscheAntwort3>Inselhäfen</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Vor welcher Insel gibt es Kegelrobben?</fragenText>
+            <richtigeAntwort>Amrum</richtigeAntwort>
+            <falscheAntwort1>Juist</falscheAntwort1>
+            <falscheAntwort2>Rügen</falscheAntwort2>
+            <falscheAntwort3>Baltrum</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie schwer ist ein ausgewachsener Kegelrobbenbulle?</fragenText>
+            <richtigeAntwort>ca. 300 kg</richtigeAntwort>
+            <falscheAntwort1>ca. 100 kg</falscheAntwort1>
+            <falscheAntwort2>100 - 200 kg</falscheAntwort2>
+            <falscheAntwort3>über 500 kg</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang wird ein ausgewachsener Kegelrobbenbulle?</fragenText>
+            <richtigeAntwort>ca. 2,30 m</richtigeAntwort>
+            <falscheAntwort1>1 m</falscheAntwort1>
+            <falscheAntwort2>ca. 3,50 m</falscheAntwort2>
+            <falscheAntwort3>4 - 6 m</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann werden die Kegelrobbenbabys geboren?</fragenText>
+            <richtigeAntwort>in den Wintermonaten</richtigeAntwort>
+            <falscheAntwort1>in den Sommermonaten</falscheAntwort1>
+            <falscheAntwort2>in den Herbstmonaten</falscheAntwort2>
+            <falscheAntwort3>in den Frühlingsmonaten</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Farbe hat das Fell der Kegelrobbenbabys?</fragenText>
+            <richtigeAntwort>weiß</richtigeAntwort>
+            <falscheAntwort1>braun</falscheAntwort1>
+            <falscheAntwort2>schwarz</falscheAntwort2>
+            <falscheAntwort3>grau</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie schwer wird das Schweinswalweibchen?</fragenText>
+            <richtigeAntwort>40 -70 kg</richtigeAntwort>
+            <falscheAntwort1>ca. 100 kg</falscheAntwort1>
+            <falscheAntwort2>weniger als 40 kg</falscheAntwort2>
+            <falscheAntwort3>ca. 180 kg</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann werden die Schweinswalbabys geboren?</fragenText>
+            <richtigeAntwort>Mai - Juli</richtigeAntwort>
+            <falscheAntwort1>Januar - April</falscheAntwort1>
+            <falscheAntwort2>August - November</falscheAntwort2>
+            <falscheAntwort3>nur im Oktober</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie schwer sind die Schweinswalbabys bei der Geburt?</fragenText>
+            <richtigeAntwort>5 - 8 kg</richtigeAntwort>
+            <falscheAntwort1>ca. 2 kg</falscheAntwort1>
+            <falscheAntwort2>9 - 12 kg</falscheAntwort2>
+            <falscheAntwort3>ca. 4 kg</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang sind die Schweinswalbabys bei der Geburt?</fragenText>
+            <richtigeAntwort>70 - 90 cm</richtigeAntwort>
+            <falscheAntwort1>ca. 1,20 m</falscheAntwort1>
+            <falscheAntwort2>50 - 80 cm</falscheAntwort2>
+            <falscheAntwort3>ca. 1,80 m</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Vor welcher Insel liegt ein wichtiges Aufzuchtgebiet für Schweinswale?</fragenText>
+            <richtigeAntwort>Sylt</richtigeAntwort>
+            <falscheAntwort1>Borkum</falscheAntwort1>
+            <falscheAntwort2>Norderney</falscheAntwort2>
+            <falscheAntwort3>Juist</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie groß können die Seesterne des Wattenmeeres werden?</fragenText>
+            <richtigeAntwort>bis zu 30 cm</richtigeAntwort>
+            <falscheAntwort1>bis zu 10 cm</falscheAntwort1>
+            <falscheAntwort2>bis zu 15 cm</falscheAntwort2>
+            <falscheAntwort3>bis zu 20 cm</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Arme hat ein Seestern?</fragenText>
+            <richtigeAntwort>5</richtigeAntwort>
+            <falscheAntwort1>4</falscheAntwort1>
+            <falscheAntwort2>6</falscheAntwort2>
+            <falscheAntwort3>7</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wenn ein Seestern einen seiner Arme verliert, dann ...</fragenText>
+            <richtigeAntwort>wächst ein Arm nach.</richtigeAntwort>
+            <falscheAntwort1>stirbt der Seestern.</falscheAntwort1>
+            <falscheAntwort2>passiert nichts.</falscheAntwort2>
+            <falscheAntwort3>wachsen zwei Arme nach.</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Witwenrose gehört zu den Blumentieren. Wie viele Tentakel hat sie an ihrer Mundscheibe?</fragenText>
+            <richtigeAntwort>100 - 200</richtigeAntwort>
+            <falscheAntwort1>200 - 300</falscheAntwort1>
+            <falscheAntwort2>300 - 400</falscheAntwort2>
+            <falscheAntwort3>400 -500</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang wird eine ausgestreckte Witwenrose?</fragenText>
+            <richtigeAntwort>ca. 12 cm</richtigeAntwort>
+            <falscheAntwort1>3 - 6 cm</falscheAntwort1>
+            <falscheAntwort2>7 - 11 cm</falscheAntwort2>
+            <falscheAntwort3>über 18 cm</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang kann die Seenelke werden?</fragenText>
+            <richtigeAntwort>ca. 25 cm</richtigeAntwort>
+            <falscheAntwort1>10 - 14 cm</falscheAntwort1>
+            <falscheAntwort2>ca. 5 cm</falscheAntwort2>
+            <falscheAntwort3>30 - 40 cm</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Tentakeln hat eine Seenelke?</fragenText>
+            <richtigeAntwort>ca. 1000</richtigeAntwort>
+            <falscheAntwort1>ca. 10</falscheAntwort1>
+            <falscheAntwort2>ca. 100</falscheAntwort2>
+            <falscheAntwort3>ca. 10000</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was geschieht mit gestrandeten Quallen?</fragenText>
+            <richtigeAntwort>Sie sterben sofort.</richtigeAntwort>
+            <falscheAntwort1>Sie graben sich ein.</falscheAntwort1>
+            <falscheAntwort2>Sie schwimmen zurück.</falscheAntwort2>
+            <falscheAntwort3>Sie leben noch 2 - 3 Stunden.</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welcher Farbe blüht im Sommer der Strandflieder?</fragenText>
+            <richtigeAntwort>blauviolett</richtigeAntwort>
+            <falscheAntwort1>hellgelb</falscheAntwort1>
+            <falscheAntwort2>dunkelrot</falscheAntwort2>
+            <falscheAntwort3>zartgrün</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welcher Farbe blüht die Strandaster?</fragenText>
+            <richtigeAntwort>gelblila</richtigeAntwort>
+            <falscheAntwort1>grüngelb</falscheAntwort1>
+            <falscheAntwort2>hellorange</falscheAntwort2>
+            <falscheAntwort3>blau - weiß</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie groß wird die Strandaster?</fragenText>
+            <richtigeAntwort>ca. 70 cm</richtigeAntwort>
+            <falscheAntwort1>ca. 25 cm</falscheAntwort1>
+            <falscheAntwort2>ca. 52 cm</falscheAntwort2>
+            <falscheAntwort3>ca. 120 cm</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch wird das Strand - Milchkraut?</fragenText>
+            <richtigeAntwort>3 - 5 cm</richtigeAntwort>
+            <falscheAntwort1>ca. 10 cm</falscheAntwort1>
+            <falscheAntwort2>12 - 16 cm</falscheAntwort2>
+            <falscheAntwort3>ca. 25 cm</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Farbe hat die Blüte des Strand - Milchkrautes?</fragenText>
+            <richtigeAntwort>weiß - rötlich</richtigeAntwort>
+            <falscheAntwort1>gelb - grünlich</falscheAntwort1>
+            <falscheAntwort2>blau - gräulich</falscheAntwort2>
+            <falscheAntwort3>grün - bräunlich</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Farbe haben die Äste und Zweige des Strand - Beifußes?</fragenText>
+            <richtigeAntwort>silbergrau</richtigeAntwort>
+            <falscheAntwort1>braunschwarz</falscheAntwort1>
+            <falscheAntwort2>dunkelblau</falscheAntwort2>
+            <falscheAntwort3>hellrosa</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch wird die Krähenbeere?</fragenText>
+            <richtigeAntwort>bis 50 cm</richtigeAntwort>
+            <falscheAntwort1>bis 30 cm</falscheAntwort1>
+            <falscheAntwort2>bis 80 cm</falscheAntwort2>
+            <falscheAntwort3>bis 10 cm</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Farbe haben die Früchte der Krähenbeere?</fragenText>
+            <richtigeAntwort>schwarz</richtigeAntwort>
+            <falscheAntwort1>rot</falscheAntwort1>
+            <falscheAntwort2>gelb</falscheAntwort2>
+            <falscheAntwort3>blau</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie groß kann der Sanddorn werden?</fragenText>
+            <richtigeAntwort>bis 4 m</richtigeAntwort>
+            <falscheAntwort1>bis 120 cm</falscheAntwort1>
+            <falscheAntwort2>bis 2,50 m</falscheAntwort2>
+            <falscheAntwort3>bis 80 cm</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Farbe haben die Sanddornfrüchte?</fragenText>
+            <richtigeAntwort>orangerot</richtigeAntwort>
+            <falscheAntwort1>gelbgrün</falscheAntwort1>
+            <falscheAntwort2>weißblau</falscheAntwort2>
+            <falscheAntwort3>schwarzgrau</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie groß kann die Stranddistel werden?</fragenText>
+            <richtigeAntwort>bis 70 cm</richtigeAntwort>
+            <falscheAntwort1>bis 200 cm</falscheAntwort1>
+            <falscheAntwort2>bis 110 cm</falscheAntwort2>
+            <falscheAntwort3>bis 45 cm</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie groß wird das Kali - Salzkraut?</fragenText>
+            <richtigeAntwort>ca. 50 cm</richtigeAntwort>
+            <falscheAntwort1>ca. 20 cm</falscheAntwort1>
+            <falscheAntwort2>ca. 100 cm</falscheAntwort2>
+            <falscheAntwort3>ca. 140 cm</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie groß kann Meersenf werden?</fragenText>
+            <richtigeAntwort>bis 80 cm</richtigeAntwort>
+            <falscheAntwort1>bis 60 cm</falscheAntwort1>
+            <falscheAntwort2>bis 120 cm</falscheAntwort2>
+            <falscheAntwort3>bis 180 cm</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie groß kann die Salzmiere werden?</fragenText>
+            <richtigeAntwort>5 - 30 cm</richtigeAntwort>
+            <falscheAntwort1>40 - 80 cm</falscheAntwort1>
+            <falscheAntwort2>80 - 120 cm</falscheAntwort2>
+            <falscheAntwort3>2 - 3 m</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Aussage trifft für das Wattenmeer zu?</fragenText>
+            <richtigeAntwort>Mal ist es Land, mal Meer.</richtigeAntwort>
+            <falscheAntwort1>Das Wasser ist immer kalt.</falscheAntwort1>
+            <falscheAntwort2>Hier gibt es keine Tiere.</falscheAntwort2>
+            <falscheAntwort3>Im Meer schwimmt Watte.</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele europäische Länder haben einen Nordseestrand?</fragenText>
+            <richtigeAntwort>7</richtigeAntwort>
+            <falscheAntwort1>5</falscheAntwort1>
+            <falscheAntwort2>9</falscheAntwort2>
+            <falscheAntwort3>11</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches europäische Land hat keinen Nordseestrand?</fragenText>
+            <richtigeAntwort>Spanien</richtigeAntwort>
+            <falscheAntwort1>Norwegen</falscheAntwort1>
+            <falscheAntwort2>Großbritannien</falscheAntwort2>
+            <falscheAntwort3>Dänemark</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches europäische Land hat keinen Nordseestrand?</fragenText>
+            <richtigeAntwort>Schweiz</richtigeAntwort>
+            <falscheAntwort1>Deutschland</falscheAntwort1>
+            <falscheAntwort2>Niederlande</falscheAntwort2>
+            <falscheAntwort3>Belgien</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie alt ist die Nordsee?</fragenText>
+            <richtigeAntwort>10 000 Jahre</richtigeAntwort>
+            <falscheAntwort1>1000 Jahre</falscheAntwort1>
+            <falscheAntwort2>100 000 Jahre</falscheAntwort2>
+            <falscheAntwort3>1 000 000 Jahre</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wodurch ist die Nordsee entstanden?</fragenText>
+            <richtigeAntwort>Gletscher sind geschmolzen</richtigeAntwort>
+            <falscheAntwort1>Atlantik ist übergelaufen</falscheAntwort1>
+            <falscheAntwort2>durch eine lange Regenzeit</falscheAntwort2>
+            <falscheAntwort3>der Grundwasserspiegel stieg</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie entstanden die großen Meeresbuchten?</fragenText>
+            <richtigeAntwort>durch Sturmfluten</richtigeAntwort>
+            <falscheAntwort1>Das Land senkte sich.</falscheAntwort1>
+            <falscheAntwort2>Die Flüsse hatten Hochwasser.</falscheAntwort2>
+            <falscheAntwort3>Die Menschen bauten sie.</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die größte Meeresbucht an der Nordsee?</fragenText>
+            <richtigeAntwort>Ijsselmeer</richtigeAntwort>
+            <falscheAntwort1>Dollart</falscheAntwort1>
+            <falscheAntwort2>Leybucht</falscheAntwort2>
+            <falscheAntwort3>Jadebusen</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann war die verheerende „Marcellusflut“ (Sturmflut)?</fragenText>
+            <richtigeAntwort>16. Januar 1362</richtigeAntwort>
+            <falscheAntwort1>14. Februar 1509</falscheAntwort1>
+            <falscheAntwort2>22. März 1793</falscheAntwort2>
+            <falscheAntwort3>3. November 1456</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Menschen kamen bei der „Marcellusflut“ ums Leben?</fragenText>
+            <richtigeAntwort>100 000 - 200 000</richtigeAntwort>
+            <falscheAntwort1>10 000 - 20 000</falscheAntwort1>
+            <falscheAntwort2>1 - 2 Millionen</falscheAntwort2>
+            <falscheAntwort3>ca. 7 500</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann gab es an der deutschen Nordseeküste die letzte große Sturmflut?</fragenText>
+            <richtigeAntwort>Februar 1962</richtigeAntwort>
+            <falscheAntwort1>März 1978</falscheAntwort1>
+            <falscheAntwort2>Dezember 1953</falscheAntwort2>
+            <falscheAntwort3>Januar 1997</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist das „Nationalgetränk“ der Friesen?</fragenText>
+            <richtigeAntwort>Tee</richtigeAntwort>
+            <falscheAntwort1>Cola</falscheAntwort1>
+            <falscheAntwort2>Fanta</falscheAntwort2>
+            <falscheAntwort3>Wasser</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Wiesen gibt es an der Nordsee?</fragenText>
+            <richtigeAntwort>Salzwiesen</richtigeAntwort>
+            <falscheAntwort1>Zuckerwiesen</falscheAntwort1>
+            <falscheAntwort2>Pfefferwiesen</falscheAntwort2>
+            <falscheAntwort3>Muskatwiesen</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lange dauert es, bis das Wasser in der Deutschen Bucht durch die Strömung wieder ausgetauscht wird?</fragenText>
+            <richtigeAntwort>3 Jahre</richtigeAntwort>
+            <falscheAntwort1>6 Monate</falscheAntwort1>
+            <falscheAntwort2>10 Wochen</falscheAntwort2>
+            <falscheAntwort3>1 Jahr</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der wichtigste deutsche Seehafen?</fragenText>
+            <richtigeAntwort>Hamburg</richtigeAntwort>
+            <falscheAntwort1>Bremen</falscheAntwort1>
+            <falscheAntwort2>Cuxhaven</falscheAntwort2>
+            <falscheAntwort3>Duisburg</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie weit ist Hamburg von der offenen Nordsee entfernt?</fragenText>
+            <richtigeAntwort>110 km</richtigeAntwort>
+            <falscheAntwort1>50 km</falscheAntwort1>
+            <falscheAntwort2>15 km</falscheAntwort2>
+            <falscheAntwort3>86 km</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie breit ist die Doggerbank?</fragenText>
+            <richtigeAntwort>100 km</richtigeAntwort>
+            <falscheAntwort1>250 km</falscheAntwort1>
+            <falscheAntwort2>70 km</falscheAntwort2>
+            <falscheAntwort3>580 km</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang ist die Doggerbank?</fragenText>
+            <richtigeAntwort>300 km</richtigeAntwort>
+            <falscheAntwort1>500 km</falscheAntwort1>
+            <falscheAntwort2>900 km</falscheAntwort2>
+            <falscheAntwort3>2300 km</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Fische werden n i c h t an der Doggerbank gefangen?</fragenText>
+            <richtigeAntwort>Aal</richtigeAntwort>
+            <falscheAntwort1>Kabeljau</falscheAntwort1>
+            <falscheAntwort2>Scholle</falscheAntwort2>
+            <falscheAntwort3>Hering</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie breit ist der Ärmelkanal an der schmalsten Stelle (Straße von Dover)?</fragenText>
+            <richtigeAntwort>32 km</richtigeAntwort>
+            <falscheAntwort1>8 km</falscheAntwort1>
+            <falscheAntwort2>27 km</falscheAntwort2>
+            <falscheAntwort3>98 km</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie breit ist der Ärmelkanal an seiner breitesten Stelle?</fragenText>
+            <richtigeAntwort>240 km</richtigeAntwort>
+            <falscheAntwort1>45 km</falscheAntwort1>
+            <falscheAntwort2>120 km</falscheAntwort2>
+            <falscheAntwort3>470 km</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Seit wann gibt es einen Tunnel unter dem Ärmelkanal?</fragenText>
+            <richtigeAntwort>1994</richtigeAntwort>
+            <falscheAntwort1>1875</falscheAntwort1>
+            <falscheAntwort2>1941</falscheAntwort2>
+            <falscheAntwort3>1967</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang ist die Norwegische Rinne?</fragenText>
+            <richtigeAntwort>über 900 km</richtigeAntwort>
+            <falscheAntwort1>250 km</falscheAntwort1>
+            <falscheAntwort2>100 - 200 km</falscheAntwort2>
+            <falscheAntwort3>560 km</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie breit ist der Meeresarm, der die Nordsee mit der Ostsee verbindet?</fragenText>
+            <richtigeAntwort>110 - 150 km</richtigeAntwort>
+            <falscheAntwort1>50 - 70 km</falscheAntwort1>
+            <falscheAntwort2>15 - 35 km</falscheAntwort2>
+            <falscheAntwort3>160 - 200 km</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie wird der innere Teil der Deutschen Bucht genannt?</fragenText>
+            <richtigeAntwort>Helgoländer Bucht</richtigeAntwort>
+            <falscheAntwort1>Juister Bucht</falscheAntwort1>
+            <falscheAntwort2>Sylter Bucht</falscheAntwort2>
+            <falscheAntwort3>Borkumer Bucht</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Insel gehört n i c h t zu den westfriesischen Inseln?</fragenText>
+            <richtigeAntwort>Juist</richtigeAntwort>
+            <falscheAntwort1>Texel</falscheAntwort1>
+            <falscheAntwort2>Ameland</falscheAntwort2>
+            <falscheAntwort3>Terschelling</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Küstenform findet man am Ärmelkanal?</fragenText>
+            <richtigeAntwort>Steilküste</richtigeAntwort>
+            <falscheAntwort1>Sandküste</falscheAntwort1>
+            <falscheAntwort2>Flachküste</falscheAntwort2>
+            <falscheAntwort3>Grasküste</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Farbe hat die Miesmuschel?</fragenText>
+            <richtigeAntwort>blauschwarz</richtigeAntwort>
+            <falscheAntwort1>weiß</falscheAntwort1>
+            <falscheAntwort2>rotbraun</falscheAntwort2>
+            <falscheAntwort3>grau</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie groß wird die Pfuhlschnepfe?</fragenText>
+            <richtigeAntwort>ca. 38 cm</richtigeAntwort>
+            <falscheAntwort1>ca. 20 cm</falscheAntwort1>
+            <falscheAntwort2>ca. 12 cm</falscheAntwort2>
+            <falscheAntwort3>ca. 7 cm</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was frisst die Eiderente hauptsächlich?</fragenText>
+            <richtigeAntwort>Miesmuscheln</richtigeAntwort>
+            <falscheAntwort1>Brot</falscheAntwort1>
+            <falscheAntwort2>Strandhafer</falscheAntwort2>
+            <falscheAntwort3>Borkenkäfer</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie tief kann die Eiderente tauchen?</fragenText>
+            <richtigeAntwort>ca. 50 m</richtigeAntwort>
+            <falscheAntwort1>ca. 5 m</falscheAntwort1>
+            <falscheAntwort2>ca. 20 m</falscheAntwort2>
+            <falscheAntwort3>ca. 35 m</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Farbe hat der Schnabel des Austernfischers?</fragenText>
+            <richtigeAntwort>tiefrot</richtigeAntwort>
+            <falscheAntwort1>hellgelb</falscheAntwort1>
+            <falscheAntwort2>weiß</falscheAntwort2>
+            <falscheAntwort3>orange</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Eier legt die Brandgans?</fragenText>
+            <richtigeAntwort>7 -12</richtigeAntwort>
+            <falscheAntwort1>4</falscheAntwort1>
+            <falscheAntwort2>5 - 7</falscheAntwort2>
+            <falscheAntwort3>20</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Silbermöwen sind ...</fragenText>
+            <richtigeAntwort>Allesfresser</richtigeAntwort>
+            <falscheAntwort1>Pflanzenfresser</falscheAntwort1>
+            <falscheAntwort2>Fleischfresser</falscheAntwort2>
+            <falscheAntwort3>Fischfresser</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viel Kilometer Erdöl- und Erdgaspipelines verlaufen kreuz und quer über dem Nordseemeeresboden?</fragenText>
+            <richtigeAntwort>6 000 km</richtigeAntwort>
+            <falscheAntwort1>500 km</falscheAntwort1>
+            <falscheAntwort2>1500 km</falscheAntwort2>
+            <falscheAntwort3>12 000 km</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Im Oktober 1998 brannte vor Dänemark der Holzfrachter Pallas und verlor 50 t Öl. Wie viele Vögel starben damals?</fragenText>
+            <richtigeAntwort>16 000</richtigeAntwort>
+            <falscheAntwort1>2 500</falscheAntwort1>
+            <falscheAntwort2>10 000</falscheAntwort2>
+            <falscheAntwort3>27 000</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Nordseeinsel ist durch einen Damm mit dem Festland verbunden?</fragenText>
+            <richtigeAntwort>Sylt</richtigeAntwort>
+            <falscheAntwort1>Juist</falscheAntwort1>
+            <falscheAntwort2>Norderney</falscheAntwort2>
+            <falscheAntwort3>Borkum</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang sind die Wurzeln des Strandhafers?</fragenText>
+            <richtigeAntwort>ca. 60 m</richtigeAntwort>
+            <falscheAntwort1>ca. 4 m</falscheAntwort1>
+            <falscheAntwort2>ca. 16 m</falscheAntwort2>
+            <falscheAntwort3>ca. 28 m</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie grüßen sich die Menschen in Ostfriesland?</fragenText>
+            <richtigeAntwort>Moin Moin</richtigeAntwort>
+            <falscheAntwort1>Tach Tach</falscheAntwort1>
+            <falscheAntwort2>Hallo Hallo</falscheAntwort2>
+            <falscheAntwort3>See Ahoi</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen die überdachten Stühle, die man sich im Sommer an den Nordseestränden leihen kann?</fragenText>
+            <richtigeAntwort>Strandkörbe</richtigeAntwort>
+            <falscheAntwort1>Strandstühle</falscheAntwort1>
+            <falscheAntwort2>Strandsessel</falscheAntwort2>
+            <falscheAntwort3>Strandhocker</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was frisst der Austernfischer am häufigsten?</fragenText>
+            <richtigeAntwort>Herzmuscheln</richtigeAntwort>
+            <falscheAntwort1>Austern</falscheAntwort1>
+            <falscheAntwort2>Krebse</falscheAntwort2>
+            <falscheAntwort3>Schnecken</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo haben die Brandenten ihre Nester?</fragenText>
+            <richtigeAntwort>in Höhlen von Wildkaninchen</richtigeAntwort>
+            <falscheAntwort1>in den Dünen</falscheAntwort1>
+            <falscheAntwort2>in den Salzwiesen</falscheAntwort2>
+            <falscheAntwort3>auf einer Sandbank</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Junge haben Brandgänse in der Regel?</fragenText>
+            <richtigeAntwort>8 - 10</richtigeAntwort>
+            <falscheAntwort1>immer nur 1</falscheAntwort1>
+            <falscheAntwort2>2 - 3</falscheAntwort2>
+            <falscheAntwort3>5 - 7</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie tief kann die Eiderente tauchen?</fragenText>
+            <richtigeAntwort>ca. 20 m</richtigeAntwort>
+            <falscheAntwort1>ca. 12 m</falscheAntwort1>
+            <falscheAntwort2>ca. 7 m</falscheAntwort2>
+            <falscheAntwort3>ca. 4 m</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Womit sind die Eiderentennester üppig ausgepolstert?</fragenText>
+            <richtigeAntwort>Daunen</richtigeAntwort>
+            <falscheAntwort1>Muscheln</falscheAntwort1>
+            <falscheAntwort2>Möwenfedern</falscheAntwort2>
+            <falscheAntwort3>Gras</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Farbe haben die Eier der Eiderente?</fragenText>
+            <richtigeAntwort>graugrün</richtigeAntwort>
+            <falscheAntwort1>grauschwarz</falscheAntwort1>
+            <falscheAntwort2>graubraun</falscheAntwort2>
+            <falscheAntwort3>graubraun</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo brüten die Silbermöwen?</fragenText>
+            <richtigeAntwort>am Boden</richtigeAntwort>
+            <falscheAntwort1>auf Bäumen</falscheAntwort1>
+            <falscheAntwort2>in Büschen</falscheAntwort2>
+            <falscheAntwort3>in Felshöhlen</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Möwe gibt es?</fragenText>
+            <richtigeAntwort>Sturmmöwe</richtigeAntwort>
+            <falscheAntwort1>Orkanmöwe</falscheAntwort1>
+            <falscheAntwort2>Hurrikanmöwe</falscheAntwort2>
+            <falscheAntwort3>Taifunmöwe</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie brüten die Sturmmöwen?</fragenText>
+            <richtigeAntwort>in großen Brutkolonien</richtigeAntwort>
+            <falscheAntwort1>einzeln und einsam</falscheAntwort1>
+            <falscheAntwort2>immer zuzweit</falscheAntwort2>
+            <falscheAntwort3>immer höchstens 30</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie groß sind die Brutkolonien der Sturmmöwen?</fragenText>
+            <richtigeAntwort>100 bis über 1000 Brutpaare</richtigeAntwort>
+            <falscheAntwort1>20 - 40 Brutpaare</falscheAntwort1>
+            <falscheAntwort2>90 Brutpaare</falscheAntwort2>
+            <falscheAntwort3>über 2 Millionen Brutpaare</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Eier liegen normalerweise in einem Möwennest?</fragenText>
+            <richtigeAntwort>3</richtigeAntwort>
+            <falscheAntwort1>2</falscheAntwort1>
+            <falscheAntwort2>4</falscheAntwort2>
+            <falscheAntwort3>5</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Eier des Sandregenpfeifers zeigen mit ihren spitzen Polen immer zur Nestmitte. Wie viele Eier bebrütet der Sandregenpfeifer?</fragenText>
+            <richtigeAntwort>4</richtigeAntwort>
+            <falscheAntwort1>2</falscheAntwort1>
+            <falscheAntwort2>3</falscheAntwort2>
+            <falscheAntwort3>5</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo lebt der Sandregenpfeifer im Winter?</fragenText>
+            <richtigeAntwort>am Mittelmeer oder in Afrika</richtigeAntwort>
+            <falscheAntwort1>in Norwegen oder Schweden</falscheAntwort1>
+            <falscheAntwort2>in Spanien oder Italien</falscheAntwort2>
+            <falscheAntwort3>am Bodensee oder in Österreich</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang sind die leicht gebogenen Schwertmuscheln?</fragenText>
+            <richtigeAntwort>ca. 15 cm</richtigeAntwort>
+            <falscheAntwort1>ca. 5 cm</falscheAntwort1>
+            <falscheAntwort2>ca. 10 cm</falscheAntwort2>
+            <falscheAntwort3>ca. 20 cm</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie graben sich die Schwertmuscheln ein?</fragenText>
+            <richtigeAntwort>senkrecht mit dem Kopf nach unten</richtigeAntwort>
+            <falscheAntwort1>senkrecht mit dem Kopf nach oben</falscheAntwort1>
+            <falscheAntwort2>waagerecht mit dem Kopf nach links</falscheAntwort2>
+            <falscheAntwort3>waagerecht mit dem Kopf nach rechts</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Kalkschale des Tintenfisches, die man manchmal am Strand findet?</fragenText>
+            <richtigeAntwort>Schulp</richtigeAntwort>
+            <falscheAntwort1>Schalp</falscheAntwort1>
+            <falscheAntwort2>Schelp</falscheAntwort2>
+            <falscheAntwort3>Scholp</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der Tintenfisch ist gar kein Fisch. Mit welchen Tieren ist er am nächsten verwandt?</fragenText>
+            <richtigeAntwort>mit den Schnecken</richtigeAntwort>
+            <falscheAntwort1>mit den Säugetieren</falscheAntwort1>
+            <falscheAntwort2>mit den Quallen</falscheAntwort2>
+            <falscheAntwort3>mit den Würmern</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele gabelartige Muster sind auf der Glocke der Kompassqualle zu sehen?</fragenText>
+            <richtigeAntwort>16</richtigeAntwort>
+            <falscheAntwort1>24</falscheAntwort1>
+            <falscheAntwort2>8</falscheAntwort2>
+            <falscheAntwort3>32</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie groß wird die Blaue Nesselqualle?</fragenText>
+            <richtigeAntwort>ca. 30 cm</richtigeAntwort>
+            <falscheAntwort1>ca. 10 cm</falscheAntwort1>
+            <falscheAntwort2>ca. 20 cm</falscheAntwort2>
+            <falscheAntwort3>ca. 70 cm</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele große Beinpaare hat eine Strandkrabbe?</fragenText>
+            <richtigeAntwort>5</richtigeAntwort>
+            <falscheAntwort1>4</falscheAntwort1>
+            <falscheAntwort2>6</falscheAntwort2>
+            <falscheAntwort3>7</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was befindet sich in den Blasen des Blasentangs?</fragenText>
+            <richtigeAntwort>Luft</richtigeAntwort>
+            <falscheAntwort1>die Nahrung</falscheAntwort1>
+            <falscheAntwort2>die Eier</falscheAntwort2>
+            <falscheAntwort3>Wasser</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang kann der Blasentang in Büscheln heranwachsen?</fragenText>
+            <richtigeAntwort>ca. 100 cm</richtigeAntwort>
+            <falscheAntwort1>ca. 30 cm</falscheAntwort1>
+            <falscheAntwort2>ca. 60 cm</falscheAntwort2>
+            <falscheAntwort3>ca. 160 cm</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Algen, die große grüne Lappen bilden?</fragenText>
+            <richtigeAntwort>Meersalat</richtigeAntwort>
+            <falscheAntwort1>Meerblätter</falscheAntwort1>
+            <falscheAntwort2>Meergurken</falscheAntwort2>
+            <falscheAntwort3>Meerlappen</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Dünengras ist am weitesten verbreitet?</fragenText>
+            <richtigeAntwort>Strandhafer</richtigeAntwort>
+            <falscheAntwort1>Strandweizen</falscheAntwort1>
+            <falscheAntwort2>Strandroggen</falscheAntwort2>
+            <falscheAntwort3>Strandgerste</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

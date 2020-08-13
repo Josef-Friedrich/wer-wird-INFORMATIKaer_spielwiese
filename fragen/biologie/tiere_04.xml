@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Biologie</fach>
+    <thema>Tierquiz 4</thema>
+    <autor>Manfred Hartisch 5/2001</autor>
+    <anzahlFragen>40</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>Was ist ein Piranha?</fragenText>
+            <richtigeAntwort>ein Raubfisch</richtigeAntwort>
+            <falscheAntwort1>ein Raubvogel</falscheAntwort1>
+            <falscheAntwort2>eine Raubkatze</falscheAntwort2>
+            <falscheAntwort3>ein giftiger Frosch</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie groß wird ein Piranha?</fragenText>
+            <richtigeAntwort>ca. 20 cm</richtigeAntwort>
+            <falscheAntwort1>ca. 2 cm</falscheAntwort1>
+            <falscheAntwort2>ca. 2 Meter</falscheAntwort2>
+            <falscheAntwort3>ca. 20 Meter</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Affe kann so laut brüllen, dass man ihn 3 km durch den Urwald hört?</fragenText>
+            <richtigeAntwort>der Brüllaffe</richtigeAntwort>
+            <falscheAntwort1>der Schreiaffe</falscheAntwort1>
+            <falscheAntwort2>der Rufaffe</falscheAntwort2>
+            <falscheAntwort3>der Heulaffe</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist eine „Schwarze Witwe“?</fragenText>
+            <richtigeAntwort>eine Giftspinne</richtigeAntwort>
+            <falscheAntwort1>eine Giftschlange</falscheAntwort1>
+            <falscheAntwort2>ein giftiger Fisch</falscheAntwort2>
+            <falscheAntwort3>ein giftiger Frosch</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist ein Orca?</fragenText>
+            <richtigeAntwort>ein Schwertwal</richtigeAntwort>
+            <falscheAntwort1>eine Bergziege</falscheAntwort1>
+            <falscheAntwort2>ein junger Orang - Utan</falscheAntwort2>
+            <falscheAntwort3>ein weiblicher Otter</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie weit ist das Gebrüll eines Löwen in der Savanne zu hören?</fragenText>
+            <richtigeAntwort>ca. 8 Kilometer</richtigeAntwort>
+            <falscheAntwort1>ca. 2 Kilometer</falscheAntwort1>
+            <falscheAntwort2>ca. 4 Kilometer</falscheAntwort2>
+            <falscheAntwort3>ca. 6 Kilometer</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch kann ein Menschenfloh springen?</fragenText>
+            <richtigeAntwort>ca. 40 cm</richtigeAntwort>
+            <falscheAntwort1>ca. 20 cm</falscheAntwort1>
+            <falscheAntwort2>ca. 30 cm</falscheAntwort2>
+            <falscheAntwort3>ca. 50 cm</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man ein junges Schaf?</fragenText>
+            <richtigeAntwort>Lamm</richtigeAntwort>
+            <falscheAntwort1>Zicklein</falscheAntwort1>
+            <falscheAntwort2>Küken</falscheAntwort2>
+            <falscheAntwort3>Kälbchen</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie öffnet der Schmutzgeier ein Ei?</fragenText>
+            <richtigeAntwort>Er wirft einen Stein darauf.</richtigeAntwort>
+            <falscheAntwort1>mit seinem spitzen Schnabel</falscheAntwort1>
+            <falscheAntwort2>Er springt darauf.</falscheAntwort2>
+            <falscheAntwort3>Er wirft es in eine Schlucht.</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welcher Tierart gehört die „Kleine Hufeisennase“?</fragenText>
+            <richtigeAntwort>zu den Fledermäusen</richtigeAntwort>
+            <falscheAntwort1>zu den Pferden</falscheAntwort1>
+            <falscheAntwort2>zu den Libellen</falscheAntwort2>
+            <falscheAntwort3>zu den Schlangen</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das weibliche Reh?</fragenText>
+            <richtigeAntwort>Ricke</richtigeAntwort>
+            <falscheAntwort1>Zicke</falscheAntwort1>
+            <falscheAntwort2>Wicke</falscheAntwort2>
+            <falscheAntwort3>Bicke</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie groß ist das Baby des Riesenkängurus bei der Geburt?</fragenText>
+            <richtigeAntwort>etwa so groß wie ein Finger</richtigeAntwort>
+            <falscheAntwort1>etwa so groß wie ein Arm</falscheAntwort1>
+            <falscheAntwort2>ca. 1 Meter</falscheAntwort2>
+            <falscheAntwort3>ca. 48 cm</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist eine Klappmütze?</fragenText>
+            <richtigeAntwort>eine Robbe</richtigeAntwort>
+            <falscheAntwort1>ein Schmetterling</falscheAntwort1>
+            <falscheAntwort2>ein Singvogel</falscheAntwort2>
+            <falscheAntwort3>eine Maulwurfart</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie groß werden die Vorderbeine der japanischen Seespinne?</fragenText>
+            <richtigeAntwort>ca. 1,50 m</richtigeAntwort>
+            <falscheAntwort1>ca. 30 cm</falscheAntwort1>
+            <falscheAntwort2>ca. 89 cm</falscheAntwort2>
+            <falscheAntwort3>ca. 3 Meter</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie kommt der Igelfisch zu seinem Namen?</fragenText>
+            <richtigeAntwort>Er hat Stacheln.</richtigeAntwort>
+            <falscheAntwort1>Er kann sich auch zusammenrollen.</falscheAntwort1>
+            <falscheAntwort2>Er frisst auch gerne Regenwürmer.</falscheAntwort2>
+            <falscheAntwort3>Er frisst gerne Igel.</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Möwe ist als einzige Möwe ganz weiß?</fragenText>
+            <richtigeAntwort>Elfenbeinmöwe</richtigeAntwort>
+            <falscheAntwort1>Schneemöwe</falscheAntwort1>
+            <falscheAntwort2>Sahnemöwe</falscheAntwort2>
+            <falscheAntwort3>Weißmöwe</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Worauf macht der Seeleopard auch Jagd?</fragenText>
+            <richtigeAntwort>Pinguine</richtigeAntwort>
+            <falscheAntwort1>Eisbären</falscheAntwort1>
+            <falscheAntwort2>Schneehasen</falscheAntwort2>
+            <falscheAntwort3>Flamingos</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie wird das Ren auch genannt?</fragenText>
+            <richtigeAntwort>Karibu</richtigeAntwort>
+            <falscheAntwort1>Marabu</falscheAntwort1>
+            <falscheAntwort2>Haribo</falscheAntwort2>
+            <falscheAntwort3>Malibu</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Farbe hat der Polarfuchs?</fragenText>
+            <richtigeAntwort>weiß</richtigeAntwort>
+            <falscheAntwort1>schwarz</falscheAntwort1>
+            <falscheAntwort2>pink</falscheAntwort2>
+            <falscheAntwort3>blau</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was fressen Biber?</fragenText>
+            <richtigeAntwort>Blätter, Zweige, Rinde</richtigeAntwort>
+            <falscheAntwort1>Blätter, Zweige, Obst</falscheAntwort1>
+            <falscheAntwort2>Zweige, Rinde, Abfall</falscheAntwort2>
+            <falscheAntwort3>Rinde, Blätter, Nüsse</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Vogel ist ein Greifvogel?</fragenText>
+            <richtigeAntwort>Habicht</richtigeAntwort>
+            <falscheAntwort1>Gimpel</falscheAntwort1>
+            <falscheAntwort2>Dompfaff</falscheAntwort2>
+            <falscheAntwort3>Meise</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was frisst der Koalabär fast nur?</fragenText>
+            <richtigeAntwort>Eukalyptusblätter</richtigeAntwort>
+            <falscheAntwort1>Colablätter</falscheAntwort1>
+            <falscheAntwort2>Honig</falscheAntwort2>
+            <falscheAntwort3>Birkenblätter</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Käfer, der in warmen Sommernächten wie ein kleines Geisterlicht leuchtet?</fragenText>
+            <richtigeAntwort>Glühwürmchen</richtigeAntwort>
+            <falscheAntwort1>Geisterkäfer</falscheAntwort1>
+            <falscheAntwort2>Leuchtchen</falscheAntwort2>
+            <falscheAntwort3>Laternenkäfer</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der größte Frosch der Welt?</fragenText>
+            <richtigeAntwort>Goliathfrosch</richtigeAntwort>
+            <falscheAntwort1>Riesenfrosch</falscheAntwort1>
+            <falscheAntwort2>Herkulesfrosch</falscheAntwort2>
+            <falscheAntwort3>Monsterfrosch</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang wird der größte Frosch der Welt?</fragenText>
+            <richtigeAntwort>ca. 15 cm</richtigeAntwort>
+            <falscheAntwort1>1 Meter</falscheAntwort1>
+            <falscheAntwort2>50 cm</falscheAntwort2>
+            <falscheAntwort3>ca. 25 cm</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Tier gibt es wirklich?</fragenText>
+            <richtigeAntwort>Ameisenlöwe</richtigeAntwort>
+            <falscheAntwort1>Käferluchs</falscheAntwort1>
+            <falscheAntwort2>Spinnentiger</falscheAntwort2>
+            <falscheAntwort3>Bienenpanter</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie schnell wird der Wanderfalke beim Sturzflug?</fragenText>
+            <richtigeAntwort>250 km / h</richtigeAntwort>
+            <falscheAntwort1>100 km / h</falscheAntwort1>
+            <falscheAntwort2>150 km / h</falscheAntwort2>
+            <falscheAntwort3>200 km / h</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Federn hat ein Schwan?</fragenText>
+            <richtigeAntwort>25000</richtigeAntwort>
+            <falscheAntwort1>250</falscheAntwort1>
+            <falscheAntwort2>2500</falscheAntwort2>
+            <falscheAntwort3>250000</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie alt können Schwäne werden?</fragenText>
+            <richtigeAntwort>20 - 30 Jahre</richtigeAntwort>
+            <falscheAntwort1>30 - 40 Jahre</falscheAntwort1>
+            <falscheAntwort2>40 - 50 Jahre</falscheAntwort2>
+            <falscheAntwort3>50 - 60 Jahre</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Blüten besucht eine Erdhummel an einem warmen Tag?</fragenText>
+            <richtigeAntwort>ca. 2000</richtigeAntwort>
+            <falscheAntwort1>ca. 1000</falscheAntwort1>
+            <falscheAntwort2>ca. 3000</falscheAntwort2>
+            <falscheAntwort3>ca. 4000</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie tief kann der Pottwal tauchen?</fragenText>
+            <richtigeAntwort>ca. 1000 Meter</richtigeAntwort>
+            <falscheAntwort1>ca. 100 Meter</falscheAntwort1>
+            <falscheAntwort2>ca. 100 Kilometer</falscheAntwort2>
+            <falscheAntwort3>ca. 10 Meter</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was macht die Kreuzspinne abends mit ihrem Nest?</fragenText>
+            <richtigeAntwort>Sie frisst es auf.</richtigeAntwort>
+            <falscheAntwort1>Sie faltet es zusammen.</falscheAntwort1>
+            <falscheAntwort2>Sie rollt es zusammen.</falscheAntwort2>
+            <falscheAntwort3>Sie wickelt es auf.</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Hörner hatte Triceratops?</fragenText>
+            <richtigeAntwort>3</richtigeAntwort>
+            <falscheAntwort1>1</falscheAntwort1>
+            <falscheAntwort2>2</falscheAntwort2>
+            <falscheAntwort3>4</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen die langen, dünnen Fische ohne Bauchflossen?</fragenText>
+            <richtigeAntwort>Seenadeln</richtigeAntwort>
+            <falscheAntwort1>Seefäden</falscheAntwort1>
+            <falscheAntwort2>Seeschnüre</falscheAntwort2>
+            <falscheAntwort3>Seenägel</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Von welchem Tier bekommen wir die Wolle?</fragenText>
+            <richtigeAntwort>Schaf</richtigeAntwort>
+            <falscheAntwort1>Tiger</falscheAntwort1>
+            <falscheAntwort2>Ziege</falscheAntwort2>
+            <falscheAntwort3>Kuh</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Tier gibt es?</fragenText>
+            <richtigeAntwort>Mungo</richtigeAntwort>
+            <falscheAntwort1>Kungo</falscheAntwort1>
+            <falscheAntwort2>Lungo</falscheAntwort2>
+            <falscheAntwort3>Nungo</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Tier gibt es?</fragenText>
+            <richtigeAntwort>Lemming</richtigeAntwort>
+            <falscheAntwort1>Hemming</falscheAntwort1>
+            <falscheAntwort2>Kemming</falscheAntwort2>
+            <falscheAntwort3>Bemming</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Spitzmausfamilie geht oft hintereinander, wobei sie sich an den Schwänzen festhalten. Stimmt das?</fragenText>
+            <richtigeAntwort>ja</richtigeAntwort>
+            <falscheAntwort1>nein</falscheAntwort1>
+            <falscheAntwort2>nur im Winter</falscheAntwort2>
+            <falscheAntwort3>nur am Tag</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie oft muss ein Wal normalerweise auftauchen, um Luft zu holen?</fragenText>
+            <richtigeAntwort>alle 3 - 5 Minuten</richtigeAntwort>
+            <falscheAntwort1>gar nicht</falscheAntwort1>
+            <falscheAntwort2>alle 3 Stunden</falscheAntwort2>
+            <falscheAntwort3>zweimal in der Nacht</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie schreit der Hahn?</fragenText>
+            <richtigeAntwort>kikeriki</richtigeAntwort>
+            <falscheAntwort1>kuckuck</falscheAntwort1>
+            <falscheAntwort2>krä krä kräh</falscheAntwort2>
+            <falscheAntwort3>kiwitt kiwitt</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

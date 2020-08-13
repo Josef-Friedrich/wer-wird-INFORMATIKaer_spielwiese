@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Allgemein</fach>
+    <thema>Grundschule 7</thema>
+    <autor>Manfred Hartisch</autor>
+    <anzahlFragen>100</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>Aus welchem Land stammt der Döner?</fragenText>
+            <richtigeAntwort>Türkei</richtigeAntwort>
+            <falscheAntwort1>Dänemark</falscheAntwort1>
+            <falscheAntwort2>Griechenland</falscheAntwort2>
+            <falscheAntwort3>Indien</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist ein Matador?</fragenText>
+            <richtigeAntwort>ein Stierkämpfer</richtigeAntwort>
+            <falscheAntwort1>ein Staubsauger</falscheAntwort1>
+            <falscheAntwort2>ein Muttersöhnchen</falscheAntwort2>
+            <falscheAntwort3>ein Metzgergeselle</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Tier ist ein christliches Opfertier?</fragenText>
+            <richtigeAntwort>Lamm</richtigeAntwort>
+            <falscheAntwort1>Hahn</falscheAntwort1>
+            <falscheAntwort2>Kaninchen</falscheAntwort2>
+            <falscheAntwort3>Hase</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Straßenschild hat acht Ecken?</fragenText>
+            <richtigeAntwort>das Stoppschild</richtigeAntwort>
+            <falscheAntwort1>das Parkverbotsschild</falscheAntwort1>
+            <falscheAntwort2>da Vorfahrtsschild</falscheAntwort2>
+            <falscheAntwort3>das Einbahnstraßenschild</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo ist Westen auf der Landkarte?</fragenText>
+            <richtigeAntwort>links</richtigeAntwort>
+            <falscheAntwort1>oben</falscheAntwort1>
+            <falscheAntwort2>unten</falscheAntwort2>
+            <falscheAntwort3>rechts</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was zeigt ein Hygrometer an?</fragenText>
+            <richtigeAntwort>die Luftfeuchtigkeit</richtigeAntwort>
+            <falscheAntwort1>die Lichtstrahlung</falscheAntwort1>
+            <falscheAntwort2>die Helligkeit</falscheAntwort2>
+            <falscheAntwort3>die Temperatur</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Farbe ist nicht in der deutschen Flagge enthalten?</fragenText>
+            <richtigeAntwort>grün</richtigeAntwort>
+            <falscheAntwort1>gelb</falscheAntwort1>
+            <falscheAntwort2>schwarz</falscheAntwort2>
+            <falscheAntwort3>rot</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Berg der Zehn Gebote?</fragenText>
+            <richtigeAntwort>Sinai</richtigeAntwort>
+            <falscheAntwort1>Donnersberg</falscheAntwort1>
+            <falscheAntwort2>Mount Everest</falscheAntwort2>
+            <falscheAntwort3>Ölberg</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Instrument spielte Glenn Miller?</fragenText>
+            <richtigeAntwort>Posaune</richtigeAntwort>
+            <falscheAntwort1>Saxophon</falscheAntwort1>
+            <falscheAntwort2>Tuba</falscheAntwort2>
+            <falscheAntwort3>Trompete</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo geht die Sonne unter?</fragenText>
+            <richtigeAntwort>Westen</richtigeAntwort>
+            <falscheAntwort1>Osten</falscheAntwort1>
+            <falscheAntwort2>Norden</falscheAntwort2>
+            <falscheAntwort3>Süden</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist ein Olymp?</fragenText>
+            <richtigeAntwort>ein altgriechischer Göttersitz</richtigeAntwort>
+            <falscheAntwort1>ein Tintenfisch</falscheAntwort1>
+            <falscheAntwort2>ein Nagellack</falscheAntwort2>
+            <falscheAntwort3>ein Amateursportler</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Waffe hatte Wilhelm Tell?</fragenText>
+            <richtigeAntwort>Armbrust</richtigeAntwort>
+            <falscheAntwort1>Gewehr</falscheAntwort1>
+            <falscheAntwort2>Steinschleuder</falscheAntwort2>
+            <falscheAntwort3>Bogen</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Tier ist der Erzfeind der Mäuse?</fragenText>
+            <richtigeAntwort>Katze</richtigeAntwort>
+            <falscheAntwort1>Hund</falscheAntwort1>
+            <falscheAntwort2>Hase</falscheAntwort2>
+            <falscheAntwort3>Dromedar</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Hund von Obelix?</fragenText>
+            <richtigeAntwort>Idefix</richtigeAntwort>
+            <falscheAntwort1>Asterix</falscheAntwort1>
+            <falscheAntwort2>Snoopy</falscheAntwort2>
+            <falscheAntwort3>Pluto</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Felder hat ein Schachbrett?</fragenText>
+            <richtigeAntwort>64</richtigeAntwort>
+            <falscheAntwort1>49</falscheAntwort1>
+            <falscheAntwort2>36</falscheAntwort2>
+            <falscheAntwort3>50</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Durch welchen Sport wurde Boris Becker berühmt?</fragenText>
+            <richtigeAntwort>Tennis</richtigeAntwort>
+            <falscheAntwort1>Fußball</falscheAntwort1>
+            <falscheAntwort2>Badminton</falscheAntwort2>
+            <falscheAntwort3>Autorennen</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Dezimeter sind ein Meter?</fragenText>
+            <richtigeAntwort>10</richtigeAntwort>
+            <falscheAntwort1>2</falscheAntwort1>
+            <falscheAntwort2>4</falscheAntwort2>
+            <falscheAntwort3>100</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer hat Rotkäppchens Großmutter gefressen?</fragenText>
+            <richtigeAntwort>Wolf</richtigeAntwort>
+            <falscheAntwort1>Teufel</falscheAntwort1>
+            <falscheAntwort2>Fuchs</falscheAntwort2>
+            <falscheAntwort3>Bär</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo leben die Quechua - Indianer?</fragenText>
+            <richtigeAntwort>in Südamerika</richtigeAntwort>
+            <falscheAntwort1>in Nordamerika</falscheAntwort1>
+            <falscheAntwort2>in Mexiko</falscheAntwort2>
+            <falscheAntwort3>in Mittelamerika</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist ein Fossil?</fragenText>
+            <richtigeAntwort>eine Versteinerung</richtigeAntwort>
+            <falscheAntwort1>eine Taschenuhr</falscheAntwort1>
+            <falscheAntwort2>eine Muppetfigur</falscheAntwort2>
+            <falscheAntwort3>ein Lederfußball</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Meter sind ein Kilometer?</fragenText>
+            <richtigeAntwort>1.000</richtigeAntwort>
+            <falscheAntwort1>100</falscheAntwort1>
+            <falscheAntwort2>10</falscheAntwort2>
+            <falscheAntwort3>10.000</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was steht auf einer Visitenkarte?</fragenText>
+            <richtigeAntwort>Adresse</richtigeAntwort>
+            <falscheAntwort1>Alphabet</falscheAntwort1>
+            <falscheAntwort2>Horoskop</falscheAntwort2>
+            <falscheAntwort3>Diktat</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was kann operiert werden?</fragenText>
+            <richtigeAntwort>Tumor</richtigeAntwort>
+            <falscheAntwort1>Virus</falscheAntwort1>
+            <falscheAntwort2>Stativ</falscheAntwort2>
+            <falscheAntwort3>Infusion</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer bringt die Leute zum Lachen?</fragenText>
+            <richtigeAntwort>Clown</richtigeAntwort>
+            <falscheAntwort1>Chirurg</falscheAntwort1>
+            <falscheAntwort2>Invalide</falscheAntwort2>
+            <falscheAntwort3>Portier</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo wird viel geredet?</fragenText>
+            <richtigeAntwort>im Parlament</richtigeAntwort>
+            <falscheAntwort1>im Container</falscheAntwort1>
+            <falscheAntwort2>im Koma</falscheAntwort2>
+            <falscheAntwort3>im Dschungel</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo bekommt man etwas zu essen?</fragenText>
+            <richtigeAntwort>im Restaurant</richtigeAntwort>
+            <falscheAntwort1>in einer Boutique</falscheAntwort1>
+            <falscheAntwort2>im Orchester</falscheAntwort2>
+            <falscheAntwort3>im Museum</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo beten Mohammedaner?</fragenText>
+            <richtigeAntwort>in der Moschee</richtigeAntwort>
+            <falscheAntwort1>in der Kneipe</falscheAntwort1>
+            <falscheAntwort2>in einem Atelier</falscheAntwort2>
+            <falscheAntwort3>in einer Garage</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Gift ist im Zigarettenrauch?</fragenText>
+            <richtigeAntwort>Nikotin</richtigeAntwort>
+            <falscheAntwort1>Koffein</falscheAntwort1>
+            <falscheAntwort2>Paraffin</falscheAntwort2>
+            <falscheAntwort3>Vanillin</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo haben 10.000 Leute Platz?</fragenText>
+            <richtigeAntwort>im Stadion</richtigeAntwort>
+            <falscheAntwort1>im Caravan</falscheAntwort1>
+            <falscheAntwort2>im Pool</falscheAntwort2>
+            <falscheAntwort3>im Lift</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was hat mit Mathematik zu tun?</fragenText>
+            <richtigeAntwort>Geometrie</richtigeAntwort>
+            <falscheAntwort1>Lexikon</falscheAntwort1>
+            <falscheAntwort2>Astrologie</falscheAntwort2>
+            <falscheAntwort3>Konfitüre</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was befindet sich im Auge?</fragenText>
+            <richtigeAntwort>Pupille</richtigeAntwort>
+            <falscheAntwort1>Perücke</falscheAntwort1>
+            <falscheAntwort2>Meniskus</falscheAntwort2>
+            <falscheAntwort3>Trommelfell</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was lernt man im Mathematikunterricht?</fragenText>
+            <richtigeAntwort>multiplizieren</richtigeAntwort>
+            <falscheAntwort1>exportieren</falscheAntwort1>
+            <falscheAntwort2>gratulieren</falscheAntwort2>
+            <falscheAntwort3>komponieren</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was braucht man im Sport?</fragenText>
+            <richtigeAntwort>Kondition</richtigeAntwort>
+            <falscheAntwort1>Volumen</falscheAntwort1>
+            <falscheAntwort2>Komposition</falscheAntwort2>
+            <falscheAntwort3>Parfüm</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist sehr wertvoll?</fragenText>
+            <richtigeAntwort>ein Brillant</richtigeAntwort>
+            <falscheAntwort1>ein Orkan</falscheAntwort1>
+            <falscheAntwort2>ein Cello</falscheAntwort2>
+            <falscheAntwort3>ein Bikini</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was kann man anziehen?</fragenText>
+            <richtigeAntwort>Jeans</richtigeAntwort>
+            <falscheAntwort1>Dokumente</falscheAntwort1>
+            <falscheAntwort2>Kuvert</falscheAntwort2>
+            <falscheAntwort3>Cellophan</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo ist Geld sicher aufgehoben?</fragenText>
+            <richtigeAntwort>Tresor</richtigeAntwort>
+            <falscheAntwort1>Jacht</falscheAntwort1>
+            <falscheAntwort2>Parlament</falscheAntwort2>
+            <falscheAntwort3>Sauna</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo kann man etwas gewinnen?</fragenText>
+            <richtigeAntwort>Tombola</richtigeAntwort>
+            <falscheAntwort1>Püree</falscheAntwort1>
+            <falscheAntwort2>Schaschlik</falscheAntwort2>
+            <falscheAntwort3>Smog</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was war Albert Einstein?</fragenText>
+            <richtigeAntwort>Physiker</richtigeAntwort>
+            <falscheAntwort1>Minister</falscheAntwort1>
+            <falscheAntwort2>Komiker</falscheAntwort2>
+            <falscheAntwort3>Monster</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches ist eine Krankheit?</fragenText>
+            <richtigeAntwort>Asthma</richtigeAntwort>
+            <falscheAntwort1>Attest</falscheAntwort1>
+            <falscheAntwort2>Konfetti</falscheAntwort2>
+            <falscheAntwort3>Apotheke</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer fliegt ins All?</fragenText>
+            <richtigeAntwort>Astronaut</richtigeAntwort>
+            <falscheAntwort1>Diabetiker</falscheAntwort1>
+            <falscheAntwort2>Komponist</falscheAntwort2>
+            <falscheAntwort3>Cowboy</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was hilft bei einer Krankheit?</fragenText>
+            <richtigeAntwort>Medikament</richtigeAntwort>
+            <falscheAntwort1>Ornament</falscheAntwort1>
+            <falscheAntwort2>Plastik</falscheAntwort2>
+            <falscheAntwort3>Epilepsie</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo wohnen die Soldaten?</fragenText>
+            <richtigeAntwort>Kaserne</richtigeAntwort>
+            <falscheAntwort1>Garderobe</falscheAntwort1>
+            <falscheAntwort2>Museum</falscheAntwort2>
+            <falscheAntwort3>Lazarett</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was hilft gegen Krankheit?</fragenText>
+            <richtigeAntwort>Medizin</richtigeAntwort>
+            <falscheAntwort1>Haschisch</falscheAntwort1>
+            <falscheAntwort2>Deodorant</falscheAntwort2>
+            <falscheAntwort3>Angina</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was hat mit Wasser zu tun?</fragenText>
+            <richtigeAntwort>surfen</richtigeAntwort>
+            <falscheAntwort1>tätowieren</falscheAntwort1>
+            <falscheAntwort2>rotieren</falscheAntwort2>
+            <falscheAntwort3>konstruieren</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was braucht man für einen Computer?</fragenText>
+            <richtigeAntwort>Disketten</richtigeAntwort>
+            <falscheAntwort1>Diskothek</falscheAntwort1>
+            <falscheAntwort2>Medizin</falscheAntwort2>
+            <falscheAntwort3>Tablett</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist ein anderes Wort für „großartig“?</fragenText>
+            <richtigeAntwort>gigantisch</richtigeAntwort>
+            <falscheAntwort1>kompliziert</falscheAntwort1>
+            <falscheAntwort2>miserabel</falscheAntwort2>
+            <falscheAntwort3>privat</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Worüber freut man sich besonders?</fragenText>
+            <richtigeAntwort>Pokal</richtigeAntwort>
+            <falscheAntwort1>Prothese</falscheAntwort1>
+            <falscheAntwort2>Globus</falscheAntwort2>
+            <falscheAntwort3>Stress</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was kauft man im Blumenladen?</fragenText>
+            <richtigeAntwort>Orchidee</richtigeAntwort>
+            <falscheAntwort1>Kavalier</falscheAntwort1>
+            <falscheAntwort2>Revolver</falscheAntwort2>
+            <falscheAntwort3>Generator</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist sehr teuer?</fragenText>
+            <richtigeAntwort>Platin</richtigeAntwort>
+            <falscheAntwort1>Chrom</falscheAntwort1>
+            <falscheAntwort2>Spiritus</falscheAntwort2>
+            <falscheAntwort3>Nickel</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was macht man am besten, wenn etwas kaputt ist?</fragenText>
+            <richtigeAntwort>reparieren</richtigeAntwort>
+            <falscheAntwort1>sich amüsieren</falscheAntwort1>
+            <falscheAntwort2>jonglieren</falscheAntwort2>
+            <falscheAntwort3>regieren</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was hilft gegen Kälte?</fragenText>
+            <richtigeAntwort>Pullover</richtigeAntwort>
+            <falscheAntwort1>Bikini</falscheAntwort1>
+            <falscheAntwort2>Revolver</falscheAntwort2>
+            <falscheAntwort3>Zylinder</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was misst man mit dem Thermometer?</fragenText>
+            <richtigeAntwort>Temperatur</richtigeAntwort>
+            <falscheAntwort1>Tempo</falscheAntwort1>
+            <falscheAntwort2>These</falscheAntwort2>
+            <falscheAntwort3>Theater</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was hilft einem, fit zu bleiben?</fragenText>
+            <richtigeAntwort>Gymnastik</richtigeAntwort>
+            <falscheAntwort1>Benzin</falscheAntwort1>
+            <falscheAntwort2>Mathematik</falscheAntwort2>
+            <falscheAntwort3>Pizza</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wen erkennt man an seiner Frisur?</fragenText>
+            <richtigeAntwort>Skinhead</richtigeAntwort>
+            <falscheAntwort1>Professor</falscheAntwort1>
+            <falscheAntwort2>Doktor</falscheAntwort2>
+            <falscheAntwort3>Offizier</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Mit wem hat man lieber nichts zu tun?</fragenText>
+            <richtigeAntwort>Gangster</richtigeAntwort>
+            <falscheAntwort1>Gentleman</falscheAntwort1>
+            <falscheAntwort2>Jockey</falscheAntwort2>
+            <falscheAntwort3>Modell</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was kann zerbrechen?</fragenText>
+            <richtigeAntwort>Porzellan</richtigeAntwort>
+            <falscheAntwort1>Skizze</falscheAntwort1>
+            <falscheAntwort2>Story</falscheAntwort2>
+            <falscheAntwort3>Asphalt</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was kann man hören?</fragenText>
+            <richtigeAntwort>Applaus</richtigeAntwort>
+            <falscheAntwort1>Appetit</falscheAntwort1>
+            <falscheAntwort2>Advent</falscheAntwort2>
+            <falscheAntwort3>Acker</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was hat mit Musik zu tun?</fragenText>
+            <richtigeAntwort>Jazz</richtigeAntwort>
+            <falscheAntwort1>Jumbo</falscheAntwort1>
+            <falscheAntwort2>Jeep</falscheAntwort2>
+            <falscheAntwort3>Job</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Womit kann man sich schön machen?</fragenText>
+            <richtigeAntwort>Kosmetik</richtigeAntwort>
+            <falscheAntwort1>Majonäse</falscheAntwort1>
+            <falscheAntwort2>Kabarett</falscheAntwort2>
+            <falscheAntwort3>Ketchup</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo ist es sehr laut?</fragenText>
+            <richtigeAntwort>Disco</richtigeAntwort>
+            <falscheAntwort1>Diskette</falscheAntwort1>
+            <falscheAntwort2>Friteuse</falscheAntwort2>
+            <falscheAntwort3>Safe</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wen gibt es bei der Polizei?</fragenText>
+            <richtigeAntwort>Kommissar</richtigeAntwort>
+            <falscheAntwort1>Hebamme</falscheAntwort1>
+            <falscheAntwort2>Apotheker</falscheAntwort2>
+            <falscheAntwort3>Playboy</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Mit welchem gerät kann man Dinge ganz stark vergrößert betrachten?</fragenText>
+            <richtigeAntwort>Mikroskop</richtigeAntwort>
+            <falscheAntwort1>Lupe</falscheAntwort1>
+            <falscheAntwort2>Mikrophon</falscheAntwort2>
+            <falscheAntwort3>Dimmer</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man Sportkleidung?</fragenText>
+            <richtigeAntwort>Dress</richtigeAntwort>
+            <falscheAntwort1>Slip</falscheAntwort1>
+            <falscheAntwort2>Turnier</falscheAntwort2>
+            <falscheAntwort3>Pokal</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das Fremdwort für „Briefumschlag“?</fragenText>
+            <richtigeAntwort>Kuvert</richtigeAntwort>
+            <falscheAntwort1>Kuvertüre</falscheAntwort1>
+            <falscheAntwort2>Ouvertüre</falscheAntwort2>
+            <falscheAntwort3>Markise</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man jemanden, der voraussichtlich siegen wird?</fragenText>
+            <richtigeAntwort>Favorit</richtigeAntwort>
+            <falscheAntwort1>Genie</falscheAntwort1>
+            <falscheAntwort2>Ganove</falscheAntwort2>
+            <falscheAntwort3>Komplize</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist das Gegenteil von „positiv“?</fragenText>
+            <richtigeAntwort>negativ</richtigeAntwort>
+            <falscheAntwort1>naiv</falscheAntwort1>
+            <falscheAntwort2>alternativ</falscheAntwort2>
+            <falscheAntwort3>passiv</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist das Gegenteil von „negativ“?</fragenText>
+            <richtigeAntwort>passiv</richtigeAntwort>
+            <falscheAntwort1>passend</falscheAntwort1>
+            <falscheAntwort2>porös</falscheAntwort2>
+            <falscheAntwort3>ultimativ</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man den Spielleiter bei einem Film oder im Theater?</fragenText>
+            <richtigeAntwort>Regisseur</richtigeAntwort>
+            <falscheAntwort1>Masseur</falscheAntwort1>
+            <falscheAntwort2>Partisan</falscheAntwort2>
+            <falscheAntwort3>Redakteur</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man einen Turnkünstler?</fragenText>
+            <richtigeAntwort>Akrobat</richtigeAntwort>
+            <falscheAntwort1>Roboter</falscheAntwort1>
+            <falscheAntwort2>Manager</falscheAntwort2>
+            <falscheAntwort3>Kidnapper</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was sind Bakterien?</fragenText>
+            <richtigeAntwort>kleinste Lebewesen</richtigeAntwort>
+            <falscheAntwort1>Backmittel</falscheAntwort1>
+            <falscheAntwort2>Regenwürmer</falscheAntwort2>
+            <falscheAntwort3>Wassertiere</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann gibt es ein Dessert?</fragenText>
+            <richtigeAntwort>als Nachtisch</richtigeAntwort>
+            <falscheAntwort1>als Hauptspeise</falscheAntwort1>
+            <falscheAntwort2>als Mittagessen</falscheAntwort2>
+            <falscheAntwort3>als Frühstück</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo gibt es meist ein „Happy End“?</fragenText>
+            <richtigeAntwort>im Film</richtigeAntwort>
+            <falscheAntwort1>im Flugzeug</falscheAntwort1>
+            <falscheAntwort2>im Krankenhaus</falscheAntwort2>
+            <falscheAntwort3>in der Schule</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann braucht man Proviant?</fragenText>
+            <richtigeAntwort>auf Reisen</richtigeAntwort>
+            <falscheAntwort1>beim Mittagsschlaf</falscheAntwort1>
+            <falscheAntwort2>im Unterricht</falscheAntwort2>
+            <falscheAntwort3>beim Rasenmähen</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Farbe ist „pink“?</fragenText>
+            <richtigeAntwort>rosa</richtigeAntwort>
+            <falscheAntwort1>gelb</falscheAntwort1>
+            <falscheAntwort2>grün</falscheAntwort2>
+            <falscheAntwort3>hellblau</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist ein Slum?</fragenText>
+            <richtigeAntwort>ein Elendsviertel</richtigeAntwort>
+            <falscheAntwort1>ein Außerirdischer</falscheAntwort1>
+            <falscheAntwort2>ein teures Kleidungsstück</falscheAntwort2>
+            <falscheAntwort3>ein seltener Meeresfisch</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo schläft man in einer Kajüte?</fragenText>
+            <richtigeAntwort>auf dem Schiff</richtigeAntwort>
+            <falscheAntwort1>in der Jugendherberge</falscheAntwort1>
+            <falscheAntwort2>bei den Eskimos</falscheAntwort2>
+            <falscheAntwort3>im Schlafwagen</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wozu braucht man Munition?</fragenText>
+            <richtigeAntwort>zum Schießen</richtigeAntwort>
+            <falscheAntwort1>zum Backen</falscheAntwort1>
+            <falscheAntwort2>zum Fliegen</falscheAntwort2>
+            <falscheAntwort3>zum Essen</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was bedeutet „präzise“?</fragenText>
+            <richtigeAntwort>genau</richtigeAntwort>
+            <falscheAntwort1>schlecht</falscheAntwort1>
+            <falscheAntwort2>schnell</falscheAntwort2>
+            <falscheAntwort3>gerade</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer kann eine Razzia machen?</fragenText>
+            <richtigeAntwort>Polizei</richtigeAntwort>
+            <falscheAntwort1>Pizza - Bäcker</falscheAntwort1>
+            <falscheAntwort2>Feuerwehr</falscheAntwort2>
+            <falscheAntwort3>ADAC</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer kann einen Tumor behandeln?</fragenText>
+            <richtigeAntwort>Chirurg</richtigeAntwort>
+            <falscheAntwort1>Installateur</falscheAntwort1>
+            <falscheAntwort2>Kommissar</falscheAntwort2>
+            <falscheAntwort3>Krankenpfleger</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Beruf müssen die Arbeitsgeräte oft steril sein?</fragenText>
+            <richtigeAntwort>Arzt</richtigeAntwort>
+            <falscheAntwort1>Maler</falscheAntwort1>
+            <falscheAntwort2>Uhrmacher</falscheAntwort2>
+            <falscheAntwort3>Bauer</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was wird mit dem Barometer gemessen?</fragenText>
+            <richtigeAntwort>Luftdruck</richtigeAntwort>
+            <falscheAntwort1>Luftfeuchtigkeit</falscheAntwort1>
+            <falscheAntwort2>Ozongehalt</falscheAntwort2>
+            <falscheAntwort3>Temperatur</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo kann man eine Infusion bekommen?</fragenText>
+            <richtigeAntwort>im Krankenhaus</richtigeAntwort>
+            <falscheAntwort1>in der Pizzeria</falscheAntwort1>
+            <falscheAntwort2>bei der Polizei</falscheAntwort2>
+            <falscheAntwort3>im Baumarkt</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Womit hat eine Inflation zu tun?</fragenText>
+            <richtigeAntwort>Geld</richtigeAntwort>
+            <falscheAntwort1>Straßenverkehr</falscheAntwort1>
+            <falscheAntwort2>Krankheiten</falscheAntwort2>
+            <falscheAntwort3>Umweltverschmutzung</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was bedeutet „rasant“?</fragenText>
+            <richtigeAntwort>äußerst schnell</richtigeAntwort>
+            <falscheAntwort1>unheimlich wütend</falscheAntwort1>
+            <falscheAntwort2>sehr zornig</falscheAntwort2>
+            <falscheAntwort3>ziemlich sportlich</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist eine Region?</fragenText>
+            <richtigeAntwort>eine bestimmte Gegend</richtigeAntwort>
+            <falscheAntwort1>ein Erdteil</falscheAntwort1>
+            <falscheAntwort2>eine Marzipantorte</falscheAntwort2>
+            <falscheAntwort3>eine Großstadt</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was bedeutet „Pardon“?</fragenText>
+            <richtigeAntwort>Entschuldigung !</richtigeAntwort>
+            <falscheAntwort1>Pass auf !</falscheAntwort1>
+            <falscheAntwort2>Achtung !</falscheAntwort2>
+            <falscheAntwort3>Hereinspaziert !</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was kann man tun, um kein Karies zu bekommen?</fragenText>
+            <richtigeAntwort>Zähne putzen</richtigeAntwort>
+            <falscheAntwort1>Hände waschen</falscheAntwort1>
+            <falscheAntwort2>Nase putzen</falscheAntwort2>
+            <falscheAntwort3>Arzt anrufen</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das Fremdwort für Haarwaschmittel?</fragenText>
+            <richtigeAntwort>Shampoon</richtigeAntwort>
+            <falscheAntwort1>Gelee</falscheAntwort1>
+            <falscheAntwort2>Spray</falscheAntwort2>
+            <falscheAntwort3>Creme</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man - zum Beispiel beim Sport - einen Geldgeber?</fragenText>
+            <richtigeAntwort>Sponsor</richtigeAntwort>
+            <falscheAntwort1>Monteur</falscheAntwort1>
+            <falscheAntwort2>Passagier</falscheAntwort2>
+            <falscheAntwort3>Kandidat</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo kauft man eine Brille?</fragenText>
+            <richtigeAntwort>Optiker</richtigeAntwort>
+            <falscheAntwort1>Apotheker</falscheAntwort1>
+            <falscheAntwort2>Organist</falscheAntwort2>
+            <falscheAntwort3>Frisör</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches dieser Tiere lebt nicht im Wasser?</fragenText>
+            <richtigeAntwort>Nashorn</richtigeAntwort>
+            <falscheAntwort1>Nilpferd</falscheAntwort1>
+            <falscheAntwort2>Frosch</falscheAntwort2>
+            <falscheAntwort3>Krokodil</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was sind Sandwichs?</fragenText>
+            <richtigeAntwort>belegte Brote</richtigeAntwort>
+            <falscheAntwort1>Sandburgen</falscheAntwort1>
+            <falscheAntwort2>Schuhcremesorten</falscheAntwort2>
+            <falscheAntwort3>Sandstürme</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Stunden haben zwei Tage?</fragenText>
+            <richtigeAntwort>48</richtigeAntwort>
+            <falscheAntwort1>24</falscheAntwort1>
+            <falscheAntwort2>12</falscheAntwort2>
+            <falscheAntwort3>96</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der achte und neunte Buchstabe des Alphabetes?</fragenText>
+            <richtigeAntwort>H und I</richtigeAntwort>
+            <falscheAntwort1>G und H</falscheAntwort1>
+            <falscheAntwort2>I und J</falscheAntwort2>
+            <falscheAntwort3>J und K</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welcher Himmelsrichtung ist bei uns die Sonne nie zu sehen?</fragenText>
+            <richtigeAntwort>Norden</richtigeAntwort>
+            <falscheAntwort1>Osten</falscheAntwort1>
+            <falscheAntwort2>Westen</falscheAntwort2>
+            <falscheAntwort3>Süden</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was frisst das Krümelmonster am liebsten?</fragenText>
+            <richtigeAntwort>Kekse</richtigeAntwort>
+            <falscheAntwort1>Kuchen</falscheAntwort1>
+            <falscheAntwort2>Kohlen</falscheAntwort2>
+            <falscheAntwort3>Salat</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Schichten erhält man, wenn man ein Blatt dreimal faltet?</fragenText>
+            <richtigeAntwort>8</richtigeAntwort>
+            <falscheAntwort1>4</falscheAntwort1>
+            <falscheAntwort2>6</falscheAntwort2>
+            <falscheAntwort3>12</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was bedeutet die Abkürzung „z.B.“?</fragenText>
+            <richtigeAntwort>zum Beispiel</richtigeAntwort>
+            <falscheAntwort1>zwei Bier</falscheAntwort1>
+            <falscheAntwort2>zur Brücke</falscheAntwort2>
+            <falscheAntwort3>zwölf Bäcker</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was bedeutet UKW?</fragenText>
+            <richtigeAntwort>Ultrakurzwelle</richtigeAntwort>
+            <falscheAntwort1>unbenutzter Kraftwagen</falscheAntwort1>
+            <falscheAntwort2>Ultrakurzwasser</falscheAntwort2>
+            <falscheAntwort3>unbekannte Welt</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

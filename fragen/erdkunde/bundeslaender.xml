@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Erdkunde</fach>
+    <thema>Bundesländer, Stand 27.05.01</thema>
+    <autor>Rolf Gräbener, 4/2001</autor>
+    <anzahlFragen>28</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>Wie heißt die Landeshauptstadt von Bayern?</fragenText>
+            <richtigeAntwort>München</richtigeAntwort>
+            <falscheAntwort1>Nürnberg</falscheAntwort1>
+            <falscheAntwort2>Berlin</falscheAntwort2>
+            <falscheAntwort3>Ramsbeck</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist kein Bundesland?</fragenText>
+            <richtigeAntwort>Sauerland</richtigeAntwort>
+            <falscheAntwort1>Saarland</falscheAntwort1>
+            <falscheAntwort2>Hamburg</falscheAntwort2>
+            <falscheAntwort3>Niedersachsen</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das flächenmäßig größte Bundesland?</fragenText>
+            <richtigeAntwort>Bayern</richtigeAntwort>
+            <falscheAntwort1>Nordrhein-Westfalen</falscheAntwort1>
+            <falscheAntwort2>Baden-Württemberg</falscheAntwort2>
+            <falscheAntwort3>Niedersachsen</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Landeshauptstadt von Sachsen?</fragenText>
+            <richtigeAntwort>Dresden</richtigeAntwort>
+            <falscheAntwort1>Erfurt</falscheAntwort1>
+            <falscheAntwort2>Magdeburg</falscheAntwort2>
+            <falscheAntwort3>Potsdam</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Bundesland hat die meisten Einwohner?</fragenText>
+            <richtigeAntwort>Nordrhein-Westfalen</richtigeAntwort>
+            <falscheAntwort1>Berlin</falscheAntwort1>
+            <falscheAntwort2>Baden-Württemberg</falscheAntwort2>
+            <falscheAntwort3>Hessen</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Stadt ist keine Landeshauptstadt?</fragenText>
+            <richtigeAntwort>Frankfurt</richtigeAntwort>
+            <falscheAntwort1>Schwerin</falscheAntwort1>
+            <falscheAntwort2>Stuttgart</falscheAntwort2>
+            <falscheAntwort3>Potsdam</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Bundesland hat die geringste Fläche?</fragenText>
+            <richtigeAntwort>Bremen</richtigeAntwort>
+            <falscheAntwort1>Hamburg</falscheAntwort1>
+            <falscheAntwort2>Berlin</falscheAntwort2>
+            <falscheAntwort3>Saarland</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches dieser Bundesländer hat die wenigsten Einwohner?</fragenText>
+            <richtigeAntwort>Mecklenburg-Vorpommern</richtigeAntwort>
+            <falscheAntwort1>Brandenburg</falscheAntwort1>
+            <falscheAntwort2>Sachsen-Anhalt</falscheAntwort2>
+            <falscheAntwort3>Schleswig-Holstein</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Bundesland grenzt nicht an Nordrhein-Westfalen?</fragenText>
+            <richtigeAntwort>Saarland</richtigeAntwort>
+            <falscheAntwort1>Niedersachsen</falscheAntwort1>
+            <falscheAntwort2>Hessen</falscheAntwort2>
+            <falscheAntwort3>Rheinland-Pfalz</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Bundesland leben die wenigsten Einwohner pro km²?</fragenText>
+            <richtigeAntwort>Brandenburg</richtigeAntwort>
+            <falscheAntwort1>Baden-Württemberg</falscheAntwort1>
+            <falscheAntwort2>Bayern</falscheAntwort2>
+            <falscheAntwort3>Niedersachsen</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Bundesland grenzt nicht an Sachsen-Anhalt?</fragenText>
+            <richtigeAntwort>Mecklenburg-Vorpommern</richtigeAntwort>
+            <falscheAntwort1>Niedersachsen</falscheAntwort1>
+            <falscheAntwort2>Thüringen</falscheAntwort2>
+            <falscheAntwort3>Brandenburg</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches dieser Bundesländer hat keinen direkten ausländischen Nachbarn?</fragenText>
+            <richtigeAntwort>Hessen</richtigeAntwort>
+            <falscheAntwort1>Niedersachsen</falscheAntwort1>
+            <falscheAntwort2>Rheinland-Pfalz</falscheAntwort2>
+            <falscheAntwort3>Sachsen</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Mainz ist die Hauptstadt von welchem Bundesland?</fragenText>
+            <richtigeAntwort>Rheinland-Pfalz</richtigeAntwort>
+            <falscheAntwort1>Baden-Württemberg</falscheAntwort1>
+            <falscheAntwort2>Mecklenburg-Vorpommern</falscheAntwort2>
+            <falscheAntwort3>Schleswig-Holstein</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Bundesländer gibt es?</fragenText>
+            <richtigeAntwort>16</richtigeAntwort>
+            <falscheAntwort1>12</falscheAntwort1>
+            <falscheAntwort2>14</falscheAntwort2>
+            <falscheAntwort3>18</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Landeshauptstadt liegt am weitesten im Norden?</fragenText>
+            <richtigeAntwort>Kiel</richtigeAntwort>
+            <falscheAntwort1>Hamburg</falscheAntwort1>
+            <falscheAntwort2>Schwerin</falscheAntwort2>
+            <falscheAntwort3>Bremen</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Landeshauptstadt von Mecklenburg-Vorpommern?</fragenText>
+            <richtigeAntwort>Schwerin</richtigeAntwort>
+            <falscheAntwort1>München</falscheAntwort1>
+            <falscheAntwort2>Meschede</falscheAntwort2>
+            <falscheAntwort3>Nuttlar</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wiesbaden ist die Landeshauptstadt von welchem Bundesland?</fragenText>
+            <richtigeAntwort>Hessen</richtigeAntwort>
+            <falscheAntwort1>Rheinland-Pfalz</falscheAntwort1>
+            <falscheAntwort2>Brandenburg</falscheAntwort2>
+            <falscheAntwort3>Thüringen</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist kein Bundesland?</fragenText>
+            <richtigeAntwort>Saarbrücken</richtigeAntwort>
+            <falscheAntwort1>Bremen</falscheAntwort1>
+            <falscheAntwort2>Berlin</falscheAntwort2>
+            <falscheAntwort3>Hamburg</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Bundesland liegt Köln?</fragenText>
+            <richtigeAntwort>Nordrhein-Westfalen</richtigeAntwort>
+            <falscheAntwort1>Rheinland-Pfalz</falscheAntwort1>
+            <falscheAntwort2>Hessen</falscheAntwort2>
+            <falscheAntwort3>Sauerland</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Bundesland grenzt an Dänemark?</fragenText>
+            <richtigeAntwort>Schleswig-Holstein</richtigeAntwort>
+            <falscheAntwort1>Niedersachsen</falscheAntwort1>
+            <falscheAntwort2>Saarland</falscheAntwort2>
+            <falscheAntwort3>Sachsen</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Durch welches Bundesland fließt die Ruhr ausschließlich?</fragenText>
+            <richtigeAntwort>Nordrhein-Westfalen</richtigeAntwort>
+            <falscheAntwort1>Rheinland-Pfalz</falscheAntwort1>
+            <falscheAntwort2>Niedersachsen</falscheAntwort2>
+            <falscheAntwort3>Schleswig-Holstein</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Stadt liegt nicht in Nordrhein-Westfalen?</fragenText>
+            <richtigeAntwort>Nürnberg</richtigeAntwort>
+            <falscheAntwort1>Dortmund</falscheAntwort1>
+            <falscheAntwort2>Bonn</falscheAntwort2>
+            <falscheAntwort3>Essen</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Von welchem Bundesland wird Berlin eingeschlossen?</fragenText>
+            <richtigeAntwort>Brandenburg</richtigeAntwort>
+            <falscheAntwort1>Sachsen</falscheAntwort1>
+            <falscheAntwort2>Niedersachsen</falscheAntwort2>
+            <falscheAntwort3>Sachsen-Anhalt</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Bundesland liegt sowohl an der Nordsee als auch an der Ostsee?</fragenText>
+            <richtigeAntwort>Schleswig-Holstein</richtigeAntwort>
+            <falscheAntwort1>Niedersachsen</falscheAntwort1>
+            <falscheAntwort2>Mecklenburg-Vorpommern</falscheAntwort2>
+            <falscheAntwort3>Bayern</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Stadt liegt in Bayern?</fragenText>
+            <richtigeAntwort>Nürnberg</richtigeAntwort>
+            <falscheAntwort1>Leipzig</falscheAntwort1>
+            <falscheAntwort2>Frankfurt</falscheAntwort2>
+            <falscheAntwort3>Köln</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Magdeburg ist die Hauptstadt von welchem Bundesland?</fragenText>
+            <richtigeAntwort>Sachsen-Anhalt</richtigeAntwort>
+            <falscheAntwort1>Thüringen</falscheAntwort1>
+            <falscheAntwort2>Brandenburg</falscheAntwort2>
+            <falscheAntwort3>Baden-Württemberg</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Saarbrücken ist die Hauptstadt von welchem Bundesland?</fragenText>
+            <richtigeAntwort>Saarland</richtigeAntwort>
+            <falscheAntwort1>Legoland</falscheAntwort1>
+            <falscheAntwort2>Sauerland</falscheAntwort2>
+            <falscheAntwort3>Schlaraffenland</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lautet die Landeshauptstadt von Niedersachsen?</fragenText>
+            <richtigeAntwort>Hannover</richtigeAntwort>
+            <falscheAntwort1>Magdeburg</falscheAntwort1>
+            <falscheAntwort2>Stuttgart</falscheAntwort2>
+            <falscheAntwort3>Wolfsburg</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

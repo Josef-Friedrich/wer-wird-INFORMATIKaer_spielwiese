@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Allgemein</fach>
+    <thema>Rund um die Wolken</thema>
+    <autor>Manfred Hartisch</autor>
+    <anzahlFragen>27</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>Wie hoch ist das oberste Wolkenstockwerk?</fragenText>
+            <richtigeAntwort>7 - 13 km</richtigeAntwort>
+            <falscheAntwort1>5 - 11 km</falscheAntwort1>
+            <falscheAntwort2>6 - 12 km</falscheAntwort2>
+            <falscheAntwort3>4 - 10 km</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch ist das mittlere Wolkenstockwerk?</fragenText>
+            <richtigeAntwort>2 - 7 km</richtigeAntwort>
+            <falscheAntwort1>5 - 10 km</falscheAntwort1>
+            <falscheAntwort2>1 - 3 km</falscheAntwort2>
+            <falscheAntwort3>7 - 16 km</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch ist das unterste Wolkenstockwerk?</fragenText>
+            <richtigeAntwort>0 - 2 km</richtigeAntwort>
+            <falscheAntwort1>2 - 4 km</falscheAntwort1>
+            <falscheAntwort2>1 - 3 km</falscheAntwort2>
+            <falscheAntwort3>4 - 6 km</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Wolkenstockwerke gibt es nach internationaler Vereinbarung?</fragenText>
+            <richtigeAntwort>3</richtigeAntwort>
+            <falscheAntwort1>5</falscheAntwort1>
+            <falscheAntwort2>4</falscheAntwort2>
+            <falscheAntwort3>6</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Wolkenfamilien gibt es nach internationaler Vereinbarung?</fragenText>
+            <richtigeAntwort>4</richtigeAntwort>
+            <falscheAntwort1>2</falscheAntwort1>
+            <falscheAntwort2>3</falscheAntwort2>
+            <falscheAntwort3>6</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Wolkengattungen werden nach internationaler Vereinbarung unterschieden?</fragenText>
+            <richtigeAntwort>10</richtigeAntwort>
+            <falscheAntwort1>8</falscheAntwort1>
+            <falscheAntwort2>14</falscheAntwort2>
+            <falscheAntwort3>6</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Höhe können aufgetürmte Haufenwolken in den Tropen erreichen?</fragenText>
+            <richtigeAntwort>16 km</richtigeAntwort>
+            <falscheAntwort1>8 km</falscheAntwort1>
+            <falscheAntwort2>12 km</falscheAntwort2>
+            <falscheAntwort3>6 km</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie werden die Haufenwolken auch genannt?</fragenText>
+            <richtigeAntwort>Quellwolken</richtigeAntwort>
+            <falscheAntwort1>Schlechtwetterwolken</falscheAntwort1>
+            <falscheAntwort2>Mündungswolken</falscheAntwort2>
+            <falscheAntwort3>Schneewolken</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die harmlosen Wolken, die sich bei schönem Wetter bilden und aus denen kein Regen fällt, solange sie nicht zu dick werden?</fragenText>
+            <richtigeAntwort>Haufenwolken</richtigeAntwort>
+            <falscheAntwort1>Schichtwolken</falscheAntwort1>
+            <falscheAntwort2>Schäfchenwolken</falscheAntwort2>
+            <falscheAntwort3>Federwolken</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus welchen Wolken kommt der kleintropfige Landregen?</fragenText>
+            <richtigeAntwort>Schichtwolken</richtigeAntwort>
+            <falscheAntwort1>Haufenwolken</falscheAntwort1>
+            <falscheAntwort2>Schäfchenwolken</falscheAntwort2>
+            <falscheAntwort3>Gewitterwolken</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Wolken entstehen, wenn sich warme Luft über kalte Luft schiebt?</fragenText>
+            <richtigeAntwort>Schichtwolken</richtigeAntwort>
+            <falscheAntwort1>Schäfchenwolken</falscheAntwort1>
+            <falscheAntwort2>Haufenwolken</falscheAntwort2>
+            <falscheAntwort3>Federwolken</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Wettervorhersage kann man machen, wenn sich in großer Höhe Schäfchenwolken bilden?</fragenText>
+            <richtigeAntwort>Das Wetter ändert sich.</richtigeAntwort>
+            <falscheAntwort1>Es wird gleich regnen.</falscheAntwort1>
+            <falscheAntwort2>Das Wetter bleibt so wie es ist.</falscheAntwort2>
+            <falscheAntwort3>Es wird bald schneien.</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Wolken in großer Höhe, die wellige Streifen haben und anzeigen, dass sich das Wetter ändern wird?</fragenText>
+            <richtigeAntwort>Schäfchenwolken</richtigeAntwort>
+            <falscheAntwort1>Haufenwolken</falscheAntwort1>
+            <falscheAntwort2>Schichtwolken</falscheAntwort2>
+            <falscheAntwort3>Federwolken</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Wolken, die sehr hoch am Himmel dünne weiße Streifen bilden und schlechtes Wetter ankündigen?</fragenText>
+            <richtigeAntwort>Federwolken</richtigeAntwort>
+            <falscheAntwort1>Schäfchenwolken</falscheAntwort1>
+            <falscheAntwort2>Haufenwolken</falscheAntwort2>
+            <falscheAntwort3>Gewitterwolken</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche drei Stoffe in der Luft sind für die Entstehung von Wolken verantwortlich?</fragenText>
+            <richtigeAntwort>Wasserdampf, Staub und kleinste Eiskörnchen</richtigeAntwort>
+            <falscheAntwort1>Wasserdampf, Sauerstoff und Neon</falscheAntwort1>
+            <falscheAntwort2>Wasserdampf, Hagel und Stickstoff</falscheAntwort2>
+            <falscheAntwort3>Wasserdampf, Eiskristalle und Meteoriten</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man es, wenn die Luft viel Wasserdampf enthält, also eine hohe Luftfeuchtigkeit herrscht?</fragenText>
+            <richtigeAntwort>Es ist schwül.</richtigeAntwort>
+            <falscheAntwort1>Es ist frostig.</falscheAntwort1>
+            <falscheAntwort2>Es ist heiter.</falscheAntwort2>
+            <falscheAntwort3>Es ist lau.</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was heißt „Wasser kondensiert“?</fragenText>
+            <richtigeAntwort>Wasserdampf wird zu flüssigem Wasser</richtigeAntwort>
+            <falscheAntwort1>flüssiges Wasser wird zu Wasserdampf</falscheAntwort1>
+            <falscheAntwort2>Eis wird zu flüssigem Wasser</falscheAntwort2>
+            <falscheAntwort3>Wasser wird zu Eis</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Wettervorhersage kann man machen, wenn am blauen Himmel Federwolken auftauchen?</fragenText>
+            <richtigeAntwort>Das Wetter wird schlechter.</richtigeAntwort>
+            <falscheAntwort1>Es bleibt so wie es ist.</falscheAntwort1>
+            <falscheAntwort2>Das Wetter wird besser.</falscheAntwort2>
+            <falscheAntwort3>Es fängt bald an zu schneien.</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch können Gewitterwolken werden?</fragenText>
+            <richtigeAntwort>10 km</richtigeAntwort>
+            <falscheAntwort1>1.500 m</falscheAntwort1>
+            <falscheAntwort2>2 - 3 km</falscheAntwort2>
+            <falscheAntwort3>über 100 km</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie muss sich die Temperatur der Luft ändern, damit Wolken entstehen?</fragenText>
+            <richtigeAntwort>Sie muss sinken.</richtigeAntwort>
+            <falscheAntwort1>Sie ändert sich nicht.</falscheAntwort1>
+            <falscheAntwort2>Sie muss steigen.</falscheAntwort2>
+            <falscheAntwort3>Sie wechselt häufig von kalt nach warm.</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie ändert sich die Temperatur nach einem Gewitter?</fragenText>
+            <richtigeAntwort>Es wird kälter.</richtigeAntwort>
+            <falscheAntwort1>Es bleibt so wie es ist.</falscheAntwort1>
+            <falscheAntwort2>Es wird wärmer.</falscheAntwort2>
+            <falscheAntwort3>Es wird mal wärmer und mal kälter.</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Art von Niederschlag fällt aus den Gewitterwolken?</fragenText>
+            <richtigeAntwort>dicke Regentropfen und Hagel</richtigeAntwort>
+            <falscheAntwort1>Sprudelwasser</falscheAntwort1>
+            <falscheAntwort2>Nieselregen und Schnee</falscheAntwort2>
+            <falscheAntwort3>Eiskristalle</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Wolken gibt es?</fragenText>
+            <richtigeAntwort>Schichtwolken</richtigeAntwort>
+            <falscheAntwort1>Schluchtwolken</falscheAntwort1>
+            <falscheAntwort2>Schachtwolken</falscheAntwort2>
+            <falscheAntwort3>Schlammwolken</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Wolken gibt es?</fragenText>
+            <richtigeAntwort>Federwolken</richtigeAntwort>
+            <falscheAntwort1>Wollewolken</falscheAntwort1>
+            <falscheAntwort2>Balkenwolken</falscheAntwort2>
+            <falscheAntwort3>Mauerwolken</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Wolken gibt es?</fragenText>
+            <richtigeAntwort>Schäfchenwolken</richtigeAntwort>
+            <falscheAntwort1>Kätzchenwolken</falscheAntwort1>
+            <falscheAntwort2>Kükenwolken</falscheAntwort2>
+            <falscheAntwort3>Pferdchenwolken</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Farbe hat der Wasserdampf?</fragenText>
+            <richtigeAntwort>durchsichtig</richtigeAntwort>
+            <falscheAntwort1>weiß</falscheAntwort1>
+            <falscheAntwort2>grau</falscheAntwort2>
+            <falscheAntwort3>schwarz</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Woraus bestehen Wolken?</fragenText>
+            <richtigeAntwort>Wassertropfen</richtigeAntwort>
+            <falscheAntwort1>gasförmiges Wasser</falscheAntwort1>
+            <falscheAntwort2>Wasserdampf</falscheAntwort2>
+            <falscheAntwort3>Nebel</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

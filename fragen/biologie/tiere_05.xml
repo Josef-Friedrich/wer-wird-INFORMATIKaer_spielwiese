@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Biologie</fach>
+    <thema>Tierquiz 5</thema>
+    <autor>Manfred Hartisch 5/2001</autor>
+    <anzahlFragen>40</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>Der Tiger hat ...</fragenText>
+            <richtigeAntwort>Streifen</richtigeAntwort>
+            <falscheAntwort1>Punkte</falscheAntwort1>
+            <falscheAntwort2>Flecke</falscheAntwort2>
+            <falscheAntwort3>Dreiecke</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der Pinguin ist ein ...</fragenText>
+            <richtigeAntwort>Vogel</richtigeAntwort>
+            <falscheAntwort1>Fisch</falscheAntwort1>
+            <falscheAntwort2>Reptil</falscheAntwort2>
+            <falscheAntwort3>Säugetier</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lange dauert es, bis sich der Maikäfer vom Ei zum fertigen Käfer entwickelt hat?</fragenText>
+            <richtigeAntwort>4 Jahre</richtigeAntwort>
+            <falscheAntwort1>4 Monate</falscheAntwort1>
+            <falscheAntwort2>4 Wochen</falscheAntwort2>
+            <falscheAntwort3>4 Tage</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ein Blauwal wiegt ungefähr so viel wie ...</fragenText>
+            <richtigeAntwort>1500 Menschen</richtigeAntwort>
+            <falscheAntwort1>150 Menschen</falscheAntwort1>
+            <falscheAntwort2>15 Menschen</falscheAntwort2>
+            <falscheAntwort3>6700 Menschen</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Zunge des Blauwals wiegt ...</fragenText>
+            <richtigeAntwort>3 Tonnen</richtigeAntwort>
+            <falscheAntwort1>1 Tonne</falscheAntwort1>
+            <falscheAntwort2>2 Tonnen</falscheAntwort2>
+            <falscheAntwort3>5 Tonnen</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der größte Menschenaffe?</fragenText>
+            <richtigeAntwort>Gorilla</richtigeAntwort>
+            <falscheAntwort1>Schimpanse</falscheAntwort1>
+            <falscheAntwort2>Pavian</falscheAntwort2>
+            <falscheAntwort3>King - Kong</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Raupen frisst eine junge Kohlmeise an einem Tag?</fragenText>
+            <richtigeAntwort>ca. 130</richtigeAntwort>
+            <falscheAntwort1>ca. 10</falscheAntwort1>
+            <falscheAntwort2>ca. 50</falscheAntwort2>
+            <falscheAntwort3>ca. 1000</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer wird auch „Zimmermannn des Waldes“ genannt?</fragenText>
+            <richtigeAntwort>der Specht</richtigeAntwort>
+            <falscheAntwort1>die Ameise</falscheAntwort1>
+            <falscheAntwort2>der Waldkauz</falscheAntwort2>
+            <falscheAntwort3>das Wildschwein</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie tötet der Zitteraal seine Beute?</fragenText>
+            <richtigeAntwort>mit Stromschlägen</richtigeAntwort>
+            <falscheAntwort1>mit Gift</falscheAntwort1>
+            <falscheAntwort2>Er erwürgt sie.</falscheAntwort2>
+            <falscheAntwort3>mit Tinte</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen die Männchen und die Weibchen bei den Murmeltieren?</fragenText>
+            <richtigeAntwort>Bär und Katze</richtigeAntwort>
+            <falscheAntwort1>Wolf und Fuchs</falscheAntwort1>
+            <falscheAntwort2>Hamster und Wiesel</falscheAntwort2>
+            <falscheAntwort3>Marder und Dachs</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die größte heimische Wespenart?</fragenText>
+            <richtigeAntwort>Hornisse</richtigeAntwort>
+            <falscheAntwort1>Hummel</falscheAntwort1>
+            <falscheAntwort2>Brummel</falscheAntwort2>
+            <falscheAntwort3>Biene</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie alt können Reiher werden?</fragenText>
+            <richtigeAntwort>ca. 25 Jahre</richtigeAntwort>
+            <falscheAntwort1>ca. 4 Jahre</falscheAntwort1>
+            <falscheAntwort2>ca. 10 Jahre</falscheAntwort2>
+            <falscheAntwort3>ca. 50 Jahre</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist ein „Granatauge“?</fragenText>
+            <richtigeAntwort>eine Libelle</richtigeAntwort>
+            <falscheAntwort1>ein Schmetterling</falscheAntwort1>
+            <falscheAntwort2>ein Fisch</falscheAntwort2>
+            <falscheAntwort3>eine Schwalbe</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist eine „Feuerjungfer“?</fragenText>
+            <richtigeAntwort>eine Libelle</richtigeAntwort>
+            <falscheAntwort1>eine junge Giftschlange</falscheAntwort1>
+            <falscheAntwort2>ein weiblicher Feuersalamander</falscheAntwort2>
+            <falscheAntwort3>eine rote Tiefseequalle</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist ein „Blaupfeil“?</fragenText>
+            <richtigeAntwort>eine Libelle</richtigeAntwort>
+            <falscheAntwort1>ein blauer Vogel</falscheAntwort1>
+            <falscheAntwort2>ein blauer Fisch</falscheAntwort2>
+            <falscheAntwort3>ein Käfer</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie alt kann eine Riesenschildkröte werden?</fragenText>
+            <richtigeAntwort>ca. 200 Jahre</richtigeAntwort>
+            <falscheAntwort1>ca. 100 Jahre</falscheAntwort1>
+            <falscheAntwort2>ca. 50 Jahre</falscheAntwort2>
+            <falscheAntwort3>ca. 25 Jahre</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie tötet der Falke seine Beute?</fragenText>
+            <richtigeAntwort>mit seinem scharfen Schnabel</richtigeAntwort>
+            <falscheAntwort1>mit seinen scharfen Krallen</falscheAntwort1>
+            <falscheAntwort2>mit Giftstacheln</falscheAntwort2>
+            <falscheAntwort3>Er erwürgt seine Beute.</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Tier schreit „I - a“?</fragenText>
+            <richtigeAntwort>der Esel</richtigeAntwort>
+            <falscheAntwort1>der Brüllaffe</falscheAntwort1>
+            <falscheAntwort2>das Kamel</falscheAntwort2>
+            <falscheAntwort3>die Ziege</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Rinderrassen gibt es auf der Welt?</fragenText>
+            <richtigeAntwort>ca. 300</richtigeAntwort>
+            <falscheAntwort1>ca. 50</falscheAntwort1>
+            <falscheAntwort2>ca. 3000</falscheAntwort2>
+            <falscheAntwort3>ca. 150</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Seit wann sind die Rinder Haustiere?</fragenText>
+            <richtigeAntwort>seit 8000 Jahren</richtigeAntwort>
+            <falscheAntwort1>seit 1000 Jahren</falscheAntwort1>
+            <falscheAntwort2>seit 2000 Jahren</falscheAntwort2>
+            <falscheAntwort3>seit 4000 Jahren</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viel Weidegras fressen ausgewachsene Bullen an einem Tag?</fragenText>
+            <richtigeAntwort>ca. 80 kg</richtigeAntwort>
+            <falscheAntwort1>ca. 8 kg</falscheAntwort1>
+            <falscheAntwort2>ca. 40 kg</falscheAntwort2>
+            <falscheAntwort3>ca. 800 kg</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Schneidezähne haben die Rinder in ihrem Oberkiefer?</fragenText>
+            <richtigeAntwort>gar keine</richtigeAntwort>
+            <falscheAntwort1>6</falscheAntwort1>
+            <falscheAntwort2>12</falscheAntwort2>
+            <falscheAntwort3>14</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Womit rupfen die Rinder die Grasbüschel ab?</fragenText>
+            <richtigeAntwort>mit ihrer langen Zunge</richtigeAntwort>
+            <falscheAntwort1>mit der weichen Oberlippe</falscheAntwort1>
+            <falscheAntwort2>mit den scharfen Schneidezähnen</falscheAntwort2>
+            <falscheAntwort3>mit den stumpfen Mahlzähnen</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was fressen die Nashörner am liebsten?</fragenText>
+            <richtigeAntwort>Laub und Gras</richtigeAntwort>
+            <falscheAntwort1>kleine Käfer</falscheAntwort1>
+            <falscheAntwort2>Erdhörnchen</falscheAntwort2>
+            <falscheAntwort3>Rinde und Blätter</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Greifen Nashörner Menschen an?</fragenText>
+            <richtigeAntwort>nur, wenn sie sich bedroht fühlen</richtigeAntwort>
+            <falscheAntwort1>niemals</falscheAntwort1>
+            <falscheAntwort2>nur im Winter</falscheAntwort2>
+            <falscheAntwort3>nur die Nashornweibchen greifen an</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Löwen leben in einem Rudel?</fragenText>
+            <richtigeAntwort>ca. 30</richtigeAntwort>
+            <falscheAntwort1>ca. 13</falscheAntwort1>
+            <falscheAntwort2>ca. 300</falscheAntwort2>
+            <falscheAntwort3>ca. 130</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer führt das Löwenrudel an?</fragenText>
+            <richtigeAntwort>der stärkste Löwe</richtigeAntwort>
+            <falscheAntwort1>das Weibchen mit den meisten Jungen</falscheAntwort1>
+            <falscheAntwort2>das älteste Männchen</falscheAntwort2>
+            <falscheAntwort3>der Löwe mit der längsten Mähne</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wen nennt man auch den „König der Tiere“?</fragenText>
+            <richtigeAntwort>den Löwen</richtigeAntwort>
+            <falscheAntwort1>den Elefanten</falscheAntwort1>
+            <falscheAntwort2>den Adler</falscheAntwort2>
+            <falscheAntwort3>den Delfin</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo lebt der Jaguar?</fragenText>
+            <richtigeAntwort>in Nord- und Südamerika</richtigeAntwort>
+            <falscheAntwort1>in Afrika</falscheAntwort1>
+            <falscheAntwort2>in Australien</falscheAntwort2>
+            <falscheAntwort3>in China</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Kann ein Jaguar gut schwimmen?</fragenText>
+            <richtigeAntwort>ja</richtigeAntwort>
+            <falscheAntwort1>nur die Weibchen</falscheAntwort1>
+            <falscheAntwort2>nur die Männchen</falscheAntwort2>
+            <falscheAntwort3>nein</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist die Hauptnahrung der Jaguare?</fragenText>
+            <richtigeAntwort>Fische, Schweine und Tapire</richtigeAntwort>
+            <falscheAntwort1>Fische, Schweine und Kängurus</falscheAntwort1>
+            <falscheAntwort2>Schweine, Fische und Pinguine</falscheAntwort2>
+            <falscheAntwort3>Mungos, Schweine und Fische</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Warum hat das Tigerfell Streifen?</fragenText>
+            <richtigeAntwort>um sich zu tarnen</richtigeAntwort>
+            <falscheAntwort1>um die Feinde zu verwirren</falscheAntwort1>
+            <falscheAntwort2>um besser gesehen zu werden</falscheAntwort2>
+            <falscheAntwort3>damit die Tiger sich erkennen</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Können Tiger bei Dunkelheit besser sehen als die Menschen?</fragenText>
+            <richtigeAntwort>fünfmal besser</richtigeAntwort>
+            <falscheAntwort1>nein</falscheAntwort1>
+            <falscheAntwort2>zweimal besser</falscheAntwort2>
+            <falscheAntwort3>dreimal besser</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das größte lebende Landraubtier?</fragenText>
+            <richtigeAntwort>Kodiakbär</richtigeAntwort>
+            <falscheAntwort1>Waschbär</falscheAntwort1>
+            <falscheAntwort2>Kragenbär</falscheAntwort2>
+            <falscheAntwort3>Goliathbär</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was fressen Bären?</fragenText>
+            <richtigeAntwort>Sie fressen alles.</richtigeAntwort>
+            <falscheAntwort1>Sie fressen nur Fische.</falscheAntwort1>
+            <falscheAntwort2>Sie fressen nur Pflanzen.</falscheAntwort2>
+            <falscheAntwort3>Sie fressen nur Fleisch.</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was fressen Bären besonders gerne?</fragenText>
+            <richtigeAntwort>Honig</richtigeAntwort>
+            <falscheAntwort1>Brombeeren</falscheAntwort1>
+            <falscheAntwort2>Himbeeren</falscheAntwort2>
+            <falscheAntwort3>Stachelbeeren</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie schnell können Bären für kurze Zeit laufen?</fragenText>
+            <richtigeAntwort>wie ein galoppierendes Pferd</richtigeAntwort>
+            <falscheAntwort1>wie ein rennender Hund</falscheAntwort1>
+            <falscheAntwort2>wie eine flitzende Maus</falscheAntwort2>
+            <falscheAntwort3>wie ein springender Frosch</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo lebt der Eisbär?</fragenText>
+            <richtigeAntwort>am Nordpol</richtigeAntwort>
+            <falscheAntwort1>am Südpol</falscheAntwort1>
+            <falscheAntwort2>in Norwegen</falscheAntwort2>
+            <falscheAntwort3>in Russland</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welcher Familie gehört das Stachelschwein?</fragenText>
+            <richtigeAntwort>zu den Nagetieren</richtigeAntwort>
+            <falscheAntwort1>zu den Hausschweinen</falscheAntwort1>
+            <falscheAntwort2>zu den Wildschweinen</falscheAntwort2>
+            <falscheAntwort3>zu den Beuteltieren</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der kleine Verwandte des Stachelschweines?</fragenText>
+            <richtigeAntwort>Igel</richtigeAntwort>
+            <falscheAntwort1>Ferkel</falscheAntwort1>
+            <falscheAntwort2>Frischling</falscheAntwort2>
+            <falscheAntwort3>Stinktier</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

@@ -1,0 +1,1109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Biologie</fach>
+    <thema>Klassische Genetik</thema>
+    <autor>Klaus Blachut</autor>
+    <anzahlFragen>110</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>In welcher Phase der Meiose kommt es zur Tetradenbildung?</fragenText>
+            <richtigeAntwort>Prophase1</richtigeAntwort>
+            <falscheAntwort1>Anaphase1</falscheAntwort1>
+            <falscheAntwort2>Interphase</falscheAntwort2>
+            <falscheAntwort3>Prophase2</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was war Gregor Mendel von Beruf?</fragenText>
+            <richtigeAntwort>Mönch</richtigeAntwort>
+            <falscheAntwort1>Aushilfskellner</falscheAntwort1>
+            <falscheAntwort2>Biologe</falscheAntwort2>
+            <falscheAntwort3>Gärtner</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was bedeutet der Begriff „Chromosom“ wörtlich?</fragenText>
+            <richtigeAntwort>Farbkörperchen</richtigeAntwort>
+            <falscheAntwort1>Erbmolekül</falscheAntwort1>
+            <falscheAntwort2>Körperzelle</falscheAntwort2>
+            <falscheAntwort3>Kernteilchen</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lautet der normale Karyotyp eines Mannes?</fragenText>
+            <richtigeAntwort>46,xy</richtigeAntwort>
+            <falscheAntwort1>46,xx</falscheAntwort1>
+            <falscheAntwort2>44,xx</falscheAntwort2>
+            <falscheAntwort3>44,xy</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die sortierte Darstellung der Chromosomen eines Lebewesens?</fragenText>
+            <richtigeAntwort>Karyogramm</richtigeAntwort>
+            <falscheAntwort1>Karyotyp</falscheAntwort1>
+            <falscheAntwort2>Genotyp</falscheAntwort2>
+            <falscheAntwort3>Nukleolus</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Ausprägungsform eines Gens?</fragenText>
+            <richtigeAntwort>Allel</richtigeAntwort>
+            <falscheAntwort1>Genotyp</falscheAntwort1>
+            <falscheAntwort2>Chromosom</falscheAntwort2>
+            <falscheAntwort3>Karyogramm</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lautet die Bezeichnung der 1. Mendelschen Regel?</fragenText>
+            <richtigeAntwort>Uniformitätsregel</richtigeAntwort>
+            <falscheAntwort1>Spielregel</falscheAntwort1>
+            <falscheAntwort2>Erbsenregel</falscheAntwort2>
+            <falscheAntwort3>Spaltungsregel</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Mit welcher Pflanzenart erforschte Gregor Mendel die nach ihm benannten Vererbungsregeln?</fragenText>
+            <richtigeAntwort>Erbsen</richtigeAntwort>
+            <falscheAntwort1>Roggen</falscheAntwort1>
+            <falscheAntwort2>Wunderblume</falscheAntwort2>
+            <falscheAntwort3>Mais</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Mit welcher Tierart wurden wichtige Erkenntnisse über die Vererbung gewonnen?</fragenText>
+            <richtigeAntwort>Drosophila melanogaster</richtigeAntwort>
+            <falscheAntwort1>Pan troglodytes</falscheAntwort1>
+            <falscheAntwort2>Anas platyrhynchos</falscheAntwort2>
+            <falscheAntwort3>Bubo bubo</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lautet der lateinische Name der Fruchtfliege?</fragenText>
+            <richtigeAntwort>Drosophila melanogaster</richtigeAntwort>
+            <falscheAntwort1>Pan troglodytes</falscheAntwort1>
+            <falscheAntwort2>Anas platyrhynchos</falscheAntwort2>
+            <falscheAntwort3>Bubo bubo</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lautet die im englischen Sprachraum übliche Abkürzung für Desoxyribonucleinsäure?</fragenText>
+            <richtigeAntwort>DNA</richtigeAntwort>
+            <falscheAntwort1>RNA</falscheAntwort1>
+            <falscheAntwort2>DNS</falscheAntwort2>
+            <falscheAntwort3>C&amp;A</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Begriff kennzeichnet die Verbindungsstelle zweier Chromatiden eines Metaphasechromosoms?</fragenText>
+            <richtigeAntwort>Zentromer</richtigeAntwort>
+            <falscheAntwort1>Chiasma</falscheAntwort1>
+            <falscheAntwort2>crossing-over</falscheAntwort2>
+            <falscheAntwort3>Zentriol</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lautet die Bezeichnung der Färbetechnik, mit deren Hilfe das charakteristische Bändermuster eines Chromosoms sichtbar wird?</fragenText>
+            <richtigeAntwort>Giemsa-Färbung</richtigeAntwort>
+            <falscheAntwort1>Karyopainting</falscheAntwort1>
+            <falscheAntwort2>Karyotyping</falscheAntwort2>
+            <falscheAntwort3>Granulozyten</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Zelltyp wird üblichrweise für die Erstellung eines Karyogramms benutzt?</fragenText>
+            <richtigeAntwort>Lymphozyten</richtigeAntwort>
+            <falscheAntwort1>Blastozyten</falscheAntwort1>
+            <falscheAntwort2>Neuronen</falscheAntwort2>
+            <falscheAntwort3>Erythrozyten</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie werden die Chromosomenpaare bezeichnet, die bei Mann und Frau in gleicher Zusammensetzung vorhanden sind?</fragenText>
+            <richtigeAntwort>Autosomen</richtigeAntwort>
+            <falscheAntwort1>Radoosomen</falscheAntwort1>
+            <falscheAntwort2>Busosomen</falscheAntwort2>
+            <falscheAntwort3>Tramosomen</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Begriff bedeutet übersetzt „Geschlechtschromosom“?</fragenText>
+            <richtigeAntwort>Gonosom</richtigeAntwort>
+            <falscheAntwort1>Karyosom</falscheAntwort1>
+            <falscheAntwort2>Autosom</falscheAntwort2>
+            <falscheAntwort3>Spermosom</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der Chromosomensatz einer Körperzelle ist ...</fragenText>
+            <richtigeAntwort>diploid</richtigeAntwort>
+            <falscheAntwort1>schizoid</falscheAntwort1>
+            <falscheAntwort2>haploid</falscheAntwort2>
+            <falscheAntwort3>paranoid</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der Chromosomensatz einer Keimzelle ist ...</fragenText>
+            <richtigeAntwort>haploid</richtigeAntwort>
+            <falscheAntwort1>unvollständig</falscheAntwort1>
+            <falscheAntwort2>vervierfacht</falscheAntwort2>
+            <falscheAntwort3>doppelt</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Über das Geschlecht eines Menschen bestimmen die ...</fragenText>
+            <richtigeAntwort>Gonosomen</richtigeAntwort>
+            <falscheAntwort1>Eltern</falscheAntwort1>
+            <falscheAntwort2>Hormone</falscheAntwort2>
+            <falscheAntwort3>Ribosomen</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Eine Hälfte eines Metaphasechromosoms nennt man ...</fragenText>
+            <richtigeAntwort>Chromatid</richtigeAntwort>
+            <falscheAntwort1>Metasom</falscheAntwort1>
+            <falscheAntwort2>Haplosom</falscheAntwort2>
+            <falscheAntwort3>Diplosom</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ein Mensch mit dem Karyotyp 46,xx ...</fragenText>
+            <richtigeAntwort>ist eine Frau</richtigeAntwort>
+            <falscheAntwort1>leidet an Albinismus</falscheAntwort1>
+            <falscheAntwort2>hat das Down-Syndrom</falscheAntwort2>
+            <falscheAntwort3>ist ein Mann</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der komplette diploide Chromosomensatz eines Menschen kommt in folgendem Zelltyp vor:</fragenText>
+            <richtigeAntwort>in fast jeder Körperzelle</richtigeAntwort>
+            <falscheAntwort1>nur in der befruchteten Eizelle</falscheAntwort1>
+            <falscheAntwort2>nur in Spermien</falscheAntwort2>
+            <falscheAntwort3>nur in den Gameten</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Mitose ist ein Teilvorgang ...</fragenText>
+            <richtigeAntwort>des Zellzyklus</richtigeAntwort>
+            <falscheAntwort1>der Befruchtung</falscheAntwort1>
+            <falscheAntwort2>der Keimzellenbildung</falscheAntwort2>
+            <falscheAntwort3>der Synthesephase</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der Begriff G1-Phase leitet sich ab von ...</fragenText>
+            <richtigeAntwort>„gap“</richtigeAntwort>
+            <falscheAntwort1>„Genetik“</falscheAntwort1>
+            <falscheAntwort2>„Geschlechtschromosom“</falscheAntwort2>
+            <falscheAntwort3>„gametic unit“</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Verdoppelung des genetischen Materials geschieht in der ...</fragenText>
+            <richtigeAntwort>Interphase</richtigeAntwort>
+            <falscheAntwort1>Anaphase</falscheAntwort1>
+            <falscheAntwort2>Mitose</falscheAntwort2>
+            <falscheAntwort3>Meiose</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Teilung in zwei Zellen nennt man ...</fragenText>
+            <richtigeAntwort>Cytokinese</richtigeAntwort>
+            <falscheAntwort1>Mitose</falscheAntwort1>
+            <falscheAntwort2>Anaphase</falscheAntwort2>
+            <falscheAntwort3>Cellulose</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen biologischen Zweck erfüllt die Mitose?</fragenText>
+            <richtigeAntwort>Bildung erbgleicher Tochterzellen</richtigeAntwort>
+            <falscheAntwort1>Befruchtung</falscheAntwort1>
+            <falscheAntwort2>Bildung von Eizellen und Spermien</falscheAntwort2>
+            <falscheAntwort3>Genetische Vielfalt</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welcher Phase ist der Nukleolus sichtbar?</fragenText>
+            <richtigeAntwort>Interphase</richtigeAntwort>
+            <falscheAntwort1>Anaphase</falscheAntwort1>
+            <falscheAntwort2>Metaphase</falscheAntwort2>
+            <falscheAntwort3>Telophase</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Reihenfolge stimmt?</fragenText>
+            <richtigeAntwort>Interphase, Prophase</richtigeAntwort>
+            <falscheAntwort1>Telophase, Anaphase</falscheAntwort1>
+            <falscheAntwort2>Metaphase, Prophase</falscheAntwort2>
+            <falscheAntwort3>Anaphase, Interphase</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welcher dieser Phasen sind die Chromosomen nicht sichtbar?</fragenText>
+            <richtigeAntwort>Interphase</richtigeAntwort>
+            <falscheAntwort1>Metaphase</falscheAntwort1>
+            <falscheAntwort2>Telophase</falscheAntwort2>
+            <falscheAntwort3>Anaphase</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was geschieht in der Interphase?</fragenText>
+            <richtigeAntwort>Verdoppelung der DNS</richtigeAntwort>
+            <falscheAntwort1>Trennung der Chromatiden</falscheAntwort1>
+            <falscheAntwort2>nichts</falscheAntwort2>
+            <falscheAntwort3>Auflösung der Kernmembran</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welcher Phase löst sich die Kernmembran auf?</fragenText>
+            <richtigeAntwort>Prophase</richtigeAntwort>
+            <falscheAntwort1>Interphase</falscheAntwort1>
+            <falscheAntwort2>Anaphase</falscheAntwort2>
+            <falscheAntwort3>Telophase</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo ordnen sich die Metaphasechromosomen an?</fragenText>
+            <richtigeAntwort>in der Äquatorialebene</richtigeAntwort>
+            <falscheAntwort1>an den Zellpolen</falscheAntwort1>
+            <falscheAntwort2>am Kinetochor</falscheAntwort2>
+            <falscheAntwort3>am Zentriol</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Das Gift, das zur Fixierung der Metaphasechromosomen verwendet wird, stammt aus ...</fragenText>
+            <richtigeAntwort>Herbstzeitlosen</richtigeAntwort>
+            <falscheAntwort1>Eiben</falscheAntwort1>
+            <falscheAntwort2>Kegelschnecken</falscheAntwort2>
+            <falscheAntwort3>Vogelbeeren</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Das Zellgift der Herbstzeitlose heißt ...</fragenText>
+            <richtigeAntwort>Colchicin</richtigeAntwort>
+            <falscheAntwort1>Strychnin</falscheAntwort1>
+            <falscheAntwort2>Dioxin</falscheAntwort2>
+            <falscheAntwort3>Digitoxin</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Bildung erbgleicher Tochterzellen erfolgt durch den Vorgang der</fragenText>
+            <richtigeAntwort>Mitose</richtigeAntwort>
+            <falscheAntwort1>Mimose</falscheAntwort1>
+            <falscheAntwort2>Mittellose</falscheAntwort2>
+            <falscheAntwort3>Mikrose</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die kleinste biologische Einheit eines Lebewesens ist ...</fragenText>
+            <richtigeAntwort>die Zelle</richtigeAntwort>
+            <falscheAntwort1>die Stube</falscheAntwort1>
+            <falscheAntwort2>die Kammer</falscheAntwort2>
+            <falscheAntwort3>das Verlies</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Genetik beschäftigt sich vor allem mit ...</fragenText>
+            <richtigeAntwort>der Vererbung</richtigeAntwort>
+            <falscheAntwort1>dem Nervensystem</falscheAntwort1>
+            <falscheAntwort2>den inneren Organen</falscheAntwort2>
+            <falscheAntwort3>Erbsen</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Geschlechtszellen bilden sich durch ...</fragenText>
+            <richtigeAntwort>Meiose</richtigeAntwort>
+            <falscheAntwort1>Mitose</falscheAntwort1>
+            <falscheAntwort2>Genese</falscheAntwort2>
+            <falscheAntwort3>Karyogenese</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Sexuelle Fortpflanzung setzt voraus, dass sich bestimmte Zellen ...</fragenText>
+            <richtigeAntwort>meiotisch teilen</richtigeAntwort>
+            <falscheAntwort1>mitotisch teilen</falscheAntwort1>
+            <falscheAntwort2>identisch verdoppeln</falscheAntwort2>
+            <falscheAntwort3>genetisch verändern</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Bei der Meiose entstehen ...</fragenText>
+            <richtigeAntwort>Geschlechtszellen</richtigeAntwort>
+            <falscheAntwort1>Chromosomen</falscheAntwort1>
+            <falscheAntwort2>Körperzellen</falscheAntwort2>
+            <falscheAntwort3>Zygoten</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die erste Teilung der Meiose ist die ...</fragenText>
+            <richtigeAntwort>Reduktionsteilung</richtigeAntwort>
+            <falscheAntwort1>Anaphase1</falscheAntwort1>
+            <falscheAntwort2>Äquationsteilung</falscheAntwort2>
+            <falscheAntwort3>Reifeteilung</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In der Äquationsteilung trennen sich die ...</fragenText>
+            <richtigeAntwort>Chromatiden</richtigeAntwort>
+            <falscheAntwort1>homologen Paare</falscheAntwort1>
+            <falscheAntwort2>Spermienzellen</falscheAntwort2>
+            <falscheAntwort3>Autosomen</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Vor der Meiose erfolgt eine normale ...</fragenText>
+            <richtigeAntwort>identische Replikation</richtigeAntwort>
+            <falscheAntwort1>Anaphase</falscheAntwort1>
+            <falscheAntwort2>Mitose</falscheAntwort2>
+            <falscheAntwort3>Zellteilung</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Reduktionsteilung wird folgendermaßen abgekürzt:</fragenText>
+            <richtigeAntwort>R!</richtigeAntwort>
+            <falscheAntwort1>1.RT!</falscheAntwort1>
+            <falscheAntwort2>RNA!</falscheAntwort2>
+            <falscheAntwort3>Ä!</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Begriff kennzeichnet keinen Vorgang der Reduktionsteilung?</fragenText>
+            <richtigeAntwort>Gametangiogamie</richtigeAntwort>
+            <falscheAntwort1>Chiasmata</falscheAntwort1>
+            <falscheAntwort2>crossing-over</falscheAntwort2>
+            <falscheAntwort3>Tetrade</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviele Chromosomen besitzt eine menschliche Zelle nach der Meiose?</fragenText>
+            <richtigeAntwort>23</richtigeAntwort>
+            <falscheAntwort1>46</falscheAntwort1>
+            <falscheAntwort2>92</falscheAntwort2>
+            <falscheAntwort3>44</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviele Gonosomen besitzt eine Keimzelle?</fragenText>
+            <richtigeAntwort>1</richtigeAntwort>
+            <falscheAntwort1>2</falscheAntwort1>
+            <falscheAntwort2>23</falscheAntwort2>
+            <falscheAntwort3>46</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviele Autosomenpaare findet man in einer normalen Körperzelle?</fragenText>
+            <richtigeAntwort>22</richtigeAntwort>
+            <falscheAntwort1>1</falscheAntwort1>
+            <falscheAntwort2>23</falscheAntwort2>
+            <falscheAntwort3>46</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviele verschiedene Spermienzellen können bei 2n=8 allein durch interchromosomale Rekombination entstehen?</fragenText>
+            <richtigeAntwort>16</richtigeAntwort>
+            <falscheAntwort1>8</falscheAntwort1>
+            <falscheAntwort2>32</falscheAntwort2>
+            <falscheAntwort3>64</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Vorgang führt zu einer schier unübersehbaren Vielzahl von Keimzellen?</fragenText>
+            <richtigeAntwort>intrachromosomale Rekombination</richtigeAntwort>
+            <falscheAntwort1>die Befruchtung</falscheAntwort1>
+            <falscheAntwort2>die Mitose</falscheAntwort2>
+            <falscheAntwort3>vegetative Vermehrung</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviele genetisch unterschiedlich Nachkommen kann ein Paar bekommen, wenn man crossing-over ausschließt?</fragenText>
+            <richtigeAntwort>7 mal 10 hoch 13</richtigeAntwort>
+            <falscheAntwort1>8.388.608 (2 hoch 23)</falscheAntwort1>
+            <falscheAntwort2>alle Nachkommen wären gleich</falscheAntwort2>
+            <falscheAntwort3>nur 2 (männlich oder weiblich)</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Eineiige Zwillinge entstehen durch ...</fragenText>
+            <richtigeAntwort>mitotische Teilung der Zygote</richtigeAntwort>
+            <falscheAntwort1>Verschmelzung zweier Eizellen</falscheAntwort1>
+            <falscheAntwort2>doppelte meiotische Teilung</falscheAntwort2>
+            <falscheAntwort3>meiotische Rekombination</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zweieiige Zwillinge entstehen durch</fragenText>
+            <richtigeAntwort>zwei Befruchtungen</richtigeAntwort>
+            <falscheAntwort1>erhöhte Spermiendichte</falscheAntwort1>
+            <falscheAntwort2>Verschmelzung zweier Eizellen</falscheAntwort2>
+            <falscheAntwort3>Teilung der Eizelle</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Bei der Meiose der Frau entsteht ..</fragenText>
+            <richtigeAntwort>eine Eizelle</richtigeAntwort>
+            <falscheAntwort1>eine Zygote</falscheAntwort1>
+            <falscheAntwort2>ein Polkörperchen</falscheAntwort2>
+            <falscheAntwort3>ein Gonosom</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Männer bilden im Vergleich zu Frauen ...</fragenText>
+            <richtigeAntwort>mehr Keimzellen</richtigeAntwort>
+            <falscheAntwort1>weniger Keimzellen</falscheAntwort1>
+            <falscheAntwort2>mehr Zygoten</falscheAntwort2>
+            <falscheAntwort3>häufiger Chiasmata</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was bezeichnet keine Mendelsche Regel?</fragenText>
+            <richtigeAntwort>Quantitätsregel</richtigeAntwort>
+            <falscheAntwort1>Spaltungsregel</falscheAntwort1>
+            <falscheAntwort2>Unabhängigkeitsregel</falscheAntwort2>
+            <falscheAntwort3>Uniformitätsregel</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Vererbung der Blütenfarbe der Wunderblume erfolgt ...</fragenText>
+            <richtigeAntwort>intermediär</richtigeAntwort>
+            <falscheAntwort1>interdisziplinär</falscheAntwort1>
+            <falscheAntwort2>intermittierend</falscheAntwort2>
+            <falscheAntwort3>international</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ein Merkmal, das sich bei der Vererbung durchsetzt, nennt man in der Genetik ...</fragenText>
+            <richtigeAntwort>dominant</richtigeAntwort>
+            <falscheAntwort1>Domina</falscheAntwort1>
+            <falscheAntwort2>Domino</falscheAntwort2>
+            <falscheAntwort3>dubidu</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die zweite Tochtergeneration wird mit folgender Abkürzung bezeichnet:</fragenText>
+            <richtigeAntwort>F2</richtigeAntwort>
+            <falscheAntwort1>G2</falscheAntwort1>
+            <falscheAntwort2>P</falscheAntwort2>
+            <falscheAntwort3>TG2</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Bezeichnung F1 bedeutet in der Biologie:</fragenText>
+            <richtigeAntwort>Tochtergeneration 1</richtigeAntwort>
+            <falscheAntwort1>Feuergefahr Stufe 1</falscheAntwort1>
+            <falscheAntwort2>Formel 1</falscheAntwort2>
+            <falscheAntwort3>Fast noch 'ne 1</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Das beliebteste Forschungsobjekt der Genetiker ist ...</fragenText>
+            <richtigeAntwort>die Taufliege</richtigeAntwort>
+            <falscheAntwort1>der Schimpanse</falscheAntwort1>
+            <falscheAntwort2>das Meerschweinchen</falscheAntwort2>
+            <falscheAntwort3>die Erbse</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Bei welchem Erbgang kommt die Unabhängigkeitsregel zur Geltung?</fragenText>
+            <richtigeAntwort>beim dihybriden</richtigeAntwort>
+            <falscheAntwort1>beim intermediären</falscheAntwort1>
+            <falscheAntwort2>beim dominanten</falscheAntwort2>
+            <falscheAntwort3>beim rezessiven</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der Begriff homozygot bedeutet ...</fragenText>
+            <richtigeAntwort>reinerbig</richtigeAntwort>
+            <falscheAntwort1>gleichgeschlechtlich</falscheAntwort1>
+            <falscheAntwort2>einfacher Chromosomensatz</falscheAntwort2>
+            <falscheAntwort3>befruchtet</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Uniformitätsregel gilt auch für ...</fragenText>
+            <richtigeAntwort>reziproke Kreuzung</richtigeAntwort>
+            <falscheAntwort1>die F2-Generation</falscheAntwort1>
+            <falscheAntwort2>die Mitose</falscheAntwort2>
+            <falscheAntwort3>meiotische Zellteilung</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ein rezessives Merkmal tritt in der F2-Generation neben dem dominanten wieder auf, und zwar ...</fragenText>
+            <richtigeAntwort>in einem festen Zahlenverhältnis</richtigeAntwort>
+            <falscheAntwort1>im Verhältnis 1:1</falscheAntwort1>
+            <falscheAntwort2>zu 100%</falscheAntwort2>
+            <falscheAntwort3>verstärkt</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Elterngeneration wird auch wie folgt bezeichnet:</fragenText>
+            <richtigeAntwort>Parentalgeneration</richtigeAntwort>
+            <falscheAntwort1>Filialgeneration</falscheAntwort1>
+            <falscheAntwort2>E-Generation</falscheAntwort2>
+            <falscheAntwort3>„die Alten“</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Dominante Allele kennzeichnet man durch ...</fragenText>
+            <richtigeAntwort>Großbuchstaben</richtigeAntwort>
+            <falscheAntwort1>Unterstreichung</falscheAntwort1>
+            <falscheAntwort2>ein „d.“</falscheAntwort2>
+            <falscheAntwort3>Sternchedn</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die verschiedenen Formen eines Gens bezeichnet man als ...</fragenText>
+            <richtigeAntwort>Allele</richtigeAntwort>
+            <falscheAntwort1>Genotypen</falscheAntwort1>
+            <falscheAntwort2>Variabeln</falscheAntwort2>
+            <falscheAntwort3>Chromosomen</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zur Erfüllung der 1. Mendelschen Regel muss folgende Bedingung erfüllt sein:</fragenText>
+            <richtigeAntwort>homozygote Parentalgeneration</richtigeAntwort>
+            <falscheAntwort1>monozygote Chromosomen</falscheAntwort1>
+            <falscheAntwort2>heterozygote Gameten</falscheAntwort2>
+            <falscheAntwort3>homozygote Filialgeneration</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der deutsche Titel für das Humangenomprojekt lautet:</fragenText>
+            <richtigeAntwort>Hugo</richtigeAntwort>
+            <falscheAntwort1>HGP</falscheAntwort1>
+            <falscheAntwort2>Projekt Mensch</falscheAntwort2>
+            <falscheAntwort3>GGR (german genomic research)</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Beruf übte Gregor Mendel aus, obwohl er zweimal durch die Abschlussprüfung fiel?</fragenText>
+            <richtigeAntwort>Lehrer</richtigeAntwort>
+            <falscheAntwort1>Abt des Klosters Brünn</falscheAntwort1>
+            <falscheAntwort2>Gartenverwalter des Klosters</falscheAntwort2>
+            <falscheAntwort3>Priester</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Titel trägt Mendels Schrift über die berühmten Kreuzungsexperimente?</fragenText>
+            <richtigeAntwort>Versuche über Pflanzenhybriden</richtigeAntwort>
+            <falscheAntwort1>Die Gesetze der Vererbung</falscheAntwort1>
+            <falscheAntwort2>Über das Wesen der Vererbung</falscheAntwort2>
+            <falscheAntwort3>Botanische Studien im Namen des Herrn</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Verhältnis treten die Eigenschaften Farbe und Form beim dihybriden Erbgang in der F2 auf?</fragenText>
+            <richtigeAntwort>9:3:3:1</richtigeAntwort>
+            <falscheAntwort1>1:2:2:1</falscheAntwort1>
+            <falscheAntwort2>3:1</falscheAntwort2>
+            <falscheAntwort3>1:1</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher der folgenden Genotypen würde bei einem dihybriden Erbgang in der F2-Generation nicht auftreten?</fragenText>
+            <richtigeAntwort>AaBa</richtigeAntwort>
+            <falscheAntwort1>AABB</falscheAntwort1>
+            <falscheAntwort2>aabb</falscheAntwort2>
+            <falscheAntwort3>AaBa</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche der folgenden Keimzellen würde bei einem dihybriden Erbgang sicher nicht auftreten?</fragenText>
+            <richtigeAntwort>Aa</richtigeAntwort>
+            <falscheAntwort1>Ba</falscheAntwort1>
+            <falscheAntwort2>AB</falscheAntwort2>
+            <falscheAntwort3>ab</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Eine grüne, kantige Erbse besitzt den Genotyp aabb (Farbe: A oder a, Form: B oder b) null</fragenText>
+            <richtigeAntwort>gelb, rund</richtigeAntwort>
+            <falscheAntwort1>gelb, kantig</falscheAntwort1>
+            <falscheAntwort2>grün, kantig</falscheAntwort2>
+            <falscheAntwort3>grün, rund</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Genotyp könnte eine rosafarbene, rundsymmetrische Blüte charakterisieren?</fragenText>
+            <richtigeAntwort>rwBb</richtigeAntwort>
+            <falscheAntwort1>Aa</falscheAntwort1>
+            <falscheAntwort2>RR</falscheAntwort2>
+            <falscheAntwort3>rw</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Eine Rückkreuzung bei Erbsen ergibt eine Phänotypenverteilung bei der Samenfarbe von 50:50. Welche Aussage lässt dies zu?</fragenText>
+            <richtigeAntwort>Der Kreuzungspartner war heterozygot</richtigeAntwort>
+            <falscheAntwort1>Die beiden Kreuzungspartner waren homozygot</falscheAntwort1>
+            <falscheAntwort2>Die beiden Kreuzungspartner waren heterozygot</falscheAntwort2>
+            <falscheAntwort3>Es liegt Genkoppelung vor</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>„Kreuzt man zwei Individuen, die sich in einem Merkmal reinerbig unterscheiden, so sind die Nachkommen bzgl. dieses Merkmals alle gleich!“ Welche Regel besagt dies?</fragenText>
+            <richtigeAntwort>Uniformitätsregel</richtigeAntwort>
+            <falscheAntwort1>Unabhängigkeitsregel</falscheAntwort1>
+            <falscheAntwort2>Spaltungsregel</falscheAntwort2>
+            <falscheAntwort3>Reziprozitätsregel</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches dieser Merkmale wird bei Drosophila melanogster nicht vorgefunden?</fragenText>
+            <richtigeAntwort>adamant</richtigeAntwort>
+            <falscheAntwort1>ebony</falscheAntwort1>
+            <falscheAntwort2>vestigal</falscheAntwort2>
+            <falscheAntwort3>black</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviele Beine besitzt die Taufliege Drosophila in der mutierten Form „curly“?</fragenText>
+            <richtigeAntwort>6</richtigeAntwort>
+            <falscheAntwort1>2</falscheAntwort1>
+            <falscheAntwort2>4</falscheAntwort2>
+            <falscheAntwort3>8</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Durch welches Symbol werden bei Drosophila die Wildtypallele gekennzeichnet?</fragenText>
+            <richtigeAntwort>+</richtigeAntwort>
+            <falscheAntwort1>-</falscheAntwort1>
+            <falscheAntwort2>b</falscheAntwort2>
+            <falscheAntwort3>A</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche der folgenden Eigenschaften kann bei Drosophila mit dem Symbol + gekennzeichnet werden?</fragenText>
+            <richtigeAntwort>rote Augen</richtigeAntwort>
+            <falscheAntwort1>Stummelflügel</falscheAntwort1>
+            <falscheAntwort2>verlängerte Fühler</falscheAntwort2>
+            <falscheAntwort3>graue Körperfärbung</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Forscher erhielt für seine Arbeiten an Drosophila einen Nobelpreis?</fragenText>
+            <richtigeAntwort>Thomas Hunt Morgan</richtigeAntwort>
+            <falscheAntwort1>James Watson</falscheAntwort1>
+            <falscheAntwort2>Gregor Mendel</falscheAntwort2>
+            <falscheAntwort3>Van Morrison</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hieß der berühmte Mönch, der mit seinen Forschungen an Erbsen die Klassische Genetik begründete?</fragenText>
+            <richtigeAntwort>Gregor Mendel</richtigeAntwort>
+            <falscheAntwort1>Don Camillo</falscheAntwort1>
+            <falscheAntwort2>Franz von Assisi</falscheAntwort2>
+            <falscheAntwort3>Little John</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche dieser Blutgruppen gibt es nicht?</fragenText>
+            <richtigeAntwort>A0</richtigeAntwort>
+            <falscheAntwort1>AB</falscheAntwort1>
+            <falscheAntwort2>B</falscheAntwort2>
+            <falscheAntwort3>0</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Genotyp kann bei der Blutgruppe Arh+ nicht zugrunde liegen?</fragenText>
+            <richtigeAntwort>ABDd</richtigeAntwort>
+            <falscheAntwort1>AADD</falscheAntwort1>
+            <falscheAntwort2>A0Dd</falscheAntwort2>
+            <falscheAntwort3>AADd</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche der folgenden Charakterisierungen trifft nicht auf die Vererbung der Blutgruppen zu?</fragenText>
+            <richtigeAntwort>intermediär</richtigeAntwort>
+            <falscheAntwort1>multiple Allelie</falscheAntwort1>
+            <falscheAntwort2>kodominant</falscheAntwort2>
+            <falscheAntwort3>Merkmale: Antigene</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches der folgenden Allele bezeichnet kein Blutgruppenmerkmal?</fragenText>
+            <richtigeAntwort>C</richtigeAntwort>
+            <falscheAntwort1>A</falscheAntwort1>
+            <falscheAntwort2>B</falscheAntwort2>
+            <falscheAntwort3>D</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Bei einer falschen Blutgruppe kann es bei Transfusionen zu folgender Komplikation kommen:</fragenText>
+            <richtigeAntwort>Verklumpung</richtigeAntwort>
+            <falscheAntwort1>Versumpfung</falscheAntwort1>
+            <falscheAntwort2>Verklampfung</falscheAntwort2>
+            <falscheAntwort3>Verkrampfung</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der Fachbegriff für das Zusammenklumpen der Erythrozyten durch Antikörper lautet ...</fragenText>
+            <richtigeAntwort>Agglutination</richtigeAntwort>
+            <falscheAntwort1>Agranulozytose</falscheAntwort1>
+            <falscheAntwort2>Akklamation</falscheAntwort2>
+            <falscheAntwort3>Aspiration</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Karl Landsteiner entdeckte die ...</fragenText>
+            <richtigeAntwort>Blutgruppen</richtigeAntwort>
+            <falscheAntwort1>Beatles</falscheAntwort1>
+            <falscheAntwort2>Langsamkeit</falscheAntwort2>
+            <falscheAntwort3>Malediven</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der Rhesusfaktor hat seinen Namen erhalten von ...</fragenText>
+            <richtigeAntwort>einer Affenart</richtigeAntwort>
+            <falscheAntwort1>Dr. Karl Landsteiner</falscheAntwort1>
+            <falscheAntwort2>den Rhesus-Antigenen</falscheAntwort2>
+            <falscheAntwort3>der Rhesus-League</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Oberflächenstrukturen auf Erythrozyten wirken als ...</fragenText>
+            <richtigeAntwort>Antigene</richtigeAntwort>
+            <falscheAntwort1>Antikörper</falscheAntwort1>
+            <falscheAntwort2>Antipoden</falscheAntwort2>
+            <falscheAntwort3>Antimaterie</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Antikörper sind Biomoleküle aus der Gruppe der ...</fragenText>
+            <richtigeAntwort>Proteine</richtigeAntwort>
+            <falscheAntwort1>Kohlenhydrate</falscheAntwort1>
+            <falscheAntwort2>Aminosäuren</falscheAntwort2>
+            <falscheAntwort3>Lipide</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Rhesusantigene findet man im Gegensatz zu den A- und B-Antigenen nicht auf ...</fragenText>
+            <richtigeAntwort>Darmbakterien</richtigeAntwort>
+            <falscheAntwort1>roten Blutkörperchen</falscheAntwort1>
+            <falscheAntwort2>Zellen von Affen</falscheAntwort2>
+            <falscheAntwort3>auf den Erythrozyten</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Menschen mit Blutgruppe 0 bezeichnet man auch als ...</fragenText>
+            <richtigeAntwort>Universalspender</richtigeAntwort>
+            <falscheAntwort1>Universalempfänger</falscheAntwort1>
+            <falscheAntwort2>Universalgenie</falscheAntwort2>
+            <falscheAntwort3>Universitätsangestellte</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Menschen mit Blutgruppe ABrh- besitzen auf ihren Erythrozyten ...</fragenText>
+            <richtigeAntwort>A- und B-Antigene</richtigeAntwort>
+            <falscheAntwort1>keine Antigene</falscheAntwort1>
+            <falscheAntwort2>Rhesus-Antigene</falscheAntwort2>
+            <falscheAntwort3>keine A-/B-Antigene</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Antikörper findet man im Serum eines Menschen mit Blutgruppe 0Rh+</fragenText>
+            <richtigeAntwort>Anti-A und -B</richtigeAntwort>
+            <falscheAntwort1>Anti-D</falscheAntwort1>
+            <falscheAntwort2>gar keine</falscheAntwort2>
+            <falscheAntwort3>alle</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche dieser Keimzellen kann nicht von einem Mensch mit der Blutgruppe BRh+ stammen?</fragenText>
+            <richtigeAntwort>Ad</richtigeAntwort>
+            <falscheAntwort1>Bd</falscheAntwort1>
+            <falscheAntwort2>0d</falscheAntwort2>
+            <falscheAntwort3>0D</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welch der folgenden Serotypenkombinationen von Mutter/Kind ist u.U. bedenklich?</fragenText>
+            <richtigeAntwort>Rh+/Rh+</richtigeAntwort>
+            <falscheAntwort1>rh-/Rh+</falscheAntwort1>
+            <falscheAntwort2>rh-/rh-</falscheAntwort2>
+            <falscheAntwort3>Rh+/rh-</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was erhält eine Rhesusnegative Mutter direkt nach der Geburt eines Rhesuspositiven Kindes?</fragenText>
+            <richtigeAntwort>Rhesus-Antikörper</richtigeAntwort>
+            <falscheAntwort1>künstliche Antigene</falscheAntwort1>
+            <falscheAntwort2>Vitamin D</falscheAntwort2>
+            <falscheAntwort3>Provitamin A</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Vererbung des Rhesusfaktors erfolgt ...</fragenText>
+            <richtigeAntwort>dominant-rezessiv</richtigeAntwort>
+            <falscheAntwort1>intermediär</falscheAntwort1>
+            <falscheAntwort2>kodominant</falscheAntwort2>
+            <falscheAntwort3>dihybrid</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher der folgenden Männer käme nicht als Vater eines Kindes mit 0rh- in Betracht</fragenText>
+            <richtigeAntwort>ABRh+</richtigeAntwort>
+            <falscheAntwort1>ARh+</falscheAntwort1>
+            <falscheAntwort2>Orh-</falscheAntwort2>
+            <falscheAntwort3>BRh+</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Blutgruppen des AB0-Systems werden durch die folgende Zahl von Allelen vererbt:</fragenText>
+            <richtigeAntwort>3</richtigeAntwort>
+            <falscheAntwort1>1</falscheAntwort1>
+            <falscheAntwort2>2</falscheAntwort2>
+            <falscheAntwort3>4</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wenn man zu einer bestimmten Blutgruppe gehört, dann ist man ...</fragenText>
+            <richtigeAntwort>einfach ein Mensch</richtigeAntwort>
+            <falscheAntwort1>ein Indianer</falscheAntwort1>
+            <falscheAntwort2>ein Rockmusiker</falscheAntwort2>
+            <falscheAntwort3>ein Biker</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Blutgruppe verträgt der Vampir in einem Song von Udo Lindenberg „ausgerechnet nicht“?</fragenText>
+            <richtigeAntwort>0rh-</richtigeAntwort>
+            <falscheAntwort1>Arh-</falscheAntwort1>
+            <falscheAntwort2>BRh+</falscheAntwort2>
+            <falscheAntwort3>0Rh+</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Geschlechtsbestimmung beim Menschen erfolgt ...</fragenText>
+            <richtigeAntwort>genotypisch</richtigeAntwort>
+            <falscheAntwort1>arttypisch</falscheAntwort1>
+            <falscheAntwort2>hormonell</falscheAntwort2>
+            <falscheAntwort3>instrumentell</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>„Schuld“ am Geschlecht eines Menschen sind nur die ...</fragenText>
+            <richtigeAntwort>Spermien</richtigeAntwort>
+            <falscheAntwort1>Eltern</falscheAntwort1>
+            <falscheAntwort2>Großeltern</falscheAntwort2>
+            <falscheAntwort3>Eizellen</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

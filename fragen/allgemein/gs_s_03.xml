@@ -1,0 +1,989 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Allgemein</fach>
+    <thema>Grundschule E</thema>
+    <autor>Manfred Hartisch</autor>
+    <anzahlFragen>98</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>Wie nennt man einen Arzt der Sprachheilkunde?</fragenText>
+            <richtigeAntwort>Logopäde</richtigeAntwort>
+            <falscheAntwort1>Chirurg</falscheAntwort1>
+            <falscheAntwort2>Dentist</falscheAntwort2>
+            <falscheAntwort3>Othologe</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>2</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche dieser Nordfriesischen Inseln gehört nicht zu Deutschland, sondern zu Dänemark?</fragenText>
+            <richtigeAntwort>Römö</richtigeAntwort>
+            <falscheAntwort1>Föhr</falscheAntwort1>
+            <falscheAntwort2>Nordstrand</falscheAntwort2>
+            <falscheAntwort3>Pellworm</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>2</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Landeshauptstadt von Baden - Württemberg?</fragenText>
+            <richtigeAntwort>Stuttgart</richtigeAntwort>
+            <falscheAntwort1>Karlsruhe</falscheAntwort1>
+            <falscheAntwort2>Freiburg</falscheAntwort2>
+            <falscheAntwort3>Mannheim</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>2</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche dieser Inseln liegt in der Deutschen Bucht?</fragenText>
+            <richtigeAntwort>Helgoland</richtigeAntwort>
+            <falscheAntwort1>Mallorca</falscheAntwort1>
+            <falscheAntwort2>Rügen</falscheAntwort2>
+            <falscheAntwort3>Mainau</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>2</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der Zoo welcher deutschen Stadt heißt Wilhelma?</fragenText>
+            <richtigeAntwort>Stuttgart</richtigeAntwort>
+            <falscheAntwort1>Wilhelmshaven</falscheAntwort1>
+            <falscheAntwort2>Berlin</falscheAntwort2>
+            <falscheAntwort3>Frankfurt</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>2</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lautet die Abkürzung für den Deutschen Aktienindex?</fragenText>
+            <richtigeAntwort>Dax</richtigeAntwort>
+            <falscheAntwort1>Wiesel</falscheAntwort1>
+            <falscheAntwort2>Marder</falscheAntwort2>
+            <falscheAntwort3>Luchs</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>2</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Monat beginnt jedes Jahr in München das Oktoberfest?</fragenText>
+            <richtigeAntwort>September</richtigeAntwort>
+            <falscheAntwort1>August</falscheAntwort1>
+            <falscheAntwort2>Oktober</falscheAntwort2>
+            <falscheAntwort3>Juli</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>2</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lautet die bayrisch - österreichische Bezeichnung für Sahne?</fragenText>
+            <richtigeAntwort>Obers</richtigeAntwort>
+            <falscheAntwort1>Creme</falscheAntwort1>
+            <falscheAntwort2>Milch</falscheAntwort2>
+            <falscheAntwort3>Unters</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Meeresarm zwischen England und Frankreich?</fragenText>
+            <richtigeAntwort>Ärmelkanal</richtigeAntwort>
+            <falscheAntwort1>Kragenkanal</falscheAntwort1>
+            <falscheAntwort2>Manschettenkanal</falscheAntwort2>
+            <falscheAntwort3>Hosenkanal</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Wochen dauert die Trächtigkeit bei Hunden?</fragenText>
+            <richtigeAntwort>9</richtigeAntwort>
+            <falscheAntwort1>3</falscheAntwort1>
+            <falscheAntwort2>5</falscheAntwort2>
+            <falscheAntwort3>40</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher weltberühmte Maler schnitt sich einen Teil seines linken Ohres ab?</fragenText>
+            <richtigeAntwort>van Gogh</richtigeAntwort>
+            <falscheAntwort1>Dürer</falscheAntwort1>
+            <falscheAntwort2>Hals</falscheAntwort2>
+            <falscheAntwort3>Rubens</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welcher Einheit misst man die Geschwindigkeit eines Schiffes?</fragenText>
+            <richtigeAntwort>Knoten</richtigeAntwort>
+            <falscheAntwort1>Schleifen</falscheAntwort1>
+            <falscheAntwort2>Maschen</falscheAntwort2>
+            <falscheAntwort3>Ketten</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ergeben mehrere Gemüsearten zusammengemischt?</fragenText>
+            <richtigeAntwort>Leipziger Allerlei</richtigeAntwort>
+            <falscheAntwort1>Berliner Durcheinander</falscheAntwort1>
+            <falscheAntwort2>Dresdner Chaos</falscheAntwort2>
+            <falscheAntwort3>Magdeburger Mischmasch</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Mit welchem Bundesland ist Sylt verbunden?</fragenText>
+            <richtigeAntwort>Schleswig - Holstein</richtigeAntwort>
+            <falscheAntwort1>Nordrhein - Westfalen</falscheAntwort1>
+            <falscheAntwort2>Rheinland - Pfalz</falscheAntwort2>
+            <falscheAntwort3>Mecklenburg - Vorpommern</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist die Silberbüchse?</fragenText>
+            <richtigeAntwort>das Gewehr Winnetous</richtigeAntwort>
+            <falscheAntwort1>Kosename für die Mercedes A - Klasse</falscheAntwort1>
+            <falscheAntwort2>das Schmuckdöschen von Sissi</falscheAntwort2>
+            <falscheAntwort3>der Klingelbeutel in der Kirche</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Süßigkeit wird aus der Wurzel der Süßholzstaude gemacht?</fragenText>
+            <richtigeAntwort>Lakritze</richtigeAntwort>
+            <falscheAntwort1>Gummibären</falscheAntwort1>
+            <falscheAntwort2>Negerkuss</falscheAntwort2>
+            <falscheAntwort3>Zuckerwatte</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man den Wasserstrahl eines Springbrunnens?</fragenText>
+            <richtigeAntwort>Fontäne</richtigeAntwort>
+            <falscheAntwort1>Fontanelle</falscheAntwort1>
+            <falscheAntwort2>Lava</falscheAntwort2>
+            <falscheAntwort3>Fondue</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer ist der Dalai - Lama?</fragenText>
+            <richtigeAntwort>Oberhaupt des tibetanischen Buddhismus</richtigeAntwort>
+            <falscheAntwort1>männlicher Anführer einer Lamaherde</falscheAntwort1>
+            <falscheAntwort2>afrikanischer Krankheitserreger</falscheAntwort2>
+            <falscheAntwort3>teuerster Diamant der Welt</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Womit misst man den Luftdruck?</fragenText>
+            <richtigeAntwort>Barometer</richtigeAntwort>
+            <falscheAntwort1>Thermometer</falscheAntwort1>
+            <falscheAntwort2>Zentimeter</falscheAntwort2>
+            <falscheAntwort3>Chronometer</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Adern, die vom Herzen wegführen?</fragenText>
+            <richtigeAntwort>Arterien</richtigeAntwort>
+            <falscheAntwort1>Bermudas</falscheAntwort1>
+            <falscheAntwort2>Kanaren</falscheAntwort2>
+            <falscheAntwort3>Balearen</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der Kirchturm des Münsters in Ulm ist der höchste ...?</fragenText>
+            <richtigeAntwort>der Welt</richtigeAntwort>
+            <falscheAntwort1>Baden - Württembergs</falscheAntwort1>
+            <falscheAntwort2>Deutschlands</falscheAntwort2>
+            <falscheAntwort3>Europas</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Tier ist auf dem Landeswappen von Brandenburg?</fragenText>
+            <richtigeAntwort>roter Adler</richtigeAntwort>
+            <falscheAntwort1>weiße Maus</falscheAntwort1>
+            <falscheAntwort2>grüner Frosch</falscheAntwort2>
+            <falscheAntwort3>gelber Hund</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welcher Stadt findet alljährlich die größte Buchmesse im deutschen Sprachraum statt?</fragenText>
+            <richtigeAntwort>Frankfurt/ Main</richtigeAntwort>
+            <falscheAntwort1>Zürich</falscheAntwort1>
+            <falscheAntwort2>Berlin</falscheAntwort2>
+            <falscheAntwort3>Wien</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welchem Gebirge gehört der Schneeberg?</fragenText>
+            <richtigeAntwort>Fichtelgebirge</richtigeAntwort>
+            <falscheAntwort1>Hunsrück</falscheAntwort1>
+            <falscheAntwort2>Westerwald</falscheAntwort2>
+            <falscheAntwort3>Rhön</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Tier ist der Vater eines Maulesels?</fragenText>
+            <richtigeAntwort>Pferd</richtigeAntwort>
+            <falscheAntwort1>Esel</falscheAntwort1>
+            <falscheAntwort2>Maulwurf</falscheAntwort2>
+            <falscheAntwort3>Maulbrüter</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Mutter eines Maultieres ist ein ...?</fragenText>
+            <richtigeAntwort>Pferd</richtigeAntwort>
+            <falscheAntwort1>Lama</falscheAntwort1>
+            <falscheAntwort2>Esel</falscheAntwort2>
+            <falscheAntwort3>Maulwurf</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Sprache wird in der Toskana gesprochen?</fragenText>
+            <richtigeAntwort>Italienisch</richtigeAntwort>
+            <falscheAntwort1>Französisch</falscheAntwort1>
+            <falscheAntwort2>Toskanisch</falscheAntwort2>
+            <falscheAntwort3>Spanisch</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wohin kommt man, wenn man auf der Erde immer in Richtung Polarstern fährt?</fragenText>
+            <richtigeAntwort>zum Nordpol</richtigeAntwort>
+            <falscheAntwort1>nach Amerika</falscheAntwort1>
+            <falscheAntwort2>nach Polen</falscheAntwort2>
+            <falscheAntwort3>ins Niemandsland</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Eine Comicserie über die Wikinger heißt „Hägar der ... “?</fragenText>
+            <richtigeAntwort>Schreckliche</richtigeAntwort>
+            <falscheAntwort1>Jäger</falscheAntwort1>
+            <falscheAntwort2>Grausame</falscheAntwort2>
+            <falscheAntwort3>Hinterhältige</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Mit welcher Wolle kann man weder stricken noch häkeln?</fragenText>
+            <richtigeAntwort>Holzwolle</richtigeAntwort>
+            <falscheAntwort1>Baumwolle</falscheAntwort1>
+            <falscheAntwort2>Schurwolle</falscheAntwort2>
+            <falscheAntwort3>Schafwolle</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man einen Facharzt für innere Krankheiten noch?</fragenText>
+            <richtigeAntwort>Internist</richtigeAntwort>
+            <falscheAntwort1>Interno</falscheAntwort1>
+            <falscheAntwort2>Innerist</falscheAntwort2>
+            <falscheAntwort3>Interner</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Bedeutung hat der Drache für die Chinesen?</fragenText>
+            <richtigeAntwort>Glück</richtigeAntwort>
+            <falscheAntwort1>Feuerwerk</falscheAntwort1>
+            <falscheAntwort2>Kampf</falscheAntwort2>
+            <falscheAntwort3>Tod</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Gibt es Lebewesen mit blauem Blut?</fragenText>
+            <richtigeAntwort>ja, Spinnen, Schnecken und Skorpione</richtigeAntwort>
+            <falscheAntwort1>ja, alle Tiere haben blaues Blut</falscheAntwort1>
+            <falscheAntwort2>nein, Blut ist immer rot</falscheAntwort2>
+            <falscheAntwort3>ja, adelige Menschen</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist eine Schattenmorelle?</fragenText>
+            <richtigeAntwort>Kirsche</richtigeAntwort>
+            <falscheAntwort1>Speisefisch</falscheAntwort1>
+            <falscheAntwort2>Palme</falscheAntwort2>
+            <falscheAntwort3>Schnecke</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche ostdeutsche Stadt ist berühmt für ihre Christstollen?</fragenText>
+            <richtigeAntwort>Dresden</richtigeAntwort>
+            <falscheAntwort1>Frankfurt</falscheAntwort1>
+            <falscheAntwort2>Magdeburg</falscheAntwort2>
+            <falscheAntwort3>Jena</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie wird das Heidekraut in Deutschland noch bezeichnet?</fragenText>
+            <richtigeAntwort>Erika</richtigeAntwort>
+            <falscheAntwort1>Claudia</falscheAntwort1>
+            <falscheAntwort2>Petra</falscheAntwort2>
+            <falscheAntwort3>Klara</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche deutsche Mannschaft wurde bis 2002 am häufigsten Deutscher Meister im Fußball?</fragenText>
+            <richtigeAntwort>Bayern München</richtigeAntwort>
+            <falscheAntwort1>Borussia Dortmund</falscheAntwort1>
+            <falscheAntwort2>Schalke 04</falscheAntwort2>
+            <falscheAntwort3>1. FC Nürnberg</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist keine Verbindung zwischen Ost- und Nordsee?</fragenText>
+            <richtigeAntwort>Beringstraße</richtigeAntwort>
+            <falscheAntwort1>Kleiner Belt</falscheAntwort1>
+            <falscheAntwort2>Großer Belt</falscheAntwort2>
+            <falscheAntwort3>Öresund</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Auf welchem Kontinent liegt Syrien?</fragenText>
+            <richtigeAntwort>Asien</richtigeAntwort>
+            <falscheAntwort1>Afrika</falscheAntwort1>
+            <falscheAntwort2>Australien</falscheAntwort2>
+            <falscheAntwort3>Europa</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist ein „Orca“?</fragenText>
+            <richtigeAntwort>Killerwal</richtigeAntwort>
+            <falscheAntwort1>Hai</falscheAntwort1>
+            <falscheAntwort2>Rochen</falscheAntwort2>
+            <falscheAntwort3>Delfin</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Schriftsteller schreib „Gullivers Reisen“?</fragenText>
+            <richtigeAntwort>Jonathan Swift</richtigeAntwort>
+            <falscheAntwort1>Daniel Defoe</falscheAntwort1>
+            <falscheAntwort2>Karl May</falscheAntwort2>
+            <falscheAntwort3>Joanne K. Rowling</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lautet der Segen, den der Papst jedes Jahr zu Ostern erteilt?</fragenText>
+            <richtigeAntwort>Urbi et orbi</richtigeAntwort>
+            <falscheAntwort1>Ora et labora</falscheAntwort1>
+            <falscheAntwort2>Ave Maria</falscheAntwort2>
+            <falscheAntwort3>Mette</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist ein Prädikat?</fragenText>
+            <richtigeAntwort>ein Satzteil</richtigeAntwort>
+            <falscheAntwort1>ein Konsonant</falscheAntwort1>
+            <falscheAntwort2>eine Formel</falscheAntwort2>
+            <falscheAntwort3>ein Satzzeichen</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist die „Blaue Mauritius“?</fragenText>
+            <richtigeAntwort>eine Briefmarke</richtigeAntwort>
+            <falscheAntwort1>eine Münze</falscheAntwort1>
+            <falscheAntwort2>eine Orchidee</falscheAntwort2>
+            <falscheAntwort3>eine Schnecke</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Bauwerk auf der Erde kann man vom Mond aus mit bloßem Auge sehen?</fragenText>
+            <richtigeAntwort>Chinesische Mauer</richtigeAntwort>
+            <falscheAntwort1>Eiffelturm</falscheAntwort1>
+            <falscheAntwort2>Pyramiden</falscheAntwort2>
+            <falscheAntwort3>Freiheitsstatue</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Durch die Drehung welchen Himmelskörpers entsteht der Wechsel zwischen Tag und Nacht?</fragenText>
+            <richtigeAntwort>Erde</richtigeAntwort>
+            <falscheAntwort1>Sonne</falscheAntwort1>
+            <falscheAntwort2>Mond</falscheAntwort2>
+            <falscheAntwort3>Mars</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ein Minotaurus ist ein Zwitterwesen aus Mensch und ...?</fragenText>
+            <richtigeAntwort>Stier</richtigeAntwort>
+            <falscheAntwort1>Löwe</falscheAntwort1>
+            <falscheAntwort2>Adler</falscheAntwort2>
+            <falscheAntwort3>Ziege</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der längste Fluss in Europa?</fragenText>
+            <richtigeAntwort>Wolga</richtigeAntwort>
+            <falscheAntwort1>Donau</falscheAntwort1>
+            <falscheAntwort2>Rhein</falscheAntwort2>
+            <falscheAntwort3>Seine</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Farbe gehört nicht zu den Grundfarben?</fragenText>
+            <richtigeAntwort>grün</richtigeAntwort>
+            <falscheAntwort1>rot</falscheAntwort1>
+            <falscheAntwort2>blau</falscheAntwort2>
+            <falscheAntwort3>gelb</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist eine Balalaika</fragenText>
+            <richtigeAntwort>Seiteninstrument</richtigeAntwort>
+            <falscheAntwort1>Fischgericht</falscheAntwort1>
+            <falscheAntwort2>Zeichentrickfigur</falscheAntwort2>
+            <falscheAntwort3>CD - ROM</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Womit atmet eine Muschel?</fragenText>
+            <richtigeAntwort>Kiemen</richtigeAntwort>
+            <falscheAntwort1>Lunge</falscheAntwort1>
+            <falscheAntwort2>Perle</falscheAntwort2>
+            <falscheAntwort3>Saugfuß</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Bundesland hat die meisten Einwohner?</fragenText>
+            <richtigeAntwort>Nordrhein - Westfalen</richtigeAntwort>
+            <falscheAntwort1>Bayern</falscheAntwort1>
+            <falscheAntwort2>Sachsen</falscheAntwort2>
+            <falscheAntwort3>Thüringen</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welcher deutschen Stadt lebten die Fugger?</fragenText>
+            <richtigeAntwort>Augsburg</richtigeAntwort>
+            <falscheAntwort1>Stuttgart</falscheAntwort1>
+            <falscheAntwort2>Kempten</falscheAntwort2>
+            <falscheAntwort3>Bochum</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was sieht man auf dem Landeswappen von Hamburg?</fragenText>
+            <richtigeAntwort>Burg</richtigeAntwort>
+            <falscheAntwort1>Pferd</falscheAntwort1>
+            <falscheAntwort2>Ritterhelm</falscheAntwort2>
+            <falscheAntwort3>Schiff</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer oder was ist Labskaus?</fragenText>
+            <richtigeAntwort>Eintopfgericht aus Norddeutschland</richtigeAntwort>
+            <falscheAntwort1>Fisch aus der Ostsee</falscheAntwort1>
+            <falscheAntwort2>polnische Stadt</falscheAntwort2>
+            <falscheAntwort3>deutscher Maler</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche dieser Tiere sind Primaten?</fragenText>
+            <richtigeAntwort>Affen</richtigeAntwort>
+            <falscheAntwort1>Pferde</falscheAntwort1>
+            <falscheAntwort2>Vögel</falscheAntwort2>
+            <falscheAntwort3>Hunde</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Wert hat die römische Ziffer „D“?</fragenText>
+            <richtigeAntwort>500</richtigeAntwort>
+            <falscheAntwort1>1.000</falscheAntwort1>
+            <falscheAntwort2>100</falscheAntwort2>
+            <falscheAntwort3>1</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ottawa ist die Hauptstadt von ...?</fragenText>
+            <richtigeAntwort>Kanada</richtigeAntwort>
+            <falscheAntwort1>China</falscheAntwort1>
+            <falscheAntwort2>Großbritannien</falscheAntwort2>
+            <falscheAntwort3>Brasilien</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Von wem stammt die Geschichte „Alice im Wunderland“?</fragenText>
+            <richtigeAntwort>Lewis Carroll</richtigeAntwort>
+            <falscheAntwort1>Charles Dickens</falscheAntwort1>
+            <falscheAntwort2>Daniel Defoe</falscheAntwort2>
+            <falscheAntwort3>Karl May</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche ist keine Musikstil-Epoche?</fragenText>
+            <richtigeAntwort>Kommunismus</richtigeAntwort>
+            <falscheAntwort1>Klassik</falscheAntwort1>
+            <falscheAntwort2>Romantik</falscheAntwort2>
+            <falscheAntwort3>Barock</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer war nie amerikanischer Präsident?</fragenText>
+            <richtigeAntwort>John Wayne</richtigeAntwort>
+            <falscheAntwort1>George Bush</falscheAntwort1>
+            <falscheAntwort2>Ronald Reagen</falscheAntwort2>
+            <falscheAntwort3>Jimmy Carter</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Dublin ist die Hauptstadt von ...?</fragenText>
+            <richtigeAntwort>Irland</richtigeAntwort>
+            <falscheAntwort1>Irland</falscheAntwort1>
+            <falscheAntwort2>Großbritannien</falscheAntwort2>
+            <falscheAntwort3>Dänemark</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Hauptstadt von Südafrika?</fragenText>
+            <richtigeAntwort>Kapstadt</richtigeAntwort>
+            <falscheAntwort1>Pretoria</falscheAntwort1>
+            <falscheAntwort2>Port Elizabeth</falscheAntwort2>
+            <falscheAntwort3>Johannesburg</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der germanische Gott des Donners?</fragenText>
+            <richtigeAntwort>Thor</richtigeAntwort>
+            <falscheAntwort1>Rumms</falscheAntwort1>
+            <falscheAntwort2>Dhonar</falscheAntwort2>
+            <falscheAntwort3>Thonet</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man das Gesetz zur Ausbildungsförderung von Schülern und Studenten in Deutschland?</fragenText>
+            <richtigeAntwort>BaföG</richtigeAntwort>
+            <falscheAntwort1>Stütze</falscheAntwort1>
+            <falscheAntwort2>G.A.S.</falscheAntwort2>
+            <falscheAntwort3>LAUregel</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Beinamen trug der deutsche Kaiser Friedrich I.?</fragenText>
+            <richtigeAntwort>Barbarossa</richtigeAntwort>
+            <falscheAntwort1>Barbar</falscheAntwort1>
+            <falscheAntwort2>Barbino</falscheAntwort2>
+            <falscheAntwort3>Barbaratello</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Rippenpaare hat der Mensch?</fragenText>
+            <richtigeAntwort>12</richtigeAntwort>
+            <falscheAntwort1>4</falscheAntwort1>
+            <falscheAntwort2>6</falscheAntwort2>
+            <falscheAntwort3>8</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer malte das berühmte „Letzte Abendmahl“, das sich in Mailand befindet?</fragenText>
+            <richtigeAntwort>Leonardo da Vinci</richtigeAntwort>
+            <falscheAntwort1>Francisco Goya</falscheAntwort1>
+            <falscheAntwort2>Michelangelo</falscheAntwort2>
+            <falscheAntwort3>Rembrandt</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was versteht man unter dem Begriff „Lapsus“?</fragenText>
+            <richtigeAntwort>Fehler</richtigeAntwort>
+            <falscheAntwort1>Faulheit</falscheAntwort1>
+            <falscheAntwort2>Umarmung</falscheAntwort2>
+            <falscheAntwort3>kleiner Lappen</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was tun Hühner besonders gern, um ihr Gefieder zu pflegen und die Haut zu reinigen?</fragenText>
+            <richtigeAntwort>im Sand baden</richtigeAntwort>
+            <falscheAntwort1>im Wind fliegen</falscheAntwort1>
+            <falscheAntwort2>sich bürsten</falscheAntwort2>
+            <falscheAntwort3>sich duschen</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer betrat 1969 als erster Mensch den Mond?</fragenText>
+            <richtigeAntwort>Neil Armstrong</richtigeAntwort>
+            <falscheAntwort1>Jurij Gagarin</falscheAntwort1>
+            <falscheAntwort2>Edwin Aldrin</falscheAntwort2>
+            <falscheAntwort3>Louis Armstrong</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was war Herbert von Karajan?</fragenText>
+            <richtigeAntwort>Dirigent</richtigeAntwort>
+            <falscheAntwort1>Politiker</falscheAntwort1>
+            <falscheAntwort2>Sänger</falscheAntwort2>
+            <falscheAntwort3>Sportler</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Land gehört nicht zu den Beneluxstaaten?</fragenText>
+            <richtigeAntwort>Frankreich</richtigeAntwort>
+            <falscheAntwort1>Niederlande</falscheAntwort1>
+            <falscheAntwort2>Belgien</falscheAntwort2>
+            <falscheAntwort3>Luxemburg</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Land gehört nicht zu Skandinavien?</fragenText>
+            <richtigeAntwort>Polen</richtigeAntwort>
+            <falscheAntwort1>Schweden</falscheAntwort1>
+            <falscheAntwort2>Norwegen</falscheAntwort2>
+            <falscheAntwort3>Finnland</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer schrieb die berühmte Hundegeschichte „Krambambuli“?</fragenText>
+            <richtigeAntwort>Marie von Ebner-Eschenbach</richtigeAntwort>
+            <falscheAntwort1>Christine Nöstlinger</falscheAntwort1>
+            <falscheAntwort2>Annette von Droste-Hülshoff</falscheAntwort2>
+            <falscheAntwort3>Vera Ferra-Mikura</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche ist die höchste männliche Gesangstimme?</fragenText>
+            <richtigeAntwort>Tenor</richtigeAntwort>
+            <falscheAntwort1>Bariton</falscheAntwort1>
+            <falscheAntwort2>Sopran</falscheAntwort2>
+            <falscheAntwort3>Bass</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die alljährlich in Hannover stattfindende größte Computermesse der Welt?</fragenText>
+            <richtigeAntwort>CeBIT</richtigeAntwort>
+            <falscheAntwort1>deBIT</falscheAntwort1>
+            <falscheAntwort2>eBIT</falscheAntwort2>
+            <falscheAntwort3>Orbit</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der Deutsche Theodor Storm war ein berühmter ...?</fragenText>
+            <richtigeAntwort>Schriftsteller</richtigeAntwort>
+            <falscheAntwort1>Seefahrer</falscheAntwort1>
+            <falscheAntwort2>Koch</falscheAntwort2>
+            <falscheAntwort3>Maler</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Womit wollten die Sirenen Odysseus verführen?</fragenText>
+            <richtigeAntwort>mit ihrem Gesang</richtigeAntwort>
+            <falscheAntwort1>mit ihrer Schönheit</falscheAntwort1>
+            <falscheAntwort2>mit Wein</falscheAntwort2>
+            <falscheAntwort3>mit Düften</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Mit welchem Fuß hat Neil Armstrong das erste Mal den Mond betreten?</fragenText>
+            <richtigeAntwort>mit dem linken</richtigeAntwort>
+            <falscheAntwort1>mit dem rechten</falscheAntwort1>
+            <falscheAntwort2>mit beiden gleichzeitig</falscheAntwort2>
+            <falscheAntwort3>mit keinem - er ist auf dem Bauch gelandet</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Woher stammt die Tomate?</fragenText>
+            <richtigeAntwort>Südamerika</richtigeAntwort>
+            <falscheAntwort1>Asien</falscheAntwort1>
+            <falscheAntwort2>Australien</falscheAntwort2>
+            <falscheAntwort3>Afrika</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was machen Blattschneiderameisen aus dem Blättern, die sie gekaut haben?</fragenText>
+            <richtigeAntwort>Pilze züchten</richtigeAntwort>
+            <falscheAntwort1>Blattsalat</falscheAntwort1>
+            <falscheAntwort2>Matratzen</falscheAntwort2>
+            <falscheAntwort3>Ameisenhaufen</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Von welchem deutschen Schriftsteller stammt der „Herr von Ribbeck“?</fragenText>
+            <richtigeAntwort>Fontane</richtigeAntwort>
+            <falscheAntwort1>Thoma</falscheAntwort1>
+            <falscheAntwort2>Schiller</falscheAntwort2>
+            <falscheAntwort3>Böll</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer soll gesagt haben: „Hier stehe ich, ich kann nicht anders“?</fragenText>
+            <richtigeAntwort>Martin Luther</richtigeAntwort>
+            <falscheAntwort1>Helmut Kohl</falscheAntwort1>
+            <falscheAntwort2>Neil Armstrong</falscheAntwort2>
+            <falscheAntwort3>Peter Tweer</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Womit hat in Deutschland die GEZ zu tun?</fragenText>
+            <richtigeAntwort>Rundfunkgebühren</richtigeAntwort>
+            <falscheAntwort1>Ebbe und Flut</falscheAntwort1>
+            <falscheAntwort2>Tierschutz</falscheAntwort2>
+            <falscheAntwort3>Bundeswehr</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher deutsche Physiker startete 1982 an Bord der US - Raumfähre Columbia ins All?</fragenText>
+            <richtigeAntwort>Ulf Merbold</richtigeAntwort>
+            <falscheAntwort1>Albert Einstein</falscheAntwort1>
+            <falscheAntwort2>Peter Rosegger</falscheAntwort2>
+            <falscheAntwort3>Max Planck</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Mond der Venus?</fragenText>
+            <richtigeAntwort>Die Venus hat keinen Mond.</richtigeAntwort>
+            <falscheAntwort1>Eros</falscheAntwort1>
+            <falscheAntwort2>Brutus</falscheAntwort2>
+            <falscheAntwort3>Nero</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie darf sich ein Moslem nennen, der eine Pilgerfahrt nach Mekka absolviert hat?</fragenText>
+            <richtigeAntwort>Hadschi</richtigeAntwort>
+            <falscheAntwort1>Ladschi</falscheAntwort1>
+            <falscheAntwort2>Radschi</falscheAntwort2>
+            <falscheAntwort3>Padschi</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt z.B. in einem Internet - Chat eine künstliche dreidimensionale Figur, die man sich aussuchen kann?</fragenText>
+            <richtigeAntwort>Avatar</richtigeAntwort>
+            <falscheAntwort1>Altar</falscheAntwort1>
+            <falscheAntwort2>Sansibar</falscheAntwort2>
+            <falscheAntwort3>Adebar</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was hat der Aktionskünstler Christo 1995 mit dem ehemaligen Reichstagsgebäude in Berlin gemacht?</fragenText>
+            <richtigeAntwort>verhüllt</richtigeAntwort>
+            <falscheAntwort1>angemalt</falscheAntwort1>
+            <falscheAntwort2>verkauft</falscheAntwort2>
+            <falscheAntwort3>gesprengt</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Unter welchem Namen trat eine Gruppe von Künstlern auf, die 1911 in München gegründet wurde?</fragenText>
+            <richtigeAntwort>Blauer Reiter</richtigeAntwort>
+            <falscheAntwort1>Grüner Galopper</falscheAntwort1>
+            <falscheAntwort2>Gelber Traber</falscheAntwort2>
+            <falscheAntwort3>Roter Kutscher</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heiß der erste Präsident der Bundesrepublik Deutschland?</fragenText>
+            <richtigeAntwort>Theodor Heuss</richtigeAntwort>
+            <falscheAntwort1>Konrad Adenauer</falscheAntwort1>
+            <falscheAntwort2>Walter Scheel</falscheAntwort2>
+            <falscheAntwort3>Helmut Kohl</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher deutsche Bundeskanzler erhielt den Friedensnobelpreis?</fragenText>
+            <richtigeAntwort>Brandt</richtigeAntwort>
+            <falscheAntwort1>Kohl</falscheAntwort1>
+            <falscheAntwort2>Schmidt</falscheAntwort2>
+            <falscheAntwort3>Schröder</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher König ließ Schloss Neuschwanstein erbauen?</fragenText>
+            <richtigeAntwort>Ludwig II.</richtigeAntwort>
+            <falscheAntwort1>Wilhelm II.</falscheAntwort1>
+            <falscheAntwort2>Karl der Große</falscheAntwort2>
+            <falscheAntwort3>Friedrich der Schöne</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher deutsche Bundeskanzler entschied seine Wahl im Bundestag mit seiner eigenen Stimme?</fragenText>
+            <richtigeAntwort>Konrad Adenauer</richtigeAntwort>
+            <falscheAntwort1>Willy Brandt</falscheAntwort1>
+            <falscheAntwort2>Helmut Kohl</falscheAntwort2>
+            <falscheAntwort3>Helmut Schmidt</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Auf welchem Kontinent fließt der Mississippi?</fragenText>
+            <richtigeAntwort>Amerika</richtigeAntwort>
+            <falscheAntwort1>Asien</falscheAntwort1>
+            <falscheAntwort2>Australien</falscheAntwort2>
+            <falscheAntwort3>Europa</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was sind Anchovis?</fragenText>
+            <richtigeAntwort>Fische</richtigeAntwort>
+            <falscheAntwort1>Affen</falscheAntwort1>
+            <falscheAntwort2>Autos</falscheAntwort2>
+            <falscheAntwort3>Bücher</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist Chlorophyll?</fragenText>
+            <richtigeAntwort>Blattgrün</richtigeAntwort>
+            <falscheAntwort1>Medikament</falscheAntwort1>
+            <falscheAntwort2>Reinigungsmittel</falscheAntwort2>
+            <falscheAntwort3>Musikinstrument</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

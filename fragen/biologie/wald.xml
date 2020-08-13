@@ -1,0 +1,1209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Biologie</fach>
+    <thema>Rund um den Wald</thema>
+    <autor>Manfred Hartisch</autor>
+    <anzahlFragen>120</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>Wie groß wird die Waldwühlmaus?</fragenText>
+            <richtigeAntwort>bis 12,3 cm</richtigeAntwort>
+            <falscheAntwort1>bis 15,8 cm</falscheAntwort1>
+            <falscheAntwort2>bis 9,5 cm</falscheAntwort2>
+            <falscheAntwort3>bis 7,2 cm</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt unsere häufigste Eule?</fragenText>
+            <richtigeAntwort>Waldkauz</richtigeAntwort>
+            <falscheAntwort1>Wiesenkauz</falscheAntwort1>
+            <falscheAntwort2>Parkkauz</falscheAntwort2>
+            <falscheAntwort3>Feldkauz</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Eule gibt es?</fragenText>
+            <richtigeAntwort>Waldohreule</richtigeAntwort>
+            <falscheAntwort1>Waldnaseneule</falscheAntwort1>
+            <falscheAntwort2>Waldaugeneule</falscheAntwort2>
+            <falscheAntwort3>Waldschnabeleule</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie wird der Fuchs auch genannt?</fragenText>
+            <richtigeAntwort>Reineke</richtigeAntwort>
+            <falscheAntwort1>Gevatter</falscheAntwort1>
+            <falscheAntwort2>Isegrim</falscheAntwort2>
+            <falscheAntwort3>Meister Petz</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Tier wird auch „Reineke“ genannt?</fragenText>
+            <richtigeAntwort>Fuchs</richtigeAntwort>
+            <falscheAntwort1>Marder</falscheAntwort1>
+            <falscheAntwort2>Dachs</falscheAntwort2>
+            <falscheAntwort3>Reh</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was fressen die Rehe besonders gerne?</fragenText>
+            <richtigeAntwort>Knospen von Laubbäumen</richtigeAntwort>
+            <falscheAntwort1>Kastanienblätter</falscheAntwort1>
+            <falscheAntwort2>Nadelholztriebe</falscheAntwort2>
+            <falscheAntwort3>Bucheckern</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Jungen kann ein weibliches Wildschwein mit einem Wurf bekommen?</fragenText>
+            <richtigeAntwort>4 - 8</richtigeAntwort>
+            <falscheAntwort1>immer genau 4</falscheAntwort1>
+            <falscheAntwort2>1 - 3</falscheAntwort2>
+            <falscheAntwort3>9 - 12</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie oft kann ein weibliches Wildschwein im Jahr Nachwuchs bekommen?</fragenText>
+            <richtigeAntwort>1 mal</richtigeAntwort>
+            <falscheAntwort1>3 mal</falscheAntwort1>
+            <falscheAntwort2>2 mal</falscheAntwort2>
+            <falscheAntwort3>4 mal</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man das weibliche Wildschwein?</fragenText>
+            <richtigeAntwort>Bache</richtigeAntwort>
+            <falscheAntwort1>Fähe</falscheAntwort1>
+            <falscheAntwort2>Ricke</falscheAntwort2>
+            <falscheAntwort3>Stute</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man das männliche Wildschwein?</fragenText>
+            <richtigeAntwort>Keiler</richtigeAntwort>
+            <falscheAntwort1>Erpel</falscheAntwort1>
+            <falscheAntwort2>Rüde</falscheAntwort2>
+            <falscheAntwort3>Egon</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText/>
+            <richtigeAntwort/>
+            <falscheAntwort1/>
+            <falscheAntwort2/>
+            <falscheAntwort3/>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>15</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie groß kann die Rote Waldameise werden?</fragenText>
+            <richtigeAntwort>bis 9 mm</richtigeAntwort>
+            <falscheAntwort1>bis 4 mm</falscheAntwort1>
+            <falscheAntwort2>bis 6 mm</falscheAntwort2>
+            <falscheAntwort3>bis 20 mm</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Tier wird auch die „Gesundheitspolizei des Waldes“ genannt?</fragenText>
+            <richtigeAntwort>Rote Waldameise</richtigeAntwort>
+            <falscheAntwort1>Grünfink</falscheAntwort1>
+            <falscheAntwort2>Buntspecht</falscheAntwort2>
+            <falscheAntwort3>Wildschweine</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie groß kann die Waldmaus werden?</fragenText>
+            <richtigeAntwort>bis 11 cm</richtigeAntwort>
+            <falscheAntwort1>bis 18 cm</falscheAntwort1>
+            <falscheAntwort2>bis 6 cm</falscheAntwort2>
+            <falscheAntwort3>bis 25 cm</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wozu benutzt der Rothirsch sein Geweih?</fragenText>
+            <richtigeAntwort>für Kämpfe mit Rivalen</richtigeAntwort>
+            <falscheAntwort1>zum Ausgraben von Wurzeln</falscheAntwort1>
+            <falscheAntwort2>zum Angeben bei den Weibchen</falscheAntwort2>
+            <falscheAntwort3>als Waffe gegen Wölfe</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die weiblichen Rehe?</fragenText>
+            <richtigeAntwort>Ricken</richtigeAntwort>
+            <falscheAntwort1>Wicken</falscheAntwort1>
+            <falscheAntwort2>Zicken</falscheAntwort2>
+            <falscheAntwort3>Dicken</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus welchem Land wurde der Waschbär eingeschleppt?</fragenText>
+            <richtigeAntwort>Nordamerika</richtigeAntwort>
+            <falscheAntwort1>China</falscheAntwort1>
+            <falscheAntwort2>Südamerika</falscheAntwort2>
+            <falscheAntwort3>Indien</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches aus Nordamerika eingeschleppte Pelztier wäscht seine Nahrung?</fragenText>
+            <richtigeAntwort>Waschbär</richtigeAntwort>
+            <falscheAntwort1>Bisamratte</falscheAntwort1>
+            <falscheAntwort2>Biber</falscheAntwort2>
+            <falscheAntwort3>Wasserassel</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Nahrung bevorzugt die Waldspitzmaus?</fragenText>
+            <richtigeAntwort>Insekten</richtigeAntwort>
+            <falscheAntwort1>Würmer</falscheAntwort1>
+            <falscheAntwort2>Eicheln</falscheAntwort2>
+            <falscheAntwort3>Haselnüsse</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche auch für den Menschen lebensgefährliche Krankheit kann der Fuchs übertragen?</fragenText>
+            <richtigeAntwort>Tollwut</richtigeAntwort>
+            <falscheAntwort1>Maul - und Klauenseuche</falscheAntwort1>
+            <falscheAntwort2>Malaria</falscheAntwort2>
+            <falscheAntwort3>B S E</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer „suhlt“ sich gerne im Schlamm?</fragenText>
+            <richtigeAntwort>Wildschweine</richtigeAntwort>
+            <falscheAntwort1>Biber</falscheAntwort1>
+            <falscheAntwort2>Dachse</falscheAntwort2>
+            <falscheAntwort3>Füchse</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie beschreibt man die Art der Körperpflege, die Wildschweine betreiben?</fragenText>
+            <richtigeAntwort>suhlen</richtigeAntwort>
+            <falscheAntwort1>wühlen</falscheAntwort1>
+            <falscheAntwort2>buhlen</falscheAntwort2>
+            <falscheAntwort3>grunzen</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was sind Frischlinge?</fragenText>
+            <richtigeAntwort>junge Wildschweine</richtigeAntwort>
+            <falscheAntwort1>kleine Speisepilze</falscheAntwort1>
+            <falscheAntwort2>frische Baumknospen</falscheAntwort2>
+            <falscheAntwort3>junge Füchse</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Jungtiere der Wildschweine?</fragenText>
+            <richtigeAntwort>Frischlinge</richtigeAntwort>
+            <falscheAntwort1>Welpen</falscheAntwort1>
+            <falscheAntwort2>Ferkel</falscheAntwort2>
+            <falscheAntwort3>Kälbchen</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie werden die Wildschweine auch genannt?</fragenText>
+            <richtigeAntwort>Schwarzkittel</richtigeAntwort>
+            <falscheAntwort1>Buntfinken</falscheAntwort1>
+            <falscheAntwort2>Rotkehlchen</falscheAntwort2>
+            <falscheAntwort3>Isegrim</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Tiere des Waldes werden auch „Schwarzkittel“ genannt?</fragenText>
+            <richtigeAntwort>Wildschweine</richtigeAntwort>
+            <falscheAntwort1>Amseln</falscheAntwort1>
+            <falscheAntwort2>Dachse</falscheAntwort2>
+            <falscheAntwort3>HIrschkäfer</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die giftige Staude, deren rote Blüten einem „Nähwerkzeug“ ähneln?</fragenText>
+            <richtigeAntwort>roter Fingerhut</richtigeAntwort>
+            <falscheAntwort1>Fliegenpilz</falscheAntwort1>
+            <falscheAntwort2>Hagebutte</falscheAntwort2>
+            <falscheAntwort3>wilder Wacholder</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie wird die helle Fläche am Popo bei den Rehen auch genannt?</fragenText>
+            <richtigeAntwort>Spiegel</richtigeAntwort>
+            <falscheAntwort1>Blitz</falscheAntwort1>
+            <falscheAntwort2>Lampe</falscheAntwort2>
+            <falscheAntwort3>Scheinwerfer</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist der „Spiegel“ bei den Rehen?</fragenText>
+            <richtigeAntwort>helle Fläche am Popo</richtigeAntwort>
+            <falscheAntwort1>der helle Bauch</falscheAntwort1>
+            <falscheAntwort2>die weißen Innenohren</falscheAntwort2>
+            <falscheAntwort3>die weißen Vorderpfoten</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Nachtraubvogel mit deutlich abgegrenztem Gesicht ist in seinem Bestand stark gefährdet?</fragenText>
+            <richtigeAntwort>Schleiereule</richtigeAntwort>
+            <falscheAntwort1>Nachtigall</falscheAntwort1>
+            <falscheAntwort2>Uhu</falscheAntwort2>
+            <falscheAntwort3>Nachtfalke</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen die asselähnlichen Tiere im Laubstreu, die sich bei Gefahr einrollen können?</fragenText>
+            <richtigeAntwort>Saftkugler</richtigeAntwort>
+            <falscheAntwort1>Rollmöpse</falscheAntwort1>
+            <falscheAntwort2>Igel</falscheAntwort2>
+            <falscheAntwort3>Pillendreher</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Bodenart bevorzugen Birken- und Kiefernwälder?</fragenText>
+            <richtigeAntwort>trockenen Sandboden</richtigeAntwort>
+            <falscheAntwort1>nassen Moorboden</falscheAntwort1>
+            <falscheAntwort2>feuchten Lehmboden</falscheAntwort2>
+            <falscheAntwort3>harten Steinboden</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man einen Wald, in dem es Laubbäume u n d Nadelbäume gibt?</fragenText>
+            <richtigeAntwort>Mischwald</richtigeAntwort>
+            <falscheAntwort1>nadeliger Laubwald</falscheAntwort1>
+            <falscheAntwort2>laubiger Nadelwald</falscheAntwort2>
+            <falscheAntwort3>Launa - Wald</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Auf welchem Boden gedeiht Buchenwald am besten?</fragenText>
+            <richtigeAntwort>Lehm- und Kalkböden</richtigeAntwort>
+            <falscheAntwort1>Stein- und Schieferböden</falscheAntwort1>
+            <falscheAntwort2>Sandböden</falscheAntwort2>
+            <falscheAntwort3>Moorböden</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Wirkung hat der saure Regen im Boden?</fragenText>
+            <richtigeAntwort>Die Wurzeln und die Symbiosepilze werden geschädigt oder abgetötet.</richtigeAntwort>
+            <falscheAntwort1>Das Grundwasser wird zu sauer.</falscheAntwort1>
+            <falscheAntwort2>Die versteckten Eicheln, Nüsse und Buckeckern werden vergiftet.</falscheAntwort2>
+            <falscheAntwort3>Die Ameisenhöhlen werden überspült.</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Säuren sind im sauren Regen enthalten?</fragenText>
+            <richtigeAntwort>Schwefelsäure und Salpetersäure</richtigeAntwort>
+            <falscheAntwort1>Essigsäure und Kohlensäure</falscheAntwort1>
+            <falscheAntwort2>Ammoniaksäure und Salzsäure</falscheAntwort2>
+            <falscheAntwort3>Zitronensäure und Ameisensäure</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Niederschlag, der unseren Wald schädigt?</fragenText>
+            <richtigeAntwort>saurer Regen</richtigeAntwort>
+            <falscheAntwort1>süßer Regen</falscheAntwort1>
+            <falscheAntwort2>saurer Nebel</falscheAntwort2>
+            <falscheAntwort3>salziger Regen</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche drei Gase schädigen unseren Wald am meisten?</fragenText>
+            <richtigeAntwort>Schwefeldioxid, Stickoxide und Ozon</richtigeAntwort>
+            <falscheAntwort1>Kohlenmonoxid, Butan und Kaliumsulfat</falscheAntwort1>
+            <falscheAntwort2>Sauerstoff, Kohlenstoff und Wasserstoff</falscheAntwort2>
+            <falscheAntwort3>Schwefeldioxid, Neon und Zeratoxid</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Schaden erleidet die Forstwirtschaft, wenn die Bäume krank sind?</fragenText>
+            <richtigeAntwort>Verminderung des Holzzuwachses</richtigeAntwort>
+            <falscheAntwort1>Erhöhung der Luftfeuchtigkeit</falscheAntwort1>
+            <falscheAntwort2>Vermehrung von Waldschädlingen</falscheAntwort2>
+            <falscheAntwort3>Flucht der jagdbaren Waldtiere</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Woran erkennt man, dass Laubbäume krank sind?</fragenText>
+            <richtigeAntwort>Vergilbung oder früher Abwurf der Blätter</richtigeAntwort>
+            <falscheAntwort1>krankhafte Triebe am Stamm</falscheAntwort1>
+            <falscheAntwort2>Verfärbung der Blätter</falscheAntwort2>
+            <falscheAntwort3>verdickte Wurzeln</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie sehen die Nadeln kranker Kiefern aus?</fragenText>
+            <richtigeAntwort>vergilbt</richtigeAntwort>
+            <falscheAntwort1>verlaust</falscheAntwort1>
+            <falscheAntwort2>verstaubt</falscheAntwort2>
+            <falscheAntwort3>verlassen</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer schließt den Stoffkreislauf zwischen Verbrauchern und Erzeugern in einem Ökosystem?</fragenText>
+            <richtigeAntwort>die Abfallfresser, Zersetzer und Mineralisierer</richtigeAntwort>
+            <falscheAntwort1>die Kleidermotten und roten Waldameisen</falscheAntwort1>
+            <falscheAntwort2>die aasfressenden Vögel und Schleimschnecken</falscheAntwort2>
+            <falscheAntwort3>die Waldarbeiter und Holzfäller</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie entsteht ein Nahrungsnetz?</fragenText>
+            <richtigeAntwort>durch Verflechtung mehrerer Nahrungsketten</richtigeAntwort>
+            <falscheAntwort1>durch kleine Waldspinnen</falscheAntwort1>
+            <falscheAntwort2>durch Verknüpfung eines Nahrungsnetzes</falscheAntwort2>
+            <falscheAntwort3>Es wird durch den Förster angelegt.</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer ist für die Bestäubung der meisten Waldbäume verantwortlich?</fragenText>
+            <richtigeAntwort>Wind</richtigeAntwort>
+            <falscheAntwort1>Eichelhäher</falscheAntwort1>
+            <falscheAntwort2>Förster</falscheAntwort2>
+            <falscheAntwort3>Eichhörnchen</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Warum werden Monokulturen angepflanzt?</fragenText>
+            <richtigeAntwort>Sie bieten wirtschaftliche Vorteile.</richtigeAntwort>
+            <falscheAntwort1>Sie vertreiben wilde Tiere.</falscheAntwort1>
+            <falscheAntwort2>Sie sehen schöner aus.</falscheAntwort2>
+            <falscheAntwort3>Sie bieten seltenen Tieren Schutz.</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man einen Waldhüter?</fragenText>
+            <richtigeAntwort>Förster</richtigeAntwort>
+            <falscheAntwort1>Bauer</falscheAntwort1>
+            <falscheAntwort2>Wilderer</falscheAntwort2>
+            <falscheAntwort3>Bäumerich</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Für welche Forstschädlinge hat man Duftfallen aufgestellt?</fragenText>
+            <richtigeAntwort>Borkenkäfer</richtigeAntwort>
+            <falscheAntwort1>Maikäfer</falscheAntwort1>
+            <falscheAntwort2>Mistkäfer</falscheAntwort2>
+            <falscheAntwort3>Herkuleskäfer</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Käfer trägt zur Eiablage Kotreste in tiefere Erdschichten?</fragenText>
+            <richtigeAntwort>Mistkäfer</richtigeAntwort>
+            <falscheAntwort1>Maulwurfkäfer</falscheAntwort1>
+            <falscheAntwort2>Heukäfer</falscheAntwort2>
+            <falscheAntwort3>Maikäfer</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man das Nest eines Eichhörnchen?</fragenText>
+            <richtigeAntwort>Kobel</richtigeAntwort>
+            <falscheAntwort1>Kabel</falscheAntwort1>
+            <falscheAntwort2>Kübel</falscheAntwort2>
+            <falscheAntwort3>Zobel</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man das Nest eines Greifvogels?</fragenText>
+            <richtigeAntwort>Horst</richtigeAntwort>
+            <falscheAntwort1>Karl</falscheAntwort1>
+            <falscheAntwort2>Klaus</falscheAntwort2>
+            <falscheAntwort3>Hans</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Vogel hat einen Zangenschnabel zum Freilegen der Samen in Zapfen?</fragenText>
+            <richtigeAntwort>Fichtenkreuzschnabel</richtigeAntwort>
+            <falscheAntwort1>Schwarzspecht</falscheAntwort1>
+            <falscheAntwort2>Eichelhäher</falscheAntwort2>
+            <falscheAntwort3>Zangenvogel</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist eine Spechtschmiede?</fragenText>
+            <richtigeAntwort>Rindenritze oder Astgabel, in die Spechte Zapfen zum Zerhacken einklemmen</richtigeAntwort>
+            <falscheAntwort1>eine Falle für Buntspechte</falscheAntwort1>
+            <falscheAntwort2>eine besonders harte Spechtzunge</falscheAntwort2>
+            <falscheAntwort3>eine Schmiede für Spechtkäfige</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Vogel lässt seine Jungen von fremden Eltern aufziehen?</fragenText>
+            <richtigeAntwort>Kuckuck</richtigeAntwort>
+            <falscheAntwort1>Eichelhäher</falscheAntwort1>
+            <falscheAntwort2>Specht</falscheAntwort2>
+            <falscheAntwort3>Kleiber</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was frisst die Wasseramsel?</fragenText>
+            <richtigeAntwort>Würmer und Insekten im Wasser</richtigeAntwort>
+            <falscheAntwort1>Karpfen und Hechte</falscheAntwort1>
+            <falscheAntwort2>kleine Fische und Frösche</falscheAntwort2>
+            <falscheAntwort3>Feuersalamander</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Vogel hat einen Meißelschnabel und eine Schleuderzunge?</fragenText>
+            <richtigeAntwort>Specht</richtigeAntwort>
+            <falscheAntwort1>Distelfink</falscheAntwort1>
+            <falscheAntwort2>Kohlmeise</falscheAntwort2>
+            <falscheAntwort3>Spatz</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Vogel kann kopfunter den Stamm herunterlaufen?</fragenText>
+            <richtigeAntwort>Kleiber</richtigeAntwort>
+            <falscheAntwort1>Rotkehlchen</falscheAntwort1>
+            <falscheAntwort2>Buntspecht</falscheAntwort2>
+            <falscheAntwort3>Eichelhäher</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches große Nagetier baut in Flussauen seine Staudämme?</fragenText>
+            <richtigeAntwort>Biber</richtigeAntwort>
+            <falscheAntwort1>Wasserratte</falscheAntwort1>
+            <falscheAntwort2>Eichhörnchen</falscheAntwort2>
+            <falscheAntwort3>Maulwurf</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Bedeutung haben die Ameisen im Wald?</fragenText>
+            <richtigeAntwort>Vertilgung von Schadinsekten, Abbau toter Insekten, Bodenlockerung und Samenverbreitung</richtigeAntwort>
+            <falscheAntwort1>Verschönerung des Waldes durch Ameisenhügel, leise Musik für kleinere Waldtiere</falscheAntwort1>
+            <falscheAntwort2>Vertreibung größerer Tiere, sammeln von wertvollen Holzreserven, Wärmespeicherung</falscheAntwort2>
+            <falscheAntwort3>Hitzeregulierung des Waldbodens, anlocken schmackhafter Wildschweine, aufräumen schmutziger Blätter</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was findet man in „Gallen“?</fragenText>
+            <richtigeAntwort>Gelege oder Larven von Insekten und Milben</richtigeAntwort>
+            <falscheAntwort1>kleine Rehkitze</falscheAntwort1>
+            <falscheAntwort2>Gelege von Kuckuckseiern</falscheAntwort2>
+            <falscheAntwort3>vergessene Eicheln und Kastanien</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch kann die Rotbuche werden?</fragenText>
+            <richtigeAntwort>ca. 30 m</richtigeAntwort>
+            <falscheAntwort1>ca. 50 m</falscheAntwort1>
+            <falscheAntwort2>ca. 40 m</falscheAntwort2>
+            <falscheAntwort3>ca. 60 m</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText/>
+            <richtigeAntwort/>
+            <falscheAntwort1/>
+            <falscheAntwort2/>
+            <falscheAntwort3/>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>15</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch kann eine Tanne werden?</fragenText>
+            <richtigeAntwort>ca. 65 m</richtigeAntwort>
+            <falscheAntwort1>ca. 45 m</falscheAntwort1>
+            <falscheAntwort2>ca. 55 m</falscheAntwort2>
+            <falscheAntwort3>ca. 35 m</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist das Besondere an den Tannenzapfen?</fragenText>
+            <richtigeAntwort>Sie stehen auf den Zweigen.</richtigeAntwort>
+            <falscheAntwort1>Sie wechseln jeden Monat ihre Farbe.</falscheAntwort1>
+            <falscheAntwort2>Sie hängen an den Zweigen.</falscheAntwort2>
+            <falscheAntwort3>Sie wachsen immer in 5 - er Gruppen.</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie groß kann die Waldkiefer werden?</fragenText>
+            <richtigeAntwort>ca. 40 m</richtigeAntwort>
+            <falscheAntwort1>ca. 10 m</falscheAntwort1>
+            <falscheAntwort2>ca. 20 m</falscheAntwort2>
+            <falscheAntwort3>ca. 60 m</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie wird die Waldkiefer auch genannt?</fragenText>
+            <richtigeAntwort>Föhre</richtigeAntwort>
+            <falscheAntwort1>Göre</falscheAntwort1>
+            <falscheAntwort2>Röhre</falscheAntwort2>
+            <falscheAntwort3>Stör</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann blüht die Rotbuche?</fragenText>
+            <richtigeAntwort>im Mai</richtigeAntwort>
+            <falscheAntwort1>im Oktober</falscheAntwort1>
+            <falscheAntwort2>im März</falscheAntwort2>
+            <falscheAntwort3>im Februar</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann blüht die Stieleiche?</fragenText>
+            <richtigeAntwort>im Mai</richtigeAntwort>
+            <falscheAntwort1>im August</falscheAntwort1>
+            <falscheAntwort2>im März</falscheAntwort2>
+            <falscheAntwort3>im November</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch kann die Stieleiche werden?</fragenText>
+            <richtigeAntwort>ca. 50 m</richtigeAntwort>
+            <falscheAntwort1>ca. 25 m</falscheAntwort1>
+            <falscheAntwort2>ca. 35 m</falscheAntwort2>
+            <falscheAntwort3>20 m - 40 m</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie wird die Stieleiche auch genannt?</fragenText>
+            <richtigeAntwort>Sommereiche</richtigeAntwort>
+            <falscheAntwort1>Herbsteiche</falscheAntwort1>
+            <falscheAntwort2>Frühlingseiche</falscheAntwort2>
+            <falscheAntwort3>Wintereiche</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch kann die Schwarzerle werden?</fragenText>
+            <richtigeAntwort>ca. 25 m</richtigeAntwort>
+            <falscheAntwort1>ca. 15 m</falscheAntwort1>
+            <falscheAntwort2>ca. 20 m</falscheAntwort2>
+            <falscheAntwort3>ca. 10 m</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch kann eine Birke werden?</fragenText>
+            <richtigeAntwort>ca. 20 m</richtigeAntwort>
+            <falscheAntwort1>ca. 40 m</falscheAntwort1>
+            <falscheAntwort2>ca. 11 m</falscheAntwort2>
+            <falscheAntwort3>ca. 7 m</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wohin legen Schlupfwespen ihre Eier?</fragenText>
+            <richtigeAntwort>in die Larven anderer Insekten</richtigeAntwort>
+            <falscheAntwort1>in einen Fuchsbau</falscheAntwort1>
+            <falscheAntwort2>in die Nester anderer Vögel</falscheAntwort2>
+            <falscheAntwort3>in heruntergefallene Eicheln und Bucheckern</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie trägt der Eichelhäher zur Waldverjüngung bei?</fragenText>
+            <richtigeAntwort>Er vergräbt Eicheln als Nahrungsvorrat, findet sie aber nicht wieder.</richtigeAntwort>
+            <falscheAntwort1>Er lässt junge Eichen in Ruhe wachsen.</falscheAntwort1>
+            <falscheAntwort2>Er hackt alte Eichen um.</falscheAntwort2>
+            <falscheAntwort3>Er verscheucht räuberische Tiere aus dem Wald.</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die durch Überflutungen gekennzeichneten Wälder in Flussnähe?</fragenText>
+            <richtigeAntwort>Auwälder</richtigeAntwort>
+            <falscheAntwort1>Schmerzwälder</falscheAntwort1>
+            <falscheAntwort2>Wehwälder</falscheAntwort2>
+            <falscheAntwort3>Ohwälder</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Wald gibt es feuchte Hitze, üppige Vegetation und schummriges Dämmerlicht?</fragenText>
+            <richtigeAntwort>Tropischer Regenwald</richtigeAntwort>
+            <falscheAntwort1>Arktischer Tundrawald</falscheAntwort1>
+            <falscheAntwort2>Subtropischer Nebelwald</falscheAntwort2>
+            <falscheAntwort3>Sibirischer Schneewald</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Mit welchem Begriffwerden Pflanzenfresser und Tierfresser in einem Ökosystem bezeichnet?</fragenText>
+            <richtigeAntwort>Verbraucher</richtigeAntwort>
+            <falscheAntwort1>Schmarotzer</falscheAntwort1>
+            <falscheAntwort2>Erzeuger</falscheAntwort2>
+            <falscheAntwort3>Nutznießer</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie werden die Pflanzen in einem Ökosystem genannt?</fragenText>
+            <richtigeAntwort>Erzeuger</richtigeAntwort>
+            <falscheAntwort1>Schmarotzer</falscheAntwort1>
+            <falscheAntwort2>Verbraucher</falscheAntwort2>
+            <falscheAntwort3>Nutznießer</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was versteht man unter einem biologischen Gleichgewicht?</fragenText>
+            <richtigeAntwort>Räuber und Beute stehen in einem ausgewogenen Verhältnis.</richtigeAntwort>
+            <falscheAntwort1>Es gibt dicke und dünne Tiere.</falscheAntwort1>
+            <falscheAntwort2>Es ist mal warm und mal kalt.</falscheAntwort2>
+            <falscheAntwort3>Vögel und Kriechtiere stehen in einem ausgewogenen Verhältnis.</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Warum spielt der Wald in der Trinkwasseraufbereitung eine Rolle?</fragenText>
+            <richtigeAntwort>Der Waldboden wirkt wie ein Filter.</richtigeAntwort>
+            <falscheAntwort1>Der Waldboden entzieht dem Wasser Natriucarbonatsulfamit.</falscheAntwort1>
+            <falscheAntwort2>Der Waldboden süßt das Wasser.</falscheAntwort2>
+            <falscheAntwort3>Der Waldboden leitet das Wasser um.</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der häufigste Baum in unseren Wäldern?</fragenText>
+            <richtigeAntwort>Rotbuche</richtigeAntwort>
+            <falscheAntwort1>Eiche</falscheAntwort1>
+            <falscheAntwort2>Blautanne</falscheAntwort2>
+            <falscheAntwort3>Fichte</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was versteht man unter einer „ökologischen Nische“?</fragenText>
+            <richtigeAntwort>Gesamtheit aller Umweltbedingungen, die für das Überleben einer Art notwendig sind</richtigeAntwort>
+            <falscheAntwort1>einzelne Verstecke im Wald, in denen Jungtiere Zuflucht suchen können</falscheAntwort1>
+            <falscheAntwort2>alle Umweltbedingungen, die helfen, dass die Vögel brüten können</falscheAntwort2>
+            <falscheAntwort3>gut getarnte Hinterhalte, wo sich die Jäger verstecken können</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welcher Pflanzengruppe gehört das Buschwindröschen, das schon ab Mitte März in unseren Wäldern blüht?</fragenText>
+            <richtigeAntwort>Frühblüher</richtigeAntwort>
+            <falscheAntwort1>Halbblüher</falscheAntwort1>
+            <falscheAntwort2>Spätblüher</falscheAntwort2>
+            <falscheAntwort3>Vollblüher</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die dickeren und kleineren Blätter eines Laubbaumes, die viel Licht abbekommen?</fragenText>
+            <richtigeAntwort>Sonnenblätter</richtigeAntwort>
+            <falscheAntwort1>Sternenblätter</falscheAntwort1>
+            <falscheAntwort2>Mondblätter</falscheAntwort2>
+            <falscheAntwort3>Silberblätter</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welche Stockwerke gliedert sich der Laubwald?</fragenText>
+            <richtigeAntwort>Moosschicht, Krautschicht, Strauchschicht, Baumschicht</richtigeAntwort>
+            <falscheAntwort1>Wurzelschicht, Farnschicht, Knospenschicht, Stammschicht</falscheAntwort1>
+            <falscheAntwort2>Erdschicht, Buschschicht, Blattschicht, Luftschicht</falscheAntwort2>
+            <falscheAntwort3>Bodenschicht, Astschicht, Stammschicht, Wipfelschicht</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche wichtigen Aufgaben haben die Pilze im Wald?</fragenText>
+            <richtigeAntwort>Zersetzung und Mineralstoffbildung</richtigeAntwort>
+            <falscheAntwort1>Düngung und Befruchtung</falscheAntwort1>
+            <falscheAntwort2>Aasverwertung und Sauerstoffbildung</falscheAntwort2>
+            <falscheAntwort3>Wasserspeicherung und Nahrungslieferant</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was sind Hexenringe?</fragenText>
+            <richtigeAntwort>kreisförmige Anordnung der Fruchtkörper mancher Pilze</richtigeAntwort>
+            <falscheAntwort1>kreisrunde Kastanienschalen</falscheAntwort1>
+            <falscheAntwort2>Jahresringe der Hexenbäume</falscheAntwort2>
+            <falscheAntwort3>runde Wildschweinspuren</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Nach wie vielen Jahren werden Fichtenbäume geschlagen?</fragenText>
+            <richtigeAntwort>80 - 120</richtigeAntwort>
+            <falscheAntwort1>70 - 90</falscheAntwort1>
+            <falscheAntwort2>30 - 50</falscheAntwort2>
+            <falscheAntwort3>140 - 180</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Baumarten kommen in unseren Wäldern etwa vor?</fragenText>
+            <richtigeAntwort>35</richtigeAntwort>
+            <falscheAntwort1>22</falscheAntwort1>
+            <falscheAntwort2>28</falscheAntwort2>
+            <falscheAntwort3>17</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viel Sauerstoff liefert ein Nadelwald in der Größe eines Fußballfeldes in einem Jahr?</fragenText>
+            <richtigeAntwort>30 Tonnen</richtigeAntwort>
+            <falscheAntwort1>20 Tonnen</falscheAntwort1>
+            <falscheAntwort2>40 Tonnen</falscheAntwort2>
+            <falscheAntwort3>10 Tonnen</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viel Liter Wasser verdunstet eine 100 - jährige Buche am Tag?</fragenText>
+            <richtigeAntwort>400 l</richtigeAntwort>
+            <falscheAntwort1>200 l</falscheAntwort1>
+            <falscheAntwort2>600 l</falscheAntwort2>
+            <falscheAntwort3>800 l</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Um wie viel Prozent verringert ein 100 m breiter Waldstreifen die Lärmwirkung?</fragenText>
+            <richtigeAntwort>50 %</richtigeAntwort>
+            <falscheAntwort1>30 %</falscheAntwort1>
+            <falscheAntwort2>40 %</falscheAntwort2>
+            <falscheAntwort3>20 %</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Um wie viel Grad senkt ein 100 m breiter Waldstreifen die Lufttemperatur?</fragenText>
+            <richtigeAntwort>3 - 4°C</richtigeAntwort>
+            <falscheAntwort1>5 - 7°C</falscheAntwort1>
+            <falscheAntwort2>1 - 2°C</falscheAntwort2>
+            <falscheAntwort3>8 - 10°C</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viel Tonnen Ruß und Staub entzieht ein Buchenwald in der Größe eines Fußballplatzes der Luft in einem Jahr?</fragenText>
+            <richtigeAntwort>68 t</richtigeAntwort>
+            <falscheAntwort1>26 t</falscheAntwort1>
+            <falscheAntwort2>12 t</falscheAntwort2>
+            <falscheAntwort3>49 t</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viel Liter Wasser können unter einem Quadratmeter Waldboden gespeichert werden?</fragenText>
+            <richtigeAntwort>50 - 200</richtigeAntwort>
+            <falscheAntwort1>5 - 10</falscheAntwort1>
+            <falscheAntwort2>300 - 500</falscheAntwort2>
+            <falscheAntwort3>15 - 50</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher große, essbare Pilz ist in unseren Wäldern selten geworden?</fragenText>
+            <richtigeAntwort>Steinpilz</richtigeAntwort>
+            <falscheAntwort1>Baumpilz</falscheAntwort1>
+            <falscheAntwort2>Holzpilz</falscheAntwort2>
+            <falscheAntwort3>Flusspilz</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Pflanze lebt als Halbschmarotzer auf hohen Bäumen?</fragenText>
+            <richtigeAntwort>Mistel</richtigeAntwort>
+            <falscheAntwort1>Fistel</falscheAntwort1>
+            <falscheAntwort2>Distel</falscheAntwort2>
+            <falscheAntwort3>Bistel</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen die Früchte der an Waldrändern wachsenden Rosen?</fragenText>
+            <richtigeAntwort>Hagebutten</richtigeAntwort>
+            <falscheAntwort1>Kamille</falscheAntwort1>
+            <falscheAntwort2>Pfefferminze</falscheAntwort2>
+            <falscheAntwort3>Salbei</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie vermehren sich die Farne?</fragenText>
+            <richtigeAntwort>durch Sporen</richtigeAntwort>
+            <falscheAntwort1>durch Blüten</falscheAntwort1>
+            <falscheAntwort2>durch Dornen</falscheAntwort2>
+            <falscheAntwort3>durch Pollen</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen die krustenartig aussehenden Pflanzen, die auf Steinen oder auf Bäumen wachsen?</fragenText>
+            <richtigeAntwort>Flechten</richtigeAntwort>
+            <falscheAntwort1>Farne</falscheAntwort1>
+            <falscheAntwort2>Moose</falscheAntwort2>
+            <falscheAntwort3>Efeu</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was verträgt die Schwarzerle im Gegensatz zu den anderen Baumarten besonders gut?</fragenText>
+            <richtigeAntwort>Staunässe</richtigeAntwort>
+            <falscheAntwort1>Windstärken bis 9</falscheAntwort1>
+            <falscheAntwort2>lange Trockenheit</falscheAntwort2>
+            <falscheAntwort3>Borkenkäfer</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Wurzelform besitzt die Fichte?</fragenText>
+            <richtigeAntwort>flacher Wurzelteller</richtigeAntwort>
+            <falscheAntwort1>lange Schlingwurzeln</falscheAntwort1>
+            <falscheAntwort2>tiefgehende Pfahlwurzel</falscheAntwort2>
+            <falscheAntwort3>breite Saugwurzeln</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Woran erkennt man das Alter von Bäumen?</fragenText>
+            <richtigeAntwort>an der Zahl der Jahresringe</richtigeAntwort>
+            <falscheAntwort1>an der Zahl der Blätter</falscheAntwort1>
+            <falscheAntwort2>an der Anzahl der Zweige</falscheAntwort2>
+            <falscheAntwort3>an der Stammdicke</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die niedrigen Nadelbäume zwischen der Baum- und Strauchgrenze des Bergwaldes?</fragenText>
+            <richtigeAntwort>Latschenkiefern</richtigeAntwort>
+            <falscheAntwort1>Bodenkiefern</falscheAntwort1>
+            <falscheAntwort2>Knüppelkiefern</falscheAntwort2>
+            <falscheAntwort3>Bergkiefern</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Bei welcher Baumart sitzen die Früchte in traubig angeordneten, schuppigen Bechern?</fragenText>
+            <richtigeAntwort>Traubeneiche</richtigeAntwort>
+            <falscheAntwort1>Latschenkiefer</falscheAntwort1>
+            <falscheAntwort2>Trauerweide</falscheAntwort2>
+            <falscheAntwort3>Rosskastanie</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Bei welcher Baumart sitzen die Früchte in gestielten, schuppigen Bechern?</fragenText>
+            <richtigeAntwort>Stieleiche</richtigeAntwort>
+            <falscheAntwort1>Blautanne</falscheAntwort1>
+            <falscheAntwort2>Rotbuche</falscheAntwort2>
+            <falscheAntwort3>Trauerweide</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Wurzelform besitzt die Kiefer?</fragenText>
+            <richtigeAntwort>tiefgehende Pfahlwurzeln</richtigeAntwort>
+            <falscheAntwort1>flache Schlingwurzeln</falscheAntwort1>
+            <falscheAntwort2>platte Bodenwurzeln</falscheAntwort2>
+            <falscheAntwort3>knorrige Korkenzieherwurzeln</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Bei welchem Baum sitzen die Nadeln stets zu zweit in den Kurztrieben?</fragenText>
+            <richtigeAntwort>Kiefer</richtigeAntwort>
+            <falscheAntwort1>Lärche</falscheAntwort1>
+            <falscheAntwort2>Tanne</falscheAntwort2>
+            <falscheAntwort3>Fichte</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Laubbaum hat eine weiße Rinde?</fragenText>
+            <richtigeAntwort>Birke</richtigeAntwort>
+            <falscheAntwort1>Kastanie</falscheAntwort1>
+            <falscheAntwort2>Ulme</falscheAntwort2>
+            <falscheAntwort3>Buche</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie wird die Fichte auch genannt?</fragenText>
+            <richtigeAntwort>Rottanne</richtigeAntwort>
+            <falscheAntwort1>Gelbkiefer</falscheAntwort1>
+            <falscheAntwort2>Blautanne</falscheAntwort2>
+            <falscheAntwort3>Grünlärche</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText/>
+            <richtigeAntwort/>
+            <falscheAntwort1/>
+            <falscheAntwort2/>
+            <falscheAntwort3/>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>15</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der Gemeine Wurmfarn ist in schattigen Wäldern zu Hause. Wie groß kann er werden?</fragenText>
+            <richtigeAntwort>bis 120 cm</richtigeAntwort>
+            <falscheAntwort1>bis 80 cm</falscheAntwort1>
+            <falscheAntwort2>bis 100 cm</falscheAntwort2>
+            <falscheAntwort3>bis 60 cm</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Pilz ist ein gefürchteter Baumschädling?</fragenText>
+            <richtigeAntwort>Hallimasch</richtigeAntwort>
+            <falscheAntwort1>Fliegenpilz</falscheAntwort1>
+            <falscheAntwort2>Steinpilz</falscheAntwort2>
+            <falscheAntwort3>Pfifferling</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Rose findet man an Waldrändern?</fragenText>
+            <richtigeAntwort>Hundsrose</richtigeAntwort>
+            <falscheAntwort1>Pferderose</falscheAntwort1>
+            <falscheAntwort2>Katzenrose</falscheAntwort2>
+            <falscheAntwort3>Mausrose</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch kann eine Lärche werden?</fragenText>
+            <richtigeAntwort>ca. 30 m</richtigeAntwort>
+            <falscheAntwort1>ca. 50 m</falscheAntwort1>
+            <falscheAntwort2>ca. 40 m</falscheAntwort2>
+            <falscheAntwort3>ca. 20 m</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Nadelbaum verliert im Winter seine Nadeln?</fragenText>
+            <richtigeAntwort>Lärche</richtigeAntwort>
+            <falscheAntwort1>Fichte</falscheAntwort1>
+            <falscheAntwort2>Tanne</falscheAntwort2>
+            <falscheAntwort3>Kiefer</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der häufigste Nadelbaum unserer Wälder?</fragenText>
+            <richtigeAntwort>Fichte</richtigeAntwort>
+            <falscheAntwort1>Kiefer</falscheAntwort1>
+            <falscheAntwort2>Tanne</falscheAntwort2>
+            <falscheAntwort3>Lärche</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Blütenform der Kiefern?</fragenText>
+            <richtigeAntwort>Zapfenblüten</richtigeAntwort>
+            <falscheAntwort1>Kiefernblüten</falscheAntwort1>
+            <falscheAntwort2>Tannenblüten</falscheAntwort2>
+            <falscheAntwort3>Kelchblüten</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Um welche Fruchtart handelt es sich bei den Bucheckern?</fragenText>
+            <richtigeAntwort>Nussfrüchte</richtigeAntwort>
+            <falscheAntwort1>Südfrüchte</falscheAntwort1>
+            <falscheAntwort2>Obstfrüchte</falscheAntwort2>
+            <falscheAntwort3>Waldfrüchte</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man es, wenn männliche und weibliche Blüten zusammen auf einem Baum sitzen, wie z. B. bei der Rotbuche?</fragenText>
+            <richtigeAntwort>getrennt-geschlechtig und einhäusig</richtigeAntwort>
+            <falscheAntwort1>einträchtig und baumnah</falscheAntwort1>
+            <falscheAntwort2>zusammen-geschlechtig und häuslich</falscheAntwort2>
+            <falscheAntwort3>einzig und artig</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der häufigste Nadelbaum unserer Wälder?</fragenText>
+            <richtigeAntwort>Fichte</richtigeAntwort>
+            <falscheAntwort1>Kiefer</falscheAntwort1>
+            <falscheAntwort2>Tanne</falscheAntwort2>
+            <falscheAntwort3>Lärche</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

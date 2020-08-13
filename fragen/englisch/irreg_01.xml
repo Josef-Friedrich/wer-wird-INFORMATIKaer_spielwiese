@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Englisch</fach>
+    <thema>Unregelmäßige Verben</thema>
+    <autor>A. Bergkemper, Stand 15.7.01</autor>
+    <anzahlFragen>31</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>laufen (Präteritum)</fragenText>
+            <richtigeAntwort>ran</richtigeAntwort>
+            <falscheAntwort1>run</falscheAntwort1>
+            <falscheAntwort2>jump</falscheAntwort2>
+            <falscheAntwort3>jumped</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>tun, machen (3. Pers. Präsens)</fragenText>
+            <richtigeAntwort>does</richtigeAntwort>
+            <falscheAntwort1>did</falscheAntwort1>
+            <falscheAntwort2>do</falscheAntwort2>
+            <falscheAntwort3>done</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>beißen (Partizip Perfekt)</fragenText>
+            <richtigeAntwort>bitten</richtigeAntwort>
+            <falscheAntwort1>bites</falscheAntwort1>
+            <falscheAntwort2>bite</falscheAntwort2>
+            <falscheAntwort3>bit</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>geboren (Partizip Perfekt)</fragenText>
+            <richtigeAntwort>born</richtigeAntwort>
+            <falscheAntwort1>bore</falscheAntwort1>
+            <falscheAntwort2>bear</falscheAntwort2>
+            <falscheAntwort3>borne</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>werden (Präteritum)</fragenText>
+            <richtigeAntwort>became</richtigeAntwort>
+            <falscheAntwort1>was</falscheAntwort1>
+            <falscheAntwort2>become</falscheAntwort2>
+            <falscheAntwort3>been</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>zur Welt bringen, gebären</fragenText>
+            <richtigeAntwort>bear - bore - born</richtigeAntwort>
+            <falscheAntwort1>bear - bore - bore</falscheAntwort1>
+            <falscheAntwort2>bear - bore - borne</falscheAntwort2>
+            <falscheAntwort3>wear - wore - worn</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>blasen, wehen (Präteritum)</fragenText>
+            <richtigeAntwort>blew</richtigeAntwort>
+            <falscheAntwort1>blow</falscheAntwort1>
+            <falscheAntwort2>blown</falscheAntwort2>
+            <falscheAntwort3>blowed</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>anfangen (Präsens)</fragenText>
+            <richtigeAntwort>begin</richtigeAntwort>
+            <falscheAntwort1>begun</falscheAntwort1>
+            <falscheAntwort2>began</falscheAntwort2>
+            <falscheAntwort3>begone</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>biegen, krümmen (Partizip Perfekt)</fragenText>
+            <richtigeAntwort>bent</richtigeAntwort>
+            <falscheAntwort1>bend</falscheAntwort1>
+            <falscheAntwort2>band</falscheAntwort2>
+            <falscheAntwort3>bant</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>brechen, zerbrechen (Partizip Perfekt)</fragenText>
+            <richtigeAntwort>broken</richtigeAntwort>
+            <falscheAntwort1>broke</falscheAntwort1>
+            <falscheAntwort2>breake</falscheAntwort2>
+            <falscheAntwort3>breaked</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>bringen (Partizip Perfekt)</fragenText>
+            <richtigeAntwort>brought</richtigeAntwort>
+            <falscheAntwort1>brang</falscheAntwort1>
+            <falscheAntwort2>bring</falscheAntwort2>
+            <falscheAntwort3>brung</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>bauen (Präteritum)</fragenText>
+            <richtigeAntwort>built</richtigeAntwort>
+            <falscheAntwort1>bold</falscheAntwort1>
+            <falscheAntwort2>build</falscheAntwort2>
+            <falscheAntwort3>bolt</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>kaufen (Partizip Perfekt)</fragenText>
+            <richtigeAntwort>bought</richtigeAntwort>
+            <falscheAntwort1>buyed</falscheAntwort1>
+            <falscheAntwort2>buy</falscheAntwort2>
+            <falscheAntwort3>buied</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>wählen, auswählen (Prätertitum)</fragenText>
+            <richtigeAntwort>chose</richtigeAntwort>
+            <falscheAntwort1>chosen</falscheAntwort1>
+            <falscheAntwort2>choose</falscheAntwort2>
+            <falscheAntwort3>choosen</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>kommen, ankommen (Partizip Perfekt)</fragenText>
+            <richtigeAntwort>come</richtigeAntwort>
+            <falscheAntwort1>comed</falscheAntwort1>
+            <falscheAntwort2>came</falscheAntwort2>
+            <falscheAntwort3>become</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>schneiden (Präteritum)</fragenText>
+            <richtigeAntwort>cut</richtigeAntwort>
+            <falscheAntwort1>cutted</falscheAntwort1>
+            <falscheAntwort2>cot</falscheAntwort2>
+            <falscheAntwort3>cutten</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>handeln (von), sich beschäftigen (mit) (Partizip Perfekt)</fragenText>
+            <richtigeAntwort>dealt</richtigeAntwort>
+            <falscheAntwort1>deales</falscheAntwort1>
+            <falscheAntwort2>deal</falscheAntwort2>
+            <falscheAntwort3>dealed</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>trinken (Präsens)</fragenText>
+            <richtigeAntwort>drink</richtigeAntwort>
+            <falscheAntwort1>drunk</falscheAntwort1>
+            <falscheAntwort2>drank</falscheAntwort2>
+            <falscheAntwort3>dronk</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>graben (Präteritum)</fragenText>
+            <richtigeAntwort>dug</richtigeAntwort>
+            <falscheAntwort1>dag</falscheAntwort1>
+            <falscheAntwort2>dig</falscheAntwort2>
+            <falscheAntwort3>dog</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>zeichnen (Partizip Perfekt)</fragenText>
+            <richtigeAntwort>drawn</richtigeAntwort>
+            <falscheAntwort1>drew</falscheAntwort1>
+            <falscheAntwort2>draw</falscheAntwort2>
+            <falscheAntwort3>drewn</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>fahren (Partizip Perfekt)</fragenText>
+            <richtigeAntwort>driven</richtigeAntwort>
+            <falscheAntwort1>drove</falscheAntwort1>
+            <falscheAntwort2>drive</falscheAntwort2>
+            <falscheAntwort3>droved</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>essen (Präteritum)</fragenText>
+            <richtigeAntwort>ate</richtigeAntwort>
+            <falscheAntwort1>eaten</falscheAntwort1>
+            <falscheAntwort2>eat</falscheAntwort2>
+            <falscheAntwort3>eated</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>fallen (Präteritum)</fragenText>
+            <richtigeAntwort>fell</richtigeAntwort>
+            <falscheAntwort1>fallen</falscheAntwort1>
+            <falscheAntwort2>fall</falscheAntwort2>
+            <falscheAntwort3>falled</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>fühlen (Partizip Perfekt)</fragenText>
+            <richtigeAntwort>felt</richtigeAntwort>
+            <falscheAntwort1>feel</falscheAntwort1>
+            <falscheAntwort2>fellen</falscheAntwort2>
+            <falscheAntwort3>fallen</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>kämpfen (Präteritum)</fragenText>
+            <richtigeAntwort>fought</richtigeAntwort>
+            <falscheAntwort1>fighted</falscheAntwort1>
+            <falscheAntwort2>fight</falscheAntwort2>
+            <falscheAntwort3>foughten</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>finden (Partizip Pefekt)</fragenText>
+            <richtigeAntwort>found</richtigeAntwort>
+            <falscheAntwort1>finded</falscheAntwort1>
+            <falscheAntwort2>find</falscheAntwort2>
+            <falscheAntwort3>founden</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>flüchten (Partizip Pefekt)</fragenText>
+            <richtigeAntwort>fled</richtigeAntwort>
+            <falscheAntwort1>flown</falscheAntwort1>
+            <falscheAntwort2>flee</falscheAntwort2>
+            <falscheAntwort3>flew</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>fliegen (Präteritum)</fragenText>
+            <richtigeAntwort>flew</richtigeAntwort>
+            <falscheAntwort1>flown</falscheAntwort1>
+            <falscheAntwort2>fly</falscheAntwort2>
+            <falscheAntwort3>fled</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>verbieten (Präteritum)</fragenText>
+            <richtigeAntwort>forbade</richtigeAntwort>
+            <falscheAntwort1>forbidden</falscheAntwort1>
+            <falscheAntwort2>forbid</falscheAntwort2>
+            <falscheAntwort3>forgotten</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>vergessen (Präteritum)</fragenText>
+            <richtigeAntwort>forgot</richtigeAntwort>
+            <falscheAntwort1>forgotten</falscheAntwort1>
+            <falscheAntwort2>forget</falscheAntwort2>
+            <falscheAntwort3>forbidden</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>frieren, erfrieren (Partizip Pefekt)</fragenText>
+            <richtigeAntwort>frozen</richtigeAntwort>
+            <falscheAntwort1>freeze</falscheAntwort1>
+            <falscheAntwort2>froze</falscheAntwort2>
+            <falscheAntwort3>frost</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

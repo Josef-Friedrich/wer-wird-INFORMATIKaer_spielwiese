@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Technik</fach>
+    <thema>„Digitaltechnik“</thema>
+    <autor>Elmar F. Werker, V1.0 5/2001</autor>
+    <anzahlFragen>16</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>Die Reihenschaltung von Schließern entspricht welcher Digitalschaltung</fragenText>
+            <richtigeAntwort>UND</richtigeAntwort>
+            <falscheAntwort1>ODER</falscheAntwort1>
+            <falscheAntwort2>NAND</falscheAntwort2>
+            <falscheAntwort3>NOR</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>2</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die einfachste Digitalschaltung</fragenText>
+            <richtigeAntwort>Identität</richtigeAntwort>
+            <falscheAntwort1>UND</falscheAntwort1>
+            <falscheAntwort2>ODER</falscheAntwort2>
+            <falscheAntwort3>Negation</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Grundschaltung entspricht ein Öffner?</fragenText>
+            <richtigeAntwort>Negation</richtigeAntwort>
+            <falscheAntwort1>UND</falscheAntwort1>
+            <falscheAntwort2>ODER</falscheAntwort2>
+            <falscheAntwort3>Identität</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zwei Zeilen einer Wahrheitstabelle liefern 1 Signal. Wie werden die Vollkonjunktionen zur Schaltfuntktion verschaltet?</fragenText>
+            <richtigeAntwort>ODER</richtigeAntwort>
+            <falscheAntwort1>UND</falscheAntwort1>
+            <falscheAntwort2>X-Oder</falscheAntwort2>
+            <falscheAntwort3>NOR</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie kann man eine UND Schaltung noch nennen?</fragenText>
+            <richtigeAntwort>Konjunktion</richtigeAntwort>
+            <falscheAntwort1>Wendeschaltung</falscheAntwort1>
+            <falscheAntwort2>Kreuzschaltung</falscheAntwort2>
+            <falscheAntwort3>Disjunktion</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviele Zeilen enthält eine Wahrheitstabelle mit 3 Eingangsvariablen?</fragenText>
+            <richtigeAntwort>8</richtigeAntwort>
+            <falscheAntwort1>2</falscheAntwort1>
+            <falscheAntwort2>4</falscheAntwort2>
+            <falscheAntwort3>16</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviele Zeilen enthält eine KV-Tafel mit 4 Eingangsvariablen?</fragenText>
+            <richtigeAntwort>16</richtigeAntwort>
+            <falscheAntwort1>2</falscheAntwort1>
+            <falscheAntwort2>4</falscheAntwort2>
+            <falscheAntwort3>8</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Reihenschaltung von Schließern entspricht der ...Schaltung?</fragenText>
+            <richtigeAntwort>UND</richtigeAntwort>
+            <falscheAntwort1>Negation</falscheAntwort1>
+            <falscheAntwort2>Identität</falscheAntwort2>
+            <falscheAntwort3>ODER</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Parallelschaltung von Schließern entspricht der ...Schaltung?</fragenText>
+            <richtigeAntwort>ODER</richtigeAntwort>
+            <falscheAntwort1>Negation</falscheAntwort1>
+            <falscheAntwort2>Identität</falscheAntwort2>
+            <falscheAntwort3>UND</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was macht man mit einer KV-Tafel in der Digitaltechnik</fragenText>
+            <richtigeAntwort>Vereinfachung</richtigeAntwort>
+            <falscheAntwort1>Lösung</falscheAntwort1>
+            <falscheAntwort2>Gleichung</falscheAntwort2>
+            <falscheAntwort3>Funktionsplan</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Schaltung entspricht der Wechselschaltung?</fragenText>
+            <richtigeAntwort>Antivalenz</richtigeAntwort>
+            <falscheAntwort1>UND</falscheAntwort1>
+            <falscheAntwort2>ODER</falscheAntwort2>
+            <falscheAntwort3>Negation</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviele Anschlüsse hat ein Kreuzschalter?</fragenText>
+            <richtigeAntwort>4</richtigeAntwort>
+            <falscheAntwort1>2</falscheAntwort1>
+            <falscheAntwort2>3</falscheAntwort2>
+            <falscheAntwort3>6</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Eine Lampe schaltet sich jeweils dauerhaft Ein und Aus wenn sie von einem Taster getastet wird. Es handelt sich um eine..</fragenText>
+            <richtigeAntwort>Stromstoßsch.</richtigeAntwort>
+            <falscheAntwort1>Ausschaltung</falscheAntwort1>
+            <falscheAntwort2>Wechselsch.</falscheAntwort2>
+            <falscheAntwort3>Kreuzschalt.</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist die größte Anzahl der Schaltstellen die man mit einer Kreuzschaltung schalten kann?</fragenText>
+            <richtigeAntwort>4 und mehr..</richtigeAntwort>
+            <falscheAntwort1>1</falscheAntwort1>
+            <falscheAntwort2>2</falscheAntwort2>
+            <falscheAntwort3>3</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Eine Schaltung wird durch einen EIN- und einen AUS-Taster betätigt. Die Schützschaltung heißt?</fragenText>
+            <richtigeAntwort>Selbsthaltung</richtigeAntwort>
+            <falscheAntwort1>Ausschaltung</falscheAntwort1>
+            <falscheAntwort2>Wechselsch.</falscheAntwort2>
+            <falscheAntwort3>Stromstoßsch.</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In einer automatischen Treppenhaussteuerung arbeitet welches Relais?</fragenText>
+            <richtigeAntwort>Ausschaltvz.</richtigeAntwort>
+            <falscheAntwort1>Stromstoß-</falscheAntwort1>
+            <falscheAntwort2>EInschaltvz.</falscheAntwort2>
+            <falscheAntwort3>Schütz</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

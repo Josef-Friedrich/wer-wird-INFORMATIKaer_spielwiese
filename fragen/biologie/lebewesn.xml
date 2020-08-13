@@ -1,0 +1,1059 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Biologie</fach>
+    <thema>Lebewesen</thema>
+    <autor>Werner Biermann, 5/2001</autor>
+    <anzahlFragen>105</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>Begriffe aus der Botanik? Griffel, Stempel, Achse, Knoten</fragenText>
+            <richtigeAntwort>stimmt für alle</richtigeAntwort>
+            <falscheAntwort1>stimmt für zwei</falscheAntwort1>
+            <falscheAntwort2>stimmt für drei</falscheAntwort2>
+            <falscheAntwort3>stimmt für einen</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die krokusähnliche Blume?</fragenText>
+            <richtigeAntwort>Herbstzeitlose</richtigeAntwort>
+            <falscheAntwort1>Sommerzeitlose</falscheAntwort1>
+            <falscheAntwort2>Winterzeitlose</falscheAntwort2>
+            <falscheAntwort3>Frühlingszeitlose</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Auch noch Tier</fragenText>
+            <richtigeAntwort>Kiwi</richtigeAntwort>
+            <falscheAntwort1>Mango</falscheAntwort1>
+            <falscheAntwort2>Ananas</falscheAntwort2>
+            <falscheAntwort3>Papaya</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Legt das größte Ei</fragenText>
+            <richtigeAntwort>Strauß</richtigeAntwort>
+            <falscheAntwort1>Gans</falscheAntwort1>
+            <falscheAntwort2>Ente</falscheAntwort2>
+            <falscheAntwort3>Fasan</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Legt das kleinste Ei</fragenText>
+            <richtigeAntwort>Kolibri</richtigeAntwort>
+            <falscheAntwort1>Kakadu</falscheAntwort1>
+            <falscheAntwort2>Wellensittich</falscheAntwort2>
+            <falscheAntwort3>Bussard</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Wortsilbe „Bio“ bedeutet</fragenText>
+            <richtigeAntwort>Leben</richtigeAntwort>
+            <falscheAntwort1>Gesundheit</falscheAntwort1>
+            <falscheAntwort2>Landwirtschaft</falscheAntwort2>
+            <falscheAntwort3>giftfrei</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Kein Fisch</fragenText>
+            <richtigeAntwort>Blauwal</richtigeAntwort>
+            <falscheAntwort1>Hai</falscheAntwort1>
+            <falscheAntwort2>Rochen</falscheAntwort2>
+            <falscheAntwort3>Hering</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ausgewachsen der Schwerste</fragenText>
+            <richtigeAntwort>Elefant</richtigeAntwort>
+            <falscheAntwort1>Nashorn</falscheAntwort1>
+            <falscheAntwort2>Nilpferd</falscheAntwort2>
+            <falscheAntwort3>Giraffe</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Kein Säugetier</fragenText>
+            <richtigeAntwort>Wels</richtigeAntwort>
+            <falscheAntwort1>Wolf</falscheAntwort1>
+            <falscheAntwort2>Walroß</falscheAntwort2>
+            <falscheAntwort3>Wisent</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>2</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Passt nicht in die Reihe</fragenText>
+            <richtigeAntwort>Buche</richtigeAntwort>
+            <falscheAntwort1>Lärche</falscheAntwort1>
+            <falscheAntwort2>Kiefer</falscheAntwort2>
+            <falscheAntwort3>Fichte</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wirft die Nadeln ab</fragenText>
+            <richtigeAntwort>Lärche</richtigeAntwort>
+            <falscheAntwort1>Tanne</falscheAntwort1>
+            <falscheAntwort2>Fichte</falscheAntwort2>
+            <falscheAntwort3>Kiefer</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Hat die meisten Tierarten</fragenText>
+            <richtigeAntwort>Insekten</richtigeAntwort>
+            <falscheAntwort1>Säuger</falscheAntwort1>
+            <falscheAntwort2>Vögel</falscheAntwort2>
+            <falscheAntwort3>Reptilien</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zählt nicht zum Getreide</fragenText>
+            <richtigeAntwort>Bohnen</richtigeAntwort>
+            <falscheAntwort1>Weizen</falscheAntwort1>
+            <falscheAntwort2>Reis</falscheAntwort2>
+            <falscheAntwort3>Roggen</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>2</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wachsen unter der Erde</fragenText>
+            <richtigeAntwort>Erdnüsse</richtigeAntwort>
+            <falscheAntwort1>Haselnüsse</falscheAntwort1>
+            <falscheAntwort2>Walnüsse</falscheAntwort2>
+            <falscheAntwort3>Paranüsse</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Giraffe, Elefant, Löwe, Feldhase haben sieben Halswirbel</fragenText>
+            <richtigeAntwort>stimmt für alle Tiere</richtigeAntwort>
+            <falscheAntwort1>stimmt für drei Tiere</falscheAntwort1>
+            <falscheAntwort2>stimmt für zwei Tiere</falscheAntwort2>
+            <falscheAntwort3>stimmt für ein Tier</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Kommt frei lebend nicht in Afrika vor</fragenText>
+            <richtigeAntwort>Tiger</richtigeAntwort>
+            <falscheAntwort1>Gepard</falscheAntwort1>
+            <falscheAntwort2>Löwe</falscheAntwort2>
+            <falscheAntwort3>Leopard</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Passt flugtechnisch nicht dazu</fragenText>
+            <richtigeAntwort>Pinguin</richtigeAntwort>
+            <falscheAntwort1>Seeadler</falscheAntwort1>
+            <falscheAntwort2>Albatros</falscheAntwort2>
+            <falscheAntwort3>Sturmmöwe</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ist kein Insekt</fragenText>
+            <richtigeAntwort>Milbe</richtigeAntwort>
+            <falscheAntwort1>Ameise</falscheAntwort1>
+            <falscheAntwort2>Ohrwurm</falscheAntwort2>
+            <falscheAntwort3>Marienkäfer</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ist ein Schmetterlingsname</fragenText>
+            <richtigeAntwort>Kleiner Fuchs</richtigeAntwort>
+            <falscheAntwort1>Kleiner Wolf</falscheAntwort1>
+            <falscheAntwort2>Kleiner Wiesel</falscheAntwort2>
+            <falscheAntwort3>Kleiner Biber</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Diese Blütenformen gibt es: Kreuzblüte, Lippenblüte, Korbblüte, Schmetterlingsblüte</fragenText>
+            <richtigeAntwort>stimmt</richtigeAntwort>
+            <falscheAntwort1>stimmt für drei</falscheAntwort1>
+            <falscheAntwort2>stimmt für zwei</falscheAntwort2>
+            <falscheAntwort3>stimmt für eine</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Pupillen der Katzenaugen stehen</fragenText>
+            <richtigeAntwort>senkrecht</richtigeAntwort>
+            <falscheAntwort1>waagerecht</falscheAntwort1>
+            <falscheAntwort2>diagonal</falscheAntwort2>
+            <falscheAntwort3>sie sind rund</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>2</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Teile der Kirschblüte stehen außen?</fragenText>
+            <richtigeAntwort>Kelchblätter</richtigeAntwort>
+            <falscheAntwort1>Kronblätter</falscheAntwort1>
+            <falscheAntwort2>Staubblätter</falscheAntwort2>
+            <falscheAntwort3>Stempel</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der Tulpenblüte fehlt</fragenText>
+            <richtigeAntwort>Kelchblatt</richtigeAntwort>
+            <falscheAntwort1>Kronblatt</falscheAntwort1>
+            <falscheAntwort2>Staubblatt</falscheAntwort2>
+            <falscheAntwort3>Stempel</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ein Stichling ist</fragenText>
+            <richtigeAntwort>Fisch</richtigeAntwort>
+            <falscheAntwort1>Vogel</falscheAntwort1>
+            <falscheAntwort2>Skorpion</falscheAntwort2>
+            <falscheAntwort3>Wespenart</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Diese Tiere gibt es: Wechselkröte, Knoblauchkröte, Gebutshelferkröte, Kreuzkröte</fragenText>
+            <richtigeAntwort>stimmt</richtigeAntwort>
+            <falscheAntwort1>stimmt für drei</falscheAntwort1>
+            <falscheAntwort2>stimmt für zwei</falscheAntwort2>
+            <falscheAntwort3>stimmt für eins</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Reißzähne sind besondere</fragenText>
+            <richtigeAntwort>Backenzähne</richtigeAntwort>
+            <falscheAntwort1>Schneidezähne</falscheAntwort1>
+            <falscheAntwort2>Eckzähne</falscheAntwort2>
+            <falscheAntwort3>Nagezähne</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer gehört nicht zu den Rindermägen?</fragenText>
+            <richtigeAntwort>Schwammmagen</richtigeAntwort>
+            <falscheAntwort1>Pansen</falscheAntwort1>
+            <falscheAntwort2>Blättermagen</falscheAntwort2>
+            <falscheAntwort3>Labmagen</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Blütenstaub</fragenText>
+            <richtigeAntwort>Pollen</richtigeAntwort>
+            <falscheAntwort1>Staub auf der Blüte</falscheAntwort1>
+            <falscheAntwort2>Farbstoffe der Blüte</falscheAntwort2>
+            <falscheAntwort3>Blattlausbefall der Blüte</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Kein Fisch</fragenText>
+            <richtigeAntwort>Tintenfisch</richtigeAntwort>
+            <falscheAntwort1>Seepferdchen</falscheAntwort1>
+            <falscheAntwort2>Schwertträger</falscheAntwort2>
+            <falscheAntwort3>Guppy</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Sichelbein</fragenText>
+            <richtigeAntwort>Zusatzknochen an Maulwurfshand</richtigeAntwort>
+            <falscheAntwort1>Erntehelfer des Hamsters</falscheAntwort1>
+            <falscheAntwort2>Verstrebung der Fledermausflughaut</falscheAntwort2>
+            <falscheAntwort3>Gibt es nicht</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Kein Nadelbaum</fragenText>
+            <richtigeAntwort>Ulme</richtigeAntwort>
+            <falscheAntwort1>Douglasie</falscheAntwort1>
+            <falscheAntwort2>Lärche</falscheAntwort2>
+            <falscheAntwort3>Kiefer</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zahl der in Deutschland lebenden Vogelarten</fragenText>
+            <richtigeAntwort>zwischen 200 u. 300</richtigeAntwort>
+            <falscheAntwort1>zwischen 50 u. 200</falscheAntwort1>
+            <falscheAntwort2>zwischen 800 u. 1000</falscheAntwort2>
+            <falscheAntwort3>zwischen 2000 u. 3000</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Sie gehören nicht zum Spross einer Pflanze</fragenText>
+            <richtigeAntwort>Wurzeln</richtigeAntwort>
+            <falscheAntwort1>Blüten</falscheAntwort1>
+            <falscheAntwort2>Laubblätter</falscheAntwort2>
+            <falscheAntwort3>Früchte</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Fachwort für Blattgrün</fragenText>
+            <richtigeAntwort>Chlorophyll</richtigeAntwort>
+            <falscheAntwort1>Chloroform</falscheAntwort1>
+            <falscheAntwort2>Chlorodont</falscheAntwort2>
+            <falscheAntwort3>Chlor No V</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Kein Säugetier</fragenText>
+            <richtigeAntwort>Pinguin</richtigeAntwort>
+            <falscheAntwort1>Blauwal</falscheAntwort1>
+            <falscheAntwort2>Delfin</falscheAntwort2>
+            <falscheAntwort3>Fledermaus</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>2</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Von dieser Baumart gibt es männliche u. weibliche Exemplare</fragenText>
+            <richtigeAntwort>Salweide</richtigeAntwort>
+            <falscheAntwort1>Buche</falscheAntwort1>
+            <falscheAntwort2>Eiche</falscheAntwort2>
+            <falscheAntwort3>Kiefer</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Passt nicht zum Pferd</fragenText>
+            <richtigeAntwort>Wiederkäuer</richtigeAntwort>
+            <falscheAntwort1>Pflanzenfresser</falscheAntwort1>
+            <falscheAntwort2>Zehenspitzengänger</falscheAntwort2>
+            <falscheAntwort3>Unpaarhufer</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Gehören zu den Gräsern Weizen, Roggen Gerste, Reis</fragenText>
+            <richtigeAntwort>Stimmt für alle</richtigeAntwort>
+            <falscheAntwort1>Stimmt für drei</falscheAntwort1>
+            <falscheAntwort2>Stimmt für zwei</falscheAntwort2>
+            <falscheAntwort3>Stimmt für eins</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>ungiftig</fragenText>
+            <richtigeAntwort>Boa</richtigeAntwort>
+            <falscheAntwort1>Kobra</falscheAntwort1>
+            <falscheAntwort2>Kreuzotter</falscheAntwort2>
+            <falscheAntwort3>Mamba</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Keine Zitrusfrucht</fragenText>
+            <richtigeAntwort>Dattel</richtigeAntwort>
+            <falscheAntwort1>Limone</falscheAntwort1>
+            <falscheAntwort2>Orange</falscheAntwort2>
+            <falscheAntwort3>Pampelmuse</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zählen zu den Menschenaffen: Gorilla, Kapuzineraffe Orang-Utan, Schimpanse</fragenText>
+            <richtigeAntwort>Stimmt für drei</richtigeAntwort>
+            <falscheAntwort1>Stimmt für alle</falscheAntwort1>
+            <falscheAntwort2>Stimmt für einen</falscheAntwort2>
+            <falscheAntwort3>Stimmt für zwei</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zählen zu den Krebstieren Assel, Hummer, Krabbe, Seepocke</fragenText>
+            <richtigeAntwort>Stimmt für alle</richtigeAntwort>
+            <falscheAntwort1>Stimmt für drei</falscheAntwort1>
+            <falscheAntwort2>Stimmt für zwei</falscheAntwort2>
+            <falscheAntwort3>Stimmt für einen</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Keine Pflanze</fragenText>
+            <richtigeAntwort>Seeanemone</richtigeAntwort>
+            <falscheAntwort1>Seerose</falscheAntwort1>
+            <falscheAntwort2>Teichrose</falscheAntwort2>
+            <falscheAntwort3>Wasserpest</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Kein Schmetterling</fragenText>
+            <richtigeAntwort>Totengräber</richtigeAntwort>
+            <falscheAntwort1>Ritter</falscheAntwort1>
+            <falscheAntwort2>Nonne</falscheAntwort2>
+            <falscheAntwort3>Mönch</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Insekten nehmen Sauerstoff auf über</fragenText>
+            <richtigeAntwort>Tracheen</richtigeAntwort>
+            <falscheAntwort1>Lungen</falscheAntwort1>
+            <falscheAntwort2>Kiemen</falscheAntwort2>
+            <falscheAntwort3>Haut</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ein „Sammelbein“ hat</fragenText>
+            <richtigeAntwort>Biene</richtigeAntwort>
+            <falscheAntwort1>Hamster</falscheAntwort1>
+            <falscheAntwort2>Elster</falscheAntwort2>
+            <falscheAntwort3>Gottesanbeterin</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Sporen dienen nicht der Verbreitung von</fragenText>
+            <richtigeAntwort>Gräsern</richtigeAntwort>
+            <falscheAntwort1>Moosen</falscheAntwort1>
+            <falscheAntwort2>Farnen</falscheAntwort2>
+            <falscheAntwort3>Pilzen</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Queller ist:</fragenText>
+            <richtigeAntwort>Eine Salz liebende Pflanze</richtigeAntwort>
+            <falscheAntwort1>Ein Gras im Quellwasser</falscheAntwort1>
+            <falscheAntwort2>Eine vorherrschende Pflanze</falscheAntwort2>
+            <falscheAntwort3>Im Wasser auflebende Pflanze</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Richtige Reihenfolge bei Insektenentwicklung</fragenText>
+            <richtigeAntwort>Ei, Larve, Puppe, Imago</richtigeAntwort>
+            <falscheAntwort1>Ei, Imago, Puppe, Larve</falscheAntwort1>
+            <falscheAntwort2>Ei, Puppe, Larve, Imago</falscheAntwort2>
+            <falscheAntwort3>Ei, Larve, Imago, Puppe</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ist - zusammengeschrieben - ein Baum</fragenText>
+            <richtigeAntwort>A-horn</richtigeAntwort>
+            <falscheAntwort1>C-horn</falscheAntwort1>
+            <falscheAntwort2>D-horn</falscheAntwort2>
+            <falscheAntwort3>B-horn</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Insekten haben</fragenText>
+            <richtigeAntwort>drei Beinpaare</richtigeAntwort>
+            <falscheAntwort1>zwei Beinpaare</falscheAntwort1>
+            <falscheAntwort2>ein Beinpaar</falscheAntwort2>
+            <falscheAntwort3>vier Beinpaare</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Keine tierfangende Pflanze</fragenText>
+            <richtigeAntwort>Fingerkraut</richtigeAntwort>
+            <falscheAntwort1>Wasserschlauch</falscheAntwort1>
+            <falscheAntwort2>Sonnentau</falscheAntwort2>
+            <falscheAntwort3>Kannenpflanze</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Hier passt Fabelname nicht</fragenText>
+            <richtigeAntwort>Dachs - Isegrim</richtigeAntwort>
+            <falscheAntwort1>Löwe - Leo</falscheAntwort1>
+            <falscheAntwort2>Hase - Lampe</falscheAntwort2>
+            <falscheAntwort3>Fuchs - Reinecke</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Kein Schmetterling</fragenText>
+            <richtigeAntwort>Frauenmantel</richtigeAntwort>
+            <falscheAntwort1>Kaisermantel</falscheAntwort1>
+            <falscheAntwort2>Trauermantel</falscheAntwort2>
+            <falscheAntwort3>Goldeule</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zieht die Jungen nicht im Bau auf</fragenText>
+            <richtigeAntwort>Hase</richtigeAntwort>
+            <falscheAntwort1>Kaninchen</falscheAntwort1>
+            <falscheAntwort2>Fuchs</falscheAntwort2>
+            <falscheAntwort3>Dachs</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Kein Reptil</fragenText>
+            <richtigeAntwort>Piranha</richtigeAntwort>
+            <falscheAntwort1>Krokodil</falscheAntwort1>
+            <falscheAntwort2>Alligator</falscheAntwort2>
+            <falscheAntwort3>Gecko</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Keine Steinfrucht</fragenText>
+            <richtigeAntwort>Birne</richtigeAntwort>
+            <falscheAntwort1>Kirsche</falscheAntwort1>
+            <falscheAntwort2>Pfirsich</falscheAntwort2>
+            <falscheAntwort3>Pflaume</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Hat keine Wirbelsäule</fragenText>
+            <richtigeAntwort>Insekt</richtigeAntwort>
+            <falscheAntwort1>Vogel</falscheAntwort1>
+            <falscheAntwort2>Fisch</falscheAntwort2>
+            <falscheAntwort3>Reptil</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Eine Pflanze steht nicht unter Naturschutz</fragenText>
+            <richtigeAntwort>Wiesenschaumkraut</richtigeAntwort>
+            <falscheAntwort1>Edelweiß</falscheAntwort1>
+            <falscheAntwort2>Enzian</falscheAntwort2>
+            <falscheAntwort3>Sonnentau</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Nicht ausgestorben</fragenText>
+            <richtigeAntwort>Nautilus</richtigeAntwort>
+            <falscheAntwort1>Mammut</falscheAntwort1>
+            <falscheAntwort2>Moa</falscheAntwort2>
+            <falscheAntwort3>Prschewalskipferd</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ähre, Traube, Dolde, Rispe sind Fruchtstände</fragenText>
+            <richtigeAntwort>Stimmt für alle</richtigeAntwort>
+            <falscheAntwort1>Stimmt für drei</falscheAntwort1>
+            <falscheAntwort2>Stimmt für zwei</falscheAntwort2>
+            <falscheAntwort3>Stimmt für eine</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die ca. 4000 Federn einer Haustaube wiegen etwa</fragenText>
+            <richtigeAntwort>15 Gramm</richtigeAntwort>
+            <falscheAntwort1>30 Gramm</falscheAntwort1>
+            <falscheAntwort2>60 Gramm</falscheAntwort2>
+            <falscheAntwort3>120 Gramm</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der Mittelpunkt des Maulwurfbaues</fragenText>
+            <richtigeAntwort>Kessel</richtigeAntwort>
+            <falscheAntwort1>Topf</falscheAntwort1>
+            <falscheAntwort2>Pfanne</falscheAntwort2>
+            <falscheAntwort3>Krug</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Kein Frühblüher</fragenText>
+            <richtigeAntwort>Margerite</richtigeAntwort>
+            <falscheAntwort1>Schneeglöckchen</falscheAntwort1>
+            <falscheAntwort2>Krokus</falscheAntwort2>
+            <falscheAntwort3>Primel</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Diesem Fisch wäre es bei den anderen zu salzig</fragenText>
+            <richtigeAntwort>Regenbogenforelle</richtigeAntwort>
+            <falscheAntwort1>Hering</falscheAntwort1>
+            <falscheAntwort2>Dorsch</falscheAntwort2>
+            <falscheAntwort3>Flunder</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ein Jungtier ist in der falschen Familie</fragenText>
+            <richtigeAntwort>Geiß - Gössel</richtigeAntwort>
+            <falscheAntwort1>Hund - Welpe</falscheAntwort1>
+            <falscheAntwort2>Seehund - Heuler</falscheAntwort2>
+            <falscheAntwort3>Reh - Kitz</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Mauser</fragenText>
+            <richtigeAntwort>Federwechsel</richtigeAntwort>
+            <falscheAntwort1>Männliche Maus</falscheAntwort1>
+            <falscheAntwort2>Mäusefänger</falscheAntwort2>
+            <falscheAntwort3>Diebische Elster</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>2</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Engerling</fragenText>
+            <richtigeAntwort>Käferlarve</richtigeAntwort>
+            <falscheAntwort1>Schmetterlingslarve</falscheAntwort1>
+            <falscheAntwort2>Fliegenlarve</falscheAntwort2>
+            <falscheAntwort3>Ameisenlarve</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Trotz Name - ein Käfer</fragenText>
+            <richtigeAntwort>Glühwurm</richtigeAntwort>
+            <falscheAntwort1>Regenwurm</falscheAntwort1>
+            <falscheAntwort2>Bandwurm</falscheAntwort2>
+            <falscheAntwort3>Plattwurm</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zählen zu den Nagetieren Biber, Eichhörnchen, Hamster, Kaninchen</fragenText>
+            <richtigeAntwort>Stimmt für alle</richtigeAntwort>
+            <falscheAntwort1>Stimmt für drei</falscheAntwort1>
+            <falscheAntwort2>Stimmt für zwei</falscheAntwort2>
+            <falscheAntwort3>Stimmt für eins</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Kein Paarhufer</fragenText>
+            <richtigeAntwort>Pferd</richtigeAntwort>
+            <falscheAntwort1>Rind</falscheAntwort1>
+            <falscheAntwort2>Ziege</falscheAntwort2>
+            <falscheAntwort3>Schaf</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Kein Unpaarhufer</fragenText>
+            <richtigeAntwort>Nilpferd</richtigeAntwort>
+            <falscheAntwort1>Esel</falscheAntwort1>
+            <falscheAntwort2>Pferd</falscheAntwort2>
+            <falscheAntwort3>Zebra</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Auch noch Pflanzenname Löwenzahn, Eisenhut, Fingerhut, Ochsenzunge</fragenText>
+            <richtigeAntwort>Stimmt für alle</richtigeAntwort>
+            <falscheAntwort1>Stimmt für drei</falscheAntwort1>
+            <falscheAntwort2>Stimmt für zwei</falscheAntwort2>
+            <falscheAntwort3>Stimmt für eine</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Giftpilz</fragenText>
+            <richtigeAntwort>Knollenblätterpilz</richtigeAntwort>
+            <falscheAntwort1>Champignon</falscheAntwort1>
+            <falscheAntwort2>Pfifferling</falscheAntwort2>
+            <falscheAntwort3>Steinpilz</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviel Beinpaare hat eine Spinne?</fragenText>
+            <richtigeAntwort>vier</richtigeAntwort>
+            <falscheAntwort1>ein</falscheAntwort1>
+            <falscheAntwort2>zwei</falscheAntwort2>
+            <falscheAntwort3>drei</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Kein Süßwasserfisch</fragenText>
+            <richtigeAntwort>Thunfisch</richtigeAntwort>
+            <falscheAntwort1>Hecht</falscheAntwort1>
+            <falscheAntwort2>Regenbogenforelle</falscheAntwort2>
+            <falscheAntwort3>Zander</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Kein Beuteltier</fragenText>
+            <richtigeAntwort>Tapir</richtigeAntwort>
+            <falscheAntwort1>Koala</falscheAntwort1>
+            <falscheAntwort2>Känguruh</falscheAntwort2>
+            <falscheAntwort3>Wombat</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Pflanze hat nicht die passende Frucht?</fragenText>
+            <richtigeAntwort>Soja - Erbse</richtigeAntwort>
+            <falscheAntwort1>Buche - Ecker</falscheAntwort1>
+            <falscheAntwort2>Esskastanie - Marone</falscheAntwort2>
+            <falscheAntwort3>Eiche - Eichel</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Kamel hat im Höcker</fragenText>
+            <richtigeAntwort>Fett</richtigeAntwort>
+            <falscheAntwort1>Wasser</falscheAntwort1>
+            <falscheAntwort2>Junge</falscheAntwort2>
+            <falscheAntwort3>Navigationsorgan</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Begriffe: Auge, Achse, Knoten, Nadel findet man auch in der Pflanzenwelt wieder</fragenText>
+            <richtigeAntwort>Stimmt</richtigeAntwort>
+            <falscheAntwort1>Stimmt für drei</falscheAntwort1>
+            <falscheAntwort2>Stimmt für zwei</falscheAntwort2>
+            <falscheAntwort3>Stimmt für einen</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Am Ende des Pflanzengriffels steht</fragenText>
+            <richtigeAntwort>Narbe</richtigeAntwort>
+            <falscheAntwort1>Staubbeutel</falscheAntwort1>
+            <falscheAntwort2>Staubfaden</falscheAntwort2>
+            <falscheAntwort3>Fruchtknoten</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der in der Haut steckende Teil einer Vogelfeder</fragenText>
+            <richtigeAntwort>Spule</richtigeAntwort>
+            <falscheAntwort1>Schaft</falscheAntwort1>
+            <falscheAntwort2>Ast</falscheAntwort2>
+            <falscheAntwort3>Fahne</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Dieser Blütenstand kommt beim Löwenzahn vor</fragenText>
+            <richtigeAntwort>Körbchen</richtigeAntwort>
+            <falscheAntwort1>Dolde</falscheAntwort1>
+            <falscheAntwort2>Traube</falscheAntwort2>
+            <falscheAntwort3>Ähre</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Kein Geweihträger</fragenText>
+            <richtigeAntwort>Stier</richtigeAntwort>
+            <falscheAntwort1>Elch</falscheAntwort1>
+            <falscheAntwort2>Ren</falscheAntwort2>
+            <falscheAntwort3>Rothirsch</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Hat kein Insektenfressergebiss</fragenText>
+            <richtigeAntwort>Rötelmaus</richtigeAntwort>
+            <falscheAntwort1>Spitzmaus</falscheAntwort1>
+            <falscheAntwort2>Igel</falscheAntwort2>
+            <falscheAntwort3>Maulwurf</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Gleichzeitiges Vorsetzen der Beine auf einer Seite dann ebenso auf der anderen Seite</fragenText>
+            <richtigeAntwort>Paßgang</richtigeAntwort>
+            <falscheAntwort1>Galopp</falscheAntwort1>
+            <falscheAntwort2>Trab</falscheAntwort2>
+            <falscheAntwort3>Schritt</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ursprungsheimat der Wellensittiche</fragenText>
+            <richtigeAntwort>Australien</richtigeAntwort>
+            <falscheAntwort1>Südamerika</falscheAntwort1>
+            <falscheAntwort2>Asien</falscheAntwort2>
+            <falscheAntwort3>Europa</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Darmlänge eines Rindes</fragenText>
+            <richtigeAntwort>zwischen 50 u. 60 Meter</richtigeAntwort>
+            <falscheAntwort1>zwischen 40 u. 50 Meter</falscheAntwort1>
+            <falscheAntwort2>zwischen 30 u. 40 Meter</falscheAntwort2>
+            <falscheAntwort3>zwischen 20 u. 30 Meter</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Kein Federtier</fragenText>
+            <richtigeAntwort>Knurrhahn</richtigeAntwort>
+            <falscheAntwort1>Fasan</falscheAntwort1>
+            <falscheAntwort2>Auerhahn</falscheAntwort2>
+            <falscheAntwort3>Truthahn</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Trampeltier</fragenText>
+            <richtigeAntwort>Kamel mit zwei Höckern</richtigeAntwort>
+            <falscheAntwort1>Kamel mit einem Höcker</falscheAntwort1>
+            <falscheAntwort2>Kamel ohne Höcker</falscheAntwort2>
+            <falscheAntwort3>Kamel mit drei Höckern</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Legt keine Eier</fragenText>
+            <richtigeAntwort>Iltis</richtigeAntwort>
+            <falscheAntwort1>Schnabeligel</falscheAntwort1>
+            <falscheAntwort2>Sumpfschildkröte</falscheAntwort2>
+            <falscheAntwort3>Kreuzotter</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Nestbau von Schwalbenarten, welche Zuordnung stimmt?</fragenText>
+            <richtigeAntwort>Uferschwalbe - Neströhre im Flussufer</richtigeAntwort>
+            <falscheAntwort1>Mehlschalbe - Nest aus Mehl</falscheAntwort1>
+            <falscheAntwort2>Rauchschwalbe - Nest im Schornstein</falscheAntwort2>
+            <falscheAntwort3>Rötelschwalbe - Nest in Rotbuchen</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Gibt es nicht!</fragenText>
+            <richtigeAntwort>Kappesmeise</richtigeAntwort>
+            <falscheAntwort1>Haubenmeise</falscheAntwort1>
+            <falscheAntwort2>Blaumeise</falscheAntwort2>
+            <falscheAntwort3>Tannenmeise</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ist der größte Papagei</fragenText>
+            <richtigeAntwort>Hyazinthara</richtigeAntwort>
+            <falscheAntwort1>Gelbmantellori</falscheAntwort1>
+            <falscheAntwort2>Molukkenkakadu</falscheAntwort2>
+            <falscheAntwort3>Blaustirnamazone</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer gehört nicht zu den Lurchen?</fragenText>
+            <richtigeAntwort>Echsen</richtigeAntwort>
+            <falscheAntwort1>Kröten</falscheAntwort1>
+            <falscheAntwort2>Molche</falscheAntwort2>
+            <falscheAntwort3>Frösche</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>2</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Kann als einziger heimischer Vogel den Baum kopfunter laufen</fragenText>
+            <richtigeAntwort>Kleiber</richtigeAntwort>
+            <falscheAntwort1>Gartenbaumläufer</falscheAntwort1>
+            <falscheAntwort2>Waldbaumläufer</falscheAntwort2>
+            <falscheAntwort3>Mauerläufer</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>So heißt ein Vogel</fragenText>
+            <richtigeAntwort>Regenpfeifer</richtigeAntwort>
+            <falscheAntwort1>Sonnenpfeifer</falscheAntwort1>
+            <falscheAntwort2>Sturmpfeifer</falscheAntwort2>
+            <falscheAntwort3>Gewitterpfeifer</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Hermelin, Wiesel, Iltis, Dachs zählt man zu den Mardern</fragenText>
+            <richtigeAntwort>Stimmt für alle</richtigeAntwort>
+            <falscheAntwort1>Stimmt für drei</falscheAntwort1>
+            <falscheAntwort2>Stimmt für zwei</falscheAntwort2>
+            <falscheAntwort3>Stimmt für einen</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Schmerzlicher Stich zum Saugen bei</fragenText>
+            <richtigeAntwort>Mücke</richtigeAntwort>
+            <falscheAntwort1>Biene</falscheAntwort1>
+            <falscheAntwort2>Wespe</falscheAntwort2>
+            <falscheAntwort3>Hornisse</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Geschützte Hochgebirgsblume</fragenText>
+            <richtigeAntwort>Edelweiß</richtigeAntwort>
+            <falscheAntwort1>Edelgelb</falscheAntwort1>
+            <falscheAntwort2>Edelblau</falscheAntwort2>
+            <falscheAntwort3>Edelgrün</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Heidekrautpflanze</fragenText>
+            <richtigeAntwort>Erica</richtigeAntwort>
+            <falscheAntwort1>Irene</falscheAntwort1>
+            <falscheAntwort2>Helga</falscheAntwort2>
+            <falscheAntwort3>Heidi</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ein Alpenbock gehört zu den</fragenText>
+            <richtigeAntwort>Käfern</richtigeAntwort>
+            <falscheAntwort1>Ziegen</falscheAntwort1>
+            <falscheAntwort2>Schafen</falscheAntwort2>
+            <falscheAntwort3>Rindern</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Knabenkraut ist</fragenText>
+            <richtigeAntwort>Orchidee</richtigeAntwort>
+            <falscheAntwort1>junge Pflanze</falscheAntwort1>
+            <falscheAntwort2>männliche Pflanze</falscheAntwort2>
+            <falscheAntwort3>gibt es nicht</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Eine der Pflanzen ist nicht giftig</fragenText>
+            <richtigeAntwort>Kamille</richtigeAntwort>
+            <falscheAntwort1>Tollkirsche</falscheAntwort1>
+            <falscheAntwort2>Fingerhut</falscheAntwort2>
+            <falscheAntwort3>Eisenhut</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText/>
+            <richtigeAntwort>richtig</richtigeAntwort>
+            <falscheAntwort1>falsch</falscheAntwort1>
+            <falscheAntwort2>falsch</falscheAntwort2>
+            <falscheAntwort3>falsch</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>15</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Deutsch</fach>
+    <thema>Grammatik, Stand 11.04.01</thema>
+    <autor>Rolf Gräbener, 4/2001</autor>
+    <anzahlFragen>28</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>Das Wort „laufen“ ist ein ...</fragenText>
+            <richtigeAntwort>Verb</richtigeAntwort>
+            <falscheAntwort1>Nomen</falscheAntwort1>
+            <falscheAntwort2>Artikel</falscheAntwort2>
+            <falscheAntwort3>Adjektiv</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist kein Adjektiv?</fragenText>
+            <richtigeAntwort>schieben</richtigeAntwort>
+            <falscheAntwort1>schnell</falscheAntwort1>
+            <falscheAntwort2>schlecht</falscheAntwort2>
+            <falscheAntwort3>schlau</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist kein Satzglied?</fragenText>
+            <richtigeAntwort>Nomen</richtigeAntwort>
+            <falscheAntwort1>Subjekt</falscheAntwort1>
+            <falscheAntwort2>Prädikat</falscheAntwort2>
+            <falscheAntwort3>Attribut</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist keine Wortart?</fragenText>
+            <richtigeAntwort>Objekt</richtigeAntwort>
+            <falscheAntwort1>Artikel</falscheAntwort1>
+            <falscheAntwort2>Nomen</falscheAntwort2>
+            <falscheAntwort3>Verb</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die höchste Steigerungsform von Adjektiven?</fragenText>
+            <richtigeAntwort>Superlativ</richtigeAntwort>
+            <falscheAntwort1>Komparativ</falscheAntwort1>
+            <falscheAntwort2>Turbolativ</falscheAntwort2>
+            <falscheAntwort3>Maximativ</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Auf die Frage „wessen?“ steht der ...</fragenText>
+            <richtigeAntwort>Genitiv</richtigeAntwort>
+            <falscheAntwort1>Akkusativ</falscheAntwort1>
+            <falscheAntwort2>Nominativ</falscheAntwort2>
+            <falscheAntwort3>Dativ</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welcher Form steht das Wort „Hund“ im Dativ?</fragenText>
+            <richtigeAntwort>dem Hund</richtigeAntwort>
+            <falscheAntwort1>den Hund</falscheAntwort1>
+            <falscheAntwort2>des Hundes</falscheAntwort2>
+            <falscheAntwort3>der Hund</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Zeitform ist „ich habe gewonnen“?</fragenText>
+            <richtigeAntwort>Perfekt</richtigeAntwort>
+            <falscheAntwort1>Futur</falscheAntwort1>
+            <falscheAntwort2>Präteritum</falscheAntwort2>
+            <falscheAntwort3>Plusquamperfekt</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche dieser Formen steht im Plusquamperfekt?</fragenText>
+            <richtigeAntwort>ich hatte überlegt</richtigeAntwort>
+            <falscheAntwort1>ich werde überlegen</falscheAntwort1>
+            <falscheAntwort2>ich habe überlegt</falscheAntwort2>
+            <falscheAntwort3>ich überlegte</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Form steht im Genitiv Plural?</fragenText>
+            <richtigeAntwort>der Pferde</richtigeAntwort>
+            <falscheAntwort1>des Pferdes</falscheAntwort1>
+            <falscheAntwort2>den Pferden</falscheAntwort2>
+            <falscheAntwort3>die Pferde</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe ist ein Vokal?</fragenText>
+            <richtigeAntwort>o</richtigeAntwort>
+            <falscheAntwort1>b</falscheAntwort1>
+            <falscheAntwort2>ü</falscheAntwort2>
+            <falscheAntwort3>r</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Wort steht im Plural?</fragenText>
+            <richtigeAntwort>Stühle</richtigeAntwort>
+            <falscheAntwort1>Tisch</falscheAntwort1>
+            <falscheAntwort2>Tafel</falscheAntwort2>
+            <falscheAntwort3>Landkarte</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Auf die Frage „Wen oder was?“ antwortet der ...</fragenText>
+            <richtigeAntwort>Akkusativ</richtigeAntwort>
+            <falscheAntwort1>Nominativ</falscheAntwort1>
+            <falscheAntwort2>Genitiv</falscheAntwort2>
+            <falscheAntwort3>Dativ</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Das Wort „mein“ ist ein ...</fragenText>
+            <richtigeAntwort>Possessivpronomen</richtigeAntwort>
+            <falscheAntwort1>Artikel</falscheAntwort1>
+            <falscheAntwort2>Konsonant</falscheAntwort2>
+            <falscheAntwort3>Attribut</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Buchstaben a, e, i, o und u sind ...</fragenText>
+            <richtigeAntwort>Vokale</richtigeAntwort>
+            <falscheAntwort1>Konsonanten</falscheAntwort1>
+            <falscheAntwort2>Mitlaute</falscheAntwort2>
+            <falscheAntwort3>Superlative</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>„Du spieltest“ steht in welcher Zeitform?</fragenText>
+            <richtigeAntwort>Präteritum</richtigeAntwort>
+            <falscheAntwort1>Futur</falscheAntwort1>
+            <falscheAntwort2>Präsens</falscheAntwort2>
+            <falscheAntwort3>Perfekt</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das Subjekt in dem folgenden Satz? Bei dieser Frage überlege ich nicht lange.</fragenText>
+            <richtigeAntwort>ich</richtigeAntwort>
+            <falscheAntwort1>lange</falscheAntwort1>
+            <falscheAntwort2>Bei dieser Frage</falscheAntwort2>
+            <falscheAntwort3>überlege</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das Prädikat in dem folgenden Satz? Wir üben Grammatik am Computer.</fragenText>
+            <richtigeAntwort>üben</richtigeAntwort>
+            <falscheAntwort1>Wir</falscheAntwort1>
+            <falscheAntwort2>Grammatik</falscheAntwort2>
+            <falscheAntwort3>am Computer</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das Objekt in dem folgenden Satz? Oft übten wir diese Fragen im Deutschunterricht.</fragenText>
+            <richtigeAntwort>diese Fragen</richtigeAntwort>
+            <falscheAntwort1>Oft</falscheAntwort1>
+            <falscheAntwort2>übten</falscheAntwort2>
+            <falscheAntwort3>im Deutschunterricht</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Komparativ von „schön“?</fragenText>
+            <richtigeAntwort>schöner</richtigeAntwort>
+            <falscheAntwort1>am schönsten</falscheAntwort1>
+            <falscheAntwort2>wunderschön</falscheAntwort2>
+            <falscheAntwort3>schön</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist keine Wortart?</fragenText>
+            <richtigeAntwort>Attribut</richtigeAntwort>
+            <falscheAntwort1>Adjektiv</falscheAntwort1>
+            <falscheAntwort2>Verb</falscheAntwort2>
+            <falscheAntwort3>Nomen</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lautet die 2. Person Plural von „raten“ im Plusquamperfekt?</fragenText>
+            <richtigeAntwort>ihr hattet geraten</richtigeAntwort>
+            <falscheAntwort1>ihr habt geraten</falscheAntwort1>
+            <falscheAntwort2>du hast geraten</falscheAntwort2>
+            <falscheAntwort3>du hattest geraten</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lautet die Vergleichsform (schneller, weiter, ...) von Adjektiven?</fragenText>
+            <richtigeAntwort>Komparativ</richtigeAntwort>
+            <falscheAntwort1>Positiv</falscheAntwort1>
+            <falscheAntwort2>Superlativ</falscheAntwort2>
+            <falscheAntwort3>Negativ</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Wortarten können in unterschiedlichen Zeiten stehen?</fragenText>
+            <richtigeAntwort>Verben</richtigeAntwort>
+            <falscheAntwort1>Nomen</falscheAntwort1>
+            <falscheAntwort2>Adjektive</falscheAntwort2>
+            <falscheAntwort3>Artikel</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Zeitform wird in dem folgenden Satz verwendet? Bis jetzt wusste ich immer die richtige Antwort.</fragenText>
+            <richtigeAntwort>Präteritum</richtigeAntwort>
+            <falscheAntwort1>Präsens</falscheAntwort1>
+            <falscheAntwort2>Perfekt</falscheAntwort2>
+            <falscheAntwort3>Plusquamperfekt</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Satzglied ist das Wort „gute“ ist in dem folgenden Satz? Der gute Schüler weiß die richtige Antwort.</fragenText>
+            <richtigeAntwort>Attribut</richtigeAntwort>
+            <falscheAntwort1>Objekt</falscheAntwort1>
+            <falscheAntwort2>Adverbiale Bestimmung</falscheAntwort2>
+            <falscheAntwort3>Prädikat</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Das Wort „laufen“ ist ein?</fragenText>
+            <richtigeAntwort>Verb</richtigeAntwort>
+            <falscheAntwort1>Artikel</falscheAntwort1>
+            <falscheAntwort2>Adjektiv</falscheAntwort2>
+            <falscheAntwort3>Nomen</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist kein Satzglied?</fragenText>
+            <richtigeAntwort>Adjektiv</richtigeAntwort>
+            <falscheAntwort1>Attribut</falscheAntwort1>
+            <falscheAntwort2>Subjekt</falscheAntwort2>
+            <falscheAntwort3>Prädikat</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

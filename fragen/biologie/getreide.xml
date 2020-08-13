@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Biologie</fach>
+    <thema>Getreide</thema>
+    <autor>Anke Brauer 11/2002</autor>
+    <anzahlFragen>64</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>Welche Getreideart hat keine Ähren?</fragenText>
+            <richtigeAntwort>Hafer</richtigeAntwort>
+            <falscheAntwort1>Roggen</falscheAntwort1>
+            <falscheAntwort2>Gerste</falscheAntwort2>
+            <falscheAntwort3>Weizen</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Woraus wird Bier hergestellt?</fragenText>
+            <richtigeAntwort>aus Gerste</richtigeAntwort>
+            <falscheAntwort1>aus Weizen</falscheAntwort1>
+            <falscheAntwort2>aus Roggen</falscheAntwort2>
+            <falscheAntwort3>aus Hafer</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Woraus wird Popcorn hergestellt?</fragenText>
+            <richtigeAntwort>aus Mais</richtigeAntwort>
+            <falscheAntwort1>aus Gerste</falscheAntwort1>
+            <falscheAntwort2>aus Reis</falscheAntwort2>
+            <falscheAntwort3>aus Weizen</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Getreideart hat die längsten Grannen?</fragenText>
+            <richtigeAntwort>Gerste</richtigeAntwort>
+            <falscheAntwort1>Roggen</falscheAntwort1>
+            <falscheAntwort2>Hafer</falscheAntwort2>
+            <falscheAntwort3>Weizen</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Zutat ist beim Brötchen nicht so wichtig?</fragenText>
+            <richtigeAntwort>Eier</richtigeAntwort>
+            <falscheAntwort1>Hefe</falscheAntwort1>
+            <falscheAntwort2>Mehl</falscheAntwort2>
+            <falscheAntwort3>Salz</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Zutat braucht Brotteig zum Aufgehen?</fragenText>
+            <richtigeAntwort>Hefe</richtigeAntwort>
+            <falscheAntwort1>Wasser</falscheAntwort1>
+            <falscheAntwort2>Mehl</falscheAntwort2>
+            <falscheAntwort3>Salz</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was macht der Müller mit dem Getreide?</fragenText>
+            <richtigeAntwort>mahlen</richtigeAntwort>
+            <falscheAntwort1>verkaufen</falscheAntwort1>
+            <falscheAntwort2>backen</falscheAntwort2>
+            <falscheAntwort3>anbauen</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo arbeitet der Müller?</fragenText>
+            <richtigeAntwort>Mühle</richtigeAntwort>
+            <falscheAntwort1>Supermarkt</falscheAntwort1>
+            <falscheAntwort2>Bäckerei</falscheAntwort2>
+            <falscheAntwort3>Bauernhof</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Getreidekorn ist am dunkelsten?</fragenText>
+            <richtigeAntwort>Roggen</richtigeAntwort>
+            <falscheAntwort1>Gerste</falscheAntwort1>
+            <falscheAntwort2>Hafer</falscheAntwort2>
+            <falscheAntwort3>Weizen</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie entstehen Getreideflocken?</fragenText>
+            <richtigeAntwort>zerdrücken von Getreide</richtigeAntwort>
+            <falscheAntwort1>zermahlen von Gereide</falscheAntwort1>
+            <falscheAntwort2>backen von Getreide</falscheAntwort2>
+            <falscheAntwort3>kochen von Getreide</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus welchem Getreide werden Nudeln hergestellt?</fragenText>
+            <richtigeAntwort>Weizen</richtigeAntwort>
+            <falscheAntwort1>Mais</falscheAntwort1>
+            <falscheAntwort2>Roggen</falscheAntwort2>
+            <falscheAntwort3>Gerste</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist keine Getreideart?</fragenText>
+            <richtigeAntwort>Erbsen</richtigeAntwort>
+            <falscheAntwort1>Mais</falscheAntwort1>
+            <falscheAntwort2>Reis</falscheAntwort2>
+            <falscheAntwort3>Hirse</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus welchem Mehl werden normale Brötchen hergestellt?</fragenText>
+            <richtigeAntwort>Weizenmehl</richtigeAntwort>
+            <falscheAntwort1>Maismehl</falscheAntwort1>
+            <falscheAntwort2>Kartoffelmehl</falscheAntwort2>
+            <falscheAntwort3>Roggenmehl</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Zutat ist wichtig für den Geschmack der Brötchen?</fragenText>
+            <richtigeAntwort>Salz</richtigeAntwort>
+            <falscheAntwort1>Hefe</falscheAntwort1>
+            <falscheAntwort2>Wasser</falscheAntwort2>
+            <falscheAntwort3>Mehl</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Bei wieviel Grad backen Brötchen?</fragenText>
+            <richtigeAntwort>250 Grad</richtigeAntwort>
+            <falscheAntwort1>300 Grad</falscheAntwort1>
+            <falscheAntwort2>150 Grad</falscheAntwort2>
+            <falscheAntwort3>100 Grad</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Getreide wird in China am meisten gegessen?</fragenText>
+            <richtigeAntwort>Reis</richtigeAntwort>
+            <falscheAntwort1>Mais</falscheAntwort1>
+            <falscheAntwort2>Gerste</falscheAntwort2>
+            <falscheAntwort3>Roggen</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Getreide wird in Afrika am meisten gegessen?</fragenText>
+            <richtigeAntwort>Hirse</richtigeAntwort>
+            <falscheAntwort1>Weizen</falscheAntwort1>
+            <falscheAntwort2>Reis</falscheAntwort2>
+            <falscheAntwort3>Gerste</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Getreide wird in Europa meistens angebaut?</fragenText>
+            <richtigeAntwort>Weizen</richtigeAntwort>
+            <falscheAntwort1>Roggen</falscheAntwort1>
+            <falscheAntwort2>Hirse</falscheAntwort2>
+            <falscheAntwort3>Reis</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Getreide verwendet man für Cornflakes?</fragenText>
+            <richtigeAntwort>Mais</richtigeAntwort>
+            <falscheAntwort1>Reis</falscheAntwort1>
+            <falscheAntwort2>Roggen</falscheAntwort2>
+            <falscheAntwort3>Weizen</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Maschine wird zur Getreideernte eingesetzt?</fragenText>
+            <richtigeAntwort>Mähdrescher</richtigeAntwort>
+            <falscheAntwort1>Egge</falscheAntwort1>
+            <falscheAntwort2>Pflug</falscheAntwort2>
+            <falscheAntwort3>Traktor</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Maschine zerkleinert die Erdklumpen?</fragenText>
+            <richtigeAntwort>Egge</richtigeAntwort>
+            <falscheAntwort1>Traktor</falscheAntwort1>
+            <falscheAntwort2>Mähdrescher</falscheAntwort2>
+            <falscheAntwort3>Mühle</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch können Maispflanzen werden?</fragenText>
+            <richtigeAntwort>bis 2,50m</richtigeAntwort>
+            <falscheAntwort1>bis 1,50m</falscheAntwort1>
+            <falscheAntwort2>bis 1m</falscheAntwort2>
+            <falscheAntwort3>bis 4m</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Land wurde das erste Brot gebacken?</fragenText>
+            <richtigeAntwort>in Ägypten</richtigeAntwort>
+            <falscheAntwort1>in Deutschland</falscheAntwort1>
+            <falscheAntwort2>in England</falscheAntwort2>
+            <falscheAntwort3>in China</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviel Mehl brauchst du für eine Scheibe Brot? (1000 Gramm sind 1 Kilogramm)</fragenText>
+            <richtigeAntwort>30 Gramm</richtigeAntwort>
+            <falscheAntwort1>500 Gramm</falscheAntwort1>
+            <falscheAntwort2>1000 Gramm</falscheAntwort2>
+            <falscheAntwort3>200 Gramm</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nannt man die dünnen Haare an den Ähren?</fragenText>
+            <richtigeAntwort>Grannen</richtigeAntwort>
+            <falscheAntwort1>Schwänze</falscheAntwort1>
+            <falscheAntwort2>Fell</falscheAntwort2>
+            <falscheAntwort3>Borsten</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist eine Getreideart?</fragenText>
+            <richtigeAntwort>Reis</richtigeAntwort>
+            <falscheAntwort1>Erbsen</falscheAntwort1>
+            <falscheAntwort2>Bohnen</falscheAntwort2>
+            <falscheAntwort3>Kartoffeln</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was tut der Bäcker nicht?</fragenText>
+            <richtigeAntwort>mahlen</richtigeAntwort>
+            <falscheAntwort1>verkaufen</falscheAntwort1>
+            <falscheAntwort2>backen</falscheAntwort2>
+            <falscheAntwort3>kneten</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt gemahlenes Getreide?</fragenText>
+            <richtigeAntwort>Mehl</richtigeAntwort>
+            <falscheAntwort1>Puder</falscheAntwort1>
+            <falscheAntwort2>Flocken</falscheAntwort2>
+            <falscheAntwort3>Brot</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In Kuchenteig kommt oft keine Hefe. Was sorgt hier dafür, dass der Teig aufgeht?</fragenText>
+            <richtigeAntwort>Backpulver</richtigeAntwort>
+            <falscheAntwort1>Zucker</falscheAntwort1>
+            <falscheAntwort2>Eier</falscheAntwort2>
+            <falscheAntwort3>Butter</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viel wiegt das Mehl aus 1 Kilogramm Getreide? (1000 Gramm sind 1 Kilogramm)</fragenText>
+            <richtigeAntwort>1 Kilogramm</richtigeAntwort>
+            <falscheAntwort1>500 Gramm</falscheAntwort1>
+            <falscheAntwort2>2 Kilogramm</falscheAntwort2>
+            <falscheAntwort3>750 Gramm</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Getreide dreschen bedeutet....</fragenText>
+            <richtigeAntwort>Körner aus den Ähren holen</richtigeAntwort>
+            <falscheAntwort1>Getreide mähen</falscheAntwort1>
+            <falscheAntwort2>Getreide säen</falscheAntwort2>
+            <falscheAntwort3>Körner zu Mehl mahlen</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Farbe haben reife Getreidepflanzen?</fragenText>
+            <richtigeAntwort>gelb</richtigeAntwort>
+            <falscheAntwort1>braun</falscheAntwort1>
+            <falscheAntwort2>weiß</falscheAntwort2>
+            <falscheAntwort3>grün</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Tier hat früher beim Getreideanbau geholfen?</fragenText>
+            <richtigeAntwort>Pferd</richtigeAntwort>
+            <falscheAntwort1>Schwein</falscheAntwort1>
+            <falscheAntwort2>Huhn</falscheAntwort2>
+            <falscheAntwort3>Milchkuh</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was braucht Getreide nicht zum Wachsen?</fragenText>
+            <richtigeAntwort>Hagel</richtigeAntwort>
+            <falscheAntwort1>Sonne</falscheAntwort1>
+            <falscheAntwort2>Regen</falscheAntwort2>
+            <falscheAntwort3>Erde</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Seit wann backen die Menschen bei uns Brot?</fragenText>
+            <richtigeAntwort>seit 3000 Jahren</richtigeAntwort>
+            <falscheAntwort1>seit 200 Jahren</falscheAntwort1>
+            <falscheAntwort2>seit 50 Jahren</falscheAntwort2>
+            <falscheAntwort3>seit 2000 Jahren</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was gehört nicht zur Getreidepflanze?</fragenText>
+            <richtigeAntwort>Stamm</richtigeAntwort>
+            <falscheAntwort1>Halm</falscheAntwort1>
+            <falscheAntwort2>Granne</falscheAntwort2>
+            <falscheAntwort3>Blatt</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Getreideart hat die längsten Ähren?</fragenText>
+            <richtigeAntwort>Gerste</richtigeAntwort>
+            <falscheAntwort1>Roggen</falscheAntwort1>
+            <falscheAntwort2>Hafer</falscheAntwort2>
+            <falscheAntwort3>Weizen</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Woraus werden Cornflakes hergestellt?</fragenText>
+            <richtigeAntwort>aus Mais</richtigeAntwort>
+            <falscheAntwort1>aus Weizen</falscheAntwort1>
+            <falscheAntwort2>aus Roggen</falscheAntwort2>
+            <falscheAntwort3>aus Hafer</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wormit wird Popcorn nicht hergestellt?</fragenText>
+            <richtigeAntwort>mit Hafer</richtigeAntwort>
+            <falscheAntwort1>mit Mais</falscheAntwort1>
+            <falscheAntwort2>mit Öl</falscheAntwort2>
+            <falscheAntwort3>mit Salz</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Getreideart hat ganz kurze Grannen?</fragenText>
+            <richtigeAntwort>Weizen</richtigeAntwort>
+            <falscheAntwort1>Roggen</falscheAntwort1>
+            <falscheAntwort2>Gerste</falscheAntwort2>
+            <falscheAntwort3>Hafer</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches ist die hauptsächliche Zutat beim Brötchenteig?</fragenText>
+            <richtigeAntwort>Eier</richtigeAntwort>
+            <falscheAntwort1>Hefe</falscheAntwort1>
+            <falscheAntwort2>Mehl</falscheAntwort2>
+            <falscheAntwort3>Salz</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Womit kann Brot außer Hefe noch aufgehen?</fragenText>
+            <richtigeAntwort>Sauerteig</richtigeAntwort>
+            <falscheAntwort1>Wasser</falscheAntwort1>
+            <falscheAntwort2>Mehl</falscheAntwort2>
+            <falscheAntwort3>Salz</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was sit keine Getreideart?</fragenText>
+            <richtigeAntwort>Nüsse</richtigeAntwort>
+            <falscheAntwort1>Hirse</falscheAntwort1>
+            <falscheAntwort2>Weizen</falscheAntwort2>
+            <falscheAntwort3>Reis</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo arbeitet der Bäcker?</fragenText>
+            <richtigeAntwort>Backstube</richtigeAntwort>
+            <falscheAntwort1>Supermarkt</falscheAntwort1>
+            <falscheAntwort2>Bäckerei</falscheAntwort2>
+            <falscheAntwort3>Bauernhof</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Getreidekorn ist am größten?</fragenText>
+            <richtigeAntwort>Mais</richtigeAntwort>
+            <falscheAntwort1>Gerste</falscheAntwort1>
+            <falscheAntwort2>Hirse</falscheAntwort2>
+            <falscheAntwort3>Weizen</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Getreideerzeugnis im Müsli?</fragenText>
+            <richtigeAntwort>Flocken</richtigeAntwort>
+            <falscheAntwort1>Mehl</falscheAntwort1>
+            <falscheAntwort2>Schrot</falscheAntwort2>
+            <falscheAntwort3>Nüsse</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus welchem Getreide wird Pizza hergestellt?</fragenText>
+            <richtigeAntwort>Weizen</richtigeAntwort>
+            <falscheAntwort1>Mais</falscheAntwort1>
+            <falscheAntwort2>Roggen</falscheAntwort2>
+            <falscheAntwort3>Gerste</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist keine Getreideart?</fragenText>
+            <richtigeAntwort>Bohnen</richtigeAntwort>
+            <falscheAntwort1>Mais</falscheAntwort1>
+            <falscheAntwort2>Reis</falscheAntwort2>
+            <falscheAntwort3>Hirse</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus welchem Mehl wird Sauerteigbrot hergestellt?</fragenText>
+            <richtigeAntwort>Roggenmehl</richtigeAntwort>
+            <falscheAntwort1>Maismehl</falscheAntwort1>
+            <falscheAntwort2>Kartoffelmehl</falscheAntwort2>
+            <falscheAntwort3>Gerstenmehl</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Zutat gehört nicht in normale Brötchen?</fragenText>
+            <richtigeAntwort>Zucker</richtigeAntwort>
+            <falscheAntwort1>Hefe</falscheAntwort1>
+            <falscheAntwort2>Salz</falscheAntwort2>
+            <falscheAntwort3>Mehl</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Bei welcher Temperatur geht Hefeteig auf?</fragenText>
+            <richtigeAntwort>bei Zimmertemperatur</richtigeAntwort>
+            <falscheAntwort1>bei Frost</falscheAntwort1>
+            <falscheAntwort2>bei 250 Grad</falscheAntwort2>
+            <falscheAntwort3>100 Grad</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Hetreide wird in Nordamerika meistens angebaut?</fragenText>
+            <richtigeAntwort>Weizen</richtigeAntwort>
+            <falscheAntwort1>Roggen</falscheAntwort1>
+            <falscheAntwort2>Hirse</falscheAntwort2>
+            <falscheAntwort3>Reis</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Getreide verwendet meistens für Müsliflocken?</fragenText>
+            <richtigeAntwort>Hafer</richtigeAntwort>
+            <falscheAntwort1>Reis</falscheAntwort1>
+            <falscheAntwort2>Roggen</falscheAntwort2>
+            <falscheAntwort3>Weizen</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Maschine trennt das Korn von der Getreidepflanze?</fragenText>
+            <richtigeAntwort>Mähdrescher</richtigeAntwort>
+            <falscheAntwort1>Egge</falscheAntwort1>
+            <falscheAntwort2>Pflug</falscheAntwort2>
+            <falscheAntwort3>Traktor</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Maschine bearbeitet die Erde?</fragenText>
+            <richtigeAntwort>Pflug</richtigeAntwort>
+            <falscheAntwort1>Traktor</falscheAntwort1>
+            <falscheAntwort2>Mähdrescher</falscheAntwort2>
+            <falscheAntwort3>Mühle</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus welchem Land kommt das Popcorn?</fragenText>
+            <richtigeAntwort>aus Amerika</richtigeAntwort>
+            <falscheAntwort1>aus Deutschland</falscheAntwort1>
+            <falscheAntwort2>aus England</falscheAntwort2>
+            <falscheAntwort3>aus China</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviel Getreidekörner brauchst du für 100 Gramm Mehl? (1000 Gramm sind 1 Kilogramm)</fragenText>
+            <richtigeAntwort>100 Gramm</richtigeAntwort>
+            <falscheAntwort1>500 Gramm</falscheAntwort1>
+            <falscheAntwort2>1 Kilogramm</falscheAntwort2>
+            <falscheAntwort3>200 Gramm</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist eine Getreideart?</fragenText>
+            <richtigeAntwort>Hirse</richtigeAntwort>
+            <falscheAntwort1>Erbsen</falscheAntwort1>
+            <falscheAntwort2>Bohnen</falscheAntwort2>
+            <falscheAntwort3>Kartoffeln</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was tut der Bauer nicht?</fragenText>
+            <richtigeAntwort>mahlen</richtigeAntwort>
+            <falscheAntwort1>pflügen</falscheAntwort1>
+            <falscheAntwort2>mähen</falscheAntwort2>
+            <falscheAntwort3>dreschen</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viel wiegt das Mehl aus 1 Kilogramm Getreide? (1000 Gramm sind 1 Kilogramm)</fragenText>
+            <richtigeAntwort>1 Kilogramm</richtigeAntwort>
+            <falscheAntwort1>500 Gramm</falscheAntwort1>
+            <falscheAntwort2>2 Kilogramm</falscheAntwort2>
+            <falscheAntwort3>750 Gramm</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Eggen bedeutet....</fragenText>
+            <richtigeAntwort>Erdklumpen zerkleinern</richtigeAntwort>
+            <falscheAntwort1>Getreide mähen</falscheAntwort1>
+            <falscheAntwort2>Getreide säen</falscheAntwort2>
+            <falscheAntwort3>Körner aus der Pflanze lösen</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Farbe haben unreife Getreidepflanzen?</fragenText>
+            <richtigeAntwort>grün</richtigeAntwort>
+            <falscheAntwort1>braun</falscheAntwort1>
+            <falscheAntwort2>weiß</falscheAntwort2>
+            <falscheAntwort3>gelb</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was gehört nicht zur Getreidepflanze?</fragenText>
+            <richtigeAntwort>Nadel</richtigeAntwort>
+            <falscheAntwort1>Halm</falscheAntwort1>
+            <falscheAntwort2>Granne</falscheAntwort2>
+            <falscheAntwort3>Blatt</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist eine Getreideart?</fragenText>
+            <richtigeAntwort>Dinkel</richtigeAntwort>
+            <falscheAntwort1>Erbsen</falscheAntwort1>
+            <falscheAntwort2>Bohnen</falscheAntwort2>
+            <falscheAntwort3>Kartoffeln</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

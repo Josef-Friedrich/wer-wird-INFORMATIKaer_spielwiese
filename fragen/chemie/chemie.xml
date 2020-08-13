@@ -1,0 +1,1469 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Chemie</fach>
+    <thema>Chemie</thema>
+    <autor/>
+    <anzahlFragen>146</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>#Definitionen</fragenText>
+            <richtigeAntwort>richtig</richtigeAntwort>
+            <falscheAntwort1>falsch</falscheAntwort1>
+            <falscheAntwort2>falsch</falscheAntwort2>
+            <falscheAntwort3>falsch</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>15</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Woran kann ein Chemiker einen Stoff erkennen?</fragenText>
+            <richtigeAntwort>an seinen Eigenschaften</richtigeAntwort>
+            <falscheAntwort1>an der Verpackung</falscheAntwort1>
+            <falscheAntwort2>Es steht doch drauf!</falscheAntwort2>
+            <falscheAntwort3>Das lernen Chemiker.</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Dieses Laborgerät gibt es:</fragenText>
+            <richtigeAntwort>Erlenmeyerkolben</richtigeAntwort>
+            <falscheAntwort1>Buchenmeyerkolben</falscheAntwort1>
+            <falscheAntwort2>Fichtenmeyerkolben</falscheAntwort2>
+            <falscheAntwort3>Eichenmeyerkolben</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welcher Tabelle stehen alle chemischen Grundstoffe?</fragenText>
+            <richtigeAntwort>Periodensystem der Elemente</richtigeAntwort>
+            <falscheAntwort1>Strafmaßnahmen bei Verstößen im Straßenverkehr</falscheAntwort1>
+            <falscheAntwort2>Umrechnungstabelle Euro - US-Dollar</falscheAntwort2>
+            <falscheAntwort3>physiologische Wirkung des Alkohols</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ein Reinstoff ist</fragenText>
+            <richtigeAntwort>ein Stoff, der sich nur auf chemischen Wege trennen lässt.</richtigeAntwort>
+            <falscheAntwort1>ein Reinigungsmittel.</falscheAntwort1>
+            <falscheAntwort2>ein Element, das in flüssigem Zustand farblos ist.</falscheAntwort2>
+            <falscheAntwort3>ein Kristall.</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>2</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wichtig für die Sicherheit im Labor:</fragenText>
+            <richtigeAntwort>Schutzbrille</richtigeAntwort>
+            <falscheAntwort1>Kugelschreiber</falscheAntwort1>
+            <falscheAntwort2>Arbeitsheft</falscheAntwort2>
+            <falscheAntwort3>Becherglas</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Häufigstes Element in der Natur:</fragenText>
+            <richtigeAntwort>Kohlenstoff</richtigeAntwort>
+            <falscheAntwort1>Gold</falscheAntwort1>
+            <falscheAntwort2>Platin</falscheAntwort2>
+            <falscheAntwort3>Uran</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wichtige Stoffklasse, von der man aber nur eine bestimmte Verbindung zu sich nehmen sollte:</fragenText>
+            <richtigeAntwort>Alkohol</richtigeAntwort>
+            <falscheAntwort1>Metall</falscheAntwort1>
+            <falscheAntwort2>Feststoff</falscheAntwort2>
+            <falscheAntwort3>Säure</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Gasgemisch aus Stickstoff, Sauerstoff und anderen Gasen:</fragenText>
+            <richtigeAntwort>Luft</richtigeAntwort>
+            <falscheAntwort1>Erdgas</falscheAntwort1>
+            <falscheAntwort2>Edelgas</falscheAntwort2>
+            <falscheAntwort3>Sumpfgas</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man den Übergang von gasförmig zu flüssig?</fragenText>
+            <richtigeAntwort>Kondensation</richtigeAntwort>
+            <falscheAntwort1>Komplikation</falscheAntwort1>
+            <falscheAntwort2>Kommunion</falscheAntwort2>
+            <falscheAntwort3>Konfrontation</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Element ist für eine Verbrennung notwendig?</fragenText>
+            <richtigeAntwort>Sauerstoff</richtigeAntwort>
+            <falscheAntwort1>Stickstoff</falscheAntwort1>
+            <falscheAntwort2>Wasserstoff</falscheAntwort2>
+            <falscheAntwort3>Kohlenstoffdioxid</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>2</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Woran kann man Zucker und Salz unterscheiden?</fragenText>
+            <richtigeAntwort>am Geschmack</richtigeAntwort>
+            <falscheAntwort1>am Geruch</falscheAntwort1>
+            <falscheAntwort2>an der Farbe</falscheAntwort2>
+            <falscheAntwort3>am Aussehen</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>2</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Farbe hat Schwefel?</fragenText>
+            <richtigeAntwort>gelb</richtigeAntwort>
+            <falscheAntwort1>blau</falscheAntwort1>
+            <falscheAntwort2>grün</falscheAntwort2>
+            <falscheAntwort3>weiß</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie erhält man Salz aus Salzwasser?</fragenText>
+            <richtigeAntwort>eindampfen</richtigeAntwort>
+            <falscheAntwort1>sieben</falscheAntwort1>
+            <falscheAntwort2>weggießen</falscheAntwort2>
+            <falscheAntwort3>es bitten, daraus zu kommen</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>2</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was sind chemische Stoffe?</fragenText>
+            <richtigeAntwort>alle Stoffe, die es gibt.</richtigeAntwort>
+            <falscheAntwort1>alle Stoffe, die man im Labor finden kann</falscheAntwort1>
+            <falscheAntwort2>alle Säuren</falscheAntwort2>
+            <falscheAntwort3>alle ätzenden Stoffe</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Berechnet sich aus Masse / Volumen:</fragenText>
+            <richtigeAntwort>Dichte</richtigeAntwort>
+            <falscheAntwort1>Temperatur</falscheAntwort1>
+            <falscheAntwort2>Farbe</falscheAntwort2>
+            <falscheAntwort3>Aggregatzustand</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>2</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer hat den Gasbrenner erfunden?</fragenText>
+            <richtigeAntwort>Bunsen</richtigeAntwort>
+            <falscheAntwort1>Döbereiner</falscheAntwort1>
+            <falscheAntwort2>Meyer</falscheAntwort2>
+            <falscheAntwort3>Wöhler</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das dünne Glasgerät, in dem man häufig Reaktionen durchführt?</fragenText>
+            <richtigeAntwort>Reagenzglas</richtigeAntwort>
+            <falscheAntwort1>Bierglas</falscheAntwort1>
+            <falscheAntwort2>Fensterglas</falscheAntwort2>
+            <falscheAntwort3>Kristallglas</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>2</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>„Fe“ ist das Zeichen für</fragenText>
+            <richtigeAntwort>Eisen</richtigeAntwort>
+            <falscheAntwort1>Feuer</falscheAntwort1>
+            <falscheAntwort2>Fehler</falscheAntwort2>
+            <falscheAntwort3>Metall</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>2</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Aggregatzustand hat Wasserstoff bei Raumtemperatur?</fragenText>
+            <richtigeAntwort>gasförmig</richtigeAntwort>
+            <falscheAntwort1>flüssig</falscheAntwort1>
+            <falscheAntwort2>fest</falscheAntwort2>
+            <falscheAntwort3>gar keinen</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Gefriert man eine bestimmte Wassermenge, verhält sich das Volumen so:</fragenText>
+            <richtigeAntwort>Es vergrößert sich.</richtigeAntwort>
+            <falscheAntwort1>Es verringert sich.</falscheAntwort1>
+            <falscheAntwort2>Es bleibt gleich.</falscheAntwort2>
+            <falscheAntwort3>Es verschwindet ganz.</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher dieser Stoffe hat das größte spezifische Gewicht?</fragenText>
+            <richtigeAntwort>Blei</richtigeAntwort>
+            <falscheAntwort1>Aluminium</falscheAntwort1>
+            <falscheAntwort2>Wasser</falscheAntwort2>
+            <falscheAntwort3>Luft</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das Reaktionsprodukt aus Kupfer und Schwefel?</fragenText>
+            <richtigeAntwort>Kupfersulfid</richtigeAntwort>
+            <falscheAntwort1>Kupferoxid</falscheAntwort1>
+            <falscheAntwort2>Schwefeloxid</falscheAntwort2>
+            <falscheAntwort3>Kupfersulfat</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist keine chemische Reaktion?</fragenText>
+            <richtigeAntwort>Mischen von Cola und Fanta</richtigeAntwort>
+            <falscheAntwort1>Auslösen einer Brausetablette</falscheAntwort1>
+            <falscheAntwort2>Löschen von Tinte mit einem Tintenkiller</falscheAntwort2>
+            <falscheAntwort3>Backen eines Kuchens</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist eine chemische Reaktion?</fragenText>
+            <richtigeAntwort>Verdauung</richtigeAntwort>
+            <falscheAntwort1>Farbanstrich eines Hauses</falscheAntwort1>
+            <falscheAntwort2>Mischen von Sand und Mörtel</falscheAntwort2>
+            <falscheAntwort3>Anrühren von Kuchenteig</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist Stickstoff nicht?</fragenText>
+            <richtigeAntwort>explosiv</richtigeAntwort>
+            <falscheAntwort1>gasförmig</falscheAntwort1>
+            <falscheAntwort2>farblos</falscheAntwort2>
+            <falscheAntwort3>geschmacklos</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Eigenschaft trifft auf Kupfer zu?</fragenText>
+            <richtigeAntwort>leitet den elektrischen Strom</richtigeAntwort>
+            <falscheAntwort1>silber glänzend</falscheAntwort1>
+            <falscheAntwort2>kann nicht oxidieren</falscheAntwort2>
+            <falscheAntwort3>niedriger Schmelzpunkt</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Setzt man Gas unter Druck,</fragenText>
+            <richtigeAntwort>verringert sich sein Volumen.</richtigeAntwort>
+            <falscheAntwort1>erhöht sich sein Volumen.</falscheAntwort1>
+            <falscheAntwort2>explodiert es.</falscheAntwort2>
+            <falscheAntwort3>kühlt es ab.</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Kein Trennverfahren</fragenText>
+            <richtigeAntwort>Rühren</richtigeAntwort>
+            <falscheAntwort1>Filtern</falscheAntwort1>
+            <falscheAntwort2>Destillieren</falscheAntwort2>
+            <falscheAntwort3>Dekantieren</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Trennverfahren</fragenText>
+            <richtigeAntwort>Sieben</richtigeAntwort>
+            <falscheAntwort1>Kochen</falscheAntwort1>
+            <falscheAntwort2>Schütteln</falscheAntwort2>
+            <falscheAntwort3>Rühren</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Synthese zweier Stoffe ist</fragenText>
+            <richtigeAntwort>die chemische Reaktion zweier Stoffe zu einem neuen Stoff</richtigeAntwort>
+            <falscheAntwort1>das Aufbewahren zweier Stoffe in einem Behälter</falscheAntwort1>
+            <falscheAntwort2>das Mischen zweier Stoffe</falscheAntwort2>
+            <falscheAntwort3>die qualitative Untersuchung zweier Stoffe</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welche beiden Arten lassen sich alle Gemische einteilen?</fragenText>
+            <richtigeAntwort>homogen und heterogen</richtigeAntwort>
+            <falscheAntwort1>homophob und heterophop</falscheAntwort1>
+            <falscheAntwort2>hydrophop und hydrophil</falscheAntwort2>
+            <falscheAntwort3>elektrophile und nukleophil</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man den direkten Übergang eines Feststoffes zu Gas?</fragenText>
+            <richtigeAntwort>Sublimation</richtigeAntwort>
+            <falscheAntwort1>Resublimation</falscheAntwort1>
+            <falscheAntwort2>Kontraktion</falscheAntwort2>
+            <falscheAntwort3>Rekontraktion</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Trennung von Alkohol und Wasser aus Wein?</fragenText>
+            <richtigeAntwort>Destillation</richtigeAntwort>
+            <falscheAntwort1>Sieben</falscheAntwort1>
+            <falscheAntwort2>Magnetisierung</falscheAntwort2>
+            <falscheAntwort3>Erhitzen</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was passt hier nicht rein?</fragenText>
+            <richtigeAntwort>Feuer</richtigeAntwort>
+            <falscheAntwort1>Erde</falscheAntwort1>
+            <falscheAntwort2>Wasser</falscheAntwort2>
+            <falscheAntwort3>Luft</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die chemische Zersetzung einer Verbindung nennt man</fragenText>
+            <richtigeAntwort>Analyse</richtigeAntwort>
+            <falscheAntwort1>Synthese</falscheAntwort1>
+            <falscheAntwort2>Katalyse</falscheAntwort2>
+            <falscheAntwort3>Hydrierung</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wasserstoffoxid ist der systematische Name für</fragenText>
+            <richtigeAntwort>Wasser</richtigeAntwort>
+            <falscheAntwort1>Luft</falscheAntwort1>
+            <falscheAntwort2>NH3</falscheAntwort2>
+            <falscheAntwort3>H2</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Für welches Element steht der Buchstabe „C“?</fragenText>
+            <richtigeAntwort>Kohlenstoff</richtigeAntwort>
+            <falscheAntwort1>Calcium</falscheAntwort1>
+            <falscheAntwort2>Eisen</falscheAntwort2>
+            <falscheAntwort3>Wasser</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wofür steht das Gefahrstoffzeichen C?</fragenText>
+            <richtigeAntwort>ätzend</richtigeAntwort>
+            <falscheAntwort1>giftig</falscheAntwort1>
+            <falscheAntwort2>brennbar</falscheAntwort2>
+            <falscheAntwort3>umweltgefährlich</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Masse der Ausgangsstoffe ist gegenüber der Masse der Endstoffe</fragenText>
+            <richtigeAntwort>genauso groß</richtigeAntwort>
+            <falscheAntwort1>halb so groß</falscheAntwort1>
+            <falscheAntwort2>doppelt so groß</falscheAntwort2>
+            <falscheAntwort3>nicht bestimmbar</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Energie, die nötig ist, um eine Reaktion zu starten?</fragenText>
+            <richtigeAntwort>Aktivierungsenergie</richtigeAntwort>
+            <falscheAntwort1>Startenergie</falscheAntwort1>
+            <falscheAntwort2>Kernenergie</falscheAntwort2>
+            <falscheAntwort3>Lösungsenergie</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Vorgang, bei dem sich ein Gas im Raum ausbreitet?</fragenText>
+            <richtigeAntwort>Diffusion</richtigeAntwort>
+            <falscheAntwort1>Konfusion</falscheAntwort1>
+            <falscheAntwort2>Sublimation</falscheAntwort2>
+            <falscheAntwort3>Ionisierung</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie verhält sich die Masse, wenn man Eisenwolle verbrennt?</fragenText>
+            <richtigeAntwort>Sie wird größer.</richtigeAntwort>
+            <falscheAntwort1>Sie wird kleiner.</falscheAntwort1>
+            <falscheAntwort2>Sie bleibt gleich.</falscheAntwort2>
+            <falscheAntwort3>Sie wird genau doppelt so groß.</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Bei Zimmertemperatur flüssig</fragenText>
+            <richtigeAntwort>Quecksilber</richtigeAntwort>
+            <falscheAntwort1>Kerzenwachs</falscheAntwort1>
+            <falscheAntwort2>Zinn</falscheAntwort2>
+            <falscheAntwort3>Blei</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Eisensulfat entsteht bei der Reaktion von</fragenText>
+            <richtigeAntwort>Eisen und Schefelsäure</richtigeAntwort>
+            <falscheAntwort1>Eisen und Schwefel</falscheAntwort1>
+            <falscheAntwort2>Eisen und Salzsäure</falscheAntwort2>
+            <falscheAntwort3>Eisen und Salpetersäure</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Eisensulfid entsteht bei der Reaktion von</fragenText>
+            <richtigeAntwort>Eisen und Schwefel</richtigeAntwort>
+            <falscheAntwort1>Eisen und Sauerstoff</falscheAntwort1>
+            <falscheAntwort2>Eisen und Phosphor</falscheAntwort2>
+            <falscheAntwort3>Eisen und Schwefelsäure</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Eine Reaktion, bei der Energie abgegeben wird, heißt</fragenText>
+            <richtigeAntwort>exotherm</richtigeAntwort>
+            <falscheAntwort1>endotherm</falscheAntwort1>
+            <falscheAntwort2>thermisch</falscheAntwort2>
+            <falscheAntwort3>energetisch</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Kleinste Teilchen eines Elements heißen</fragenText>
+            <richtigeAntwort>Atome</richtigeAntwort>
+            <falscheAntwort1>Moleküle</falscheAntwort1>
+            <falscheAntwort2>Ionen</falscheAntwort2>
+            <falscheAntwort3>Gase</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Formel passt zu Kohlenstoffdioxid?</fragenText>
+            <richtigeAntwort>CO2</richtigeAntwort>
+            <falscheAntwort1>H2O</falscheAntwort1>
+            <falscheAntwort2>NH3</falscheAntwort2>
+            <falscheAntwort3>CuO</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ein Gemisch aus Feststoff und Flüssigkeit heißt</fragenText>
+            <richtigeAntwort>Suspension</richtigeAntwort>
+            <falscheAntwort1>Emulsion</falscheAntwort1>
+            <falscheAntwort2>Nebel</falscheAntwort2>
+            <falscheAntwort3>Rauch</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist ein Beispiel für eine Emulsion?</fragenText>
+            <richtigeAntwort>Milch</richtigeAntwort>
+            <falscheAntwort1>Mineralwasser</falscheAntwort1>
+            <falscheAntwort2>Rauch</falscheAntwort2>
+            <falscheAntwort3>Bohnen und Erbsen</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Gemisch ist eine Lösung?</fragenText>
+            <richtigeAntwort>Apfelsaft</richtigeAntwort>
+            <falscheAntwort1>Sahne</falscheAntwort1>
+            <falscheAntwort2>Sekt</falscheAntwort2>
+            <falscheAntwort3>Milch</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was passiert, wenn man ein Gemisch aus einem Teil Sauerstoff und zwei Teilen Wasserstoff entzündet?</fragenText>
+            <richtigeAntwort>Es explodiert mit scharfem Knall.</richtigeAntwort>
+            <falscheAntwort1>nichts</falscheAntwort1>
+            <falscheAntwort2>Das hängt von der Teperatur ab.</falscheAntwort2>
+            <falscheAntwort3>Es brennt langsam ab.</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Kupfersulfat in wässriger Lösung ist</fragenText>
+            <richtigeAntwort>blau</richtigeAntwort>
+            <falscheAntwort1>grün</falscheAntwort1>
+            <falscheAntwort2>rot</falscheAntwort2>
+            <falscheAntwort3>rostbraun</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Radioaktive Elemente</fragenText>
+            <richtigeAntwort>zerfallen und senden dabei Strahlen aus</richtigeAntwort>
+            <falscheAntwort1>aktivieren die Elemente Radon und Radium</falscheAntwort1>
+            <falscheAntwort2>sind reaktionsträge</falscheAntwort2>
+            <falscheAntwort3>empfangen Radiowellen</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Aufnahme von Sauerstoff nennt man</fragenText>
+            <richtigeAntwort>Oxidation</richtigeAntwort>
+            <falscheAntwort1>Redoxreaktion</falscheAntwort1>
+            <falscheAntwort2>Hydrierung</falscheAntwort2>
+            <falscheAntwort3>Reduktion</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das Gegenstück zur Säure?</fragenText>
+            <richtigeAntwort>Lauge</richtigeAntwort>
+            <falscheAntwort1>Seife</falscheAntwort1>
+            <falscheAntwort2>Lösung</falscheAntwort2>
+            <falscheAntwort3>Emulgator</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie weist man Wasserstoff nach?</fragenText>
+            <richtigeAntwort>Knallgasprobe</richtigeAntwort>
+            <falscheAntwort1>Glimmspanprobe</falscheAntwort1>
+            <falscheAntwort2>Flammenfärbung</falscheAntwort2>
+            <falscheAntwort3>mit wasserfreiem Kupfersulfat</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welcher Hauptgruppe stehen die Edelgase?</fragenText>
+            <richtigeAntwort>8.</richtigeAntwort>
+            <falscheAntwort1>1.</falscheAntwort1>
+            <falscheAntwort2>2.</falscheAntwort2>
+            <falscheAntwort3>7.</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie entwickelt sich die Temperatur bei einer exothermen Reaktion?</fragenText>
+            <richtigeAntwort>Sie steigt.</richtigeAntwort>
+            <falscheAntwort1>Sie sinkt.</falscheAntwort1>
+            <falscheAntwort2>Sie bleibt konstant.</falscheAntwort2>
+            <falscheAntwort3>Sie schwankt um die Ausgangstemperatur.</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ein langes dünnes Glasgerät mit Skala, aus dem man Flüssigkeiten tröpfchenweise herauslassen kann, nennt man</fragenText>
+            <richtigeAntwort>Bürette</richtigeAntwort>
+            <falscheAntwort1>Pipette</falscheAntwort1>
+            <falscheAntwort2>Messzylinder</falscheAntwort2>
+            <falscheAntwort3>U-Rohr</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist kein Element?</fragenText>
+            <richtigeAntwort>Bronze</richtigeAntwort>
+            <falscheAntwort1>Kupfer</falscheAntwort1>
+            <falscheAntwort2>Zink</falscheAntwort2>
+            <falscheAntwort3>Zinn</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der Schmelzpunkt von Salzwasser gegenüber Wasser ist</fragenText>
+            <richtigeAntwort>niedriger</richtigeAntwort>
+            <falscheAntwort1>gleich</falscheAntwort1>
+            <falscheAntwort2>höher</falscheAntwort2>
+            <falscheAntwort3>doppelt so hoch</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Cola-Dose und Cola light-Dose in Wasser:</fragenText>
+            <richtigeAntwort>Cola unten, Cola light oben</richtigeAntwort>
+            <falscheAntwort1>Cola oben, Cola light unten</falscheAntwort1>
+            <falscheAntwort2>beide oben</falscheAntwort2>
+            <falscheAntwort3>beide unten</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher dieser Stoffe hat das geringste spezifische Gewicht?</fragenText>
+            <richtigeAntwort>Wasserstoff</richtigeAntwort>
+            <falscheAntwort1>Helium</falscheAntwort1>
+            <falscheAntwort2>Sauerstoff</falscheAntwort2>
+            <falscheAntwort3>Stickstoff</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Stoff ist gemeint: glänzt metallisch, rot-braun, leitet Elektrizität gut, weicher als Eisen</fragenText>
+            <richtigeAntwort>Kupfer</richtigeAntwort>
+            <falscheAntwort1>Gold</falscheAntwort1>
+            <falscheAntwort2>Blei</falscheAntwort2>
+            <falscheAntwort3>Aluminium</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Stoff ist gemeint: glänzt metallisch, leitet Elektrizität gut, ist bei Zimmertemperatur flüssig</fragenText>
+            <richtigeAntwort>Quecksilber</richtigeAntwort>
+            <falscheAntwort1>Silber</falscheAntwort1>
+            <falscheAntwort2>Gold</falscheAntwort2>
+            <falscheAntwort3>Eisen</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Stoff ist gemeint: gelb, spröde, leitet die Elektrizität nicht, verbrennt mit blass-blauer Flamme zu einem stechend riechendem Gas</fragenText>
+            <richtigeAntwort>Schwefel</richtigeAntwort>
+            <falscheAntwort1>Phosphor</falscheAntwort1>
+            <falscheAntwort2>Gold</falscheAntwort2>
+            <falscheAntwort3>Kaliumdichromat</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ein Stoff, der die Aktivierungsenergie herabsetzt, heißt</fragenText>
+            <richtigeAntwort>Katalysator</richtigeAntwort>
+            <falscheAntwort1>Reaktor</falscheAntwort1>
+            <falscheAntwort2>Oxalat</falscheAntwort2>
+            <falscheAntwort3>Alaun</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist kein Indikator?</fragenText>
+            <richtigeAntwort>Acetaldehyd</richtigeAntwort>
+            <falscheAntwort1>Lackmus</falscheAntwort1>
+            <falscheAntwort2>Phenolphthalein</falscheAntwort2>
+            <falscheAntwort3>Rotkohl</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Säure kommt nicht in Lebensmitteln vor?</fragenText>
+            <richtigeAntwort>Acetylsalicylsäure</richtigeAntwort>
+            <falscheAntwort1>Zitronensäure</falscheAntwort1>
+            <falscheAntwort2>Phosphorsäure</falscheAntwort2>
+            <falscheAntwort3>Biersäure</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ein Metall, das keinen elektrischen Strom leitet, heißt</fragenText>
+            <richtigeAntwort>Isolator</richtigeAntwort>
+            <falscheAntwort1>Nicht-Metall</falscheAntwort1>
+            <falscheAntwort2>Reformer</falscheAntwort2>
+            <falscheAntwort3>Indikator</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Stoff löst sich nicht in Wasser?</fragenText>
+            <richtigeAntwort>Mehl</richtigeAntwort>
+            <falscheAntwort1>Zucker</falscheAntwort1>
+            <falscheAntwort2>Kochsalz</falscheAntwort2>
+            <falscheAntwort3>Vitamin C</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Das Rosten von Eisen ist eine</fragenText>
+            <richtigeAntwort>Oxidation</richtigeAntwort>
+            <falscheAntwort1>Analyse</falscheAntwort1>
+            <falscheAntwort2>Titration</falscheAntwort2>
+            <falscheAntwort3>Substitution</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie groß ist die Masse von einem Wasserstoffmolekül?</fragenText>
+            <richtigeAntwort>2 u</richtigeAntwort>
+            <falscheAntwort1>1 u</falscheAntwort1>
+            <falscheAntwort2>1 g/mol</falscheAntwort2>
+            <falscheAntwort3>1 g</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Stoff macht den größten Anteil der Atmosphäre aus?</fragenText>
+            <richtigeAntwort>Stickstoff</richtigeAntwort>
+            <falscheAntwort1>Sauerstoff</falscheAntwort1>
+            <falscheAntwort2>Kohlendioxid</falscheAntwort2>
+            <falscheAntwort3>Schwefeldioxid</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ein Element passt nicht zu den anderen:</fragenText>
+            <richtigeAntwort>Calcium</richtigeAntwort>
+            <falscheAntwort1>Lithium</falscheAntwort1>
+            <falscheAntwort2>Natrium</falscheAntwort2>
+            <falscheAntwort3>Kalium</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ein Element passt nicht zu den anderen:</fragenText>
+            <richtigeAntwort>Kohlenstoff</richtigeAntwort>
+            <falscheAntwort1>Wasserstoff</falscheAntwort1>
+            <falscheAntwort2>Sauerstoff</falscheAntwort2>
+            <falscheAntwort3>Stickstoff</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ein Element passt nicht zu den anderen:</fragenText>
+            <richtigeAntwort>Helium</richtigeAntwort>
+            <falscheAntwort1>Fluor</falscheAntwort1>
+            <falscheAntwort2>Chlor</falscheAntwort2>
+            <falscheAntwort3>Brom</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ein Element passt nicht zu den anderen:</fragenText>
+            <richtigeAntwort>Chlor</richtigeAntwort>
+            <falscheAntwort1>Helium</falscheAntwort1>
+            <falscheAntwort2>Neon</falscheAntwort2>
+            <falscheAntwort3>Argon</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches ist kein Oxidationsmittel?</fragenText>
+            <richtigeAntwort>Kupfer</richtigeAntwort>
+            <falscheAntwort1>Kupferoxid</falscheAntwort1>
+            <falscheAntwort2>Kaliumpermanganat</falscheAntwort2>
+            <falscheAntwort3>Wasserstoffperoxid</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe steht nicht für ein chemisches Element?</fragenText>
+            <richtigeAntwort>A</richtigeAntwort>
+            <falscheAntwort1>B</falscheAntwort1>
+            <falscheAntwort2>F</falscheAntwort2>
+            <falscheAntwort3>N</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches dieser Elemente ist kein Metall?</fragenText>
+            <richtigeAntwort>Phosphor</richtigeAntwort>
+            <falscheAntwort1>Eisen</falscheAntwort1>
+            <falscheAntwort2>Quecksilber</falscheAntwort2>
+            <falscheAntwort3>Natrium</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Mit welcher Farbe verbrennt Kupfer?</fragenText>
+            <richtigeAntwort>grün</richtigeAntwort>
+            <falscheAntwort1>gelb</falscheAntwort1>
+            <falscheAntwort2>blau</falscheAntwort2>
+            <falscheAntwort3>rot</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0°C sind</fragenText>
+            <richtigeAntwort>273</richtigeAntwort>
+            <falscheAntwort1>- 273 K</falscheAntwort1>
+            <falscheAntwort2>0 K</falscheAntwort2>
+            <falscheAntwort3>223 K</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die molare Masse berechnet sich durch</fragenText>
+            <richtigeAntwort>Masse / Stoffmenge</richtigeAntwort>
+            <falscheAntwort1>Masse * Stoffmenge</falscheAntwort1>
+            <falscheAntwort2>Stoffmenge * Masse</falscheAntwort2>
+            <falscheAntwort3>Stoffmenge / Masse</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche der folgenden Eigenschaften trifft auf Gold *nicht* zu?</fragenText>
+            <richtigeAntwort>rostet</richtigeAntwort>
+            <falscheAntwort1>glänz metallisch</falscheAntwort1>
+            <falscheAntwort2>ist schwerer als Blei</falscheAntwort2>
+            <falscheAntwort3>leitet den elektrischen Strom</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche dieser Eigenschaften trifft auf Eisen *nicht* zu?</fragenText>
+            <richtigeAntwort>schmilzt bei 389 °C</richtigeAntwort>
+            <falscheAntwort1>magnetisch</falscheAntwort1>
+            <falscheAntwort2>leitet elektrischen Strom</falscheAntwort2>
+            <falscheAntwort3>schwimmt auf Quecksilber</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche der folgenden Eigenschaften trifft auf Schwefel *nicht* zu?</fragenText>
+            <richtigeAntwort>leitet elektrischen Strom</richtigeAntwort>
+            <falscheAntwort1>gelb</falscheAntwort1>
+            <falscheAntwort2>sublimiert</falscheAntwort2>
+            <falscheAntwort3>schmilzt bei 113 °C</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Auf welchen Stoff deutet eine leuchtend gelbe Flammenfärbung hin?</fragenText>
+            <richtigeAntwort>Natrium</richtigeAntwort>
+            <falscheAntwort1>Calcium</falscheAntwort1>
+            <falscheAntwort2>Barium</falscheAntwort2>
+            <falscheAntwort3>Schwefel</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was passiert, wenn man ein Stück Natrium in ein Gefäß mit Wasser gibt?</fragenText>
+            <richtigeAntwort>Es schwimmt, schmilzt und löst sich auf.</richtigeAntwort>
+            <falscheAntwort1>Es versinkt.</falscheAntwort1>
+            <falscheAntwort2>nichts</falscheAntwort2>
+            <falscheAntwort3>Es rostet.</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Kalium ist in seinen Verbindungen</fragenText>
+            <richtigeAntwort>einwertig</richtigeAntwort>
+            <falscheAntwort1>zweiwertig</falscheAntwort1>
+            <falscheAntwort2>dreiwertig</falscheAntwort2>
+            <falscheAntwort3>vierwertig</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches dieser Halogene ist bei Zimmertemperatur flüssig?</fragenText>
+            <richtigeAntwort>Brom</richtigeAntwort>
+            <falscheAntwort1>Chlor</falscheAntwort1>
+            <falscheAntwort2>Fluor</falscheAntwort2>
+            <falscheAntwort3>Iod</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der Satz des Avogadro besagt</fragenText>
+            <richtigeAntwort>Gleiche Volumina unterschiedlicher Gase enthalten gleich viele Teilchen.</richtigeAntwort>
+            <falscheAntwort1>n=m/M</falscheAntwort1>
+            <falscheAntwort2>Druck*Volumen/Temperatur = konstant</falscheAntwort2>
+            <falscheAntwort3>Bis auf die Edelgase sind alle Gase zweiatomig.</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Kohlenstoffdioxid lässt sich nachweisen durch</fragenText>
+            <richtigeAntwort>Trübung von Kalkwasser</richtigeAntwort>
+            <falscheAntwort1>Knallgasprobe</falscheAntwort1>
+            <falscheAntwort2>Glimmspanprobe</falscheAntwort2>
+            <falscheAntwort3>Ersticken einer Flamme</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Kein Kohlenstoff</fragenText>
+            <richtigeAntwort>Pyrit</richtigeAntwort>
+            <falscheAntwort1>Diamant</falscheAntwort1>
+            <falscheAntwort2>Holzkohle</falscheAntwort2>
+            <falscheAntwort3>Graphit</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Stoff ist gemeint: ist der beste Strom- und Wärmeleiter, wird in Verbindung mit Halogenen in der Fotografie eingesetzt</fragenText>
+            <richtigeAntwort>Silber</richtigeAntwort>
+            <falscheAntwort1>Kupfer</falscheAntwort1>
+            <falscheAntwort2>Gold</falscheAntwort2>
+            <falscheAntwort3>Platin</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was passiert, wenn man einen glänzenden Eisennagel etwa vier Wochen in einem Gefäß mit reinem Neon aufbewahrt?</fragenText>
+            <richtigeAntwort>nichts</richtigeAntwort>
+            <falscheAntwort1>Das hängt von der Temperatur ab.</falscheAntwort1>
+            <falscheAntwort2>Der Nagel rostet.</falscheAntwort2>
+            <falscheAntwort3>Der Glanz verschwindet.</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was passiert, wenn man ein Gemisch aus Sauerstoff und Helium entzündet?</fragenText>
+            <richtigeAntwort>Es passiert nichts.</richtigeAntwort>
+            <falscheAntwort1>Es brennt ganz schwach.</falscheAntwort1>
+            <falscheAntwort2>Es explodiert.</falscheAntwort2>
+            <falscheAntwort3>Das hängt vom Mischungsverhältnis ab.</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was wird nachgewiesen, wenn eine Zugabe von Silbernitratlösung einen milchig-weißen Niederschlag erzeugt?</fragenText>
+            <richtigeAntwort>Chlorid-Ionen</richtigeAntwort>
+            <falscheAntwort1>Sulfat-Ionen</falscheAntwort1>
+            <falscheAntwort2>Kohlendioxid</falscheAntwort2>
+            <falscheAntwort3>Schwefelwasserstoff</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Mit welcher Farbe zeigt Lackmus eine Lauge an?</fragenText>
+            <richtigeAntwort>blau</richtigeAntwort>
+            <falscheAntwort1>rot</falscheAntwort1>
+            <falscheAntwort2>gelb</falscheAntwort2>
+            <falscheAntwort3>grün</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Mit welcher Farbe zeigt Lackmus eine Säure an?</fragenText>
+            <richtigeAntwort>rot</richtigeAntwort>
+            <falscheAntwort1>blau</falscheAntwort1>
+            <falscheAntwort2>gelb</falscheAntwort2>
+            <falscheAntwort3>grün</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>null In einem Atom befinden sich</fragenText>
+            <richtigeAntwort>genauso viele Elektronen wie Protonen</richtigeAntwort>
+            <falscheAntwort1>keine Elektronen</falscheAntwort1>
+            <falscheAntwort2>halb so viele Elektronen wie Protonen</falscheAntwort2>
+            <falscheAntwort3>doppelt so viele Elektronen wie Protonen</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Salzsäuer hat einen pH-Wert von</fragenText>
+            <richtigeAntwort>0</richtigeAntwort>
+            <falscheAntwort1>7</falscheAntwort1>
+            <falscheAntwort2>14</falscheAntwort2>
+            <falscheAntwort3>18</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Saure Lösungen enthalten</fragenText>
+            <richtigeAntwort>Oxoniumionen</richtigeAntwort>
+            <falscheAntwort1>Hydroxide</falscheAntwort1>
+            <falscheAntwort2>Oxide</falscheAntwort2>
+            <falscheAntwort3>Kationen</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Nukleonen sind</fragenText>
+            <richtigeAntwort>Neutronen und Protonen</richtigeAntwort>
+            <falscheAntwort1>negative Ionen</falscheAntwort1>
+            <falscheAntwort2>neutrale Elektronen</falscheAntwort2>
+            <falscheAntwort3>zerfallene Ozonmoleküle</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ein Indikator</fragenText>
+            <richtigeAntwort>zeigt an, ob ein Stoff sauer oder alkalisch ist.</richtigeAntwort>
+            <falscheAntwort1>zeigt an, ob ein Stoff oxidiert werden kann.</falscheAntwort1>
+            <falscheAntwort2>ist ein Stoffzusatz in Lebensmitteln.</falscheAntwort2>
+            <falscheAntwort3>ist eine Verbindung mit dem Farbstoff Indigo.</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Bereich liegen die alkalischen pH-Werte?</fragenText>
+            <richtigeAntwort>8-14</richtigeAntwort>
+            <falscheAntwort1>0-7</falscheAntwort1>
+            <falscheAntwort2>0-14</falscheAntwort2>
+            <falscheAntwort3>3-10</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In der 6. Hauptgruppe stehen die Elemente der</fragenText>
+            <richtigeAntwort>Chalkogene</richtigeAntwort>
+            <falscheAntwort1>Erdalkalimetalle</falscheAntwort1>
+            <falscheAntwort2>Kohlenstoffgruppe</falscheAntwort2>
+            <falscheAntwort3>Halogene</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In der 2. Hauptgruppe stehen die Elemente der</fragenText>
+            <richtigeAntwort>Erdalkalimetalle</richtigeAntwort>
+            <falscheAntwort1>Kohlenstoffgruppe</falscheAntwort1>
+            <falscheAntwort2>Chalkogene</falscheAntwort2>
+            <falscheAntwort3>Halogene</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was passiert, wenn man ein Stück Phosphor in ein Gefäß mit Wasser gibt?</fragenText>
+            <richtigeAntwort>nichts</richtigeAntwort>
+            <falscheAntwort1>Es beginnt zu brennen.</falscheAntwort1>
+            <falscheAntwort2>Das hängt von der Temperatur ab.</falscheAntwort2>
+            <falscheAntwort3>Es löst sich auf.</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher dieser Stoffe leitet den elektrischen Strom am besten?</fragenText>
+            <richtigeAntwort>Silber</richtigeAntwort>
+            <falscheAntwort1>Kupfer</falscheAntwort1>
+            <falscheAntwort2>Aluminium</falscheAntwort2>
+            <falscheAntwort3>Blei</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was passt nicht zusammen?</fragenText>
+            <richtigeAntwort>Gold - Goldrausch</richtigeAntwort>
+            <falscheAntwort1>Eisen - Rost</falscheAntwort1>
+            <falscheAntwort2>Kupfer - Patina</falscheAntwort2>
+            <falscheAntwort3>Zinn - Zinnpest</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Chromatografie ist</fragenText>
+            <richtigeAntwort>Trennverfahren</richtigeAntwort>
+            <falscheAntwort1>Wissenschaft der Elektrochemie</falscheAntwort1>
+            <falscheAntwort2>spezielle Anwendung der Fotografie</falscheAntwort2>
+            <falscheAntwort3>Reaktionsähnlichkeit mit Chrom</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Eine kovalente Bindung ist eine</fragenText>
+            <richtigeAntwort>Elektronenpaarbindung</richtigeAntwort>
+            <falscheAntwort1>Ionenbindung</falscheAntwort1>
+            <falscheAntwort2>Polare Bindung</falscheAntwort2>
+            <falscheAntwort3>Van-der-Waals-Bindung</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist kein chemisches Element?</fragenText>
+            <richtigeAntwort>Tar</richtigeAntwort>
+            <falscheAntwort1>Cer</falscheAntwort1>
+            <falscheAntwort2>Bor</falscheAntwort2>
+            <falscheAntwort3>Iod</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Kaut man Brotteig lange, so entsteht</fragenText>
+            <richtigeAntwort>Zucker</richtigeAntwort>
+            <falscheAntwort1>Salz</falscheAntwort1>
+            <falscheAntwort2>Mehl</falscheAntwort2>
+            <falscheAntwort3>Backpulver</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Vitamin C ist</fragenText>
+            <richtigeAntwort>eine Säure</richtigeAntwort>
+            <falscheAntwort1>ein Metall</falscheAntwort1>
+            <falscheAntwort2>ein Emulgator</falscheAntwort2>
+            <falscheAntwort3>Kondensator</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Isotope sind Atome</fragenText>
+            <richtigeAntwort>eines Elements, aber mit unterschiedlicher Neutronenzahl</richtigeAntwort>
+            <falscheAntwort1>gleicher Masse, aber unterschiedlicher Elemente</falscheAntwort1>
+            <falscheAntwort2>einer Verbindung, aber unterschiedlicher Masse</falscheAntwort2>
+            <falscheAntwort3>gleicher Größe, aber mit unterschiedlicher Elektronenzahl</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher dieser Stoffe hat das größte spezifische Gewicht?</fragenText>
+            <richtigeAntwort>Gold</richtigeAntwort>
+            <falscheAntwort1>Blei</falscheAntwort1>
+            <falscheAntwort2>Eisen</falscheAntwort2>
+            <falscheAntwort3>Kupfer</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher dieser Stoffe hat die geringste Siedetemperatur?</fragenText>
+            <richtigeAntwort>Äther</richtigeAntwort>
+            <falscheAntwort1>Ethanol</falscheAntwort1>
+            <falscheAntwort2>Wasser</falscheAntwort2>
+            <falscheAntwort3>Glycerin</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was heißt hydrophil?</fragenText>
+            <richtigeAntwort>wasserliebend</richtigeAntwort>
+            <falscheAntwort1>gesättigt</falscheAntwort1>
+            <falscheAntwort2>negativ geladen</falscheAntwort2>
+            <falscheAntwort3>alkalisch</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Flüssigkeiten mit hoher Viskosität</fragenText>
+            <richtigeAntwort>sind zähflüssig</richtigeAntwort>
+            <falscheAntwort1>haben eine große Oberflächenspannung</falscheAntwort1>
+            <falscheAntwort2>sind trübe</falscheAntwort2>
+            <falscheAntwort3>leiten den elektrischen Strom gut</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ein Alkan mit 4 Kohlenstoffatomen heißt</fragenText>
+            <richtigeAntwort>Butan</richtigeAntwort>
+            <falscheAntwort1>Propan</falscheAntwort1>
+            <falscheAntwort2>Pentan</falscheAntwort2>
+            <falscheAntwort3>Octan</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher dieser Stoffe hat die geringste Schmelztemperatur?</fragenText>
+            <richtigeAntwort>Zinn</richtigeAntwort>
+            <falscheAntwort1>Blei</falscheAntwort1>
+            <falscheAntwort2>Kupfer</falscheAntwort2>
+            <falscheAntwort3>Aluminium</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ein Kation hat</fragenText>
+            <richtigeAntwort>mehr Protonen als Elektronen</richtigeAntwort>
+            <falscheAntwort1>mehr Elektronen als Protonen</falscheAntwort1>
+            <falscheAntwort2>gleich viel Elektronen wie Protonen</falscheAntwort2>
+            <falscheAntwort3>keine Elektronen</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ein Anion hat</fragenText>
+            <richtigeAntwort>mehr Elektronen als Protonen</richtigeAntwort>
+            <falscheAntwort1>gleich viel Elektronen wie Protonen</falscheAntwort1>
+            <falscheAntwort2>mehr Protonen als Elektronen</falscheAntwort2>
+            <falscheAntwort3>keine Elektronen</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man eine Verbindung aus einem Alkohol und einer Säure?</fragenText>
+            <richtigeAntwort>Ester</richtigeAntwort>
+            <falscheAntwort1>Alkan</falscheAntwort1>
+            <falscheAntwort2>Alken</falscheAntwort2>
+            <falscheAntwort3>Keton</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist der Name einer chemischen Verbindung?</fragenText>
+            <richtigeAntwort>Ester</richtigeAntwort>
+            <falscheAntwort1>Andrea</falscheAntwort1>
+            <falscheAntwort2>Tessa</falscheAntwort2>
+            <falscheAntwort3>Sina</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wird nicht aus Erdöl hergestellt :</fragenText>
+            <richtigeAntwort>Schwefelsäure</richtigeAntwort>
+            <falscheAntwort1>Benzin</falscheAntwort1>
+            <falscheAntwort2>Diesel</falscheAntwort2>
+            <falscheAntwort3>Schweröl</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Je länger die Kohlenstoffkette bei Alkanen,</fragenText>
+            <richtigeAntwort>desti höher die Siedepunkte.</richtigeAntwort>
+            <falscheAntwort1>desto hiedriger die Schmelzpunkte.</falscheAntwort1>
+            <falscheAntwort2>desto reaktionsfreudiger sind sie.</falscheAntwort2>
+            <falscheAntwort3>desto größer die Tendenz zur Esterbildung.</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lautet der Trivialname für Alkanale?</fragenText>
+            <richtigeAntwort>Aldehyde</richtigeAntwort>
+            <falscheAntwort1>Ketone</falscheAntwort1>
+            <falscheAntwort2>Puffer</falscheAntwort2>
+            <falscheAntwort3>Carbone</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Element ist in allen diesen Verbindungen enthalten : Pyrit, Kupferkies, Bleiglanz, Zinkblende</fragenText>
+            <richtigeAntwort>Schwefel</richtigeAntwort>
+            <falscheAntwort1>Sauerstoff</falscheAntwort1>
+            <falscheAntwort2>Phosphor</falscheAntwort2>
+            <falscheAntwort3>Kohlenstoff</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Amphotere Stoffe</fragenText>
+            <richtigeAntwort>können als Protonendonator und -akzeptor reagieren</richtigeAntwort>
+            <falscheAntwort1>haben eine geringe Dichte</falscheAntwort1>
+            <falscheAntwort2>sind umweltgefährlich</falscheAntwort2>
+            <falscheAntwort3>eigenen sich als Puffer in empfindlichen Systemen</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Isomere sind</fragenText>
+            <richtigeAntwort>Moleküle mit gleichen Summenformeln, aber unterschiedlichen Strukturformeln</richtigeAntwort>
+            <falscheAntwort1>isolierte Polymere</falscheAntwort1>
+            <falscheAntwort2>langkettige Aldehyde</falscheAntwort2>
+            <falscheAntwort3>Monosacharosen in Helixform</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Sacharide gehören zu den</fragenText>
+            <richtigeAntwort>Zuckern</richtigeAntwort>
+            <falscheAntwort1>Carbonsäuren</falscheAntwort1>
+            <falscheAntwort2>Alkenen</falscheAntwort2>
+            <falscheAntwort3>Ethern</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Traubenzucker ist</fragenText>
+            <richtigeAntwort>Glucose</richtigeAntwort>
+            <falscheAntwort1>Fructose</falscheAntwort1>
+            <falscheAntwort2>Pentose</falscheAntwort2>
+            <falscheAntwort3>Ketose</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ethan ist bei Raumtemperatur</fragenText>
+            <richtigeAntwort>gasförmig</richtigeAntwort>
+            <falscheAntwort1>flüssig</falscheAntwort1>
+            <falscheAntwort2>fest</falscheAntwort2>
+            <falscheAntwort3>gefroren</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Waschwirkung einer Seifenlösung beruht auf</fragenText>
+            <richtigeAntwort>Tensiden</richtigeAntwort>
+            <falscheAntwort1>der Abstoßung gleich geladener Teilchen</falscheAntwort1>
+            <falscheAntwort2>dem Säureeinfluss der Seife</falscheAntwort2>
+            <falscheAntwort3>der Reaktionsfreudigkeit der Seife</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Fette sind</fragenText>
+            <richtigeAntwort>Ester aus höheren Carbonsäuren und Glycerin</richtigeAntwort>
+            <falscheAntwort1>Salze langkettinger Alkane</falscheAntwort1>
+            <falscheAntwort2>Polymere des Ethens</falscheAntwort2>
+            <falscheAntwort3>Derivate sekundärer Alkohole</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Den Raum, in dem sich ein Elekron zu 90 %-iger Wahrscheinlichkeit aufhält, heißt</fragenText>
+            <richtigeAntwort>Orbital</richtigeAntwort>
+            <falscheAntwort1>Orbit</falscheAntwort1>
+            <falscheAntwort2>Orbitum</falscheAntwort2>
+            <falscheAntwort3>Orbiton</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Kein Kunststoff</fragenText>
+            <richtigeAntwort>Polyphem</richtigeAntwort>
+            <falscheAntwort1>Polyacryl</falscheAntwort1>
+            <falscheAntwort2>Polyäthylen</falscheAntwort2>
+            <falscheAntwort3>Polyester</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist Soda?</fragenText>
+            <richtigeAntwort>Natriumcarbonat</richtigeAntwort>
+            <falscheAntwort1>Natriumchlorid</falscheAntwort1>
+            <falscheAntwort2>Natriumhydroxid</falscheAntwort2>
+            <falscheAntwort3>Natriumhydrogencarbonat</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lautet die Regel von Markownikow?</fragenText>
+            <richtigeAntwort>„Wer hat, dem wird gegeben.“</richtigeAntwort>
+            <falscheAntwort1>„Geben ist seliger denn nehmen.“</falscheAntwort1>
+            <falscheAntwort2>„Die Gesamtzahl der Valenzelektronen beträgt 8.“</falscheAntwort2>
+            <falscheAntwort3>„Je mehr Hydroxidgruppen, desto süßer der Alkohol.“</falscheAntwort3>
+            <schwierikeit>15</schwierikeit>
+            <schwierigkeitMin>15</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aliphate sind</fragenText>
+            <richtigeAntwort>acyclische Kohlenwasserstoffe</richtigeAntwort>
+            <falscheAntwort1>aromatische Kohlenwasserstoffe</falscheAntwort1>
+            <falscheAntwort2>langkettige Kohlenwasserstoffe</falscheAntwort2>
+            <falscheAntwort3>tertiäre Kohlenwasserstoffe</falscheAntwort3>
+            <schwierikeit>15</schwierikeit>
+            <schwierigkeitMin>15</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer fand das Gesetzt der Erhaltung der Masse?</fragenText>
+            <richtigeAntwort>Lavoisier</richtigeAntwort>
+            <falscheAntwort1>Demokrit</falscheAntwort1>
+            <falscheAntwort2>Bunsen</falscheAntwort2>
+            <falscheAntwort3>Rutherford</falscheAntwort3>
+            <schwierikeit>15</schwierikeit>
+            <schwierigkeitMin>15</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

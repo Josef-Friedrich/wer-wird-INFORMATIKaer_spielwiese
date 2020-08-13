@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Allgemein</fach>
+    <thema>Rund um die Smiley´s</thema>
+    <autor>Manfred Hartisch</autor>
+    <anzahlFragen>50</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>: - &lt;</fragenText>
+            <richtigeAntwort>traurig</richtigeAntwort>
+            <falscheAntwort1>heiter</falscheAntwort1>
+            <falscheAntwort2>fröhlich</falscheAntwort2>
+            <falscheAntwort3>lustig</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>: )</fragenText>
+            <richtigeAntwort>glücklich</richtigeAntwort>
+            <falscheAntwort1>traurig</falscheAntwort1>
+            <falscheAntwort2>einsam</falscheAntwort2>
+            <falscheAntwort3>ernst</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>; - ) = )</fragenText>
+            <richtigeAntwort>Zähne zeigendes Lachen</richtigeAntwort>
+            <falscheAntwort1>lautes Flöten</falscheAntwort1>
+            <falscheAntwort2>müdes Gähnen</falscheAntwort2>
+            <falscheAntwort3>leises Flüstern</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>: - ) ) )</fragenText>
+            <richtigeAntwort>sehr fröhlich</richtigeAntwort>
+            <falscheAntwort1>sehr traurig</falscheAntwort1>
+            <falscheAntwort2>einsam</falscheAntwort2>
+            <falscheAntwort3>gelangweilt</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>: - |</fragenText>
+            <richtigeAntwort>grimmig</richtigeAntwort>
+            <falscheAntwort1>ängstlich</falscheAntwort1>
+            <falscheAntwort2>müde</falscheAntwort2>
+            <falscheAntwort3>lustig</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>: - | |</fragenText>
+            <richtigeAntwort>wütend, sehr verärgert</richtigeAntwort>
+            <falscheAntwort1>neugierig</falscheAntwort1>
+            <falscheAntwort2>unentschlossen</falscheAntwort2>
+            <falscheAntwort3>hilflos</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>: - :</fragenText>
+            <richtigeAntwort>mutiertes Smiley</richtigeAntwort>
+            <falscheAntwort1>Zwillings - Smiley</falscheAntwort1>
+            <falscheAntwort2>krankes Smiley</falscheAntwort2>
+            <falscheAntwort3>Sesamstraßen - Smiley</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>&lt; &lt; : - I</fragenText>
+            <richtigeAntwort>Ignoranten - Smiley</richtigeAntwort>
+            <falscheAntwort1>Angeber - Smiley</falscheAntwort1>
+            <falscheAntwort2>Besserwisser - Smiley</falscheAntwort2>
+            <falscheAntwort3>Taugenichts - Smiley</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>( : I</fragenText>
+            <richtigeAntwort>Eierkopf - Smiley</richtigeAntwort>
+            <falscheAntwort1>Chef - Smiley</falscheAntwort1>
+            <falscheAntwort2>aufgeweckter Smiley</falscheAntwort2>
+            <falscheAntwort3>vorsichtiger Smiley</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>[ : - )</fragenText>
+            <richtigeAntwort>Smiley mit Walkman</richtigeAntwort>
+            <falscheAntwort1>Smiley mit Glatze</falscheAntwort1>
+            <falscheAntwort2>Smiley mit Kopftuch</falscheAntwort2>
+            <falscheAntwort3>Smiley mit Regenschirm</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>: - /</fragenText>
+            <richtigeAntwort>skeptischer Smiley</richtigeAntwort>
+            <falscheAntwort1>trauriger Smiley</falscheAntwort1>
+            <falscheAntwort2>optimistischer Smiley</falscheAntwort2>
+            <falscheAntwort3>lustiger Smiley</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>&lt; &lt; | - )</fragenText>
+            <richtigeAntwort>chinesischer Smiley</richtigeAntwort>
+            <falscheAntwort1>australischer Smiley</falscheAntwort1>
+            <falscheAntwort2>afrikanischer Smiley</falscheAntwort2>
+            <falscheAntwort3>amerikanischer Smiley</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>: -?</fragenText>
+            <richtigeAntwort>Smiley raucht Pfeife.</richtigeAntwort>
+            <falscheAntwort1>Smiley trinkt Tee.</falscheAntwort1>
+            <falscheAntwort2>Smiley isst Kaugummi.</falscheAntwort2>
+            <falscheAntwort3>Smiley flötet.</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>| - O</fragenText>
+            <richtigeAntwort>Der Schreiber schnarcht.</richtigeAntwort>
+            <falscheAntwort1>Der Schreiber flüstert.</falscheAntwort1>
+            <falscheAntwort2>Der Schreiber ruft.</falscheAntwort2>
+            <falscheAntwort3>Der Schreiber singt.</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>| - I</fragenText>
+            <richtigeAntwort>Der Schreiber ist eingeschlafen.</richtigeAntwort>
+            <falscheAntwort1>Der Schreiber ist hellwach.</falscheAntwort1>
+            <falscheAntwort2>Der Schreiber ist aufgewacht.</falscheAntwort2>
+            <falscheAntwort3>Der Schreiber ist verzweifelt.</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>' : - )</fragenText>
+            <richtigeAntwort>Smiley mit rasierter Augenbraue</richtigeAntwort>
+            <falscheAntwort1>Smiley mit Tarnkappe</falscheAntwort1>
+            <falscheAntwort2>Smiley mit Sonnenhut</falscheAntwort2>
+            <falscheAntwort3>Smiley mit Sommersprosse</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>- : - )</fragenText>
+            <richtigeAntwort>Punker - Smiley</richtigeAntwort>
+            <falscheAntwort1>Funker - Smiley</falscheAntwort1>
+            <falscheAntwort2>Taucher - Smiley</falscheAntwort2>
+            <falscheAntwort3>Handy - Smiley</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>: - #</fragenText>
+            <richtigeAntwort>Smiley mit Zahnspange</richtigeAntwort>
+            <falscheAntwort1>Smiley ist erkältet.</falscheAntwort1>
+            <falscheAntwort2>Smiley mit Zigarette</falscheAntwort2>
+            <falscheAntwort3>Smiley mit Strohhalm</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>: - @</fragenText>
+            <richtigeAntwort>schreiendes Smiley</richtigeAntwort>
+            <falscheAntwort1>singendes Smiley</falscheAntwort1>
+            <falscheAntwort2>lachendes Smiley</falscheAntwort2>
+            <falscheAntwort3>lauschendes Smiley</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>: ' - )</fragenText>
+            <richtigeAntwort>vor Freude weinendes Smiley</richtigeAntwort>
+            <falscheAntwort1>Smiley erzählt einen Witz.</falscheAntwort1>
+            <falscheAntwort2>fröhliches Smiley</falscheAntwort2>
+            <falscheAntwort3>neugieriges Smiley</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>: ' - (</fragenText>
+            <richtigeAntwort>weinendes Smiley</richtigeAntwort>
+            <falscheAntwort1>nachdenkliches Smiley</falscheAntwort1>
+            <falscheAntwort2>schielendes Smiley</falscheAntwort2>
+            <falscheAntwort3>wartendes Smiley</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>: -~ )</fragenText>
+            <richtigeAntwort>erkältetes Smiley</richtigeAntwort>
+            <falscheAntwort1>fröhliches Smiley</falscheAntwort1>
+            <falscheAntwort2>zorniges Smiley</falscheAntwort2>
+            <falscheAntwort3>verstörtes Smiley</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>: - ) ~</fragenText>
+            <richtigeAntwort>Der Schreiber faselt.</richtigeAntwort>
+            <falscheAntwort1>Der Schreiber ist zu ernst.</falscheAntwort1>
+            <falscheAntwort2>Der Schreiber lügt.</falscheAntwort2>
+            <falscheAntwort3>Der Schreiber übertreibt.</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>: - 7</fragenText>
+            <richtigeAntwort>ein ironisches Lächeln</richtigeAntwort>
+            <falscheAntwort1>ein fröhliches Lächeln</falscheAntwort1>
+            <falscheAntwort2>ein ermunterndes Lächeln</falscheAntwort2>
+            <falscheAntwort3>ein leises Lächeln</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>: - F</fragenText>
+            <richtigeAntwort>Vampirsmiley mit fehlendem Zahn</richtigeAntwort>
+            <falscheAntwort1>lachender Smiley</falscheAntwort1>
+            <falscheAntwort2>pfeifender Smiley</falscheAntwort2>
+            <falscheAntwort3>zorniger Smiley</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>{ : - )</fragenText>
+            <richtigeAntwort>Smiley mit Toupet</richtigeAntwort>
+            <falscheAntwort1>Smiley mit Kopftuch</falscheAntwort1>
+            <falscheAntwort2>Smiley mit Sturzhelm</falscheAntwort2>
+            <falscheAntwort3>Smiley mit Regenschirm</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>[ : ]</fragenText>
+            <richtigeAntwort>Schreiber ist ein Roboter.</richtigeAntwort>
+            <falscheAntwort1>Schreiber ist ein Angsthase.</falscheAntwort1>
+            <falscheAntwort2>Schreiber ist ein Alien.</falscheAntwort2>
+            <falscheAntwort3>Schreiber ist ein Unbekannter.</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>: * )</fragenText>
+            <richtigeAntwort>betrunkener Schreiber</richtigeAntwort>
+            <falscheAntwort1>langsamer Schreiber</falscheAntwort1>
+            <falscheAntwort2>müder Schreiber</falscheAntwort2>
+            <falscheAntwort3>ratloser Schreiber</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>( - :</fragenText>
+            <richtigeAntwort>Linkshänder - Smiley</richtigeAntwort>
+            <falscheAntwort1>Rückwärts - Smiley</falscheAntwort1>
+            <falscheAntwort2>Kopfstand - Smiley</falscheAntwort2>
+            <falscheAntwort3>Arabischer Smiley</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>: - *</fragenText>
+            <richtigeAntwort>Der Schreiber hat gerade etwas Saures gegessen.</richtigeAntwort>
+            <falscheAntwort1>Der Schreiber hat gerade etwas Scharfes gegessen.</falscheAntwort1>
+            <falscheAntwort2>Der Schreiber hat gerade etwas Süßes gegessen.</falscheAntwort2>
+            <falscheAntwort3>Der Schreiber hat gerade etwas Kaltes gegessen.</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>: - Q</fragenText>
+            <richtigeAntwort>Kettenraucher - Smiley</richtigeAntwort>
+            <falscheAntwort1>Kaugummi - Smiley</falscheAntwort1>
+            <falscheAntwort2>Autofahrer - Smiley</falscheAntwort2>
+            <falscheAntwort3>Schokoladen - Smiley</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>: - D</fragenText>
+            <richtigeAntwort>lachendes Smiley</richtigeAntwort>
+            <falscheAntwort1>gähnendes Smiley</falscheAntwort1>
+            <falscheAntwort2>weinendes Smiley</falscheAntwort2>
+            <falscheAntwort3>schreiendes Smiley</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>: - ) =</fragenText>
+            <richtigeAntwort>Smiley mit Bart</richtigeAntwort>
+            <falscheAntwort1>Smiley mit Krawatte</falscheAntwort1>
+            <falscheAntwort2>Smiley mit Halstuch</falscheAntwort2>
+            <falscheAntwort3>Smiley mit Spazierstock</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>: - }</fragenText>
+            <richtigeAntwort>schmunzeldes Smiley</richtigeAntwort>
+            <falscheAntwort1>schlafendes Smiley</falscheAntwort1>
+            <falscheAntwort2>weinendes Smiley</falscheAntwort2>
+            <falscheAntwort3>singendes Smiley</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>: - [</fragenText>
+            <richtigeAntwort>Vampirsmiley</richtigeAntwort>
+            <falscheAntwort1>Riesensmiley</falscheAntwort1>
+            <falscheAntwort2>Drachensmiley</falscheAntwort2>
+            <falscheAntwort3>Hexensmiley</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>: - o</fragenText>
+            <richtigeAntwort>Smiley ist verblüfft.</richtigeAntwort>
+            <falscheAntwort1>Smiley ist ärgerlich.</falscheAntwort1>
+            <falscheAntwort2>Smiley ist zornig.</falscheAntwort2>
+            <falscheAntwort3>Smiley ist fröhlich.</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>: ^ )</fragenText>
+            <richtigeAntwort>Smiley macht dem Leser eine lange Nase.</richtigeAntwort>
+            <falscheAntwort1>Smiley streckt dem Leser die Zunge heraus.</falscheAntwort1>
+            <falscheAntwort2>Smiley muntert den Leser auf.</falscheAntwort2>
+            <falscheAntwort3>Smiley verneigt sich vor dem Leser.</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>% - )</fragenText>
+            <richtigeAntwort>Smiley nach 12 Stunden vor dem Bildschirm</richtigeAntwort>
+            <falscheAntwort1>Smiley nach Besuch der Achterbahn</falscheAntwort1>
+            <falscheAntwort2>Smiley nach einer Slalomfahrt</falscheAntwort2>
+            <falscheAntwort3>Smiley nach dem Wochenende</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>= : - (</fragenText>
+            <richtigeAntwort>Smiley für haarsträubend unangenehme Texte</richtigeAntwort>
+            <falscheAntwort1>Smiley für haarsträubend lustige Texte</falscheAntwort1>
+            <falscheAntwort2>Smiley für haarsträubend angenehme Texte</falscheAntwort2>
+            <falscheAntwort3>Smiley für haarsträubend spannende Texte</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>= : - )</fragenText>
+            <richtigeAntwort>Smiley für haarsträubend gute Texte</richtigeAntwort>
+            <falscheAntwort1>Smiley für haarsträubend kurze Texte</falscheAntwort1>
+            <falscheAntwort2>Smiley für haarsträubend schlechte Texte</falscheAntwort2>
+            <falscheAntwort3>Smiley für haarsträubend lange Texte</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>B : - )</fragenText>
+            <richtigeAntwort>Smiley mit Sonnenbrille auf dem Kopf</richtigeAntwort>
+            <falscheAntwort1>Smiley mit Mütze auf dem Kopf</falscheAntwort1>
+            <falscheAntwort2>Smiley mit Taucherbrille auf dem Kopf</falscheAntwort2>
+            <falscheAntwort3>Smiley mit Verband auf dem Kopf</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>B - )</fragenText>
+            <richtigeAntwort>Smiley mit Sonnenbrille</richtigeAntwort>
+            <falscheAntwort1>Smiley mit Lupe</falscheAntwort1>
+            <falscheAntwort2>Smiley mit Fernglas</falscheAntwort2>
+            <falscheAntwort3>Smiley mit Kopftuch</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>8 - )</fragenText>
+            <richtigeAntwort>Smiley mit Brille</richtigeAntwort>
+            <falscheAntwort1>Smiley mit Hut</falscheAntwort1>
+            <falscheAntwort2>Smiley mit Locken</falscheAntwort2>
+            <falscheAntwort3>Smiley mit Schal</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>&gt; &gt; ; - &gt; &gt;</fragenText>
+            <richtigeAntwort>eine wirklich zynische Bemerkung</richtigeAntwort>
+            <falscheAntwort1>eine wirklich dumme Bemerkung</falscheAntwort1>
+            <falscheAntwort2>eine wirklich traurige Bemerkung</falscheAntwort2>
+            <falscheAntwort3>eine wirklich fröhliche Bemerkung</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>&gt; &gt; : - &gt; &gt;</fragenText>
+            <richtigeAntwort>Der Schreiber hat eine teuflische Bemerkung gemacht.</richtigeAntwort>
+            <falscheAntwort1>Der Schreiber hat eine feige Bemerkung gemacht.</falscheAntwort1>
+            <falscheAntwort2>Der Schreiber hat eine fröhliche Bemerkung gemacht.</falscheAntwort2>
+            <falscheAntwort3>Der Schreiber hat eine freche Bemerkung gemacht.</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>: - &gt; &gt;</fragenText>
+            <richtigeAntwort>Zynisches Smiley, der Schreiber hat gerade etwas ziemlich Bissiges geschrieben.</richtigeAntwort>
+            <falscheAntwort1>Fröhliches Smiley, der Schreiber hat gerade etwas ziemlich Fröhliches geschrieben.</falscheAntwort1>
+            <falscheAntwort2>Trauriges Smiley, der Schreiber hat gerade etwas ziemlich Trauriges geschrieben.</falscheAntwort2>
+            <falscheAntwort3>Ernstes Smiley, der Schreiber hat gerade etwas ziemlich Ernstes geschrieben.</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>: - I</fragenText>
+            <richtigeAntwort>nicht so gut wie ein glückliches Smiley</richtigeAntwort>
+            <falscheAntwort1>besser als ein glückliches Smiley</falscheAntwort1>
+            <falscheAntwort2>genau so gut wie ein glückliches Smiley</falscheAntwort2>
+            <falscheAntwort3>das glücklichste Smiley</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>: - (</fragenText>
+            <richtigeAntwort>Der Schreiber ist traurig.</richtigeAntwort>
+            <falscheAntwort1>Der Schreiber ist mutig.</falscheAntwort1>
+            <falscheAntwort2>Der Schreiber ist fröhlich.</falscheAntwort2>
+            <falscheAntwort3>Der Schreiber ist müde.</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>; - )</fragenText>
+            <richtigeAntwort>Der Schreiber hat eine kokette Bemerkung gemacht.</richtigeAntwort>
+            <falscheAntwort1>Der Schreiber hat eine neue Bemerkung gemacht.</falscheAntwort1>
+            <falscheAntwort2>Der Schreiber hat eine traurige Bemerkung gemacht.</falscheAntwort2>
+            <falscheAntwort3>Der Schreiber hat eine beleidigende Bemerkung gemacht.</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>: - )</fragenText>
+            <richtigeAntwort>Smiley ist fröhlich.</richtigeAntwort>
+            <falscheAntwort1>Smiley ist zornig.</falscheAntwort1>
+            <falscheAntwort2>Smiley ist traurig.</falscheAntwort2>
+            <falscheAntwort3>Smiley ist ernst.</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

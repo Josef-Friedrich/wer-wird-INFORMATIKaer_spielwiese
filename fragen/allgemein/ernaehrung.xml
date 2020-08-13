@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Allgemein</fach>
+    <thema>Ernährung</thema>
+    <autor>Klasse 8, GHS Stephan, KN, 05/06</autor>
+    <anzahlFragen>50</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>Bleibt man besser fit, wenn man ...</fragenText>
+            <richtigeAntwort>mehrere kleine Mahlzeiten (ca. 5 am Tag ) zu sich nimmt</richtigeAntwort>
+            <falscheAntwort1>ein dickes großes 250 g schweres Steak pro Tag isst</falscheAntwort1>
+            <falscheAntwort2>sich am besten nur von Brot ernährt</falscheAntwort2>
+            <falscheAntwort3>zweimal pro Tag eine große Portion Salat verdrückt</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Meine Gesundheit bleibt wahrscheinlich dann stabil, wenn ich jeden Tag ...</fragenText>
+            <richtigeAntwort>Knäckebrot mit 2 Scheiben Bündnerfleisch esse</richtigeAntwort>
+            <falscheAntwort1>drei Scheiben Weißbrot mit Lyoner esse</falscheAntwort1>
+            <falscheAntwort2>drei Tafeln Nussschokolade vertilge</falscheAntwort2>
+            <falscheAntwort3>250 g Quark (40% Fett) vermischt mit 100g Erdbeermarmelade esse</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Einen gesunden Blutdruck erhält man am besten, ....</fragenText>
+            <richtigeAntwort>wenn man ein Birchermüsli zu sich nimmt</richtigeAntwort>
+            <falscheAntwort1>wenn man tägl. Rühreier mit lange gebratenen Speckstreifen isst</falscheAntwort1>
+            <falscheAntwort2>wenn man sich mit viel Blutwurst verköstigt</falscheAntwort2>
+            <falscheAntwort3>wenn man ein Schnitzel mit viel Soße und Pommes isst</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wenn ich meinem Körper gesunde Nährstoffe zuführen will, dann ....</fragenText>
+            <richtigeAntwort>trinke ich ein Glas frisch gepressten Orangensaft</richtigeAntwort>
+            <falscheAntwort1>esse ich viel Kakaocreme auf mit Butter bestrichenem Weißbrot</falscheAntwort1>
+            <falscheAntwort2>trinke ich eine 0.5 l-Cola und esse dazu Paprika-Chips</falscheAntwort2>
+            <falscheAntwort3>trinke ich eine Dose Red Bull</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Kraft und ein Sättigungsgefühl erhält man am günstigsten, wenn man ...</fragenText>
+            <richtigeAntwort>Vollkornnudeln und Salat zu sich nimmt</richtigeAntwort>
+            <falscheAntwort1>Bandnudeln mit Zucker und Zimt als Nachtisch isst</falscheAntwort1>
+            <falscheAntwort2>nach der Schlachtplatte noch eine Caramelcreme vertilgt</falscheAntwort2>
+            <falscheAntwort3>eine Schweinshaxe mit Sauerkraut vollständig in sich aufnimmt</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Gute Vitamin-C-Spender, die du für die Stärkung deiner Anwehrkräfte gegen Infektionen brauchst sind ....</fragenText>
+            <richtigeAntwort>Gemüse, Kartoffeln und Obst</richtigeAntwort>
+            <falscheAntwort1>alle colahaltigen Getränke</falscheAntwort1>
+            <falscheAntwort2>Eistee vermischt mit Orangennektar</falscheAntwort2>
+            <falscheAntwort3>Zitronenteepulver</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Gefährlich für Gesundheit kann die Einnahme von zu viel Fett sein. Suche die Lebensmittel mit geringem Fettgehalt heraus.</fragenText>
+            <richtigeAntwort>Lachsschinken, Puten- und Hühnerfleisch</richtigeAntwort>
+            <falscheAntwort1>Butter und Schmalz</falscheAntwort1>
+            <falscheAntwort2>Chips, Knabbereien, Erdnüsse</falscheAntwort2>
+            <falscheAntwort3>Bratwurst, Leberwurst, Mettwurst</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Beim Essen sollte eine für die Gesundheit günstige Situation gesucht werden ...</fragenText>
+            <richtigeAntwort>in Ruhe, bei gemütlicher Atmosphäre</richtigeAntwort>
+            <falscheAntwort1>mit einem Döner in der Hand durch die Stadt laufend</falscheAntwort1>
+            <falscheAntwort2>gemütlich vor dem Fernseher beim Gespräch mit der Familie</falscheAntwort2>
+            <falscheAntwort3>am besten ganz alleine</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Damit das Essen einen guten Geschmack bekommt, ...</fragenText>
+            <richtigeAntwort>nimmt man passende frische Kräuter und Gewürze</richtigeAntwort>
+            <falscheAntwort1>sollte man mit dem Salz nicht sparen</falscheAntwort1>
+            <falscheAntwort2>benützt man weder Salz noch Gewürze</falscheAntwort2>
+            <falscheAntwort3>sollte auch der Zucker nicht fehlen</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Eine stimmige Ernährung bezüglich des Cholesterins wird erreicht, wenn ich ...</fragenText>
+            <richtigeAntwort>maximal drei Eier pro Woche esse</richtigeAntwort>
+            <falscheAntwort1>jeden Tag ein Ei esse</falscheAntwort1>
+            <falscheAntwort2>jeden Tag Rühreier mit Schinken verzehre</falscheAntwort2>
+            <falscheAntwort3>nur gekochte Eier zu mir nehme</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wenig süße Sachen kann man ohne schlechtes Gewissen ...</fragenText>
+            <richtigeAntwort>einmal pro Tag essen.</richtigeAntwort>
+            <falscheAntwort1>dreimal am Tag verzehren</falscheAntwort1>
+            <falscheAntwort2>soviel essen, wie man will</falscheAntwort2>
+            <falscheAntwort3>nur einmal in der Woche genießen</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Viele Milch- und Schokoriegel pro Tag....</fragenText>
+            <richtigeAntwort>machen dick und schädigen die Zähne</richtigeAntwort>
+            <falscheAntwort1>sind eine gute Nervennahrung</falscheAntwort1>
+            <falscheAntwort2>spenden viel Kraft und Energie</falscheAntwort2>
+            <falscheAntwort3>erhalten auf jeden Fall die Gesundheit</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Frisch zubereitete Speisen sollte man ...</fragenText>
+            <richtigeAntwort>so oft, wie möglich zu sich nehmen</richtigeAntwort>
+            <falscheAntwort1>nur einmal im Monat essen</falscheAntwort1>
+            <falscheAntwort2>einmal in der Woche vertilgen</falscheAntwort2>
+            <falscheAntwort3>links liegen lassen</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Basis für eine vollwertige Ernährung sind ...</fragenText>
+            <richtigeAntwort>Getreideprodukte und Kartoffeln</richtigeAntwort>
+            <falscheAntwort1>Milch, Fleisch, Eier und Wurst</falscheAntwort1>
+            <falscheAntwort2>Kohl, Salat, Rettich und Radieschen</falscheAntwort2>
+            <falscheAntwort3>Sahne, Kuchen, Schokolade und Plätzchen</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Versorgung meines Körpers mit Jod ist dann günstig, wenn ich ...</fragenText>
+            <richtigeAntwort>ein- bis zweimal die Woche Seefisch esse</richtigeAntwort>
+            <falscheAntwort1>die Speisen mit viel Jodsalz würze</falscheAntwort1>
+            <falscheAntwort2>jeden Tag Felchen esse</falscheAntwort2>
+            <falscheAntwort3>jeden Tag eine Jodtablette schlucke</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Nahrung wird super gut verwertet, wenn ich ...</fragenText>
+            <richtigeAntwort>sie möglichst gut zerkaue und einspeichle</richtigeAntwort>
+            <falscheAntwort1>sie so schnell wie möglich runterschlucke</falscheAntwort1>
+            <falscheAntwort2>möglichst viel Cola dazu trinke</falscheAntwort2>
+            <falscheAntwort3>auf jeden Fall vorher einen Aperitif trinke</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wenn ich meinen Körper nicht durch eine ungesunde Ernährung belasten will, dann esse ich ...</fragenText>
+            <richtigeAntwort>frisches Obst und Gemüse</richtigeAntwort>
+            <falscheAntwort1>kandierte Annanas</falscheAntwort1>
+            <falscheAntwort2>Tiefkühlgemüse</falscheAntwort2>
+            <falscheAntwort3>Pfirsiche und Erdbeeren aus Dosen</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Viele wichtige Mineralstoffe, Vitamine und hochwertiges Eiweiß liefern ...</fragenText>
+            <richtigeAntwort>zwei- bis dreimal die Woche Fleisch und Wurst</richtigeAntwort>
+            <falscheAntwort1>einmal die Woche Kartoffeln und Nudeln</falscheAntwort1>
+            <falscheAntwort2>zweimal die Woche nur Salat</falscheAntwort2>
+            <falscheAntwort3>dreimal die Woche vegetarische Lebensmittel</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zuviel Nahrungsfett führt zu Übergewicht und begünstigt langfristig die Entstehung von ...</fragenText>
+            <richtigeAntwort>Herz-Kreislauferkrankungen und Krebs</richtigeAntwort>
+            <falscheAntwort1>Knochenerweichung</falscheAntwort1>
+            <falscheAntwort2>Plattfüßen</falscheAntwort2>
+            <falscheAntwort3>Lungenembolie</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Für einen gesunden Körper ist nicht nur eine gesunde Ernährung wichtig, sondern auch ...</fragenText>
+            <richtigeAntwort>viel Bewegung</richtigeAntwort>
+            <falscheAntwort1>ein prima Fernsehsessel</falscheAntwort1>
+            <falscheAntwort2>möglichst wenig Bewegung</falscheAntwort2>
+            <falscheAntwort3>die häufige Benutzung eines Aufzuges</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Damit dir nichts an die Nieren geht, solltest du ...</fragenText>
+            <richtigeAntwort>genug trinken, damit Schad- und Giftstoffe rausgespült werden</richtigeAntwort>
+            <falscheAntwort1>nicht so viel trinken</falscheAntwort1>
+            <falscheAntwort2>nur Milch trinken</falscheAntwort2>
+            <falscheAntwort3>zur Desinfektion einen Schnaps runterschütten</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ist der Körper mit Wasser unterversorgt, dann ...</fragenText>
+            <richtigeAntwort>wird das Blut dickflüssig und der Kreislauf instabil</richtigeAntwort>
+            <falscheAntwort1>ist das prima für eine Gewichtsabnahme</falscheAntwort1>
+            <falscheAntwort2>spart das Energie</falscheAntwort2>
+            <falscheAntwort3>bekommt man gute Laune</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Für eine gesunde Haut ist es wichtig, dass man ...</fragenText>
+            <richtigeAntwort>dem Körper genügend Wasser zuführt</richtigeAntwort>
+            <falscheAntwort1>viele Äpfel isst</falscheAntwort1>
+            <falscheAntwort2>möglichst oft ins Solarium geht</falscheAntwort2>
+            <falscheAntwort3>dreimal pro Tag Nivea-Creme draufschmiert</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Vermeidet man bei sportlichen Aktivitäten das Trinken von Flüssigkeit, dann ...</fragenText>
+            <richtigeAntwort>können Muskelkrämpfe ausgelöst werden</richtigeAntwort>
+            <falscheAntwort1>sieht man alt aus</falscheAntwort1>
+            <falscheAntwort2>wird man sofort disqualifiziert</falscheAntwort2>
+            <falscheAntwort3>braucht man keine Angst vor Doping haben</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches sind die wasserhaltigsten Organe in unserem Körper?</fragenText>
+            <richtigeAntwort>Gehirn, Blut, Leber und Muskulatur</richtigeAntwort>
+            <falscheAntwort1>Darm, Adern und Ohren</falscheAntwort1>
+            <falscheAntwort2>Knochen, Nägel und Haare</falscheAntwort2>
+            <falscheAntwort3>Hände, Gesäß und Füße</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Für eine gute Gesundheit gibt man dem Körper am besten Flüssigkeit ...</fragenText>
+            <richtigeAntwort>in Form von Mineralwasser</richtigeAntwort>
+            <falscheAntwort1>in Form von Bier</falscheAntwort1>
+            <falscheAntwort2>in Form von Wein</falscheAntwort2>
+            <falscheAntwort3>in Form von viel Cola-Mix</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Deutsche Gesellschaft für Ernährung (DGE) empfiehlt allen Erwachsenen das tägliche Trinken von ...</fragenText>
+            <richtigeAntwort>mindestens 1,5 &#150; 2 Liter Flüssigkeit</richtigeAntwort>
+            <falscheAntwort1>einem halben Liter Wasser</falscheAntwort1>
+            <falscheAntwort2>mindestens drei Liter Wasser</falscheAntwort2>
+            <falscheAntwort3>einem Liter Flüssigkeit</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wichtig für gesunde Knochen und Zähne ist das Versorgen des Körpers mit ...</fragenText>
+            <richtigeAntwort>Milch, Käse und Joghurt</richtigeAntwort>
+            <falscheAntwort1>Fleisch und Wurst</falscheAntwort1>
+            <falscheAntwort2>Salat und Obst</falscheAntwort2>
+            <falscheAntwort3>Müsli und Schokolade</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Das maßvolle Essen von Käse ist für die Ernährung ...</fragenText>
+            <richtigeAntwort>gesund, weil er hochwertige Eiweißbausteine enthält</richtigeAntwort>
+            <falscheAntwort1>schlecht, weil er Verstopfung verursacht</falscheAntwort1>
+            <falscheAntwort2>wegen dem vielen Fettgehalt nicht gut</falscheAntwort2>
+            <falscheAntwort3>unbedeutend</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Das Trinken von einem Glas Milch pro Tag ...</fragenText>
+            <richtigeAntwort>ist wegen dem Inhalt ein wahrer Fitmacher-Cocktail</richtigeAntwort>
+            <falscheAntwort1>erzeugt oft nur Durchfall</falscheAntwort1>
+            <falscheAntwort2>bringt viel zu viel Fett in den Körper</falscheAntwort2>
+            <falscheAntwort3>schadet den Nieren</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Legt man während des Essens kleine Pausen ein, so merkt man besser, ...</fragenText>
+            <richtigeAntwort>wann man satt ist</richtigeAntwort>
+            <falscheAntwort1>wie gut das Essen schmeckt</falscheAntwort1>
+            <falscheAntwort2>was es noch alles auf dem Tisch zum Essen gibt</falscheAntwort2>
+            <falscheAntwort3>ob man noch vor den anderen etwas mehr abbekommt</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ein Pausenbrot zum Essen in der Schule ist ...</fragenText>
+            <richtigeAntwort>gut für den Energienachschub</richtigeAntwort>
+            <falscheAntwort1>nicht so wichtig</falscheAntwort1>
+            <falscheAntwort2>schlecht für das Lernen</falscheAntwort2>
+            <falscheAntwort3>das Geld nicht wert</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Frühstück, das erste zu Hause, das zweite zur Pause, ist ....</fragenText>
+            <richtigeAntwort>gut für eine ausgewogene Nährstoffversorgung des Körpers</richtigeAntwort>
+            <falscheAntwort1>ein unsinniger Werbegag</falscheAntwort1>
+            <falscheAntwort2>nicht machbar, wegen Zeitmangel</falscheAntwort2>
+            <falscheAntwort3>ohne die Mitnahme von Geld nicht zu machen</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ein gute Ernährung für den Körper in der Pause besteht aus ....</fragenText>
+            <richtigeAntwort>einem dunklen Brot mit Salat und Gurkenscheiben</richtigeAntwort>
+            <falscheAntwort1>einem Nutellabrot</falscheAntwort1>
+            <falscheAntwort2>einem vollwertigen Schoko-Riegel</falscheAntwort2>
+            <falscheAntwort3>einer Schneckennudel vom Pausenbäcker</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ein beispielhaftes Pausenbrot wäre ...</fragenText>
+            <richtigeAntwort>ein Brötchen mit Salami, dazu Radieschen</richtigeAntwort>
+            <falscheAntwort1>ein Roggenbrot mit Nutella, dazu Eistee</falscheAntwort1>
+            <falscheAntwort2>ein Mehrkornbrötchen mit Waldhonig, dazu Schokomilch</falscheAntwort2>
+            <falscheAntwort3>ein Roggenbrötchen mit Marmelade, dazu Fanta</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch sollte die Energiezufuhr pro Tag für 10 &#150; 12-jährige Mädchen sein?</fragenText>
+            <richtigeAntwort>2000 Kilokalorien</richtigeAntwort>
+            <falscheAntwort1>2500 Kilokalorien</falscheAntwort1>
+            <falscheAntwort2>1800 Kilokalorien</falscheAntwort2>
+            <falscheAntwort3>3000 Kilokalorien</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch sollte die Energiezufuhr pro Tag für 10 &#150; 12-jährige Jungen sein?</fragenText>
+            <richtigeAntwort>2300 Kilokalorien</richtigeAntwort>
+            <falscheAntwort1>2000 Kilokalorien</falscheAntwort1>
+            <falscheAntwort2>1900 Kilokalorien</falscheAntwort2>
+            <falscheAntwort3>3500 Kilokalorien</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die empfohlene Zufuhr an Eiweiß pro Tag für 10-12-jährige Mädchen ist ...</fragenText>
+            <richtigeAntwort>35 g</richtigeAntwort>
+            <falscheAntwort1>40 g</falscheAntwort1>
+            <falscheAntwort2>50 g</falscheAntwort2>
+            <falscheAntwort3>30 g</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Brot hält länger frisch?</fragenText>
+            <richtigeAntwort>Dunkles Brot</richtigeAntwort>
+            <falscheAntwort1>Weißbrot</falscheAntwort1>
+            <falscheAntwort2>Mischbrot</falscheAntwort2>
+            <falscheAntwort3>Mehrkornbrot</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Brotsorten gibt es in Deutschland?</fragenText>
+            <richtigeAntwort>ca. 300</richtigeAntwort>
+            <falscheAntwort1>ca. 150</falscheAntwort1>
+            <falscheAntwort2>ca. 200</falscheAntwort2>
+            <falscheAntwort3>ca. 350</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Das Forschungsinstitut für Kinderernährung (FKE) gibt die Empfehlung, dass Kinder reichlich ...</fragenText>
+            <richtigeAntwort>pflanzliche Lebensmittel essen sollten</richtigeAntwort>
+            <falscheAntwort1>tierische Lebensmittel essen sollten</falscheAntwort1>
+            <falscheAntwort2>fettreiche Speisen zu sich nehmen sollten</falscheAntwort2>
+            <falscheAntwort3>Milchprodukte zu sich nehmen sollten</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Optimix, eine Ernährungsempfehlung des FKE (Forschungsinst. f. Kinderernährg.) besagt, dass folgende Lebensmittel mäßig gegessen werden sollten ...</fragenText>
+            <richtigeAntwort>Milchprodukte, Fleisch, Wurst, Eier, Fisch</richtigeAntwort>
+            <falscheAntwort1>Öl, Margarine, Butter</falscheAntwort1>
+            <falscheAntwort2>Schokolade, Kuchen, Kekse</falscheAntwort2>
+            <falscheAntwort3>Kartoffeln, Nudeln, Brot, Obst</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Mineralstoffe, wie Magnesium u. Eisen, die Vitamine B1 u. B6, Ballaststoffe, Eiweiße und hochwertige Fette, sind vor allem im ...</fragenText>
+            <richtigeAntwort>Vollkornbrot enthalten</richtigeAntwort>
+            <falscheAntwort1>Weißbrot enthalten</falscheAntwort1>
+            <falscheAntwort2>Mischbrot enthalten</falscheAntwort2>
+            <falscheAntwort3>Kuchenbrot enthalten</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wichtige Grundnahrungsmittel im unteren Bereich der Nahrungsmittelpyramide sind ...</fragenText>
+            <richtigeAntwort>Brot, Nudeln, Reis, Kartoffeln</richtigeAntwort>
+            <falscheAntwort1>Zwieback, Kekse und Müsliriegel</falscheAntwort1>
+            <falscheAntwort2>Butter, Öl und Margarine</falscheAntwort2>
+            <falscheAntwort3>Käse, Milch und Joghurt</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Dein Körper besteht auch aus Wasser, was glaubst du, zu wie viel Prozent?</fragenText>
+            <richtigeAntwort>ca. 70 %</richtigeAntwort>
+            <falscheAntwort1>ca. 35 %</falscheAntwort1>
+            <falscheAntwort2>ca. 50 %</falscheAntwort2>
+            <falscheAntwort3>ca. 33 %</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Mädchen, im Alter von 10-12 Jahren haben pro Tag einen Fett-Bedarf von ...</fragenText>
+            <richtigeAntwort>ca. 72 g</richtigeAntwort>
+            <falscheAntwort1>ca. 150 g</falscheAntwort1>
+            <falscheAntwort2>ca. 53 g</falscheAntwort2>
+            <falscheAntwort3>ca. 33 g</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Jungen, im Alter von 10-12 Jahren haben pro Tag einen Fett-Bedarf von ...</fragenText>
+            <richtigeAntwort>ca. 77 g</richtigeAntwort>
+            <falscheAntwort1>ca. 100 g</falscheAntwort1>
+            <falscheAntwort2>ca. 59 g</falscheAntwort2>
+            <falscheAntwort3>ca. 25 g</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Schätze den Fettgehalt von 50 g Kartoffelchips!</fragenText>
+            <richtigeAntwort>ca. 20 g</richtigeAntwort>
+            <falscheAntwort1>ca. 10 g</falscheAntwort1>
+            <falscheAntwort2>ca. 7 g</falscheAntwort2>
+            <falscheAntwort3>ca. 13 g</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Lebensmittel hat deiner Meinung nach den größten Fettgehalt?</fragenText>
+            <richtigeAntwort>50 g Kartoffelchips</richtigeAntwort>
+            <falscheAntwort1>15 g Salami</falscheAntwort1>
+            <falscheAntwort2>30 g Gouda-Käse</falscheAntwort2>
+            <falscheAntwort3>10 g Butter</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Lebensmittel hat wohl den geringsten Fettgehalt?</fragenText>
+            <richtigeAntwort>200 g Karotten</richtigeAntwort>
+            <falscheAntwort1>50 g Mehrkornbrot</falscheAntwort1>
+            <falscheAntwort2>100 g Croissant (Hörnchen)</falscheAntwort2>
+            <falscheAntwort3>30 g Schokolade</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

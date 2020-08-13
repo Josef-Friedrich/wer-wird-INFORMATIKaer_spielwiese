@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Erdkunde</fach>
+    <thema>Astronomie</thema>
+    <autor>Lukas Pusl, VS Pemfling, Klasse 4, 10/2001</autor>
+    <anzahlFragen>24</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>Wie heißt der größte Planet in unserem Sonnensystem?</fragenText>
+            <richtigeAntwort>Jupiter</richtigeAntwort>
+            <falscheAntwort1>Saturn</falscheAntwort1>
+            <falscheAntwort2>Neptun</falscheAntwort2>
+            <falscheAntwort3>Erde</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Womit beobachtet man heute die Sterne?</fragenText>
+            <richtigeAntwort>Teleskop</richtigeAntwort>
+            <falscheAntwort1>Mikroskop</falscheAntwort1>
+            <falscheAntwort2>Fernglas</falscheAntwort2>
+            <falscheAntwort3>Brille</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie wird eine Sternwarte noch genannt?</fragenText>
+            <richtigeAntwort>Observatorium</richtigeAntwort>
+            <falscheAntwort1>Krematorium</falscheAntwort1>
+            <falscheAntwort2>Oratorium</falscheAntwort2>
+            <falscheAntwort3>Raumstation</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie wird die Galaxie noch genannt, zu der unser Sonnensystem gehört?</fragenText>
+            <richtigeAntwort>Milchstraße</richtigeAntwort>
+            <falscheAntwort1>Sternstraße</falscheAntwort1>
+            <falscheAntwort2>Sternhaufen</falscheAntwort2>
+            <falscheAntwort3>Milchautobahn</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Forscher entdeckte zuerst die Gebirge des Mondes?</fragenText>
+            <richtigeAntwort>Galileo Galilei</richtigeAntwort>
+            <falscheAntwort1>Johannes Kepler</falscheAntwort1>
+            <falscheAntwort2>Johann Sebastian Bach</falscheAntwort2>
+            <falscheAntwort3>Friedrich Schiller</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Woraus bestehen die Ringe des Saturn?</fragenText>
+            <richtigeAntwort>Gestein, Eis und Staub</richtigeAntwort>
+            <falscheAntwort1>Luft</falscheAntwort1>
+            <falscheAntwort2>Gas</falscheAntwort2>
+            <falscheAntwort3>Nebel</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen die zwei Mondes des Mars?</fragenText>
+            <richtigeAntwort>Phobos und Deimos</richtigeAntwort>
+            <falscheAntwort1>Uranus und Neptun</falscheAntwort1>
+            <falscheAntwort2>Miranda und Triton</falscheAntwort2>
+            <falscheAntwort3>Titan und Charon</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die russische Raumstation?</fragenText>
+            <richtigeAntwort>MIR</richtigeAntwort>
+            <falscheAntwort1>Apollo</falscheAntwort1>
+            <falscheAntwort2>Sojus</falscheAntwort2>
+            <falscheAntwort3>Hubble</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen Flug- und Messobjekte, die Bilder auf die Erde senden?</fragenText>
+            <richtigeAntwort>Satelliten</richtigeAntwort>
+            <falscheAntwort1>Raketen</falscheAntwort1>
+            <falscheAntwort2>Sonden</falscheAntwort2>
+            <falscheAntwort3>Raumschiffe</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Planet ist am weitesten von der Sonne entfernt?</fragenText>
+            <richtigeAntwort>Pluto</richtigeAntwort>
+            <falscheAntwort1>Erde</falscheAntwort1>
+            <falscheAntwort2>Merkur</falscheAntwort2>
+            <falscheAntwort3>Titan</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Himmelkörper nimmt in einem Monat stark ab?</fragenText>
+            <richtigeAntwort>Mond</richtigeAntwort>
+            <falscheAntwort1>Planet</falscheAntwort1>
+            <falscheAntwort2>Mars</falscheAntwort2>
+            <falscheAntwort3>Sonne</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer betrat als erster Mensch den Mond?</fragenText>
+            <richtigeAntwort>Neil Armstrong</richtigeAntwort>
+            <falscheAntwort1>John Glenn</falscheAntwort1>
+            <falscheAntwort2>Juri Gagarin</falscheAntwort2>
+            <falscheAntwort3>Ulf Merbold</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Himmelskörper haben einen Schweif?</fragenText>
+            <richtigeAntwort>Kometen</richtigeAntwort>
+            <falscheAntwort1>Planeten</falscheAntwort1>
+            <falscheAntwort2>Asteroiden</falscheAntwort2>
+            <falscheAntwort3>Sterne</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus welchem Stoff bestehen die Sterne?</fragenText>
+            <richtigeAntwort>aus heißem Gas</richtigeAntwort>
+            <falscheAntwort1>aus Eis</falscheAntwort1>
+            <falscheAntwort2>aus Luft</falscheAntwort2>
+            <falscheAntwort3>aus Gestein</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen Raumfahrer noch?</fragenText>
+            <richtigeAntwort>Astronauten</richtigeAntwort>
+            <falscheAntwort1>Physiker</falscheAntwort1>
+            <falscheAntwort2>Biologen</falscheAntwort2>
+            <falscheAntwort3>Sterngucker</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Begleiter der Erde?</fragenText>
+            <richtigeAntwort>Mond</richtigeAntwort>
+            <falscheAntwort1>Miranda</falscheAntwort1>
+            <falscheAntwort2>Triton</falscheAntwort2>
+            <falscheAntwort3>Charon</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie wird die Erde noch genannt?</fragenText>
+            <richtigeAntwort>der blaue Planet</richtigeAntwort>
+            <falscheAntwort1>der schöne Planet</falscheAntwort1>
+            <falscheAntwort2>der bewohnte Planet</falscheAntwort2>
+            <falscheAntwort3>der fruchtbare Planet</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen die Flugobjekte der Außerirdischen?</fragenText>
+            <richtigeAntwort>UFOs</richtigeAntwort>
+            <falscheAntwort1>fliegende Unterteller</falscheAntwort1>
+            <falscheAntwort2>Raketen</falscheAntwort2>
+            <falscheAntwort3>Raumschiffe</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Planet unseres Sonnensystems ist der kleinste?</fragenText>
+            <richtigeAntwort>Pluto</richtigeAntwort>
+            <falscheAntwort1>Uranus</falscheAntwort1>
+            <falscheAntwort2>Merkur</falscheAntwort2>
+            <falscheAntwort3>Mond</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist eine Galaxie?</fragenText>
+            <richtigeAntwort>ein Sternensystem</richtigeAntwort>
+            <falscheAntwort1>eine Raumstation</falscheAntwort1>
+            <falscheAntwort2>eine italienische Eisdiele</falscheAntwort2>
+            <falscheAntwort3>eine Diskothek</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lange braucht die Erde bis sie einmal die Sonne umkreist?</fragenText>
+            <richtigeAntwort>ein Jahr</richtigeAntwort>
+            <falscheAntwort1>eine Woche</falscheAntwort1>
+            <falscheAntwort2>einen Tag</falscheAntwort2>
+            <falscheAntwort3>einen Monat</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Sternzeichen gibt es nicht?</fragenText>
+            <richtigeAntwort>Ochse</richtigeAntwort>
+            <falscheAntwort1>Stier</falscheAntwort1>
+            <falscheAntwort2>Fisch</falscheAntwort2>
+            <falscheAntwort3>Zwilling</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Schutzschicht der Erde?</fragenText>
+            <richtigeAntwort>Ozonschicht</richtigeAntwort>
+            <falscheAntwort1>Gasschicht</falscheAntwort1>
+            <falscheAntwort2>Atmosphäre</falscheAntwort2>
+            <falscheAntwort3>Luftschicht</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Himmelskörper wird nach einem Meeresgott benannt?</fragenText>
+            <richtigeAntwort>Neptun</richtigeAntwort>
+            <falscheAntwort1>Pluto</falscheAntwort1>
+            <falscheAntwort2>Mars</falscheAntwort2>
+            <falscheAntwort3>Jupiter</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

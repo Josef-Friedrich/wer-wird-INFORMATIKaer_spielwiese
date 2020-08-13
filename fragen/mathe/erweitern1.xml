@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Mathe</fach>
+    <thema>Erweitern von Brüchen</thema>
+    <autor>E. Trüber, 9/2001</autor>
+    <anzahlFragen>30</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>2/3 =</fragenText>
+            <richtigeAntwort>26/39</richtigeAntwort>
+            <falscheAntwort1>28/48</falscheAntwort1>
+            <falscheAntwort2>30/40</falscheAntwort2>
+            <falscheAntwort3>14/28</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>4/5 =</fragenText>
+            <richtigeAntwort>48/60</richtigeAntwort>
+            <falscheAntwort1>50/60</falscheAntwort1>
+            <falscheAntwort2>60/130</falscheAntwort2>
+            <falscheAntwort3>60/120</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>2/7 =</fragenText>
+            <richtigeAntwort>34/119</richtigeAntwort>
+            <falscheAntwort1>34/121</falscheAntwort1>
+            <falscheAntwort2>36/119</falscheAntwort2>
+            <falscheAntwort3>4/70</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>6/7 =</fragenText>
+            <richtigeAntwort>48/56</richtigeAntwort>
+            <falscheAntwort1>54/56</falscheAntwort1>
+            <falscheAntwort2>48/63</falscheAntwort2>
+            <falscheAntwort3>24/42</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>3/4 =</fragenText>
+            <richtigeAntwort>45/60</richtigeAntwort>
+            <falscheAntwort1>45/56</falscheAntwort1>
+            <falscheAntwort2>42/60</falscheAntwort2>
+            <falscheAntwort3>15/16</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>5/8 =</fragenText>
+            <richtigeAntwort>50/80</richtigeAntwort>
+            <falscheAntwort1>45/80</falscheAntwort1>
+            <falscheAntwort2>50/88</falscheAntwort2>
+            <falscheAntwort3>40/80</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>1/3 =</fragenText>
+            <richtigeAntwort>60/180</richtigeAntwort>
+            <falscheAntwort1>50/200</falscheAntwort1>
+            <falscheAntwort2>60/150</falscheAntwort2>
+            <falscheAntwort3>90/210</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>1/2 =</fragenText>
+            <richtigeAntwort>50/100</richtigeAntwort>
+            <falscheAntwort1>50/200</falscheAntwort1>
+            <falscheAntwort2>10/50</falscheAntwort2>
+            <falscheAntwort3>2/5</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>1/4 =</fragenText>
+            <richtigeAntwort>30/120</richtigeAntwort>
+            <falscheAntwort1>20/100</falscheAntwort1>
+            <falscheAntwort2>40/80</falscheAntwort2>
+            <falscheAntwort3>120/400</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>1/5 =</fragenText>
+            <richtigeAntwort>70/350</richtigeAntwort>
+            <falscheAntwort1>50/300</falscheAntwort1>
+            <falscheAntwort2>60/350</falscheAntwort2>
+            <falscheAntwort3>80/300</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>2/5 =</fragenText>
+            <richtigeAntwort>70/135</richtigeAntwort>
+            <falscheAntwort1>80/120</falscheAntwort1>
+            <falscheAntwort2>60/160</falscheAntwort2>
+            <falscheAntwort3>70/120</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>3/5 =</fragenText>
+            <richtigeAntwort>45/75</richtigeAntwort>
+            <falscheAntwort1>30/40</falscheAntwort1>
+            <falscheAntwort2>60/80</falscheAntwort2>
+            <falscheAntwort3>12/15</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>4/5 =</fragenText>
+            <richtigeAntwort>68/85</richtigeAntwort>
+            <falscheAntwort1>84/110</falscheAntwort1>
+            <falscheAntwort2>12/20</falscheAntwort2>
+            <falscheAntwort3>16/25</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>2/9 =</fragenText>
+            <richtigeAntwort>38/171</richtigeAntwort>
+            <falscheAntwort1>12/20</falscheAntwort1>
+            <falscheAntwort2>20/100</falscheAntwort2>
+            <falscheAntwort3>18/90</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>4/9 =</fragenText>
+            <richtigeAntwort>100/225</richtigeAntwort>
+            <falscheAntwort1>40/100</falscheAntwort1>
+            <falscheAntwort2>80/90</falscheAntwort2>
+            <falscheAntwort3>200/500</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>1/6 =</fragenText>
+            <richtigeAntwort>300/1800</richtigeAntwort>
+            <falscheAntwort1>100/500</falscheAntwort1>
+            <falscheAntwort2>200/1000</falscheAntwort2>
+            <falscheAntwort3>300/1500</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>5/6 =</fragenText>
+            <richtigeAntwort>40/48</richtigeAntwort>
+            <falscheAntwort1>45/50</falscheAntwort1>
+            <falscheAntwort2>35/48</falscheAntwort2>
+            <falscheAntwort3>55/60</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>1/7 =</fragenText>
+            <richtigeAntwort>9/63</richtigeAntwort>
+            <falscheAntwort1>9/64</falscheAntwort1>
+            <falscheAntwort2>9/65</falscheAntwort2>
+            <falscheAntwort3>9/62</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>2/7 =</fragenText>
+            <richtigeAntwort>50/175</richtigeAntwort>
+            <falscheAntwort1>6/14</falscheAntwort1>
+            <falscheAntwort2>20/140</falscheAntwort2>
+            <falscheAntwort3>407210</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>3/7 =</fragenText>
+            <richtigeAntwort>45/105</richtigeAntwort>
+            <falscheAntwort1>39/71</falscheAntwort1>
+            <falscheAntwort2>42/91</falscheAntwort2>
+            <falscheAntwort3>36/77</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>4/7 =</fragenText>
+            <richtigeAntwort>72/126</richtigeAntwort>
+            <falscheAntwort1>68/112</falscheAntwort1>
+            <falscheAntwort2>64/126</falscheAntwort2>
+            <falscheAntwort3>607112</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>5/7 =</fragenText>
+            <richtigeAntwort>55/77</richtigeAntwort>
+            <falscheAntwort1>50/77</falscheAntwort1>
+            <falscheAntwort2>55/70</falscheAntwort2>
+            <falscheAntwort3>50/140</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>6/7 =</fragenText>
+            <richtigeAntwort>210/245</richtigeAntwort>
+            <falscheAntwort1>180/280</falscheAntwort1>
+            <falscheAntwort2>120/175</falscheAntwort2>
+            <falscheAntwort3>150/210</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>1/8 =</fragenText>
+            <richtigeAntwort>9/72</richtigeAntwort>
+            <falscheAntwort1>10/90</falscheAntwort1>
+            <falscheAntwort2>8/72</falscheAntwort2>
+            <falscheAntwort3>9/56</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>3/8 =</fragenText>
+            <richtigeAntwort>12/32</richtigeAntwort>
+            <falscheAntwort1>15/45</falscheAntwort1>
+            <falscheAntwort2>24/32</falscheAntwort2>
+            <falscheAntwort3>18/42</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>5/8 =</fragenText>
+            <richtigeAntwort>60/96</richtigeAntwort>
+            <falscheAntwort1>55/72</falscheAntwort1>
+            <falscheAntwort2>60/104</falscheAntwort2>
+            <falscheAntwort3>65/96</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>7/8 =</fragenText>
+            <richtigeAntwort>91/104</richtigeAntwort>
+            <falscheAntwort1>84/104</falscheAntwort1>
+            <falscheAntwort2>98/104</falscheAntwort2>
+            <falscheAntwort3>84/104</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>1/9 =</fragenText>
+            <richtigeAntwort>13/117</richtigeAntwort>
+            <falscheAntwort1>14/117</falscheAntwort1>
+            <falscheAntwort2>15/126</falscheAntwort2>
+            <falscheAntwort3>13/126</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>2/9 =</fragenText>
+            <richtigeAntwort>30/135</richtigeAntwort>
+            <falscheAntwort1>28/135</falscheAntwort1>
+            <falscheAntwort2>30/126</falscheAntwort2>
+            <falscheAntwort3>28/117</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>5/9 =</fragenText>
+            <richtigeAntwort>80/144</richtigeAntwort>
+            <falscheAntwort1>75/144</falscheAntwort1>
+            <falscheAntwort2>80/135</falscheAntwort2>
+            <falscheAntwort3>55/108</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

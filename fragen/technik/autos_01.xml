@@ -1,0 +1,1119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Technik</fach>
+    <thema>Rund um das Auto</thema>
+    <autor>Manfred Hartisch 6/2001</autor>
+    <anzahlFragen>111</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>Was bedeutet die Abkürzung „PKW“?</fragenText>
+            <richtigeAntwort>Personenkraftwagen</richtigeAntwort>
+            <falscheAntwort1>Postkutschenwerk</falscheAntwort1>
+            <falscheAntwort2>Polizeikraftwagen</falscheAntwort2>
+            <falscheAntwort3>Personenkunstwagen</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was bedeutet die Abkürzung „LKW“?</fragenText>
+            <richtigeAntwort>Lastkraftwagen</richtigeAntwort>
+            <falscheAntwort1>Langer Kranwagen</falscheAntwort1>
+            <falscheAntwort2>Lauter Kraftwagen</falscheAntwort2>
+            <falscheAntwort3>Leiser Kraftwagen</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was bedeutet die Abkürzung „VW“?</fragenText>
+            <richtigeAntwort>Volkswagen</richtigeAntwort>
+            <falscheAntwort1>Verkehrswagen</falscheAntwort1>
+            <falscheAntwort2>Violetter Wagen</falscheAntwort2>
+            <falscheAntwort3>Volkswippe</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was bedeutet die Abkürzung „BMW“?</fragenText>
+            <richtigeAntwort>Bayrische Motorenwerke</richtigeAntwort>
+            <falscheAntwort1>Badische Motorenwerke</falscheAntwort1>
+            <falscheAntwort2>Berliner Motorenwerke</falscheAntwort2>
+            <falscheAntwort3>Bonner Motorenwerke</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was bedeutet die Abkürzung „AU“?</fragenText>
+            <richtigeAntwort>Abgas - Untersuchung</richtigeAntwort>
+            <falscheAntwort1>Auto - Untersuchung</falscheAntwort1>
+            <falscheAntwort2>Allgemeine Untersuchung</falscheAntwort2>
+            <falscheAntwort3>Achte Untersuchung</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was bedeutet die Abkürzung „ABS“?</fragenText>
+            <richtigeAntwort>Anti - Blockier - System</richtigeAntwort>
+            <falscheAntwort1>Altes - Brems - System</falscheAntwort1>
+            <falscheAntwort2>Auto - Brems - System</falscheAntwort2>
+            <falscheAntwort3>Anti - Bus - System</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was bedeutet die Abkürzung „TÜV“?</fragenText>
+            <richtigeAntwort>Technischer - Überwachungs - Verein</richtigeAntwort>
+            <falscheAntwort1>Täglicher - Übungs - Verkehr</falscheAntwort1>
+            <falscheAntwort2>Technischer - Überhol - Verein</falscheAntwort2>
+            <falscheAntwort3>Totales - Überhol - Verbot</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was bedeutet die Abkürzung „PS“?</fragenText>
+            <richtigeAntwort>Pferde - Stärke</richtigeAntwort>
+            <falscheAntwort1>Prima - Stark</falscheAntwort1>
+            <falscheAntwort2>Polizei - Sender</falscheAntwort2>
+            <falscheAntwort3>Pinscher - Stärke</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Nach welchem Familienmitglied nannte Karl Benz seine Autos?</fragenText>
+            <richtigeAntwort>Tochter</richtigeAntwort>
+            <falscheAntwort1>Frau</falscheAntwort1>
+            <falscheAntwort2>Tante</falscheAntwort2>
+            <falscheAntwort3>Mutter</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was sind die Firmenfarben von „BMW“?</fragenText>
+            <richtigeAntwort>blau und weiß</richtigeAntwort>
+            <falscheAntwort1>grün und rot</falscheAntwort1>
+            <falscheAntwort2>weiß und schwarz</falscheAntwort2>
+            <falscheAntwort3>gelb und blau</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Firmenfarbe von Ferrari ist ...</fragenText>
+            <richtigeAntwort>rot</richtigeAntwort>
+            <falscheAntwort1>grün</falscheAntwort1>
+            <falscheAntwort2>silber</falscheAntwort2>
+            <falscheAntwort3>blau</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welcher Stadt werden „VW´s“ gebaut?</fragenText>
+            <richtigeAntwort>Wolfsburg</richtigeAntwort>
+            <falscheAntwort1>Essen</falscheAntwort1>
+            <falscheAntwort2>Frankfurt</falscheAntwort2>
+            <falscheAntwort3>Mannheim</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welcher Stadt werden „Opel“ gebaut?</fragenText>
+            <richtigeAntwort>Rüsselsheim</richtigeAntwort>
+            <falscheAntwort1>Hamburg</falscheAntwort1>
+            <falscheAntwort2>Berlin</falscheAntwort2>
+            <falscheAntwort3>Karlsruhe</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welcher Stadt werden „Opel“ gebaut?</fragenText>
+            <richtigeAntwort>Bochum</richtigeAntwort>
+            <falscheAntwort1>Dortmund</falscheAntwort1>
+            <falscheAntwort2>Hannover</falscheAntwort2>
+            <falscheAntwort3>Erfurt</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo werden „Porsche“ gebaut?</fragenText>
+            <richtigeAntwort>Stuttgart - Zuffenhausen</richtigeAntwort>
+            <falscheAntwort1>Hamburg - Altona</falscheAntwort1>
+            <falscheAntwort2>Duisburg - Wedau</falscheAntwort2>
+            <falscheAntwort3>Berlin - Zoo</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo werden „Mercedes“ - Autos gebaut?</fragenText>
+            <richtigeAntwort>Stuttgart</richtigeAntwort>
+            <falscheAntwort1>Kiel</falscheAntwort1>
+            <falscheAntwort2>Rostock</falscheAntwort2>
+            <falscheAntwort3>Saarbrücken</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist das Markenzeichen von „Mercedes“?</fragenText>
+            <richtigeAntwort>ein Stern</richtigeAntwort>
+            <falscheAntwort1>ein Blitz</falscheAntwort1>
+            <falscheAntwort2>ein Kreuz</falscheAntwort2>
+            <falscheAntwort3>eine Sonne</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist das Markenzeichen von „Audi“?</fragenText>
+            <richtigeAntwort>4 Kreise</richtigeAntwort>
+            <falscheAntwort1>3 Kreise</falscheAntwort1>
+            <falscheAntwort2>2 Kreise</falscheAntwort2>
+            <falscheAntwort3>1 Kreis</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist das Markenzeichen von „Ferrari“?</fragenText>
+            <richtigeAntwort>ein springendes Pferd</richtigeAntwort>
+            <falscheAntwort1>ein springender Hirsch</falscheAntwort1>
+            <falscheAntwort2>ein rennender Löwe</falscheAntwort2>
+            <falscheAntwort3>ein rasender Gepard</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was bedeutet das „D“ bei manchen Autos?</fragenText>
+            <richtigeAntwort>Diesel</richtigeAntwort>
+            <falscheAntwort1>Dienstfahrzeug</falscheAntwort1>
+            <falscheAntwort2>nur für Damen</falscheAntwort2>
+            <falscheAntwort3>dunkles Auto</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Modelltyp ist kein „VW“?</fragenText>
+            <richtigeAntwort>Tipo</richtigeAntwort>
+            <falscheAntwort1>Lupo</falscheAntwort1>
+            <falscheAntwort2>Polo</falscheAntwort2>
+            <falscheAntwort3>Bora</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Modelltyp ist kein „VW“?</fragenText>
+            <richtigeAntwort>Prelude</richtigeAntwort>
+            <falscheAntwort1>Sharan</falscheAntwort1>
+            <falscheAntwort2>Multivan</falscheAntwort2>
+            <falscheAntwort3>Passat</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Modelltyp ist kein „Ford“?</fragenText>
+            <richtigeAntwort>Logo</richtigeAntwort>
+            <falscheAntwort1>Ka</falscheAntwort1>
+            <falscheAntwort2>Focus</falscheAntwort2>
+            <falscheAntwort3>Mondeo</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Modelltyp ist kein „Opel“?</fragenText>
+            <richtigeAntwort>Brava</richtigeAntwort>
+            <falscheAntwort1>Sintra</falscheAntwort1>
+            <falscheAntwort2>Vectra</falscheAntwort2>
+            <falscheAntwort3>Corsa</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Modelltyp ist kein „Opel“?</fragenText>
+            <richtigeAntwort>Golf</richtigeAntwort>
+            <falscheAntwort1>Astra</falscheAntwort1>
+            <falscheAntwort2>Corsa</falscheAntwort2>
+            <falscheAntwort3>Omega</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Klasse ist kein „Mercedes“?</fragenText>
+            <richtigeAntwort>F - Klasse</richtigeAntwort>
+            <falscheAntwort1>A - Klasse</falscheAntwort1>
+            <falscheAntwort2>E - Klasse</falscheAntwort2>
+            <falscheAntwort3>C - Klasse</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Reihe ist kein „BMW“?</fragenText>
+            <richtigeAntwort>9 -er</richtigeAntwort>
+            <falscheAntwort1>3 -er</falscheAntwort1>
+            <falscheAntwort2>5 - er</falscheAntwort2>
+            <falscheAntwort3>7- er</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche A - Nummer ist kein Audi?</fragenText>
+            <richtigeAntwort>A 10</richtigeAntwort>
+            <falscheAntwort1>A 8</falscheAntwort1>
+            <falscheAntwort2>A 6</falscheAntwort2>
+            <falscheAntwort3>A 4</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welcher Automarke gehört das Modell „Fiesta“?</fragenText>
+            <richtigeAntwort>Ford</richtigeAntwort>
+            <falscheAntwort1>VW</falscheAntwort1>
+            <falscheAntwort2>Opel</falscheAntwort2>
+            <falscheAntwort3>Porsche</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welcher Automarke gehört das Modell „Lupo“?</fragenText>
+            <richtigeAntwort>VW</richtigeAntwort>
+            <falscheAntwort1>Mazda</falscheAntwort1>
+            <falscheAntwort2>Mercedes</falscheAntwort2>
+            <falscheAntwort3>Ford</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welcher Automarke gehört das Modell „Corsa“?</fragenText>
+            <richtigeAntwort>Opel</richtigeAntwort>
+            <falscheAntwort1>BMW</falscheAntwort1>
+            <falscheAntwort2>Rover</falscheAntwort2>
+            <falscheAntwort3>Honda</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welcher Automarke gehört das Modell „Passat“?</fragenText>
+            <richtigeAntwort>VW</richtigeAntwort>
+            <falscheAntwort1>Ford</falscheAntwort1>
+            <falscheAntwort2>Opel</falscheAntwort2>
+            <falscheAntwort3>BMW</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welcher Automarke gehört das Modell „Focus“?</fragenText>
+            <richtigeAntwort>Ford</richtigeAntwort>
+            <falscheAntwort1>Opel</falscheAntwort1>
+            <falscheAntwort2>VW</falscheAntwort2>
+            <falscheAntwort3>BMW</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welcher Automarke gehört das Modell „Golf“?</fragenText>
+            <richtigeAntwort>VW</richtigeAntwort>
+            <falscheAntwort1>Opel</falscheAntwort1>
+            <falscheAntwort2>Ford</falscheAntwort2>
+            <falscheAntwort3>Peugeot</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welcher Automarke gehört das Modell „Cicvic“?</fragenText>
+            <richtigeAntwort>Honda</richtigeAntwort>
+            <falscheAntwort1>Mitsubishi</falscheAntwort1>
+            <falscheAntwort2>Suzuki</falscheAntwort2>
+            <falscheAntwort3>Citroen</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welcher Automarke gehört das Modell „Avensis“?</fragenText>
+            <richtigeAntwort>Toyota</richtigeAntwort>
+            <falscheAntwort1>Honda</falscheAntwort1>
+            <falscheAntwort2>Kia</falscheAntwort2>
+            <falscheAntwort3>Mazda</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welcher Automarke gehört das Modell „Oktavia“?</fragenText>
+            <richtigeAntwort>Skoda</richtigeAntwort>
+            <falscheAntwort1>Lancia</falscheAntwort1>
+            <falscheAntwort2>Seat</falscheAntwort2>
+            <falscheAntwort3>Fiat</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welcher Automarke gehört das Modell „Marea“?</fragenText>
+            <richtigeAntwort>Fiat</richtigeAntwort>
+            <falscheAntwort1>Alfa Romeo</falscheAntwort1>
+            <falscheAntwort2>BMW</falscheAntwort2>
+            <falscheAntwort3>Renault</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welcher Automarke gehört das Modell „Megane“?</fragenText>
+            <richtigeAntwort>Renault</richtigeAntwort>
+            <falscheAntwort1>Citroen</falscheAntwort1>
+            <falscheAntwort2>Peugeot</falscheAntwort2>
+            <falscheAntwort3>Nissan</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welcher Automarke gehört das Modell „Saxo“?</fragenText>
+            <richtigeAntwort>Citroen</richtigeAntwort>
+            <falscheAntwort1>Renault</falscheAntwort1>
+            <falscheAntwort2>Toyota</falscheAntwort2>
+            <falscheAntwort3>Mazda</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus welchem Land kommt der „Peugeot“?</fragenText>
+            <richtigeAntwort>Frankreich</richtigeAntwort>
+            <falscheAntwort1>Italien</falscheAntwort1>
+            <falscheAntwort2>Schweden</falscheAntwort2>
+            <falscheAntwort3>Deutschland</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus welchem Land kommt der „Mercedes“?</fragenText>
+            <richtigeAntwort>Deutschland</richtigeAntwort>
+            <falscheAntwort1>Frankreich</falscheAntwort1>
+            <falscheAntwort2>Belgien</falscheAntwort2>
+            <falscheAntwort3>Italien</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus welchem Land kommt der „Audi“?</fragenText>
+            <richtigeAntwort>Deutschland</richtigeAntwort>
+            <falscheAntwort1>Schweden</falscheAntwort1>
+            <falscheAntwort2>Japan</falscheAntwort2>
+            <falscheAntwort3>Schweiz</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus welchem Land kommt der „Alfa Romeo“?</fragenText>
+            <richtigeAntwort>Italien</richtigeAntwort>
+            <falscheAntwort1>Rumänien</falscheAntwort1>
+            <falscheAntwort2>Spanien</falscheAntwort2>
+            <falscheAntwort3>Deutschland</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus welchem Land kommt der „Nissan“?</fragenText>
+            <richtigeAntwort>Japan</richtigeAntwort>
+            <falscheAntwort1>Korea</falscheAntwort1>
+            <falscheAntwort2>Frankreich</falscheAntwort2>
+            <falscheAntwort3>Norwegen</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus welchem Land kommt der „Opel“?</fragenText>
+            <richtigeAntwort>Deutschland</richtigeAntwort>
+            <falscheAntwort1>Italien</falscheAntwort1>
+            <falscheAntwort2>Holland</falscheAntwort2>
+            <falscheAntwort3>Portugal</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus welchem Land kommt der „Citroen“?</fragenText>
+            <richtigeAntwort>Frankreich</richtigeAntwort>
+            <falscheAntwort1>Deutschland</falscheAntwort1>
+            <falscheAntwort2>Österreich</falscheAntwort2>
+            <falscheAntwort3>Polen</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus welchem Land kommt der „BMW“?</fragenText>
+            <richtigeAntwort>Deutschland</richtigeAntwort>
+            <falscheAntwort1>Frankreich</falscheAntwort1>
+            <falscheAntwort2>Belgien</falscheAntwort2>
+            <falscheAntwort3>Italien</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus welchem Land kommt der „VW“?</fragenText>
+            <richtigeAntwort>Deutschland</richtigeAntwort>
+            <falscheAntwort1>Japan</falscheAntwort1>
+            <falscheAntwort2>USA</falscheAntwort2>
+            <falscheAntwort3>Frankreich</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus welchem Land kommt der „Volvo“?</fragenText>
+            <richtigeAntwort>Schweden</richtigeAntwort>
+            <falscheAntwort1>Norwegen</falscheAntwort1>
+            <falscheAntwort2>Finnland</falscheAntwort2>
+            <falscheAntwort3>Dänemark</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus welchem Land kommt der „Mitsubishi“?</fragenText>
+            <richtigeAntwort>Japan</richtigeAntwort>
+            <falscheAntwort1>Korea</falscheAntwort1>
+            <falscheAntwort2>China</falscheAntwort2>
+            <falscheAntwort3>Nepal</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus welchem Land kommt der „Renault“?</fragenText>
+            <richtigeAntwort>Frankreich</richtigeAntwort>
+            <falscheAntwort1>Italien</falscheAntwort1>
+            <falscheAntwort2>Schweden</falscheAntwort2>
+            <falscheAntwort3>Spanien</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus welchem Land kommt der „Fiat“?</fragenText>
+            <richtigeAntwort>Italien</richtigeAntwort>
+            <falscheAntwort1>Frankreich</falscheAntwort1>
+            <falscheAntwort2>Polen</falscheAntwort2>
+            <falscheAntwort3>Finnland</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus welchem Land kommt der „Honda“?</fragenText>
+            <richtigeAntwort>Japan</richtigeAntwort>
+            <falscheAntwort1>Honduras</falscheAntwort1>
+            <falscheAntwort2>Holland</falscheAntwort2>
+            <falscheAntwort3>China</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus welchem Land kommt der „Mazda“?</fragenText>
+            <richtigeAntwort>Japan</richtigeAntwort>
+            <falscheAntwort1>Marokko</falscheAntwort1>
+            <falscheAntwort2>Kanada</falscheAntwort2>
+            <falscheAntwort3>Frankreich</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus welchem Land kommt der „Porsche“?</fragenText>
+            <richtigeAntwort>Deutschland</richtigeAntwort>
+            <falscheAntwort1>Italien</falscheAntwort1>
+            <falscheAntwort2>Polen</falscheAntwort2>
+            <falscheAntwort3>Portugal</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus welchem Land kommt der „Ferrari“?</fragenText>
+            <richtigeAntwort>Italien</richtigeAntwort>
+            <falscheAntwort1>Finnland</falscheAntwort1>
+            <falscheAntwort2>Schweiz</falscheAntwort2>
+            <falscheAntwort3>Deutschland</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus welchem Land kommt der „Saab“?</fragenText>
+            <richtigeAntwort>Schweden</richtigeAntwort>
+            <falscheAntwort1>Finnland</falscheAntwort1>
+            <falscheAntwort2>Norwegen</falscheAntwort2>
+            <falscheAntwort3>Frankreich</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus welchem Land kommt der „Seat“?</fragenText>
+            <richtigeAntwort>Spanien</richtigeAntwort>
+            <falscheAntwort1>Portugal</falscheAntwort1>
+            <falscheAntwort2>Frankreich</falscheAntwort2>
+            <falscheAntwort3>Italien</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus welchem Land kommt der „Toyota“?</fragenText>
+            <richtigeAntwort>Japan</richtigeAntwort>
+            <falscheAntwort1>Togo</falscheAntwort1>
+            <falscheAntwort2>Vietnam</falscheAntwort2>
+            <falscheAntwort3>Portugal</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Nummer hat der berühmteste Porsche?</fragenText>
+            <richtigeAntwort>911</richtigeAntwort>
+            <falscheAntwort1>811</falscheAntwort1>
+            <falscheAntwort2>611</falscheAntwort2>
+            <falscheAntwort3>955</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was fehlt bei einem Auto mit Automatikgetriebe?</fragenText>
+            <richtigeAntwort>das Kupplungspedal</richtigeAntwort>
+            <falscheAntwort1>der Rückwärtsgang</falscheAntwort1>
+            <falscheAntwort2>die Pleuelstange</falscheAntwort2>
+            <falscheAntwort3>die Lichtmaschine</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Farbe hat der „Rückfahrscheinwerfer“?</fragenText>
+            <richtigeAntwort>weiß</richtigeAntwort>
+            <falscheAntwort1>rot</falscheAntwort1>
+            <falscheAntwort2>gelb</falscheAntwort2>
+            <falscheAntwort3>blau</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Nach welchem Erfinder ist der Benzinmotor benannt?</fragenText>
+            <richtigeAntwort>Otto</richtigeAntwort>
+            <falscheAntwort1>Egon</falscheAntwort1>
+            <falscheAntwort2>August</falscheAntwort2>
+            <falscheAntwort3>Karl</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man alte Autos?</fragenText>
+            <richtigeAntwort>Oldtimer</richtigeAntwort>
+            <falscheAntwort1>Greisis</falscheAntwort1>
+            <falscheAntwort2>Yesterday</falscheAntwort2>
+            <falscheAntwort3>Kutschen</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Automarke trägt den Namen einer Raubkatze?</fragenText>
+            <richtigeAntwort>Jaguar</richtigeAntwort>
+            <falscheAntwort1>Löwe</falscheAntwort1>
+            <falscheAntwort2>Tiger</falscheAntwort2>
+            <falscheAntwort3>Puma</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie wurde der Volkswagen genannt?</fragenText>
+            <richtigeAntwort>Käfer</richtigeAntwort>
+            <falscheAntwort1>Maus</falscheAntwort1>
+            <falscheAntwort2>Katze</falscheAntwort2>
+            <falscheAntwort3>Hund</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie wurde der Citroen 2 CV genannt?</fragenText>
+            <richtigeAntwort>Ente</richtigeAntwort>
+            <falscheAntwort1>Käfer</falscheAntwort1>
+            <falscheAntwort2>Wurm</falscheAntwort2>
+            <falscheAntwort3>Vogel</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die meisten LKW´s haben einen ...</fragenText>
+            <richtigeAntwort>Dieselmotor</richtigeAntwort>
+            <falscheAntwort1>Benzinmotor</falscheAntwort1>
+            <falscheAntwort2>Wankelmotor</falscheAntwort2>
+            <falscheAntwort3>Elektromotor</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Firma baut nur Motorräder und keine Autos?</fragenText>
+            <richtigeAntwort>Kawasaki</richtigeAntwort>
+            <falscheAntwort1>BMW</falscheAntwort1>
+            <falscheAntwort2>Honda</falscheAntwort2>
+            <falscheAntwort3>Suzuki</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Mit welchem Kraftstoff kann ein Auto n i c h t fahren?</fragenText>
+            <richtigeAntwort>Prima</richtigeAntwort>
+            <falscheAntwort1>Super</falscheAntwort1>
+            <falscheAntwort2>Benzin</falscheAntwort2>
+            <falscheAntwort3>Diesel</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Mit welchem Kraftstoff kann ein Auto fahren?</fragenText>
+            <richtigeAntwort>Super</richtigeAntwort>
+            <falscheAntwort1>Prima</falscheAntwort1>
+            <falscheAntwort2>Toll</falscheAntwort2>
+            <falscheAntwort3>Klasse</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Auto kostet über eine Millionen Mark?</fragenText>
+            <richtigeAntwort>Rolls-Royce Phantom VI</richtigeAntwort>
+            <falscheAntwort1>Golbat Ghost IV</falscheAntwort1>
+            <falscheAntwort2>Mercedes SKL Roadster</falscheAntwort2>
+            <falscheAntwort3>Porsche Carrera 4</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ein Auto hat normalerweise ..... Stoßdämpfer.</fragenText>
+            <richtigeAntwort>4</richtigeAntwort>
+            <falscheAntwort1>1</falscheAntwort1>
+            <falscheAntwort2>2</falscheAntwort2>
+            <falscheAntwort3>3</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Geschwindigkeitsmesser beim Auto?</fragenText>
+            <richtigeAntwort>Tachometer</richtigeAntwort>
+            <falscheAntwort1>Thermometer</falscheAntwort1>
+            <falscheAntwort2>Barometer</falscheAntwort2>
+            <falscheAntwort3>Hygrometer</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man Auto mit zurück- klappbarem Dach?</fragenText>
+            <richtigeAntwort>Cabriolet</richtigeAntwort>
+            <falscheAntwort1>Coupè</falscheAntwort1>
+            <falscheAntwort2>Van</falscheAntwort2>
+            <falscheAntwort3>Minivan</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Von welchem Auto wurden auf der Welt über 20 Millionen Stück verkauft?</fragenText>
+            <richtigeAntwort>VW - Käfer</richtigeAntwort>
+            <falscheAntwort1>Ford Fiesta</falscheAntwort1>
+            <falscheAntwort2>Citroen Xantia</falscheAntwort2>
+            <falscheAntwort3>Opel Kapitän</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ein Vierzylinder - Dieselmotor hat ... Zündkerzen.</fragenText>
+            <richtigeAntwort>0</richtigeAntwort>
+            <falscheAntwort1>4</falscheAntwort1>
+            <falscheAntwort2>8</falscheAntwort2>
+            <falscheAntwort3>2</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In einem normalen Auto sind ca. ... Meter elektrische Kabel.</fragenText>
+            <richtigeAntwort>500</richtigeAntwort>
+            <falscheAntwort1>100</falscheAntwort1>
+            <falscheAntwort2>50</falscheAntwort2>
+            <falscheAntwort3>220</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie wird die Motorleistung (außer in PS) noch angegeben?</fragenText>
+            <richtigeAntwort>Kilowatt</richtigeAntwort>
+            <falscheAntwort1>Kilokalorien</falscheAntwort1>
+            <falscheAntwort2>Kilogramm</falscheAntwort2>
+            <falscheAntwort3>Kilometer</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Warum haben Rennautos so breite Reifen?</fragenText>
+            <richtigeAntwort>bessere Bodenhaftung</richtigeAntwort>
+            <falscheAntwort1>sieht schöner aus</falscheAntwort1>
+            <falscheAntwort2>bessere Übersicht</falscheAntwort2>
+            <falscheAntwort3>genaueres Lenken</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was verbessert ein „Heckspoiler“?</fragenText>
+            <richtigeAntwort>die Bodenhaftung</richtigeAntwort>
+            <falscheAntwort1>den Kofferrauminhalt</falscheAntwort1>
+            <falscheAntwort2>das Einparken</falscheAntwort2>
+            <falscheAntwort3>die Kopffreiheit</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man das im Lenkrad eingebaute Sicherheitssystem?</fragenText>
+            <richtigeAntwort>Airbag</richtigeAntwort>
+            <falscheAntwort1>Airbrush</falscheAntwort1>
+            <falscheAntwort2>Lenkradschoner</falscheAntwort2>
+            <falscheAntwort3>Lenkradsperre</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man einen Autofahrer, der auf der falschen Autobahnseite fährt?</fragenText>
+            <richtigeAntwort>Geisterfahrer</richtigeAntwort>
+            <falscheAntwort1>Monsterfahrer</falscheAntwort1>
+            <falscheAntwort2>Linksfahrer</falscheAntwort2>
+            <falscheAntwort3>Horrorfahrer</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welcher Straße darf nicht gewendet werden?</fragenText>
+            <richtigeAntwort>Einbahnstraße</richtigeAntwort>
+            <falscheAntwort1>Hauptstraße</falscheAntwort1>
+            <falscheAntwort2>Vorfahrtsstraße</falscheAntwort2>
+            <falscheAntwort3>Sackgasse</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Mit welchem Gerät misst die Polizei die Geschwindigkeit?</fragenText>
+            <richtigeAntwort>Radargerät</richtigeAntwort>
+            <falscheAntwort1>Rasergerät</falscheAntwort1>
+            <falscheAntwort2>Schnellgerät</falscheAntwort2>
+            <falscheAntwort3>PS - Gerät</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Polizeisirene?</fragenText>
+            <richtigeAntwort>Martinshorn</richtigeAntwort>
+            <falscheAntwort1>Elisabethhorn</falscheAntwort1>
+            <falscheAntwort2>Gustavhorn</falscheAntwort2>
+            <falscheAntwort3>Manfredhorn</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Vorfahrtsregel gilt in Deutschland?</fragenText>
+            <richtigeAntwort>rechts vor links</richtigeAntwort>
+            <falscheAntwort1>links vor rechts</falscheAntwort1>
+            <falscheAntwort2>rechts vor hinten</falscheAntwort2>
+            <falscheAntwort3>links vor vorne</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie schnell muss man mindestens auf der Autobahn fahren?</fragenText>
+            <richtigeAntwort>60 km / h</richtigeAntwort>
+            <falscheAntwort1>40 km / h</falscheAntwort1>
+            <falscheAntwort2>100 km / h</falscheAntwort2>
+            <falscheAntwort3>120 km / h</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie schnell darf man höchstens in der Stadt fahren?</fragenText>
+            <richtigeAntwort>50 km / h</richtigeAntwort>
+            <falscheAntwort1>60 km / h</falscheAntwort1>
+            <falscheAntwort2>70 km / h</falscheAntwort2>
+            <falscheAntwort3>30 km / h</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Radteil, auf dem der Reifen aufliegt?</fragenText>
+            <richtigeAntwort>Felge</richtigeAntwort>
+            <falscheAntwort1>Gummi</falscheAntwort1>
+            <falscheAntwort2>Ventil</falscheAntwort2>
+            <falscheAntwort3>Radkappe</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Das Benzin befindet sich im ...</fragenText>
+            <richtigeAntwort>Tank</richtigeAntwort>
+            <falscheAntwort1>Kofferraum</falscheAntwort1>
+            <falscheAntwort2>Motorraum</falscheAntwort2>
+            <falscheAntwort3>Vergaser</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Größe des Motors?</fragenText>
+            <richtigeAntwort>Hubraum</richtigeAntwort>
+            <falscheAntwort1>Schiebraum</falscheAntwort1>
+            <falscheAntwort2>Ziehraum</falscheAntwort2>
+            <falscheAntwort3>Drückraum</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Gänge hat ein Auto mit Vierganggetriebe?</fragenText>
+            <richtigeAntwort>5</richtigeAntwort>
+            <falscheAntwort1>4</falscheAntwort1>
+            <falscheAntwort2>3</falscheAntwort2>
+            <falscheAntwort3>6</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Vorrichtung, die das Blockieren der Räder beim Bremsen verhindern soll?</fragenText>
+            <richtigeAntwort>ABS</richtigeAntwort>
+            <falscheAntwort1>ABC</falscheAntwort1>
+            <falscheAntwort2>BBS</falscheAntwort2>
+            <falscheAntwort3>VBS</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Türen hat ein Coupé?</fragenText>
+            <richtigeAntwort>2</richtigeAntwort>
+            <falscheAntwort1>3</falscheAntwort1>
+            <falscheAntwort2>4</falscheAntwort2>
+            <falscheAntwort3>1</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann fuhren die ersten betriebsfähigen Autos auf der Straße?</fragenText>
+            <richtigeAntwort>1885</richtigeAntwort>
+            <falscheAntwort1>1799</falscheAntwort1>
+            <falscheAntwort2>1898</falscheAntwort2>
+            <falscheAntwort3>1911</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Vorrichtung, die die Abgase reinigt?</fragenText>
+            <richtigeAntwort>Katalysator</richtigeAntwort>
+            <falscheAntwort1>Katamaran</falscheAntwort1>
+            <falscheAntwort2>Generator</falscheAntwort2>
+            <falscheAntwort3>Mediator</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ab wie vielen Jahren dürfen Kinder im Auto vorne sitzen?</fragenText>
+            <richtigeAntwort>12</richtigeAntwort>
+            <falscheAntwort1>10</falscheAntwort1>
+            <falscheAntwort2>14</falscheAntwort2>
+            <falscheAntwort3>8</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was fehlt bei einem Formel 1 Rennwagen?</fragenText>
+            <richtigeAntwort>Scheibenwischer</richtigeAntwort>
+            <falscheAntwort1>Rückspiegel</falscheAntwort1>
+            <falscheAntwort2>Getriebe</falscheAntwort2>
+            <falscheAntwort3>Sicherheitsgurt</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist auch ein LKW?</fragenText>
+            <richtigeAntwort>Sattelschlepper</richtigeAntwort>
+            <falscheAntwort1>Sattelträger</falscheAntwort1>
+            <falscheAntwort2>Sattelschoner</falscheAntwort2>
+            <falscheAntwort3>Sattelzieher</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Opel - Modell wurde in Bochum gebaut?</fragenText>
+            <richtigeAntwort>Kadett</richtigeAntwort>
+            <falscheAntwort1>Admiral</falscheAntwort1>
+            <falscheAntwort2>Kapitän</falscheAntwort2>
+            <falscheAntwort3>Laubfrosch</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Bremse gibt es beim Auto?</fragenText>
+            <richtigeAntwort>Scheibenbremse</richtigeAntwort>
+            <falscheAntwort1>Tellerbremse</falscheAntwort1>
+            <falscheAntwort2>Kugelbremse</falscheAntwort2>
+            <falscheAntwort3>Tassenbremse</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Bremse gibt es beim Auto?</fragenText>
+            <richtigeAntwort>Trommelbremse</richtigeAntwort>
+            <falscheAntwort1>Geigenbremse</falscheAntwort1>
+            <falscheAntwort2>Trompetenbremse</falscheAntwort2>
+            <falscheAntwort3>Flötenbremse</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man einen Geländewagen?</fragenText>
+            <richtigeAntwort>Jeep</richtigeAntwort>
+            <falscheAntwort1>Joop</falscheAntwort1>
+            <falscheAntwort2>Jaap</falscheAntwort2>
+            <falscheAntwort3>Juup</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist das Besondere an einem Kombi?</fragenText>
+            <richtigeAntwort>die große Heckklappe</richtigeAntwort>
+            <falscheAntwort1>die breiten Türen</falscheAntwort1>
+            <falscheAntwort2>die schmalen Fenster</falscheAntwort2>
+            <falscheAntwort3>die lange Motorhaube</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen die beiden deutschen Brüder, die zum ersten Mal in der Formel 1 einen Doppelsieg errangen?</fragenText>
+            <richtigeAntwort>Michael und Ralf</richtigeAntwort>
+            <falscheAntwort1>Michael und Rolf</falscheAntwort1>
+            <falscheAntwort2>Ralf und Martin</falscheAntwort2>
+            <falscheAntwort3>Ralf und Marvin</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann erreichten zwei deutsche Brüder zum ersten Mal einen Doppelsieg in der Formel 1?</fragenText>
+            <richtigeAntwort>10. Juni 2001</richtigeAntwort>
+            <falscheAntwort1>12. Juni 2001</falscheAntwort1>
+            <falscheAntwort2>10. Mai 2001</falscheAntwort2>
+            <falscheAntwort3>22. März 2001</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo erreichten zwei deutsche Brüder zum ersten Mal einen Doppelsieg in der Formel 1?</fragenText>
+            <richtigeAntwort>Montreal</richtigeAntwort>
+            <falscheAntwort1>Malaysia</falscheAntwort1>
+            <falscheAntwort2>Monte Carlo</falscheAntwort2>
+            <falscheAntwort3>Monza</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man den Fahrtrichtungs- anzeiger beim Auto?</fragenText>
+            <richtigeAntwort>Blinker</richtigeAntwort>
+            <falscheAntwort1>Stinker</falscheAntwort1>
+            <falscheAntwort2>Winker</falscheAntwort2>
+            <falscheAntwort3>Zeiger</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man das Abgasrohr beim Auto?</fragenText>
+            <richtigeAntwort>Auspuff</richtigeAntwort>
+            <falscheAntwort1>Ausguck</falscheAntwort1>
+            <falscheAntwort2>Ausblick</falscheAntwort2>
+            <falscheAntwort3>Auslassventil</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

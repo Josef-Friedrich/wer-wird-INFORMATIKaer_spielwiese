@@ -1,0 +1,3029 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Erdkunde</fach>
+    <thema>Kennst du die Erde?</thema>
+    <autor>Manfred Hartisch Juli 2001</autor>
+    <anzahlFragen>302</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>Wie wird die Erde auch genannt?</fragenText>
+            <richtigeAntwort>„Blauer Planet“</richtigeAntwort>
+            <falscheAntwort1>„Roter Planet“</falscheAntwort1>
+            <falscheAntwort2>„Grüner Planet“</falscheAntwort2>
+            <falscheAntwort3>„Gelber Planet“</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie groß ist der Durchmesser von einem Pol zum anderen Pol?</fragenText>
+            <richtigeAntwort>12.756 km</richtigeAntwort>
+            <falscheAntwort1>25.875 km</falscheAntwort1>
+            <falscheAntwort2>6.072 km</falscheAntwort2>
+            <falscheAntwort3>76.913 km</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die gedachte Mittellinie um die Erde, die die Welt in eine Nordhalbkugel und eine Südhalbkugel einteilt?</fragenText>
+            <richtigeAntwort>Äquator</richtigeAntwort>
+            <falscheAntwort1>Terminator</falscheAntwort1>
+            <falscheAntwort2>Ölquator</falscheAntwort2>
+            <falscheAntwort3>Bequator</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wodurch entstehen die Jahreszeiten auf der Erde?</fragenText>
+            <richtigeAntwort>durch die Neigung der Erdachse</richtigeAntwort>
+            <falscheAntwort1>durch die Drehung der Erde</falscheAntwort1>
+            <falscheAntwort2>durch das Magnetfeld der Erde</falscheAntwort2>
+            <falscheAntwort3>durch das Schmelzen der Polkappen</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wenn am 21. Juni in Europa der Sommer beginnt, welche Jahreszeit beginnt dann in Südamerika?</fragenText>
+            <richtigeAntwort>Winter</richtigeAntwort>
+            <falscheAntwort1>Herbst</falscheAntwort1>
+            <falscheAntwort2>Frühling</falscheAntwort2>
+            <falscheAntwort3>Sommer</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In wie viele Zeitzonen ist die Erde eingeteilt?</fragenText>
+            <richtigeAntwort>24</richtigeAntwort>
+            <falscheAntwort1>6</falscheAntwort1>
+            <falscheAntwort2>12</falscheAntwort2>
+            <falscheAntwort3>48</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Erdteile gibt es?</fragenText>
+            <richtigeAntwort>6</richtigeAntwort>
+            <falscheAntwort1>4</falscheAntwort1>
+            <falscheAntwort2>5</falscheAntwort2>
+            <falscheAntwort3>7</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie werden die Erdteile genannt?</fragenText>
+            <richtigeAntwort>Kontinente</richtigeAntwort>
+            <falscheAntwort1>Fermente</falscheAntwort1>
+            <falscheAntwort2>Pontinente</falscheAntwort2>
+            <falscheAntwort3>Lavamente</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie bezeichnet man die Bewegung der Erdteile?</fragenText>
+            <richtigeAntwort>Kontinentaldrift</richtigeAntwort>
+            <falscheAntwort1>Erdwanderung</falscheAntwort1>
+            <falscheAntwort2>Erddrehung</falscheAntwort2>
+            <falscheAntwort3>Kontinentalflucht</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>An welchem Ort der Erde ist jede Himmelsrichtung Norden?</fragenText>
+            <richtigeAntwort>am Südpol</richtigeAntwort>
+            <falscheAntwort1>am Nordpol</falscheAntwort1>
+            <falscheAntwort2>am Äquator</falscheAntwort2>
+            <falscheAntwort3>in Nordamerika</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Liegen alle Meere und Ozeane auf einer Höhe?</fragenText>
+            <richtigeAntwort>ja</richtigeAntwort>
+            <falscheAntwort1>nein</falscheAntwort1>
+            <falscheAntwort2>nur die großen Meere</falscheAntwort2>
+            <falscheAntwort3>nur bei Vollmond</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wohin fließt das Wasser aller Flüsse irgendwann?</fragenText>
+            <richtigeAntwort>ins Meer</richtigeAntwort>
+            <falscheAntwort1>zum Nordpol</falscheAntwort1>
+            <falscheAntwort2>zum Südpol</falscheAntwort2>
+            <falscheAntwort3>zum Äquator</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Bauwerke, die uns vor Fluten und Hochwasser schützen?</fragenText>
+            <richtigeAntwort>Dämme und Deiche</richtigeAntwort>
+            <falscheAntwort1>Mauern und Brücken</falscheAntwort1>
+            <falscheAntwort2>Hügel und Häfen</falscheAntwort2>
+            <falscheAntwort3>Gräben und Kanäle</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der größte Ozean?</fragenText>
+            <richtigeAntwort>Pazifik</richtigeAntwort>
+            <falscheAntwort1>Atlantik</falscheAntwort1>
+            <falscheAntwort2>Uramik</falscheAntwort2>
+            <falscheAntwort3>Tozenik</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Höhe des Meeresspiegels?</fragenText>
+            <richtigeAntwort>Normal Null</richtigeAntwort>
+            <falscheAntwort1>Normal Zehn</falscheAntwort1>
+            <falscheAntwort2>Normal Hundert</falscheAntwort2>
+            <falscheAntwort3>Normal Eins</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viel der Erdoberfläche ist mit Wasser bedeckt?</fragenText>
+            <richtigeAntwort>zwei Drittel</richtigeAntwort>
+            <falscheAntwort1>ein Drittel</falscheAntwort1>
+            <falscheAntwort2>ein Viertel</falscheAntwort2>
+            <falscheAntwort3>zwei Viertel</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Staat gibt es die meisten Großstädte?</fragenText>
+            <richtigeAntwort>China</richtigeAntwort>
+            <falscheAntwort1>USA</falscheAntwort1>
+            <falscheAntwort2>Australien</falscheAntwort2>
+            <falscheAntwort3>Südafrika</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Land gibt es sehr viele aktive Vulkane und Geysire?</fragenText>
+            <richtigeAntwort>Island</richtigeAntwort>
+            <falscheAntwort1>Grönland</falscheAntwort1>
+            <falscheAntwort2>Italien</falscheAntwort2>
+            <falscheAntwort3>Mexiko</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man den Wechsel von Ebbe und Flut?</fragenText>
+            <richtigeAntwort>Gezeiten</richtigeAntwort>
+            <falscheAntwort1>Tagzeiten</falscheAntwort1>
+            <falscheAntwort2>Nachtzeiten</falscheAntwort2>
+            <falscheAntwort3>Mondzeiten</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was bewirkt die Anziehungskraft des Mondes?</fragenText>
+            <richtigeAntwort>Ebbe und Flut</richtigeAntwort>
+            <falscheAntwort1>Sturmfluten</falscheAntwort1>
+            <falscheAntwort2>Hurrikans</falscheAntwort2>
+            <falscheAntwort3>Monsunregen</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo liegt das „Wattenmeer“?</fragenText>
+            <richtigeAntwort>an der Nordseeküste</richtigeAntwort>
+            <falscheAntwort1>an der Ostseeküste</falscheAntwort1>
+            <falscheAntwort2>an der Südseeküste</falscheAntwort2>
+            <falscheAntwort3>an der Westseeküste</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die sprudelnden heißen Springquellen?</fragenText>
+            <richtigeAntwort>Geysire</richtigeAntwort>
+            <falscheAntwort1>Vulkane</falscheAntwort1>
+            <falscheAntwort2>Fakire</falscheAntwort2>
+            <falscheAntwort3>Geymane</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo liegt der Grand Canyon?</fragenText>
+            <richtigeAntwort>USA</richtigeAntwort>
+            <falscheAntwort1>Japan</falscheAntwort1>
+            <falscheAntwort2>Südafrika</falscheAntwort2>
+            <falscheAntwort3>Argentinien</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der größte Kontinent?</fragenText>
+            <richtigeAntwort>Asien</richtigeAntwort>
+            <falscheAntwort1>Europa</falscheAntwort1>
+            <falscheAntwort2>Afrika</falscheAntwort2>
+            <falscheAntwort3>Amerika</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der kleinste Kontinent?</fragenText>
+            <richtigeAntwort>Australien</richtigeAntwort>
+            <falscheAntwort1>Afrika</falscheAntwort1>
+            <falscheAntwort2>Antarktis</falscheAntwort2>
+            <falscheAntwort3>Europa</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo liegt die Sahara?</fragenText>
+            <richtigeAntwort>Afrika</richtigeAntwort>
+            <falscheAntwort1>Amerika</falscheAntwort1>
+            <falscheAntwort2>Asien</falscheAntwort2>
+            <falscheAntwort3>Australien</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die größte Insel der Erde?</fragenText>
+            <richtigeAntwort>Grönland</richtigeAntwort>
+            <falscheAntwort1>Madagaskar</falscheAntwort1>
+            <falscheAntwort2>Japan</falscheAntwort2>
+            <falscheAntwort3>Irland</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo stehen die höchsten Berge der Erde?</fragenText>
+            <richtigeAntwort>Himalaya</richtigeAntwort>
+            <falscheAntwort1>Alpen</falscheAntwort1>
+            <falscheAntwort2>Anden</falscheAntwort2>
+            <falscheAntwort3>Rocky Mountains</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der höchste Berg der Welt?</fragenText>
+            <richtigeAntwort>Mount Everest</richtigeAntwort>
+            <falscheAntwort1>Mount McKinley</falscheAntwort1>
+            <falscheAntwort2>Kilimandscharo</falscheAntwort2>
+            <falscheAntwort3>Matterhorn</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie weit driften Amerika und Europa auseinander?</fragenText>
+            <richtigeAntwort>jährlich 20 mm</richtigeAntwort>
+            <falscheAntwort1>jährlich 10 mm</falscheAntwort1>
+            <falscheAntwort2>jährlich 13 mm</falscheAntwort2>
+            <falscheAntwort3>jährlich 23 mm</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch ist der höchste Berg der Welt?</fragenText>
+            <richtigeAntwort>8.863 m</richtigeAntwort>
+            <falscheAntwort1>7.522 m</falscheAntwort1>
+            <falscheAntwort2>6.094 m</falscheAntwort2>
+            <falscheAntwort3>9.971 m</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo verläuft der Breitengrad Null?</fragenText>
+            <richtigeAntwort>am Äquator</richtigeAntwort>
+            <falscheAntwort1>am Nordpol</falscheAntwort1>
+            <falscheAntwort2>am Südpol</falscheAntwort2>
+            <falscheAntwort3>in Nordafrika</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher große Fluss fließt durch den südamerikanischen Regenwald?</fragenText>
+            <richtigeAntwort>Amazonas</richtigeAntwort>
+            <falscheAntwort1>Nil</falscheAntwort1>
+            <falscheAntwort2>Mississippi</falscheAntwort2>
+            <falscheAntwort3>Wolga</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo befindet sich der höchste Wasserfall der Erde?</fragenText>
+            <richtigeAntwort>Venezuela</richtigeAntwort>
+            <falscheAntwort1>Guatemala</falscheAntwort1>
+            <falscheAntwort2>Indonesien</falscheAntwort2>
+            <falscheAntwort3>Nepal</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der höchste Wasserfall der Erde?</fragenText>
+            <richtigeAntwort>Angel - Fall</richtigeAntwort>
+            <falscheAntwort1>Niagara - Fall</falscheAntwort1>
+            <falscheAntwort2>Devil - Fall</falscheAntwort2>
+            <falscheAntwort3>Himoro - Fall</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo liegt der Niagara - Fall?</fragenText>
+            <richtigeAntwort>an d. Grenze zwischen Kanada und USA</richtigeAntwort>
+            <falscheAntwort1>in Südafrika</falscheAntwort1>
+            <falscheAntwort2>in Südamerika</falscheAntwort2>
+            <falscheAntwort3>an d. Grenze zwischen Nepal und China</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viel Liter Wasser fließen jede Stunde durch die Mündung des Amazonas?</fragenText>
+            <richtigeAntwort>400 Milliarden Liter</richtigeAntwort>
+            <falscheAntwort1>300 Milliarden Liter</falscheAntwort1>
+            <falscheAntwort2>200 Milliarden Liter</falscheAntwort2>
+            <falscheAntwort3>100 Milliarden Liter</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang ist der Amazonas?</fragenText>
+            <richtigeAntwort>6.518 km</richtigeAntwort>
+            <falscheAntwort1>5.132 km</falscheAntwort1>
+            <falscheAntwort2>4.982 km</falscheAntwort2>
+            <falscheAntwort3>7.081 km</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie weit ist eine Reise rund um die Erde am Äquator?</fragenText>
+            <richtigeAntwort>ca. 40 .000 km</richtigeAntwort>
+            <falscheAntwort1>ca. 20.000 km</falscheAntwort1>
+            <falscheAntwort2>ca. 60.000 km</falscheAntwort2>
+            <falscheAntwort3>ca. 80.000 km</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo liegt der höchste Berg Südamerikas?</fragenText>
+            <richtigeAntwort>Argentinien</richtigeAntwort>
+            <falscheAntwort1>Bolivien</falscheAntwort1>
+            <falscheAntwort2>Uruguay</falscheAntwort2>
+            <falscheAntwort3>Chile</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der höchste Berg Südamerikas?</fragenText>
+            <richtigeAntwort>Aconcagua</richtigeAntwort>
+            <falscheAntwort1>Kilimandscharo</falscheAntwort1>
+            <falscheAntwort2>Mount Everest</falscheAntwort2>
+            <falscheAntwort3>Opulananga</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch ist der höchste Berg Südamerikas?</fragenText>
+            <richtigeAntwort>6.959 m</richtigeAntwort>
+            <falscheAntwort1>5.097 m</falscheAntwort1>
+            <falscheAntwort2>7.254 m</falscheAntwort2>
+            <falscheAntwort3>8.578 m</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Ozean gibt es nicht?</fragenText>
+            <richtigeAntwort>Afrikanischer Ozean</richtigeAntwort>
+            <falscheAntwort1>Atlantik</falscheAntwort1>
+            <falscheAntwort2>Pazifik</falscheAntwort2>
+            <falscheAntwort3>Indischer Ozean</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Verbindung zwischen dem Atlantik und dem Pazifik?</fragenText>
+            <richtigeAntwort>Panama - Kanal</richtigeAntwort>
+            <falscheAntwort1>Suez - Kanal</falscheAntwort1>
+            <falscheAntwort2>Mittelland - Kanal</falscheAntwort2>
+            <falscheAntwort3>Amerika - Kanal</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die größte Stadt der Welt?</fragenText>
+            <richtigeAntwort>Mexiko - Stadt</richtigeAntwort>
+            <falscheAntwort1>New York</falscheAntwort1>
+            <falscheAntwort2>Peking</falscheAntwort2>
+            <falscheAntwort3>Bombay</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo liegt der Fluss Mississippi - Missouri?</fragenText>
+            <richtigeAntwort>USA</richtigeAntwort>
+            <falscheAntwort1>Kanada</falscheAntwort1>
+            <falscheAntwort2>Indien</falscheAntwort2>
+            <falscheAntwort3>Brasilien</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang ist der Mississippi - Missouri?</fragenText>
+            <richtigeAntwort>6.021 km</richtigeAntwort>
+            <falscheAntwort1>5.093 km</falscheAntwort1>
+            <falscheAntwort2>4.082 km</falscheAntwort2>
+            <falscheAntwort3>3.052 km</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der höchste Berg Nordamerikas?</fragenText>
+            <richtigeAntwort>Mount McKinley</richtigeAntwort>
+            <falscheAntwort1>Kilimandscharo</falscheAntwort1>
+            <falscheAntwort2>K 2</falscheAntwort2>
+            <falscheAntwort3>Matterhorn</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch ist der höchste Berg Nordamerikas?</fragenText>
+            <richtigeAntwort>6.198 m</richtigeAntwort>
+            <falscheAntwort1>5.982 m</falscheAntwort1>
+            <falscheAntwort2>7.782 m</falscheAntwort2>
+            <falscheAntwort3>8.361 m</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Menschen lebten im Jahr 2000 auf der Erde?</fragenText>
+            <richtigeAntwort>ca. 6 Milliarden</richtigeAntwort>
+            <falscheAntwort1>ca. 5 Milliarden</falscheAntwort1>
+            <falscheAntwort2>ca. 8 Milliarden</falscheAntwort2>
+            <falscheAntwort3>ca. 3 Milliarden</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Staat leben die meisten Menschen?</fragenText>
+            <richtigeAntwort>China</richtigeAntwort>
+            <falscheAntwort1>Brasilien</falscheAntwort1>
+            <falscheAntwort2>Indien</falscheAntwort2>
+            <falscheAntwort3>Mexiko</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Bauwerk kann man aus dem Weltall erkennen?</fragenText>
+            <richtigeAntwort>die Chinesische Mauer</richtigeAntwort>
+            <falscheAntwort1>den Eiffelturm</falscheAntwort1>
+            <falscheAntwort2>die Pyramiden</falscheAntwort2>
+            <falscheAntwort3>den Assuan - Staudamm</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Gebirgszug in Südamerika?</fragenText>
+            <richtigeAntwort>Anden</richtigeAntwort>
+            <falscheAntwort1>Alpen</falscheAntwort1>
+            <falscheAntwort2>Rocky Mountains</falscheAntwort2>
+            <falscheAntwort3>Himalaya</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo liegt Feuerland?</fragenText>
+            <richtigeAntwort>an der Südspitze Südamerikas</richtigeAntwort>
+            <falscheAntwort1>an der Nordspitze Südamerikas</falscheAntwort1>
+            <falscheAntwort2>an der Südspitze Südafrikas</falscheAntwort2>
+            <falscheAntwort3>an der Südspitze Indiens</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Land in Südamerika ist am längsten?</fragenText>
+            <richtigeAntwort>Chile</richtigeAntwort>
+            <falscheAntwort1>Bolivien</falscheAntwort1>
+            <falscheAntwort2>Paraguay</falscheAntwort2>
+            <falscheAntwort3>Uruguay</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der längste Fluss in Mitteleuropa?</fragenText>
+            <richtigeAntwort>Donau</richtigeAntwort>
+            <falscheAntwort1>Seine</falscheAntwort1>
+            <falscheAntwort2>Rhein</falscheAntwort2>
+            <falscheAntwort3>Po</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang ist der längste Fluss in Mitteleuropa?</fragenText>
+            <richtigeAntwort>2.850 km</richtigeAntwort>
+            <falscheAntwort1>3.095 km</falscheAntwort1>
+            <falscheAntwort2>4.761 km</falscheAntwort2>
+            <falscheAntwort3>3.698 km</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches ist das größte Land der Erde?</fragenText>
+            <richtigeAntwort>Russland</richtigeAntwort>
+            <falscheAntwort1>China</falscheAntwort1>
+            <falscheAntwort2>USA</falscheAntwort2>
+            <falscheAntwort3>Südafrika</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der höchste Berg Europas?</fragenText>
+            <richtigeAntwort>Mont Blanc</richtigeAntwort>
+            <falscheAntwort1>Zugspitze</falscheAntwort1>
+            <falscheAntwort2>Matterhorn</falscheAntwort2>
+            <falscheAntwort3>St. Gotthard</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch ist der höchste Berg in Europa?</fragenText>
+            <richtigeAntwort>4.807 m</richtigeAntwort>
+            <falscheAntwort1>3.905 m</falscheAntwort1>
+            <falscheAntwort2>5.056 m</falscheAntwort2>
+            <falscheAntwort3>6.230 m</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das Hochgebirge in Mitteleuropa?</fragenText>
+            <richtigeAntwort>Alpen</richtigeAntwort>
+            <falscheAntwort1>Anden</falscheAntwort1>
+            <falscheAntwort2>Himalaya</falscheAntwort2>
+            <falscheAntwort3>Harz</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Länder liegen sowohl in Asien als auch in Europa?</fragenText>
+            <richtigeAntwort>Türkei und Russland</richtigeAntwort>
+            <falscheAntwort1>Russland und Japan</falscheAntwort1>
+            <falscheAntwort2>Türkei und Iran</falscheAntwort2>
+            <falscheAntwort3>Griechenland und Belgien</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der längste Fluss in Asien?</fragenText>
+            <richtigeAntwort>Jangtsekiang</richtigeAntwort>
+            <falscheAntwort1>Nil</falscheAntwort1>
+            <falscheAntwort2>Mississippi</falscheAntwort2>
+            <falscheAntwort3>Amazonas</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was wird am häufigsten auf der Welt gegessen?</fragenText>
+            <richtigeAntwort>Reis</richtigeAntwort>
+            <falscheAntwort1>Kartoffeln</falscheAntwort1>
+            <falscheAntwort2>Nudeln</falscheAntwort2>
+            <falscheAntwort3>Brot</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang ist die Chinesische Mauer?</fragenText>
+            <richtigeAntwort>2.500 km</richtigeAntwort>
+            <falscheAntwort1>3.300 km</falscheAntwort1>
+            <falscheAntwort2>1.800 km</falscheAntwort2>
+            <falscheAntwort3>4.200 km</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der längste Fluss der Welt?</fragenText>
+            <richtigeAntwort>Nil</richtigeAntwort>
+            <falscheAntwort1>Amazonas</falscheAntwort1>
+            <falscheAntwort2>Jangtsekiang</falscheAntwort2>
+            <falscheAntwort3>Mississippi</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Stadt liegt auf zwei Kontinenten?</fragenText>
+            <richtigeAntwort>Istanbul</richtigeAntwort>
+            <falscheAntwort1>Kalkutta</falscheAntwort1>
+            <falscheAntwort2>Madrid</falscheAntwort2>
+            <falscheAntwort3>Johannisburg</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo liegt der höchste Berg Afrikas?</fragenText>
+            <richtigeAntwort>Tansania</richtigeAntwort>
+            <falscheAntwort1>Uganda</falscheAntwort1>
+            <falscheAntwort2>Sambesi</falscheAntwort2>
+            <falscheAntwort3>Kongo</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der höchste Berg in Afrika?</fragenText>
+            <richtigeAntwort>Kilimandscharo</richtigeAntwort>
+            <falscheAntwort1>Kiribati</falscheAntwort1>
+            <falscheAntwort2>Fukano</falscheAntwort2>
+            <falscheAntwort3>Vesuv</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch ist der höchste Berg in Afrika?</fragenText>
+            <richtigeAntwort>5.895 m</richtigeAntwort>
+            <falscheAntwort1>8.971 m</falscheAntwort1>
+            <falscheAntwort2>7.345 m</falscheAntwort2>
+            <falscheAntwort3>6.012 m</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Kontinent fließt der längste Fluss der Welt?</fragenText>
+            <richtigeAntwort>Afrika</richtigeAntwort>
+            <falscheAntwort1>Asien</falscheAntwort1>
+            <falscheAntwort2>Amerika</falscheAntwort2>
+            <falscheAntwort3>Australien</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang ist der längste Fluss der Welt?</fragenText>
+            <richtigeAntwort>6.671 km</richtigeAntwort>
+            <falscheAntwort1>4.871 km</falscheAntwort1>
+            <falscheAntwort2>5.983 km</falscheAntwort2>
+            <falscheAntwort3>7.809 km</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das größte Korallenriff der Welt?</fragenText>
+            <richtigeAntwort>das Große Barrier - Riff</richtigeAntwort>
+            <falscheAntwort1>das Große Terrier - Riff</falscheAntwort1>
+            <falscheAntwort2>das Große Warrior - Riff</falscheAntwort2>
+            <falscheAntwort3>das Große Atoll - Riff</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo liegt das größte Korallenriff der Erde?</fragenText>
+            <richtigeAntwort>vor Australien</richtigeAntwort>
+            <falscheAntwort1>vor Südafrika</falscheAntwort1>
+            <falscheAntwort2>vor Nordamerika</falscheAntwort2>
+            <falscheAntwort3>vor Indien</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man eine enge, tiefe Meeresbucht?</fragenText>
+            <richtigeAntwort>Fjord</richtigeAntwort>
+            <falscheAntwort1>Björn</falscheAntwort1>
+            <falscheAntwort2>Smord</falscheAntwort2>
+            <falscheAntwort3>Klond</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die größte Wüste der Erde?</fragenText>
+            <richtigeAntwort>Sahara</richtigeAntwort>
+            <falscheAntwort1>Gobi</falscheAntwort1>
+            <falscheAntwort2>Lahama</falscheAntwort2>
+            <falscheAntwort3>Sahata</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo gibt es die größten Geysire?</fragenText>
+            <richtigeAntwort>Yellowstone Nationalpark (USA)</richtigeAntwort>
+            <falscheAntwort1>Island</falscheAntwort1>
+            <falscheAntwort2>Irland</falscheAntwort2>
+            <falscheAntwort3>Kalahari Nationalpark (Afrika)</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Gibt es am Äquator Jahreszeiten?</fragenText>
+            <richtigeAntwort>nein</richtigeAntwort>
+            <falscheAntwort1>ja</falscheAntwort1>
+            <falscheAntwort2>nur Sommer und Winter</falscheAntwort2>
+            <falscheAntwort3>nur Frühling und Herbst</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Kontinent gibt es nicht?</fragenText>
+            <richtigeAntwort>Euroma</richtigeAntwort>
+            <falscheAntwort1>Europa</falscheAntwort1>
+            <falscheAntwort2>Afrika</falscheAntwort2>
+            <falscheAntwort3>Amerika</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Kontinent gibt es nicht?</fragenText>
+            <richtigeAntwort>Arktis</richtigeAntwort>
+            <falscheAntwort1>Antarktis</falscheAntwort1>
+            <falscheAntwort2>Asien</falscheAntwort2>
+            <falscheAntwort3>Australien</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Doppelkontinenten gibt es?</fragenText>
+            <richtigeAntwort>Eurasien</richtigeAntwort>
+            <falscheAntwort1>Eurafrika</falscheAntwort1>
+            <falscheAntwort2>Australamerika</falscheAntwort2>
+            <falscheAntwort3>Amerikasien</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was geschieht durch die Kontinentaldrift in vielen Millionen Jahren mit dem Mittelmeer?</fragenText>
+            <richtigeAntwort>Es verschwindet.</richtigeAntwort>
+            <falscheAntwort1>Es wandert zur Nordsee.</falscheAntwort1>
+            <falscheAntwort2>Es wird größer.</falscheAntwort2>
+            <falscheAntwort3>Es teilt sich in drei Meere.</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>An welchem Ort der Erde ist jede Himmelsrichtung Süden?</fragenText>
+            <richtigeAntwort>am Nordpol</richtigeAntwort>
+            <falscheAntwort1>am Südpol</falscheAntwort1>
+            <falscheAntwort2>am Äquator</falscheAntwort2>
+            <falscheAntwort3>in Südafrika</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viel der Erdoberfläche ist mit Land bedeckt?</fragenText>
+            <richtigeAntwort>ein Drittel</richtigeAntwort>
+            <falscheAntwort1>zwei Drittel</falscheAntwort1>
+            <falscheAntwort2>ein Viertel</falscheAntwort2>
+            <falscheAntwort3>zwei Viertel</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Land der Erde leben über 1 Milliarde Menschen?</fragenText>
+            <richtigeAntwort>China</richtigeAntwort>
+            <falscheAntwort1>Japan</falscheAntwort1>
+            <falscheAntwort2>Indien</falscheAntwort2>
+            <falscheAntwort3>USA</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches europäische Land hat die meisten Inseln?</fragenText>
+            <richtigeAntwort>Griechenland</richtigeAntwort>
+            <falscheAntwort1>Spanien</falscheAntwort1>
+            <falscheAntwort2>Italien</falscheAntwort2>
+            <falscheAntwort3>Portugal</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer war der erste Europäer am Südpol?</fragenText>
+            <richtigeAntwort>Roald Amundsen</richtigeAntwort>
+            <falscheAntwort1>Alexander Scott</falscheAntwort1>
+            <falscheAntwort2>Neil Armstrong</falscheAntwort2>
+            <falscheAntwort3>Albert Einstein</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Pflanzen gibt es in der Antarktis?</fragenText>
+            <richtigeAntwort>Gräser und Moos</richtigeAntwort>
+            <falscheAntwort1>Büsche und Bäume</falscheAntwort1>
+            <falscheAntwort2>Kiefern und Birken</falscheAntwort2>
+            <falscheAntwort3>Farne und Palmen</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Durchschnittstemperatur herrscht im Sommer am Südpol?</fragenText>
+            <richtigeAntwort>0° Celsius</richtigeAntwort>
+            <falscheAntwort1>- 5° Celsius</falscheAntwort1>
+            <falscheAntwort2>- 10° Celsius</falscheAntwort2>
+            <falscheAntwort3>- 15° Celsius</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo wird es im Sommer niemals Nacht?</fragenText>
+            <richtigeAntwort>am Nordpol</richtigeAntwort>
+            <falscheAntwort1>am Südpol</falscheAntwort1>
+            <falscheAntwort2>in Afrika</falscheAntwort2>
+            <falscheAntwort3>am Äquator</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Land hat die meisten aktiven Vulkane?</fragenText>
+            <richtigeAntwort>Japan</richtigeAntwort>
+            <falscheAntwort1>China</falscheAntwort1>
+            <falscheAntwort2>Kanada</falscheAntwort2>
+            <falscheAntwort3>Italien</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Meer trennt Europa von Afrika?</fragenText>
+            <richtigeAntwort>Mittelmeer</richtigeAntwort>
+            <falscheAntwort1>Tote Meer</falscheAntwort1>
+            <falscheAntwort2>Atlantik</falscheAntwort2>
+            <falscheAntwort3>Pazifik</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Kanal verbindet das Mittelmeer mit dem Roten Meer?</fragenText>
+            <richtigeAntwort>Suez - Kanal</richtigeAntwort>
+            <falscheAntwort1>Panama - Kanal</falscheAntwort1>
+            <falscheAntwort2>Mittelmeer - Kanal</falscheAntwort2>
+            <falscheAntwort3>Zubat - Kanal</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die größte afrikanische Insel?</fragenText>
+            <richtigeAntwort>Madagaskar</richtigeAntwort>
+            <falscheAntwort1>Malta</falscheAntwort1>
+            <falscheAntwort2>Zypern</falscheAntwort2>
+            <falscheAntwort3>Mallorca</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Eismassen, die sich von den Bergen in die Täler schieben?</fragenText>
+            <richtigeAntwort>Gletscher</richtigeAntwort>
+            <falscheAntwort1>Käscher</falscheAntwort1>
+            <falscheAntwort2>Glitscher</falscheAntwort2>
+            <falscheAntwort3>Korallen</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist keine Erdschicht?</fragenText>
+            <richtigeAntwort>Erdhose</richtigeAntwort>
+            <falscheAntwort1>Erdkern</falscheAntwort1>
+            <falscheAntwort2>Erdmantel</falscheAntwort2>
+            <falscheAntwort3>Erdkruste</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man den Ort an der Erdoberfläche, der über einem Erdbebenherd liegt?</fragenText>
+            <richtigeAntwort>Epizentrum</richtigeAntwort>
+            <falscheAntwort1>Egozentrum</falscheAntwort1>
+            <falscheAntwort2>Abizentrum</falscheAntwort2>
+            <falscheAntwort3>Obozentrum</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man flüssiges Gestein und Gase, die aus dem Erdinneren emporsteigen?</fragenText>
+            <richtigeAntwort>Magma</richtigeAntwort>
+            <falscheAntwort1>Magnet</falscheAntwort1>
+            <falscheAntwort2>Mangan</falscheAntwort2>
+            <falscheAntwort3>Metall</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele aktive Vulkane gibt es noch auf der Erde?</fragenText>
+            <richtigeAntwort>ca. 500</richtigeAntwort>
+            <falscheAntwort1>ca. 350</falscheAntwort1>
+            <falscheAntwort2>ca. 225</falscheAntwort2>
+            <falscheAntwort3>ca. 110</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Öffnung eines Vulkans?</fragenText>
+            <richtigeAntwort>Krater</richtigeAntwort>
+            <falscheAntwort1>Prater</falscheAntwort1>
+            <falscheAntwort2>Kater</falscheAntwort2>
+            <falscheAntwort3>Vater</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Abtragung von Felsen und Erde durch Wind, Wasser und Eis?</fragenText>
+            <richtigeAntwort>Erosion</richtigeAntwort>
+            <falscheAntwort1>Explosion</falscheAntwort1>
+            <falscheAntwort2>Gravitation</falscheAntwort2>
+            <falscheAntwort3>Mutation</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man versteinerte Überreste ausgestorbener Pflanzen und Tiere?</fragenText>
+            <richtigeAntwort>Fossilien</richtigeAntwort>
+            <falscheAntwort1>Mineralien</falscheAntwort1>
+            <falscheAntwort2>Meteoriten</falscheAntwort2>
+            <falscheAntwort3>Bromelien</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die besonders gefährlichen Flutwellen?</fragenText>
+            <richtigeAntwort>Tsunamis</richtigeAntwort>
+            <falscheAntwort1>Monsun</falscheAntwort1>
+            <falscheAntwort2>Klingonen</falscheAntwort2>
+            <falscheAntwort3>Tiramisu</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist zum größten Teil für das Wetter auf der Erde verantwortlich?</fragenText>
+            <richtigeAntwort>die Winde</richtigeAntwort>
+            <falscheAntwort1>der Erdmagnetismus</falscheAntwort1>
+            <falscheAntwort2>die Erdanziehung</falscheAntwort2>
+            <falscheAntwort3>der Mond</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man Luftwirbel mit spiralförmigen Wolkenbändern ab Windstärke 8, die ungeheure Verwüstungen anrichten können?</fragenText>
+            <richtigeAntwort>Wirbelsturm</richtigeAntwort>
+            <falscheAntwort1>Hagelschauer</falscheAntwort1>
+            <falscheAntwort2>Blitzgewitter</falscheAntwort2>
+            <falscheAntwort3>Schneestürme</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch kann die Windgeschwindigkeiten von Hurrikanen werden?</fragenText>
+            <richtigeAntwort>ca. 320 km / h</richtigeAntwort>
+            <falscheAntwort1>ca. 140 km / h</falscheAntwort1>
+            <falscheAntwort2>ca. 210 km / h</falscheAntwort2>
+            <falscheAntwort3>ca. 430 km / h</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo befinden sich die meisten Fjorde der Welt?</fragenText>
+            <richtigeAntwort>Norwegen</richtigeAntwort>
+            <falscheAntwort1>Italien</falscheAntwort1>
+            <falscheAntwort2>Griechenland</falscheAntwort2>
+            <falscheAntwort3>Grönland</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie wird die schmale Luftsäule im Inneren eines Hurrikans genannt, die sich nur langsam dreht?</fragenText>
+            <richtigeAntwort>Auge</richtigeAntwort>
+            <falscheAntwort1>Ohr</falscheAntwort1>
+            <falscheAntwort2>Nase</falscheAntwort2>
+            <falscheAntwort3>Mund</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie ist das Wetter über den Wolken?</fragenText>
+            <richtigeAntwort>sonnig</richtigeAntwort>
+            <falscheAntwort1>neblig</falscheAntwort1>
+            <falscheAntwort2>regnerisch</falscheAntwort2>
+            <falscheAntwort3>diesig</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Explosion in einer Gewitterwolke?</fragenText>
+            <richtigeAntwort>Donner</richtigeAntwort>
+            <falscheAntwort1>Krach</falscheAntwort1>
+            <falscheAntwort2>Lärm</falscheAntwort2>
+            <falscheAntwort3>Knall</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Womit misst man den Wind?</fragenText>
+            <richtigeAntwort>Anemometer</richtigeAntwort>
+            <falscheAntwort1>Thermometer</falscheAntwort1>
+            <falscheAntwort2>Barometer</falscheAntwort2>
+            <falscheAntwort3>Hygrometer</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man einen über Land auftretenden Luftwirbel (Windhose) auch?</fragenText>
+            <richtigeAntwort>Tornado</richtigeAntwort>
+            <falscheAntwort1>Phantom</falscheAntwort1>
+            <falscheAntwort2>Eagle</falscheAntwort2>
+            <falscheAntwort3>Crash</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist ein „Eiland“?</fragenText>
+            <richtigeAntwort>eine Insel</richtigeAntwort>
+            <falscheAntwort1>ein runder Berg</falscheAntwort1>
+            <falscheAntwort2>ein Land mit vielen Hühnern</falscheAntwort2>
+            <falscheAntwort3>ein Versteck für Osterhasen</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man den Ursprung eines Baches oder eines Flusses?</fragenText>
+            <richtigeAntwort>Quelle</richtigeAntwort>
+            <falscheAntwort1>Qualle</falscheAntwort1>
+            <falscheAntwort2>Quirl</falscheAntwort2>
+            <falscheAntwort3>Quäker</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Kontinent liegt nicht am Mittelmeer?</fragenText>
+            <richtigeAntwort>Amerika</richtigeAntwort>
+            <falscheAntwort1>Asien</falscheAntwort1>
+            <falscheAntwort2>Europa</falscheAntwort2>
+            <falscheAntwort3>Afrika</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie werden Gesteins- und Schlammströme in Gebirgen genannt, die mit ungeheurer Gewalt zu Tal gehen?</fragenText>
+            <richtigeAntwort>Mure</richtigeAntwort>
+            <falscheAntwort1>Bure</falscheAntwort1>
+            <falscheAntwort2>Gure</falscheAntwort2>
+            <falscheAntwort3>Ture</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Trennungslinie zwischen Himmel und Erde?</fragenText>
+            <richtigeAntwort>Horizont</richtigeAntwort>
+            <falscheAntwort1>Diskont</falscheAntwort1>
+            <falscheAntwort2>Hokozont</falscheAntwort2>
+            <falscheAntwort3>Balamont</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man eine Lawine, die sich aus jüngeren Schneeschichten bildet und die sich mit einem lauten Knall ablöst?</fragenText>
+            <richtigeAntwort>Schneebrett</richtigeAntwort>
+            <falscheAntwort1>Schneeholz</falscheAntwort1>
+            <falscheAntwort2>Schneestück</falscheAntwort2>
+            <falscheAntwort3>Schneeteller</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man eine Kugel, auf der die Erde abgebildet ist?</fragenText>
+            <richtigeAntwort>Globus</richtigeAntwort>
+            <falscheAntwort1>Omnibus</falscheAntwort1>
+            <falscheAntwort2>Kaktus</falscheAntwort2>
+            <falscheAntwort3>Erdus</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man eine Forschungsreise in ein unbekanntes Gebiet?</fragenText>
+            <richtigeAntwort>Expedition</richtigeAntwort>
+            <falscheAntwort1>Experiment</falscheAntwort1>
+            <falscheAntwort2>Explosion</falscheAntwort2>
+            <falscheAntwort3>Expander</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der größte See in Deutschland?</fragenText>
+            <richtigeAntwort>Bodensee</richtigeAntwort>
+            <falscheAntwort1>Ammersee</falscheAntwort1>
+            <falscheAntwort2>Tegernsee</falscheAntwort2>
+            <falscheAntwort3>Walchensee</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der höchste Berg in Deutschland?</fragenText>
+            <richtigeAntwort>Zugspitze</richtigeAntwort>
+            <falscheAntwort1>Autospitze</falscheAntwort1>
+            <falscheAntwort2>Bergspitze</falscheAntwort2>
+            <falscheAntwort3>Gipfelspitze</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo liegt der Suez - Kanal?</fragenText>
+            <richtigeAntwort>in Ägypten</richtigeAntwort>
+            <falscheAntwort1>in Thailand</falscheAntwort1>
+            <falscheAntwort2>in Schweden</falscheAntwort2>
+            <falscheAntwort3>in Pakistan</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch ist der höchste Berg in Deutschland?</fragenText>
+            <richtigeAntwort>2.962 m</richtigeAntwort>
+            <falscheAntwort1>3.871 m</falscheAntwort1>
+            <falscheAntwort2>1.998 m</falscheAntwort2>
+            <falscheAntwort3>4.721 m</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie wird der Himalaya auch oft genannt?</fragenText>
+            <richtigeAntwort>Dach der Welt</richtigeAntwort>
+            <falscheAntwort1>Ende der Welt</falscheAntwort1>
+            <falscheAntwort2>Gipfel der Welt</falscheAntwort2>
+            <falscheAntwort3>Anfang der Welt</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man einen Ort in der Wüste, an dem es Wasser gibt?</fragenText>
+            <richtigeAntwort>Oase</richtigeAntwort>
+            <falscheAntwort1>Kanal</falscheAntwort1>
+            <falscheAntwort2>Brunnen</falscheAntwort2>
+            <falscheAntwort3>Quelle</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man Kalkablagerungen in Höhlen, die oft seltsame Formen haben und durch tropfendes Kalkwasser entstehen?</fragenText>
+            <richtigeAntwort>Tropfsteine</richtigeAntwort>
+            <falscheAntwort1>Höhlensteine</falscheAntwort1>
+            <falscheAntwort2>Kalksteine</falscheAntwort2>
+            <falscheAntwort3>Formsteine</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man eine ringförmige Koralleninsel?</fragenText>
+            <richtigeAntwort>Atoll</richtigeAntwort>
+            <falscheAntwort1>Otoll</falscheAntwort1>
+            <falscheAntwort2>Utoll</falscheAntwort2>
+            <falscheAntwort3>Etoll</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man eine Luftspiegelung in der Wüste?</fragenText>
+            <richtigeAntwort>Fata Morgana</richtigeAntwort>
+            <falscheAntwort1>Mutter Morgana</falscheAntwort1>
+            <falscheAntwort2>Opa Morgana</falscheAntwort2>
+            <falscheAntwort3>Tante Morgana</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>An welche Meere grenzt Deutschland?</fragenText>
+            <richtigeAntwort>Nord - und Ostsee</richtigeAntwort>
+            <falscheAntwort1>Nord - und Südsee</falscheAntwort1>
+            <falscheAntwort2>Ost - und Westsee</falscheAntwort2>
+            <falscheAntwort3>Süd - und Ostsee</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die tiefste Stelle im Meer?</fragenText>
+            <richtigeAntwort>Marianengraben</richtigeAntwort>
+            <falscheAntwort1>Marineschlucht</falscheAntwort1>
+            <falscheAntwort2>Teufelsloch</falscheAntwort2>
+            <falscheAntwort3>Gambadaschlot</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Ozean befindet sich die tiefste Stelle?</fragenText>
+            <richtigeAntwort>im Pazifischen Ozean</richtigeAntwort>
+            <falscheAntwort1>im Atlantischen Ozean</falscheAntwort1>
+            <falscheAntwort2>im Indischen Ozean</falscheAntwort2>
+            <falscheAntwort3>im Mittelmeer</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie tief ist die tiefste Stelle im Ozean?</fragenText>
+            <richtigeAntwort>11.052 m</richtigeAntwort>
+            <falscheAntwort1>10.983 m</falscheAntwort1>
+            <falscheAntwort2>13.803 m</falscheAntwort2>
+            <falscheAntwort3>12.707 m</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man das flache Meer rund um die Kontinente?</fragenText>
+            <richtigeAntwort>Schelfmeer</richtigeAntwort>
+            <falscheAntwort1>Wattenmeer</falscheAntwort1>
+            <falscheAntwort2>Randmeer</falscheAntwort2>
+            <falscheAntwort3>Speinmeer</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viel der Erdoberfläche bedeckt der Pazifische Ozean?</fragenText>
+            <richtigeAntwort>ein Drittel</richtigeAntwort>
+            <falscheAntwort1>die Hälfte</falscheAntwort1>
+            <falscheAntwort2>ein Viertel</falscheAntwort2>
+            <falscheAntwort3>ein Achtel</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie tief sind die Ozeane im Durchschnitt?</fragenText>
+            <richtigeAntwort>ca. 5.500 m</richtigeAntwort>
+            <falscheAntwort1>ca. 3.300 m</falscheAntwort1>
+            <falscheAntwort2>ca. 4.400 m</falscheAntwort2>
+            <falscheAntwort3>ca. 6.600 m</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der Pazifische Ozean hat die meisten Tiefseegräben. Wie viele sind es?</fragenText>
+            <richtigeAntwort>mehr als 20</richtigeAntwort>
+            <falscheAntwort1>17 - 20</falscheAntwort1>
+            <falscheAntwort2>ca. 15</falscheAntwort2>
+            <falscheAntwort3>12</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die von Wellen und Wind aufgetürmten Eismassen?</fragenText>
+            <richtigeAntwort>Packeis</richtigeAntwort>
+            <falscheAntwort1>Hackeis</falscheAntwort1>
+            <falscheAntwort2>Glatteis</falscheAntwort2>
+            <falscheAntwort3>Bergeis</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Spitze einer Welle?</fragenText>
+            <richtigeAntwort>Wellenkamm</richtigeAntwort>
+            <falscheAntwort1>Wellenbürste</falscheAntwort1>
+            <falscheAntwort2>Wellenföhn</falscheAntwort2>
+            <falscheAntwort3>Wellenspiegel</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Stelle zwischen zwei Wellen?</fragenText>
+            <richtigeAntwort>Wellental</richtigeAntwort>
+            <falscheAntwort1>Wellenloch</falscheAntwort1>
+            <falscheAntwort2>Wellenknick</falscheAntwort2>
+            <falscheAntwort3>Wellenberg</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man den Aufprall der Wellen an der Küste?</fragenText>
+            <richtigeAntwort>Brandung</richtigeAntwort>
+            <falscheAntwort1>Landung</falscheAntwort1>
+            <falscheAntwort2>Strandung</falscheAntwort2>
+            <falscheAntwort3>Hoffnung</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Meeresströmung ist besonders für das Klima in Europa von Bedeutung?</fragenText>
+            <richtigeAntwort>Golfstrom</richtigeAntwort>
+            <falscheAntwort1>Astrastrom</falscheAntwort1>
+            <falscheAntwort2>Polostrom</falscheAntwort2>
+            <falscheAntwort3>Hockeystrom</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der größte See der Erde?</fragenText>
+            <richtigeAntwort>Kaspisches Meer</richtigeAntwort>
+            <falscheAntwort1>Victoria - See</falscheAntwort1>
+            <falscheAntwort2>Bodensee</falscheAntwort2>
+            <falscheAntwort3>Aralsee</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Woraus setzen sich alle Gesteine der Erde zusammen?</fragenText>
+            <richtigeAntwort>aus Mineralien</richtigeAntwort>
+            <falscheAntwort1>aus Fossilien</falscheAntwort1>
+            <falscheAntwort2>aus Magma</falscheAntwort2>
+            <falscheAntwort3>aus Sedimenten</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist der härteste Stoff der Welt?</fragenText>
+            <richtigeAntwort>Diamant</richtigeAntwort>
+            <falscheAntwort1>Basalt</falscheAntwort1>
+            <falscheAntwort2>Marmor</falscheAntwort2>
+            <falscheAntwort3>Gold</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch ist der höchste Wasserfall der Welt?</fragenText>
+            <richtigeAntwort>979 m</richtigeAntwort>
+            <falscheAntwort1>876 m</falscheAntwort1>
+            <falscheAntwort2>1.756 m</falscheAntwort2>
+            <falscheAntwort3>1.087 m</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der höchstgelegene See der Welt, der noch mit Schiffen befahrbar ist?</fragenText>
+            <richtigeAntwort>Titicacasee</richtigeAntwort>
+            <falscheAntwort1>Mimicocosee</falscheAntwort1>
+            <falscheAntwort2>Bibicucusee</falscheAntwort2>
+            <falscheAntwort3>Lilicecesee</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist kein Wirbelsturm?</fragenText>
+            <richtigeAntwort>Terminator</richtigeAntwort>
+            <falscheAntwort1>Hurrikan</falscheAntwort1>
+            <falscheAntwort2>Taifun</falscheAntwort2>
+            <falscheAntwort3>Zyklon</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie wird der Wirbelsturm im Indischen Ozean genannt?</fragenText>
+            <richtigeAntwort>Zyklon</richtigeAntwort>
+            <falscheAntwort1>Tornado</falscheAntwort1>
+            <falscheAntwort2>Taifun</falscheAntwort2>
+            <falscheAntwort3>Hurrikan</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo treten die meisten Tsunamis (gefährliche Flutwellen) auf?</fragenText>
+            <richtigeAntwort>im Pazifischen Ozean</richtigeAntwort>
+            <falscheAntwort1>im Atlantischen Ozean</falscheAntwort1>
+            <falscheAntwort2>im Indischen Ozean</falscheAntwort2>
+            <falscheAntwort3>im Mittelmeer</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie groß kann der Durchmesser eines Tornados werden?</fragenText>
+            <richtigeAntwort>ca. 500 m</richtigeAntwort>
+            <falscheAntwort1>ca. 200 m</falscheAntwort1>
+            <falscheAntwort2>ca. 300 m</falscheAntwort2>
+            <falscheAntwort3>ca. 400 m</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man einen Tropfstein, der von oben nach unten wächst?</fragenText>
+            <richtigeAntwort>Stalaktit</richtigeAntwort>
+            <falscheAntwort1>Stalagmit</falscheAntwort1>
+            <falscheAntwort2>Dynamit</falscheAntwort2>
+            <falscheAntwort3>Staralmit</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo wurde die bisher höchste Temperatur auf der Erde gemessen?</fragenText>
+            <richtigeAntwort>Libyen</richtigeAntwort>
+            <falscheAntwort1>Mexiko</falscheAntwort1>
+            <falscheAntwort2>Pakistan</falscheAntwort2>
+            <falscheAntwort3>Hawaii</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie wird das Magma genannt, wenn es an die Erdoberfläche gelangt ist?</fragenText>
+            <richtigeAntwort>Lava</richtigeAntwort>
+            <falscheAntwort1>Lepra</falscheAntwort1>
+            <falscheAntwort2>Lavados</falscheAntwort2>
+            <falscheAntwort3>Lehm</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie dick ist die Erdkruste?</fragenText>
+            <richtigeAntwort>ca. 50 km</richtigeAntwort>
+            <falscheAntwort1>ca. 10 km</falscheAntwort1>
+            <falscheAntwort2>ca. 25 km</falscheAntwort2>
+            <falscheAntwort3>ca. 100 km</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Woraus besteht der Erdkern?</fragenText>
+            <richtigeAntwort>Nickel und Eisen</richtigeAntwort>
+            <falscheAntwort1>Nickel und Bronze</falscheAntwort1>
+            <falscheAntwort2>Bronze und Eisen</falscheAntwort2>
+            <falscheAntwort3>Eisen und Kupfer</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch sind die Temperaturen im Erdkern?</fragenText>
+            <richtigeAntwort>ca. 6000° Celsius</richtigeAntwort>
+            <falscheAntwort1>ca. 1000° Celsius</falscheAntwort1>
+            <falscheAntwort2>ca. 3000° Celsius</falscheAntwort2>
+            <falscheAntwort3>ca. 4200° Celsius</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Insel im Bodensee, die für ihr mildes Klima bekannt ist?</fragenText>
+            <richtigeAntwort>Mainau</richtigeAntwort>
+            <falscheAntwort1>Deinau</falscheAntwort1>
+            <falscheAntwort2>Grainau</falscheAntwort2>
+            <falscheAntwort3>Heinau</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch war die bisher höchste gemessene Temperatur auf der Erde?</fragenText>
+            <richtigeAntwort>57,7° Celsius</richtigeAntwort>
+            <falscheAntwort1>48,5° Celsius</falscheAntwort1>
+            <falscheAntwort2>62,6° Celsius</falscheAntwort2>
+            <falscheAntwort3>51,8° Celsius</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo wurde die bisher kälteste Temperatur der Erde gemessen?</fragenText>
+            <richtigeAntwort>in Wostock in der Antarktis</richtigeAntwort>
+            <falscheAntwort1>am Nordpol</falscheAntwort1>
+            <falscheAntwort2>in Grönland</falscheAntwort2>
+            <falscheAntwort3>in Wladiwostock</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie kalt war die bisher kälteste gemessene Temperatur auf der Erde?</fragenText>
+            <richtigeAntwort>minus 89,2° Celsius</richtigeAntwort>
+            <falscheAntwort1>minus 67,9° Celsius</falscheAntwort1>
+            <falscheAntwort2>minus 73,4° Celsius</falscheAntwort2>
+            <falscheAntwort3>minus 82,7° Celsius</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man einen riesigen Felsblock, der von einem Gletscher in der letzten Eiszeit in der Landschaft zurückgelassen wurde?</fragenText>
+            <richtigeAntwort>Findling</richtigeAntwort>
+            <falscheAntwort1>Felsling</falscheAntwort1>
+            <falscheAntwort2>Eisling</falscheAntwort2>
+            <falscheAntwort3>Gletschling</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann war die letzte Eiszeit?</fragenText>
+            <richtigeAntwort>vor ca. 20.000 Jahren</richtigeAntwort>
+            <falscheAntwort1>vor ca. 100.000 Jahren</falscheAntwort1>
+            <falscheAntwort2>vor ca. 50.000 Jahren</falscheAntwort2>
+            <falscheAntwort3>vor ca. 35.000 Jahren</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man einen einzelnen Steinblock, der sich manchmal auch als Inselberg unvermittelt aus der Landschaft erhebt?</fragenText>
+            <richtigeAntwort>Monolith</richtigeAntwort>
+            <falscheAntwort1>Duolith</falscheAntwort1>
+            <falscheAntwort2>Terziolith</falscheAntwort2>
+            <falscheAntwort3>Quadrolith</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man den Übergang vom Schelfmeer zur Tiefsee?</fragenText>
+            <richtigeAntwort>Kontinentalabhang</richtigeAntwort>
+            <falscheAntwort1>Kontinentalberg</falscheAntwort1>
+            <falscheAntwort2>Kontinentalschlucht</falscheAntwort2>
+            <falscheAntwort3>Kontinentalschlick</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Mineralienarten gibt es?</fragenText>
+            <richtigeAntwort>ca. 2.000</richtigeAntwort>
+            <falscheAntwort1>ca. 1.000</falscheAntwort1>
+            <falscheAntwort2>ca. 1.700</falscheAntwort2>
+            <falscheAntwort3>ca. 2.800</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man eine Inselgruppe?</fragenText>
+            <richtigeAntwort>Archipel</richtigeAntwort>
+            <falscheAntwort1>Biogel</falscheAntwort1>
+            <falscheAntwort2>Ceratel</falscheAntwort2>
+            <falscheAntwort3>Duomel</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Kontinent liegt östlich von Europa?</fragenText>
+            <richtigeAntwort>Asien</richtigeAntwort>
+            <falscheAntwort1>Australien</falscheAntwort1>
+            <falscheAntwort2>Amerika</falscheAntwort2>
+            <falscheAntwort3>Afrika</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Auf welchen Kontinent kommen nur Besucher?</fragenText>
+            <richtigeAntwort>Antarktis</richtigeAntwort>
+            <falscheAntwort1>Asien</falscheAntwort1>
+            <falscheAntwort2>Australien</falscheAntwort2>
+            <falscheAntwort3>Europa</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Bis zu welchem Kontinent kann man von Europa mit der Eisenbahn reisen?</fragenText>
+            <richtigeAntwort>Asien</richtigeAntwort>
+            <falscheAntwort1>Amerika</falscheAntwort1>
+            <falscheAntwort2>Australien</falscheAntwort2>
+            <falscheAntwort3>Antarktis</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Auf welchem Kontinent kann man nicht über den Äquator reisen?</fragenText>
+            <richtigeAntwort>Europa</richtigeAntwort>
+            <falscheAntwort1>Asien</falscheAntwort1>
+            <falscheAntwort2>Afrika</falscheAntwort2>
+            <falscheAntwort3>Amerika</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Auf welchem Kontinent befindet sich der Südpol?</fragenText>
+            <richtigeAntwort>Antarktis</richtigeAntwort>
+            <falscheAntwort1>Asien</falscheAntwort1>
+            <falscheAntwort2>Australien</falscheAntwort2>
+            <falscheAntwort3>Amerika</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Auf welchem Kontinent gibt es wilde Kängurus?</fragenText>
+            <richtigeAntwort>Australien</richtigeAntwort>
+            <falscheAntwort1>Afrika</falscheAntwort1>
+            <falscheAntwort2>Amerika</falscheAntwort2>
+            <falscheAntwort3>Asien</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welchem Kontinent gehören Schweden, Belgien und Frankreich?</fragenText>
+            <richtigeAntwort>Europa</richtigeAntwort>
+            <falscheAntwort1>Asien</falscheAntwort1>
+            <falscheAntwort2>Afrika</falscheAntwort2>
+            <falscheAntwort3>Amerika</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo befindet sich der berühmteste Monolith?</fragenText>
+            <richtigeAntwort>in Australien</richtigeAntwort>
+            <falscheAntwort1>in Südafrika</falscheAntwort1>
+            <falscheAntwort2>im Himalaya</falscheAntwort2>
+            <falscheAntwort3>in Nordafrika</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der berühmteste Monolith?</fragenText>
+            <richtigeAntwort>Ayers Rock</richtigeAntwort>
+            <falscheAntwort1>Externstein</falscheAntwort1>
+            <falscheAntwort2>Rocky Mountain</falscheAntwort2>
+            <falscheAntwort3>Mount Everest</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welchem Kontinent gehören Chile, Mexiko und Kanada?</fragenText>
+            <richtigeAntwort>Amerika</richtigeAntwort>
+            <falscheAntwort1>Asien</falscheAntwort1>
+            <falscheAntwort2>Australien</falscheAntwort2>
+            <falscheAntwort3>Afrika</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welchem Kontinent gehören Nepal, Korea und Vietnam?</fragenText>
+            <richtigeAntwort>Asien</richtigeAntwort>
+            <falscheAntwort1>Europa</falscheAntwort1>
+            <falscheAntwort2>Afrika</falscheAntwort2>
+            <falscheAntwort3>Australien</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welchem Kontinent gehören Marokko, Ägypten und Nigeria?</fragenText>
+            <richtigeAntwort>Afrika</richtigeAntwort>
+            <falscheAntwort1>Europa</falscheAntwort1>
+            <falscheAntwort2>Asien</falscheAntwort2>
+            <falscheAntwort3>Amerika</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welchem Kontinent gehören die Städte Oslo, Bern und Paris?</fragenText>
+            <richtigeAntwort>Europa</richtigeAntwort>
+            <falscheAntwort1>Afrika</falscheAntwort1>
+            <falscheAntwort2>Amerika</falscheAntwort2>
+            <falscheAntwort3>Asien</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welchem Kontinent gehören die Städte Peking, Kambodscha und Bombay?</fragenText>
+            <richtigeAntwort>Asien</richtigeAntwort>
+            <falscheAntwort1>Afrika</falscheAntwort1>
+            <falscheAntwort2>Europa</falscheAntwort2>
+            <falscheAntwort3>Amerika</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der kleinste Kontinent?</fragenText>
+            <richtigeAntwort>Australien</richtigeAntwort>
+            <falscheAntwort1>Amerika</falscheAntwort1>
+            <falscheAntwort2>Europa</falscheAntwort2>
+            <falscheAntwort3>Asien</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welchem Kontinent gehört Indien?</fragenText>
+            <richtigeAntwort>Asien</richtigeAntwort>
+            <falscheAntwort1>Afrika</falscheAntwort1>
+            <falscheAntwort2>Amerika</falscheAntwort2>
+            <falscheAntwort3>Australien</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Land gehört zu Europa und zu Asien?</fragenText>
+            <richtigeAntwort>Türkei</richtigeAntwort>
+            <falscheAntwort1>Schweiz</falscheAntwort1>
+            <falscheAntwort2>Japan</falscheAntwort2>
+            <falscheAntwort3>Nepal</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Auf welchem Kontinent gibt es die höchsten Berge der Erde?</fragenText>
+            <richtigeAntwort>Asien</richtigeAntwort>
+            <falscheAntwort1>Afrika</falscheAntwort1>
+            <falscheAntwort2>Amerika</falscheAntwort2>
+            <falscheAntwort3>Europa</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Ureinwohner von Australien?</fragenText>
+            <richtigeAntwort>Aborigines</richtigeAntwort>
+            <falscheAntwort1>Eskimos</falscheAntwort1>
+            <falscheAntwort2>Mongolen</falscheAntwort2>
+            <falscheAntwort3>Indianer</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Ozean liegt zwischen Amerika und Asien?</fragenText>
+            <richtigeAntwort>Pazifik</richtigeAntwort>
+            <falscheAntwort1>Atlantik</falscheAntwort1>
+            <falscheAntwort2>Indische Ozean</falscheAntwort2>
+            <falscheAntwort3>Asiatische Ozean</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Meer liegt zwischen Europa und Afrika?</fragenText>
+            <richtigeAntwort>Mittelmeer</richtigeAntwort>
+            <falscheAntwort1>Tote Meer</falscheAntwort1>
+            <falscheAntwort2>Kaspische Meer</falscheAntwort2>
+            <falscheAntwort3>Schwarze Meer</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welches Meer mündet der Nil?</fragenText>
+            <richtigeAntwort>Mittelmeer</richtigeAntwort>
+            <falscheAntwort1>Nordsee</falscheAntwort1>
+            <falscheAntwort2>Südsee</falscheAntwort2>
+            <falscheAntwort3>Atlantik</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welches Meer mündet der Amazonas?</fragenText>
+            <richtigeAntwort>Atlantik</richtigeAntwort>
+            <falscheAntwort1>Pazifik</falscheAntwort1>
+            <falscheAntwort2>Indische Ozean</falscheAntwort2>
+            <falscheAntwort3>Mittelmeer</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Fluss fließt nicht durch Asien?</fragenText>
+            <richtigeAntwort>die Donau</richtigeAntwort>
+            <falscheAntwort1>der Indus</falscheAntwort1>
+            <falscheAntwort2>der Jangtsekiang</falscheAntwort2>
+            <falscheAntwort3>der Ganges</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Fluss fließt an den ägyptischen Pyramiden vorbei?</fragenText>
+            <richtigeAntwort>Nil</richtigeAntwort>
+            <falscheAntwort1>Loire</falscheAntwort1>
+            <falscheAntwort2>Ems</falscheAntwort2>
+            <falscheAntwort3>Ganges</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Fluss fließt durch den größten Regenwald der Welt?</fragenText>
+            <richtigeAntwort>Amazonas</richtigeAntwort>
+            <falscheAntwort1>Mississippi</falscheAntwort1>
+            <falscheAntwort2>Nil</falscheAntwort2>
+            <falscheAntwort3>Wolga</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Über welches Meer fährt ein Schiff von Kiel nach Oslo?</fragenText>
+            <richtigeAntwort>Ostsee</richtigeAntwort>
+            <falscheAntwort1>Nordsee</falscheAntwort1>
+            <falscheAntwort2>Mittelmeer</falscheAntwort2>
+            <falscheAntwort3>Pazifik</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Meer liegt Japan?</fragenText>
+            <richtigeAntwort>Pazifik</richtigeAntwort>
+            <falscheAntwort1>Atlantik</falscheAntwort1>
+            <falscheAntwort2>Indischer Ozean</falscheAntwort2>
+            <falscheAntwort3>Mittelmeer</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Meerenge zwischen Frankreich und England?</fragenText>
+            <richtigeAntwort>Ärmelkanal</richtigeAntwort>
+            <falscheAntwort1>Kragenkanal</falscheAntwort1>
+            <falscheAntwort2>Hosenkanal</falscheAntwort2>
+            <falscheAntwort3>Gürtelkanal</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Durch welchen See fließt der Rhein?</fragenText>
+            <richtigeAntwort>Bodensee</richtigeAntwort>
+            <falscheAntwort1>Tegernsee</falscheAntwort1>
+            <falscheAntwort2>Ostsee</falscheAntwort2>
+            <falscheAntwort3>Victoria - See</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Ozean liegt die Insel Madagaskar?</fragenText>
+            <richtigeAntwort>Indischer Ozean</richtigeAntwort>
+            <falscheAntwort1>Pazifik</falscheAntwort1>
+            <falscheAntwort2>Atlantik</falscheAntwort2>
+            <falscheAntwort3>Afrikanischer Ozean</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Tag ist der kürzeste Tag auf der nördlichen Erdhälfte?</fragenText>
+            <richtigeAntwort>21. Dezember</richtigeAntwort>
+            <falscheAntwort1>21. Februar</falscheAntwort1>
+            <falscheAntwort2>21. Juli</falscheAntwort2>
+            <falscheAntwort3>21. Oktober</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen die größten Wälder der Erde?</fragenText>
+            <richtigeAntwort>Regenwälder</richtigeAntwort>
+            <falscheAntwort1>Nebelwälder</falscheAntwort1>
+            <falscheAntwort2>Sonnenwälder</falscheAntwort2>
+            <falscheAntwort3>Schneewälder</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen die höchsten Bäume der Erde?</fragenText>
+            <richtigeAntwort>Eukalyptusbäume</richtigeAntwort>
+            <falscheAntwort1>Mammutbäume</falscheAntwort1>
+            <falscheAntwort2>Eichen</falscheAntwort2>
+            <falscheAntwort3>Elefantenbäume</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch können die höchsten Bäume der Welt werden?</fragenText>
+            <richtigeAntwort>ca. 150 m</richtigeAntwort>
+            <falscheAntwort1>ca. 100 m</falscheAntwort1>
+            <falscheAntwort2>ca. 80 m</falscheAntwort2>
+            <falscheAntwort3>ca. 60 m</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo wachsen die höchsten Bäume der Welt?</fragenText>
+            <richtigeAntwort>Australien</richtigeAntwort>
+            <falscheAntwort1>Amerika</falscheAntwort1>
+            <falscheAntwort2>Afrika</falscheAntwort2>
+            <falscheAntwort3>Asien</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Mammutbäume können leicht 4.000 Jahre werden. Wie alt ist der älteste Mammutbaum, der in Kalifornien (USA) steht?</fragenText>
+            <richtigeAntwort>12.000 Jahre</richtigeAntwort>
+            <falscheAntwort1>6.000 Jahre</falscheAntwort1>
+            <falscheAntwort2>8.000 Jahre</falscheAntwort2>
+            <falscheAntwort3>10.000 Jahre</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Temperaturen herrschen durchschnittlich in den Tiefen der Meere?</fragenText>
+            <richtigeAntwort>3,7° Celsius</richtigeAntwort>
+            <falscheAntwort1>4,5° Celsius</falscheAntwort1>
+            <falscheAntwort2>1,2° Celsius</falscheAntwort2>
+            <falscheAntwort3>8,4° Celsius</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Stadt ist von Deutschland am weitesten entfernt?</fragenText>
+            <richtigeAntwort>Tokio</richtigeAntwort>
+            <falscheAntwort1>Moskau</falscheAntwort1>
+            <falscheAntwort2>Peking</falscheAntwort2>
+            <falscheAntwort3>Athen</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche dieser Städte liegt am weitesten im Norden?</fragenText>
+            <richtigeAntwort>Oslo</richtigeAntwort>
+            <falscheAntwort1>Rom</falscheAntwort1>
+            <falscheAntwort2>Madrid</falscheAntwort2>
+            <falscheAntwort3>Paris</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche dieser Städte liegt am weitesten im Süden?</fragenText>
+            <richtigeAntwort>Kapstadt</richtigeAntwort>
+            <falscheAntwort1>New York</falscheAntwort1>
+            <falscheAntwort2>Kairo</falscheAntwort2>
+            <falscheAntwort3>London</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welcher Stadt wird russisch gesprochen?</fragenText>
+            <richtigeAntwort>Moskau</richtigeAntwort>
+            <falscheAntwort1>Budapest</falscheAntwort1>
+            <falscheAntwort2>Singapur</falscheAntwort2>
+            <falscheAntwort3>Rom</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welcher Stadt wird mit Dollar bezahlt?</fragenText>
+            <richtigeAntwort>New York</richtigeAntwort>
+            <falscheAntwort1>Helsinki</falscheAntwort1>
+            <falscheAntwort2>New Delhi</falscheAntwort2>
+            <falscheAntwort3>Dortmund</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Stadt liegt nicht am Meer?</fragenText>
+            <richtigeAntwort>Wien</richtigeAntwort>
+            <falscheAntwort1>Athen</falscheAntwort1>
+            <falscheAntwort2>Lissabon</falscheAntwort2>
+            <falscheAntwort3>New York</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welcher Stadt steht die Freiheitsstatue?</fragenText>
+            <richtigeAntwort>New York</richtigeAntwort>
+            <falscheAntwort1>San Franzisko</falscheAntwort1>
+            <falscheAntwort2>Paris</falscheAntwort2>
+            <falscheAntwort3>Las Vegas</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welcher Stadt gibt es den „Platz des himmlischen Friedens“?</fragenText>
+            <richtigeAntwort>Peking</richtigeAntwort>
+            <falscheAntwort1>Stockholm</falscheAntwort1>
+            <falscheAntwort2>Athen</falscheAntwort2>
+            <falscheAntwort3>Berlin</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welcher Stadt gibt es den „Roten Platz“?</fragenText>
+            <richtigeAntwort>Moskau</richtigeAntwort>
+            <falscheAntwort1>Kairo</falscheAntwort1>
+            <falscheAntwort2>Jerusalem</falscheAntwort2>
+            <falscheAntwort3>Bagdad</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welcher Stadt steht das „Brandenburger Tor“?</fragenText>
+            <richtigeAntwort>Berlin</richtigeAntwort>
+            <falscheAntwort1>Köln</falscheAntwort1>
+            <falscheAntwort2>Amsterdam</falscheAntwort2>
+            <falscheAntwort3>Brüssel</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Berg in Rio de Janeiro?</fragenText>
+            <richtigeAntwort>Zuckerhut</richtigeAntwort>
+            <falscheAntwort1>Salzhut</falscheAntwort1>
+            <falscheAntwort2>Zuckerberg</falscheAntwort2>
+            <falscheAntwort3>Zuckermütze</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welcher Stadt gibt es Kanäle anstatt Straßen?</fragenText>
+            <richtigeAntwort>Venedig</richtigeAntwort>
+            <falscheAntwort1>Rom</falscheAntwort1>
+            <falscheAntwort2>Mailand</falscheAntwort2>
+            <falscheAntwort3>Bern</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welcher Stadt steht die „Golden - Gate - Brücke“?</fragenText>
+            <richtigeAntwort>San Franzisko</richtigeAntwort>
+            <falscheAntwort1>Melbourne</falscheAntwort1>
+            <falscheAntwort2>Tokio</falscheAntwort2>
+            <falscheAntwort3>Paris</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Stadt liegt in der Nähe der Pyramiden?</fragenText>
+            <richtigeAntwort>Kairo</richtigeAntwort>
+            <falscheAntwort1>Kalkutta</falscheAntwort1>
+            <falscheAntwort2>Köln</falscheAntwort2>
+            <falscheAntwort3>Kapstadt</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Land steht der Eiffelturm?</fragenText>
+            <richtigeAntwort>Frankreich</richtigeAntwort>
+            <falscheAntwort1>Schweden</falscheAntwort1>
+            <falscheAntwort2>Österreich</falscheAntwort2>
+            <falscheAntwort3>Polen</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Land steht der „Schiefe Turm von Pisa“?</fragenText>
+            <richtigeAntwort>Italien</richtigeAntwort>
+            <falscheAntwort1>Portugal</falscheAntwort1>
+            <falscheAntwort2>Dänemark</falscheAntwort2>
+            <falscheAntwort3>Spanien</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Land gibt es aktive Vulkane?</fragenText>
+            <richtigeAntwort>Italien</richtigeAntwort>
+            <falscheAntwort1>Finnland</falscheAntwort1>
+            <falscheAntwort2>Niederlande</falscheAntwort2>
+            <falscheAntwort3>Luxemburg</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der größte Vulkan in Europa?</fragenText>
+            <richtigeAntwort>Ätna</richtigeAntwort>
+            <falscheAntwort1>Stromboli</falscheAntwort1>
+            <falscheAntwort2>Ärna</falscheAntwort2>
+            <falscheAntwort3>Gengar</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo liegt der Victoria - See?</fragenText>
+            <richtigeAntwort>Afrika</richtigeAntwort>
+            <falscheAntwort1>Amerika</falscheAntwort1>
+            <falscheAntwort2>Asien</falscheAntwort2>
+            <falscheAntwort3>Australien</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Tier lebt in Südamerika?</fragenText>
+            <richtigeAntwort>Lama</richtigeAntwort>
+            <falscheAntwort1>Känguru</falscheAntwort1>
+            <falscheAntwort2>Tiger</falscheAntwort2>
+            <falscheAntwort3>Giraffe</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Land liegt in Afrika?</fragenText>
+            <richtigeAntwort>Nigeria</richtigeAntwort>
+            <falscheAntwort1>Norwegen</falscheAntwort1>
+            <falscheAntwort2>Nepal</falscheAntwort2>
+            <falscheAntwort3>Neuseeland</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Berg liegt in Afrika?</fragenText>
+            <richtigeAntwort>Kilimandscharo</richtigeAntwort>
+            <falscheAntwort1>Mount Everest</falscheAntwort1>
+            <falscheAntwort2>Mount Blanc</falscheAntwort2>
+            <falscheAntwort3>Fujiyama</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Land ist von Deutschland am weitesten entfernt?</fragenText>
+            <richtigeAntwort>Neuseeland</richtigeAntwort>
+            <falscheAntwort1>Israel</falscheAntwort1>
+            <falscheAntwort2>Türkei</falscheAntwort2>
+            <falscheAntwort3>Schweden</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Inselgruppe gibt es im Atlantik?</fragenText>
+            <richtigeAntwort>Kanaren</richtigeAntwort>
+            <falscheAntwort1>Malediven</falscheAntwort1>
+            <falscheAntwort2>Hawaii - Inseln</falscheAntwort2>
+            <falscheAntwort3>Philippinen</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Land liegt südlich des Äquators?</fragenText>
+            <richtigeAntwort>Argentinien</richtigeAntwort>
+            <falscheAntwort1>Griechenland</falscheAntwort1>
+            <falscheAntwort2>Ägypten</falscheAntwort2>
+            <falscheAntwort3>Grönland</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist keine Wüste?</fragenText>
+            <richtigeAntwort>Wolmera</richtigeAntwort>
+            <falscheAntwort1>Gobi</falscheAntwort1>
+            <falscheAntwort2>Sahara</falscheAntwort2>
+            <falscheAntwort3>Atacama</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Hauptstadt von Südafrika?</fragenText>
+            <richtigeAntwort>Kapstadt</richtigeAntwort>
+            <falscheAntwort1>Kalkutta</falscheAntwort1>
+            <falscheAntwort2>Kairo</falscheAntwort2>
+            <falscheAntwort3>Kansas</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo liegt die Rheinquelle?</fragenText>
+            <richtigeAntwort>in der Schweiz</richtigeAntwort>
+            <falscheAntwort1>in Deutschland</falscheAntwort1>
+            <falscheAntwort2>in Österreich</falscheAntwort2>
+            <falscheAntwort3>in Frankreich</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo liegt die Insel Kreta?</fragenText>
+            <richtigeAntwort>im Mittelmeer</richtigeAntwort>
+            <falscheAntwort1>im Pazifik</falscheAntwort1>
+            <falscheAntwort2>im Atlantik</falscheAntwort2>
+            <falscheAntwort3>in der Karibik</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der größte Staat in Südamerika?</fragenText>
+            <richtigeAntwort>Brasilien</richtigeAntwort>
+            <falscheAntwort1>Bolivien</falscheAntwort1>
+            <falscheAntwort2>Peru</falscheAntwort2>
+            <falscheAntwort3>Chile</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo kommt Europa Afrika am nächsten?</fragenText>
+            <richtigeAntwort>Straße von Gibraltar</richtigeAntwort>
+            <falscheAntwort1>Weg von Sizilien</falscheAntwort1>
+            <falscheAntwort2>Bosporus</falscheAntwort2>
+            <falscheAntwort3>Meerenge von Dover</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches „Pärchen“ von Land mit Hauptstadt ist falsch?</fragenText>
+            <richtigeAntwort>Finnland - Oslo</richtigeAntwort>
+            <falscheAntwort1>Dänemark - Kopenhagen</falscheAntwort1>
+            <falscheAntwort2>Polen - Warschau</falscheAntwort2>
+            <falscheAntwort3>Spanien - Madrid</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches „Pärchen“ von Land mit Hauptstadt ist falsch?</fragenText>
+            <richtigeAntwort>Norwegen - Helsinki</richtigeAntwort>
+            <falscheAntwort1>Deutschland - Berlin</falscheAntwort1>
+            <falscheAntwort2>Österreich - Wien</falscheAntwort2>
+            <falscheAntwort3>Portugal - Lissabon</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches „Pärchen“ von Land mit Hauptstadt ist falsch?</fragenText>
+            <richtigeAntwort>China - Tokio</richtigeAntwort>
+            <falscheAntwort1>Russland - Moskau</falscheAntwort1>
+            <falscheAntwort2>Südafrika - Kapstadt</falscheAntwort2>
+            <falscheAntwort3>USA - Washington</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches „Pärchen“ von Land mit Hauptstadt ist falsch?</fragenText>
+            <richtigeAntwort>Italien - Neapel</richtigeAntwort>
+            <falscheAntwort1>Schweiz - Bern</falscheAntwort1>
+            <falscheAntwort2>Frankreich - Paris</falscheAntwort2>
+            <falscheAntwort3>Ägypten - Kairo</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Warschau, Moskau, Wien und Lissabon sind europäische Hauptstädte.</fragenText>
+            <richtigeAntwort>stimmt für alle Städte</richtigeAntwort>
+            <falscheAntwort1>stimmt nur für eine Stadt</falscheAntwort1>
+            <falscheAntwort2>stimmt für zwei Städte</falscheAntwort2>
+            <falscheAntwort3>stimmt für drei Städte</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Rom, Berlin, Bern und Rotterdam sind europäische Hauptstädte.</fragenText>
+            <richtigeAntwort>stimmt für drei Städte</richtigeAntwort>
+            <falscheAntwort1>stimmt nur für eine Stadt</falscheAntwort1>
+            <falscheAntwort2>stimmt für zwei Städte</falscheAntwort2>
+            <falscheAntwort3>stimmt für alle Städte</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Mailand, Paris, Bonn und Nizza sind europäische Hauptstädte.</fragenText>
+            <richtigeAntwort>stimmt nur für eine Stadt</richtigeAntwort>
+            <falscheAntwort1>stimmt für zwei Städte</falscheAntwort1>
+            <falscheAntwort2>stimmt für drei Städte</falscheAntwort2>
+            <falscheAntwort3>stimmt für alle Städte</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Meere verbindet der Skagerrak?</fragenText>
+            <richtigeAntwort>Nordsee und Ostsee</richtigeAntwort>
+            <falscheAntwort1>Nordsee und Atlantik</falscheAntwort1>
+            <falscheAntwort2>Mittelmeer und Atlantik</falscheAntwort2>
+            <falscheAntwort3>Schwarzes Meer und Mittelmeer</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welchem Land hat Frankreich keinen direkten Grenzkontakt?</fragenText>
+            <richtigeAntwort>Österreich</richtigeAntwort>
+            <falscheAntwort1>Schweiz</falscheAntwort1>
+            <falscheAntwort2>Spanien</falscheAntwort2>
+            <falscheAntwort3>Luxemburg</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die größte Insel im Mittelmeer?</fragenText>
+            <richtigeAntwort>Sizilien</richtigeAntwort>
+            <falscheAntwort1>Sardinien</falscheAntwort1>
+            <falscheAntwort2>Korsika</falscheAntwort2>
+            <falscheAntwort3>Kreta</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lange braucht die Erde, um sich einmal um sich selbst zu drehen?</fragenText>
+            <richtigeAntwort>24 Stunden</richtigeAntwort>
+            <falscheAntwort1>12 Stunden</falscheAntwort1>
+            <falscheAntwort2>36 Stunden</falscheAntwort2>
+            <falscheAntwort3>48 Stunden</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lange braucht die Erde, um sich einmal um die Sonne zu drehen?</fragenText>
+            <richtigeAntwort>12 Monate</richtigeAntwort>
+            <falscheAntwort1>6 Monate</falscheAntwort1>
+            <falscheAntwort2>24 Monate</falscheAntwort2>
+            <falscheAntwort3>1 Monat</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie dreht sich die Erde um die Sonne?</fragenText>
+            <richtigeAntwort>ellipsenförmig</richtigeAntwort>
+            <falscheAntwort1>kreisförmig</falscheAntwort1>
+            <falscheAntwort2>in einer Achterschleife</falscheAntwort2>
+            <falscheAntwort3>rechteckig</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viel mal schwerer als der Mond ist die Erde?</fragenText>
+            <richtigeAntwort>81 - mal</richtigeAntwort>
+            <falscheAntwort1>14 - mal</falscheAntwort1>
+            <falscheAntwort2>53 - mal</falscheAntwort2>
+            <falscheAntwort3>39 - mal</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Meteoritenkrater kennen wir auf der Erde?</fragenText>
+            <richtigeAntwort>ca. 1000</richtigeAntwort>
+            <falscheAntwort1>ca. 10</falscheAntwort1>
+            <falscheAntwort2>ca. 1000</falscheAntwort2>
+            <falscheAntwort3>ca. 10.000</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Lufthülle um die Erde?</fragenText>
+            <richtigeAntwort>Erdatmosphäre</richtigeAntwort>
+            <falscheAntwort1>Erdhülle</falscheAntwort1>
+            <falscheAntwort2>Erdluft</falscheAntwort2>
+            <falscheAntwort3>Luftsphäre</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist keine Schicht der Erdatmosphäre?</fragenText>
+            <richtigeAntwort>Salsosphäre</richtigeAntwort>
+            <falscheAntwort1>Exospäre</falscheAntwort1>
+            <falscheAntwort2>Mesosphäre</falscheAntwort2>
+            <falscheAntwort3>Stratosphäre</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Teil der Erdatmosphäre ist stark geschädigt?</fragenText>
+            <richtigeAntwort>die Ozonschicht</richtigeAntwort>
+            <falscheAntwort1>die Wolkenschicht</falscheAntwort1>
+            <falscheAntwort2>die Luftschicht</falscheAntwort2>
+            <falscheAntwort3>die Tagschicht</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Schicht in der Erdatmosphäre, die die Erde vor der ultravioletten Strahlung schützt?</fragenText>
+            <richtigeAntwort>Ozonschicht</richtigeAntwort>
+            <falscheAntwort1>Odolschicht</falscheAntwort1>
+            <falscheAntwort2>Neonschicht</falscheAntwort2>
+            <falscheAntwort3>Geoschicht</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen die Ureinwohner Amerikas?</fragenText>
+            <richtigeAntwort>Indianer</richtigeAntwort>
+            <falscheAntwort1>Amis</falscheAntwort1>
+            <falscheAntwort2>Eskimos</falscheAntwort2>
+            <falscheAntwort3>Cowboys</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie alt ist die Erde?</fragenText>
+            <richtigeAntwort>ca. 4,5 Milliarden Jahre</richtigeAntwort>
+            <falscheAntwort1>ca. 3 Milliarden Jahre</falscheAntwort1>
+            <falscheAntwort2>ca. 8 Milliarden Jahre</falscheAntwort2>
+            <falscheAntwort3>ca. 1,5 Milliarden Jahre</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Schichten hat der Erdboden?</fragenText>
+            <richtigeAntwort>3</richtigeAntwort>
+            <falscheAntwort1>1</falscheAntwort1>
+            <falscheAntwort2>2</falscheAntwort2>
+            <falscheAntwort3>4</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die obere Schicht des Erdbodens?</fragenText>
+            <richtigeAntwort>Krume</richtigeAntwort>
+            <falscheAntwort1>Blume</falscheAntwort1>
+            <falscheAntwort2>Strume</falscheAntwort2>
+            <falscheAntwort3>Pilume</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man einen „Feuer spuckenden“ Berg?</fragenText>
+            <richtigeAntwort>Vulkan</richtigeAntwort>
+            <falscheAntwort1>Krater</falscheAntwort1>
+            <falscheAntwort2>Gletscher</falscheAntwort2>
+            <falscheAntwort3>Feuerberg</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer entdeckte Amerika?</fragenText>
+            <richtigeAntwort>Christopher Kolumbus</richtigeAntwort>
+            <falscheAntwort1>Sven Hedin</falscheAntwort1>
+            <falscheAntwort2>Marco Polo</falscheAntwort2>
+            <falscheAntwort3>Julius Cäsar</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo befindet sich der tropische Regenwald?</fragenText>
+            <richtigeAntwort>in der Nähe des Äquators</richtigeAntwort>
+            <falscheAntwort1>in Nordpolnähe</falscheAntwort1>
+            <falscheAntwort2>in Südpolnähe</falscheAntwort2>
+            <falscheAntwort3>nur in Australien</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Klima herrscht im tropischen Regenwald?</fragenText>
+            <richtigeAntwort>feucht und warm</richtigeAntwort>
+            <falscheAntwort1>trocken und heiß</falscheAntwort1>
+            <falscheAntwort2>kalt und neblig</falscheAntwort2>
+            <falscheAntwort3>trocken und kalt</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Durchschnittstemperatur herrscht im tropischen Regenwald?</fragenText>
+            <richtigeAntwort>26° Celsius</richtigeAntwort>
+            <falscheAntwort1>28° Celsius</falscheAntwort1>
+            <falscheAntwort2>30° Celsius</falscheAntwort2>
+            <falscheAntwort3>32° Celsius</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch ist die durchschnittliche Luftfeuchtigkeit im tropischen Regenwald?</fragenText>
+            <richtigeAntwort>80 %</richtigeAntwort>
+            <falscheAntwort1>50 %</falscheAntwort1>
+            <falscheAntwort2>60 %</falscheAntwort2>
+            <falscheAntwort3>70 %</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie alt ist der tropische Regenwald?</fragenText>
+            <richtigeAntwort>über 60 Millionen Jahre</richtigeAntwort>
+            <falscheAntwort1>20 - 40 Millionen Jahre</falscheAntwort1>
+            <falscheAntwort2>ca. 10 Millionen Jahre</falscheAntwort2>
+            <falscheAntwort3>weniger als 5 Millionen Jahre</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das größte Raubtier des südamerikanischen Regenwaldes?</fragenText>
+            <richtigeAntwort>Jaguar</richtigeAntwort>
+            <falscheAntwort1>Tiger</falscheAntwort1>
+            <falscheAntwort2>Puma</falscheAntwort2>
+            <falscheAntwort3>Löwe</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Wüste liegt nicht in Afrika?</fragenText>
+            <richtigeAntwort>Gobi</richtigeAntwort>
+            <falscheAntwort1>Namib</falscheAntwort1>
+            <falscheAntwort2>Kalahari</falscheAntwort2>
+            <falscheAntwort3>Sahara</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch ist der Felsblock „Ayers Rock“ in Australien?</fragenText>
+            <richtigeAntwort>400 m</richtigeAntwort>
+            <falscheAntwort1>250 m</falscheAntwort1>
+            <falscheAntwort2>630 m</falscheAntwort2>
+            <falscheAntwort3>800 m</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Land liegt die Atacama - Wüste?</fragenText>
+            <richtigeAntwort>Chile</richtigeAntwort>
+            <falscheAntwort1>Bolivien</falscheAntwort1>
+            <falscheAntwort2>China</falscheAntwort2>
+            <falscheAntwort3>Marokko</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang ist die Atacama - Wüste?</fragenText>
+            <richtigeAntwort>1000 km</richtigeAntwort>
+            <falscheAntwort1>200 km</falscheAntwort1>
+            <falscheAntwort2>500 km</falscheAntwort2>
+            <falscheAntwort3>1500 km</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die nomadischen Hirtenvölker, die auch durch die Wüsten ziehen?</fragenText>
+            <richtigeAntwort>Beduinen</richtigeAntwort>
+            <falscheAntwort1>Mongolen</falscheAntwort1>
+            <falscheAntwort2>Bekassen</falscheAntwort2>
+            <falscheAntwort3>Ruinen</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo liegt die Wüste Gobi?</fragenText>
+            <richtigeAntwort>in Asien</richtigeAntwort>
+            <falscheAntwort1>in Afrika</falscheAntwort1>
+            <falscheAntwort2>in Australien</falscheAntwort2>
+            <falscheAntwort3>in Europa</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist eine typische Wüstenpflanze?</fragenText>
+            <richtigeAntwort>Kaktus</richtigeAntwort>
+            <falscheAntwort1>Palme</falscheAntwort1>
+            <falscheAntwort2>Kürbis</falscheAntwort2>
+            <falscheAntwort3>Orchidee</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo leben die Pinguine?</fragenText>
+            <richtigeAntwort>am Südpol</richtigeAntwort>
+            <falscheAntwort1>am Nordpol</falscheAntwort1>
+            <falscheAntwort2>am Nord - und Südpol</falscheAntwort2>
+            <falscheAntwort3>am Äquator</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo leben die Eisbären?</fragenText>
+            <richtigeAntwort>am Nordpol</richtigeAntwort>
+            <falscheAntwort1>am Südpol</falscheAntwort1>
+            <falscheAntwort2>am Nord - und Südpol</falscheAntwort2>
+            <falscheAntwort3>am Äquator</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Polarweide ist der kleinste Baum der Welt. Wie groß wird er?</fragenText>
+            <richtigeAntwort>2 - 3 cm</richtigeAntwort>
+            <falscheAntwort1>1 cm</falscheAntwort1>
+            <falscheAntwort2>ca. 5 cm</falscheAntwort2>
+            <falscheAntwort3>etwa 12 cm</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo liegt die Arktis?</fragenText>
+            <richtigeAntwort>am Nordpol</richtigeAntwort>
+            <falscheAntwort1>am Südpol</falscheAntwort1>
+            <falscheAntwort2>am Äquator</falscheAntwort2>
+            <falscheAntwort3>vor Australien</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der Saguaro ist ein riesiger Kaktus, der 200 Jahre alt werden kann. Wie groß wird er?</fragenText>
+            <richtigeAntwort>ca. 15 m</richtigeAntwort>
+            <falscheAntwort1>ca. 5 m</falscheAntwort1>
+            <falscheAntwort2>ca. 11 m</falscheAntwort2>
+            <falscheAntwort3>ca. 9 m</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In der Kalahari - Wüste lebt eines der primitivsten Völker der Welt. Man schätzt ihre Zahl auf 10. 000 Menschen. Wie heißen sie?</fragenText>
+            <richtigeAntwort>Buschmänner</richtigeAntwort>
+            <falscheAntwort1>Grasmänner</falscheAntwort1>
+            <falscheAntwort2>Baummänner</falscheAntwort2>
+            <falscheAntwort3>Waldmänner</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Es gibt etwa 5.000 Eingeborene der australischen Wüste. Sie heißen Bindibu. Womit jagen sie auch?</fragenText>
+            <richtigeAntwort>Bumerang</richtigeAntwort>
+            <falscheAntwort1>Armbrust</falscheAntwort1>
+            <falscheAntwort2>Gewehr</falscheAntwort2>
+            <falscheAntwort3>Pistole</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die kälteste aller Wüsten?</fragenText>
+            <richtigeAntwort>Gobi</richtigeAntwort>
+            <falscheAntwort1>Kalahari</falscheAntwort1>
+            <falscheAntwort2>Atacama</falscheAntwort2>
+            <falscheAntwort3>Sahara</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo liegt die Antarktis?</fragenText>
+            <richtigeAntwort>am Südpol</richtigeAntwort>
+            <falscheAntwort1>am Nordpol</falscheAntwort1>
+            <falscheAntwort2>am Äquator</falscheAntwort2>
+            <falscheAntwort3>vor Grönland</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Gegend im Nordpolargebiet zwischen der Baumgrenze im Süden und dem ewigen Eis im Norden?</fragenText>
+            <richtigeAntwort>Tundra</richtigeAntwort>
+            <falscheAntwort1>Savanne</falscheAntwort1>
+            <falscheAntwort2>Steppe</falscheAntwort2>
+            <falscheAntwort3>Wüste</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Pole gibt es auf der Erde?</fragenText>
+            <richtigeAntwort>Nord- und Südpol</richtigeAntwort>
+            <falscheAntwort1>Ost- und Westpol</falscheAntwort1>
+            <falscheAntwort2>Nord-, West-, Süd- und Ostpol</falscheAntwort2>
+            <falscheAntwort3>Nord- und Westpol</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die größte Schlucht der Erde?</fragenText>
+            <richtigeAntwort>Grand Canyon</richtigeAntwort>
+            <falscheAntwort1>Dead Valley</falscheAntwort1>
+            <falscheAntwort2>Harley Davidson</falscheAntwort2>
+            <falscheAntwort3>Big Mountain</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang ist die größte Schlucht der Erde?</fragenText>
+            <richtigeAntwort>ca. 446 km</richtigeAntwort>
+            <falscheAntwort1>ca. 211 km</falscheAntwort1>
+            <falscheAntwort2>ca. 357 km</falscheAntwort2>
+            <falscheAntwort3>ca. 109 km</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie tief ist die größte Schlucht der Erde im Durchschnitt?</fragenText>
+            <richtigeAntwort>1600 m</richtigeAntwort>
+            <falscheAntwort1>1000 m</falscheAntwort1>
+            <falscheAntwort2>750 m</falscheAntwort2>
+            <falscheAntwort3>2400 m</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie breit ist die größte Schlucht der Erde im Durchschnitt?</fragenText>
+            <richtigeAntwort>16 km</richtigeAntwort>
+            <falscheAntwort1>3 km</falscheAntwort1>
+            <falscheAntwort2>7 km</falscheAntwort2>
+            <falscheAntwort3>10 km</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Fluss fließt durch die größte Schlucht der Erde?</fragenText>
+            <richtigeAntwort>Colorado</richtigeAntwort>
+            <falscheAntwort1>Amazonas</falscheAntwort1>
+            <falscheAntwort2>Mississippi</falscheAntwort2>
+            <falscheAntwort3>Nil</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Land befindet sich die größte Schlucht der Erde?</fragenText>
+            <richtigeAntwort>USA</richtigeAntwort>
+            <falscheAntwort1>Ägypten</falscheAntwort1>
+            <falscheAntwort2>Indien</falscheAntwort2>
+            <falscheAntwort3>China</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Seit wie vielen Jahren gab es in der Atacama - Wüste keinen Regen?</fragenText>
+            <richtigeAntwort>seit 400 Jahren</richtigeAntwort>
+            <falscheAntwort1>seit 100 Jahren</falscheAntwort1>
+            <falscheAntwort2>seit 200 Jahren</falscheAntwort2>
+            <falscheAntwort3>seit 300 Jahren</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo befindet sich die tiefstgelegene Senke an Land?</fragenText>
+            <richtigeAntwort>Jordanien</richtigeAntwort>
+            <falscheAntwort1>Ruanda</falscheAntwort1>
+            <falscheAntwort2>Australien</falscheAntwort2>
+            <falscheAntwort3>Ecuador</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie tief ist die tiefstgelegene Senke an Land?</fragenText>
+            <richtigeAntwort>400 m unter dem Meeresspiegel</richtigeAntwort>
+            <falscheAntwort1>300 m unter dem Meeresspiegel</falscheAntwort1>
+            <falscheAntwort2>200 m unter dem Meeresspiegel</falscheAntwort2>
+            <falscheAntwort3>100 m unter dem Meeresspiegel</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo liegt der tiefste See der Erde?</fragenText>
+            <richtigeAntwort>in Russland</richtigeAntwort>
+            <falscheAntwort1>in Kanada</falscheAntwort1>
+            <falscheAntwort2>in Südafrika</falscheAntwort2>
+            <falscheAntwort3>in Argentinien</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der tiefste See der Erde?</fragenText>
+            <richtigeAntwort>Baikalsee</richtigeAntwort>
+            <falscheAntwort1>Bodensee</falscheAntwort1>
+            <falscheAntwort2>Victoriasee</falscheAntwort2>
+            <falscheAntwort3>Michigansee</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang ist der Felsblock „Ayers Rock“ in Australien?</fragenText>
+            <richtigeAntwort>3,1 km</richtigeAntwort>
+            <falscheAntwort1>1,3 km</falscheAntwort1>
+            <falscheAntwort2>2,4 km</falscheAntwort2>
+            <falscheAntwort3>4,2 km</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Ebenen in Afrika, in denen vor allem hohes Gras, aber auch einige Büsche oder einzelne Bäume wachsen?</fragenText>
+            <richtigeAntwort>Savanne</richtigeAntwort>
+            <falscheAntwort1>Steppe</falscheAntwort1>
+            <falscheAntwort2>Tundra</falscheAntwort2>
+            <falscheAntwort3>Wüste</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Landschaften, in denen es nur Gräser, Kräuter und Sträucher aber keine Bäume gibt und wo es meistens sehr warm und trocken ist?</fragenText>
+            <richtigeAntwort>Steppe</richtigeAntwort>
+            <falscheAntwort1>Savanne</falscheAntwort1>
+            <falscheAntwort2>Tundra</falscheAntwort2>
+            <falscheAntwort3>Wüste</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie tief ist der tiefste See der Erde?</fragenText>
+            <richtigeAntwort>1.637 m</richtigeAntwort>
+            <falscheAntwort1>1.064 m</falscheAntwort1>
+            <falscheAntwort2>1.285 m</falscheAntwort2>
+            <falscheAntwort3>1.962 m</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Steppen in Nordamerika?</fragenText>
+            <richtigeAntwort>Prärien</richtigeAntwort>
+            <falscheAntwort1>Marien</falscheAntwort1>
+            <falscheAntwort2>Larrien</falscheAntwort2>
+            <falscheAntwort3>Salinen</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die heißen Gegenden, in denen es kaum Wasser gibt?</fragenText>
+            <richtigeAntwort>Wüsten</richtigeAntwort>
+            <falscheAntwort1>Wälder</falscheAntwort1>
+            <falscheAntwort2>Tropen</falscheAntwort2>
+            <falscheAntwort3>Polargebiet</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

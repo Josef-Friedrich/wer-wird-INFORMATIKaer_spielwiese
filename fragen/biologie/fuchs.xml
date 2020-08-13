@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Biologie</fach>
+    <thema>Der Fuchs und anderes vom Wald</thema>
+    <autor>Erdmuthe Schulze</autor>
+    <anzahlFragen>51</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>In Schnee können wir manchmal die ..................des Fuchses entdecken.</fragenText>
+            <richtigeAntwort>Spur</richtigeAntwort>
+            <falscheAntwort1>Fußabdrücke</falscheAntwort1>
+            <falscheAntwort2>Fährte</falscheAntwort2>
+            <falscheAntwort3>Farbe</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der Fuchs gehört zur Tierfamilie der....</fragenText>
+            <richtigeAntwort>Hunde</richtigeAntwort>
+            <falscheAntwort1>Wölfe</falscheAntwort1>
+            <falscheAntwort2>Zootiere</falscheAntwort2>
+            <falscheAntwort3>Haustiere</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der Fuchs lebt ursprünglich.... Heute ist erfast überall zu Hause!!!!</fragenText>
+            <richtigeAntwort>im Wald</richtigeAntwort>
+            <falscheAntwort1>im Garten</falscheAntwort1>
+            <falscheAntwort2>am Feld</falscheAntwort2>
+            <falscheAntwort3>in der Stadt</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie muss der Lebensraum des Fuchses sein?</fragenText>
+            <richtigeAntwort>deckungsreiches Gelände (Wald)</richtigeAntwort>
+            <falscheAntwort1>freies Feld</falscheAntwort1>
+            <falscheAntwort2>viel Wasser</falscheAntwort2>
+            <falscheAntwort3>in der Nähe einer Schule</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie groß ist sein Revier?</fragenText>
+            <richtigeAntwort>1-2 km Durchmesser</richtigeAntwort>
+            <falscheAntwort1>weniger als 1 km Durchmesse</falscheAntwort1>
+            <falscheAntwort2>5 km Durchmesser</falscheAntwort2>
+            <falscheAntwort3>so groß wie ein Fußballplatz</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Wohnung des Fuchses?</fragenText>
+            <richtigeAntwort>Bau</richtigeAntwort>
+            <falscheAntwort1>Horst</falscheAntwort1>
+            <falscheAntwort2>Stall</falscheAntwort2>
+            <falscheAntwort3>Nest</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann bekommen Fähen (weibliche Füchse) Junge?</fragenText>
+            <richtigeAntwort>März/April</richtigeAntwort>
+            <falscheAntwort1>April/Mai</falscheAntwort1>
+            <falscheAntwort2>Februar/März</falscheAntwort2>
+            <falscheAntwort3>August/September</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Junge kann eine Fähe bekommen?</fragenText>
+            <richtigeAntwort>4-6</richtigeAntwort>
+            <falscheAntwort1>1-2</falscheAntwort1>
+            <falscheAntwort2>3-7</falscheAntwort2>
+            <falscheAntwort3>7 und mehr</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was fressen Füchse nicht?</fragenText>
+            <richtigeAntwort>Heu</richtigeAntwort>
+            <falscheAntwort1>Mäuse</falscheAntwort1>
+            <falscheAntwort2>Hasen</falscheAntwort2>
+            <falscheAntwort3>Hühner</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie schwer kann ein Fuchs sein?</fragenText>
+            <richtigeAntwort>7 kg</richtigeAntwort>
+            <falscheAntwort1>100 kg</falscheAntwort1>
+            <falscheAntwort2>1 kg</falscheAntwort2>
+            <falscheAntwort3>500g</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Krankheit wird durch den Fuchs übertragen?</fragenText>
+            <richtigeAntwort>Tollwut</richtigeAntwort>
+            <falscheAntwort1>Grippe</falscheAntwort1>
+            <falscheAntwort2>Läuse</falscheAntwort2>
+            <falscheAntwort3>Koliken</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie alt kann ein Fuchs werden?</fragenText>
+            <richtigeAntwort>10 Jahre</richtigeAntwort>
+            <falscheAntwort1>3 Jahre</falscheAntwort1>
+            <falscheAntwort2>50 Jahre</falscheAntwort2>
+            <falscheAntwort3>20 Jahre</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie werden die Füchse heute gegen die Tollwut geimpft?</fragenText>
+            <richtigeAntwort>mit Schluckimpfung</richtigeAntwort>
+            <falscheAntwort1>mit einer Spritze</falscheAntwort1>
+            <falscheAntwort2>mit Diät</falscheAntwort2>
+            <falscheAntwort3>durch ein Kräuterbad</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Tier wurde durch das Begasen der Fuchsbauten fast ausgerottet?</fragenText>
+            <richtigeAntwort>der Dachs</richtigeAntwort>
+            <falscheAntwort1>der Maulwurf</falscheAntwort1>
+            <falscheAntwort2>der Marder</falscheAntwort2>
+            <falscheAntwort3>der Waschbär</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang ist ein Fuchs? (Körper plus Schwanz)</fragenText>
+            <richtigeAntwort>90 cm + 40 cm</richtigeAntwort>
+            <falscheAntwort1>90 cm + 90 cm</falscheAntwort1>
+            <falscheAntwort2>90 cm + 10 cm</falscheAntwort2>
+            <falscheAntwort3>40 cm + 10 cm</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man es in der Jägersprache, wenn Füchse umherstreifen?</fragenText>
+            <richtigeAntwort>schnüren</richtigeAntwort>
+            <falscheAntwort1>schlendern</falscheAntwort1>
+            <falscheAntwort2>schweifen</falscheAntwort2>
+            <falscheAntwort3>schnurren</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer ist der größte Feind des Fuchses?</fragenText>
+            <richtigeAntwort>der Mensch</richtigeAntwort>
+            <falscheAntwort1>das Wildschwein</falscheAntwort1>
+            <falscheAntwort2>der Jäger</falscheAntwort2>
+            <falscheAntwort3>der Förster</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man weibliche Füchse richtig?</fragenText>
+            <richtigeAntwort>Fähe</richtigeAntwort>
+            <falscheAntwort1>Fährte</falscheAntwort1>
+            <falscheAntwort2>Fuchsmama</falscheAntwort2>
+            <falscheAntwort3>Fuchsfrau</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der Fuchs ist ein.......</fragenText>
+            <richtigeAntwort>Säugetier</richtigeAntwort>
+            <falscheAntwort1>ein Warmblüter</falscheAntwort1>
+            <falscheAntwort2>Kriechtier</falscheAntwort2>
+            <falscheAntwort3>ein Vogel</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>2</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der Fuchs kann sehr gut hören und riechen. Man nennt das.....</fragenText>
+            <richtigeAntwort>wittern</richtigeAntwort>
+            <falscheAntwort1>schnüffeln</falscheAntwort1>
+            <falscheAntwort2>wiehern</falscheAntwort2>
+            <falscheAntwort3>winseln</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die „Wohnkammer“ des Fuchsbaus?</fragenText>
+            <richtigeAntwort>Kessel</richtigeAntwort>
+            <falscheAntwort1>Kasten</falscheAntwort1>
+            <falscheAntwort2>Kehle</falscheAntwort2>
+            <falscheAntwort3>Käfig</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Bei ihrer Geburt sind die Fuchsjungen.....</fragenText>
+            <richtigeAntwort>blind</richtigeAntwort>
+            <falscheAntwort1>flügge</falscheAntwort1>
+            <falscheAntwort2>Nestflüchter</falscheAntwort2>
+            <falscheAntwort3>Nesthocker</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lange trinken die Fuchsjungen Muttermilch?</fragenText>
+            <richtigeAntwort>4-6 Wochen</richtigeAntwort>
+            <falscheAntwort1>1 Jahr</falscheAntwort1>
+            <falscheAntwort2>ein halbes Jahr</falscheAntwort2>
+            <falscheAntwort3>gar nicht, sie fressen gleich Fleisch</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was sind die Füchse?</fragenText>
+            <richtigeAntwort>Fleischfresser</richtigeAntwort>
+            <falscheAntwort1>Pflanzenfresser</falscheAntwort1>
+            <falscheAntwort2>Widerkäuer</falscheAntwort2>
+            <falscheAntwort3>Körnerfresser</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie ist der Fuchs?</fragenText>
+            <richtigeAntwort>nachtaktiv</richtigeAntwort>
+            <falscheAntwort1>immer aktiv</falscheAntwort1>
+            <falscheAntwort2>tagaktiv</falscheAntwort2>
+            <falscheAntwort3>nie aktiv</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann verlassen die Fuchsjungen die Mutter und suchen sich ein eigenes Revier?</fragenText>
+            <richtigeAntwort>nach einem halben Jahr</richtigeAntwort>
+            <falscheAntwort1>nach 1 Monat</falscheAntwort1>
+            <falscheAntwort2>nach einem Jahr</falscheAntwort2>
+            <falscheAntwort3>nie</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Man nennt den Fuchs auch......</fragenText>
+            <richtigeAntwort>„Gesundheitspolizei des Waldes“</richtigeAntwort>
+            <falscheAntwort1>Aufpasser im Wald</falscheAntwort1>
+            <falscheAntwort2>Hilfstruppe</falscheAntwort2>
+            <falscheAntwort3>Waldarbeiter</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der Fuchs wurde früher gejagt wegen ......</fragenText>
+            <richtigeAntwort>seines Pelzes</richtigeAntwort>
+            <falscheAntwort1>seiner Augen</falscheAntwort1>
+            <falscheAntwort2>seiner Ohren</falscheAntwort2>
+            <falscheAntwort3>seiner Zähne</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ein Verwandter des Rotfuchses ist der</fragenText>
+            <richtigeAntwort>Polarfuchs</richtigeAntwort>
+            <falscheAntwort1>Schwedenfuchs</falscheAntwort1>
+            <falscheAntwort2>Großfuchs</falscheAntwort2>
+            <falscheAntwort3>Weißfuchs</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was für Ohren hat der Fuchs?</fragenText>
+            <richtigeAntwort>spitze Ohren</richtigeAntwort>
+            <falscheAntwort1>kleine Ohren</falscheAntwort1>
+            <falscheAntwort2>runde Ohren</falscheAntwort2>
+            <falscheAntwort3>riesige Ohren</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Form hat der Kopf des Fuchses</fragenText>
+            <richtigeAntwort>dreieckig</richtigeAntwort>
+            <falscheAntwort1>flach</falscheAntwort1>
+            <falscheAntwort2>rund</falscheAntwort2>
+            <falscheAntwort3>schmal</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Paarungszeit der Füchse?</fragenText>
+            <richtigeAntwort>Ranzzeit</richtigeAntwort>
+            <falscheAntwort1>Spielzeit</falscheAntwort1>
+            <falscheAntwort2>Suchzeit</falscheAntwort2>
+            <falscheAntwort3>Laufzeit</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man den Fuchs in einer Fabel?</fragenText>
+            <richtigeAntwort>Reinecke Fuchs</richtigeAntwort>
+            <falscheAntwort1>Bruder Fuchs</falscheAntwort1>
+            <falscheAntwort2>Gevatter Fuchs</falscheAntwort2>
+            <falscheAntwort3>Meister Fuchs</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das Sprichwort? Jemand ist.....</fragenText>
+            <richtigeAntwort>schlau wie ein Fuchs</richtigeAntwort>
+            <falscheAntwort1>alt wie ein Fuchs</falscheAntwort1>
+            <falscheAntwort2>schnell wie ein Fuchs</falscheAntwort2>
+            <falscheAntwort3>warm wie ein Fuchs</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der Fuchs hat ......</fragenText>
+            <richtigeAntwort>ein Raubtiergebiss</richtigeAntwort>
+            <falscheAntwort1>ein großes Gebiss</falscheAntwort1>
+            <falscheAntwort2>ein breites Gebiss</falscheAntwort2>
+            <falscheAntwort3>Pflanzenfressergebiss</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der männliche Fuchs heißt.....</fragenText>
+            <richtigeAntwort>Rüde</richtigeAntwort>
+            <falscheAntwort1>Druide</falscheAntwort1>
+            <falscheAntwort2>Fuchsmann</falscheAntwort2>
+            <falscheAntwort3>einfach Fuchs</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen die Fuchskinder?</fragenText>
+            <richtigeAntwort>Welpen</richtigeAntwort>
+            <falscheAntwort1>Fähe</falscheAntwort1>
+            <falscheAntwort2>Fuchskinder</falscheAntwort2>
+            <falscheAntwort3>Frischlinge</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der Fuchs gehört zu ....................................</fragenText>
+            <richtigeAntwort>dem Schalenwild</richtigeAntwort>
+            <falscheAntwort1>den Sohlengängern</falscheAntwort1>
+            <falscheAntwort2>Wild</falscheAntwort2>
+            <falscheAntwort3>Fellträgern</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Das Kind vom Reh heißt...........................?</fragenText>
+            <richtigeAntwort>Kitz</richtigeAntwort>
+            <falscheAntwort1>Rehkind</falscheAntwort1>
+            <falscheAntwort2>Bambi</falscheAntwort2>
+            <falscheAntwort3>Frischling</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Fußabdrücke des Hasen?</fragenText>
+            <richtigeAntwort>Spur</richtigeAntwort>
+            <falscheAntwort1>Fährte</falscheAntwort1>
+            <falscheAntwort2>Abdruck</falscheAntwort2>
+            <falscheAntwort3>Zeichnung</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Fußabdrücke des Rehes?</fragenText>
+            <richtigeAntwort>Fährte</richtigeAntwort>
+            <falscheAntwort1>Spur</falscheAntwort1>
+            <falscheAntwort2>Abdruck</falscheAntwort2>
+            <falscheAntwort3>Zeichnung</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Dieser Baum hat ein glatte Rinde.</fragenText>
+            <richtigeAntwort>Buche</richtigeAntwort>
+            <falscheAntwort1>Eiche</falscheAntwort1>
+            <falscheAntwort2>Fichte</falscheAntwort2>
+            <falscheAntwort3>Birke</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Dieser Baum hat weiße Rinde.</fragenText>
+            <richtigeAntwort>Birke</richtigeAntwort>
+            <falscheAntwort1>Fichte</falscheAntwort1>
+            <falscheAntwort2>Buche</falscheAntwort2>
+            <falscheAntwort3>Eiche</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Tier gehört nicht zum Schwarzwild?</fragenText>
+            <richtigeAntwort>Reh</richtigeAntwort>
+            <falscheAntwort1>Frischling</falscheAntwort1>
+            <falscheAntwort2>Keiler</falscheAntwort2>
+            <falscheAntwort3>Bache</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Tier gehört nicht zum Rehwild?</fragenText>
+            <richtigeAntwort>Bache</richtigeAntwort>
+            <falscheAntwort1>Ricke</falscheAntwort1>
+            <falscheAntwort2>Kitz</falscheAntwort2>
+            <falscheAntwort3>Bock</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Baum hat ganz rauhe Rinde?</fragenText>
+            <richtigeAntwort>Eiche</richtigeAntwort>
+            <falscheAntwort1>Birke</falscheAntwort1>
+            <falscheAntwort2>Buche</falscheAntwort2>
+            <falscheAntwort3>Lärche</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Baum verliert seine Nadeln im Winter?</fragenText>
+            <richtigeAntwort>Lärche</richtigeAntwort>
+            <falscheAntwort1>Fichte</falscheAntwort1>
+            <falscheAntwort2>Tanne</falscheAntwort2>
+            <falscheAntwort3>Kiefer</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die häufigsten Nadelbäume bei uns sind die .......?</fragenText>
+            <richtigeAntwort>Fichten</richtigeAntwort>
+            <falscheAntwort1>Tannen</falscheAntwort1>
+            <falscheAntwort2>Lärchen</falscheAntwort2>
+            <falscheAntwort3>Kiefern</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das männliche Wildschwein?</fragenText>
+            <richtigeAntwort>Keiler</richtigeAntwort>
+            <falscheAntwort1>Bock</falscheAntwort1>
+            <falscheAntwort2>Rüde</falscheAntwort2>
+            <falscheAntwort3>Wildschwein</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das weibliche Reh?</fragenText>
+            <richtigeAntwort>Ricke</richtigeAntwort>
+            <falscheAntwort1>Zicke</falscheAntwort1>
+            <falscheAntwort2>Reh</falscheAntwort2>
+            <falscheAntwort3>Kitz</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText/>
+            <richtigeAntwort/>
+            <falscheAntwort1/>
+            <falscheAntwort2/>
+            <falscheAntwort3/>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>15</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

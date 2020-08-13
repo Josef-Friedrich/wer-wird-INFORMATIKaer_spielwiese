@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Erdkunde</fach>
+    <thema>„Europa“</thema>
+    <autor>Werner Biermann, 31/3/2001</autor>
+    <anzahlFragen>100</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>Der längste Fluss in Europa ist?</fragenText>
+            <richtigeAntwort>Wolga</richtigeAntwort>
+            <falscheAntwort1>Rhein</falscheAntwort1>
+            <falscheAntwort2>Donau</falscheAntwort2>
+            <falscheAntwort3>Rhone</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches europäische Land hat mit Deutschland keine gemeinsame Grenze?</fragenText>
+            <richtigeAntwort>Ungarn</richtigeAntwort>
+            <falscheAntwort1>Frankreich</falscheAntwort1>
+            <falscheAntwort2>Schweiz</falscheAntwort2>
+            <falscheAntwort3>Dänemark</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der höchste Berg in Europa?</fragenText>
+            <richtigeAntwort>Mont Blanc</richtigeAntwort>
+            <falscheAntwort1>Matterhorn</falscheAntwort1>
+            <falscheAntwort2>Zugspitze</falscheAntwort2>
+            <falscheAntwort3>Eiger</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher dieser Berge ist kein Vulkan?</fragenText>
+            <richtigeAntwort>Marmolada</richtigeAntwort>
+            <falscheAntwort1>Ätna</falscheAntwort1>
+            <falscheAntwort2>Vesuv</falscheAntwort2>
+            <falscheAntwort3>Stromboli</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Staat hat die größte Landesfläche?</fragenText>
+            <richtigeAntwort>Frankreich</richtigeAntwort>
+            <falscheAntwort1>Spanien</falscheAntwort1>
+            <falscheAntwort2>Portugal</falscheAntwort2>
+            <falscheAntwort3>Österreich</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Dieser Fluss fließt nicht durch Europa</fragenText>
+            <richtigeAntwort>Euphrat</richtigeAntwort>
+            <falscheAntwort1>Rhone</falscheAntwort1>
+            <falscheAntwort2>Themse</falscheAntwort2>
+            <falscheAntwort3>Seine</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Sofia ist die Hauptstadt von</fragenText>
+            <richtigeAntwort>Bulgarien</richtigeAntwort>
+            <falscheAntwort1>Rumänien</falscheAntwort1>
+            <falscheAntwort2>Ungarn</falscheAntwort2>
+            <falscheAntwort3>Albanien</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Dieses Land gehört nicht zu Europa</fragenText>
+            <richtigeAntwort>Algerien</richtigeAntwort>
+            <falscheAntwort1>Dänemark</falscheAntwort1>
+            <falscheAntwort2>Polen</falscheAntwort2>
+            <falscheAntwort3>Frankreich</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Eine der Städte ist Landeshauptstadt</fragenText>
+            <richtigeAntwort>Riga</richtigeAntwort>
+            <falscheAntwort1>Danzig</falscheAntwort1>
+            <falscheAntwort2>Malmö</falscheAntwort2>
+            <falscheAntwort3>Stettin</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Eine Landeshauptstadt liegt weitab der Küste.</fragenText>
+            <richtigeAntwort>Madrid</richtigeAntwort>
+            <falscheAntwort1>Rom</falscheAntwort1>
+            <falscheAntwort2>Kopenhagen</falscheAntwort2>
+            <falscheAntwort3>Helsinki</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Dieses Land ist von Westen nach Osten länger als von Norden nach Süden.</fragenText>
+            <richtigeAntwort>Österreich</richtigeAntwort>
+            <falscheAntwort1>Schweden</falscheAntwort1>
+            <falscheAntwort2>Italien</falscheAntwort2>
+            <falscheAntwort3>Norwegen</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Insel gehört zu Frankreich?</fragenText>
+            <richtigeAntwort>Korsika</richtigeAntwort>
+            <falscheAntwort1>Sizilien</falscheAntwort1>
+            <falscheAntwort2>Kreta</falscheAntwort2>
+            <falscheAntwort3>Sardinien</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Staat gehört noch nicht zur EU?</fragenText>
+            <richtigeAntwort>Norwegen</richtigeAntwort>
+            <falscheAntwort1>Schweden</falscheAntwort1>
+            <falscheAntwort2>Finnland</falscheAntwort2>
+            <falscheAntwort3>Dänemark</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Hier kommt Europa Afrika am nächsten.</fragenText>
+            <richtigeAntwort>Straße von Gibraltar</richtigeAntwort>
+            <falscheAntwort1>Straße von Sizilien</falscheAntwort1>
+            <falscheAntwort2>Bosporus</falscheAntwort2>
+            <falscheAntwort3>Straße von Dover</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Dieser europäische Staat hat die meisten Einwohner</fragenText>
+            <richtigeAntwort>Deutschland</richtigeAntwort>
+            <falscheAntwort1>Irland</falscheAntwort1>
+            <falscheAntwort2>Italien</falscheAntwort2>
+            <falscheAntwort3>Finnland</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Von welchem dieser Meere aus könnte man nicht mit dem Schiff bis zum Atlantik fahren?</fragenText>
+            <richtigeAntwort>Kaspisches Meer</richtigeAntwort>
+            <falscheAntwort1>Schwarzes Meer</falscheAntwort1>
+            <falscheAntwort2>Marmarameer</falscheAntwort2>
+            <falscheAntwort3>Mittelmeer</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Keine europäische Urlaubsinsel im Mittelmeer ist</fragenText>
+            <richtigeAntwort>Teneriffa</richtigeAntwort>
+            <falscheAntwort1>Mallorca</falscheAntwort1>
+            <falscheAntwort2>Menorca</falscheAntwort2>
+            <falscheAntwort3>Ibiza</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Dieser Fluss mündet nicht ins Mittelmeer</fragenText>
+            <richtigeAntwort>Donau</richtigeAntwort>
+            <falscheAntwort1>Po</falscheAntwort1>
+            <falscheAntwort2>Rhone</falscheAntwort2>
+            <falscheAntwort3>Ebro</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Kein Alpenstaat ist</fragenText>
+            <richtigeAntwort>Ungarn</richtigeAntwort>
+            <falscheAntwort1>Deutschland</falscheAntwort1>
+            <falscheAntwort2>Italien</falscheAntwort2>
+            <falscheAntwort3>Frankreich</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Durch Vertauschen der Buchstaben wird aus dieser Hauptstadt ein alkoholisches Getränk.</fragenText>
+            <richtigeAntwort>Wien</richtigeAntwort>
+            <falscheAntwort1>Prag</falscheAntwort1>
+            <falscheAntwort2>Oslo</falscheAntwort2>
+            <falscheAntwort3>Rom</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Kein europäischer Binnensee ist der</fragenText>
+            <richtigeAntwort>Aral See</richtigeAntwort>
+            <falscheAntwort1>Gardasee</falscheAntwort1>
+            <falscheAntwort2>Bodensee</falscheAntwort2>
+            <falscheAntwort3>Genfer See</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Einer dieser Flüsse fließt nicht durch Frankreich</fragenText>
+            <richtigeAntwort>Ebro</richtigeAntwort>
+            <falscheAntwort1>Seine</falscheAntwort1>
+            <falscheAntwort2>Rhone</falscheAntwort2>
+            <falscheAntwort3>Loire</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem dieser EU-Länder wird im Jahr 2002 nicht mit dem EURO bezahlt?</fragenText>
+            <richtigeAntwort>Großbritannien</richtigeAntwort>
+            <falscheAntwort1>Deutschland</falscheAntwort1>
+            <falscheAntwort2>Italien</falscheAntwort2>
+            <falscheAntwort3>Frankreich</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Land gehört nicht zu Skandinavien?</fragenText>
+            <richtigeAntwort>Irland</richtigeAntwort>
+            <falscheAntwort1>Norwegen</falscheAntwort1>
+            <falscheAntwort2>Finnland</falscheAntwort2>
+            <falscheAntwort3>Schweden</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Einer dieser Staaten ist kein Inselstaat</fragenText>
+            <richtigeAntwort>Estland</richtigeAntwort>
+            <falscheAntwort1>Irland</falscheAntwort1>
+            <falscheAntwort2>Island</falscheAntwort2>
+            <falscheAntwort3>Großbritannien</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ein Land wird nicht vom gemeinsamen Längenkreis durchschnitten.</fragenText>
+            <richtigeAntwort>Spanien</richtigeAntwort>
+            <falscheAntwort1>Norwegen</falscheAntwort1>
+            <falscheAntwort2>Deutschland</falscheAntwort2>
+            <falscheAntwort3>Italien</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der Rhein entspringt</fragenText>
+            <richtigeAntwort>in den Alpen</richtigeAntwort>
+            <falscheAntwort1>im Schwarzwald</falscheAntwort1>
+            <falscheAntwort2>im Bodensee</falscheAntwort2>
+            <falscheAntwort3>in der Schwäbischen Alb</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Pyrenäen trennen</fragenText>
+            <richtigeAntwort>Frankreich von Spanien</richtigeAntwort>
+            <falscheAntwort1>Italien von der Schweiz</falscheAntwort1>
+            <falscheAntwort2>Frankreich von Deutschland</falscheAntwort2>
+            <falscheAntwort3>Österreich von Ungarn</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Von Westen nach Osten aufgezählt</fragenText>
+            <richtigeAntwort>Norwegen - Schweden - Finnland</richtigeAntwort>
+            <falscheAntwort1>Schweden - Norwegen - Finnland</falscheAntwort1>
+            <falscheAntwort2>Schweden - Finnland - Norwegen</falscheAntwort2>
+            <falscheAntwort3>Finnland - Schweden - Norwegen</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Eine Stadt passt nicht in diese Reihe</fragenText>
+            <richtigeAntwort>Genua</richtigeAntwort>
+            <falscheAntwort1>Berlin</falscheAntwort1>
+            <falscheAntwort2>Paris</falscheAntwort2>
+            <falscheAntwort3>Madrid</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Hier eine Nummer zu klein</fragenText>
+            <richtigeAntwort>Harz</richtigeAntwort>
+            <falscheAntwort1>Alpen</falscheAntwort1>
+            <falscheAntwort2>Pyrenäen</falscheAntwort2>
+            <falscheAntwort3>Karpaten</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Polen hat keine gemeinsame Grenze mit</fragenText>
+            <richtigeAntwort>Estland</richtigeAntwort>
+            <falscheAntwort1>Deutschland</falscheAntwort1>
+            <falscheAntwort2>Tschechische Republik</falscheAntwort2>
+            <falscheAntwort3>Slowakei</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ein Land wird nicht vom gemeinsamen Breitenkreis durchzogen.</fragenText>
+            <richtigeAntwort>Ungarn</richtigeAntwort>
+            <falscheAntwort1>Niederlande</falscheAntwort1>
+            <falscheAntwort2>Deutschland</falscheAntwort2>
+            <falscheAntwort3>Polen</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ein Land liegt nicht an der Ostsee</fragenText>
+            <richtigeAntwort>Norwegen</richtigeAntwort>
+            <falscheAntwort1>Deutschland</falscheAntwort1>
+            <falscheAntwort2>Polen</falscheAntwort2>
+            <falscheAntwort3>Finnland</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>EWG bedeutet:</fragenText>
+            <richtigeAntwort>Europ. Wirtschaftsgemeinschaft</richtigeAntwort>
+            <falscheAntwort1>Einer wird gewinnen</falscheAntwort1>
+            <falscheAntwort2>Elektrizitätswerke Gelsenkirchen</falscheAntwort2>
+            <falscheAntwort3>Europa wählt Grün</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In Maastricht wurde folgender Umwandlungsvertrag unterzeichnet</fragenText>
+            <richtigeAntwort>Von der EG zur EU</richtigeAntwort>
+            <falscheAntwort1>Von der EWG zur EG</falscheAntwort1>
+            <falscheAntwort2>Von der EG zur EWG</falscheAntwort2>
+            <falscheAntwort3>Von der EU zur EG</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ein Staat gehört nicht zu den EU-Ursprungsländern</fragenText>
+            <richtigeAntwort>Portugal</richtigeAntwort>
+            <falscheAntwort1>Deutschland</falscheAntwort1>
+            <falscheAntwort2>Frankreich</falscheAntwort2>
+            <falscheAntwort3>Italien</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ein »Pärchen« von Land mit Hauptstadt ist falsch.</fragenText>
+            <richtigeAntwort>Finnland - Oslo</richtigeAntwort>
+            <falscheAntwort1>Dänemark - Kopenhagen</falscheAntwort1>
+            <falscheAntwort2>Polen - Warschau</falscheAntwort2>
+            <falscheAntwort3>Spanien - Madrid</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Kontinent hat eine kleinere Fläche als Europa</fragenText>
+            <richtigeAntwort>Australien</richtigeAntwort>
+            <falscheAntwort1>Asien</falscheAntwort1>
+            <falscheAntwort2>Afrika</falscheAntwort2>
+            <falscheAntwort3>Amerika</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Warschau, Moskau, Wien und Lissabon sind europäische Hauptstädte.</fragenText>
+            <richtigeAntwort>stimmt für alle Städte</richtigeAntwort>
+            <falscheAntwort1>stimmt nur für eine Stadt</falscheAntwort1>
+            <falscheAntwort2>stimmt für zwei Städte</falscheAntwort2>
+            <falscheAntwort3>stimmt für drei Städte</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In diesem Land gibt es mehr als eine Amtssprache</fragenText>
+            <richtigeAntwort>Belgien</richtigeAntwort>
+            <falscheAntwort1>Deutschland</falscheAntwort1>
+            <falscheAntwort2>Frankreich</falscheAntwort2>
+            <falscheAntwort3>Polen</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Skagerrak ist eine Verbindung zwischen</fragenText>
+            <richtigeAntwort>Nordsee und Ostsee</richtigeAntwort>
+            <falscheAntwort1>Nordsee und Atlantik</falscheAntwort1>
+            <falscheAntwort2>Mittelmeer und Atlantik</falscheAntwort2>
+            <falscheAntwort3>Schwarzem Meer und Mittelmeer</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Frankreich hat keinen direkten Grenzkontakt zu</fragenText>
+            <richtigeAntwort>Österreich</richtigeAntwort>
+            <falscheAntwort1>Schweiz</falscheAntwort1>
+            <falscheAntwort2>Spanien</falscheAntwort2>
+            <falscheAntwort3>Luxemburg</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der EURO wird eingeteilt in</fragenText>
+            <richtigeAntwort>Cent</richtigeAntwort>
+            <falscheAntwort1>Schilling</falscheAntwort1>
+            <falscheAntwort2>Eurinchen</falscheAntwort2>
+            <falscheAntwort3>Cento</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Europa wird nach Osten abgegrenzt durch</fragenText>
+            <richtigeAntwort>den Ural</richtigeAntwort>
+            <falscheAntwort1>die Alpen</falscheAntwort1>
+            <falscheAntwort2>die Karpaten</falscheAntwort2>
+            <falscheAntwort3>den Kaukasus</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>An einer Klimazone hat Europa keinen Anteil.</fragenText>
+            <richtigeAntwort>tropische Zone</richtigeAntwort>
+            <falscheAntwort1>subpolare Zone</falscheAntwort1>
+            <falscheAntwort2>gemäßigte Zone</falscheAntwort2>
+            <falscheAntwort3>mediterrane Zone</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In diesem Land gibt es auch regional nur eine Amtssprache</fragenText>
+            <richtigeAntwort>Frankreich</richtigeAntwort>
+            <falscheAntwort1>Belgien</falscheAntwort1>
+            <falscheAntwort2>Schweiz</falscheAntwort2>
+            <falscheAntwort3>Italien</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher dieser Kleinstaaten ist der kleinste?</fragenText>
+            <richtigeAntwort>Monaco</richtigeAntwort>
+            <falscheAntwort1>Liechtenstein</falscheAntwort1>
+            <falscheAntwort2>Andorra</falscheAntwort2>
+            <falscheAntwort3>San Marino</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Steht nicht auf dem europäischen Festland</fragenText>
+            <richtigeAntwort>Tower Bridge</richtigeAntwort>
+            <falscheAntwort1>Louvre</falscheAntwort1>
+            <falscheAntwort2>Eiffelturm</falscheAntwort2>
+            <falscheAntwort3>Brandenburger Tor</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Dublin, London, Kopenhagen und Reykjavik liegen auf Inseln.</fragenText>
+            <richtigeAntwort>stimmt</richtigeAntwort>
+            <falscheAntwort1>davon nur eine</falscheAntwort1>
+            <falscheAntwort2>davon nur zwei</falscheAntwort2>
+            <falscheAntwort3>davon nur drei</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Diese »kontinentale Namensverbindung« gibt es.</fragenText>
+            <richtigeAntwort>Eurasien</richtigeAntwort>
+            <falscheAntwort1>Eustralien</falscheAntwort1>
+            <falscheAntwort2>Eurafrika</falscheAntwort2>
+            <falscheAntwort3>Euramerika</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ein Kanal kann nicht in Europa von Schiffen befahren werden.</fragenText>
+            <richtigeAntwort>Suezkanal</richtigeAntwort>
+            <falscheAntwort1>Mittellandkanal</falscheAntwort1>
+            <falscheAntwort2>Nord-Ostsee-Kanal</falscheAntwort2>
+            <falscheAntwort3>Kanal von Korinth</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Weser, Donau, Ems und Elbe münden in der Nordsee.</fragenText>
+            <richtigeAntwort>trifft auf drei Flüsse zu</richtigeAntwort>
+            <falscheAntwort1>stimmt</falscheAntwort1>
+            <falscheAntwort2>trifft auf zwei Flüsse zu</falscheAntwort2>
+            <falscheAntwort3>trifft auf einen Fluss zu</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Land liegt nicht am Mittelmeer?</fragenText>
+            <richtigeAntwort>Portugal</richtigeAntwort>
+            <falscheAntwort1>Griechenland</falscheAntwort1>
+            <falscheAntwort2>Italien</falscheAntwort2>
+            <falscheAntwort3>Frankreich</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Hauptstadt der Schweiz heißt</fragenText>
+            <richtigeAntwort>Bern</richtigeAntwort>
+            <falscheAntwort1>Genf</falscheAntwort1>
+            <falscheAntwort2>Basel</falscheAntwort2>
+            <falscheAntwort3>Zürich</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Sardinien gehört zu</fragenText>
+            <richtigeAntwort>Italien</richtigeAntwort>
+            <falscheAntwort1>Frankreich</falscheAntwort1>
+            <falscheAntwort2>Spanien</falscheAntwort2>
+            <falscheAntwort3>Griechenland</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Staat ist ein Binnenstaat?</fragenText>
+            <richtigeAntwort>Ungarn</richtigeAntwort>
+            <falscheAntwort1>Estland</falscheAntwort1>
+            <falscheAntwort2>Polen</falscheAntwort2>
+            <falscheAntwort3>Finnland</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Paris liegt an der</fragenText>
+            <richtigeAntwort>Seine</richtigeAntwort>
+            <falscheAntwort1>Loire</falscheAntwort1>
+            <falscheAntwort2>Rhone</falscheAntwort2>
+            <falscheAntwort3>Isere</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der Vulkan bei Neapel heißt</fragenText>
+            <richtigeAntwort>Vesuv</richtigeAntwort>
+            <falscheAntwort1>Ätna</falscheAntwort1>
+            <falscheAntwort2>Stromboli</falscheAntwort2>
+            <falscheAntwort3>Mont Dore</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>An welchem Fluss liegt Wien?</fragenText>
+            <richtigeAntwort>Donau</richtigeAntwort>
+            <falscheAntwort1>Wolga</falscheAntwort1>
+            <falscheAntwort2>Elbe</falscheAntwort2>
+            <falscheAntwort3>Rhein</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Fulda und Werra sind die Quellflüsse von/vom</fragenText>
+            <richtigeAntwort>Weser</richtigeAntwort>
+            <falscheAntwort1>Neckar</falscheAntwort1>
+            <falscheAntwort2>Ems</falscheAntwort2>
+            <falscheAntwort3>Ruhr</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Gibraltar gehört zu</fragenText>
+            <richtigeAntwort>England</richtigeAntwort>
+            <falscheAntwort1>Spanien</falscheAntwort1>
+            <falscheAntwort2>Portugal</falscheAntwort2>
+            <falscheAntwort3>Marokko</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Staat grenzt nicht an die Ostsee?</fragenText>
+            <richtigeAntwort>Norwegen</richtigeAntwort>
+            <falscheAntwort1>Polen</falscheAntwort1>
+            <falscheAntwort2>Estland</falscheAntwort2>
+            <falscheAntwort3>Finnland</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der Großglockner gehört zu</fragenText>
+            <richtigeAntwort>Österreich</richtigeAntwort>
+            <falscheAntwort1>Italien</falscheAntwort1>
+            <falscheAntwort2>Deutschland</falscheAntwort2>
+            <falscheAntwort3>Schweiz</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Der Brenner verbindet</fragenText>
+            <richtigeAntwort>Österreich mit Italien</richtigeAntwort>
+            <falscheAntwort1>Deutschland mit Österreich</falscheAntwort1>
+            <falscheAntwort2>Schweiz mit Italien</falscheAntwort2>
+            <falscheAntwort3>Deutschland mit Schweiz</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Diese Stadt liegt nicht am Rhein.</fragenText>
+            <richtigeAntwort>Amsterdam</richtigeAntwort>
+            <falscheAntwort1>Basel</falscheAntwort1>
+            <falscheAntwort2>Mainz</falscheAntwort2>
+            <falscheAntwort3>Düsseldorf</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Kein direkter Nachbar von Luxemburg</fragenText>
+            <richtigeAntwort>Niederlande</richtigeAntwort>
+            <falscheAntwort1>Deutschland</falscheAntwort1>
+            <falscheAntwort2>Frankreich</falscheAntwort2>
+            <falscheAntwort3>Belgien</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Liegt am »Dreiländereck«</fragenText>
+            <richtigeAntwort>Aachen</richtigeAntwort>
+            <falscheAntwort1>Trier</falscheAntwort1>
+            <falscheAntwort2>Flensburg</falscheAntwort2>
+            <falscheAntwort3>Stuttgart</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Halbinsel Krim liegt im</fragenText>
+            <richtigeAntwort>Schwarzen Meer</richtigeAntwort>
+            <falscheAntwort1>Kaspischen Meer</falscheAntwort1>
+            <falscheAntwort2>Weißen Meer</falscheAntwort2>
+            <falscheAntwort3>Ägäischen Meer</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die Insel Madeira gehört zu</fragenText>
+            <richtigeAntwort>Portugal</richtigeAntwort>
+            <falscheAntwort1>Spanien</falscheAntwort1>
+            <falscheAntwort2>Italien</falscheAntwort2>
+            <falscheAntwort3>Frankreich</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Diese österreichische Landschaft gibt es nicht.</fragenText>
+            <richtigeAntwort>Weindrittel</richtigeAntwort>
+            <falscheAntwort1>Mühlviertel</falscheAntwort1>
+            <falscheAntwort2>Innviertel</falscheAntwort2>
+            <falscheAntwort3>Waldviertel</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Passt nicht in die Reihe: Neckar, Mosel, Main, Weser</fragenText>
+            <richtigeAntwort>Weser</richtigeAntwort>
+            <falscheAntwort1>Neckar</falscheAntwort1>
+            <falscheAntwort2>Mosel</falscheAntwort2>
+            <falscheAntwort3>Main</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Passt nicht in die Reihe: Ems, Weser, Elbe, Oder</fragenText>
+            <richtigeAntwort>Oder</richtigeAntwort>
+            <falscheAntwort1>Ems</falscheAntwort1>
+            <falscheAntwort2>Weser</falscheAntwort2>
+            <falscheAntwort3>Elbe</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Werden direkt durch den Rhein getrennt:</fragenText>
+            <richtigeAntwort>Hunsrück-Taunus</richtigeAntwort>
+            <falscheAntwort1>Eifel-Hunsrück</falscheAntwort1>
+            <falscheAntwort2>Taunus-Westerwald</falscheAntwort2>
+            <falscheAntwort3>Westerwald Hunsrück</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Passt nicht in die Reihe: Rügen, Fehmarn, Usedom, Sylt</fragenText>
+            <richtigeAntwort>Sylt</richtigeAntwort>
+            <falscheAntwort1>Rügen</falscheAntwort1>
+            <falscheAntwort2>Fehmarn</falscheAntwort2>
+            <falscheAntwort3>Usedom</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Spiekeroog, Ameland, Norderney und Borkum sind Ostfriesische Inseln.</fragenText>
+            <richtigeAntwort>stimmt</richtigeAntwort>
+            <falscheAntwort1>stimmt für 3 Inseln</falscheAntwort1>
+            <falscheAntwort2>stimmt für 2 Inseln</falscheAntwort2>
+            <falscheAntwort3>stimmt für 1 Insel</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Er trennt Schweden und Finnland über eine große Strecke.</fragenText>
+            <richtigeAntwort>Bottnischer Meerbusen</richtigeAntwort>
+            <falscheAntwort1>Finnischer Meerbusen</falscheAntwort1>
+            <falscheAntwort2>Schwedischer Meerbusen</falscheAntwort2>
+            <falscheAntwort3>Norwegischer Meerbusen</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ist kein Nachbarstaat von Griechenland</fragenText>
+            <richtigeAntwort>Kroatien</richtigeAntwort>
+            <falscheAntwort1>Mazedonien</falscheAntwort1>
+            <falscheAntwort2>Bulgarien</falscheAntwort2>
+            <falscheAntwort3>Albanien</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zwischen Griechenland und der Türkei liegt das</fragenText>
+            <richtigeAntwort>Ägäische Meer</richtigeAntwort>
+            <falscheAntwort1>Jonische Meer</falscheAntwort1>
+            <falscheAntwort2>Adriatische Meer</falscheAntwort2>
+            <falscheAntwort3>Ligurische Meer</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Westlich vom Schwarzwald</fragenText>
+            <richtigeAntwort>Vogesen</richtigeAntwort>
+            <falscheAntwort1>Schwäbische Alb</falscheAntwort1>
+            <falscheAntwort2>Bayrischer Wald</falscheAntwort2>
+            <falscheAntwort3>Odenwald</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviel DM ist ein EURO?</fragenText>
+            <richtigeAntwort>1,95</richtigeAntwort>
+            <falscheAntwort1>0,95</falscheAntwort1>
+            <falscheAntwort2>2,95</falscheAntwort2>
+            <falscheAntwort3>19,55</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>An welchem Fluss liegt die Hauptstadt Nordrhein-Westfalens?</fragenText>
+            <richtigeAntwort>Rhein</richtigeAntwort>
+            <falscheAntwort1>Ruhr</falscheAntwort1>
+            <falscheAntwort2>Main</falscheAntwort2>
+            <falscheAntwort3>Donau</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Reihenfolge der Staaten von Norden nach Süden</fragenText>
+            <richtigeAntwort>Finnland; Estland; Lettland; Litauen</richtigeAntwort>
+            <falscheAntwort1>Estland; Lettland; Finnland; Litauen</falscheAntwort1>
+            <falscheAntwort2>Finnland; Lettland; Estland; Litauen</falscheAntwort2>
+            <falscheAntwort3>Lettland; Finnland; Litauen; Estland</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Größte Insel im Mittelmeer</fragenText>
+            <richtigeAntwort>Sizilien</richtigeAntwort>
+            <falscheAntwort1>Sardinien</falscheAntwort1>
+            <falscheAntwort2>Korsika</falscheAntwort2>
+            <falscheAntwort3>Kreta</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welchem Land gehören die Walliser Alpen</fragenText>
+            <richtigeAntwort>Schweiz</richtigeAntwort>
+            <falscheAntwort1>Österreich</falscheAntwort1>
+            <falscheAntwort2>Deutschland</falscheAntwort2>
+            <falscheAntwort3>Italien</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer wird durch den Eurotunnel verbunden?</fragenText>
+            <richtigeAntwort>Frankreich mit Großbritannien</richtigeAntwort>
+            <falscheAntwort1>Deutschland mit Neuseeland</falscheAntwort1>
+            <falscheAntwort2>Spanien mit Marokko</falscheAntwort2>
+            <falscheAntwort3>Griechenland mit Türkei</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was bedeutet EUROPOL</fragenText>
+            <richtigeAntwort>Europäisches Polizeiamt</richtigeAntwort>
+            <falscheAntwort1>Vereinigung europ. Politiker</falscheAntwort1>
+            <falscheAntwort2>Polen für Europa</falscheAntwort2>
+            <falscheAntwort3>Vereinigung europ. Polarforscher</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo liegt Preßburg?</fragenText>
+            <richtigeAntwort>Slowakei</richtigeAntwort>
+            <falscheAntwort1>Slowenien</falscheAntwort1>
+            <falscheAntwort2>Österreich</falscheAntwort2>
+            <falscheAntwort3>Deutschland</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviele Nachbarländer hat die Schweiz?</fragenText>
+            <richtigeAntwort>fünf</richtigeAntwort>
+            <falscheAntwort1>drei</falscheAntwort1>
+            <falscheAntwort2>vier</falscheAntwort2>
+            <falscheAntwort3>sechs</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher See liegt nicht in der Schweiz?</fragenText>
+            <richtigeAntwort>Neusiedler See</richtigeAntwort>
+            <falscheAntwort1>Genfer See</falscheAntwort1>
+            <falscheAntwort2>Neuenburger See</falscheAntwort2>
+            <falscheAntwort3>Vierwaldstätter See</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die größte Einwohnerzahl hat</fragenText>
+            <richtigeAntwort>Russland</richtigeAntwort>
+            <falscheAntwort1>Deutschland</falscheAntwort1>
+            <falscheAntwort2>Frankreich</falscheAntwort2>
+            <falscheAntwort3>Italien</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Land grenzt nicht an Österreich?</fragenText>
+            <richtigeAntwort>Kroatien</richtigeAntwort>
+            <falscheAntwort1>Liechtenstein</falscheAntwort1>
+            <falscheAntwort2>Slowenien</falscheAntwort2>
+            <falscheAntwort3>Slowakei</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviele Länder gehören bisher (April/2001) zur EU?</fragenText>
+            <richtigeAntwort>15</richtigeAntwort>
+            <falscheAntwort1>14</falscheAntwort1>
+            <falscheAntwort2>16</falscheAntwort2>
+            <falscheAntwort3>17</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviele wertverschiedene Euro-Geldscheine und Münzen gibt es?</fragenText>
+            <richtigeAntwort>7 Scheine; 8 Münzen</richtigeAntwort>
+            <falscheAntwort1>6 Scheine; 7 Münzen</falscheAntwort1>
+            <falscheAntwort2>9 Scheine; 10 Münzen</falscheAntwort2>
+            <falscheAntwort3>2 Scheine: 3 Münzen</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welchem europäischen Staat gehörte bis 1975 das heutige Surinam?</fragenText>
+            <richtigeAntwort>Niederlande</richtigeAntwort>
+            <falscheAntwort1>England</falscheAntwort1>
+            <falscheAntwort2>Frankreich</falscheAntwort2>
+            <falscheAntwort3>Deutschland</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>CH ist das internationale Autokennzeichen von</fragenText>
+            <richtigeAntwort>der Schweiz</richtigeAntwort>
+            <falscheAntwort1>Chile</falscheAntwort1>
+            <falscheAntwort2>China</falscheAntwort2>
+            <falscheAntwort3>der Tschechischen Republik</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>E ist das internationale Autokennzeichen von</fragenText>
+            <richtigeAntwort>Spanien</richtigeAntwort>
+            <falscheAntwort1>Eritrea</falscheAntwort1>
+            <falscheAntwort2>England</falscheAntwort2>
+            <falscheAntwort3>Estland</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Palermo</fragenText>
+            <richtigeAntwort>Größte Stadt Siziliens</richtigeAntwort>
+            <falscheAntwort1>In der italienischen »Stiefelspitze«</falscheAntwort1>
+            <falscheAntwort2>Größte Stadt Sardiniens</falscheAntwort2>
+            <falscheAntwort3>Zwischen Rom und Neapel</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zählt nicht zu den Ostfriesischen Inseln</fragenText>
+            <richtigeAntwort>Helgoland</richtigeAntwort>
+            <falscheAntwort1>Baltrum</falscheAntwort1>
+            <falscheAntwort2>Juist</falscheAntwort2>
+            <falscheAntwort3>Borkum</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Sind Berge in deutschen Mittelgebirgen Große Blöße; Großer Arber; Großer Beerberg; Großer Feldberg</fragenText>
+            <richtigeAntwort>stimmt</richtigeAntwort>
+            <falscheAntwort1>stimmt für drei</falscheAntwort1>
+            <falscheAntwort2>stimmt für zwei</falscheAntwort2>
+            <falscheAntwort3>stimmt für einen</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

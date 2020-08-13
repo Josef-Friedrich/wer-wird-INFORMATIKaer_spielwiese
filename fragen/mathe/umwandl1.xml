@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Mathe</fach>
+    <thema>Umwandlung von Längenmaßen, Stand 02.05.01</thema>
+    <autor>Rolf Gräbener, 5/2001</autor>
+    <anzahlFragen>28</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>3cm =</fragenText>
+            <richtigeAntwort>30mm</richtigeAntwort>
+            <falscheAntwort1>0,3mm</falscheAntwort1>
+            <falscheAntwort2>300mm</falscheAntwort2>
+            <falscheAntwort3>0,03mm</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>28dm =</fragenText>
+            <richtigeAntwort>2,8m</richtigeAntwort>
+            <falscheAntwort1>28m</falscheAntwort1>
+            <falscheAntwort2>0,28m</falscheAntwort2>
+            <falscheAntwort3>0,028m</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>43500m =</fragenText>
+            <richtigeAntwort>43,5km</richtigeAntwort>
+            <falscheAntwort1>435km</falscheAntwort1>
+            <falscheAntwort2>4,35km</falscheAntwort2>
+            <falscheAntwort3>0,435km</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>30km =</fragenText>
+            <richtigeAntwort>30000m</richtigeAntwort>
+            <falscheAntwort1>300m</falscheAntwort1>
+            <falscheAntwort2>3000m</falscheAntwort2>
+            <falscheAntwort3>300000m</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>7cm =</fragenText>
+            <richtigeAntwort>0,07m</richtigeAntwort>
+            <falscheAntwort1>0,0007m</falscheAntwort1>
+            <falscheAntwort2>0,7m</falscheAntwort2>
+            <falscheAntwort3>70m</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>60000mm =</fragenText>
+            <richtigeAntwort>60m</richtigeAntwort>
+            <falscheAntwort1>6m</falscheAntwort1>
+            <falscheAntwort2>600m</falscheAntwort2>
+            <falscheAntwort3>0,6m</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>2,4dm =</fragenText>
+            <richtigeAntwort>24cm</richtigeAntwort>
+            <falscheAntwort1>24mm</falscheAntwort1>
+            <falscheAntwort2>24m</falscheAntwort2>
+            <falscheAntwort3>24km</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>56,2cm =</fragenText>
+            <richtigeAntwort>0,562m</richtigeAntwort>
+            <falscheAntwort1>0,562km</falscheAntwort1>
+            <falscheAntwort2>0,562mm</falscheAntwort2>
+            <falscheAntwort3>0,562dm</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>3500000mm =</fragenText>
+            <richtigeAntwort>350m</richtigeAntwort>
+            <falscheAntwort1>35m</falscheAntwort1>
+            <falscheAntwort2>3,5m</falscheAntwort2>
+            <falscheAntwort3>3500m</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>654cm =</fragenText>
+            <richtigeAntwort>0,00654km</richtigeAntwort>
+            <falscheAntwort1>6,45dm</falscheAntwort1>
+            <falscheAntwort2>65,4m</falscheAntwort2>
+            <falscheAntwort3>65,4mm</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>7,52dm =</fragenText>
+            <richtigeAntwort>0,752m</richtigeAntwort>
+            <falscheAntwort1>0,752cm</falscheAntwort1>
+            <falscheAntwort2>752cm</falscheAntwort2>
+            <falscheAntwort3>75,2m</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>63m =</fragenText>
+            <richtigeAntwort>630dm</richtigeAntwort>
+            <falscheAntwort1>6300mm</falscheAntwort1>
+            <falscheAntwort2>63000cm</falscheAntwort2>
+            <falscheAntwort3>0,63km</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>85cm =</fragenText>
+            <richtigeAntwort>850mm</richtigeAntwort>
+            <falscheAntwort1>850m</falscheAntwort1>
+            <falscheAntwort2>0,85dm</falscheAntwort2>
+            <falscheAntwort3>850dm</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>1,3m =</fragenText>
+            <richtigeAntwort>13dm</richtigeAntwort>
+            <falscheAntwort1>13cm</falscheAntwort1>
+            <falscheAntwort2>13mm</falscheAntwort2>
+            <falscheAntwort3>13km</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>23mm =</fragenText>
+            <richtigeAntwort>2,3cm</richtigeAntwort>
+            <falscheAntwort1>2,3dm</falscheAntwort1>
+            <falscheAntwort2>2,3m</falscheAntwort2>
+            <falscheAntwort3>0,0023km</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>45dm =</fragenText>
+            <richtigeAntwort>4,5m</richtigeAntwort>
+            <falscheAntwort1>4,5cm</falscheAntwort1>
+            <falscheAntwort2>450mm</falscheAntwort2>
+            <falscheAntwort3>450m</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>5m =</fragenText>
+            <richtigeAntwort>500cm</richtigeAntwort>
+            <falscheAntwort1>50cm</falscheAntwort1>
+            <falscheAntwort2>5000cm</falscheAntwort2>
+            <falscheAntwort3>0,5cm</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>40000mm =</fragenText>
+            <richtigeAntwort>40m</richtigeAntwort>
+            <falscheAntwort1>4m</falscheAntwort1>
+            <falscheAntwort2>0,4km</falscheAntwort2>
+            <falscheAntwort3>40dm</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>165cm =</fragenText>
+            <richtigeAntwort>1,65m</richtigeAntwort>
+            <falscheAntwort1>0,0165km</falscheAntwort1>
+            <falscheAntwort2>16,5mm</falscheAntwort2>
+            <falscheAntwort3>1,65dm</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>47cm =</fragenText>
+            <richtigeAntwort>0,00047km</richtigeAntwort>
+            <falscheAntwort1>0,047m</falscheAntwort1>
+            <falscheAntwort2>4700mm</falscheAntwort2>
+            <falscheAntwort3>0,47dm</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>5,6dm =</fragenText>
+            <richtigeAntwort>56cm</richtigeAntwort>
+            <falscheAntwort1>56mm</falscheAntwort1>
+            <falscheAntwort2>56m</falscheAntwort2>
+            <falscheAntwort3>0,56cm</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>890000cm =</fragenText>
+            <richtigeAntwort>8,9km</richtigeAntwort>
+            <falscheAntwort1>89m</falscheAntwort1>
+            <falscheAntwort2>890m</falscheAntwort2>
+            <falscheAntwort3>0,89km</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>63mm =</fragenText>
+            <richtigeAntwort>0,63dm</richtigeAntwort>
+            <falscheAntwort1>630cm</falscheAntwort1>
+            <falscheAntwort2>6,3dm</falscheAntwort2>
+            <falscheAntwort3>0,63cm</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>24km =</fragenText>
+            <richtigeAntwort>24000m</richtigeAntwort>
+            <falscheAntwort1>24000cm</falscheAntwort1>
+            <falscheAntwort2>24000dm</falscheAntwort2>
+            <falscheAntwort3>24000mm</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>4,6m =</fragenText>
+            <richtigeAntwort>460cm</richtigeAntwort>
+            <falscheAntwort1>460km</falscheAntwort1>
+            <falscheAntwort2>460mm</falscheAntwort2>
+            <falscheAntwort3>460dm</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>5132mm =</fragenText>
+            <richtigeAntwort>5,132m</richtigeAntwort>
+            <falscheAntwort1>5,132cm</falscheAntwort1>
+            <falscheAntwort2>5,132dm</falscheAntwort2>
+            <falscheAntwort3>5,132km</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>70mm =</fragenText>
+            <richtigeAntwort>7cm</richtigeAntwort>
+            <falscheAntwort1>7m</falscheAntwort1>
+            <falscheAntwort2>7dm</falscheAntwort2>
+            <falscheAntwort3>7km</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>30m =</fragenText>
+            <richtigeAntwort>0,030km</richtigeAntwort>
+            <falscheAntwort1>3000mm</falscheAntwort1>
+            <falscheAntwort2>3000dm</falscheAntwort2>
+            <falscheAntwort3>300cm</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

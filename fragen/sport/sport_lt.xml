@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Sport</fach>
+    <thema>Sport leicht</thema>
+    <autor>Manfred Hartisch</autor>
+    <anzahlFragen>100</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>Wie nennt man das Hemd eines Fußballspielers?</fragenText>
+            <richtigeAntwort>Trikot</richtigeAntwort>
+            <falscheAntwort1>Leibchen</falscheAntwort1>
+            <falscheAntwort2>Shirt</falscheAntwort2>
+            <falscheAntwort3>Pullover</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Bei welcher Sportart benutzt man k e i n e n Schläger?</fragenText>
+            <richtigeAntwort>Basketball</richtigeAntwort>
+            <falscheAntwort1>Badminton</falscheAntwort1>
+            <falscheAntwort2>Tennis</falscheAntwort2>
+            <falscheAntwort3>Squash</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Bei welcher Sportart muss man rückwärts gehen?</fragenText>
+            <richtigeAntwort>Tauziehen</richtigeAntwort>
+            <falscheAntwort1>Dreisprung</falscheAntwort1>
+            <falscheAntwort2>Hürdenlauf</falscheAntwort2>
+            <falscheAntwort3>Gehen</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo findet das berühmteste Tennisturnier statt?</fragenText>
+            <richtigeAntwort>Wimbledon</richtigeAntwort>
+            <falscheAntwort1>Winterberg</falscheAntwort1>
+            <falscheAntwort2>Wuppertal</falscheAntwort2>
+            <falscheAntwort3>Wyoming</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Sportart übte Pele aus?</fragenText>
+            <richtigeAntwort>Fußball</richtigeAntwort>
+            <falscheAntwort1>Basketball</falscheAntwort1>
+            <falscheAntwort2>Tennis</falscheAntwort2>
+            <falscheAntwort3>Schwimmen</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Sportart übte Muhamed Ali aus?</fragenText>
+            <richtigeAntwort>Boxen</richtigeAntwort>
+            <falscheAntwort1>Schwimmen</falscheAntwort1>
+            <falscheAntwort2>Ringen</falscheAntwort2>
+            <falscheAntwort3>Turnen</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie werden die Mercedes - Rennautos genannt?</fragenText>
+            <richtigeAntwort>Silberpfeile</richtigeAntwort>
+            <falscheAntwort1>Bronzeflitzer</falscheAntwort1>
+            <falscheAntwort2>Goldspeere</falscheAntwort2>
+            <falscheAntwort3>Laserblitze</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang ist ein Marathonlauf?</fragenText>
+            <richtigeAntwort>42,195 km</richtigeAntwort>
+            <falscheAntwort1>36,150 km</falscheAntwort1>
+            <falscheAntwort2>20,250 km</falscheAntwort2>
+            <falscheAntwort3>14,455 km</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Lauf über 42,195 km?</fragenText>
+            <richtigeAntwort>Marathonlauf</richtigeAntwort>
+            <falscheAntwort1>Monsterlauf</falscheAntwort1>
+            <falscheAntwort2>Giantlauf</falscheAntwort2>
+            <falscheAntwort3>Riesenlauf</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>An welchem Turngerät turnen keine Männer?</fragenText>
+            <richtigeAntwort>Schwebebalken</richtigeAntwort>
+            <falscheAntwort1>Reck</falscheAntwort1>
+            <falscheAntwort2>Boden</falscheAntwort2>
+            <falscheAntwort3>Ringe</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie wird ein Rennreiter genannt?</fragenText>
+            <richtigeAntwort>Jockey</richtigeAntwort>
+            <falscheAntwort1>Horseman</falscheAntwort1>
+            <falscheAntwort2>DJ</falscheAntwort2>
+            <falscheAntwort3>Galopper</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Schwimmart gibt es?</fragenText>
+            <richtigeAntwort>Delfinschwimmen</richtigeAntwort>
+            <falscheAntwort1>Haischwimmen</falscheAntwort1>
+            <falscheAntwort2>Walschwimmen</falscheAntwort2>
+            <falscheAntwort3>Heringsschwimmen</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Kampfstätte der Boxer?</fragenText>
+            <richtigeAntwort>Ring</richtigeAntwort>
+            <falscheAntwort1>Quadrat</falscheAntwort1>
+            <falscheAntwort2>Kreis</falscheAntwort2>
+            <falscheAntwort3>Dreieck</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Bis wann zählt der Ringrichter, bevor ein Boxer k.o. ist?</fragenText>
+            <richtigeAntwort>9</richtigeAntwort>
+            <falscheAntwort1>3</falscheAntwort1>
+            <falscheAntwort2>5</falscheAntwort2>
+            <falscheAntwort3>12</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was geschieht mit einem Boxer nach einem Niederschlag? Er wird ...</fragenText>
+            <richtigeAntwort>angezählt</richtigeAntwort>
+            <falscheAntwort1>ausgeschimpft</falscheAntwort1>
+            <falscheAntwort2>angeschrien</falscheAntwort2>
+            <falscheAntwort3>ausgelacht</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Sportart, bei der mit Handschuhen gekämpft wird?</fragenText>
+            <richtigeAntwort>Boxen</richtigeAntwort>
+            <falscheAntwort1>Schlagen</falscheAntwort1>
+            <falscheAntwort2>Hauen</falscheAntwort2>
+            <falscheAntwort3>Kämpfen</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Sportart gibt es?</fragenText>
+            <richtigeAntwort>Dreisprung</richtigeAntwort>
+            <falscheAntwort1>Viersprung</falscheAntwort1>
+            <falscheAntwort2>Zweisprung</falscheAntwort2>
+            <falscheAntwort3>Fünfsprung</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Sportart übte Franz Beckenbauer aus?</fragenText>
+            <richtigeAntwort>Fußball</richtigeAntwort>
+            <falscheAntwort1>Schwimmen</falscheAntwort1>
+            <falscheAntwort2>Tennis</falscheAntwort2>
+            <falscheAntwort3>Handball</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt Deutschlands berühmtester Fußballspieler?</fragenText>
+            <richtigeAntwort>Franz Beckenbauer</richtigeAntwort>
+            <falscheAntwort1>Günther Netzer</falscheAntwort1>
+            <falscheAntwort2>Helmut Haller</falscheAntwort2>
+            <falscheAntwort3>Oliver Kahn</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Sportart übte Boris Becker aus?</fragenText>
+            <richtigeAntwort>Tennis</richtigeAntwort>
+            <falscheAntwort1>Handball</falscheAntwort1>
+            <falscheAntwort2>Fußball</falscheAntwort2>
+            <falscheAntwort3>Golf</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt Deutschlands berühmtester Tennisspieler?</fragenText>
+            <richtigeAntwort>Boris Becker</richtigeAntwort>
+            <falscheAntwort1>Jörg Martin</falscheAntwort1>
+            <falscheAntwort2>Wilhelm Bungert</falscheAntwort2>
+            <falscheAntwort3>Carl Uwe Steeb</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist die Tour de France?</fragenText>
+            <richtigeAntwort>Radrennen</richtigeAntwort>
+            <falscheAntwort1>Pferderennen</falscheAntwort1>
+            <falscheAntwort2>Autorennen</falscheAntwort2>
+            <falscheAntwort3>Motorradrennen</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Sportart gibt es?</fragenText>
+            <richtigeAntwort>Hammerwurf</richtigeAntwort>
+            <falscheAntwort1>Feilenwurf</falscheAntwort1>
+            <falscheAntwort2>Zangenwurf</falscheAntwort2>
+            <falscheAntwort3>Sägenwurf</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Sportart, bei der ein langer Stab geworfen wird?</fragenText>
+            <richtigeAntwort>Speerwurf</richtigeAntwort>
+            <falscheAntwort1>Stockwurf</falscheAntwort1>
+            <falscheAntwort2>Stabwurf</falscheAntwort2>
+            <falscheAntwort3>Stangenwurf</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Bobrennen gibt es?</fragenText>
+            <richtigeAntwort>2 - er Bob</richtigeAntwort>
+            <falscheAntwort1>3 - er Bob</falscheAntwort1>
+            <falscheAntwort2>1 - er Bob</falscheAntwort2>
+            <falscheAntwort3>5 - er Bob</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Bobrennen gibt es?</fragenText>
+            <richtigeAntwort>4 - er Bob</richtigeAntwort>
+            <falscheAntwort1>3 -er Bob</falscheAntwort1>
+            <falscheAntwort2>1 - er Bob</falscheAntwort2>
+            <falscheAntwort3>5 - er Bob</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Sportart, die aus Skilanglauf und Schießen besteht?</fragenText>
+            <richtigeAntwort>Biathlon</richtigeAntwort>
+            <falscheAntwort1>Skeleton</falscheAntwort1>
+            <falscheAntwort2>Triathlon</falscheAntwort2>
+            <falscheAntwort3>Marathon</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Bei welcher Sportart gibt es einen Boxenstopp?</fragenText>
+            <richtigeAntwort>Formel 1 Autorennen</richtigeAntwort>
+            <falscheAntwort1>Boxen</falscheAntwort1>
+            <falscheAntwort2>Trabrennen</falscheAntwort2>
+            <falscheAntwort3>Badminton</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was bedeutet die gelbe Karte beim Fußballspiel?</fragenText>
+            <richtigeAntwort>Verwarnung</richtigeAntwort>
+            <falscheAntwort1>Pause</falscheAntwort1>
+            <falscheAntwort2>Platzverweis</falscheAntwort2>
+            <falscheAntwort3>Verlängerung</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was bedeutet die rote Karte beim Fußballspiel?</fragenText>
+            <richtigeAntwort>Platzverweis</richtigeAntwort>
+            <falscheAntwort1>Pause</falscheAntwort1>
+            <falscheAntwort2>Verwarnung</falscheAntwort2>
+            <falscheAntwort3>Verlängerung</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Farbe hat beim Fußball die Karte für einen Platzverweis?</fragenText>
+            <richtigeAntwort>rot</richtigeAntwort>
+            <falscheAntwort1>grün</falscheAntwort1>
+            <falscheAntwort2>gelb</falscheAntwort2>
+            <falscheAntwort3>blau</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Farbe haben die Ferrari - Formel 1 Rennwagen?</fragenText>
+            <richtigeAntwort>rot</richtigeAntwort>
+            <falscheAntwort1>grün</falscheAntwort1>
+            <falscheAntwort2>gelb</falscheAntwort2>
+            <falscheAntwort3>weiß</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Farbe hat beim Fußball die Karte für eine Verwarnung?</fragenText>
+            <richtigeAntwort>gelb</richtigeAntwort>
+            <falscheAntwort1>grün</falscheAntwort1>
+            <falscheAntwort2>rot</falscheAntwort2>
+            <falscheAntwort3>blau</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Bei welcher Sportart sind die Mannschaften durch ein Netz getrennt?</fragenText>
+            <richtigeAntwort>Volleyball</richtigeAntwort>
+            <falscheAntwort1>Handball</falscheAntwort1>
+            <falscheAntwort2>Basketball</falscheAntwort2>
+            <falscheAntwort3>Fußball</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo wurde die deutsche Nationalmannschaft zum dritten Mal Fußballweltmeister?</fragenText>
+            <richtigeAntwort>Italien</richtigeAntwort>
+            <falscheAntwort1>England</falscheAntwort1>
+            <falscheAntwort2>Argentinien</falscheAntwort2>
+            <falscheAntwort3>Frankreich</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo wurde die deutsche Nationalmannschaft zum zweiten Mal Fußballweltmeister?</fragenText>
+            <richtigeAntwort>München</richtigeAntwort>
+            <falscheAntwort1>Madrid</falscheAntwort1>
+            <falscheAntwort2>London</falscheAntwort2>
+            <falscheAntwort3>Rom</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo wurde die deutsche Nationalmannschaft zum ersten Mal Fußballweltmeister?</fragenText>
+            <richtigeAntwort>Bern</richtigeAntwort>
+            <falscheAntwort1>Paris</falscheAntwort1>
+            <falscheAntwort2>Berlin</falscheAntwort2>
+            <falscheAntwort3>Rom</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann wurde die deutsche Nationalmannschaft zum dritten Mal Fußballweltmeister?</fragenText>
+            <richtigeAntwort>1990</richtigeAntwort>
+            <falscheAntwort1>1954</falscheAntwort1>
+            <falscheAntwort2>1974</falscheAntwort2>
+            <falscheAntwort3>1966</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann wurde die deutsche Nationalmannschaft zum zweiten Mal Fußballweltmeister?</fragenText>
+            <richtigeAntwort>1974</richtigeAntwort>
+            <falscheAntwort1>1990</falscheAntwort1>
+            <falscheAntwort2>1954</falscheAntwort2>
+            <falscheAntwort3>1966</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann wurde die deutsche Nationalmannschaft zum ersten Mal Fußballweltmeister?</fragenText>
+            <richtigeAntwort>1954</richtigeAntwort>
+            <falscheAntwort1>1990</falscheAntwort1>
+            <falscheAntwort2>1974</falscheAntwort2>
+            <falscheAntwort3>1962</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man den Spielleiter beim Fußball?</fragenText>
+            <richtigeAntwort>Schiedsrichter</richtigeAntwort>
+            <falscheAntwort1>Pfeifenmann</falscheAntwort1>
+            <falscheAntwort2>Aufpasser</falscheAntwort2>
+            <falscheAntwort3>Spielwächter</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Bei welcher Sportart ist der Ball am größten?</fragenText>
+            <richtigeAntwort>Basketball</richtigeAntwort>
+            <falscheAntwort1>Volleyball</falscheAntwort1>
+            <falscheAntwort2>Fußball</falscheAntwort2>
+            <falscheAntwort3>Handball</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Bei welcher Sportart ist der Ball am kleinsten?</fragenText>
+            <richtigeAntwort>Tischtennis</richtigeAntwort>
+            <falscheAntwort1>Handball</falscheAntwort1>
+            <falscheAntwort2>Tennis</falscheAntwort2>
+            <falscheAntwort3>Fußball</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Bei welcher Sportart wird ein kleiner Ball eingelocht?</fragenText>
+            <richtigeAntwort>Golf</richtigeAntwort>
+            <falscheAntwort1>Handball</falscheAntwort1>
+            <falscheAntwort2>Kegeln</falscheAntwort2>
+            <falscheAntwort3>Basketball</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die höchste deutsche Spielklasse beim Fußball?</fragenText>
+            <richtigeAntwort>Bundesliga</richtigeAntwort>
+            <falscheAntwort1>Landesliga</falscheAntwort1>
+            <falscheAntwort2>Regionalliga</falscheAntwort2>
+            <falscheAntwort3>Kreisliga</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das große Sportereignis, das alle 4 Jahre stattfindet?</fragenText>
+            <richtigeAntwort>Olympische Spiele</richtigeAntwort>
+            <falscheAntwort1>Grand Prix</falscheAntwort1>
+            <falscheAntwort2>Weltmeisterschaft</falscheAntwort2>
+            <falscheAntwort3>Champions League</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Bei welchem Spiel dürfen die Feldspieler den Ball nicht mit der Hand berühren?</fragenText>
+            <richtigeAntwort>Fußball</richtigeAntwort>
+            <falscheAntwort1>Basketball</falscheAntwort1>
+            <falscheAntwort2>Volleyball</falscheAntwort2>
+            <falscheAntwort3>Handball</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Bei welchem Spiel ist der Ball nicht rund?</fragenText>
+            <richtigeAntwort>Football</richtigeAntwort>
+            <falscheAntwort1>Basketball</falscheAntwort1>
+            <falscheAntwort2>Fußball</falscheAntwort2>
+            <falscheAntwort3>Volleyball</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man das sportliche Federballspiel?</fragenText>
+            <richtigeAntwort>Badminton</richtigeAntwort>
+            <falscheAntwort1>Squash</falscheAntwort1>
+            <falscheAntwort2>Goodminton</falscheAntwort2>
+            <falscheAntwort3>Tennis</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man das „Spielgerät“ beim Eishockey?</fragenText>
+            <richtigeAntwort>Puck</richtigeAntwort>
+            <falscheAntwort1>Ruck</falscheAntwort1>
+            <falscheAntwort2>Muck</falscheAntwort2>
+            <falscheAntwort3>Zuck</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus wie vielen Meter wird ein Strafwurf beim Handball ausgeführt?</fragenText>
+            <richtigeAntwort>7</richtigeAntwort>
+            <falscheAntwort1>9</falscheAntwort1>
+            <falscheAntwort2>6</falscheAntwort2>
+            <falscheAntwort3>11</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus wie vielen Meter wird ein Strafstoß beim Fußball ausgeführt?</fragenText>
+            <richtigeAntwort>11</richtigeAntwort>
+            <falscheAntwort1>9</falscheAntwort1>
+            <falscheAntwort2>7</falscheAntwort2>
+            <falscheAntwort3>16</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Bei welcher Sportart werden „Körbe“ erzielt?</fragenText>
+            <richtigeAntwort>Basketball</richtigeAntwort>
+            <falscheAntwort1>Baseball</falscheAntwort1>
+            <falscheAntwort2>Volleyball</falscheAntwort2>
+            <falscheAntwort3>Handball</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Sportler, die mit ihrem Sport Geld verdienen?</fragenText>
+            <richtigeAntwort>Profis</richtigeAntwort>
+            <falscheAntwort1>Installateure</falscheAntwort1>
+            <falscheAntwort2>Amateure</falscheAntwort2>
+            <falscheAntwort3>Prolos</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Sportler, die mit ihrem Sport k e i n Geld verdienen?</fragenText>
+            <richtigeAntwort>Amateure</richtigeAntwort>
+            <falscheAntwort1>Animateure</falscheAntwort1>
+            <falscheAntwort2>Profis</falscheAntwort2>
+            <falscheAntwort3>Monteure</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Abstand werden die Olympischen Spiele ausgetragen?</fragenText>
+            <richtigeAntwort>4 Jahre</richtigeAntwort>
+            <falscheAntwort1>6 Jahre</falscheAntwort1>
+            <falscheAntwort2>2 Jahre</falscheAntwort2>
+            <falscheAntwort3>10 Jahre</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man beim Fußball das erste Tor in der Verlängerung, das dann das Spiel beendet?</fragenText>
+            <richtigeAntwort>Golden Goal</richtigeAntwort>
+            <falscheAntwort1>Lucky Punch</falscheAntwort1>
+            <falscheAntwort2>Sudden Death</falscheAntwort2>
+            <falscheAntwort3>Big Point</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Auf welchem Untergrund spielen „Beach - Volleyballer“?</fragenText>
+            <richtigeAntwort>Sand</richtigeAntwort>
+            <falscheAntwort1>Kunstrasen</falscheAntwort1>
+            <falscheAntwort2>Gras</falscheAntwort2>
+            <falscheAntwort3>Tartarn</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was wird beim „Hammerwurf“ eigentlich geworfen?</fragenText>
+            <richtigeAntwort>eine Kugel</richtigeAntwort>
+            <falscheAntwort1>eine Scheibe</falscheAntwort1>
+            <falscheAntwort2>ein Hammer</falscheAntwort2>
+            <falscheAntwort3>ein Stab</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie schwer ist ungefähr die Kugel beim Kugelstoßen der Männer?</fragenText>
+            <richtigeAntwort>ca. 7 kg</richtigeAntwort>
+            <falscheAntwort1>ca. 9 kg</falscheAntwort1>
+            <falscheAntwort2>ca. 5 kg</falscheAntwort2>
+            <falscheAntwort3>ca. 12 kg</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Sportler werden in der Leichtathletik „Könige der Athleten“ genannt?</fragenText>
+            <richtigeAntwort>Zehnkämpfer</richtigeAntwort>
+            <falscheAntwort1>Marathonläufer</falscheAntwort1>
+            <falscheAntwort2>Stabhochspringer</falscheAntwort2>
+            <falscheAntwort3>50 - km - Geher</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man es, wenn ein Sportler Wimbledon, die US - Open, die French - Open und die Australien - Open gewinnt?</fragenText>
+            <richtigeAntwort>Grand Slam</richtigeAntwort>
+            <falscheAntwort1>Grand Tennis</falscheAntwort1>
+            <falscheAntwort2>Grand Prix</falscheAntwort2>
+            <falscheAntwort3>Grand Tour</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wofür stehen die fünf olympischen Ringe?</fragenText>
+            <richtigeAntwort>für die fünf Erdteile</richtigeAntwort>
+            <falscheAntwort1>für die fünf Mannschaften</falscheAntwort1>
+            <falscheAntwort2>für die fünf Finger</falscheAntwort2>
+            <falscheAntwort3>Am Anfang wurden nur fünf Wettbewerbe durchgeführt.</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie wird ein besonderer Schwimmstil auch noch genannt?</fragenText>
+            <richtigeAntwort>Schmetterling</richtigeAntwort>
+            <falscheAntwort1>Hornisse</falscheAntwort1>
+            <falscheAntwort2>Hummel</falscheAntwort2>
+            <falscheAntwort3>Libelle</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man einen Olympiasieger?</fragenText>
+            <richtigeAntwort>Olympionike</richtigeAntwort>
+            <falscheAntwort1>Olympiade</falscheAntwort1>
+            <falscheAntwort2>Olympus</falscheAntwort2>
+            <falscheAntwort3>Olympiachampion</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Sportart, bei der man über 6 Meter hoch springen kann?</fragenText>
+            <richtigeAntwort>Stabhochsprung</richtigeAntwort>
+            <falscheAntwort1>Pferdsprung</falscheAntwort1>
+            <falscheAntwort2>Dreisprung</falscheAntwort2>
+            <falscheAntwort3>Hochsprung</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Farbe gehört n i c h t zu den olympischen Ringen?</fragenText>
+            <richtigeAntwort>grau</richtigeAntwort>
+            <falscheAntwort1>blau</falscheAntwort1>
+            <falscheAntwort2>schwarz</falscheAntwort2>
+            <falscheAntwort3>rot</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Farbe gehört n i c h t zu den olympischen Ringen?</fragenText>
+            <richtigeAntwort>weiß</richtigeAntwort>
+            <falscheAntwort1>blau</falscheAntwort1>
+            <falscheAntwort2>schwarz</falscheAntwort2>
+            <falscheAntwort3>gelb</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Farbe gehört n i c h t zu den olympischen Ringen?</fragenText>
+            <richtigeAntwort>braun</richtigeAntwort>
+            <falscheAntwort1>grün</falscheAntwort1>
+            <falscheAntwort2>rot</falscheAntwort2>
+            <falscheAntwort3>gelb</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus wie vielen Ringen besteht das Wahrzeichen der Olympischen Spiele?</fragenText>
+            <richtigeAntwort>5</richtigeAntwort>
+            <falscheAntwort1>6</falscheAntwort1>
+            <falscheAntwort2>4</falscheAntwort2>
+            <falscheAntwort3>9</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lautet die Abkürzung für „Internationales Olympisches Komitee“?</fragenText>
+            <richtigeAntwort>I O C</richtigeAntwort>
+            <falscheAntwort1>U E F A</falscheAntwort1>
+            <falscheAntwort2>I N O L K O</falscheAntwort2>
+            <falscheAntwort3>F I F A</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man einen Lauf, bei dem sich vier Läufer abwechseln?</fragenText>
+            <richtigeAntwort>Staffelllauf</richtigeAntwort>
+            <falscheAntwort1>Viererlauf</falscheAntwort1>
+            <falscheAntwort2>Wechsellauf</falscheAntwort2>
+            <falscheAntwort3>Gruppenlauf</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Sportart, die aus Laufen, Schwimmen und Radfahren besteht?</fragenText>
+            <richtigeAntwort>Triathlon</richtigeAntwort>
+            <falscheAntwort1>Monolog</falscheAntwort1>
+            <falscheAntwort2>Biathlon</falscheAntwort2>
+            <falscheAntwort3>Marathon</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen „Vogel“ gibt es manchmal beim Fußballspiel?</fragenText>
+            <richtigeAntwort>Schwalbe</richtigeAntwort>
+            <falscheAntwort1>Geier</falscheAntwort1>
+            <falscheAntwort2>Adler</falscheAntwort2>
+            <falscheAntwort3>Kuckuck</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man ein großes „Sprungtuch“?</fragenText>
+            <richtigeAntwort>Trampolin</richtigeAntwort>
+            <falscheAntwort1>Turngut</falscheAntwort1>
+            <falscheAntwort2>Springhoch</falscheAntwort2>
+            <falscheAntwort3>Sprungfeder</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie groß kann die Geschwindigkeit eines Tennisballs beim Aufschlag sein?</fragenText>
+            <richtigeAntwort>über 200 km/h</richtigeAntwort>
+            <falscheAntwort1>über 400 km/h</falscheAntwort1>
+            <falscheAntwort2>über 300 km/h</falscheAntwort2>
+            <falscheAntwort3>über 500 km/h</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist Squash?</fragenText>
+            <richtigeAntwort>ein Rückschlagspiel</richtigeAntwort>
+            <falscheAntwort1>eine Figur beim Bodenturnen</falscheAntwort1>
+            <falscheAntwort2>eine Schwimmart</falscheAntwort2>
+            <falscheAntwort3>ein Tor beim Eishockey</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Personen sitzen insgesamt in einem Achter - Ruderboot?</fragenText>
+            <richtigeAntwort>9</richtigeAntwort>
+            <falscheAntwort1>10</falscheAntwort1>
+            <falscheAntwort2>8</falscheAntwort2>
+            <falscheAntwort3>11</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man es, wenn man durch Einnahme von Medikamenten seine Leistungsfähigkeit steigern möchte?</fragenText>
+            <richtigeAntwort>Doping</richtigeAntwort>
+            <falscheAntwort1>Whoping</falscheAntwort1>
+            <falscheAntwort2>Hoping</falscheAntwort2>
+            <falscheAntwort3>Moving</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist k e i n Turngerät?</fragenText>
+            <richtigeAntwort>Mauer</richtigeAntwort>
+            <falscheAntwort1>Barren</falscheAntwort1>
+            <falscheAntwort2>Reck</falscheAntwort2>
+            <falscheAntwort3>Seitpferd</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Läufer gehören zu einer Staffel?</fragenText>
+            <richtigeAntwort>4</richtigeAntwort>
+            <falscheAntwort1>6</falscheAntwort1>
+            <falscheAntwort2>3</falscheAntwort2>
+            <falscheAntwort3>8</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus welchem Metall ist die Medaille für den Dritten?</fragenText>
+            <richtigeAntwort>Bronze</richtigeAntwort>
+            <falscheAntwort1>Silber</falscheAntwort1>
+            <falscheAntwort2>Gold</falscheAntwort2>
+            <falscheAntwort3>Platin</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus welchem Metall ist die Medaille für den Zweiten?</fragenText>
+            <richtigeAntwort>Silber</richtigeAntwort>
+            <falscheAntwort1>Bronze</falscheAntwort1>
+            <falscheAntwort2>Gold</falscheAntwort2>
+            <falscheAntwort3>Platin</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus welchem Metall ist die Medaille für den Sieger?</fragenText>
+            <richtigeAntwort>Gold</richtigeAntwort>
+            <falscheAntwort1>Bronze</falscheAntwort1>
+            <falscheAntwort2>Silber</falscheAntwort2>
+            <falscheAntwort3>Platin</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man das verbotene Medikament zum Muskelaufbau?</fragenText>
+            <richtigeAntwort>Anabolika</richtigeAntwort>
+            <falscheAntwort1>Anakonda</falscheAntwort1>
+            <falscheAntwort2>Muskulator</falscheAntwort2>
+            <falscheAntwort3>Muskelmus</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was wird von Olympia in einem Fackellauf in das Olympiastadion gebracht?</fragenText>
+            <richtigeAntwort>die olympische Flamme</richtigeAntwort>
+            <falscheAntwort1>die olympischen Trikots</falscheAntwort1>
+            <falscheAntwort2>die olympischen Medaillen</falscheAntwort2>
+            <falscheAntwort3>die olympischen Startnummern</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Dornen an der Unterseite von Laufschuhen?</fragenText>
+            <richtigeAntwort>Spikes</richtigeAntwort>
+            <falscheAntwort1>Stachels</falscheAntwort1>
+            <falscheAntwort2>Dorns</falscheAntwort2>
+            <falscheAntwort3>Stollen</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man den zweirädrigen Wagen, der von einem Pferd gezogen wird?</fragenText>
+            <richtigeAntwort>Sulky</richtigeAntwort>
+            <falscheAntwort1>Kutsche</falscheAntwort1>
+            <falscheAntwort2>Puky</falscheAntwort2>
+            <falscheAntwort3>Rikscha</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Spur für die Skilangläufer?</fragenText>
+            <richtigeAntwort>Loipe</richtigeAntwort>
+            <falscheAntwort1>Spürli</falscheAntwort1>
+            <falscheAntwort2>Lupe</falscheAntwort2>
+            <falscheAntwort3>Lupine</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man einen Dauerlauf mit geringer Geschwindigkeit?</fragenText>
+            <richtigeAntwort>Jogging</richtigeAntwort>
+            <falscheAntwort1>Doping</falscheAntwort1>
+            <falscheAntwort2>Mobbing</falscheAntwort2>
+            <falscheAntwort3>Running</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele verschiedene Schwimmarten gibt es bei Schwimmwettkämpfen?</fragenText>
+            <richtigeAntwort>4</richtigeAntwort>
+            <falscheAntwort1>5</falscheAntwort1>
+            <falscheAntwort2>3</falscheAntwort2>
+            <falscheAntwort3>6</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welcher Sportart gehören „Schritt, Trab und Galopp“?</fragenText>
+            <richtigeAntwort>Pferdesport</richtigeAntwort>
+            <falscheAntwort1>Skisport</falscheAntwort1>
+            <falscheAntwort2>Tanzsport</falscheAntwort2>
+            <falscheAntwort3>Leichtathletik</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt eine berühmte Segelveranstaltung?</fragenText>
+            <richtigeAntwort>Kieler Woche</richtigeAntwort>
+            <falscheAntwort1>Bremer Tag</falscheAntwort1>
+            <falscheAntwort2>Hamburger Monat</falscheAntwort2>
+            <falscheAntwort3>Flensburger Stunde</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welcher Sportart gibt es ein 6 - Tage - Rennen?</fragenText>
+            <richtigeAntwort>Radrennsport</richtigeAntwort>
+            <falscheAntwort1>Motorsport</falscheAntwort1>
+            <falscheAntwort2>Pferdesport</falscheAntwort2>
+            <falscheAntwort3>Schwimmsport</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man bei den speziellen 110 - m und 400 - m Läufen die Hindernisse?</fragenText>
+            <richtigeAntwort>Hürden</richtigeAntwort>
+            <falscheAntwort1>Schwellen</falscheAntwort1>
+            <falscheAntwort2>Mauern</falscheAntwort2>
+            <falscheAntwort3>Hecken</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang ist eine Runde in einem Leichtathletikstadion?</fragenText>
+            <richtigeAntwort>400 m</richtigeAntwort>
+            <falscheAntwort1>100 m</falscheAntwort1>
+            <falscheAntwort2>300 m</falscheAntwort2>
+            <falscheAntwort3>200 m</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Bei welcher Sportart ist der Ball n i c h t rund?</fragenText>
+            <richtigeAntwort>Badminton</richtigeAntwort>
+            <falscheAntwort1>Tischtennis</falscheAntwort1>
+            <falscheAntwort2>Tennis</falscheAntwort2>
+            <falscheAntwort3>Squash</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer darf beim Fußballspiel den Ball in die Hand nehmen?</fragenText>
+            <richtigeAntwort>Torwart</richtigeAntwort>
+            <falscheAntwort1>Verteidiger</falscheAntwort1>
+            <falscheAntwort2>Mittelstürmer</falscheAntwort2>
+            <falscheAntwort3>Mannschaftskapitän</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Womit beginnt ein Fußballspiel?</fragenText>
+            <richtigeAntwort>Anstoß</richtigeAntwort>
+            <falscheAntwort1>Einwurf</falscheAntwort1>
+            <falscheAntwort2>Eckball</falscheAntwort2>
+            <falscheAntwort3>Abschlag</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist Squash?</fragenText>
+            <richtigeAntwort>ein Rückschlagspiel</richtigeAntwort>
+            <falscheAntwort1>eine Figur beim Bodenturnen</falscheAntwort1>
+            <falscheAntwort2>eine Schwimmart</falscheAntwort2>
+            <falscheAntwort3>ein Tor beim Eishockey</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

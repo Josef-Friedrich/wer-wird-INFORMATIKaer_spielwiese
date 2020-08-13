@@ -1,0 +1,1389 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Deutsch</fach>
+    <thema>A B C</thema>
+    <autor>Manfred Hartisch</autor>
+    <anzahlFragen>138</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>Welches Wort steht zuerst im Wörterbuch?</fragenText>
+            <richtigeAntwort>Käfer</richtigeAntwort>
+            <falscheAntwort1>Käfig</falscheAntwort1>
+            <falscheAntwort2>Käse</falscheAntwort2>
+            <falscheAntwort3>Kajak</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Wort steht zuerst im Wörterbuch?</fragenText>
+            <richtigeAntwort>März</richtigeAntwort>
+            <falscheAntwort1>Oktober</falscheAntwort1>
+            <falscheAntwort2>Mai</falscheAntwort2>
+            <falscheAntwort3>September</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Wort steht zuerst im Wörterbuch?</fragenText>
+            <richtigeAntwort>April</richtigeAntwort>
+            <falscheAntwort1>September</falscheAntwort1>
+            <falscheAntwort2>August</falscheAntwort2>
+            <falscheAntwort3>Dezember</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Wort steht zuerst im Wörterbuch?</fragenText>
+            <richtigeAntwort>Zimt</richtigeAntwort>
+            <falscheAntwort1>Zirkus</falscheAntwort1>
+            <falscheAntwort2>Zinn</falscheAntwort2>
+            <falscheAntwort3>Zitrone</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Wort steht zuerst im Wörterbuch?</fragenText>
+            <richtigeAntwort>Kasse</richtigeAntwort>
+            <falscheAntwort1>Kastanie</falscheAntwort1>
+            <falscheAntwort2>Kater</falscheAntwort2>
+            <falscheAntwort3>Kasten</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Wort steht zuerst im Wörterbuch?</fragenText>
+            <richtigeAntwort>Strafe</richtigeAntwort>
+            <falscheAntwort1>Streich</falscheAntwort1>
+            <falscheAntwort2>Strich</falscheAntwort2>
+            <falscheAntwort3>Strauch</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Wort steht zuerst im Wörterbuch?</fragenText>
+            <richtigeAntwort>Schale</richtigeAntwort>
+            <falscheAntwort1>Schuh</falscheAntwort1>
+            <falscheAntwort2>Schrank</falscheAntwort2>
+            <falscheAntwort3>Schwein</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Wort steht zuerst im Wörterbuch?</fragenText>
+            <richtigeAntwort>Aal</richtigeAntwort>
+            <falscheAntwort1>Affe</falscheAntwort1>
+            <falscheAntwort2>Antilope</falscheAntwort2>
+            <falscheAntwort3>Ameise</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Wort steht zuerst im Wörterbuch?</fragenText>
+            <richtigeAntwort>das</richtigeAntwort>
+            <falscheAntwort1>die</falscheAntwort1>
+            <falscheAntwort2>der</falscheAntwort2>
+            <falscheAntwort3>du</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Wort steht zuerst im Wörterbuch?</fragenText>
+            <richtigeAntwort>was</richtigeAntwort>
+            <falscheAntwort1>wie</falscheAntwort1>
+            <falscheAntwort2>wer</falscheAntwort2>
+            <falscheAntwort3>wo</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Wort steht zuerst im Wörterbuch?</fragenText>
+            <richtigeAntwort>Huhn</richtigeAntwort>
+            <falscheAntwort1>Husten</falscheAntwort1>
+            <falscheAntwort2>Hut</falscheAntwort2>
+            <falscheAntwort3>Hund</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Wort steht zuerst im Wörterbuch?</fragenText>
+            <richtigeAntwort>Bär</richtigeAntwort>
+            <falscheAntwort1>Hund</falscheAntwort1>
+            <falscheAntwort2>Katze</falscheAntwort2>
+            <falscheAntwort3>Maus</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Wort steht zuerst im Wörterbuch?</fragenText>
+            <richtigeAntwort>Anna</richtigeAntwort>
+            <falscheAntwort1>Boris</falscheAntwort1>
+            <falscheAntwort2>Karl</falscheAntwort2>
+            <falscheAntwort3>Peter</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Wort steht zuerst im Wörterbuch?</fragenText>
+            <richtigeAntwort>ich</richtigeAntwort>
+            <falscheAntwort1>im</falscheAntwort1>
+            <falscheAntwort2>in</falscheAntwort2>
+            <falscheAntwort3>ihr</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Buchstaben hat das A b c ( ohne ß, Ä, Ö, Ü )?</fragenText>
+            <richtigeAntwort>26</richtigeAntwort>
+            <falscheAntwort1>29</falscheAntwort1>
+            <falscheAntwort2>23</falscheAntwort2>
+            <falscheAntwort3>22</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Buchstabengruppe stimmt?</fragenText>
+            <richtigeAntwort>J K L</richtigeAntwort>
+            <falscheAntwort1>L K J</falscheAntwort1>
+            <falscheAntwort2>K J L</falscheAntwort2>
+            <falscheAntwort3>J L K</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Buchstabengruppe stimmt?</fragenText>
+            <richtigeAntwort>U V W</richtigeAntwort>
+            <falscheAntwort1>V W U</falscheAntwort1>
+            <falscheAntwort2>U W V</falscheAntwort2>
+            <falscheAntwort3>W U V</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Buchstabengruppe stimmt?</fragenText>
+            <richtigeAntwort>B C D</richtigeAntwort>
+            <falscheAntwort1>C D B</falscheAntwort1>
+            <falscheAntwort2>B D C</falscheAntwort2>
+            <falscheAntwort3>D B C</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Buchstabengruppe stimmt?</fragenText>
+            <richtigeAntwort>O P Q</richtigeAntwort>
+            <falscheAntwort1>O Q P</falscheAntwort1>
+            <falscheAntwort2>P O Q</falscheAntwort2>
+            <falscheAntwort3>Q P O</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Buchstabengruppe stimmt?</fragenText>
+            <richtigeAntwort>F G H</richtigeAntwort>
+            <falscheAntwort1>G H F</falscheAntwort1>
+            <falscheAntwort2>F H G</falscheAntwort2>
+            <falscheAntwort3>U J I</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Buchstabengruppe stimmt?</fragenText>
+            <richtigeAntwort>X Y Z</richtigeAntwort>
+            <falscheAntwort1>Y C Z</falscheAntwort1>
+            <falscheAntwort2>Y S Z</falscheAntwort2>
+            <falscheAntwort3>Y W Z</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Buchstabengruppe stimmt?</fragenText>
+            <richtigeAntwort>H I J</richtigeAntwort>
+            <falscheAntwort1>V W E</falscheAntwort1>
+            <falscheAntwort2>G H U</falscheAntwort2>
+            <falscheAntwort3>T U H</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Buchstabengruppe stimmt n i c h t?</fragenText>
+            <richtigeAntwort>H J K</richtigeAntwort>
+            <falscheAntwort1>F G H</falscheAntwort1>
+            <falscheAntwort2>L M N</falscheAntwort2>
+            <falscheAntwort3>C D E</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Buchstabengruppe stimmt n i c h t?</fragenText>
+            <richtigeAntwort>O P R</richtigeAntwort>
+            <falscheAntwort1>I J K</falscheAntwort1>
+            <falscheAntwort2>T U V</falscheAntwort2>
+            <falscheAntwort3>P Q R</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Buchstabengruppe stimmt n i c h t?</fragenText>
+            <richtigeAntwort>I K L</richtigeAntwort>
+            <falscheAntwort1>U V W</falscheAntwort1>
+            <falscheAntwort2>B C D</falscheAntwort2>
+            <falscheAntwort3>S T U</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Buchstabengruppe stimmt n i c h t?</fragenText>
+            <richtigeAntwort>U W X</richtigeAntwort>
+            <falscheAntwort1>M N O</falscheAntwort1>
+            <falscheAntwort2>F G H</falscheAntwort2>
+            <falscheAntwort3>C D E</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Buchstabengruppe stimmt n i c h t?</fragenText>
+            <richtigeAntwort>J K M</richtigeAntwort>
+            <falscheAntwort1>R S T</falscheAntwort1>
+            <falscheAntwort2>G H I</falscheAntwort2>
+            <falscheAntwort3>D E F</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Buchstabengruppe stimmt n i c h t?</fragenText>
+            <richtigeAntwort>K L N</richtigeAntwort>
+            <falscheAntwort1>R S T</falscheAntwort1>
+            <falscheAntwort2>B C D</falscheAntwort2>
+            <falscheAntwort3>H I J</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe passt n i c h t zu den anderen?</fragenText>
+            <richtigeAntwort>K</richtigeAntwort>
+            <falscheAntwort1>Ö</falscheAntwort1>
+            <falscheAntwort2>Ä</falscheAntwort2>
+            <falscheAntwort3>Ü</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe steht zwischen X und Z?</fragenText>
+            <richtigeAntwort>Y</richtigeAntwort>
+            <falscheAntwort1>V</falscheAntwort1>
+            <falscheAntwort2>W</falscheAntwort2>
+            <falscheAntwort3>U</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe steht zwischen W und Y?</fragenText>
+            <richtigeAntwort>X</richtigeAntwort>
+            <falscheAntwort1>S</falscheAntwort1>
+            <falscheAntwort2>Z</falscheAntwort2>
+            <falscheAntwort3>U</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe steht zwischen V und X?</fragenText>
+            <richtigeAntwort>W</richtigeAntwort>
+            <falscheAntwort1>Y</falscheAntwort1>
+            <falscheAntwort2>Z</falscheAntwort2>
+            <falscheAntwort3>U</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe steht zwischen U und W?</fragenText>
+            <richtigeAntwort>V</richtigeAntwort>
+            <falscheAntwort1>D</falscheAntwort1>
+            <falscheAntwort2>X</falscheAntwort2>
+            <falscheAntwort3>T</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe steht zwischen T und V?</fragenText>
+            <richtigeAntwort>U</richtigeAntwort>
+            <falscheAntwort1>S</falscheAntwort1>
+            <falscheAntwort2>W</falscheAntwort2>
+            <falscheAntwort3>F</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe steht zwischen S und U?</fragenText>
+            <richtigeAntwort>T</richtigeAntwort>
+            <falscheAntwort1>D</falscheAntwort1>
+            <falscheAntwort2>V</falscheAntwort2>
+            <falscheAntwort3>W</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe steht zwischen R und T?</fragenText>
+            <richtigeAntwort>S</richtigeAntwort>
+            <falscheAntwort1>Q</falscheAntwort1>
+            <falscheAntwort2>U</falscheAntwort2>
+            <falscheAntwort3>B</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe steht zwischen Q und S?</fragenText>
+            <richtigeAntwort>R</richtigeAntwort>
+            <falscheAntwort1>O</falscheAntwort1>
+            <falscheAntwort2>T</falscheAntwort2>
+            <falscheAntwort3>P</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe steht zwischen P und R?</fragenText>
+            <richtigeAntwort>Q</richtigeAntwort>
+            <falscheAntwort1>S</falscheAntwort1>
+            <falscheAntwort2>O</falscheAntwort2>
+            <falscheAntwort3>T</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe steht zwischen O und Q?</fragenText>
+            <richtigeAntwort>P</richtigeAntwort>
+            <falscheAntwort1>F</falscheAntwort1>
+            <falscheAntwort2>R</falscheAntwort2>
+            <falscheAntwort3>C</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe steht zwischen N und P?</fragenText>
+            <richtigeAntwort>O</richtigeAntwort>
+            <falscheAntwort1>A</falscheAntwort1>
+            <falscheAntwort2>Q</falscheAntwort2>
+            <falscheAntwort3>F</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe steht zwischen M und O?</fragenText>
+            <richtigeAntwort>N</richtigeAntwort>
+            <falscheAntwort1>P</falscheAntwort1>
+            <falscheAntwort2>H</falscheAntwort2>
+            <falscheAntwort3>E</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe steht zwischen L und N?</fragenText>
+            <richtigeAntwort>M</richtigeAntwort>
+            <falscheAntwort1>G</falscheAntwort1>
+            <falscheAntwort2>O</falscheAntwort2>
+            <falscheAntwort3>R</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe steht zwischen K und M?</fragenText>
+            <richtigeAntwort>L</richtigeAntwort>
+            <falscheAntwort1>U</falscheAntwort1>
+            <falscheAntwort2>N</falscheAntwort2>
+            <falscheAntwort3>R</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe steht zwischen J und L?</fragenText>
+            <richtigeAntwort>K</richtigeAntwort>
+            <falscheAntwort1>N</falscheAntwort1>
+            <falscheAntwort2>M</falscheAntwort2>
+            <falscheAntwort3>Z</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe steht zwischen I und K?</fragenText>
+            <richtigeAntwort>J</richtigeAntwort>
+            <falscheAntwort1>H</falscheAntwort1>
+            <falscheAntwort2>M</falscheAntwort2>
+            <falscheAntwort3>F</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe steht zwischen H und J?</fragenText>
+            <richtigeAntwort>I</richtigeAntwort>
+            <falscheAntwort1>L</falscheAntwort1>
+            <falscheAntwort2>K</falscheAntwort2>
+            <falscheAntwort3>G</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe steht zwischen G und I?</fragenText>
+            <richtigeAntwort>H</richtigeAntwort>
+            <falscheAntwort1>K</falscheAntwort1>
+            <falscheAntwort2>J</falscheAntwort2>
+            <falscheAntwort3>F</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe steht zwischen F und H?</fragenText>
+            <richtigeAntwort>G</richtigeAntwort>
+            <falscheAntwort1>D</falscheAntwort1>
+            <falscheAntwort2>I</falscheAntwort2>
+            <falscheAntwort3>E</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe steht zwischen E und G?</fragenText>
+            <richtigeAntwort>F</richtigeAntwort>
+            <falscheAntwort1>B</falscheAntwort1>
+            <falscheAntwort2>H</falscheAntwort2>
+            <falscheAntwort3>T</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe steht zwischen D und F?</fragenText>
+            <richtigeAntwort>E</richtigeAntwort>
+            <falscheAntwort1>V</falscheAntwort1>
+            <falscheAntwort2>S</falscheAntwort2>
+            <falscheAntwort3>B</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe steht zwischen C und E?</fragenText>
+            <richtigeAntwort>D</richtigeAntwort>
+            <falscheAntwort1>B</falscheAntwort1>
+            <falscheAntwort2>F</falscheAntwort2>
+            <falscheAntwort3>G</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe steht zwischen B und D?</fragenText>
+            <richtigeAntwort>C</richtigeAntwort>
+            <falscheAntwort1>F</falscheAntwort1>
+            <falscheAntwort2>A</falscheAntwort2>
+            <falscheAntwort3>T</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe steht zwischen A und C?</fragenText>
+            <richtigeAntwort>B</richtigeAntwort>
+            <falscheAntwort1>E</falscheAntwort1>
+            <falscheAntwort2>D</falscheAntwort2>
+            <falscheAntwort3>H</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt v o r dem Z?</fragenText>
+            <richtigeAntwort>Y</richtigeAntwort>
+            <falscheAntwort1>C</falscheAntwort1>
+            <falscheAntwort2>X</falscheAntwort2>
+            <falscheAntwort3>S</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt v o r dem Y?</fragenText>
+            <richtigeAntwort>X</richtigeAntwort>
+            <falscheAntwort1>Z</falscheAntwort1>
+            <falscheAntwort2>C</falscheAntwort2>
+            <falscheAntwort3>R</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt v o r dem X?</fragenText>
+            <richtigeAntwort>W</richtigeAntwort>
+            <falscheAntwort1>V</falscheAntwort1>
+            <falscheAntwort2>Y</falscheAntwort2>
+            <falscheAntwort3>Z</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt v o r dem W?</fragenText>
+            <richtigeAntwort>V</richtigeAntwort>
+            <falscheAntwort1>Y</falscheAntwort1>
+            <falscheAntwort2>X</falscheAntwort2>
+            <falscheAntwort3>U</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt v o r dem V?</fragenText>
+            <richtigeAntwort>U</richtigeAntwort>
+            <falscheAntwort1>X</falscheAntwort1>
+            <falscheAntwort2>W</falscheAntwort2>
+            <falscheAntwort3>T</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt v o r dem U?</fragenText>
+            <richtigeAntwort>T</richtigeAntwort>
+            <falscheAntwort1>R</falscheAntwort1>
+            <falscheAntwort2>V</falscheAntwort2>
+            <falscheAntwort3>S</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt v o r dem T?</fragenText>
+            <richtigeAntwort>S</richtigeAntwort>
+            <falscheAntwort1>U</falscheAntwort1>
+            <falscheAntwort2>R</falscheAntwort2>
+            <falscheAntwort3>G</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt v o r dem S?</fragenText>
+            <richtigeAntwort>R</richtigeAntwort>
+            <falscheAntwort1>T</falscheAntwort1>
+            <falscheAntwort2>Q</falscheAntwort2>
+            <falscheAntwort3>U</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt v o r dem R?</fragenText>
+            <richtigeAntwort>Q</richtigeAntwort>
+            <falscheAntwort1>T</falscheAntwort1>
+            <falscheAntwort2>S</falscheAntwort2>
+            <falscheAntwort3>U</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt v o r dem Q?</fragenText>
+            <richtigeAntwort>P</richtigeAntwort>
+            <falscheAntwort1>S</falscheAntwort1>
+            <falscheAntwort2>R</falscheAntwort2>
+            <falscheAntwort3>O</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt v o r dem P?</fragenText>
+            <richtigeAntwort>O</richtigeAntwort>
+            <falscheAntwort1>U</falscheAntwort1>
+            <falscheAntwort2>Q</falscheAntwort2>
+            <falscheAntwort3>E</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt v o r dem O?</fragenText>
+            <richtigeAntwort>N</richtigeAntwort>
+            <falscheAntwort1>Q</falscheAntwort1>
+            <falscheAntwort2>P</falscheAntwort2>
+            <falscheAntwort3>R</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt v o r dem N?</fragenText>
+            <richtigeAntwort>M</richtigeAntwort>
+            <falscheAntwort1>P</falscheAntwort1>
+            <falscheAntwort2>O</falscheAntwort2>
+            <falscheAntwort3>K</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt v o r dem M?</fragenText>
+            <richtigeAntwort>L</richtigeAntwort>
+            <falscheAntwort1>K</falscheAntwort1>
+            <falscheAntwort2>N</falscheAntwort2>
+            <falscheAntwort3>H</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt v o r dem L?</fragenText>
+            <richtigeAntwort>K</richtigeAntwort>
+            <falscheAntwort1>N</falscheAntwort1>
+            <falscheAntwort2>M</falscheAntwort2>
+            <falscheAntwort3>G</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt v o r dem K?</fragenText>
+            <richtigeAntwort>J</richtigeAntwort>
+            <falscheAntwort1>M</falscheAntwort1>
+            <falscheAntwort2>L</falscheAntwort2>
+            <falscheAntwort3>S</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt v o r dem J?</fragenText>
+            <richtigeAntwort>I</richtigeAntwort>
+            <falscheAntwort1>K</falscheAntwort1>
+            <falscheAntwort2>H</falscheAntwort2>
+            <falscheAntwort3>C</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt v o r dem I?</fragenText>
+            <richtigeAntwort>H</richtigeAntwort>
+            <falscheAntwort1>G</falscheAntwort1>
+            <falscheAntwort2>J</falscheAntwort2>
+            <falscheAntwort3>T</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt v o r dem H?</fragenText>
+            <richtigeAntwort>G</richtigeAntwort>
+            <falscheAntwort1>Z</falscheAntwort1>
+            <falscheAntwort2>I</falscheAntwort2>
+            <falscheAntwort3>D</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt v o r dem G?</fragenText>
+            <richtigeAntwort>F</richtigeAntwort>
+            <falscheAntwort1>T</falscheAntwort1>
+            <falscheAntwort2>H</falscheAntwort2>
+            <falscheAntwort3>D</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt v o r dem F?</fragenText>
+            <richtigeAntwort>E</richtigeAntwort>
+            <falscheAntwort1>H</falscheAntwort1>
+            <falscheAntwort2>G</falscheAntwort2>
+            <falscheAntwort3>U</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt v o r dem E?</fragenText>
+            <richtigeAntwort>D</richtigeAntwort>
+            <falscheAntwort1>C</falscheAntwort1>
+            <falscheAntwort2>F</falscheAntwort2>
+            <falscheAntwort3>W</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt v o r dem D?</fragenText>
+            <richtigeAntwort>C</richtigeAntwort>
+            <falscheAntwort1>A</falscheAntwort1>
+            <falscheAntwort2>E</falscheAntwort2>
+            <falscheAntwort3>B</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt v o r dem C?</fragenText>
+            <richtigeAntwort>B</richtigeAntwort>
+            <falscheAntwort1>A</falscheAntwort1>
+            <falscheAntwort2>D</falscheAntwort2>
+            <falscheAntwort3>S</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt v o r dem B?</fragenText>
+            <richtigeAntwort>A</richtigeAntwort>
+            <falscheAntwort1>D</falscheAntwort1>
+            <falscheAntwort2>C</falscheAntwort2>
+            <falscheAntwort3>E</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt nach dem Y?</fragenText>
+            <richtigeAntwort>Z</richtigeAntwort>
+            <falscheAntwort1>C</falscheAntwort1>
+            <falscheAntwort2>X</falscheAntwort2>
+            <falscheAntwort3>A</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt nach dem X?</fragenText>
+            <richtigeAntwort>Y</richtigeAntwort>
+            <falscheAntwort1>W</falscheAntwort1>
+            <falscheAntwort2>Z</falscheAntwort2>
+            <falscheAntwort3>V</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt nach dem W?</fragenText>
+            <richtigeAntwort>X</richtigeAntwort>
+            <falscheAntwort1>O</falscheAntwort1>
+            <falscheAntwort2>Y</falscheAntwort2>
+            <falscheAntwort3/>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt nach dem V?</fragenText>
+            <richtigeAntwort>W</richtigeAntwort>
+            <falscheAntwort1>Y</falscheAntwort1>
+            <falscheAntwort2>X</falscheAntwort2>
+            <falscheAntwort3>U</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt nach dem U?</fragenText>
+            <richtigeAntwort>V</richtigeAntwort>
+            <falscheAntwort1>R</falscheAntwort1>
+            <falscheAntwort2>W</falscheAntwort2>
+            <falscheAntwort3>T</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt nach dem T?</fragenText>
+            <richtigeAntwort>U</richtigeAntwort>
+            <falscheAntwort1>R</falscheAntwort1>
+            <falscheAntwort2>V</falscheAntwort2>
+            <falscheAntwort3>S</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt nach dem S?</fragenText>
+            <richtigeAntwort>T</richtigeAntwort>
+            <falscheAntwort1>R</falscheAntwort1>
+            <falscheAntwort2>U</falscheAntwort2>
+            <falscheAntwort3>V</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt nach dem R?</fragenText>
+            <richtigeAntwort>S</richtigeAntwort>
+            <falscheAntwort1>Q</falscheAntwort1>
+            <falscheAntwort2>T</falscheAntwort2>
+            <falscheAntwort3>P</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt nach dem Q?</fragenText>
+            <richtigeAntwort>R</richtigeAntwort>
+            <falscheAntwort1>P</falscheAntwort1>
+            <falscheAntwort2>O</falscheAntwort2>
+            <falscheAntwort3>S</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt nach dem P?</fragenText>
+            <richtigeAntwort>Q</richtigeAntwort>
+            <falscheAntwort1>U</falscheAntwort1>
+            <falscheAntwort2>O</falscheAntwort2>
+            <falscheAntwort3>E</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt nach dem O?</fragenText>
+            <richtigeAntwort>P</richtigeAntwort>
+            <falscheAntwort1>F</falscheAntwort1>
+            <falscheAntwort2>Q</falscheAntwort2>
+            <falscheAntwort3>L</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt nach dem N?</fragenText>
+            <richtigeAntwort>O</richtigeAntwort>
+            <falscheAntwort1>M</falscheAntwort1>
+            <falscheAntwort2>P</falscheAntwort2>
+            <falscheAntwort3>K</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt nach dem M?</fragenText>
+            <richtigeAntwort>N</richtigeAntwort>
+            <falscheAntwort1>O</falscheAntwort1>
+            <falscheAntwort2>L</falscheAntwort2>
+            <falscheAntwort3>H</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt nach dem L?</fragenText>
+            <richtigeAntwort>M</richtigeAntwort>
+            <falscheAntwort1>K</falscheAntwort1>
+            <falscheAntwort2>N</falscheAntwort2>
+            <falscheAntwort3>F</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt nach dem K?</fragenText>
+            <richtigeAntwort>L</richtigeAntwort>
+            <falscheAntwort1>J</falscheAntwort1>
+            <falscheAntwort2>M</falscheAntwort2>
+            <falscheAntwort3>U</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt nach dem J?</fragenText>
+            <richtigeAntwort>K</richtigeAntwort>
+            <falscheAntwort1>M</falscheAntwort1>
+            <falscheAntwort2>L</falscheAntwort2>
+            <falscheAntwort3>I</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt nach dem I?</fragenText>
+            <richtigeAntwort>J</richtigeAntwort>
+            <falscheAntwort1>H</falscheAntwort1>
+            <falscheAntwort2>K</falscheAntwort2>
+            <falscheAntwort3>G</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt nach dem H?</fragenText>
+            <richtigeAntwort>I</richtigeAntwort>
+            <falscheAntwort1>G</falscheAntwort1>
+            <falscheAntwort2>J</falscheAntwort2>
+            <falscheAntwort3>Z</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt nach dem G?</fragenText>
+            <richtigeAntwort>H</richtigeAntwort>
+            <falscheAntwort1>F</falscheAntwort1>
+            <falscheAntwort2>I</falscheAntwort2>
+            <falscheAntwort3>R</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt nach dem F?</fragenText>
+            <richtigeAntwort>G</richtigeAntwort>
+            <falscheAntwort1>D</falscheAntwort1>
+            <falscheAntwort2>E</falscheAntwort2>
+            <falscheAntwort3>H</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt nach dem E?</fragenText>
+            <richtigeAntwort>F</richtigeAntwort>
+            <falscheAntwort1>C</falscheAntwort1>
+            <falscheAntwort2>G</falscheAntwort2>
+            <falscheAntwort3>B</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt nach dem D?</fragenText>
+            <richtigeAntwort>E</richtigeAntwort>
+            <falscheAntwort1>C</falscheAntwort1>
+            <falscheAntwort2>F</falscheAntwort2>
+            <falscheAntwort3>G</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt nach dem C?</fragenText>
+            <richtigeAntwort>D</richtigeAntwort>
+            <falscheAntwort1>B</falscheAntwort1>
+            <falscheAntwort2>E</falscheAntwort2>
+            <falscheAntwort3>A</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt nach dem B?</fragenText>
+            <richtigeAntwort>C</richtigeAntwort>
+            <falscheAntwort1>A</falscheAntwort1>
+            <falscheAntwort2>F</falscheAntwort2>
+            <falscheAntwort3>Z</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe kommt nach dem A?</fragenText>
+            <richtigeAntwort>B</richtigeAntwort>
+            <falscheAntwort1>D</falscheAntwort1>
+            <falscheAntwort2>C</falscheAntwort2>
+            <falscheAntwort3>T</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe ist ein Mitlaut (Konsonant)?</fragenText>
+            <richtigeAntwort>B</richtigeAntwort>
+            <falscheAntwort1>I</falscheAntwort1>
+            <falscheAntwort2>U</falscheAntwort2>
+            <falscheAntwort3>O</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe ist ein Mitlaut (Konsonant)?</fragenText>
+            <richtigeAntwort>R</richtigeAntwort>
+            <falscheAntwort1>A</falscheAntwort1>
+            <falscheAntwort2>E</falscheAntwort2>
+            <falscheAntwort3>O</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe ist ein Selbstlaut (Vokal)?</fragenText>
+            <richtigeAntwort>U</richtigeAntwort>
+            <falscheAntwort1>H</falscheAntwort1>
+            <falscheAntwort2>Q</falscheAntwort2>
+            <falscheAntwort3>J</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe ist ein Selbstlaut (Vokal)?</fragenText>
+            <richtigeAntwort>O</richtigeAntwort>
+            <falscheAntwort1>B</falscheAntwort1>
+            <falscheAntwort2>G</falscheAntwort2>
+            <falscheAntwort3>M</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe ist ein Selbstlaut (Vokal)?</fragenText>
+            <richtigeAntwort>I</richtigeAntwort>
+            <falscheAntwort1>S</falscheAntwort1>
+            <falscheAntwort2>F</falscheAntwort2>
+            <falscheAntwort3>C</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe ist ein Selbstlaut (Vokal)?</fragenText>
+            <richtigeAntwort>E</richtigeAntwort>
+            <falscheAntwort1>H</falscheAntwort1>
+            <falscheAntwort2>D</falscheAntwort2>
+            <falscheAntwort3>P</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Buchstabe ist ein Selbstlaut (Vokal)?</fragenText>
+            <richtigeAntwort>A</richtigeAntwort>
+            <falscheAntwort1>R</falscheAntwort1>
+            <falscheAntwort2>T</falscheAntwort2>
+            <falscheAntwort3>N</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Von welchem Buchstaben gibt es k e i n e n großen Buchstaben?</fragenText>
+            <richtigeAntwort>ß</richtigeAntwort>
+            <falscheAntwort1>z</falscheAntwort1>
+            <falscheAntwort2>s</falscheAntwort2>
+            <falscheAntwort3>y</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der 26. Buchstabe des Alphabets?</fragenText>
+            <richtigeAntwort>Z</richtigeAntwort>
+            <falscheAntwort1>X</falscheAntwort1>
+            <falscheAntwort2>G</falscheAntwort2>
+            <falscheAntwort3>Y</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der 25. Buchstabe des Alphabets?</fragenText>
+            <richtigeAntwort>Y</richtigeAntwort>
+            <falscheAntwort1>R</falscheAntwort1>
+            <falscheAntwort2>X</falscheAntwort2>
+            <falscheAntwort3>T</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der 24. Buchstabe des Alphabets?</fragenText>
+            <richtigeAntwort>X</richtigeAntwort>
+            <falscheAntwort1>Z</falscheAntwort1>
+            <falscheAntwort2>Y</falscheAntwort2>
+            <falscheAntwort3>C</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der 23. Buchstabe des Alphabets?</fragenText>
+            <richtigeAntwort>W</richtigeAntwort>
+            <falscheAntwort1>U</falscheAntwort1>
+            <falscheAntwort2>V</falscheAntwort2>
+            <falscheAntwort3>T</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der 22. Buchstabe des Alphabets?</fragenText>
+            <richtigeAntwort>V</richtigeAntwort>
+            <falscheAntwort1>X</falscheAntwort1>
+            <falscheAntwort2>W</falscheAntwort2>
+            <falscheAntwort3>Y</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der 21. Buchstabe des Alphabets?</fragenText>
+            <richtigeAntwort>U</richtigeAntwort>
+            <falscheAntwort1>W</falscheAntwort1>
+            <falscheAntwort2>V</falscheAntwort2>
+            <falscheAntwort3>T</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der 20. Buchstabe des Alphabets?</fragenText>
+            <richtigeAntwort>T</richtigeAntwort>
+            <falscheAntwort1>S</falscheAntwort1>
+            <falscheAntwort2>R</falscheAntwort2>
+            <falscheAntwort3>U</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der 19. Buchstabe des Alphabets?</fragenText>
+            <richtigeAntwort>S</richtigeAntwort>
+            <falscheAntwort1>T</falscheAntwort1>
+            <falscheAntwort2>R</falscheAntwort2>
+            <falscheAntwort3>Q</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der 18. Buchstabe des Alphabets?</fragenText>
+            <richtigeAntwort>R</richtigeAntwort>
+            <falscheAntwort1>T</falscheAntwort1>
+            <falscheAntwort2>S</falscheAntwort2>
+            <falscheAntwort3>Q</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der 17. Buchstabe des Alphabets?</fragenText>
+            <richtigeAntwort>Q</richtigeAntwort>
+            <falscheAntwort1>O</falscheAntwort1>
+            <falscheAntwort2>R</falscheAntwort2>
+            <falscheAntwort3>P</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der 16. Buchstabe des Alphabets?</fragenText>
+            <richtigeAntwort>P</richtigeAntwort>
+            <falscheAntwort1>Q</falscheAntwort1>
+            <falscheAntwort2>O</falscheAntwort2>
+            <falscheAntwort3>R</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der 15. Buchstabe des Alphabets?</fragenText>
+            <richtigeAntwort>O</richtigeAntwort>
+            <falscheAntwort1>Q</falscheAntwort1>
+            <falscheAntwort2>P</falscheAntwort2>
+            <falscheAntwort3>N</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der 14. Buchstabe des Alphabets?</fragenText>
+            <richtigeAntwort>N</richtigeAntwort>
+            <falscheAntwort1>O</falscheAntwort1>
+            <falscheAntwort2>M</falscheAntwort2>
+            <falscheAntwort3>L</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der 13. Buchstabe des Alphabets?</fragenText>
+            <richtigeAntwort>M</richtigeAntwort>
+            <falscheAntwort1>O</falscheAntwort1>
+            <falscheAntwort2>N</falscheAntwort2>
+            <falscheAntwort3>L</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der 12. Buchstabe des Alphabets?</fragenText>
+            <richtigeAntwort>L</richtigeAntwort>
+            <falscheAntwort1>K</falscheAntwort1>
+            <falscheAntwort2>M</falscheAntwort2>
+            <falscheAntwort3>H</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der 11. Buchstabe des Alphabets?</fragenText>
+            <richtigeAntwort>K</richtigeAntwort>
+            <falscheAntwort1>M</falscheAntwort1>
+            <falscheAntwort2>L</falscheAntwort2>
+            <falscheAntwort3>J</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der 10. Buchstabe des Alphabets?</fragenText>
+            <richtigeAntwort>J</richtigeAntwort>
+            <falscheAntwort1>L</falscheAntwort1>
+            <falscheAntwort2>K</falscheAntwort2>
+            <falscheAntwort3>I</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der 9. Buchstabe des Alphabets?</fragenText>
+            <richtigeAntwort>I</richtigeAntwort>
+            <falscheAntwort1>L</falscheAntwort1>
+            <falscheAntwort2>J</falscheAntwort2>
+            <falscheAntwort3>H</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der 8. Buchstabe des Alphabets?</fragenText>
+            <richtigeAntwort>H</richtigeAntwort>
+            <falscheAntwort1>G</falscheAntwort1>
+            <falscheAntwort2>I</falscheAntwort2>
+            <falscheAntwort3>F</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der 7. Buchstabe des Alphabets?</fragenText>
+            <richtigeAntwort>G</richtigeAntwort>
+            <falscheAntwort1>I</falscheAntwort1>
+            <falscheAntwort2>H</falscheAntwort2>
+            <falscheAntwort3>F</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der 6. Buchstabe des Alphabets?</fragenText>
+            <richtigeAntwort>F</richtigeAntwort>
+            <falscheAntwort1>E</falscheAntwort1>
+            <falscheAntwort2>G</falscheAntwort2>
+            <falscheAntwort3>D</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der fünfte Buchstabe des Alphabets?</fragenText>
+            <richtigeAntwort>E</richtigeAntwort>
+            <falscheAntwort1>D</falscheAntwort1>
+            <falscheAntwort2>F</falscheAntwort2>
+            <falscheAntwort3>G</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der vierte Buchstabe des Alphabets?</fragenText>
+            <richtigeAntwort>D</richtigeAntwort>
+            <falscheAntwort1>C</falscheAntwort1>
+            <falscheAntwort2>E</falscheAntwort2>
+            <falscheAntwort3>B</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der dritte Buchstabe des Alphabets?</fragenText>
+            <richtigeAntwort>C</richtigeAntwort>
+            <falscheAntwort1>B</falscheAntwort1>
+            <falscheAntwort2>D</falscheAntwort2>
+            <falscheAntwort3>A</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der zweite Buchstabe des Alphabets?</fragenText>
+            <richtigeAntwort>B</richtigeAntwort>
+            <falscheAntwort1>D</falscheAntwort1>
+            <falscheAntwort2>C</falscheAntwort2>
+            <falscheAntwort3>E</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>3</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der letzte Buchstabe des Alphabets?</fragenText>
+            <richtigeAntwort>Z</richtigeAntwort>
+            <falscheAntwort1>X</falscheAntwort1>
+            <falscheAntwort2>Y</falscheAntwort2>
+            <falscheAntwort3>A</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>2</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der erste Buchstabe des Alphabets?</fragenText>
+            <richtigeAntwort>A</richtigeAntwort>
+            <falscheAntwort1>Z</falscheAntwort1>
+            <falscheAntwort2>B</falscheAntwort2>
+            <falscheAntwort3>G</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>2</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

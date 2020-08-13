@@ -1,0 +1,1069 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Mathe</fach>
+    <thema>Umrechnung von Raummaßen</thema>
+    <autor>A. Bergkemper, Stand 9.7.02</autor>
+    <anzahlFragen>106</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText/>
+            <richtigeAntwort/>
+            <falscheAntwort1/>
+            <falscheAntwort2/>
+            <falscheAntwort3/>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>15</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>#leicht (bis 1000 Euro) #mittel (2000 bis 32000 Euro) #schwer (64000 - 500000 Euro)</fragenText>
+            <richtigeAntwort/>
+            <falscheAntwort1/>
+            <falscheAntwort2/>
+            <falscheAntwort3/>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>15</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>#leicht (bis 1000 Euro)</fragenText>
+            <richtigeAntwort/>
+            <falscheAntwort1/>
+            <falscheAntwort2/>
+            <falscheAntwort3/>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>15</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>1 cm³</fragenText>
+            <richtigeAntwort>1000 mm³</richtigeAntwort>
+            <falscheAntwort1>100 mm³</falscheAntwort1>
+            <falscheAntwort2>0,1 mm³</falscheAntwort2>
+            <falscheAntwort3>10 mm³</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>2 m³</fragenText>
+            <richtigeAntwort>2000 dm³</richtigeAntwort>
+            <falscheAntwort1>200 dm³</falscheAntwort1>
+            <falscheAntwort2>0,2 dm³</falscheAntwort2>
+            <falscheAntwort3>20 dm³</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>1 m³</fragenText>
+            <richtigeAntwort>1000 dm³</richtigeAntwort>
+            <falscheAntwort1>100 dm³</falscheAntwort1>
+            <falscheAntwort2>0,1 dm³</falscheAntwort2>
+            <falscheAntwort3>10 dm³</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>3 mm³</fragenText>
+            <richtigeAntwort>0,003 cm³</richtigeAntwort>
+            <falscheAntwort1>300 cm³</falscheAntwort1>
+            <falscheAntwort2>0,03 cm³</falscheAntwort2>
+            <falscheAntwort3>30 cm³</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>1 mm³</fragenText>
+            <richtigeAntwort>0,001 cm³</richtigeAntwort>
+            <falscheAntwort1>100 cm³</falscheAntwort1>
+            <falscheAntwort2>0,01 cm³</falscheAntwort2>
+            <falscheAntwort3>10 cm³</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>4 cm³</fragenText>
+            <richtigeAntwort>0,004 dm³</richtigeAntwort>
+            <falscheAntwort1>0,04 dm³</falscheAntwort1>
+            <falscheAntwort2>0,04 dm³</falscheAntwort2>
+            <falscheAntwort3>400 dm³</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>1 cm³</fragenText>
+            <richtigeAntwort>0,001 dm³</richtigeAntwort>
+            <falscheAntwort1>0,01 dm³</falscheAntwort1>
+            <falscheAntwort2>0,1 dm³</falscheAntwort2>
+            <falscheAntwort3>100 dm³</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>5 dm³</fragenText>
+            <richtigeAntwort>0,005 m³</richtigeAntwort>
+            <falscheAntwort1>50 m³</falscheAntwort1>
+            <falscheAntwort2>0,05 m³</falscheAntwort2>
+            <falscheAntwort3>500 m³</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>1 dm³</fragenText>
+            <richtigeAntwort>0,001 m³</richtigeAntwort>
+            <falscheAntwort1>10 m³</falscheAntwort1>
+            <falscheAntwort2>0,01 m³</falscheAntwort2>
+            <falscheAntwort3>100 m³</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>2 dm³</fragenText>
+            <richtigeAntwort>2000 cm³</richtigeAntwort>
+            <falscheAntwort1>0,2 cm³</falscheAntwort1>
+            <falscheAntwort2>200 cm³</falscheAntwort2>
+            <falscheAntwort3>0,02 cm³</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>1 dm³</fragenText>
+            <richtigeAntwort>1000 cm³</richtigeAntwort>
+            <falscheAntwort1>0,01 cm³</falscheAntwort1>
+            <falscheAntwort2>100 cm³</falscheAntwort2>
+            <falscheAntwort3>0,001 cm³</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>7 m³</fragenText>
+            <richtigeAntwort>7.000.000 cm³</richtigeAntwort>
+            <falscheAntwort1>70.000 cm³</falscheAntwort1>
+            <falscheAntwort2>700.000 cm³</falscheAntwort2>
+            <falscheAntwort3>7.000 cm³</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>1 m³</fragenText>
+            <richtigeAntwort>1.000.000 cm³</richtigeAntwort>
+            <falscheAntwort1>10.000 cm³</falscheAntwort1>
+            <falscheAntwort2>100.000 cm³</falscheAntwort2>
+            <falscheAntwort3>1.000 cm³</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>4000 cm³ =</fragenText>
+            <richtigeAntwort>4 dm³</richtigeAntwort>
+            <falscheAntwort1>40 dm³</falscheAntwort1>
+            <falscheAntwort2>0,4 dm³</falscheAntwort2>
+            <falscheAntwort3>0,04 dm³</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>2000 cm³ =</fragenText>
+            <richtigeAntwort>2 dm³</richtigeAntwort>
+            <falscheAntwort1>20 dm³</falscheAntwort1>
+            <falscheAntwort2>0,2 dm³</falscheAntwort2>
+            <falscheAntwort3>0,02 dm³</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>53 dm³</fragenText>
+            <richtigeAntwort>53.000 cm³</richtigeAntwort>
+            <falscheAntwort1>5,3 cm³</falscheAntwort1>
+            <falscheAntwort2>530 cm³</falscheAntwort2>
+            <falscheAntwort3>0,53 cm³</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>23 dm³</fragenText>
+            <richtigeAntwort>23.000 cm³</richtigeAntwort>
+            <falscheAntwort1>2,3 cm³</falscheAntwort1>
+            <falscheAntwort2>2.300 cm³</falscheAntwort2>
+            <falscheAntwort3>0,23 cm³</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>846 cm³</fragenText>
+            <richtigeAntwort>0,846 dm³</richtigeAntwort>
+            <falscheAntwort1>8,46 dm³</falscheAntwort1>
+            <falscheAntwort2>84,6 dm³</falscheAntwort2>
+            <falscheAntwort3>8460 dm³</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>546 cm³</fragenText>
+            <richtigeAntwort>0,546 dm³</richtigeAntwort>
+            <falscheAntwort1>5,46 dm³</falscheAntwort1>
+            <falscheAntwort2>54,6 dm³</falscheAntwort2>
+            <falscheAntwort3>5460 dm³</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>182 mm³</fragenText>
+            <richtigeAntwort>0,182 cm³</richtigeAntwort>
+            <falscheAntwort1>1,82 cm³</falscheAntwort1>
+            <falscheAntwort2>1820 cm³</falscheAntwort2>
+            <falscheAntwort3>18,2 cm³</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>982 mm³</fragenText>
+            <richtigeAntwort>0,982 cm³</richtigeAntwort>
+            <falscheAntwort1>9,82 cm³</falscheAntwort1>
+            <falscheAntwort2>9820 cm³</falscheAntwort2>
+            <falscheAntwort3>98,2 cm³</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,22 dm³</fragenText>
+            <richtigeAntwort>220 cm³</richtigeAntwort>
+            <falscheAntwort1>22 cm³</falscheAntwort1>
+            <falscheAntwort2>2,2 cm³</falscheAntwort2>
+            <falscheAntwort3>0,022 cm³</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,28 dm³</fragenText>
+            <richtigeAntwort>280 cm³</richtigeAntwort>
+            <falscheAntwort1>28 cm³</falscheAntwort1>
+            <falscheAntwort2>2,8 cm³</falscheAntwort2>
+            <falscheAntwort3>0,028 cm³</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>2589 mm³</fragenText>
+            <richtigeAntwort>2,589 cm³</richtigeAntwort>
+            <falscheAntwort1>25,89 cm³</falscheAntwort1>
+            <falscheAntwort2>258,9 cm³</falscheAntwort2>
+            <falscheAntwort3>0,2589 cm³</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>4589 mm³</fragenText>
+            <richtigeAntwort>4,589 cm³</richtigeAntwort>
+            <falscheAntwort1>45,89 cm³</falscheAntwort1>
+            <falscheAntwort2>458,9 cm³</falscheAntwort2>
+            <falscheAntwort3>0,4589 cm³</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>132 cm³</fragenText>
+            <richtigeAntwort>0,132 dm³</richtigeAntwort>
+            <falscheAntwort1>1,32 dm³</falscheAntwort1>
+            <falscheAntwort2>13,2 dm³</falscheAntwort2>
+            <falscheAntwort3>1320 dm³</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>422 cm³</fragenText>
+            <richtigeAntwort>0,422 dm³</richtigeAntwort>
+            <falscheAntwort1>4,22 dm³</falscheAntwort1>
+            <falscheAntwort2>42,2 dm³</falscheAntwort2>
+            <falscheAntwort3>4220 dm³</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>8 m³</fragenText>
+            <richtigeAntwort>8.000.000 cm³</richtigeAntwort>
+            <falscheAntwort1>80.000 cm³</falscheAntwort1>
+            <falscheAntwort2>800.000 cm³</falscheAntwort2>
+            <falscheAntwort3>8.000 cm³</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>2 m³</fragenText>
+            <richtigeAntwort>2.000.000 cm³</richtigeAntwort>
+            <falscheAntwort1>20.000 cm³</falscheAntwort1>
+            <falscheAntwort2>200.000 cm³</falscheAntwort2>
+            <falscheAntwort3>2.000 cm³</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>5.233 mm³</fragenText>
+            <richtigeAntwort>5,233 cm³</richtigeAntwort>
+            <falscheAntwort1>0,5233 cm³</falscheAntwort1>
+            <falscheAntwort2>523,3 cm³</falscheAntwort2>
+            <falscheAntwort3>52.330 cm³</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>7.233 mm³</fragenText>
+            <richtigeAntwort>7,233 cm³</richtigeAntwort>
+            <falscheAntwort1>0,7233 cm³</falscheAntwort1>
+            <falscheAntwort2>723,3 cm³</falscheAntwort2>
+            <falscheAntwort3>72.330 cm³</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,0426 m³</fragenText>
+            <richtigeAntwort>42,6 dm³</richtigeAntwort>
+            <falscheAntwort1>4,26 dm³</falscheAntwort1>
+            <falscheAntwort2>0,426 dm³</falscheAntwort2>
+            <falscheAntwort3>426 dm³</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,0456 m³</fragenText>
+            <richtigeAntwort>45,6 dm³</richtigeAntwort>
+            <falscheAntwort1>4,56 dm³</falscheAntwort1>
+            <falscheAntwort2>0,456 dm³</falscheAntwort2>
+            <falscheAntwort3>456 dm³</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>4,5 dm³</fragenText>
+            <richtigeAntwort>0,0045 m³</richtigeAntwort>
+            <falscheAntwort1>0,045 m³</falscheAntwort1>
+            <falscheAntwort2>0,45 m³</falscheAntwort2>
+            <falscheAntwort3>0,450 m³</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>3,5 dm³</fragenText>
+            <richtigeAntwort>0,0035 m³</richtigeAntwort>
+            <falscheAntwort1>0,035 m³</falscheAntwort1>
+            <falscheAntwort2>0,35 m³</falscheAntwort2>
+            <falscheAntwort3>0,350 m³</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>579 cm³</fragenText>
+            <richtigeAntwort>579.000 mm³</richtigeAntwort>
+            <falscheAntwort1>57.900 mm³</falscheAntwort1>
+            <falscheAntwort2>57,9 mm³</falscheAntwort2>
+            <falscheAntwort3>57,90 mm³</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>5,02 dm³</fragenText>
+            <richtigeAntwort>5020 cm³</richtigeAntwort>
+            <falscheAntwort1>0,5020 cm³</falscheAntwort1>
+            <falscheAntwort2>50,20 cm³</falscheAntwort2>
+            <falscheAntwort3>502,0 cm³</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>728,4 mm³</fragenText>
+            <richtigeAntwort>0,7284 cm³</richtigeAntwort>
+            <falscheAntwort1>72,840 cm³</falscheAntwort1>
+            <falscheAntwort2>72,84 cm³</falscheAntwort2>
+            <falscheAntwort3>7,284 cm³</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>128,4 mm³</fragenText>
+            <richtigeAntwort>0,1284 cm³</richtigeAntwort>
+            <falscheAntwort1>12,840 cm³</falscheAntwort1>
+            <falscheAntwort2>12,84 cm³</falscheAntwort2>
+            <falscheAntwort3>1,284 cm³</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,177 cm³</fragenText>
+            <richtigeAntwort>0,000177 dm³</richtigeAntwort>
+            <falscheAntwort1>177 dm³</falscheAntwort1>
+            <falscheAntwort2>0,00177 dm³</falscheAntwort2>
+            <falscheAntwort3>1770 dm³</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,377 cm³</fragenText>
+            <richtigeAntwort>0,000377 dm³</richtigeAntwort>
+            <falscheAntwort1>377 dm³</falscheAntwort1>
+            <falscheAntwort2>0,00377 dm³</falscheAntwort2>
+            <falscheAntwort3>3770 dm³</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>#mittel (2000 - 320000 Euro)</fragenText>
+            <richtigeAntwort/>
+            <falscheAntwort1/>
+            <falscheAntwort2/>
+            <falscheAntwort3/>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>15</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,0279 dm³</fragenText>
+            <richtigeAntwort>27,9 cm³</richtigeAntwort>
+            <falscheAntwort1>2,79 cm³</falscheAntwort1>
+            <falscheAntwort2>0,279 cm³</falscheAntwort2>
+            <falscheAntwort3>279 cm³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,0479 dm³</fragenText>
+            <richtigeAntwort>47,9 cm³</richtigeAntwort>
+            <falscheAntwort1>4,79 cm³</falscheAntwort1>
+            <falscheAntwort2>0,479 cm³</falscheAntwort2>
+            <falscheAntwort3>479 cm³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>3 m³ =</fragenText>
+            <richtigeAntwort>3.000.000 cm³</richtigeAntwort>
+            <falscheAntwort1>30.000 cm³</falscheAntwort1>
+            <falscheAntwort2>3.000 cm³</falscheAntwort2>
+            <falscheAntwort3>300.000 cm³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>19,3 cm³</fragenText>
+            <richtigeAntwort>19.300 mm³</richtigeAntwort>
+            <falscheAntwort1>193 mm³</falscheAntwort1>
+            <falscheAntwort2>1.930 mm³</falscheAntwort2>
+            <falscheAntwort3>0,193 mm³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>14,3 cm³</fragenText>
+            <richtigeAntwort>14.300 mm³</richtigeAntwort>
+            <falscheAntwort1>143 mm³</falscheAntwort1>
+            <falscheAntwort2>1.430 mm³</falscheAntwort2>
+            <falscheAntwort3>0,0143 mm³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,0725 m³</fragenText>
+            <richtigeAntwort>72,5 dm³</richtigeAntwort>
+            <falscheAntwort1>7,25 dm³</falscheAntwort1>
+            <falscheAntwort2>0,725 dm³</falscheAntwort2>
+            <falscheAntwort3>725 dm³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,0225 m³</fragenText>
+            <richtigeAntwort>22,5 dm³</richtigeAntwort>
+            <falscheAntwort1>2,25 dm³</falscheAntwort1>
+            <falscheAntwort2>0,225 dm³</falscheAntwort2>
+            <falscheAntwort3>225 dm³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>42 m³</fragenText>
+            <richtigeAntwort>42.000.000 cm³</richtigeAntwort>
+            <falscheAntwort1>0,000042 cm³</falscheAntwort1>
+            <falscheAntwort2>42.000 cm³</falscheAntwort2>
+            <falscheAntwort3>0,042 cm³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>22 m³</fragenText>
+            <richtigeAntwort>22.000.000 cm³</richtigeAntwort>
+            <falscheAntwort1>0,000022 cm³</falscheAntwort1>
+            <falscheAntwort2>22.000 cm³</falscheAntwort2>
+            <falscheAntwort3>0,022 cm³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>6,3 dm³</fragenText>
+            <richtigeAntwort>63.000.000 mm³</richtigeAntwort>
+            <falscheAntwort1>6.300 mm³</falscheAntwort1>
+            <falscheAntwort2>63.000 mm³</falscheAntwort2>
+            <falscheAntwort3>0,063 mm³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>3,3 dm³</fragenText>
+            <richtigeAntwort>3.300.000 mm³</richtigeAntwort>
+            <falscheAntwort1>3.300 mm³</falscheAntwort1>
+            <falscheAntwort2>330.000 mm³</falscheAntwort2>
+            <falscheAntwort3>0,033 mm³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,578 dm³</fragenText>
+            <richtigeAntwort>0,000578 m³</richtigeAntwort>
+            <falscheAntwort1>578 m³</falscheAntwort1>
+            <falscheAntwort2>0,00578 m³</falscheAntwort2>
+            <falscheAntwort3>578000 m³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,278 dm³</fragenText>
+            <richtigeAntwort>0,000278 m³</richtigeAntwort>
+            <falscheAntwort1>278 m³</falscheAntwort1>
+            <falscheAntwort2>0,00278 m³</falscheAntwort2>
+            <falscheAntwort3>278000 m³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>704 cm³</fragenText>
+            <richtigeAntwort>0,000704 m³</richtigeAntwort>
+            <falscheAntwort1>704 m³</falscheAntwort1>
+            <falscheAntwort2>0,704 m³</falscheAntwort2>
+            <falscheAntwort3>704000 m³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>794 cm³</fragenText>
+            <richtigeAntwort>0,000794 m³</richtigeAntwort>
+            <falscheAntwort1>794.000 m³</falscheAntwort1>
+            <falscheAntwort2>0,794 m³</falscheAntwort2>
+            <falscheAntwort3>79,4 m³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>2533 cm³</fragenText>
+            <richtigeAntwort>0,002533 m³</richtigeAntwort>
+            <falscheAntwort1>2,533 m³</falscheAntwort1>
+            <falscheAntwort2>0,02533 m³</falscheAntwort2>
+            <falscheAntwort3>25,33 m³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>9533 cm³</fragenText>
+            <richtigeAntwort>0,009533 m³</richtigeAntwort>
+            <falscheAntwort1>9,533 m³</falscheAntwort1>
+            <falscheAntwort2>0,09533 m³</falscheAntwort2>
+            <falscheAntwort3>95,33 m³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>62.300 cm³</fragenText>
+            <richtigeAntwort>0,0623 m³</richtigeAntwort>
+            <falscheAntwort1>6,23 m³</falscheAntwort1>
+            <falscheAntwort2>62,3 m³</falscheAntwort2>
+            <falscheAntwort3>623 m³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>12.300 cm³</fragenText>
+            <richtigeAntwort>0,0123 m³</richtigeAntwort>
+            <falscheAntwort1>1,23 m³</falscheAntwort1>
+            <falscheAntwort2>12,3 m³</falscheAntwort2>
+            <falscheAntwort3>123 m³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>308 mm³</fragenText>
+            <richtigeAntwort>0,000308 dm³</richtigeAntwort>
+            <falscheAntwort1>0,00308 dm³</falscheAntwort1>
+            <falscheAntwort2>0,308 dm³</falscheAntwort2>
+            <falscheAntwort3>0,003080 dm³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>398 mm³</fragenText>
+            <richtigeAntwort>0,000398 dm³</richtigeAntwort>
+            <falscheAntwort1>0,00398 dm³</falscheAntwort1>
+            <falscheAntwort2>0,398 dm³</falscheAntwort2>
+            <falscheAntwort3>0,003980 dm³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>2.900 mm³</fragenText>
+            <richtigeAntwort>0,29 dm³</richtigeAntwort>
+            <falscheAntwort1>2,9 dm³</falscheAntwort1>
+            <falscheAntwort2>0,0029 dm³</falscheAntwort2>
+            <falscheAntwort3>29 dm³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>7900 mm³</fragenText>
+            <richtigeAntwort>0,0079 dm³</richtigeAntwort>
+            <falscheAntwort1>0,79 dm³</falscheAntwort1>
+            <falscheAntwort2>7,9 dm³</falscheAntwort2>
+            <falscheAntwort3>79 dm³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,16 dm³</fragenText>
+            <richtigeAntwort>160.000 mm³</richtigeAntwort>
+            <falscheAntwort1>160 mm³</falscheAntwort1>
+            <falscheAntwort2>0,000160 mm³</falscheAntwort2>
+            <falscheAntwort3>16 mm³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,56 dm³</fragenText>
+            <richtigeAntwort>5.600 mm³</richtigeAntwort>
+            <falscheAntwort1>560.000 mm³</falscheAntwort1>
+            <falscheAntwort2>560 mm³</falscheAntwort2>
+            <falscheAntwort3>56 mm³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>2,1 dm³</fragenText>
+            <richtigeAntwort>2.100.000 mm³</richtigeAntwort>
+            <falscheAntwort1>21.000 mm³</falscheAntwort1>
+            <falscheAntwort2>2.100 mm³</falscheAntwort2>
+            <falscheAntwort3>0,021 mm³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>6,1 dm³</fragenText>
+            <richtigeAntwort>6.100.000 mm³</richtigeAntwort>
+            <falscheAntwort1>61.000 mm³</falscheAntwort1>
+            <falscheAntwort2>6.100 mm³</falscheAntwort2>
+            <falscheAntwort3>0,061 mm³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,07 cm³</fragenText>
+            <richtigeAntwort>70 mm³</richtigeAntwort>
+            <falscheAntwort1>7 mm³</falscheAntwort1>
+            <falscheAntwort2>0,007 mm³</falscheAntwort2>
+            <falscheAntwort3>700 mm³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,02 cm³</fragenText>
+            <richtigeAntwort>20 mm³</richtigeAntwort>
+            <falscheAntwort1>2 mm³</falscheAntwort1>
+            <falscheAntwort2>0,002 mm³</falscheAntwort2>
+            <falscheAntwort3>200 mm³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,094 dm³</fragenText>
+            <richtigeAntwort>0,000094 m³</richtigeAntwort>
+            <falscheAntwort1>0,94 m³</falscheAntwort1>
+            <falscheAntwort2>9,4 m³</falscheAntwort2>
+            <falscheAntwort3>9,400 m³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,044 dm³</fragenText>
+            <richtigeAntwort>0,000044 m³</richtigeAntwort>
+            <falscheAntwort1>0,44 m³</falscheAntwort1>
+            <falscheAntwort2>4,4 m³</falscheAntwort2>
+            <falscheAntwort3>4,400 m³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>83,04 dm³</fragenText>
+            <richtigeAntwort>83.040.000 mm³</richtigeAntwort>
+            <falscheAntwort1>0,8304 mm³</falscheAntwort1>
+            <falscheAntwort2>83.040 mm³</falscheAntwort2>
+            <falscheAntwort3>0,008304 mm³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>23,04 dm³</fragenText>
+            <richtigeAntwort>23.040.000 mm³</richtigeAntwort>
+            <falscheAntwort1>0,2304 mm³</falscheAntwort1>
+            <falscheAntwort2>2.304 mm³</falscheAntwort2>
+            <falscheAntwort3>0,002304 mm³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,00416 m³</fragenText>
+            <richtigeAntwort>4.160 cm³</richtigeAntwort>
+            <falscheAntwort1>4,16 cm³</falscheAntwort1>
+            <falscheAntwort2>416 cm³</falscheAntwort2>
+            <falscheAntwort3>0,416 cm³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,00456 m³</fragenText>
+            <richtigeAntwort>4.560 cm³</richtigeAntwort>
+            <falscheAntwort1>4,56 cm³</falscheAntwort1>
+            <falscheAntwort2>456 cm³</falscheAntwort2>
+            <falscheAntwort3>0,456 cm³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,00073 dm³</fragenText>
+            <richtigeAntwort>730 mm³</richtigeAntwort>
+            <falscheAntwort1>7,3 mm³</falscheAntwort1>
+            <falscheAntwort2>0,73 mm³</falscheAntwort2>
+            <falscheAntwort3>73 mm³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,00033 dm³</fragenText>
+            <richtigeAntwort>330 mm³</richtigeAntwort>
+            <falscheAntwort1>3,3 mm³</falscheAntwort1>
+            <falscheAntwort2>0,33 mm³</falscheAntwort2>
+            <falscheAntwort3>33 mm³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>929 cm³</fragenText>
+            <richtigeAntwort>0,000929 m³</richtigeAntwort>
+            <falscheAntwort1>9,29 m³</falscheAntwort1>
+            <falscheAntwort2>0,929 m³</falscheAntwort2>
+            <falscheAntwort3>0,00929 m³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>429 cm³</fragenText>
+            <richtigeAntwort>0,000429 m³</richtigeAntwort>
+            <falscheAntwort1>4,29 m³</falscheAntwort1>
+            <falscheAntwort2>0,429 m³</falscheAntwort2>
+            <falscheAntwort3>0,00429 m³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,23 dm³</fragenText>
+            <richtigeAntwort>0,00023 m³</richtigeAntwort>
+            <falscheAntwort1>2,3 m³</falscheAntwort1>
+            <falscheAntwort2>0,0023 m³</falscheAntwort2>
+            <falscheAntwort3>23 m³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,83 dm³</fragenText>
+            <richtigeAntwort>0,00083 m³</richtigeAntwort>
+            <falscheAntwort1>8,3 m³</falscheAntwort1>
+            <falscheAntwort2>0,0083 m³</falscheAntwort2>
+            <falscheAntwort3>83 m³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>4260 mm³</fragenText>
+            <richtigeAntwort>0,00426 dm³</richtigeAntwort>
+            <falscheAntwort1>42,60 dm³</falscheAntwort1>
+            <falscheAntwort2>4,260 dm³</falscheAntwort2>
+            <falscheAntwort3>0,0426 dm³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>4960 mm³</fragenText>
+            <richtigeAntwort>0,00496 dm³</richtigeAntwort>
+            <falscheAntwort1>49,60 dm³</falscheAntwort1>
+            <falscheAntwort2>4,960 dm³</falscheAntwort2>
+            <falscheAntwort3>0,0496 dm³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,043 m³</fragenText>
+            <richtigeAntwort>43.000 cm³</richtigeAntwort>
+            <falscheAntwort1>4,3 cm³</falscheAntwort1>
+            <falscheAntwort2>43 cm³</falscheAntwort2>
+            <falscheAntwort3>0,0043 cm³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,053 m³</fragenText>
+            <richtigeAntwort>53.000 cm³</richtigeAntwort>
+            <falscheAntwort1>5,3 cm³</falscheAntwort1>
+            <falscheAntwort2>53 cm³</falscheAntwort2>
+            <falscheAntwort3>0,0053 cm³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>902 cm³</fragenText>
+            <richtigeAntwort>0,000902 m³</richtigeAntwort>
+            <falscheAntwort1>0,0902 m³</falscheAntwort1>
+            <falscheAntwort2>0,00902 m³</falscheAntwort2>
+            <falscheAntwort3>0,902 m³</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>#schwer (32000-500000 Euro)</fragenText>
+            <richtigeAntwort/>
+            <falscheAntwort1/>
+            <falscheAntwort2/>
+            <falscheAntwort3/>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>15</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>588,23 cm³</fragenText>
+            <richtigeAntwort>0,58823 dm³</richtigeAntwort>
+            <falscheAntwort1>58823 dm³</falscheAntwort1>
+            <falscheAntwort2>58,823 dm³</falscheAntwort2>
+            <falscheAntwort3>5882,3 dm³</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>89564 mm³</fragenText>
+            <richtigeAntwort>0,089564 dm³</richtigeAntwort>
+            <falscheAntwort1>8,9564 dm³</falscheAntwort1>
+            <falscheAntwort2>89,564 dm³</falscheAntwort2>
+            <falscheAntwort3>895,64 dm³</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>23,8868 m³</fragenText>
+            <richtigeAntwort>23.886.800 cm³</richtigeAntwort>
+            <falscheAntwort1>238,868 cm³</falscheAntwort1>
+            <falscheAntwort2>2,38868 cm³</falscheAntwort2>
+            <falscheAntwort3>2388,68 cm³</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>12,003 cm³</fragenText>
+            <richtigeAntwort>0,012003 dm³</richtigeAntwort>
+            <falscheAntwort1>120,03 dm³</falscheAntwort1>
+            <falscheAntwort2>1,2003 dm³</falscheAntwort2>
+            <falscheAntwort3>1200,3 dm³</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,43 m³</fragenText>
+            <richtigeAntwort>430.000.000 mm³</richtigeAntwort>
+            <falscheAntwort1>4.300 mm³</falscheAntwort1>
+            <falscheAntwort2>430.000 mm³</falscheAntwort2>
+            <falscheAntwort3>0,000043 mm³</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>23.500 mm³</fragenText>
+            <richtigeAntwort>0,0000235 m³</richtigeAntwort>
+            <falscheAntwort1>2,35 m³</falscheAntwort1>
+            <falscheAntwort2>0,0235 m³</falscheAntwort2>
+            <falscheAntwort3>23,5 m³</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,44 cm³</fragenText>
+            <richtigeAntwort>0,00000044 m³</richtigeAntwort>
+            <falscheAntwort1>44 m³</falscheAntwort1>
+            <falscheAntwort2>0,00044 m³</falscheAntwort2>
+            <falscheAntwort3>0,0044 m³</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>23,044 m³</fragenText>
+            <richtigeAntwort>23.044 dm³</richtigeAntwort>
+            <falscheAntwort1>2.304,4 dm³</falscheAntwort1>
+            <falscheAntwort2>230,4 dm³</falscheAntwort2>
+            <falscheAntwort3>230.440 dm³</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,00776 m³</fragenText>
+            <richtigeAntwort>7.760 cm³</richtigeAntwort>
+            <falscheAntwort1>77,6 cm³</falscheAntwort1>
+            <falscheAntwort2>7,76 cm³</falscheAntwort2>
+            <falscheAntwort3>0,0000776 cm³</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>56,2 cm³</fragenText>
+            <richtigeAntwort>0,0000562 m³</richtigeAntwort>
+            <falscheAntwort1>0,562 m³</falscheAntwort1>
+            <falscheAntwort2>0,0562 m³</falscheAntwort2>
+            <falscheAntwort3>5.620,0 m³</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>0,029 m³</fragenText>
+            <richtigeAntwort>29.000.000 mm³</richtigeAntwort>
+            <falscheAntwort1>290.000 mm³</falscheAntwort1>
+            <falscheAntwort2>2.900 mm³</falscheAntwort2>
+            <falscheAntwort3>29 mm³</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>44.322 mm³</fragenText>
+            <richtigeAntwort>0,000044322 m³</richtigeAntwort>
+            <falscheAntwort1>0,0044322 m³</falscheAntwort1>
+            <falscheAntwort2>0,44322 m³</falscheAntwort2>
+            <falscheAntwort3>4,4322 m³</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>234,5 cm³</fragenText>
+            <richtigeAntwort>0,0002345 m³</richtigeAntwort>
+            <falscheAntwort1>2,345 m³</falscheAntwort1>
+            <falscheAntwort2>0,2345 m³</falscheAntwort2>
+            <falscheAntwort3>0,002345 m³</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>412 m³</fragenText>
+            <richtigeAntwort>412.000.000 cm³</richtigeAntwort>
+            <falscheAntwort1>4.120.000 cm³</falscheAntwort1>
+            <falscheAntwort2>41.200 cm³</falscheAntwort2>
+            <falscheAntwort3>0,00412 cm³</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>15</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

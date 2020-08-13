@@ -1,0 +1,2209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Erdkunde</fach>
+    <thema>Raumfahrt und Weltraum</thema>
+    <autor>Manfred Hartisch Juli 2001</autor>
+    <anzahlFragen>222</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>Was ist kein Planet?</fragenText>
+            <richtigeAntwort>Goofy</richtigeAntwort>
+            <falscheAntwort1>Pluto</falscheAntwort1>
+            <falscheAntwort2>Erde</falscheAntwort2>
+            <falscheAntwort3>Mars</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>2</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lange braucht die Erde, um sich einmal um sich selbst zu drehen?</fragenText>
+            <richtigeAntwort>24 Stunden</richtigeAntwort>
+            <falscheAntwort1>12 Stunden</falscheAntwort1>
+            <falscheAntwort2>36 Stunden</falscheAntwort2>
+            <falscheAntwort3>48 Stunden</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lange braucht die Erde, um sich einmal um die Sonne zu drehen?</fragenText>
+            <richtigeAntwort>12 Monate</richtigeAntwort>
+            <falscheAntwort1>6 Monate</falscheAntwort1>
+            <falscheAntwort2>24 Monate</falscheAntwort2>
+            <falscheAntwort3>1 Monat</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie dreht sich die Erde um die Sonne?</fragenText>
+            <richtigeAntwort>ellipsenförmig</richtigeAntwort>
+            <falscheAntwort1>kreisförmig</falscheAntwort1>
+            <falscheAntwort2>in einer Achterschleife</falscheAntwort2>
+            <falscheAntwort3>rechteckig</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist die Sonne?</fragenText>
+            <richtigeAntwort>ein glühender Gasball</richtigeAntwort>
+            <falscheAntwort1>eine heiße Eisenkugel</falscheAntwort1>
+            <falscheAntwort2>kochender Wasserdampf</falscheAntwort2>
+            <falscheAntwort3>brennendes Magma</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heiß ist es im Inneren der Sonne?</fragenText>
+            <richtigeAntwort>ca. 15 Millionen Grad Celsius</richtigeAntwort>
+            <falscheAntwort1>ca. 6 Millionen Grad Celsius</falscheAntwort1>
+            <falscheAntwort2>ca. 9 Millionen Grad Celsius</falscheAntwort2>
+            <falscheAntwort3>ca. 12 Millionen Grad Celsius</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heiß ist es an der Außenfläche der Sonne?</fragenText>
+            <richtigeAntwort>ca. 4300 Grad Celsius</richtigeAntwort>
+            <falscheAntwort1>ca. 1200 Grad Celsius</falscheAntwort1>
+            <falscheAntwort2>ca. 2600 Grad Celsius</falscheAntwort2>
+            <falscheAntwort3>ca. 9700 Grad Celsius</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die riesigen Gaswirbel der Sonne, die kühler als ihre Umgebung sind?</fragenText>
+            <richtigeAntwort>Sonnenflecken</richtigeAntwort>
+            <falscheAntwort1>Sonnenpickel</falscheAntwort1>
+            <falscheAntwort2>Sonnenschatten</falscheAntwort2>
+            <falscheAntwort3>Sonnenbrand</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die riesigen Gaswolken, die von der Sonne hochgeschleudert werden?</fragenText>
+            <richtigeAntwort>Protuberanzen</richtigeAntwort>
+            <falscheAntwort1>Gasoranzen</falscheAntwort1>
+            <falscheAntwort2>Isotopanzen</falscheAntwort2>
+            <falscheAntwort3>Heliomanzen</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie alt ist unsere Sonne?</fragenText>
+            <richtigeAntwort>ca. 5 Milliarden Jahren</richtigeAntwort>
+            <falscheAntwort1>ca. 3 Milliarden Jahren</falscheAntwort1>
+            <falscheAntwort2>ca. 7 Milliarden Jahren</falscheAntwort2>
+            <falscheAntwort3>ca. 9 Milliarden Jahren</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lange wird unsere Sonne noch scheinen?</fragenText>
+            <richtigeAntwort>ca. 5 Milliarden Jahren</richtigeAntwort>
+            <falscheAntwort1>ca. 1 Milliarden Jahren</falscheAntwort1>
+            <falscheAntwort2>ca. 3 Milliarden Jahren</falscheAntwort2>
+            <falscheAntwort3>ca. 4 Milliarden Jahren</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Geschwindigkeit hat das Licht?</fragenText>
+            <richtigeAntwort>ca. 300.000 km pro Sekunde</richtigeAntwort>
+            <falscheAntwort1>ca. 100.000 km pro Sekunde</falscheAntwort1>
+            <falscheAntwort2>ca. 200.000 km pro Sekunde</falscheAntwort2>
+            <falscheAntwort3>ca. 400.000 km pro Sekunde</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Woraus besteht das Sonnenlicht?</fragenText>
+            <richtigeAntwort>aus elektromagnetischen Wellen</richtigeAntwort>
+            <falscheAntwort1>aus Gasbläschen</falscheAntwort1>
+            <falscheAntwort2>aus Atomdampfwellen</falscheAntwort2>
+            <falscheAntwort3>aus Hitzestrahlen</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie weit ist die Sonne von der Erde entfernt?</fragenText>
+            <richtigeAntwort>ca. 150 Millionen km</richtigeAntwort>
+            <falscheAntwort1>ca. 100 Millionen km</falscheAntwort1>
+            <falscheAntwort2>ca. 250 Millionen km</falscheAntwort2>
+            <falscheAntwort3>ca. 50 Millionen km</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lange braucht das Licht der Sonne, um auf die Erde zu gelangen?</fragenText>
+            <richtigeAntwort>ca. 8 Minuten</richtigeAntwort>
+            <falscheAntwort1>ca. 4 Minuten</falscheAntwort1>
+            <falscheAntwort2>ca. 10 Minuten</falscheAntwort2>
+            <falscheAntwort3>ca. 2 Minuten</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man es, wenn der Mond genau zwischen Sonne und Erde steht und die Sonne verdeckt?</fragenText>
+            <richtigeAntwort>Sonnenfinsternis</richtigeAntwort>
+            <falscheAntwort1>Mondfinsternis</falscheAntwort1>
+            <falscheAntwort2>Vollmond</falscheAntwort2>
+            <falscheAntwort3>Neumond</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man den äußeren Bereich der Sonnenatmosphäre?</fragenText>
+            <richtigeAntwort>Korona</richtigeAntwort>
+            <falscheAntwort1>Beluga</falscheAntwort1>
+            <falscheAntwort2>Ramona</falscheAntwort2>
+            <falscheAntwort3>Kormoran</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man es, wenn sich die Erde zwischen die Sonne und den Mond schiebt?</fragenText>
+            <richtigeAntwort>Mondfinsternis</richtigeAntwort>
+            <falscheAntwort1>Erdfinsternis</falscheAntwort1>
+            <falscheAntwort2>Sonnenfinsternis</falscheAntwort2>
+            <falscheAntwort3>Monduntergang</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie sieht der Mond bei einer Mondfinsternis aus?</fragenText>
+            <richtigeAntwort>dunkelrot</richtigeAntwort>
+            <falscheAntwort1>grasgrün</falscheAntwort1>
+            <falscheAntwort2>hellblau</falscheAntwort2>
+            <falscheAntwort3>dunkelgelb</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Himmelskörper ist der Erde am nächsten?</fragenText>
+            <richtigeAntwort>der Mond</richtigeAntwort>
+            <falscheAntwort1>die Sonne</falscheAntwort1>
+            <falscheAntwort2>die Venus</falscheAntwort2>
+            <falscheAntwort3>der Mars</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie weit ist der Mond von der Erde entfernt?</fragenText>
+            <richtigeAntwort>ca. 384.000 km</richtigeAntwort>
+            <falscheAntwort1>ca. 125.000 km</falscheAntwort1>
+            <falscheAntwort2>ca. 247.000 km</falscheAntwort2>
+            <falscheAntwort3>ca. 471.000 km</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wodurch wird der Mond in der Umlaufbahn der Erde gehalten?</fragenText>
+            <richtigeAntwort>durch die Schwerkraft der Erde</richtigeAntwort>
+            <falscheAntwort1>durch unsichtbare Seile</falscheAntwort1>
+            <falscheAntwort2>durch ein Magnetfeld</falscheAntwort2>
+            <falscheAntwort3>durch den Sonnenwind</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Jahreszeiten gibt es auf dem Mond?</fragenText>
+            <richtigeAntwort>keine</richtigeAntwort>
+            <falscheAntwort1>Sommer und Winter</falscheAntwort1>
+            <falscheAntwort2>Frühling und Herbst</falscheAntwort2>
+            <falscheAntwort3>Herbst und Winter</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viel mal schwerer als der Mond ist die Erde?</fragenText>
+            <richtigeAntwort>81 - mal</richtigeAntwort>
+            <falscheAntwort1>14 - mal</falscheAntwort1>
+            <falscheAntwort2>53 - mal</falscheAntwort2>
+            <falscheAntwort3>39 - mal</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Winde gibt es auf dem Mond?</fragenText>
+            <richtigeAntwort>keine</richtigeAntwort>
+            <falscheAntwort1>Nordwinde</falscheAntwort1>
+            <falscheAntwort2>Orkane</falscheAntwort2>
+            <falscheAntwort3>Südstürme</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lange dauert eine Drehung des Mondes um die Erde?</fragenText>
+            <richtigeAntwort>29 Tage 13 Stunden</richtigeAntwort>
+            <falscheAntwort1>21 Tage 6 Stunden</falscheAntwort1>
+            <falscheAntwort2>18 Tage 16 Stunden</falscheAntwort2>
+            <falscheAntwort3>12 Tage 20 Stunden</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man es, wenn man den Mond nicht sieht, weil er sich zwischen der Sonne und der Erde befindet?</fragenText>
+            <richtigeAntwort>Neumond</richtigeAntwort>
+            <falscheAntwort1>Vollmond</falscheAntwort1>
+            <falscheAntwort2>Halbmond</falscheAntwort2>
+            <falscheAntwort3>Nachtmond</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man es, wenn der ganze Mond von der Sonne beleuchtet wird?</fragenText>
+            <richtigeAntwort>Vollmond</richtigeAntwort>
+            <falscheAntwort1>Sonnenmond</falscheAntwort1>
+            <falscheAntwort2>Neumond</falscheAntwort2>
+            <falscheAntwort3>Hellmond</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wodurch entstanden die zahlreichen Mondkrater?</fragenText>
+            <richtigeAntwort>Meteoriteneinschläge</richtigeAntwort>
+            <falscheAntwort1>Vulkanausbrüche</falscheAntwort1>
+            <falscheAntwort2>Mondbeben</falscheAntwort2>
+            <falscheAntwort3>Wirbelstürme</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wodurch werden die Planeten in der Umlaufbahn der Sonne gehalten?</fragenText>
+            <richtigeAntwort>durch die Schwerkraft der Sonne</richtigeAntwort>
+            <falscheAntwort1>durch unsichtbare Seile</falscheAntwort1>
+            <falscheAntwort2>durch Magnetkraft</falscheAntwort2>
+            <falscheAntwort3>durch den Sonnenwind</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lautet die astronomische Bezeichnung für unsere Sonne?</fragenText>
+            <richtigeAntwort>Fixstern</richtigeAntwort>
+            <falscheAntwort1>Blitzstern</falscheAntwort1>
+            <falscheAntwort2>Mixstern</falscheAntwort2>
+            <falscheAntwort3>Nachtstern</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Asteroiden gibt es in unserem Sonnensystem?</fragenText>
+            <richtigeAntwort>ca. 40.000</richtigeAntwort>
+            <falscheAntwort1>ca. 10.000</falscheAntwort1>
+            <falscheAntwort2>ca. 20.000</falscheAntwort2>
+            <falscheAntwort3>ca. 30.000</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wonach wurden die Planeten benannt?</fragenText>
+            <richtigeAntwort>nach europäischen Göttern</richtigeAntwort>
+            <falscheAntwort1>nach amerikanischen Göttern</falscheAntwort1>
+            <falscheAntwort2>nach afrikanischen Göttern</falscheAntwort2>
+            <falscheAntwort3>nach indischen Göttern</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Umlaufbahn, auf der sich die Asteroiden bewegen?</fragenText>
+            <richtigeAntwort>Asteroidengürtel</richtigeAntwort>
+            <falscheAntwort1>Asteroidenbänder</falscheAntwort1>
+            <falscheAntwort2>Asteroidenschnüre</falscheAntwort2>
+            <falscheAntwort3>Asteroidengummis</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Form haben die Asteroiden?</fragenText>
+            <richtigeAntwort>unregelmäßig</richtigeAntwort>
+            <falscheAntwort1>kreisrund</falscheAntwort1>
+            <falscheAntwort2>oval</falscheAntwort2>
+            <falscheAntwort3>achteckig</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Durchmesser haben die Asteroiden?</fragenText>
+            <richtigeAntwort>einige Kilometer</richtigeAntwort>
+            <falscheAntwort1>ca. 100 m</falscheAntwort1>
+            <falscheAntwort2>mehrere cm</falscheAntwort2>
+            <falscheAntwort3>ca. 2000 Kilometer</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der größte Asteroid?</fragenText>
+            <richtigeAntwort>Ceres</richtigeAntwort>
+            <falscheAntwort1>Hermes</falscheAntwort1>
+            <falscheAntwort2>Zeberus</falscheAntwort2>
+            <falscheAntwort3>Eving</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Durchmesser hat der größte Asteroid?</fragenText>
+            <richtigeAntwort>ca. 740 Kilometer</richtigeAntwort>
+            <falscheAntwort1>ca. 12 Kilometer</falscheAntwort1>
+            <falscheAntwort2>ca. 245 Kilometer</falscheAntwort2>
+            <falscheAntwort3>ca. 2340 Kilometer</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man einen Meteor, der beim Eintritt in die Erdatmosphäre verglüht?</fragenText>
+            <richtigeAntwort>Sternschnuppe</richtigeAntwort>
+            <falscheAntwort1>Sternbild</falscheAntwort1>
+            <falscheAntwort2>Sternhagel</falscheAntwort2>
+            <falscheAntwort3>Sternregen</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man Stein- und Eisentrümmer, die durchs Weltall fliegen und manchmal auf die Erde aufschlagen?</fragenText>
+            <richtigeAntwort>Meteoriten</richtigeAntwort>
+            <falscheAntwort1>Kometen</falscheAntwort1>
+            <falscheAntwort2>Planeten</falscheAntwort2>
+            <falscheAntwort3>Fixsterne</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Meteoritenkrater kennen wir auf der Erde?</fragenText>
+            <richtigeAntwort>ca. 1000</richtigeAntwort>
+            <falscheAntwort1>ca. 10</falscheAntwort1>
+            <falscheAntwort2>ca. 1000</falscheAntwort2>
+            <falscheAntwort3>ca. 10.000</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Woraus bestehen meistens Meteoriten?</fragenText>
+            <richtigeAntwort>Nickel und Eisen</richtigeAntwort>
+            <falscheAntwort1>Kupfer und Eisen</falscheAntwort1>
+            <falscheAntwort2>Eisen und Silber</falscheAntwort2>
+            <falscheAntwort3>Nickel und Bronze</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man einen Himmelskörper, der aus Eis, gefrorenen Gasen, Staub und anderen festen Stoffen besteht?</fragenText>
+            <richtigeAntwort>Komet</richtigeAntwort>
+            <falscheAntwort1>Prophet</falscheAntwort1>
+            <falscheAntwort2>Tibet</falscheAntwort2>
+            <falscheAntwort3>Spinett</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Mit welchem Spitznamen werden Kometen auch benannt?</fragenText>
+            <richtigeAntwort>schmutziger Schneeball</richtigeAntwort>
+            <falscheAntwort1>schmutziger Steinbrocken</falscheAntwort1>
+            <falscheAntwort2>sauberes Felsstück</falscheAntwort2>
+            <falscheAntwort3>sauberer Eisball</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang kann der Kometenschweif werden?</fragenText>
+            <richtigeAntwort>mehrere Millionen km</richtigeAntwort>
+            <falscheAntwort1>wenige Kilometer</falscheAntwort1>
+            <falscheAntwort2>10 - 90 Kilometer</falscheAntwort2>
+            <falscheAntwort3>125.000 Kilometer</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Woraus besteht der Kometenschweif?</fragenText>
+            <richtigeAntwort>aus Staub und Gasen</richtigeAntwort>
+            <falscheAntwort1>aus Staub und Eisen</falscheAntwort1>
+            <falscheAntwort2>aus Nickel und Schnee</falscheAntwort2>
+            <falscheAntwort3>aus Eis und Gasen</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welche Richtung bildet sich der Kometenschweif?</fragenText>
+            <richtigeAntwort>immer von der Sonne abgewandt</richtigeAntwort>
+            <falscheAntwort1>immer der Sonne zugewandt</falscheAntwort1>
+            <falscheAntwort2>immer dem Mond zugewandt</falscheAntwort2>
+            <falscheAntwort3>immer nach Norden</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt einer der berühmtesten Kometen?</fragenText>
+            <richtigeAntwort>Halleyscher Komet</richtigeAntwort>
+            <falscheAntwort1>Galileo Komet</falscheAntwort1>
+            <falscheAntwort2>Alberto Komet</falscheAntwort2>
+            <falscheAntwort3>Einstein Komet</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man Sternensysteme?</fragenText>
+            <richtigeAntwort>Galaxien</richtigeAntwort>
+            <falscheAntwort1>Utopien</falscheAntwort1>
+            <falscheAntwort2>Lupinen</falscheAntwort2>
+            <falscheAntwort3>Gardinen</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Galaxie, in der sich unser Sonnensystem befindet?</fragenText>
+            <richtigeAntwort>Milchstraße</richtigeAntwort>
+            <falscheAntwort1>Kakaoweg</falscheAntwort1>
+            <falscheAntwort2>Teestraße</falscheAntwort2>
+            <falscheAntwort3>Milchpfad</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo innerhalb der Milchstraße liegt unser Sonnensystem?</fragenText>
+            <richtigeAntwort>am äußeren Rand</richtigeAntwort>
+            <falscheAntwort1>am inneren Rand</falscheAntwort1>
+            <falscheAntwort2>im Zentrum</falscheAntwort2>
+            <falscheAntwort3>nahe der Mitte</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lange benötigt das Licht, um vom einen Ende der Milchstraße zum anderen Ende zu gelangen?</fragenText>
+            <richtigeAntwort>ca. 100.000 Jahre</richtigeAntwort>
+            <falscheAntwort1>ca. 50.000 Jahre</falscheAntwort1>
+            <falscheAntwort2>ca. 1 Millionen Jahre</falscheAntwort2>
+            <falscheAntwort3>ca. 2.500 Jahre</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Galaxien existieren im Weltraum?</fragenText>
+            <richtigeAntwort>Millionen</richtigeAntwort>
+            <falscheAntwort1>Tausende</falscheAntwort1>
+            <falscheAntwort2>Hunderte</falscheAntwort2>
+            <falscheAntwort3>Hunderttausend</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Sterne gibt es in der Milchstraße?</fragenText>
+            <richtigeAntwort>über 100 Milliarden</richtigeAntwort>
+            <falscheAntwort1>zwischen 10 und 100 Millionen</falscheAntwort1>
+            <falscheAntwort2>weniger als 10 Milliarden</falscheAntwort2>
+            <falscheAntwort3>genau 5.236.509.327</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie weit ist unser Sonnensystem vom Zentrum der Milchstraße entfernt?</fragenText>
+            <richtigeAntwort>ca. 30.000 Lichtjahre</richtigeAntwort>
+            <falscheAntwort1>ca. 2.000 Lichtjahre</falscheAntwort1>
+            <falscheAntwort2>ca. 12.000 Lichtjahre</falscheAntwort2>
+            <falscheAntwort3>ca. 23.000 Lichtjahre</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die uns nächstgelegene Galaxie?</fragenText>
+            <richtigeAntwort>Andromeda - Nebel</richtigeAntwort>
+            <falscheAntwort1>Kaseopeia - Regen</falscheAntwort1>
+            <falscheAntwort2>Hubertus - Schnee</falscheAntwort2>
+            <falscheAntwort3>Nikolas - Hagel</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lange benötigt das Licht der uns nächstgelegenen Galaxie, um zur Erde zu gelangen?</fragenText>
+            <richtigeAntwort>2 Millionen Jahre</richtigeAntwort>
+            <falscheAntwort1>1 Millionen Jahre</falscheAntwort1>
+            <falscheAntwort2>500.000 Jahre</falscheAntwort2>
+            <falscheAntwort3>10 Millionen Jahre</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Form hat die Milchstraße?</fragenText>
+            <richtigeAntwort>spiralförmig</richtigeAntwort>
+            <falscheAntwort1>kreisförmig</falscheAntwort1>
+            <falscheAntwort2>elliptisch</falscheAntwort2>
+            <falscheAntwort3>unregelmäßig</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lange benötigt unser Sonnensystem für einen Umlauf um das Zentrum der Milchstraße?</fragenText>
+            <richtigeAntwort>ca. 225 Millionen Jahre</richtigeAntwort>
+            <falscheAntwort1>ca. 190 Millionen Jahre</falscheAntwort1>
+            <falscheAntwort2>ca. 56 Millionen Jahre</falscheAntwort2>
+            <falscheAntwort3>ca. 408 Millionen Jahre</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist ein Stern?</fragenText>
+            <richtigeAntwort>eine glühende Gaskugel</richtigeAntwort>
+            <falscheAntwort1>ein heißer Staubball</falscheAntwort1>
+            <falscheAntwort2>ein brennender Felsbrocken</falscheAntwort2>
+            <falscheAntwort3>ein explodierender Meteor</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Gibt es Leben auf Sternen?</fragenText>
+            <richtigeAntwort>Nein, sie sind viel zu heiß.</richtigeAntwort>
+            <falscheAntwort1>Das weiß man nicht.</falscheAntwort1>
+            <falscheAntwort2>ja</falscheAntwort2>
+            <falscheAntwort3>nur auf einigen</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man einen sterbenden Stern?</fragenText>
+            <richtigeAntwort>„Roter Riese“</richtigeAntwort>
+            <falscheAntwort1>„Gelber Riese“</falscheAntwort1>
+            <falscheAntwort2>„Weißer Riese“</falscheAntwort2>
+            <falscheAntwort3>„Schwarzer Riese“</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In was verwandelt sich ein „Roter Riese“?</fragenText>
+            <richtigeAntwort>in einen „weißen Zwerg“</richtigeAntwort>
+            <falscheAntwort1>in einen „roten Zwerg“</falscheAntwort1>
+            <falscheAntwort2>in einen „grünen Zwerg“</falscheAntwort2>
+            <falscheAntwort3>in einen „schwarzen Zwerg“</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man es, wenn ein Stern nach seinem Schrumpfungsprozess explodiert?</fragenText>
+            <richtigeAntwort>Supernova</richtigeAntwort>
+            <falscheAntwort1>Bossa Nova</falscheAntwort1>
+            <falscheAntwort2>Prima Nova</falscheAntwort2>
+            <falscheAntwort3>Tolle Nova</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann wurde ein explodierender Stern das erste Mal beobachtet?</fragenText>
+            <richtigeAntwort>1987</richtigeAntwort>
+            <falscheAntwort1>1947</falscheAntwort1>
+            <falscheAntwort2>1997</falscheAntwort2>
+            <falscheAntwort3>1927</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man einen auf wenige Kilometer geschrumpften Neutronenstern mit ungeheurer Schwerkraft?</fragenText>
+            <richtigeAntwort>„Schwarzes Loch“</richtigeAntwort>
+            <falscheAntwort1>„Weißer Fleck“</falscheAntwort1>
+            <falscheAntwort2>„Schwarzer Fleck“</falscheAntwort2>
+            <falscheAntwort3>„Weißes Loch“</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann ist das Weltall entstanden?</fragenText>
+            <richtigeAntwort>vor ca. 15 Milliarden Jahren</richtigeAntwort>
+            <falscheAntwort1>vor ca. 5 Milliarden Jahren</falscheAntwort1>
+            <falscheAntwort2>vor ca. 10 Milliarden Jahren</falscheAntwort2>
+            <falscheAntwort3>vor ca. 25 Milliarden Jahren</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie bewegen sich die Galaxien zueinander?</fragenText>
+            <richtigeAntwort>Sie bewegen sich voneinander fort.</richtigeAntwort>
+            <falscheAntwort1>Sie umkreisen sich.</falscheAntwort1>
+            <falscheAntwort2>Sie bewegen sich aufeinander zu.</falscheAntwort2>
+            <falscheAntwort3>Ihr Abstand bleibt gleich.</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Erforschung des Weltalls und der Bewegung der Himmelskörper?</fragenText>
+            <richtigeAntwort>Astronomie</richtigeAntwort>
+            <falscheAntwort1>Astrologie</falscheAntwort1>
+            <falscheAntwort2>Apatologie</falscheAntwort2>
+            <falscheAntwort3>Astraltheorie</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer bewies als erster in Europa, dass sich die Erde um die Sonne und um sich selbst dreht?</fragenText>
+            <richtigeAntwort>Nikolaus Kopernikus</richtigeAntwort>
+            <falscheAntwort1>Albert Einstein</falscheAntwort1>
+            <falscheAntwort2>Martin Luther</falscheAntwort2>
+            <falscheAntwort3>Kaiser Karl IV</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Stern befindet sich im Sternbild des „Kleinen Bären“?</fragenText>
+            <richtigeAntwort>Polarstern</richtigeAntwort>
+            <falscheAntwort1>Funkelstern</falscheAntwort1>
+            <falscheAntwort2>Glücksstern</falscheAntwort2>
+            <falscheAntwort3>Milchstern</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Himmelsrichtung zeigt uns der Polarstern an?</fragenText>
+            <richtigeAntwort>Norden</richtigeAntwort>
+            <falscheAntwort1>Westen</falscheAntwort1>
+            <falscheAntwort2>Osten</falscheAntwort2>
+            <falscheAntwort3>Süden</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der größte Planet unseres Sonnensystems?</fragenText>
+            <richtigeAntwort>Jupiter</richtigeAntwort>
+            <falscheAntwort1>Saturn</falscheAntwort1>
+            <falscheAntwort2>Pluto</falscheAntwort2>
+            <falscheAntwort3>Uranus</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viel Mal größer als die Erde ist der Planet Jupiter?</fragenText>
+            <richtigeAntwort>1.300 - mal</richtigeAntwort>
+            <falscheAntwort1>100 - mal</falscheAntwort1>
+            <falscheAntwort2>520 - mal</falscheAntwort2>
+            <falscheAntwort3>230 - mal</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Woraus besteht der Planet Jupiter zum größten Teil?</fragenText>
+            <richtigeAntwort>aus kaltem, flüssigen Wasserstoff</richtigeAntwort>
+            <falscheAntwort1>aus heißem Gas</falscheAntwort1>
+            <falscheAntwort2>aus Nickel und Eisen</falscheAntwort2>
+            <falscheAntwort3>aus heißem Staub</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lang ist ein Tag auf Jupiter?</fragenText>
+            <richtigeAntwort>weniger als 10 Stunden</richtigeAntwort>
+            <falscheAntwort1>15 - 18 Stunden</falscheAntwort1>
+            <falscheAntwort2>32 Std. 34 Minuten</falscheAntwort2>
+            <falscheAntwort3>mehr als 48 Stunden</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele „Erdenjahre“ dauert ein Jahr auf dem Planeten Jupiter?</fragenText>
+            <richtigeAntwort>12</richtigeAntwort>
+            <falscheAntwort1>6</falscheAntwort1>
+            <falscheAntwort2>8</falscheAntwort2>
+            <falscheAntwort3>10</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Monde umkreisen den Planeten Jupiter?</fragenText>
+            <richtigeAntwort>16</richtigeAntwort>
+            <falscheAntwort1>12</falscheAntwort1>
+            <falscheAntwort2>14</falscheAntwort2>
+            <falscheAntwort3>18</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Monde, die die Planeten umkreisen?</fragenText>
+            <richtigeAntwort>Trabanten</richtigeAntwort>
+            <falscheAntwort1>Verwandte</falscheAntwort1>
+            <falscheAntwort2>Tanten</falscheAntwort2>
+            <falscheAntwort3>Rabauken</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der größte Mond in unserem Sonnensystem?</fragenText>
+            <richtigeAntwort>Ganymed</richtigeAntwort>
+            <falscheAntwort1>Kallisto</falscheAntwort1>
+            <falscheAntwort2>Io</falscheAntwort2>
+            <falscheAntwort3>Titan</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Woraus besteht der größte Mond in unserem Sonnensystem?</fragenText>
+            <richtigeAntwort>aus gefrorenem Wasser</richtigeAntwort>
+            <falscheAntwort1>aus glühendem Eisen</falscheAntwort1>
+            <falscheAntwort2>aus heißen Gasen</falscheAntwort2>
+            <falscheAntwort3>aus Nickel und Kobalt</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Auf welchem Mond gibt es zahlreiche aktive Vulkane?</fragenText>
+            <richtigeAntwort>Io</richtigeAntwort>
+            <falscheAntwort1>Ia</falscheAntwort1>
+            <falscheAntwort2>Eu</falscheAntwort2>
+            <falscheAntwort3>Eo</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der kleinste Planet in unserem Sonnensystem?</fragenText>
+            <richtigeAntwort>Pluto</richtigeAntwort>
+            <falscheAntwort1>Venus</falscheAntwort1>
+            <falscheAntwort2>Mars</falscheAntwort2>
+            <falscheAntwort3>Merkur</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Planet unseres Sonnensystems ist am weitesten von unserer Sonne entfernt?</fragenText>
+            <richtigeAntwort>Pluto</richtigeAntwort>
+            <falscheAntwort1>Erde</falscheAntwort1>
+            <falscheAntwort2>Uranus</falscheAntwort2>
+            <falscheAntwort3>Jupiter</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Temperaturen herrschen auf dem Planeten Pluto?</fragenText>
+            <richtigeAntwort>Dort ist es eiskalt.</richtigeAntwort>
+            <falscheAntwort1>Dort ist es sehr heiß.</falscheAntwort1>
+            <falscheAntwort2>Das Klima ist wechselhaft.</falscheAntwort2>
+            <falscheAntwort3>Immer genau - 2 Grad</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Planeten sind der Sonne am nächsten?</fragenText>
+            <richtigeAntwort>Merkur und Venus</richtigeAntwort>
+            <falscheAntwort1>Erde und Pluto</falscheAntwort1>
+            <falscheAntwort2>Venus und Saturn</falscheAntwort2>
+            <falscheAntwort3>Jupiter und Uranus</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Monde hat die Venus?</fragenText>
+            <richtigeAntwort>0</richtigeAntwort>
+            <falscheAntwort1>1</falscheAntwort1>
+            <falscheAntwort2>2</falscheAntwort2>
+            <falscheAntwort3>3</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie weit ist Pluto von der Sonne entfernt?</fragenText>
+            <richtigeAntwort>7,4 Milliarden km</richtigeAntwort>
+            <falscheAntwort1>786 Millionen km</falscheAntwort1>
+            <falscheAntwort2>1,4 Milliarden km</falscheAntwort2>
+            <falscheAntwort3>4,8 Milliarden km</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie weit ist der Planet Neptun von der Sonne entfernt?</fragenText>
+            <richtigeAntwort>4,5 Milliarden km</richtigeAntwort>
+            <falscheAntwort1>1,6 Milliarden km</falscheAntwort1>
+            <falscheAntwort2>672 Millionen km</falscheAntwort2>
+            <falscheAntwort3>109 Millionen km</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hieß die Raumsonde, die 1986 den Planeten Neptun überflog?</fragenText>
+            <richtigeAntwort>Voyager 2</richtigeAntwort>
+            <falscheAntwort1>Enterprise 4</falscheAntwort1>
+            <falscheAntwort2>Orion 1</falscheAntwort2>
+            <falscheAntwort3>Star Trek 10</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lange dauert ein Tag auf dem Planeten Neptun?</fragenText>
+            <richtigeAntwort>ca. 16 Stunden</richtigeAntwort>
+            <falscheAntwort1>ca. 6 Stunden</falscheAntwort1>
+            <falscheAntwort2>ca. 22 Stunden</falscheAntwort2>
+            <falscheAntwort3>ca. 11 Stunden</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Monde hat der Planet Neptun?</fragenText>
+            <richtigeAntwort>8</richtigeAntwort>
+            <falscheAntwort1>6</falscheAntwort1>
+            <falscheAntwort2>10</falscheAntwort2>
+            <falscheAntwort3>12</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lange dauert ein Jahr auf dem Planeten Merkur?</fragenText>
+            <richtigeAntwort>88 Erdentage</richtigeAntwort>
+            <falscheAntwort1>66 Erdentage</falscheAntwort1>
+            <falscheAntwort2>222 Erdentage</falscheAntwort2>
+            <falscheAntwort3>11 Erdentage</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Woraus besteht der Planet Merkur zum größten Teil?</fragenText>
+            <richtigeAntwort>aus Eisen</richtigeAntwort>
+            <falscheAntwort1>aus Silber</falscheAntwort1>
+            <falscheAntwort2>aus Bronze</falscheAntwort2>
+            <falscheAntwort3>aus Gold</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Monde hat der Planet Merkur?</fragenText>
+            <richtigeAntwort>0</richtigeAntwort>
+            <falscheAntwort1>2</falscheAntwort1>
+            <falscheAntwort2>4</falscheAntwort2>
+            <falscheAntwort3>7</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Planet unseres Sonnensystems hat die meisten Monde?</fragenText>
+            <richtigeAntwort>Saturn</richtigeAntwort>
+            <falscheAntwort1>Pluto</falscheAntwort1>
+            <falscheAntwort2>Uranus</falscheAntwort2>
+            <falscheAntwort3>Neptun</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Monde hat der Planet Saturn?</fragenText>
+            <richtigeAntwort>24</richtigeAntwort>
+            <falscheAntwort1>8</falscheAntwort1>
+            <falscheAntwort2>16</falscheAntwort2>
+            <falscheAntwort3>4</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der größte Mond des Planeten Saturn?</fragenText>
+            <richtigeAntwort>Titan</richtigeAntwort>
+            <falscheAntwort1>Io</falscheAntwort1>
+            <falscheAntwort2>Ganymed</falscheAntwort2>
+            <falscheAntwort3>Trabant</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man den Planeten Mars auch noch?</fragenText>
+            <richtigeAntwort>„Roter Planet“</richtigeAntwort>
+            <falscheAntwort1>„Weißer Planet“</falscheAntwort1>
+            <falscheAntwort2>„Blauer Planet“</falscheAntwort2>
+            <falscheAntwort3>„Gelber Planet“</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Woraus besteht der Planet Uranus?</fragenText>
+            <richtigeAntwort>aus Gasen</richtigeAntwort>
+            <falscheAntwort1>aus Staub</falscheAntwort1>
+            <falscheAntwort2>aus Eis</falscheAntwort2>
+            <falscheAntwort3>aus Metall</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Monde des Planeten Uranus wurden entdeckt?</fragenText>
+            <richtigeAntwort>15</richtigeAntwort>
+            <falscheAntwort1>7</falscheAntwort1>
+            <falscheAntwort2>9</falscheAntwort2>
+            <falscheAntwort3>19</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch sind die Berge auf dem Uranusmond Miranda?</fragenText>
+            <richtigeAntwort>bis 26 km</richtigeAntwort>
+            <falscheAntwort1>bis 1200 m</falscheAntwort1>
+            <falscheAntwort2>bis 10 km</falscheAntwort2>
+            <falscheAntwort3>bis 87 km</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Farbe hat der Planet Uranus?</fragenText>
+            <richtigeAntwort>blaugrün</richtigeAntwort>
+            <falscheAntwort1>rotgelb</falscheAntwort1>
+            <falscheAntwort2>grünweiß</falscheAntwort2>
+            <falscheAntwort3>blauschwarz</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Woraus besteht eine Weltraumrakete zum größten Teil?</fragenText>
+            <richtigeAntwort>aus Treibstofftanks</richtigeAntwort>
+            <falscheAntwort1>aus Antennen</falscheAntwort1>
+            <falscheAntwort2>aus Computern</falscheAntwort2>
+            <falscheAntwort3>aus Raketendüsen</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hieß der erste künstliche Satellit im All?</fragenText>
+            <richtigeAntwort>Sputnik</richtigeAntwort>
+            <falscheAntwort1>Enterprise</falscheAntwort1>
+            <falscheAntwort2>Voyager</falscheAntwort2>
+            <falscheAntwort3>Space Shuttle</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann wurde der erste Satellit in das All geschickt?</fragenText>
+            <richtigeAntwort>1957</richtigeAntwort>
+            <falscheAntwort1>1912</falscheAntwort1>
+            <falscheAntwort2>1865</falscheAntwort2>
+            <falscheAntwort3>1983</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer war das erste Lebewesen im Weltall?</fragenText>
+            <richtigeAntwort>russische Hündin Laika</richtigeAntwort>
+            <falscheAntwort1>russische Affe Iwan</falscheAntwort1>
+            <falscheAntwort2>amerikanischer Affe Sam</falscheAntwort2>
+            <falscheAntwort3>amerikanischer Hund Charly</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer umkreiste als erster Mensch die Erde?</fragenText>
+            <richtigeAntwort>der Russe Gagarin</richtigeAntwort>
+            <falscheAntwort1>der Amerikaner Armstrong</falscheAntwort1>
+            <falscheAntwort2>der Russe Boris</falscheAntwort2>
+            <falscheAntwort3>der Amerikaner Scott</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann umkreiste der erste Mensch die Erde?</fragenText>
+            <richtigeAntwort>1961</richtigeAntwort>
+            <falscheAntwort1>1932</falscheAntwort1>
+            <falscheAntwort2>1942</falscheAntwort2>
+            <falscheAntwort3>1976</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann schwebte der erste Mensch frei im Weltraum?</fragenText>
+            <richtigeAntwort>1965</richtigeAntwort>
+            <falscheAntwort1>1952</falscheAntwort1>
+            <falscheAntwort2>1961</falscheAntwort2>
+            <falscheAntwort3>1959</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer war der erste Mensch auf dem Mond?</fragenText>
+            <richtigeAntwort>Neil Armstrong</richtigeAntwort>
+            <falscheAntwort1>David Scott</falscheAntwort1>
+            <falscheAntwort2>Edwin Aldrin</falscheAntwort2>
+            <falscheAntwort3>Roald Amundsen</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hieß das Raumfahrzeug, das die ersten Menschen zum Mond brachte?</fragenText>
+            <richtigeAntwort>Apollo 11</richtigeAntwort>
+            <falscheAntwort1>Star Trek</falscheAntwort1>
+            <falscheAntwort2>Enterprise</falscheAntwort2>
+            <falscheAntwort3>Mir</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lange hielten sich die ersten Menschen auf dem Mond auf?</fragenText>
+            <richtigeAntwort>5 Stunden</richtigeAntwort>
+            <falscheAntwort1>5 Minuten</falscheAntwort1>
+            <falscheAntwort2>5 Tage</falscheAntwort2>
+            <falscheAntwort3>5 Wochen</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer war der zweite Mensch auf dem Mond?</fragenText>
+            <richtigeAntwort>Edwin Aldrin</richtigeAntwort>
+            <falscheAntwort1>John F. Kennedy</falscheAntwort1>
+            <falscheAntwort2>Wladimir Iwan</falscheAntwort2>
+            <falscheAntwort3>Louis Armstrong</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann betrat der erste Mensch den Mond?</fragenText>
+            <richtigeAntwort>1969</richtigeAntwort>
+            <falscheAntwort1>1933</falscheAntwort1>
+            <falscheAntwort2>1901</falscheAntwort2>
+            <falscheAntwort3>1995</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welcher Höhe beginnt der Weltraum?</fragenText>
+            <richtigeAntwort>in 300 - 400 km</richtigeAntwort>
+            <falscheAntwort1>über dem Mount Everest</falscheAntwort1>
+            <falscheAntwort2>hinter dem Mond</falscheAntwort2>
+            <falscheAntwort3>ab 1.000 km</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer baute die erste Raumstation?</fragenText>
+            <richtigeAntwort>die Russen</richtigeAntwort>
+            <falscheAntwort1>die Amerikaner</falscheAntwort1>
+            <falscheAntwort2>die Chinesen</falscheAntwort2>
+            <falscheAntwort3>die Australier</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hieß die erste Raumstation?</fragenText>
+            <richtigeAntwort>Saljut 1</richtigeAntwort>
+            <falscheAntwort1>Mir</falscheAntwort1>
+            <falscheAntwort2>Skylab</falscheAntwort2>
+            <falscheAntwort3>Enterprise</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann wurde die erste Raumstation gebaut?</fragenText>
+            <richtigeAntwort>1971</richtigeAntwort>
+            <falscheAntwort1>1912</falscheAntwort1>
+            <falscheAntwort2>1940</falscheAntwort2>
+            <falscheAntwort3>1815</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hieß die erste amerikanische Raumstation?</fragenText>
+            <richtigeAntwort>Skylab</richtigeAntwort>
+            <falscheAntwort1>Mir</falscheAntwort1>
+            <falscheAntwort2>Sputnik</falscheAntwort2>
+            <falscheAntwort3>Apollo</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man Raketen, die wieder aus dem Weltraum zurückkehren und wie ein Flugzeug landen können?</fragenText>
+            <richtigeAntwort>Raumfähren</richtigeAntwort>
+            <falscheAntwort1>Jumbos</falscheAntwort1>
+            <falscheAntwort2>Raumgleiter</falscheAntwort2>
+            <falscheAntwort3>Weltraumjets</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die amerikanische Raumfähre?</fragenText>
+            <richtigeAntwort>Spaceshuttle</richtigeAntwort>
+            <falscheAntwort1>Orion 1</falscheAntwort1>
+            <falscheAntwort2>Skylab</falscheAntwort2>
+            <falscheAntwort3>Enterprise</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann flog die erste amerikanische Raumfähre?</fragenText>
+            <richtigeAntwort>1981</richtigeAntwort>
+            <falscheAntwort1>1999</falscheAntwort1>
+            <falscheAntwort2>1954</falscheAntwort2>
+            <falscheAntwort3>1964</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hieß die russische Weltraumstation, die 15 Jahre im Weltraum blieb?</fragenText>
+            <richtigeAntwort>Mir</richtigeAntwort>
+            <falscheAntwort1>Dir</falscheAntwort1>
+            <falscheAntwort2>Bier</falscheAntwort2>
+            <falscheAntwort3>Tier</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Zeitraum flog die russische Weltraumstation Mir durch den Weltraum?</fragenText>
+            <richtigeAntwort>1986 - 2001</richtigeAntwort>
+            <falscheAntwort1>1967 - 1982</falscheAntwort1>
+            <falscheAntwort2>1971 - 1986</falscheAntwort2>
+            <falscheAntwort3>1979 - 1994</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das größte orbitale Weltraumteleskop?</fragenText>
+            <richtigeAntwort>Hubble</richtigeAntwort>
+            <falscheAntwort1>Knubbel</falscheAntwort1>
+            <falscheAntwort2>Bubble</falscheAntwort2>
+            <falscheAntwort3>Stubbel</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hieß die erste Mondfähre?</fragenText>
+            <richtigeAntwort>„Eagle“ (Adler)</richtigeAntwort>
+            <falscheAntwort1>„Hawk“ (Falke)</falscheAntwort1>
+            <falscheAntwort2>„Bird“ (Vogel)</falscheAntwort2>
+            <falscheAntwort3>„Moon“ (Mond)</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was gibt es nicht auf dem Mond?</fragenText>
+            <richtigeAntwort>Flüsse</richtigeAntwort>
+            <falscheAntwort1>Krater</falscheAntwort1>
+            <falscheAntwort2>Steine</falscheAntwort2>
+            <falscheAntwort3>Staub</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man ein Gebäude zur Beobachtung der Sterne?</fragenText>
+            <richtigeAntwort>Sternwarte</richtigeAntwort>
+            <falscheAntwort1>Sternhaus</falscheAntwort1>
+            <falscheAntwort2>Sternstation</falscheAntwort2>
+            <falscheAntwort3>Sternbild</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Explosion von Materie, die vor 15 - 20 Milliarden Jahren stattgefunden hat?</fragenText>
+            <richtigeAntwort>Urknall</richtigeAntwort>
+            <falscheAntwort1>Urkrach</falscheAntwort1>
+            <falscheAntwort2>Urschrei</falscheAntwort2>
+            <falscheAntwort3>Urbums</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Schwerkraft der Himmelskörper?</fragenText>
+            <richtigeAntwort>Gravitation</richtigeAntwort>
+            <falscheAntwort1>Grapefruit</falscheAntwort1>
+            <falscheAntwort2>Explosion</falscheAntwort2>
+            <falscheAntwort3>Mission</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie verändert sich das Gewicht der Erde?</fragenText>
+            <richtigeAntwort>Sie wird schwerer.</richtigeAntwort>
+            <falscheAntwort1>Sie wird leichter.</falscheAntwort1>
+            <falscheAntwort2>Das Gewicht bleibt gleich.</falscheAntwort2>
+            <falscheAntwort3>Das Gewicht ist wechselhaft.</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Lufthülle um die Erde?</fragenText>
+            <richtigeAntwort>Erdatmosphäre</richtigeAntwort>
+            <falscheAntwort1>Erdhülle</falscheAntwort1>
+            <falscheAntwort2>Erdluft</falscheAntwort2>
+            <falscheAntwort3>Luftsphäre</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist keine Schicht der Erdatmosphäre?</fragenText>
+            <richtigeAntwort>Salsosphäre</richtigeAntwort>
+            <falscheAntwort1>Exospäre</falscheAntwort1>
+            <falscheAntwort2>Mesosphäre</falscheAntwort2>
+            <falscheAntwort3>Stratosphäre</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Teil der Erdatmosphäre ist stark geschädigt?</fragenText>
+            <richtigeAntwort>die Ozonschicht</richtigeAntwort>
+            <falscheAntwort1>die Wolkenschicht</falscheAntwort1>
+            <falscheAntwort2>die Luftschicht</falscheAntwort2>
+            <falscheAntwort3>die Tagschicht</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Schicht in der Erdatmosphäre, die die Erde vor der ultravioletten Strahlung schützt?</fragenText>
+            <richtigeAntwort>Ozonschicht</richtigeAntwort>
+            <falscheAntwort1>Odolschicht</falscheAntwort1>
+            <falscheAntwort2>Neonschicht</falscheAntwort2>
+            <falscheAntwort3>Geoschicht</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was befindet sich im Mittelpunkt unseres Sonnensystems?</fragenText>
+            <richtigeAntwort>die Sonne</richtigeAntwort>
+            <falscheAntwort1>die Erde</falscheAntwort1>
+            <falscheAntwort2>der Mond</falscheAntwort2>
+            <falscheAntwort3>gar nichts</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch sind die höchsten Berge auf dem Mond?</fragenText>
+            <richtigeAntwort>bis 8.000 m</richtigeAntwort>
+            <falscheAntwort1>bis 450 m</falscheAntwort1>
+            <falscheAntwort2>1.200 - 1.800 m</falscheAntwort2>
+            <falscheAntwort3>bis 12.000 m</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie sind die Temperaturen auf dem Mond?</fragenText>
+            <richtigeAntwort>-160 Grad bis + 130 Grad</richtigeAntwort>
+            <falscheAntwort1>immer 45 Grad Celsius</falscheAntwort1>
+            <falscheAntwort2>ungefähr wie auf der Erde</falscheAntwort2>
+            <falscheAntwort3>28 Grad - 76 Grad Celsius</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viel mal größer als der Durchmesser der Erde ist der Durchmesser der Sonne?</fragenText>
+            <richtigeAntwort>etwa 109-mal</richtigeAntwort>
+            <falscheAntwort1>über 300-mal</falscheAntwort1>
+            <falscheAntwort2>genau 78-mal</falscheAntwort2>
+            <falscheAntwort3>über 1000-mal</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man unbemannte Raumflugkörper?</fragenText>
+            <richtigeAntwort>Satelitten</richtigeAntwort>
+            <falscheAntwort1>Stalaktiten</falscheAntwort1>
+            <falscheAntwort2>Hebriden</falscheAntwort2>
+            <falscheAntwort3>Apollos</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Satelitten sind bisher gestartet worden?</fragenText>
+            <richtigeAntwort>4000</richtigeAntwort>
+            <falscheAntwort1>50</falscheAntwort1>
+            <falscheAntwort2>150</falscheAntwort2>
+            <falscheAntwort3>2700</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie schwer war die größte bisher gebaute Rakete?</fragenText>
+            <richtigeAntwort>2.900 t</richtigeAntwort>
+            <falscheAntwort1>15.400 t</falscheAntwort1>
+            <falscheAntwort2>110 t</falscheAntwort2>
+            <falscheAntwort3>1.700 t</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Antriebsbauteile einer Rakete?</fragenText>
+            <richtigeAntwort>Stufen</richtigeAntwort>
+            <falscheAntwort1>Treppen</falscheAntwort1>
+            <falscheAntwort2>Kanonen</falscheAntwort2>
+            <falscheAntwort3>Kugeln</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Trägerrakete der Europäischen Weltraumorganisation?</fragenText>
+            <richtigeAntwort>Ariane</richtigeAntwort>
+            <falscheAntwort1>Saturn</falscheAntwort1>
+            <falscheAntwort2>Europa</falscheAntwort2>
+            <falscheAntwort3>Wostok</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lange dauerte der bisher längste Aufenthalt auf dem Mond?</fragenText>
+            <richtigeAntwort>ca. 75 Stunden</richtigeAntwort>
+            <falscheAntwort1>ca. 7 Stunden</falscheAntwort1>
+            <falscheAntwort2>ca. 21 Stunden</falscheAntwort2>
+            <falscheAntwort3>ca. 64 Stunden</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Schalter, Hebel und Anzeigen gibt es in einer Raumfähre?</fragenText>
+            <richtigeAntwort>über 2.000</richtigeAntwort>
+            <falscheAntwort1>1.100 - 1.500</falscheAntwort1>
+            <falscheAntwort2>weniger als 1.700</falscheAntwort2>
+            <falscheAntwort3>genau 894</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lange dauert die Ausbildung zum Piloten einer Raumfähre?</fragenText>
+            <richtigeAntwort>ca. 8 Jahre</richtigeAntwort>
+            <falscheAntwort1>48 Monate</falscheAntwort1>
+            <falscheAntwort2>4 Jahre</falscheAntwort2>
+            <falscheAntwort3>etwa 6 Jahre</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man Weltraumfahrer?</fragenText>
+            <richtigeAntwort>Astronauten</richtigeAntwort>
+            <falscheAntwort1>Allolauten</falscheAntwort1>
+            <falscheAntwort2>Zweigonauten</falscheAntwort2>
+            <falscheAntwort3>Wellolauten</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennen die Russen ihre Weltraumfahrer?</fragenText>
+            <richtigeAntwort>Kosmonauten</richtigeAntwort>
+            <falscheAntwort1>Astronauten</falscheAntwort1>
+            <falscheAntwort2>Wodkanauten</falscheAntwort2>
+            <falscheAntwort3>Russonauten</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Planeten gibt es in unserem Sonnensystem?</fragenText>
+            <richtigeAntwort>9</richtigeAntwort>
+            <falscheAntwort1>7</falscheAntwort1>
+            <falscheAntwort2>11</falscheAntwort2>
+            <falscheAntwort3>15</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Himmelskörper sind erst „Riesen“ und dann „Zwerge“?</fragenText>
+            <richtigeAntwort>Sterne</richtigeAntwort>
+            <falscheAntwort1>Planeten</falscheAntwort1>
+            <falscheAntwort2>Asteroiden</falscheAntwort2>
+            <falscheAntwort3>Monde</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen die beiden Riesenplaneten unseres Sonnensystems?</fragenText>
+            <richtigeAntwort>Jupiter und Saturn</richtigeAntwort>
+            <falscheAntwort1>Merkur und Venus</falscheAntwort1>
+            <falscheAntwort2>Mars und Erde</falscheAntwort2>
+            <falscheAntwort3>Pluto und Neptun</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hoch war die Mondrakete Saturn V?</fragenText>
+            <richtigeAntwort>110,60 m</richtigeAntwort>
+            <falscheAntwort1>97,50 m</falscheAntwort1>
+            <falscheAntwort2>64,10 m</falscheAntwort2>
+            <falscheAntwort3>234,50 m</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Planet wird auch Abendstern genannt?</fragenText>
+            <richtigeAntwort>Venus</richtigeAntwort>
+            <falscheAntwort1>Merkur</falscheAntwort1>
+            <falscheAntwort2>Mars</falscheAntwort2>
+            <falscheAntwort3>Pluto</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der hellste Planet in unserem Sonnensystem?</fragenText>
+            <richtigeAntwort>Venus</richtigeAntwort>
+            <falscheAntwort1>Saturn</falscheAntwort1>
+            <falscheAntwort2>Neptun</falscheAntwort2>
+            <falscheAntwort3>Mars</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie oft würde die Erde in die Sonne passen?</fragenText>
+            <richtigeAntwort>einmillionenmal</richtigeAntwort>
+            <falscheAntwort1>hunderttausendmal</falscheAntwort1>
+            <falscheAntwort2>vierhunderttausendmal</falscheAntwort2>
+            <falscheAntwort3>siebenhunderttausendmal</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie groß ist der Merkur?</fragenText>
+            <richtigeAntwort>halb so groß wie die Erde</richtigeAntwort>
+            <falscheAntwort1>so groß wie die Erde</falscheAntwort1>
+            <falscheAntwort2>doppelt so groß wie die Erde</falscheAntwort2>
+            <falscheAntwort3>so groß wie die Sonne</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Warum ist der Merkur so schwer zu beobachten?</fragenText>
+            <richtigeAntwort>weil er so nahe an der Sonne ist</richtigeAntwort>
+            <falscheAntwort1>weil er so klein ist</falscheAntwort1>
+            <falscheAntwort2>weil er so hell ist</falscheAntwort2>
+            <falscheAntwort3>weil er so dunkel ist</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heiß ist es auf der Seite des Merkur, die der Sonne zugewandt ist?</fragenText>
+            <richtigeAntwort>430° Celsius</richtigeAntwort>
+            <falscheAntwort1>100° Celsius</falscheAntwort1>
+            <falscheAntwort2>240° Celsius</falscheAntwort2>
+            <falscheAntwort3>910° Celsius</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie kalt kann es auf der Seite des Merkur werden, die der Sonne abgewandt ist?</fragenText>
+            <richtigeAntwort>- 180° Celsius</richtigeAntwort>
+            <falscheAntwort1>0° Celsius</falscheAntwort1>
+            <falscheAntwort2>10° Celsius</falscheAntwort2>
+            <falscheAntwort3>- 65° Celsius</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lange braucht der Merkur für eine Drehung um seine eigene Achse?</fragenText>
+            <richtigeAntwort>59 Erdentage</richtigeAntwort>
+            <falscheAntwort1>24 Erdentage</falscheAntwort1>
+            <falscheAntwort2>46 Erdentage</falscheAntwort2>
+            <falscheAntwort3>82 Erdentage</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie ist es auf der Oberfläche der Venus?</fragenText>
+            <richtigeAntwort>dunkel und heiß</richtigeAntwort>
+            <falscheAntwort1>hell und mild</falscheAntwort1>
+            <falscheAntwort2>windig und kalt</falscheAntwort2>
+            <falscheAntwort3>wie auf der Erde</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lange braucht die Venus für eine Umdrehung um ihre eigene Achse?</fragenText>
+            <richtigeAntwort>234 Erdentage</richtigeAntwort>
+            <falscheAntwort1>112 Erdentage</falscheAntwort1>
+            <falscheAntwort2>65 Erdentage</falscheAntwort2>
+            <falscheAntwort3>4 Erdentage</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heiß wird es auf der Venus?</fragenText>
+            <richtigeAntwort>bis 470° Celsius</richtigeAntwort>
+            <falscheAntwort1>bis 125° Celsius</falscheAntwort1>
+            <falscheAntwort2>bis 236° Celsius</falscheAntwort2>
+            <falscheAntwort3>bis 309° Celsius</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Monde begleiten den Mars?</fragenText>
+            <richtigeAntwort>2</richtigeAntwort>
+            <falscheAntwort1>3</falscheAntwort1>
+            <falscheAntwort2>4</falscheAntwort2>
+            <falscheAntwort3>5</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen die beiden Marsmonde?</fragenText>
+            <richtigeAntwort>Phobos und Deimos</richtigeAntwort>
+            <falscheAntwort1>Io und Ia</falscheAntwort1>
+            <falscheAntwort2>Titan und Wotan</falscheAntwort2>
+            <falscheAntwort3>Phil und Dämon</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Form haben die Marsmonde?</fragenText>
+            <richtigeAntwort>kartoffelförmig</richtigeAntwort>
+            <falscheAntwort1>birnenförmig</falscheAntwort1>
+            <falscheAntwort2>apfelförmig</falscheAntwort2>
+            <falscheAntwort3>bananenförmig</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Tage dauert ein Marsjahr?</fragenText>
+            <richtigeAntwort>687</richtigeAntwort>
+            <falscheAntwort1>367</falscheAntwort1>
+            <falscheAntwort2>256</falscheAntwort2>
+            <falscheAntwort3>110</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist der große rote Fleck auf der Oberfläche des Jupiters?</fragenText>
+            <richtigeAntwort>ein gewaltiger Wirbelsturm</richtigeAntwort>
+            <falscheAntwort1>ein Vulkanausbruch</falscheAntwort1>
+            <falscheAntwort2>explodierende Gase</falscheAntwort2>
+            <falscheAntwort3>Sonnenreflexion</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie groß ist der rote Fleck auf der Oberfläche des Jupiters?</fragenText>
+            <richtigeAntwort>so groß wie die Erde</richtigeAntwort>
+            <falscheAntwort1>so groß wie der Mond</falscheAntwort1>
+            <falscheAntwort2>1000 km</falscheAntwort2>
+            <falscheAntwort3>100 km</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie oft würde die Erde in den Saturn passen?</fragenText>
+            <richtigeAntwort>700 - mal</richtigeAntwort>
+            <falscheAntwort1>300 - mal</falscheAntwort1>
+            <falscheAntwort2>100 - mal</falscheAntwort2>
+            <falscheAntwort3>500 - mal</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Temperatur herrscht auf der Saturnoberfläche?</fragenText>
+            <richtigeAntwort>-180° Celsius</richtigeAntwort>
+            <falscheAntwort1>100° Celsius</falscheAntwort1>
+            <falscheAntwort2>50° Celsius</falscheAntwort2>
+            <falscheAntwort3>-20° Celsius</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Ringe hat der Saturn?</fragenText>
+            <richtigeAntwort>7</richtigeAntwort>
+            <falscheAntwort1>2</falscheAntwort1>
+            <falscheAntwort2>5</falscheAntwort2>
+            <falscheAntwort3>6</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann wurden die Ringe des Uranus erst entdeckt?</fragenText>
+            <richtigeAntwort>1977</richtigeAntwort>
+            <falscheAntwort1>1911</falscheAntwort1>
+            <falscheAntwort2>1933</falscheAntwort2>
+            <falscheAntwort3>1955</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Zeit, die vergeht, wenn ein Planet sich einmal um seine eigene Achse dreht?</fragenText>
+            <richtigeAntwort>Tag</richtigeAntwort>
+            <falscheAntwort1>Woche</falscheAntwort1>
+            <falscheAntwort2>Monat</falscheAntwort2>
+            <falscheAntwort3>Jahr</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Zeit, die vergeht, wenn ein Planet einmal die Sonne umkreist?</fragenText>
+            <richtigeAntwort>Jahr</richtigeAntwort>
+            <falscheAntwort1>Tag</falscheAntwort1>
+            <falscheAntwort2>Woche</falscheAntwort2>
+            <falscheAntwort3>Monat</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Zeit, die der Mond braucht, um einmal die Erde zu umkreisen?</fragenText>
+            <richtigeAntwort>Monat</richtigeAntwort>
+            <falscheAntwort1>Tag</falscheAntwort1>
+            <falscheAntwort2>Woche</falscheAntwort2>
+            <falscheAntwort3>Jahr</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zwischen welchen Planeten bewegen sich die meisten Asteroiden?</fragenText>
+            <richtigeAntwort>Mars und Jupiter</richtigeAntwort>
+            <falscheAntwort1>Erde und Mars</falscheAntwort1>
+            <falscheAntwort2>Venus und Erde</falscheAntwort2>
+            <falscheAntwort3>Neptun und Pluto</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hieß der erste Amerikaner im Weltraum?</fragenText>
+            <richtigeAntwort>John Glenn</richtigeAntwort>
+            <falscheAntwort1>Phil Collins</falscheAntwort1>
+            <falscheAntwort2>Tom Hanks</falscheAntwort2>
+            <falscheAntwort3>Henry Ford</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann flog der erste Amerikaner in den Weltraum?</fragenText>
+            <richtigeAntwort>1962</richtigeAntwort>
+            <falscheAntwort1>1961</falscheAntwort1>
+            <falscheAntwort2>1960</falscheAntwort2>
+            <falscheAntwort3>1963</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was bringen Raketen in den Weltraum?</fragenText>
+            <richtigeAntwort>Satelitten</richtigeAntwort>
+            <falscheAntwort1>Meteoriten</falscheAntwort1>
+            <falscheAntwort2>Asteroide</falscheAntwort2>
+            <falscheAntwort3>Kometen</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Planeten umkreisen die Sonne in der gleichen Richtung?</fragenText>
+            <richtigeAntwort>alle Planeten</richtigeAntwort>
+            <falscheAntwort1>die vier inneren Planeten</falscheAntwort1>
+            <falscheAntwort2>die drei äußeren Planeten</falscheAntwort2>
+            <falscheAntwort3>Venus und Mars</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Planet, dessen Umlaufbahn nicht auf der Ebene aller anderer Planeten- umlaufbahnen liegt?</fragenText>
+            <richtigeAntwort>Pluto</richtigeAntwort>
+            <falscheAntwort1>Saturn</falscheAntwort1>
+            <falscheAntwort2>Neptun</falscheAntwort2>
+            <falscheAntwort3>Uranus</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viel Prozent der Gesamtmasse unseres Sonnensystems macht allein die Sonne aus?</fragenText>
+            <richtigeAntwort>99 %</richtigeAntwort>
+            <falscheAntwort1>50 %</falscheAntwort1>
+            <falscheAntwort2>75 %</falscheAntwort2>
+            <falscheAntwort3>82 %</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche vier Planeten haben Ringe?</fragenText>
+            <richtigeAntwort>Saturn, Uranus, Neptun, Jupiter</richtigeAntwort>
+            <falscheAntwort1>Venus, Neptun, Pluto, Saturn</falscheAntwort1>
+            <falscheAntwort2>Uranus, Merkur, Jupiter, Neptun</falscheAntwort2>
+            <falscheAntwort3>Jupiter, Saturn, Neptun, Mars</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Astronauten sind bis 2001 auf dem Mond gelandet?</fragenText>
+            <richtigeAntwort>12</richtigeAntwort>
+            <falscheAntwort1>10</falscheAntwort1>
+            <falscheAntwort2>6</falscheAntwort2>
+            <falscheAntwort3>11</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wenn die Sonne einen Durchmesser von 1,75 m hätte, wie groß wäre dann die Erde?</fragenText>
+            <richtigeAntwort>16 mm</richtigeAntwort>
+            <falscheAntwort1>40 cm</falscheAntwort1>
+            <falscheAntwort2>12 cm</falscheAntwort2>
+            <falscheAntwort3>5 cm</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Planet hat weiße, blaue und rosarote Wolken?</fragenText>
+            <richtigeAntwort>Mars</richtigeAntwort>
+            <falscheAntwort1>Venus</falscheAntwort1>
+            <falscheAntwort2>Merkur</falscheAntwort2>
+            <falscheAntwort3>Pluto</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was gibt dem Planeten Uranus seine blau-grüne Farbe?</fragenText>
+            <richtigeAntwort>Methan</richtigeAntwort>
+            <falscheAntwort1>Sauerstoff</falscheAntwort1>
+            <falscheAntwort2>Pflanzen</falscheAntwort2>
+            <falscheAntwort3>Wasser</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt einer der größten bekannten Sterne?</fragenText>
+            <richtigeAntwort>Beteigeuze</richtigeAntwort>
+            <falscheAntwort1>Maleugohe</falscheAntwort1>
+            <falscheAntwort2>Turaderom</falscheAntwort2>
+            <falscheAntwort3>Gretijolu</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Planet kreist am schnellsten um die Sonne?</fragenText>
+            <richtigeAntwort>Merkur</richtigeAntwort>
+            <falscheAntwort1>Erde</falscheAntwort1>
+            <falscheAntwort2>Neptun</falscheAntwort2>
+            <falscheAntwort3>Pluto</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Stern, der unserer Sonne am nächsten ist?</fragenText>
+            <richtigeAntwort>Proxima Centauri</richtigeAntwort>
+            <falscheAntwort1>Beluga Maxima</falscheAntwort1>
+            <falscheAntwort2>Tromem Ultra</falscheAntwort2>
+            <falscheAntwort3>Serina Serum</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>14</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lange wäre eine Raumfähre von der Erde bis zum Pluto unterwegs?</fragenText>
+            <richtigeAntwort>10 - 15 Jahre</richtigeAntwort>
+            <falscheAntwort1>8 Jahre</falscheAntwort1>
+            <falscheAntwort2>4 - 6 Jahre</falscheAntwort2>
+            <falscheAntwort3>32 Jahre</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches ist der heißeste Teil der Sonne?</fragenText>
+            <richtigeAntwort>der Kern</richtigeAntwort>
+            <falscheAntwort1>die Korona</falscheAntwort1>
+            <falscheAntwort2>die Photosphäre</falscheAntwort2>
+            <falscheAntwort3>die Atmosphäre</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der einzige Planet unseres Sonnensystems, auf dem es viel flüssiges Wasser gibt?</fragenText>
+            <richtigeAntwort>Erde</richtigeAntwort>
+            <falscheAntwort1>Venus</falscheAntwort1>
+            <falscheAntwort2>Mars</falscheAntwort2>
+            <falscheAntwort3>Merkur</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Astronauten können an Bord des Spaceshuttles mitfliegen?</fragenText>
+            <richtigeAntwort>7</richtigeAntwort>
+            <falscheAntwort1>4</falscheAntwort1>
+            <falscheAntwort2>5</falscheAntwort2>
+            <falscheAntwort3>6</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Woraus besteht die Atmosphäre der Venus hauptsächlich?</fragenText>
+            <richtigeAntwort>Kohlendioxid</richtigeAntwort>
+            <falscheAntwort1>Sauerstoff</falscheAntwort1>
+            <falscheAntwort2>Wasserstoff</falscheAntwort2>
+            <falscheAntwort3>Ozon</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Wolke am Rande unseres Sonnensystems, aus der wahrscheinlich die Kometen stammen?</fragenText>
+            <richtigeAntwort>Oortsche Wolke</richtigeAntwort>
+            <falscheAntwort1>Magellansche Wolke</falscheAntwort1>
+            <falscheAntwort2>Andromeda Wolke</falscheAntwort2>
+            <falscheAntwort3>Komet Wolke</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie groß ist der Durchmesser des Planeten Pluto?</fragenText>
+            <richtigeAntwort>2.300 km</richtigeAntwort>
+            <falscheAntwort1>4.500 km</falscheAntwort1>
+            <falscheAntwort2>12.800 km</falscheAntwort2>
+            <falscheAntwort3>560.000 km</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist ein Planet?</fragenText>
+            <richtigeAntwort>Pluto</richtigeAntwort>
+            <falscheAntwort1>Goofy</falscheAntwort1>
+            <falscheAntwort2>Donald</falscheAntwort2>
+            <falscheAntwort3>Dagobert</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>2</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist ein Planet?</fragenText>
+            <richtigeAntwort>Mars</richtigeAntwort>
+            <falscheAntwort1>Bounty</falscheAntwort1>
+            <falscheAntwort2>Kitkat</falscheAntwort2>
+            <falscheAntwort3>Milky Way</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>2</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist kein Planet?</fragenText>
+            <richtigeAntwort>Sonne</richtigeAntwort>
+            <falscheAntwort1>Venus</falscheAntwort1>
+            <falscheAntwort2>Uranus</falscheAntwort2>
+            <falscheAntwort3>Merkur</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Planet wird auch „Blauer Planet“ genannt?</fragenText>
+            <richtigeAntwort>Erde</richtigeAntwort>
+            <falscheAntwort1>Mars</falscheAntwort1>
+            <falscheAntwort2>Venus</falscheAntwort2>
+            <falscheAntwort3>Pluto</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Mit welchem griechischen Wort wird das Weltall bezeichnet?</fragenText>
+            <richtigeAntwort>Kosmos</richtigeAntwort>
+            <falscheAntwort1>Gyros</falscheAntwort1>
+            <falscheAntwort2>Rhodos</falscheAntwort2>
+            <falscheAntwort3>Tauboss</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Auf welchem Planeten (außer der Erde) fuhr das erste Planetenfahrzeug?</fragenText>
+            <richtigeAntwort>Mars</richtigeAntwort>
+            <falscheAntwort1>Venus</falscheAntwort1>
+            <falscheAntwort2>Pluto</falscheAntwort2>
+            <falscheAntwort3>Merkur</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hieß das erste „Planetenfahrzeug“ außerhalb der Erde?</fragenText>
+            <richtigeAntwort>Sojourner</richtigeAntwort>
+            <falscheAntwort1>Bon Jovi</falscheAntwort1>
+            <falscheAntwort2>Wostok</falscheAntwort2>
+            <falscheAntwort3>Planetcar</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie teuer war die erste außerirdische „Planetenfahrzeugmission“?</fragenText>
+            <richtigeAntwort>267 Milliarden Dollar</richtigeAntwort>
+            <falscheAntwort1>359 Millionen Dollar</falscheAntwort1>
+            <falscheAntwort2>659 Millionen Dollar</falscheAntwort2>
+            <falscheAntwort3>1 Milliarde Dollar</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie groß ist der Durchmesser unseres Mondes?</fragenText>
+            <richtigeAntwort>3.500 km</richtigeAntwort>
+            <falscheAntwort1>2.000 km</falscheAntwort1>
+            <falscheAntwort2>5.000 km</falscheAntwort2>
+            <falscheAntwort3>7.500 km</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Monde passen in die Erde?</fragenText>
+            <richtigeAntwort>50</richtigeAntwort>
+            <falscheAntwort1>10</falscheAntwort1>
+            <falscheAntwort2>100</falscheAntwort2>
+            <falscheAntwort3>25</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viel mal leichter als die Erde ist unser Mond?</fragenText>
+            <richtigeAntwort>81 - mal</richtigeAntwort>
+            <falscheAntwort1>24 - mal</falscheAntwort1>
+            <falscheAntwort2>52 - mal</falscheAntwort2>
+            <falscheAntwort3>65 - mal</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Sonde landete zuerst auf dem Mond?</fragenText>
+            <richtigeAntwort>Lunik 2</richtigeAntwort>
+            <falscheAntwort1>Lunik 1</falscheAntwort1>
+            <falscheAntwort2>Sputnik 1</falscheAntwort2>
+            <falscheAntwort3>Ranger 3</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann landete die erste Sonde auf dem Mond?</fragenText>
+            <richtigeAntwort>1959</richtigeAntwort>
+            <falscheAntwort1>1958</falscheAntwort1>
+            <falscheAntwort2>1957</falscheAntwort2>
+            <falscheAntwort3>1960</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hießen die Vorläufer der Apollo - Raumschiffe?</fragenText>
+            <richtigeAntwort>Gemini - Raumschiffe</richtigeAntwort>
+            <falscheAntwort1>Mercury - Raumschiffe</falscheAntwort1>
+            <falscheAntwort2>Ranger - Raumschiffe</falscheAntwort2>
+            <falscheAntwort3>Explorer - Raumschiffe</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Mond des Planeten Pluto?</fragenText>
+            <richtigeAntwort>Charon</richtigeAntwort>
+            <falscheAntwort1>Chaos</falscheAntwort1>
+            <falscheAntwort2>Chamel</falscheAntwort2>
+            <falscheAntwort3>Charme</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie groß ist der Durchmesser des Plutomondes?</fragenText>
+            <richtigeAntwort>1.200 km</richtigeAntwort>
+            <falscheAntwort1>4.500 km</falscheAntwort1>
+            <falscheAntwort2>3.400 km</falscheAntwort2>
+            <falscheAntwort3>2.300 km</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Zu welchem Planet gehört der Mond Ananke?</fragenText>
+            <richtigeAntwort>Jupiter</richtigeAntwort>
+            <falscheAntwort1>Uranus</falscheAntwort1>
+            <falscheAntwort2>Saturn</falscheAntwort2>
+            <falscheAntwort3>Mars</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie werden die vier inneren Planeten auch genannt?</fragenText>
+            <richtigeAntwort>Gesteinsplaneten</richtigeAntwort>
+            <falscheAntwort1>Staubplaneten</falscheAntwort1>
+            <falscheAntwort2>Gasplaneten</falscheAntwort2>
+            <falscheAntwort3>Metallplaneten</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der hellste Stern?</fragenText>
+            <richtigeAntwort>Sirius</richtigeAntwort>
+            <falscheAntwort1>Procyon</falscheAntwort1>
+            <falscheAntwort2>Wega</falscheAntwort2>
+            <falscheAntwort3>Hadar</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der größte bekannte Stern?</fragenText>
+            <richtigeAntwort>Mu Cephei</richtigeAntwort>
+            <falscheAntwort1>VV Cephei B</falscheAntwort1>
+            <falscheAntwort2>Antares</falscheAntwort2>
+            <falscheAntwort3>Ras Algethi</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

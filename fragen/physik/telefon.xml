@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Physik</fach>
+    <thema>Entwicklungen in der Nachrichtentechnik, Stand 14.3,01</thema>
+    <autor>Alfred Bergkemper, 3/2001</autor>
+    <anzahlFragen>28</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>Auf welche Weise haben die Indianer früher wichtige Kurzbotschaften verschickt?</fragenText>
+            <richtigeAntwort>Mit Rauchzeichen</richtigeAntwort>
+            <falscheAntwort1>Mit Brieftauben</falscheAntwort1>
+            <falscheAntwort2>Mit der Post</falscheAntwort2>
+            <falscheAntwort3>Mit dem Taxi</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>5</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer hat das nach ihm benannte System von Punkten und Strichen erfunden, mit dem man erstmalig lange Botschaften blitzschnell durch das ganze Land schicken konnte?</fragenText>
+            <richtigeAntwort>Samuel Morse</richtigeAntwort>
+            <falscheAntwort1>Stefan Raab</falscheAntwort1>
+            <falscheAntwort2>Albert Einstein</falscheAntwort2>
+            <falscheAntwort3>Alexander Bell</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Teil des Telefons setzt die Schallschwingungen um in Schwingungen des elektrischen Stroms?</fragenText>
+            <richtigeAntwort>Mikrofon</richtigeAntwort>
+            <falscheAntwort1>Wählscheibe</falscheAntwort1>
+            <falscheAntwort2>Hörkapsel</falscheAntwort2>
+            <falscheAntwort3>Schwingungsgeber</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches dieser Bauteile benötigt man nicht, wenn man mit einem herkömmlichen Telefon nur telefonieren will?</fragenText>
+            <richtigeAntwort>die Wählscheibe</richtigeAntwort>
+            <falscheAntwort1>die Telefonleitung</falscheAntwort1>
+            <falscheAntwort2>den Hörer</falscheAntwort2>
+            <falscheAntwort3>das Mikrofon</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man eine Anlage zur Übermittlung von Zeichen in schriftlicher Form?</fragenText>
+            <richtigeAntwort>Telegraf</richtigeAntwort>
+            <falscheAntwort1>Rabigramm</falscheAntwort1>
+            <falscheAntwort2>Telefon</falscheAntwort2>
+            <falscheAntwort3>Morsephon</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was bedeutet beim Morsen die Zeichenkombination dreimal kurz, dreimal lang, dreimal kurz?</fragenText>
+            <richtigeAntwort>Rettet unsere Seelen!</richtigeAntwort>
+            <falscheAntwort1>Das Bier ist alle!</falscheAntwort1>
+            <falscheAntwort2>Das Schiff sinkt!</falscheAntwort2>
+            <falscheAntwort3>... und tschüss!</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was war der Erfinder des Telefons von Beruf, bevor er sich mit der Erfindung beschäftigte?</fragenText>
+            <richtigeAntwort>Taubstummenlehrer</richtigeAntwort>
+            <falscheAntwort1>Metzger</falscheAntwort1>
+            <falscheAntwort2>Priester</falscheAntwort2>
+            <falscheAntwort3>Kantinenwirt</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer gilt als der Erfinder des Telefons?</fragenText>
+            <richtigeAntwort>Alexander Graham Bell</richtigeAntwort>
+            <falscheAntwort1>Otto von Bismarck</falscheAntwort1>
+            <falscheAntwort2>Alessandro Volta</falscheAntwort2>
+            <falscheAntwort3>Ron Sommer</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>2</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer hat das Telefon um 1900 in Deutschland entscheidend verbessert?</fragenText>
+            <richtigeAntwort>Werner von Siemens</richtigeAntwort>
+            <falscheAntwort1>Konrad Zuse</falscheAntwort1>
+            <falscheAntwort2>Henry Ford</falscheAntwort2>
+            <falscheAntwort3>Nikolaus Otto</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Medium breitet sich der Schall am langsamsten aus?</fragenText>
+            <richtigeAntwort>Luft</richtigeAntwort>
+            <falscheAntwort1>Alkohol</falscheAntwort1>
+            <falscheAntwort2>Stahl</falscheAntwort2>
+            <falscheAntwort3>Blei</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Zeichen wird beim Morsen durch *einen kurzen Ton* übermittelt?</fragenText>
+            <richtigeAntwort>ein E</richtigeAntwort>
+            <falscheAntwort1>ein T</falscheAntwort1>
+            <falscheAntwort2>ein I</falscheAntwort2>
+            <falscheAntwort3>ein X</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hieß die Maschine, mit der deutsche Funker im 2. Weltkrieg die wichtigsten Botschaften verschlüsselten?</fragenText>
+            <richtigeAntwort>Enigma</richtigeAntwort>
+            <falscheAntwort1>Zaratustra</falscheAntwort1>
+            <falscheAntwort2>Kristmichnich</falscheAntwort2>
+            <falscheAntwort3>U2000-B</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Land wurden früher Nachrichten durch ein Stück Holz übermittelt, das an einem Seil herumgeschleudert wurde und dabei einen sehr tiefen Ton von sich gab?</fragenText>
+            <richtigeAntwort>Australien</richtigeAntwort>
+            <falscheAntwort1>Amerika</falscheAntwort1>
+            <falscheAntwort2>Süditalien</falscheAntwort2>
+            <falscheAntwort3>Afrika</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Land wurde eine Telegrafensystem gebaut, das Zeichen mit Hilfe von beweglichen Brettern optisch von Turm zu Turm übermittelte und schließlich über 200 Km weit reichte?</fragenText>
+            <richtigeAntwort>Frankreich</richtigeAntwort>
+            <falscheAntwort1>Deutschland</falscheAntwort1>
+            <falscheAntwort2>Großbritannien</falscheAntwort2>
+            <falscheAntwort3>Nordamerika</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Tierart wird noch heute manchmal zur Übermittlung von Botschaften eingesetzt?</fragenText>
+            <richtigeAntwort>Brieftauben</richtigeAntwort>
+            <falscheAntwort1>Briefschweine</falscheAntwort1>
+            <falscheAntwort2>Briefhunde</falscheAntwort2>
+            <falscheAntwort3>Briefelefanten</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer gilt als Erfinder der drahtlosen Tegrafie?</fragenText>
+            <richtigeAntwort>Marconi</richtigeAntwort>
+            <falscheAntwort1>Bell</falscheAntwort1>
+            <falscheAntwort2>Reis</falscheAntwort2>
+            <falscheAntwort3>Siemens</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches elektronische Bauteil hat seit 1948 die Technik der Datenübermittlung revolutioniert?</fragenText>
+            <richtigeAntwort>der Transistor</richtigeAntwort>
+            <falscheAntwort1>die Radioröhre</falscheAntwort1>
+            <falscheAntwort2>das Relais</falscheAntwort2>
+            <falscheAntwort3>der Elektromotor</falscheAntwort3>
+            <schwierikeit>13</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Teil des Telefons setzt Schwingungen des elektrischen Stroms um in Schwingungen des Schalls?</fragenText>
+            <richtigeAntwort>Hörkapsel</richtigeAntwort>
+            <falscheAntwort1>Mikrofon</falscheAntwort1>
+            <falscheAntwort2>Wählscheibe</falscheAntwort2>
+            <falscheAntwort3>Schwingungsgeber</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wieviel verschiedene Zeichen kennt das Morsealphabet?</fragenText>
+            <richtigeAntwort>zwei</richtigeAntwort>
+            <falscheAntwort1>drei</falscheAntwort1>
+            <falscheAntwort2>vier</falscheAntwort2>
+            <falscheAntwort3>fünf</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie wurden früher Nachrichten auf kurze Entfernung von einem Schiff auf ein anderes übermittelt?</fragenText>
+            <richtigeAntwort>mit Flaggen</richtigeAntwort>
+            <falscheAntwort1>mit einem Gummischlauch</falscheAntwort1>
+            <falscheAntwort2>mit Brieftauben</falscheAntwort2>
+            <falscheAntwort3>mit kleinen Booten</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann wurde das Telefon erfunden?</fragenText>
+            <richtigeAntwort>1876</richtigeAntwort>
+            <falscheAntwort1>1786</falscheAntwort1>
+            <falscheAntwort2>1678</falscheAntwort2>
+            <falscheAntwort3>1867</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welcher Einheit wird die elektrische Spannung gemessen?</fragenText>
+            <richtigeAntwort>in Volt</richtigeAntwort>
+            <falscheAntwort1>in Ampere</falscheAntwort1>
+            <falscheAntwort2>in Ohm</falscheAntwort2>
+            <falscheAntwort3>in Öxle</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welcher Einheit wird der elektrische Strom gemessen?</fragenText>
+            <richtigeAntwort>in Ampere</richtigeAntwort>
+            <falscheAntwort1>in Volt</falscheAntwort1>
+            <falscheAntwort2>in Ohm</falscheAntwort2>
+            <falscheAntwort3>in Quadratmeter</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Material lässt sich nicht zur Weiterleitung elektrischer Schwingungen für eine Telefonleitung nutzen?</fragenText>
+            <richtigeAntwort>Seide</richtigeAntwort>
+            <falscheAntwort1>Kupfer</falscheAntwort1>
+            <falscheAntwort2>Aluminium</falscheAntwort2>
+            <falscheAntwort3>Eisen</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist nicht Bestandteil einer Hörerkapsel?</fragenText>
+            <richtigeAntwort>Kohlekörner</richtigeAntwort>
+            <falscheAntwort1>Spule</falscheAntwort1>
+            <falscheAntwort2>Eisenplättchen</falscheAntwort2>
+            <falscheAntwort3>Magnet</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie wurden vor 100 Jahren die Verbindungen zwischen zwei Telefonteilnehmern hergestellt?</fragenText>
+            <richtigeAntwort>Fräulein vom Amt</richtigeAntwort>
+            <falscheAntwort1>Computer</falscheAntwort1>
+            <falscheAntwort2>Schaltrelais</falscheAntwort2>
+            <falscheAntwort3>Roboter</falscheAntwort3>
+            <schwierikeit>10</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

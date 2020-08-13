@@ -1,0 +1,2009 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Deutsch</fach>
+    <thema>Harry Potter</thema>
+    <autor>Manfred Hartisch 2001</autor>
+    <anzahlFragen>200</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>Wer verteidigt Harry Potter, als er verdächtigt wird, der Erbe von Slytherin zu sein?</fragenText>
+            <richtigeAntwort>Hannah Abbot</richtigeAntwort>
+            <falscheAntwort1>Stewart Ackerly</falscheAntwort1>
+            <falscheAntwort2>Ron Weasley</falscheAntwort2>
+            <falscheAntwort3>Draco Malfoy</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man eine Hexe oder einen Zauberer, der oder die in der Lage ist, sich nach Belieben in ein Tier zu verwandeln?</fragenText>
+            <richtigeAntwort>Animagus</richtigeAntwort>
+            <falscheAntwort1>Serpensortia</falscheAntwort1>
+            <falscheAntwort2>Ghul</falscheAntwort2>
+            <falscheAntwort3>Dianthus</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt Band 1 von Harry Potter?</fragenText>
+            <richtigeAntwort>H. P. und der Stein der Weisen</richtigeAntwort>
+            <falscheAntwort1>H. P. und der Feuerkelch</falscheAntwort1>
+            <falscheAntwort2>H. P. und der Gefangene von Askaban</falscheAntwort2>
+            <falscheAntwort3>H. P. und die Kammer des Schreckens</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt Band 2 von Harry Potter?</fragenText>
+            <richtigeAntwort>H. P. und die Kammer des Schreckens</richtigeAntwort>
+            <falscheAntwort1>H. P. und der Feuerkelch</falscheAntwort1>
+            <falscheAntwort2>H. P. und der Stein der Weisen</falscheAntwort2>
+            <falscheAntwort3>H. P. und der Gefangene von Askaban</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt Band 3 von Harry Potter?</fragenText>
+            <richtigeAntwort>H. P. und der Gefangene von Askaban</richtigeAntwort>
+            <falscheAntwort1>H. P. und der Feuerkelch</falscheAntwort1>
+            <falscheAntwort2>H. P. und der Stein der Weisen</falscheAntwort2>
+            <falscheAntwort3>H. P. und die Kammer des Schreckens</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt Band 4 von Harry Potter?</fragenText>
+            <richtigeAntwort>H. P. und der Feuerkelch</richtigeAntwort>
+            <falscheAntwort1>H. P. und der Stein der Weisen</falscheAntwort1>
+            <falscheAntwort2>H. P. und der Gefangene von Askaban</falscheAntwort2>
+            <falscheAntwort3>H. P. und die Kammer des Schreckens</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt ein Zentaur, der im Verbotenen Wald lebt?</fragenText>
+            <richtigeAntwort>Bane</richtigeAntwort>
+            <falscheAntwort1>Kane</falscheAntwort1>
+            <falscheAntwort2>Wane</falscheAntwort2>
+            <falscheAntwort3>Sane</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das Passwort für den Eingang in den Gryffindor - Turm in Harry Potters zweitem Schuljahr?</fragenText>
+            <richtigeAntwort>Bartvogel</richtigeAntwort>
+            <falscheAntwort1>Federfisch</falscheAntwort1>
+            <falscheAntwort2>Haarschlange</falscheAntwort2>
+            <falscheAntwort3>Zopfmaus</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Womit fliegen Hexen und Zauberer am häufigsten?</fragenText>
+            <richtigeAntwort>Besen</richtigeAntwort>
+            <falscheAntwort1>Spaten</falscheAntwort1>
+            <falscheAntwort2>Schrubber</falscheAntwort2>
+            <falscheAntwort3>Harke</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Hobby hat Albus Dumbledore auch?</fragenText>
+            <richtigeAntwort>Bowling</richtigeAntwort>
+            <falscheAntwort1>Bogenschießen</falscheAntwort1>
+            <falscheAntwort2>Handball</falscheAntwort2>
+            <falscheAntwort3>Badminton</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der fette Fotograf, der mit Rita Kimmkorn zusammenarbeitet?</fragenText>
+            <richtigeAntwort>Bozo</richtigeAntwort>
+            <falscheAntwort1>Hozo</falscheAntwort1>
+            <falscheAntwort2>Gozo</falscheAntwort2>
+            <falscheAntwort3>Lozo</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Form haben die Brillengläser von Professor Dumbledore?</fragenText>
+            <richtigeAntwort>halbmondförmig</richtigeAntwort>
+            <falscheAntwort1>rund</falscheAntwort1>
+            <falscheAntwort2>quadratisch</falscheAntwort2>
+            <falscheAntwort3>dreieckig</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Form haben die Brillengläser von Professor McGonagall?</fragenText>
+            <richtigeAntwort>quadratisch</richtigeAntwort>
+            <falscheAntwort1>rund</falscheAntwort1>
+            <falscheAntwort2>dreieckig</falscheAntwort2>
+            <falscheAntwort3>oval</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Form haben die Brillengläser von Harry Potter?</fragenText>
+            <richtigeAntwort>rund</richtigeAntwort>
+            <falscheAntwort1>dreieckig</falscheAntwort1>
+            <falscheAntwort2>quadratisch</falscheAntwort2>
+            <falscheAntwort3>sechseckig</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Brillengläser besitzt Sibyll Trelawney?</fragenText>
+            <richtigeAntwort>vergrößernde Brillengläser</richtigeAntwort>
+            <falscheAntwort1>verkleinernde Brillengläser</falscheAntwort1>
+            <falscheAntwort2>verdoppelnde Brillengläser</falscheAntwort2>
+            <falscheAntwort3>spiegelnde Brillengläser</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das Passwort für den Eingang in den Gryffindor - Turm in Harry Potters drittem Schuljahr?</fragenText>
+            <richtigeAntwort>Amontillado</richtigeAntwort>
+            <falscheAntwort1>Quimbanda</falscheAntwort1>
+            <falscheAntwort2>Homunculus</falscheAntwort2>
+            <falscheAntwort3>Dissendium</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Brille besitzt die Maulende Myrte?</fragenText>
+            <richtigeAntwort>eine Perlmuttbrille</richtigeAntwort>
+            <falscheAntwort1>eine Goldbrille</falscheAntwort1>
+            <falscheAntwort2>eine Silberbrille</falscheAntwort2>
+            <falscheAntwort3>eine Saphirbrille</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Brille besitzt die Journalistin Rita Kimmkorn?</fragenText>
+            <richtigeAntwort>eine juwelenbesetzte Brille</richtigeAntwort>
+            <falscheAntwort1>eine Metallbrille</falscheAntwort1>
+            <falscheAntwort2>eine federbesetzte Brille</falscheAntwort2>
+            <falscheAntwort3>eine Holzbrille</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der kleinste Geldwert der Zauberer?</fragenText>
+            <richtigeAntwort>Knut</richtigeAntwort>
+            <falscheAntwort1>Cent</falscheAntwort1>
+            <falscheAntwort2>Rubel</falscheAntwort2>
+            <falscheAntwort3>Taler</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Schülerin, deren Kaninchen im Oktober 1993 von einem Fuchs getötet wird?</fragenText>
+            <richtigeAntwort>Lavender Brown</richtigeAntwort>
+            <falscheAntwort1>Hermine Granger</falscheAntwort1>
+            <falscheAntwort2>Ginny Weasley</falscheAntwort2>
+            <falscheAntwort3>Tina Malfoy</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Gärtner der Familie von Tom Riddle, der von Lord Voldemort getötet wird?</fragenText>
+            <richtigeAntwort>Frank Bryce</richtigeAntwort>
+            <falscheAntwort1>Gero Bisanz</falscheAntwort1>
+            <falscheAntwort2>Zero Toliman</falscheAntwort2>
+            <falscheAntwort3>Pete Grease</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lange bleiben die blauen Blasen des „Bubbles Bester Blaskaugummi“ im Raum?</fragenText>
+            <richtigeAntwort>mindestens 30 Minuten</richtigeAntwort>
+            <falscheAntwort1>ca. 10 Minuten</falscheAntwort1>
+            <falscheAntwort2>1 - 5 Minuten</falscheAntwort2>
+            <falscheAntwort3>etwa 20 Minuten</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Zauberspruch, der jedes normale Schloss öffnet?</fragenText>
+            <richtigeAntwort>Alohoroma</richtigeAntwort>
+            <falscheAntwort1>Ulujabula</falscheAntwort1>
+            <falscheAntwort2>Elibemira</falscheAntwort2>
+            <falscheAntwort3>Opolutia</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen die hässlichen Pflanzen, die aussehen wie schwarze Riesenschnecken und an den Stängeln große schwarze Geschwülste tragen?</fragenText>
+            <richtigeAntwort>Bubotubler</richtigeAntwort>
+            <falscheAntwort1>Zuzurobler</falscheAntwort1>
+            <falscheAntwort2>Dudifurbler</falscheAntwort2>
+            <falscheAntwort3>Sasilector</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Zauberspruch, der kleine Vögel aus dem Zauberstab erscheinen lässt?</fragenText>
+            <richtigeAntwort>Avis</richtigeAntwort>
+            <falscheAntwort1>Ovis</falscheAntwort1>
+            <falscheAntwort2>Evis</falscheAntwort2>
+            <falscheAntwort3>Uvis</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Besenmarke, die für die ganze Familie, sicher und zuverlässig ist sowie einen eingebauten Diebstahlsummer hat?</fragenText>
+            <richtigeAntwort>Bulle</richtigeAntwort>
+            <falscheAntwort1>Ochse</falscheAntwort1>
+            <falscheAntwort2>Stier</falscheAntwort2>
+            <falscheAntwort3>Yak</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man den Fluch, bei dem die Beine zusammengeklemmt sind, als wären sie aneinander gebunden?</fragenText>
+            <richtigeAntwort>Beinklammer</richtigeAntwort>
+            <falscheAntwort1>Beinschere</falscheAntwort1>
+            <falscheAntwort2>Beinband</falscheAntwort2>
+            <falscheAntwort3>Beinfessel</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das Gefängnis für Hexen und Zauberer, das auf einer Insel im Norden der Nordsee liegt?</fragenText>
+            <richtigeAntwort>Askaban</richtigeAntwort>
+            <falscheAntwort1>Gringotts</falscheAntwort1>
+            <falscheAntwort2>Spellotape</falscheAntwort2>
+            <falscheAntwort3>Kerykeion</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Haustier besitzt Millicent Bulstrode, von dem Hermine Granger aus Versehen ein Haar für den Vielsaft - Trank erwischt und sich deshalb in dieses Tier verwandelt?</fragenText>
+            <richtigeAntwort>Katze</richtigeAntwort>
+            <falscheAntwort1>Hund</falscheAntwort1>
+            <falscheAntwort2>Maus</falscheAntwort2>
+            <falscheAntwort3>Meerschweinchen</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Haus ist Millicent Bulstrode Schülerin?</fragenText>
+            <richtigeAntwort>Slytherin</richtigeAntwort>
+            <falscheAntwort1>Ravenclaw</falscheAntwort1>
+            <falscheAntwort2>Gryffindor</falscheAntwort2>
+            <falscheAntwort3>Hufflepuff</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das erfrischende, sahnige, heiße Getränk, das man in Hogsmeade bekommt?</fragenText>
+            <richtigeAntwort>Butterbier</richtigeAntwort>
+            <falscheAntwort1>Milchtee</falscheAntwort1>
+            <falscheAntwort2>Margarinewein</falscheAntwort2>
+            <falscheAntwort3>Sahneschnaps</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher kleiner, angeberische Ritter auf einem Gemälde im siebten Stock löst in Harry Potters drittem Schuljahr die „Fette Dame“ ab?</fragenText>
+            <richtigeAntwort>Sir Cadogan</richtigeAntwort>
+            <falscheAntwort1>Sir Lancelord</falscheAntwort1>
+            <falscheAntwort2>Sir Loch Ness</falscheAntwort2>
+            <falscheAntwort3>Sir Dungeon</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hieß das Kaninchen von Lavender Brown, das im Oktober 1993 von einem Fuchs getötet wird?</fragenText>
+            <richtigeAntwort>Binky</richtigeAntwort>
+            <falscheAntwort1>Blinky</falscheAntwort1>
+            <falscheAntwort2>Stinky</falscheAntwort2>
+            <falscheAntwort3>Bonny</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das Passwort für den Eingang in den Gryffindor - Turm in Harry Potters erstem Schuljahr?</fragenText>
+            <richtigeAntwort>Caput Draconis</richtigeAntwort>
+            <falscheAntwort1>Hokus Pokulos</falscheAntwort1>
+            <falscheAntwort2>Simsada Labim</falscheAntwort2>
+            <falscheAntwort3>Canerva Tragos</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Jägerin im siegreichen Quidditch - Team 1993 / 94?</fragenText>
+            <richtigeAntwort>Katie Bell</richtigeAntwort>
+            <falscheAntwort1>Hermine Granger</falscheAntwort1>
+            <falscheAntwort2>Ginny Weasley</falscheAntwort2>
+            <falscheAntwort3>Perenelle Flamel</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Fluch, bei dem der Betroffene nicht aufhören kann, Unsinn zu reden?</fragenText>
+            <richtigeAntwort>Babbelfluch</richtigeAntwort>
+            <falscheAntwort1>Quasselfluch</falscheAntwort1>
+            <falscheAntwort2>Laberfluch</falscheAntwort2>
+            <falscheAntwort3>Stotterfluch</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Großonkel von Neville Longbottom?</fragenText>
+            <richtigeAntwort>Algie</richtigeAntwort>
+            <falscheAntwort1>Albert</falscheAntwort1>
+            <falscheAntwort2>Armun</falscheAntwort2>
+            <falscheAntwort3>Atlas</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der sehr alte Zauberer, der auf dem Zeltplatz bei der Quidditch -Weltmeisterschaft 1994 versucht, sich als Muggel auszugeben?</fragenText>
+            <richtigeAntwort>Archie</richtigeAntwort>
+            <falscheAntwort1>Albus</falscheAntwort1>
+            <falscheAntwort2>Alban</falscheAntwort2>
+            <falscheAntwort3>Arnon</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Haus ist Owen Caudwell Schüler?</fragenText>
+            <richtigeAntwort>Hufflepuff</richtigeAntwort>
+            <falscheAntwort1>Ravenclaw</falscheAntwort1>
+            <falscheAntwort2>Gryffindor</falscheAntwort2>
+            <falscheAntwort3>Slytherin</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Zauberer, der für den Transportschlüssel bei der Quidditch - Weltmeisterschaft zuständig ist?</fragenText>
+            <richtigeAntwort>Basil</richtigeAntwort>
+            <falscheAntwort1>Vergil</falscheAntwort1>
+            <falscheAntwort2>Somil</falscheAntwort2>
+            <falscheAntwort3>Hugil</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das Monster, das Salazar Slytherin in die Kammer des Schreckens sperrte?</fragenText>
+            <richtigeAntwort>Basilisk</richtigeAntwort>
+            <falscheAntwort1>Obelisk</falscheAntwort1>
+            <falscheAntwort2>Ramilisk</falscheAntwort2>
+            <falscheAntwort3>Turmelisk</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt in der Mythologie der Muggel ein dreiköpfiger Höllenhund?</fragenText>
+            <richtigeAntwort>Cerberus</richtigeAntwort>
+            <falscheAntwort1>Wuffi</falscheAntwort1>
+            <falscheAntwort2>Satanus</falscheAntwort2>
+            <falscheAntwort3>Wotanius</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die Ghule, die sich unsichtbar machen können?</fragenText>
+            <richtigeAntwort>Chamäleon - Ghule</richtigeAntwort>
+            <falscheAntwort1>Geister - Ghule</falscheAntwort1>
+            <falscheAntwort2>Gespenster - Ghule</falscheAntwort2>
+            <falscheAntwort3>Monster - Ghule</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Stein aus dem Magen einer Ziege, der gegen die meisten Gifte hilft?</fragenText>
+            <richtigeAntwort>Bezoar</richtigeAntwort>
+            <falscheAntwort1>Gezoar</falscheAntwort1>
+            <falscheAntwort2>Mezoar</falscheAntwort2>
+            <falscheAntwort3>Rezoar</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die hübsche Sucherin im Quidditch - Team von Ravenclaw in Harry Potters drittem Schuljahr?</fragenText>
+            <richtigeAntwort>Cho Chang</richtigeAntwort>
+            <falscheAntwort1>Mary Polkiss</falscheAntwort1>
+            <falscheAntwort2>Anne Morlake</falscheAntwort2>
+            <falscheAntwort3>Kim Tiang</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Drachenart, die pilzförmige Feuerwolken spucken kann?</fragenText>
+            <richtigeAntwort>Chinesischer Feuerball</richtigeAntwort>
+            <falscheAntwort1>Thailändischer Feuersturm</falscheAntwort1>
+            <falscheAntwort2>Tibetanische Feuerkugel</falscheAntwort2>
+            <falscheAntwort3>Japanische Feuerwalze</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Zauberspruch, der Verborgenes sichtbar macht?</fragenText>
+            <richtigeAntwort>Aparecium</richtigeAntwort>
+            <falscheAntwort1>Simsalagrum</falscheAntwort1>
+            <falscheAntwort2>Uporatula</falscheAntwort2>
+            <falscheAntwort3>Infernola</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Für welches professionelle Quidditch - Team schwärmt Ron Weasley?</fragenText>
+            <richtigeAntwort>Chudley Cannons</richtigeAntwort>
+            <falscheAntwort1>Donner Bullits</falscheAntwort1>
+            <falscheAntwort2>Silver Cannons</falscheAntwort2>
+            <falscheAntwort3>Greatly Bears</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was trägt der Hauself Dobby als Hut, nachdem er freigelassen wurde?</fragenText>
+            <richtigeAntwort>einen Teewärmer</richtigeAntwort>
+            <falscheAntwort1>einen Eierwärmer</falscheAntwort1>
+            <falscheAntwort2>einen Kaffeewärmer</falscheAntwort2>
+            <falscheAntwort3>eine Wärmeflasche</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Zauberer ärgert sich über das Einfuhrverbot für Fliegende Teppiche?</fragenText>
+            <richtigeAntwort>Ali Bashir</richtigeAntwort>
+            <falscheAntwort1>Ben Brahim</falscheAntwort1>
+            <falscheAntwort2>Ugur Bali</falscheAntwort2>
+            <falscheAntwort3>Murat Taskin</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Treiber im irischen Team bei der Quidditch - Weltmeisterschaft?</fragenText>
+            <richtigeAntwort>Connolly</richtigeAntwort>
+            <falscheAntwort1>Cohan</falscheAntwort1>
+            <falscheAntwort2>Corbes</falscheAntwort2>
+            <falscheAntwort3>McCorty</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Pate von Harry Potter?</fragenText>
+            <richtigeAntwort>Sirius Black</richtigeAntwort>
+            <falscheAntwort1>Elia Higgins</falscheAntwort1>
+            <falscheAntwort2>Marc Donoway</falscheAntwort2>
+            <falscheAntwort3>Bred Jordan</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus welcher Grafschaft Englands kommen die Wichtel, die Lockhart Gilderoy mit in den Unterricht bringt?</fragenText>
+            <richtigeAntwort>Cornwall</richtigeAntwort>
+            <falscheAntwort1>Essex</falscheAntwort1>
+            <falscheAntwort2>Sussex</falscheAntwort2>
+            <falscheAntwort3>Eton</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt einer der beiden ständigen Begleiter von Draco Malfoy?</fragenText>
+            <richtigeAntwort>Vincent Crabbe</richtigeAntwort>
+            <falscheAntwort1>Ron Weasley</falscheAntwort1>
+            <falscheAntwort2>Neville Longbottom</falscheAntwort2>
+            <falscheAntwort3>Graham Pritchard</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die riesige Spinne, die Harry Potter und Ron Weasley im verbotenen Wald begegnen?</fragenText>
+            <richtigeAntwort>Aragog</richtigeAntwort>
+            <falscheAntwort1>Croaker</falscheAntwort1>
+            <falscheAntwort2>Mantikor</falscheAntwort2>
+            <falscheAntwort3>Payne</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der kleine Junge mit mausgrauen Haaren, der Harry Potter in seinem zweiten Schuljahr über alles bewundert und dauernd Fotos von ihm macht?</fragenText>
+            <richtigeAntwort>Colin Creevey</richtigeAntwort>
+            <falscheAntwort1>Draco Malfoy</falscheAntwort1>
+            <falscheAntwort2>Gregory Goyle</falscheAntwort2>
+            <falscheAntwort3>Ron Weasley</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das Wort für Spitzhacke in der Koboldsprache?</fragenText>
+            <richtigeAntwort>Bladwack</richtigeAntwort>
+            <falscheAntwort1>Blackjack</falscheAntwort1>
+            <falscheAntwort2>Bloodrun</falscheAntwort2>
+            <falscheAntwort3>Blindbeer</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Haus ist Dennis Creevey Schüler?</fragenText>
+            <richtigeAntwort>Gryffindor</richtigeAntwort>
+            <falscheAntwort1>Ravenclaw</falscheAntwort1>
+            <falscheAntwort2>Hufflepuff</falscheAntwort2>
+            <falscheAntwort3>Slytherin</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Hexe, die Harry Potter bei seinem ersten Besuch im Gasthaus „Zum Tropfenden Kessel“ trifft?</fragenText>
+            <richtigeAntwort>Doris Crockford</richtigeAntwort>
+            <falscheAntwort1>Mary Marple</falscheAntwort1>
+            <falscheAntwort2>Dana Whistler</falscheAntwort2>
+            <falscheAntwort3>Paula Kadabra</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Seit wann stehen die bissigen Bumerangs auf der Liste der verbotenen Gegenstände in Hogwarts?</fragenText>
+            <richtigeAntwort>1994</richtigeAntwort>
+            <falscheAntwort1>1993</falscheAntwort1>
+            <falscheAntwort2>1992</falscheAntwort2>
+            <falscheAntwort3>1991</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Fluch, der einen vor Schmerz fast den Verstand verlieren lässt?</fragenText>
+            <richtigeAntwort>Crucuatus - Fluch</richtigeAntwort>
+            <falscheAntwort1>Hucratio - Fluch</falscheAntwort1>
+            <falscheAntwort2>Frewentus - Fluch</falscheAntwort2>
+            <falscheAntwort3>Zabuctus - Fluch</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man Geräte, die Geheimnisse aufdecken oder Feinde aufspüren können?</fragenText>
+            <richtigeAntwort>Antiobskuranten</richtigeAntwort>
+            <falscheAntwort1>Probiobskuranten</falscheAntwort1>
+            <falscheAntwort2>Geoloskuranten</falscheAntwort2>
+            <falscheAntwort3>Meteoskuranten</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches ist das Wappentier von Ravenclaw?</fragenText>
+            <richtigeAntwort>Adler</richtigeAntwort>
+            <falscheAntwort1>Falke</falscheAntwort1>
+            <falscheAntwort2>Habicht</falscheAntwort2>
+            <falscheAntwort3>Bussard</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hieß der Onkel von Ron Weasley, der einen Grimm sah und 24 Stunden später starb?</fragenText>
+            <richtigeAntwort>Bilius</richtigeAntwort>
+            <falscheAntwort1>Filius</falscheAntwort1>
+            <falscheAntwort2>Morgan</falscheAntwort2>
+            <falscheAntwort3>Torben</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Zauberspruch der unverzeihlichen Flüche und der der bösesten schwarzen Magie?</fragenText>
+            <richtigeAntwort>Avada Kedavra</richtigeAntwort>
+            <falscheAntwort1>Abrara Mujasra</falscheAntwort1>
+            <falscheAntwort2>Hokolo Brimboro</falscheAntwort2>
+            <falscheAntwort3>Hukumu Serama</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches ist das Wappentier von Hufflepuff?</fragenText>
+            <richtigeAntwort>Dachs</richtigeAntwort>
+            <falscheAntwort1>Fuchs</falscheAntwort1>
+            <falscheAntwort2>Biber</falscheAntwort2>
+            <falscheAntwort3>Igel</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Kapitän des Quidditch - Teams von Ravenclaw?</fragenText>
+            <richtigeAntwort>Roger Davis</richtigeAntwort>
+            <falscheAntwort1>Roger Daltrey</falscheAntwort1>
+            <falscheAntwort2>Robert Neroy</falscheAntwort2>
+            <falscheAntwort3>Ron McFergusson</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Geist von Gryffindor?</fragenText>
+            <richtigeAntwort>Sir Nicholas de Mimsy - Porpington</richtigeAntwort>
+            <falscheAntwort1>Sir Albert Tommingham</falscheAntwort1>
+            <falscheAntwort2>Sir Edward de Grollow</falscheAntwort2>
+            <falscheAntwort3>Sir Francis Cook</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Geist von Gryffindor auch noch?</fragenText>
+            <richtigeAntwort>der Fast Kopflose Nick</richtigeAntwort>
+            <falscheAntwort1>der beinlose Jack</falscheAntwort1>
+            <falscheAntwort2>der Fast Durchsichtige Joe</falscheAntwort2>
+            <falscheAntwort3>der halslose Ken</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die kleine, flache Schale, in die Albus Dumbledore seine Gedanken ablegt, wenn sie ihm zu viel werden?</fragenText>
+            <richtigeAntwort>Denkarium</richtigeAntwort>
+            <falscheAntwort1>Denkschale</falscheAntwort1>
+            <falscheAntwort2>Denkoase</falscheAntwort2>
+            <falscheAntwort3>Denkstätte</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Zauberspruch, der dem Gegenüber riesige, obere Schneidezähne verpasst?</fragenText>
+            <richtigeAntwort>Densaugeo</richtigeAntwort>
+            <falscheAntwort1>Dentissimo</falscheAntwort1>
+            <falscheAntwort2>Zahnobolus</falscheAntwort2>
+            <falscheAntwort3>Zahnunibi</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Professor der „Geschichte der Zauberei“ in Hogwarts lehrt, ist der einzige Geist im Kollegium?</fragenText>
+            <richtigeAntwort>Professor Ginns</richtigeAntwort>
+            <falscheAntwort1>Professor Binns</falscheAntwort1>
+            <falscheAntwort2>Professor Hinns</falscheAntwort2>
+            <falscheAntwort3>Professor Kinns</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Zauberspruch, der Gegenstände auch aus der Ferne zu einem fliegen lässt?</fragenText>
+            <richtigeAntwort>Accio</richtigeAntwort>
+            <falscheAntwort1>Occie</falscheAntwort1>
+            <falscheAntwort2>Uccia</falscheAntwort2>
+            <falscheAntwort3>Eccoi</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Treiber im Quidditch - Team von Slytherin in Harry Potters drittem Schuljahr?</fragenText>
+            <richtigeAntwort>Derrick</richtigeAntwort>
+            <falscheAntwort1>Schimansky</falscheAntwort1>
+            <falscheAntwort2>Wolff</falscheAntwort2>
+            <falscheAntwort3>Ferdie</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Laden für Werkzeuge, Zauberutensilien und Schulsachen in Hogsmeade?</fragenText>
+            <richtigeAntwort>Derwisch und Banges</richtigeAntwort>
+            <falscheAntwort1>Devil und Bones</falscheAntwort1>
+            <falscheAntwort2>Blood und Honey</falscheAntwort2>
+            <falscheAntwort3>Foggy und Mist</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Leiter der Abteilung für magische Spiele und Sportarten im Zaubereiministerium?</fragenText>
+            <richtigeAntwort>Ludo Bagman</richtigeAntwort>
+            <falscheAntwort1>Albus Dumbledore</falscheAntwort1>
+            <falscheAntwort2>Adrian Pucey</falscheAntwort2>
+            <falscheAntwort3>Aidan Lynch</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das zauberkräftige Kraut, das aussieht wie schmierige, grüne Rattenschwänze und einem für eine Stunde Kiemen und Flossen wachsen lässt, so dass man Wasseratmer wird?</fragenText>
+            <richtigeAntwort>Dianthus</richtigeAntwort>
+            <falscheAntwort1>Gianthus</falscheAntwort1>
+            <falscheAntwort2>Bianthus</falscheAntwort2>
+            <falscheAntwort3>Mianthus</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Hüter im Quidditch - Team von Slytherin in Harry Potters erstem Schuljahr?</fragenText>
+            <richtigeAntwort>Bletchley</richtigeAntwort>
+            <falscheAntwort1>Flechter</falscheAntwort1>
+            <falscheAntwort2>Gretchery</falscheAntwort2>
+            <falscheAntwort3>Dinchley</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Wächterin am Eingang zum Gemeinschaftsraum im Gryffindor - Turm im siebten Stock?</fragenText>
+            <richtigeAntwort>fette Dame im rosa Seidenkleid</richtigeAntwort>
+            <falscheAntwort1>dünne Dame im grünen Schlafrock</falscheAntwort1>
+            <falscheAntwort2>große Dame im gelben Regenmantel</falscheAntwort2>
+            <falscheAntwort3>kleine Dame im weißen Unhang</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo versteckt Harry Potter seine Habseligkeiten, wenn er bei den Dursleys wohnt?</fragenText>
+            <richtigeAntwort>unter einem losen Dielenbrett</richtigeAntwort>
+            <falscheAntwort1>hinter dem Wandschrank</falscheAntwort1>
+            <falscheAntwort2>in einer Mauerritze</falscheAntwort2>
+            <falscheAntwort3>unter der Matratze</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Zauberspruch, der Dinge auf - oder zerreißen lässt?</fragenText>
+            <richtigeAntwort>Diffindo</richtigeAntwort>
+            <falscheAntwort1>Piffindo</falscheAntwort1>
+            <falscheAntwort2>Zibiffo</falscheAntwort2>
+            <falscheAntwort3>Wibillo</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Zauberer, der die Niederlage von Voldemort 1981 so ausgelassen feierte, dass in den Nachrichten der Muggel von Sternschnuppen in Kent berichtet wird?</fragenText>
+            <richtigeAntwort>Dädalus Diggel</richtigeAntwort>
+            <falscheAntwort1>Ikarus Wiggel</falscheAntwort1>
+            <falscheAntwort2>Damokles Higgel</falscheAntwort2>
+            <falscheAntwort3>Ibrahim Tanko</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Sucher und Kapitän des Quidditch - Teams von Hufflepuff?</fragenText>
+            <richtigeAntwort>Cedric Diggory</richtigeAntwort>
+            <falscheAntwort1>Dedric Ciggory</falscheAntwort1>
+            <falscheAntwort2>Gedric Giccory</falscheAntwort2>
+            <falscheAntwort3>Redric Riccory</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Geheimspruch, der den Geheimgang hinter der einäugigen Hexe öffnet, der nach Hogsmeade führt?</fragenText>
+            <richtigeAntwort>Dissendium</richtigeAntwort>
+            <falscheAntwort1>Dillirium</falscheAntwort1>
+            <falscheAntwort2>Ferrossamo</falscheAntwort2>
+            <falscheAntwort3>Fillipullimu</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Hauself aus dem Haushalt von Lucius Malfoy?</fragenText>
+            <richtigeAntwort>Dobby</richtigeAntwort>
+            <falscheAntwort1>Bobby</falscheAntwort1>
+            <falscheAntwort2>Robby</falscheAntwort2>
+            <falscheAntwort3>Wobby</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Von welchem Magier gibt es im 5. Stock in Hogwarts eine Statue (neben ihr liegt das Badezimmer der Vertrauensschüler)?</fragenText>
+            <richtigeAntwort>Boris der Bekloppte</richtigeAntwort>
+            <falscheAntwort1>Iwan der Verrückte</falscheAntwort1>
+            <falscheAntwort2>Gregor der Dumme</falscheAntwort2>
+            <falscheAntwort3>Pjotr der Wahnsinnige</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo kann man Drachendung erhalten?</fragenText>
+            <richtigeAntwort>in der Nokturngasse</richtigeAntwort>
+            <falscheAntwort1>in der Winkelgasse</falscheAntwort1>
+            <falscheAntwort2>in der Drachengasse</falscheAntwort2>
+            <falscheAntwort3>in der Geistergasse</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man die magische Fähigkeit, ohne Zeitverlust von einem zum anderen Ort zu gelangen?</fragenText>
+            <richtigeAntwort>apparieren</richtigeAntwort>
+            <falscheAntwort1>allabieren</falscheAntwort1>
+            <falscheAntwort2>annarieren</falscheAntwort2>
+            <falscheAntwort3>addarieren</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Mit welcher Mischung werden junge Drachen gefüttert?</fragenText>
+            <richtigeAntwort>Schnaps und Hühnerblut</richtigeAntwort>
+            <falscheAntwort1>Wein und Gänseblut</falscheAntwort1>
+            <falscheAntwort2>Bier und Mückenblut</falscheAntwort2>
+            <falscheAntwort3>Sekt und Entenblut</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie oft müssen junge Drachen gefüttert werden?</fragenText>
+            <richtigeAntwort>jede halbe Stunde</richtigeAntwort>
+            <falscheAntwort1>jede viertel Stunde</falscheAntwort1>
+            <falscheAntwort2>alle 10 Minuten</falscheAntwort2>
+            <falscheAntwort3>dreimal am Tag</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wann wurde die Drachenzucht vom Zauberkonvent verboten?</fragenText>
+            <richtigeAntwort>1709</richtigeAntwort>
+            <falscheAntwort1>1907</falscheAntwort1>
+            <falscheAntwort2>1790</falscheAntwort2>
+            <falscheAntwort3>1970</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Womit wärmen die Drachen ihre Eier?</fragenText>
+            <richtigeAntwort>mit ihrem Feueratem</richtigeAntwort>
+            <falscheAntwort1>mit ihrem Körper</falscheAntwort1>
+            <falscheAntwort2>mit Blättern und Moos</falscheAntwort2>
+            <falscheAntwort3>mit heißem Sand</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Stockwerk liegt der Korridor in Hogwarts, der in Harry Potters erstem Schuljahr nicht betreten werden darf?</fragenText>
+            <richtigeAntwort>3</richtigeAntwort>
+            <falscheAntwort1>2</falscheAntwort1>
+            <falscheAntwort2>4</falscheAntwort2>
+            <falscheAntwort3>5</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie lange bleiben die Blasen von Druhbels Bester Blaskaugummi im Raum?</fragenText>
+            <richtigeAntwort>tagelang</richtigeAntwort>
+            <falscheAntwort1>zwei Stunden</falscheAntwort1>
+            <falscheAntwort2>10 Stunden</falscheAntwort2>
+            <falscheAntwort3>eine halbe Stunde</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Club gründet Gilderoy Lockhart in Harry Potters zweitem Schuljahr?</fragenText>
+            <richtigeAntwort>einen Duellier - Club</richtigeAntwort>
+            <falscheAntwort1>einen Briefmarkentausch - Club</falscheAntwort1>
+            <falscheAntwort2>einen Zaubersprucherzähl - Club</falscheAntwort2>
+            <falscheAntwort3>einen Gespenster - Club</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Bruder von Albus Dumbledore?</fragenText>
+            <richtigeAntwort>Aberforth</richtigeAntwort>
+            <falscheAntwort1>Aberfive</falscheAntwort1>
+            <falscheAntwort2>Alberthore</falscheAntwort2>
+            <falscheAntwort3>Alvingor</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Schulleiter von Hogwarts, als Harry Potter dort lernt?</fragenText>
+            <richtigeAntwort>Albus Dumbledore</richtigeAntwort>
+            <falscheAntwort1>Gilderoy Lockhart</falscheAntwort1>
+            <falscheAntwort2>Minerva McGonagall</falscheAntwort2>
+            <falscheAntwort3>Jim McGuffin</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie wird Lord Voldemort auch genannt?</fragenText>
+            <richtigeAntwort>Dunkler Lord</richtigeAntwort>
+            <falscheAntwort1>Alter Lord</falscheAntwort1>
+            <falscheAntwort2>Weißer Lord</falscheAntwort2>
+            <falscheAntwort3>Monster Lord</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist das Zeichen von Lord Voldemort?</fragenText>
+            <richtigeAntwort>ein Totenkopf</richtigeAntwort>
+            <falscheAntwort1>ein Kreuz</falscheAntwort1>
+            <falscheAntwort2>ein Drache</falscheAntwort2>
+            <falscheAntwort3>ein Vampir</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Vetter von Harry Potter?</fragenText>
+            <richtigeAntwort>Dudley Dursley</richtigeAntwort>
+            <falscheAntwort1>Ron Weasley</falscheAntwort1>
+            <falscheAntwort2>Pat Brid</falscheAntwort2>
+            <falscheAntwort3>Joey Jenkins</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was stellt die Firma des Onkels von Harry Potter her?</fragenText>
+            <richtigeAntwort>Bohrmaschinen</richtigeAntwort>
+            <falscheAntwort1>Computer</falscheAntwort1>
+            <falscheAntwort2>Küchengeräte</falscheAntwort2>
+            <falscheAntwort3>Autoreifen</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>An welchem Tag findet die Einführungsfeier zur Eröffnung des neuen Schuljahres in Hogwarts statt?</fragenText>
+            <richtigeAntwort>1. September</richtigeAntwort>
+            <falscheAntwort1>1. Oktober</falscheAntwort1>
+            <falscheAntwort2>1. August</falscheAntwort2>
+            <falscheAntwort3>1. Juli</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Magische Polizeibrigade, die die Elitetruppe des Zauberministeriums ist?</fragenText>
+            <richtigeAntwort>Eingreifzauberer</richtigeAntwort>
+            <falscheAntwort1>Elitezauberer</falscheAntwort1>
+            <falscheAntwort2>G - 1 Zauberer</falscheAntwort2>
+            <falscheAntwort3>Superzauberer</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText/>
+            <richtigeAntwort/>
+            <falscheAntwort1/>
+            <falscheAntwort2/>
+            <falscheAntwort3/>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>15</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist ein beliebter magischer Stoff als Kern für Zauberstäbe?</fragenText>
+            <richtigeAntwort>Einhorn - Haare</richtigeAntwort>
+            <falscheAntwort1>Löwenmähnen - Haare</falscheAntwort1>
+            <falscheAntwort2>Nashornschwanz - Haare</falscheAntwort2>
+            <falscheAntwort3>Tigerschnurrbart - Haare</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie teuer ist ein Stück Einhorn - Horn in der Apotheke in der Winkelgasse?</fragenText>
+            <richtigeAntwort>21 Galleonen</richtigeAntwort>
+            <falscheAntwort1>32 Knuts</falscheAntwort1>
+            <falscheAntwort2>23 Sickel</falscheAntwort2>
+            <falscheAntwort3>12 Galleonen</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Lebensjahr müssen die Kinder vollendet haben, damit sie in Hogwarts eingeschult werden können?</fragenText>
+            <richtigeAntwort>das elfte Lebensjahr</richtigeAntwort>
+            <falscheAntwort1>das neunte Lebensjahr</falscheAntwort1>
+            <falscheAntwort2>das zehnte Lebensjahr</falscheAntwort2>
+            <falscheAntwort3>das zwölfte Lebensjahr</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Auf wie viele Häuser werden alle frisch eingeschulten Schüler in Hogwarts verteilt?</fragenText>
+            <richtigeAntwort>4</richtigeAntwort>
+            <falscheAntwort1>2</falscheAntwort1>
+            <falscheAntwort2>3</falscheAntwort2>
+            <falscheAntwort3>5</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Süßigkeit, die Zähne klappern und einen quieken lässt?</fragenText>
+            <richtigeAntwort>Eis - Mäuse</richtigeAntwort>
+            <falscheAntwort1>Frost - Ratten</falscheAntwort1>
+            <falscheAntwort2>Winter - Speck</falscheAntwort2>
+            <falscheAntwort3>Kälte - Schokolade</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen die kleine Wesen, mit großen, fledermausähnlichen Ohren und hervorquellenden grünen oder braunen Augen?</fragenText>
+            <richtigeAntwort>Elfen</richtigeAntwort>
+            <falscheAntwort1>Kobolde</falscheAntwort1>
+            <falscheAntwort2>Zwerge</falscheAntwort2>
+            <falscheAntwort3>Gnome</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hieß der Anführer der Goblin - Aufstände?</fragenText>
+            <richtigeAntwort>Emmerisch der Böse</richtigeAntwort>
+            <falscheAntwort1>Irwisch der Schreckliche</falscheAntwort1>
+            <falscheAntwort2>Darakon der Wütende</falscheAntwort2>
+            <falscheAntwort3>Ultrigaria der Zornige</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Gegenspruch zum Schockzauber?</fragenText>
+            <richtigeAntwort>Enervate</richtigeAntwort>
+            <falscheAntwort1>Alibert</falscheAntwort1>
+            <falscheAntwort2>Holigate</falscheAntwort2>
+            <falscheAntwort3>Bimiflate</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt Amos Diggory die Polizisten der Muggel?</fragenText>
+            <richtigeAntwort>Blitzisten</richtigeAntwort>
+            <falscheAntwort1>Hornisten</falscheAntwort1>
+            <falscheAntwort2>Gardisten</falscheAntwort2>
+            <falscheAntwort3>Schnellisten</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Zauberspruch, der Gegenstände oder Lebewesen vergrößert?</fragenText>
+            <richtigeAntwort>Engorgio</richtigeAntwort>
+            <falscheAntwort1>Emhabilo</falscheAntwort1>
+            <falscheAntwort2>Exdrumera</falscheAntwort2>
+            <falscheAntwort3>Essentia</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt eine Großtante von Neville Longbottom?</fragenText>
+            <richtigeAntwort>Enid</richtigeAntwort>
+            <falscheAntwort1>Rita</falscheAntwort1>
+            <falscheAntwort2>Onyx</falscheAntwort2>
+            <falscheAntwort3>Luzia</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man das Vertreiben von Gnomen aus dem Garten?</fragenText>
+            <richtigeAntwort>entgnomen</richtigeAntwort>
+            <falscheAntwort1>vergnomen</falscheAntwort1>
+            <falscheAntwort2>weggnomen</falscheAntwort2>
+            <falscheAntwort3>begnomen</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Ravenclaw - Schülerin, die im Duellierclub verletzt wird und blutet?</fragenText>
+            <richtigeAntwort>Terry Boot</richtigeAntwort>
+            <falscheAntwort1>Terry Glad</falscheAntwort1>
+            <falscheAntwort2>Mary Blood</falscheAntwort2>
+            <falscheAntwort3>Mary Grid</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie sieht der Enthüller - ein magischer Gegenstand - aus?</fragenText>
+            <richtigeAntwort>wie ein rotes Radiergummi</richtigeAntwort>
+            <falscheAntwort1>wie eine gelbe Leimtube</falscheAntwort1>
+            <falscheAntwort2>wie ein weißer Füller</falscheAntwort2>
+            <falscheAntwort3>wie ein grünes Lineal</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Namen hat die Alraune auch noch?</fragenText>
+            <richtigeAntwort>Erdmänneken</richtigeAntwort>
+            <falscheAntwort1>Erdfräulein</falscheAntwort1>
+            <falscheAntwort2>Erdopa</falscheAntwort2>
+            <falscheAntwort3>Erdsäugling</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die murmelgroße Glaskugel, die Neville Longbottom von seiner Großmutter geschenkt bekommen hat?</fragenText>
+            <richtigeAntwort>Erinnermich</richtigeAntwort>
+            <falscheAntwort1>Vergissmichnicht</falscheAntwort1>
+            <falscheAntwort2>Denkanmich</falscheAntwort2>
+            <falscheAntwort3>Verliermichnicht</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Womit ist die murmelgroße Glaskugel, die Neville Longbottom von seiner Großmutter geschenkt bekommen hat, gefüllt?</fragenText>
+            <richtigeAntwort>mit weißem Rauch</richtigeAntwort>
+            <falscheAntwort1>mit schwarzem Rauch</falscheAntwort1>
+            <falscheAntwort2>mit gelbem Rauch</falscheAntwort2>
+            <falscheAntwort3>mit grünem Rauch</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welche Farbe verwandelt sich der Rauch in Nevilles Glaskugel, wenn man sie in die Hand nimmt und etwas vergessen hat?</fragenText>
+            <richtigeAntwort>rot</richtigeAntwort>
+            <falscheAntwort1>blau</falscheAntwort1>
+            <falscheAntwort2>gold</falscheAntwort2>
+            <falscheAntwort3>türkis</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die große, graue Eule der Familie Weasley?</fragenText>
+            <richtigeAntwort>Errol</richtigeAntwort>
+            <falscheAntwort1>Birol</falscheAntwort1>
+            <falscheAntwort2>Tahsin</falscheAntwort2>
+            <falscheAntwort3>Ugur</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wovon ist Albus Dumbledores Narbe ein tadelloser Plan?</fragenText>
+            <richtigeAntwort>von der Londoner U - Bahn</richtigeAntwort>
+            <falscheAntwort1>von der Pariser Metro</falscheAntwort1>
+            <falscheAntwort2>von der Moskauer U - Bahn</falscheAntwort2>
+            <falscheAntwort3>vom Londoner Flughafen</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Geist des Hauses Slytherin?</fragenText>
+            <richtigeAntwort>Blutige Baron</richtigeAntwort>
+            <falscheAntwort1>Blaue Graf</falscheAntwort1>
+            <falscheAntwort2>Rote Lord</falscheAntwort2>
+            <falscheAntwort3>Magische Fürst</falscheAntwort3>
+            <schwierikeit>12</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo in Hogwarts befindet sich die Eulerei?</fragenText>
+            <richtigeAntwort>im Westturm</richtigeAntwort>
+            <falscheAntwort1>im Ostturm</falscheAntwort1>
+            <falscheAntwort2>im Südturm</falscheAntwort2>
+            <falscheAntwort3>im Nordturm</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Form hat der Raum der Eulerei?</fragenText>
+            <richtigeAntwort>kreisrund</richtigeAntwort>
+            <falscheAntwort1>sechseckig</falscheAntwort1>
+            <falscheAntwort2>dreieckig</falscheAntwort2>
+            <falscheAntwort3>viereckig</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo wird der Hauself Dobby eingestellt, nachdem er durch einen Trick von Harry Potter freigelassen wurde?</fragenText>
+            <richtigeAntwort>in der Küche</richtigeAntwort>
+            <falscheAntwort1>in der Garderobe</falscheAntwort1>
+            <falscheAntwort2>im Garten</falscheAntwort2>
+            <falscheAntwort3>im Schulbüro</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Womit wird einem Betroffenen etwas aus der Hand gerissen, wenn man den Zauberspruch „Expelliarmus“ nennt?</fragenText>
+            <richtigeAntwort>mit einem roten Lichtstrahl</richtigeAntwort>
+            <falscheAntwort1>mit einem gelben Lichtstrahl</falscheAntwort1>
+            <falscheAntwort2>mit einem violetten Lichtstrahl</falscheAntwort2>
+            <falscheAntwort3>mit einem silbernen Lichtstrahl</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie sieht die Mähne der Drachenart „Chinesischer Feuerball“ aus?</fragenText>
+            <richtigeAntwort>goldene Stacheln</richtigeAntwort>
+            <falscheAntwort1>goldene Ringe</falscheAntwort1>
+            <falscheAntwort2>silberne Haare</falscheAntwort2>
+            <falscheAntwort3>silberne Zöpfe</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die französische Akademie für Zauberei?</fragenText>
+            <richtigeAntwort>Beauxbatons</richtigeAntwort>
+            <falscheAntwort1>Quimbanda</falscheAntwort1>
+            <falscheAntwort2>Moulin Rouge</falscheAntwort2>
+            <falscheAntwort3>Loiregeot</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was bewacht Fluffy?</fragenText>
+            <richtigeAntwort>eine Falltür</richtigeAntwort>
+            <falscheAntwort1>eine Geheimtür</falscheAntwort1>
+            <falscheAntwort2>eine Schatzkiste</falscheAntwort2>
+            <falscheAntwort3>einen Zauberstab</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie gelangt man in die Räume von Professorin Trelawney im Nordturm?</fragenText>
+            <richtigeAntwort>durch eine runde Falltür</richtigeAntwort>
+            <falscheAntwort1>durch ein Zaubertor</falscheAntwort1>
+            <falscheAntwort2>durch den magischen Vorhang</falscheAntwort2>
+            <falscheAntwort3>durch ein verhextes Fenster</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das Haustier von Hagrid?</fragenText>
+            <richtigeAntwort>Fang</richtigeAntwort>
+            <falscheAntwort1>Schnapp</falscheAntwort1>
+            <falscheAntwort2>Fass</falscheAntwort2>
+            <falscheAntwort3>Beiß</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Treiber im Quidditch - Team von Slytherin in Harry Potters drittem Schuljahr?</fragenText>
+            <richtigeAntwort>Bole</richtigeAntwort>
+            <falscheAntwort1>Tole</falscheAntwort1>
+            <falscheAntwort2>Kole</falscheAntwort2>
+            <falscheAntwort3>Sole</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Haustier hat Hagrid?</fragenText>
+            <richtigeAntwort>einen Saurüden</richtigeAntwort>
+            <falscheAntwort1>einen Wellensittich</falscheAntwort1>
+            <falscheAntwort2>ein Meerschweinchen</falscheAntwort2>
+            <falscheAntwort3>einen Zwergdrachen</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wohin wurde Hagrids Haustier von Norbert dem Drachen gebissen?</fragenText>
+            <richtigeAntwort>in den Schwanz</richtigeAntwort>
+            <falscheAntwort1>in das Ohr</falscheAntwort1>
+            <falscheAntwort2>in das Bein</falscheAntwort2>
+            <falscheAntwort3>in den Bauch</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Seit wann stehen „Fangzähnige Frisbies“ in Hogwarts auf der verbotenen Liste?</fragenText>
+            <richtigeAntwort>seit 1994</richtigeAntwort>
+            <falscheAntwort1>seit 1991</falscheAntwort1>
+            <falscheAntwort2>seit 1992</falscheAntwort2>
+            <falscheAntwort3>seit 1993</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die vier Häuser in Hogwarts haben verschiedene Farben. Was ist die Farbe von Gryffindor?</fragenText>
+            <richtigeAntwort>rot</richtigeAntwort>
+            <falscheAntwort1>blau</falscheAntwort1>
+            <falscheAntwort2>gelb</falscheAntwort2>
+            <falscheAntwort3>grün</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Zauberfamilie tötete Lord Voldemort kurz vor seiner Niederlage 1981?</fragenText>
+            <richtigeAntwort>Bones</richtigeAntwort>
+            <falscheAntwort1>Stones</falscheAntwort1>
+            <falscheAntwort2>Jones</falscheAntwort2>
+            <falscheAntwort3>Klones</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die vier Häuser in Hogwarts haben verschiedene Farben. Was ist die Farbe von Ravenclaw?</fragenText>
+            <richtigeAntwort>blau</richtigeAntwort>
+            <falscheAntwort1>rot</falscheAntwort1>
+            <falscheAntwort2>gelb</falscheAntwort2>
+            <falscheAntwort3>grün</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die vier Häuser in Hogwarts haben verschiedene Farben. Was ist die Farbe von Hufflepuff?</fragenText>
+            <richtigeAntwort>gelb</richtigeAntwort>
+            <falscheAntwort1>blau</falscheAntwort1>
+            <falscheAntwort2>rot</falscheAntwort2>
+            <falscheAntwort3>grün</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Die vier Häuser in Hogwarts haben verschiedene Farben. Was ist die Farbe von Slytherin?</fragenText>
+            <richtigeAntwort>grün</richtigeAntwort>
+            <falscheAntwort1>rot</falscheAntwort1>
+            <falscheAntwort2>gelb</falscheAntwort2>
+            <falscheAntwort3>blau</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo hat Albus Dumbledore eine Narbe?</fragenText>
+            <richtigeAntwort>oberhalb des linken Knies</richtigeAntwort>
+            <falscheAntwort1>oberhalb des rechten Knies</falscheAntwort1>
+            <falscheAntwort2>unterhalb des rechten Knies</falscheAntwort2>
+            <falscheAntwort3>unterhalb des linken Knies</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Mit wem unterhält sich Harry Potter bei seinem ersten Zoobesuch?</fragenText>
+            <richtigeAntwort>Boa constrictor</richtigeAntwort>
+            <falscheAntwort1>Fransenschildkröte</falscheAntwort1>
+            <falscheAntwort2>Brauner Waldkauz</falscheAntwort2>
+            <falscheAntwort3>Kitfuchs</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus welchem Haus ist Fawcett, die versucht, mit einem Alterungstrank die Alterslinien auszutricksen, um an dem Trimagischen Turnier teilzunehmen?</fragenText>
+            <richtigeAntwort>Ravenclaw</richtigeAntwort>
+            <falscheAntwort1>Slytherin</falscheAntwort1>
+            <falscheAntwort2>Hufflepuff</falscheAntwort2>
+            <falscheAntwort3>Gryffindor</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Phönix von Albus Dumbledore?</fragenText>
+            <richtigeAntwort>Fawkes</richtigeAntwort>
+            <falscheAntwort1>Hawkes</falscheAntwort1>
+            <falscheAntwort2>Sawkes</falscheAntwort2>
+            <falscheAntwort3>Tawkes</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt Ron Weasley die besonders kleine Schrift von Hermine Granger?</fragenText>
+            <richtigeAntwort>Bonsai - Schrift</richtigeAntwort>
+            <falscheAntwort1>Mini - Schrift</falscheAntwort1>
+            <falscheAntwort2>Zwergen - Schrift</falscheAntwort2>
+            <falscheAntwort3>Lilliput - Schrift</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText/>
+            <richtigeAntwort/>
+            <falscheAntwort1/>
+            <falscheAntwort2/>
+            <falscheAntwort3/>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>15</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was hext Hagrid Dudley Dursley an?</fragenText>
+            <richtigeAntwort>einen Schweineschwanz</richtigeAntwort>
+            <falscheAntwort1>Schweineohren</falscheAntwort1>
+            <falscheAntwort2>einen Rattenschwanz</falscheAntwort2>
+            <falscheAntwort3>Entenflügel</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Farbe hat Albus Dumbledores Vollbart?</fragenText>
+            <richtigeAntwort>silber</richtigeAntwort>
+            <falscheAntwort1>gold</falscheAntwort1>
+            <falscheAntwort2>rot</falscheAntwort2>
+            <falscheAntwort3>weiß</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Schule besucht Dudley Dursley?</fragenText>
+            <richtigeAntwort>Smeltings</richtigeAntwort>
+            <falscheAntwort1>Eton</falscheAntwort1>
+            <falscheAntwort2>Oxford</falscheAntwort2>
+            <falscheAntwort3>Summerhill</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Schuljahr muss Dudley Dursley eine Diät machen, weil ihm keine Schuluniform mehr passt?</fragenText>
+            <richtigeAntwort>im vierten Schuljahr</richtigeAntwort>
+            <falscheAntwort1>im zweiten Schuljahr</falscheAntwort1>
+            <falscheAntwort2>im dritten Schuljahr</falscheAntwort2>
+            <falscheAntwort3>im fünften Schuljahr</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was quillt aus der Mundhöhle des Totenkopfzeichens von Lord Voldemort?</fragenText>
+            <richtigeAntwort>eine Schlange</richtigeAntwort>
+            <falscheAntwort1>ein Blutschwall</falscheAntwort1>
+            <falscheAntwort2>Drachenschleim</falscheAntwort2>
+            <falscheAntwort3>Fledermäuse</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die Schwester von Vernon Dursley?</fragenText>
+            <richtigeAntwort>Magda</richtigeAntwort>
+            <falscheAntwort1>Kathrin</falscheAntwort1>
+            <falscheAntwort2>Anne</falscheAntwort2>
+            <falscheAntwort3>Mary</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt Harry Potters Tante?</fragenText>
+            <richtigeAntwort>Petunia Dursley</richtigeAntwort>
+            <falscheAntwort1>Veronika Dursley</falscheAntwort1>
+            <falscheAntwort2>Amalie Dursley</falscheAntwort2>
+            <falscheAntwort3>Rosalia Dursley</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie hieß Harry Potters Mutter?</fragenText>
+            <richtigeAntwort>Lily Potter</richtigeAntwort>
+            <falscheAntwort1>Eve Potter</falscheAntwort1>
+            <falscheAntwort2>Lisa Potter</falscheAntwort2>
+            <falscheAntwort3>Hanne Potter</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was hört Albus Dumbledore mit Vorliebe in seiner Freizeit?</fragenText>
+            <richtigeAntwort>Kammermusik</richtigeAntwort>
+            <falscheAntwort1>Rockmusik</falscheAntwort1>
+            <falscheAntwort2>Volksmusik</falscheAntwort2>
+            <falscheAntwort3>Blasmusik</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie alt ist mindestens der Phönix von Albus Dumbledore?</fragenText>
+            <richtigeAntwort>55 Jahre</richtigeAntwort>
+            <falscheAntwort1>45 Jahre</falscheAntwort1>
+            <falscheAntwort2>35 Jahre</falscheAntwort2>
+            <falscheAntwort3>25 Jahre</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie groß werden die Elfen mindestens?</fragenText>
+            <richtigeAntwort>so groß wie Tennisbälle</richtigeAntwort>
+            <falscheAntwort1>so groß wie Fußbälle</falscheAntwort1>
+            <falscheAntwort2>so groß wie Erbsen</falscheAntwort2>
+            <falscheAntwort3>so groß wie Kürbisse</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Von wem stammen die Federn in Harry Potters Zauberstab?</fragenText>
+            <richtigeAntwort>von Prof. Dumbledores Phönix</richtigeAntwort>
+            <falscheAntwort1>von einer Schnee - Eule</falscheAntwort1>
+            <falscheAntwort2>von einem Steinadler</falscheAntwort2>
+            <falscheAntwort3>von einem Einhorn</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In wessen Zauberstab sind auch Federn des Tieres, die in Harry Potters Zauberstab sind?</fragenText>
+            <richtigeAntwort>Lord Voldemort</richtigeAntwort>
+            <falscheAntwort1>Professor Snape</falscheAntwort1>
+            <falscheAntwort2>Professor McGonagall</falscheAntwort2>
+            <falscheAntwort3>Blutige Baron</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Onkel von Harry Potter?</fragenText>
+            <richtigeAntwort>Vernon Dursley</richtigeAntwort>
+            <falscheAntwort1>Gerald Potter</falscheAntwort1>
+            <falscheAntwort2>Marvin Potter</falscheAntwort2>
+            <falscheAntwort3>Calvin Dursley</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man das Gerät, das wie ein Spiegel aussieht und seinem Besitzer die Feinde zeigt, je nachdem, wie nahe sie sind?</fragenText>
+            <richtigeAntwort>Feindglas</richtigeAntwort>
+            <falscheAntwort1>Feindspiegel</falscheAntwort1>
+            <falscheAntwort2>Feindlupe</falscheAntwort2>
+            <falscheAntwort3>Feindrohr</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt Harry Potter die steinharten Kekse, die Hagrid backt?</fragenText>
+            <richtigeAntwort>Felsenkekse</richtigeAntwort>
+            <falscheAntwort1>Steinkekse</falscheAntwort1>
+            <falscheAntwort2>Marmorkekse</falscheAntwort2>
+            <falscheAntwort3>Eisenkekse</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Zauberspruch, der eine Schiene für ein gebrochenes Glied erzeugt und dieses mit einer Binde daran festmacht?</fragenText>
+            <richtigeAntwort>Ferula</richtigeAntwort>
+            <falscheAntwort1>Tabula</falscheAntwort1>
+            <falscheAntwort2>Gerula</falscheAntwort2>
+            <falscheAntwort3>Majola</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Farbe hat Ron Weasleys Festumhang für den Weihnachtsball 1994?</fragenText>
+            <richtigeAntwort>kastanienbraun</richtigeAntwort>
+            <falscheAntwort1>schneeweiß</falscheAntwort1>
+            <falscheAntwort2>rabenschwarz</falscheAntwort2>
+            <falscheAntwort3>blutrot</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Farbe hat Harry Potters Festumhang für den Weihnachtsball 1994?</fragenText>
+            <richtigeAntwort>grün</richtigeAntwort>
+            <falscheAntwort1>weiß</falscheAntwort1>
+            <falscheAntwort2>schwarz</falscheAntwort2>
+            <falscheAntwort3>rot</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Geist von Hufflepuff?</fragenText>
+            <richtigeAntwort>fetter Mönch</richtigeAntwort>
+            <falscheAntwort1>dicker Priester</falscheAntwort1>
+            <falscheAntwort2>schwerer Bischof</falscheAntwort2>
+            <falscheAntwort3>bauchiger Kardinal</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Besen, den Harry Potter Weihnachten 1993 geschenkt bekommt?</fragenText>
+            <richtigeAntwort>Feuerblitz</richtigeAntwort>
+            <falscheAntwort1>Feuerstrahl</falscheAntwort1>
+            <falscheAntwort2>Feuerstuhl</falscheAntwort2>
+            <falscheAntwort3>Feuerschweif</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Von wem bekommt Harry Potter Weihnachten 1993 anonym einen neuen Besen geschenkt?</fragenText>
+            <richtigeAntwort>Sirius Black</richtigeAntwort>
+            <falscheAntwort1>Albus Dumbledore</falscheAntwort1>
+            <falscheAntwort2>Hagrad</falscheAntwort2>
+            <falscheAntwort3>Hermine Granger</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Farbe hat das magische Feuer im Feuerkelch?</fragenText>
+            <richtigeAntwort>blauweiß</richtigeAntwort>
+            <falscheAntwort1>gelbrot</falscheAntwort1>
+            <falscheAntwort2>blauschwarz</falscheAntwort2>
+            <falscheAntwort3>orangerot</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus welchem Material besteht der Feuerkelch?</fragenText>
+            <richtigeAntwort>Holz</richtigeAntwort>
+            <falscheAntwort1>Gold</falscheAntwort1>
+            <falscheAntwort2>Eisen</falscheAntwort2>
+            <falscheAntwort3>Porzellan</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Von wem wird der Feuerkelch so manipuliert, dass Harry Potter als vierter Teilnehmer festgelegt wird?</fragenText>
+            <richtigeAntwort>Barty Crouch</richtigeAntwort>
+            <falscheAntwort1>Draco Malfoy</falscheAntwort1>
+            <falscheAntwort2>Professor Snape</falscheAntwort2>
+            <falscheAntwort3>Bill Weasley</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was zeigt Neville Longbottoms Glaskugel an, wenn man sie in die Hand nimmt?</fragenText>
+            <richtigeAntwort>..., dass man etwas vergessen hat.</richtigeAntwort>
+            <falscheAntwort1>...., dass es gleich regnen wird.</falscheAntwort1>
+            <falscheAntwort2>..., dass eine Hexe in der Nähe ist.</falscheAntwort2>
+            <falscheAntwort3>..., dass der Zauberspruch falsch ist.</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Weissagungsmethoden soll Harry Potter in seinem dritten Schuljahr kennen lernen?</fragenText>
+            <richtigeAntwort>Feuer - Omen</richtigeAntwort>
+            <falscheAntwort1>Wasser - Omen</falscheAntwort1>
+            <falscheAntwort2>Sturm - Omen</falscheAntwort2>
+            <falscheAntwort3>Drachen - Omen</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das Passwort für den Eingang in den Gryffindor - Turm in Harry Potters drittem Schuljahr?</fragenText>
+            <richtigeAntwort>fieser Hund</richtigeAntwort>
+            <falscheAntwort1>böse Katze</falscheAntwort1>
+            <falscheAntwort2>schäbige Maus</falscheAntwort2>
+            <falscheAntwort3>elende Ratte</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt die verrückte alte Dame, bei der Harry Potter bis zu seinem 10. Lebensjahr immer die Geburtstage von Dudley Dursley verbringen muss?</fragenText>
+            <richtigeAntwort>Mrs Figg</richtigeAntwort>
+            <falscheAntwort1>Mrs Bigg</falscheAntwort1>
+            <falscheAntwort2>Mrs Salome</falscheAntwort2>
+            <falscheAntwort3>Mrs Donovay</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Hausmeister von Hogwarts?</fragenText>
+            <richtigeAntwort>Argus Filch</richtigeAntwort>
+            <falscheAntwort1>Hagrid</falscheAntwort1>
+            <falscheAntwort2>Aidan Lynch</falscheAntwort2>
+            <falscheAntwort3>Albus Dumbledore</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie würde der Hausmeister von Hogwarts die Schüler am liebsten bestrafen?</fragenText>
+            <richtigeAntwort>in Ketten von der Decke hängen lassen</richtigeAntwort>
+            <falscheAntwort1>nachts im Verbotenen Wald einsperren</falscheAntwort1>
+            <falscheAntwort2>in das Verlies von Askaban sperren</falscheAntwort2>
+            <falscheAntwort3>in Gartengnome verzaubern</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der einzige Sucher, der Harry Potter im Quidditch je schlägt?</fragenText>
+            <richtigeAntwort>Cedric Diggory</richtigeAntwort>
+            <falscheAntwort1>Golan Convay</falscheAntwort1>
+            <falscheAntwort2>Ronald Weaton</falscheAntwort2>
+            <falscheAntwort3>Keaton Buster</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wen rettet Harry Potter vor einer Schlange und wird von diesem daraufhin verdächtigt, der Erbe Slytherins zu sein?</fragenText>
+            <richtigeAntwort>Justin Finch - Fletchley</richtigeAntwort>
+            <falscheAntwort1>Norman Greenbaum</falscheAntwort1>
+            <falscheAntwort2>Piers Polkiss</falscheAntwort2>
+            <falscheAntwort3>Ludo Bagman</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der absolute Gegenzauber?</fragenText>
+            <richtigeAntwort>Finite Incantatem</richtigeAntwort>
+            <falscheAntwort1>Finale Grande</falscheAntwort1>
+            <falscheAntwort2>Finitum Res</falscheAntwort2>
+            <falscheAntwort3>Exhuminus Tesdo</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt einer der Zentauren, die im Verbotenen Wald leben und der Harry Potter auf sich reiten lässt?</fragenText>
+            <richtigeAntwort>Firenze</richtigeAntwort>
+            <falscheAntwort1>Milano</falscheAntwort1>
+            <falscheAntwort2>Neapel</falscheAntwort2>
+            <falscheAntwort3>Sizilia</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer gilt als der einzige Besitzer eines Steins der Weisen?</fragenText>
+            <richtigeAntwort>Nicolas Flamel</richtigeAntwort>
+            <falscheAntwort1>Albus Dumbledore</falscheAntwort1>
+            <falscheAntwort2>Harry Potter</falscheAntwort2>
+            <falscheAntwort3>Professor McGonagall</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>3</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Womit ist die große Halle von Hogwarts an Halloween geschmückt?</fragenText>
+            <richtigeAntwort>Fledermäusen</richtigeAntwort>
+            <falscheAntwort1>Kürbissen</falscheAntwort1>
+            <falscheAntwort2>Geistern</falscheAntwort2>
+            <falscheAntwort3>Lichtkobolden</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Womit brachte Hagrid Harry Potter nach dem Tod seiner Eltern zur Familie Dursley?</fragenText>
+            <richtigeAntwort>fliegendes Motorrad</richtigeAntwort>
+            <falscheAntwort1>fliegendes Fahrrad</falscheAntwort1>
+            <falscheAntwort2>fliegendes Auto</falscheAntwort2>
+            <falscheAntwort3>fliegender Teppich</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Womit kam Harry Potter in seinem zweiten Schuljahr doch noch nach Hogwarts?</fragenText>
+            <richtigeAntwort>mit einem fliegenden Auto</richtigeAntwort>
+            <falscheAntwort1>mit einem fliegenden Fahrrad</falscheAntwort1>
+            <falscheAntwort2>mit einem fliegenden Motorrad</falscheAntwort2>
+            <falscheAntwort3>mit einem fliegenden Teppich</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer war Kapitän und Jäger des Quidditch-Teams von Slytherin, als Harry Potter in Hogwarts eingeschult wurde?</fragenText>
+            <richtigeAntwort>Marcus Flint</richtigeAntwort>
+            <falscheAntwort1>Oliver Wood</falscheAntwort1>
+            <falscheAntwort2>Ron Weasley</falscheAntwort2>
+            <falscheAntwort3>Draco Malfoy</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Professor für Zauberkunst in Hogwarts ist so klein, dass er sich auf einen Stapel Bücher stellen muss, um über das Pult sehen zu können?</fragenText>
+            <richtigeAntwort>Professor Flitwick</richtigeAntwort>
+            <falscheAntwort1>Professor Dumbledore</falscheAntwort1>
+            <falscheAntwort2>Professor McGonagall</falscheAntwort2>
+            <falscheAntwort3>Professor Quirrell</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches magische Pulver erlaubt einem Reisen fast ohne Zeitverlust?</fragenText>
+            <richtigeAntwort>Floh - Pulver</richtigeAntwort>
+            <falscheAntwort1>Ratten - Pulver</falscheAntwort1>
+            <falscheAntwort2>Schnecken - Pulver</falscheAntwort2>
+            <falscheAntwort3>Fliegen - Pulver</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welches Musikinstrument bekommt Harry Potter an seinem ersten Weihnachtsfest in Hogwarts geschenkt?</fragenText>
+            <richtigeAntwort>eine Flöte</richtigeAntwort>
+            <falscheAntwort1>eine Trompete</falscheAntwort1>
+            <falscheAntwort2>eine Geige</falscheAntwort2>
+            <falscheAntwort3>eine Trommel</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer schenkt Harry Potter an seinem ersten Weihnachtsfest in Hogwarts ein Musikinstrument?</fragenText>
+            <richtigeAntwort>Hagrid</richtigeAntwort>
+            <falscheAntwort1>Ron Weasley</falscheAntwort1>
+            <falscheAntwort2>Hermine Granger</falscheAntwort2>
+            <falscheAntwort3>Professor Dumbledore</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wozu benutzt Harry Potter das Musikinstrument, das er an seinem ersten Weihnachtsfest in Hogwarts geschenkt bekommen hat?</fragenText>
+            <richtigeAntwort>Er schläfert Fluffy ein.</richtigeAntwort>
+            <falscheAntwort1>Er verhext Trolle.</falscheAntwort1>
+            <falscheAntwort2>Er zaubert Kraftlieder.</falscheAntwort2>
+            <falscheAntwort3>Er weckt Geister auf.</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Hund, der im ersten Schuljahr von Harry Potter den Zugang zum Stein der Weisen bewacht?</fragenText>
+            <richtigeAntwort>Fluffy</richtigeAntwort>
+            <falscheAntwort1>Goofy</falscheAntwort1>
+            <falscheAntwort2>Flecky</falscheAntwort2>
+            <falscheAntwort3>Fuchur</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Aus welchem Holz ist Harry Potters Besen, den er Weihnachten 1993 geschenkt bekommt?</fragenText>
+            <richtigeAntwort>Eschenholz</richtigeAntwort>
+            <falscheAntwort1>Eichenholz</falscheAntwort1>
+            <falscheAntwort2>Buchenholz</falscheAntwort2>
+            <falscheAntwort3>Birkenholz</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wo befindet sich die runde Falltür, die zu den Räumen von Professorin Trelawney im Nordturm führt?</fragenText>
+            <richtigeAntwort>am Ende einer silbernen Trittleiter</richtigeAntwort>
+            <falscheAntwort1>zwischen zwei Statuen</falscheAntwort1>
+            <falscheAntwort2>am Anfang der Wendeltreppe</falscheAntwort2>
+            <falscheAntwort3>unter dem magischen Zauberteppich</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Köpfe hat der Hund, der im ersten Schuljahr von Harry Potter den Zugang zum Stein der Weisen bewacht?</fragenText>
+            <richtigeAntwort>3</richtigeAntwort>
+            <falscheAntwort1>2</falscheAntwort1>
+            <falscheAntwort2>4</falscheAntwort2>
+            <falscheAntwort3>5</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt das Passwort für den Eingang in den Gryffindor - Turm in Harry Potters 3. Schuljahr?</fragenText>
+            <richtigeAntwort>Fortuna Major</richtigeAntwort>
+            <falscheAntwort1>Fortuna General</falscheAntwort1>
+            <falscheAntwort2>Fortuna Maximus</falscheAntwort2>
+            <falscheAntwort3>Fortuna Magica</falscheAntwort3>
+            <schwierikeit>14</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Worüber ist Mrs Figg gestolpert und hat sich das Bein gebrochen, so dass Harry Potter an Dudleys Geburtstag sie nicht besuchen musste?</fragenText>
+            <richtigeAntwort>über eine ihrer Katzen</richtigeAntwort>
+            <falscheAntwort1>über einen ihrer Hunde</falscheAntwort1>
+            <falscheAntwort2>über einen Besen</falscheAntwort2>
+            <falscheAntwort3>über einen Teppich</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>

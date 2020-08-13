@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Sonstiges</fach>
+    <thema>RUND UM DAS JAHR</thema>
+    <autor>Manfred Hartisch 11/05/2001</autor>
+    <anzahlFragen>100</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>Welcher Monat kommt nach dem Dezember?</fragenText>
+            <richtigeAntwort>Januar</richtigeAntwort>
+            <falscheAntwort1>Februar</falscheAntwort1>
+            <falscheAntwort2>März</falscheAntwort2>
+            <falscheAntwort3>April</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Monat kommt nach dem Januar?</fragenText>
+            <richtigeAntwort>Februar</richtigeAntwort>
+            <falscheAntwort1>Dezember</falscheAntwort1>
+            <falscheAntwort2>März</falscheAntwort2>
+            <falscheAntwort3>April</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Monat kommt nach dem Februar?</fragenText>
+            <richtigeAntwort>März</richtigeAntwort>
+            <falscheAntwort1>Januar</falscheAntwort1>
+            <falscheAntwort2>April</falscheAntwort2>
+            <falscheAntwort3>Dezember</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Monat kommt nach dem März?</fragenText>
+            <richtigeAntwort>April</richtigeAntwort>
+            <falscheAntwort1>Mai</falscheAntwort1>
+            <falscheAntwort2>Juni</falscheAntwort2>
+            <falscheAntwort3>Februar</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Monat kommt nach dem April?</fragenText>
+            <richtigeAntwort>Mai</richtigeAntwort>
+            <falscheAntwort1>März</falscheAntwort1>
+            <falscheAntwort2>Juni</falscheAntwort2>
+            <falscheAntwort3>August</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Monat kommt nach dem Mai?</fragenText>
+            <richtigeAntwort>Juni</richtigeAntwort>
+            <falscheAntwort1>April</falscheAntwort1>
+            <falscheAntwort2>Juli</falscheAntwort2>
+            <falscheAntwort3>September</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Monat kommt nach dem Juni?</fragenText>
+            <richtigeAntwort>Juli</richtigeAntwort>
+            <falscheAntwort1>Mai</falscheAntwort1>
+            <falscheAntwort2>August</falscheAntwort2>
+            <falscheAntwort3>Oktober</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Monat kommt nach dem Juli?</fragenText>
+            <richtigeAntwort>August</richtigeAntwort>
+            <falscheAntwort1>September</falscheAntwort1>
+            <falscheAntwort2>Juni</falscheAntwort2>
+            <falscheAntwort3>Oktober</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Monat kommt nach dem August?</fragenText>
+            <richtigeAntwort>September</richtigeAntwort>
+            <falscheAntwort1>Juli</falscheAntwort1>
+            <falscheAntwort2>Oktober</falscheAntwort2>
+            <falscheAntwort3>November</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Monat kommt nach dem September?</fragenText>
+            <richtigeAntwort>Oktober</richtigeAntwort>
+            <falscheAntwort1>November</falscheAntwort1>
+            <falscheAntwort2>August</falscheAntwort2>
+            <falscheAntwort3>Dezember</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Monat kommt nach dem Oktober?</fragenText>
+            <richtigeAntwort>November</richtigeAntwort>
+            <falscheAntwort1>Dezember</falscheAntwort1>
+            <falscheAntwort2>September</falscheAntwort2>
+            <falscheAntwort3>Januar</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Monat kommt nach dem November?</fragenText>
+            <richtigeAntwort>Dezember</richtigeAntwort>
+            <falscheAntwort1>Januar</falscheAntwort1>
+            <falscheAntwort2>Februar</falscheAntwort2>
+            <falscheAntwort3>Oktober</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Monat kommt vor dem Dezember?</fragenText>
+            <richtigeAntwort>November</richtigeAntwort>
+            <falscheAntwort1>Februar</falscheAntwort1>
+            <falscheAntwort2>März</falscheAntwort2>
+            <falscheAntwort3>April</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Monat kommt vor dem Januar?</fragenText>
+            <richtigeAntwort>Dezember</richtigeAntwort>
+            <falscheAntwort1>Februar</falscheAntwort1>
+            <falscheAntwort2>März</falscheAntwort2>
+            <falscheAntwort3>April</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Monat kommt vor dem Februar?</fragenText>
+            <richtigeAntwort>Januar</richtigeAntwort>
+            <falscheAntwort1>März</falscheAntwort1>
+            <falscheAntwort2>April</falscheAntwort2>
+            <falscheAntwort3>Dezember</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Monat kommt vor dem März?</fragenText>
+            <richtigeAntwort>Februar</richtigeAntwort>
+            <falscheAntwort1>Mai</falscheAntwort1>
+            <falscheAntwort2>Juni</falscheAntwort2>
+            <falscheAntwort3>April</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Monat kommt vor dem April?</fragenText>
+            <richtigeAntwort>März</richtigeAntwort>
+            <falscheAntwort1>Mai</falscheAntwort1>
+            <falscheAntwort2>Juni</falscheAntwort2>
+            <falscheAntwort3>August</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Monat kommt vor dem Mai?</fragenText>
+            <richtigeAntwort>April</richtigeAntwort>
+            <falscheAntwort1>Juni</falscheAntwort1>
+            <falscheAntwort2>Juli</falscheAntwort2>
+            <falscheAntwort3>September</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Monat kommt vor dem Juni?</fragenText>
+            <richtigeAntwort>Mai</richtigeAntwort>
+            <falscheAntwort1>Juli</falscheAntwort1>
+            <falscheAntwort2>August</falscheAntwort2>
+            <falscheAntwort3>Oktober</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Monat kommt vor dem Juli?</fragenText>
+            <richtigeAntwort>Juni</richtigeAntwort>
+            <falscheAntwort1>September</falscheAntwort1>
+            <falscheAntwort2>August</falscheAntwort2>
+            <falscheAntwort3>Oktober</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Monat kommt vor dem August?</fragenText>
+            <richtigeAntwort>Juli</richtigeAntwort>
+            <falscheAntwort1>September</falscheAntwort1>
+            <falscheAntwort2>Oktober</falscheAntwort2>
+            <falscheAntwort3>November</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Monat kommt vor dem September?</fragenText>
+            <richtigeAntwort>August</richtigeAntwort>
+            <falscheAntwort1>November</falscheAntwort1>
+            <falscheAntwort2>Oktober</falscheAntwort2>
+            <falscheAntwort3>Dezember</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Monat kommt vor dem Oktober?</fragenText>
+            <richtigeAntwort>September</richtigeAntwort>
+            <falscheAntwort1>Dezember</falscheAntwort1>
+            <falscheAntwort2>November</falscheAntwort2>
+            <falscheAntwort3>Januar</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Monat kommt vor dem November?</fragenText>
+            <richtigeAntwort>Oktober</richtigeAntwort>
+            <falscheAntwort1>Dezember</falscheAntwort1>
+            <falscheAntwort2>Februar</falscheAntwort2>
+            <falscheAntwort3>Januar</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der 1. Monat?</fragenText>
+            <richtigeAntwort>Januar</richtigeAntwort>
+            <falscheAntwort1>Februar</falscheAntwort1>
+            <falscheAntwort2>März</falscheAntwort2>
+            <falscheAntwort3>April</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der 2. Monat?</fragenText>
+            <richtigeAntwort>Februar</richtigeAntwort>
+            <falscheAntwort1>Dezember</falscheAntwort1>
+            <falscheAntwort2>März</falscheAntwort2>
+            <falscheAntwort3>April</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der 3. Monat?</fragenText>
+            <richtigeAntwort>März</richtigeAntwort>
+            <falscheAntwort1>Januar</falscheAntwort1>
+            <falscheAntwort2>April</falscheAntwort2>
+            <falscheAntwort3>Dezember</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der 4. Monat?</fragenText>
+            <richtigeAntwort>April</richtigeAntwort>
+            <falscheAntwort1>Mai</falscheAntwort1>
+            <falscheAntwort2>Juni</falscheAntwort2>
+            <falscheAntwort3>Februar</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der 5. Monat?</fragenText>
+            <richtigeAntwort>Mai</richtigeAntwort>
+            <falscheAntwort1>März</falscheAntwort1>
+            <falscheAntwort2>Juni</falscheAntwort2>
+            <falscheAntwort3>August</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der 6. Monat?</fragenText>
+            <richtigeAntwort>Juni</richtigeAntwort>
+            <falscheAntwort1>April</falscheAntwort1>
+            <falscheAntwort2>Juli</falscheAntwort2>
+            <falscheAntwort3>September</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der 7. Monat?</fragenText>
+            <richtigeAntwort>Juli</richtigeAntwort>
+            <falscheAntwort1>Mai</falscheAntwort1>
+            <falscheAntwort2>August</falscheAntwort2>
+            <falscheAntwort3>Oktober</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der 8. Monat?</fragenText>
+            <richtigeAntwort>August</richtigeAntwort>
+            <falscheAntwort1>September</falscheAntwort1>
+            <falscheAntwort2>Juni</falscheAntwort2>
+            <falscheAntwort3>Oktober</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der 9. Monat?</fragenText>
+            <richtigeAntwort>September</richtigeAntwort>
+            <falscheAntwort1>Juli</falscheAntwort1>
+            <falscheAntwort2>Oktober</falscheAntwort2>
+            <falscheAntwort3>November</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der 10. Monat?</fragenText>
+            <richtigeAntwort>Oktober</richtigeAntwort>
+            <falscheAntwort1>November</falscheAntwort1>
+            <falscheAntwort2>August</falscheAntwort2>
+            <falscheAntwort3>Dezember</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der 11. Monat?</fragenText>
+            <richtigeAntwort>November</richtigeAntwort>
+            <falscheAntwort1>Dezember</falscheAntwort1>
+            <falscheAntwort2>September</falscheAntwort2>
+            <falscheAntwort3>Januar</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der 12. Monat?</fragenText>
+            <richtigeAntwort>Dezember</richtigeAntwort>
+            <falscheAntwort1>Januar</falscheAntwort1>
+            <falscheAntwort2>Februar</falscheAntwort2>
+            <falscheAntwort3>Oktober</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Monat gibt es nicht?</fragenText>
+            <richtigeAntwort>Februber</richtigeAntwort>
+            <falscheAntwort1>Dezember</falscheAntwort1>
+            <falscheAntwort2>März</falscheAntwort2>
+            <falscheAntwort3>April</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Monat gibt es nicht?</fragenText>
+            <richtigeAntwort>Oktomer</richtigeAntwort>
+            <falscheAntwort1>Januar</falscheAntwort1>
+            <falscheAntwort2>April</falscheAntwort2>
+            <falscheAntwort3>Dezember</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Monat gibt es nicht?</fragenText>
+            <richtigeAntwort>Jubi</richtigeAntwort>
+            <falscheAntwort1>Mai</falscheAntwort1>
+            <falscheAntwort2>Juni</falscheAntwort2>
+            <falscheAntwort3>Juli</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Monat gibt es nicht?</fragenText>
+            <richtigeAntwort>Dektober</richtigeAntwort>
+            <falscheAntwort1>September</falscheAntwort1>
+            <falscheAntwort2>Oktober</falscheAntwort2>
+            <falscheAntwort3>August</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Monat gibt es nicht?</fragenText>
+            <richtigeAntwort>Noktember</richtigeAntwort>
+            <falscheAntwort1>Dezember</falscheAntwort1>
+            <falscheAntwort2>Oktober</falscheAntwort2>
+            <falscheAntwort3>September</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Monat gibt es nicht?</fragenText>
+            <richtigeAntwort>Januber</richtigeAntwort>
+            <falscheAntwort1>November</falscheAntwort1>
+            <falscheAntwort2>Dezember</falscheAntwort2>
+            <falscheAntwort3>Oktober</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Monat gibt es nicht?</fragenText>
+            <richtigeAntwort>Bruni</richtigeAntwort>
+            <falscheAntwort1>September</falscheAntwort1>
+            <falscheAntwort2>Juni</falscheAntwort2>
+            <falscheAntwort3>Oktober</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Monat gibt es nicht?</fragenText>
+            <richtigeAntwort>Deptember</richtigeAntwort>
+            <falscheAntwort1>Dezember</falscheAntwort1>
+            <falscheAntwort2>Oktober</falscheAntwort2>
+            <falscheAntwort3>November</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Monat gibt es nicht?</fragenText>
+            <richtigeAntwort>Oktember</richtigeAntwort>
+            <falscheAntwort1>November</falscheAntwort1>
+            <falscheAntwort2>September</falscheAntwort2>
+            <falscheAntwort3>Dezember</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Monat gibt es nicht?</fragenText>
+            <richtigeAntwort>Nobruar</richtigeAntwort>
+            <falscheAntwort1>Dezember</falscheAntwort1>
+            <falscheAntwort2>Februar</falscheAntwort2>
+            <falscheAntwort3>Januar</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Monat gibt es nicht?</fragenText>
+            <richtigeAntwort>Anton</richtigeAntwort>
+            <falscheAntwort1>August</falscheAntwort1>
+            <falscheAntwort2>Februar</falscheAntwort2>
+            <falscheAntwort3>Oktober</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Monat wird auch Wonnemonat genannt?</fragenText>
+            <richtigeAntwort>Mai</richtigeAntwort>
+            <falscheAntwort1>April</falscheAntwort1>
+            <falscheAntwort2>Juni</falscheAntwort2>
+            <falscheAntwort3>Juli</falscheAntwort3>
+            <schwierikeit>15</schwierikeit>
+            <schwierigkeitMin>15</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Reihenfolge stimmt nicht?</fragenText>
+            <richtigeAntwort>Februar Dezember März</richtigeAntwort>
+            <falscheAntwort1>April Mai Juni</falscheAntwort1>
+            <falscheAntwort2>Juni Juli August</falscheAntwort2>
+            <falscheAntwort3>Mai Juni Juli</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Reihenfolge stimmt nicht?</fragenText>
+            <richtigeAntwort>März April Juni</richtigeAntwort>
+            <falscheAntwort1>April Mai Juni</falscheAntwort1>
+            <falscheAntwort2>Juli August September</falscheAntwort2>
+            <falscheAntwort3>Mai Juni Juli</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Reihenfolge stimmt nicht?</fragenText>
+            <richtigeAntwort>Juni Juli Mai</richtigeAntwort>
+            <falscheAntwort1>April Mai Juni</falscheAntwort1>
+            <falscheAntwort2>März April Mai</falscheAntwort2>
+            <falscheAntwort3>Mai Juni Juli</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Reihenfolge stimmt nicht?</fragenText>
+            <richtigeAntwort>Frühling Herbst Sommer</richtigeAntwort>
+            <falscheAntwort1>Winter Frühling Sommer</falscheAntwort1>
+            <falscheAntwort2>Herbst Winter Frühling</falscheAntwort2>
+            <falscheAntwort3>Sommer Herbst Winter</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Reihenfolge stimmt nicht?</fragenText>
+            <richtigeAntwort>Frühling Sommer Winter</richtigeAntwort>
+            <falscheAntwort1>Winter Frühling Sommer</falscheAntwort1>
+            <falscheAntwort2>Herbst Winter Frühling</falscheAntwort2>
+            <falscheAntwort3>Sommer Herbst Winter</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche Reihenfolge stimmt nicht?</fragenText>
+            <richtigeAntwort>Herbst Winter Sommer</richtigeAntwort>
+            <falscheAntwort1>Winter Frühling Sommer</falscheAntwort1>
+            <falscheAntwort2>Herbst Winter Frühling</falscheAntwort2>
+            <falscheAntwort3>Sommer Herbst Winter</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Donnerstag vor Ostern?</fragenText>
+            <richtigeAntwort>Gründonnerstag</richtigeAntwort>
+            <falscheAntwort1>Gelbdonnerstag</falscheAntwort1>
+            <falscheAntwort2>Blaudonnerstag</falscheAntwort2>
+            <falscheAntwort3>Rotdonnerstag</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Freitag vor Ostern?</fragenText>
+            <richtigeAntwort>Karfreitag</richtigeAntwort>
+            <falscheAntwort1>Karlfreitag</falscheAntwort1>
+            <falscheAntwort2>Warfreitag</falscheAntwort2>
+            <falscheAntwort3>Sarfreitag</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Tage hat ein Schaltjahr?</fragenText>
+            <richtigeAntwort>366</richtigeAntwort>
+            <falscheAntwort1>365</falscheAntwort1>
+            <falscheAntwort2>364</falscheAntwort2>
+            <falscheAntwort3>367</falscheAntwort3>
+            <schwierikeit>15</schwierikeit>
+            <schwierigkeitMin>15</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Tage hat ein Jahr?</fragenText>
+            <richtigeAntwort>365</richtigeAntwort>
+            <falscheAntwort1>366</falscheAntwort1>
+            <falscheAntwort2>367</falscheAntwort2>
+            <falscheAntwort3>250</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Tage hat eine Woche?</fragenText>
+            <richtigeAntwort>7</richtigeAntwort>
+            <falscheAntwort1>5</falscheAntwort1>
+            <falscheAntwort2>6</falscheAntwort2>
+            <falscheAntwort3>8</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>4</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Monate hat ein Jahr?</fragenText>
+            <richtigeAntwort>12</richtigeAntwort>
+            <falscheAntwort1>10</falscheAntwort1>
+            <falscheAntwort2>11</falscheAntwort2>
+            <falscheAntwort3>13</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Monate hat ein halbes Jahr?</fragenText>
+            <richtigeAntwort>6</richtigeAntwort>
+            <falscheAntwort1>5</falscheAntwort1>
+            <falscheAntwort2>7</falscheAntwort2>
+            <falscheAntwort3>8</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Monate hat ein Vierteljahr?</fragenText>
+            <richtigeAntwort>3</richtigeAntwort>
+            <falscheAntwort1>4</falscheAntwort1>
+            <falscheAntwort2>2</falscheAntwort2>
+            <falscheAntwort3>5</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Monat ist Frühlingsanfang?</fragenText>
+            <richtigeAntwort>März</richtigeAntwort>
+            <falscheAntwort1>Februar</falscheAntwort1>
+            <falscheAntwort2>April</falscheAntwort2>
+            <falscheAntwort3>Mai</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Monat ist Sommeranfang?</fragenText>
+            <richtigeAntwort>Juni</richtigeAntwort>
+            <falscheAntwort1>Juli</falscheAntwort1>
+            <falscheAntwort2>April</falscheAntwort2>
+            <falscheAntwort3>Mai</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Monat ist Herbstanfang?</fragenText>
+            <richtigeAntwort>September</richtigeAntwort>
+            <falscheAntwort1>Oktober</falscheAntwort1>
+            <falscheAntwort2>November</falscheAntwort2>
+            <falscheAntwort3>Dezember</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Monat ist Winteranfang?</fragenText>
+            <richtigeAntwort>Dezember</richtigeAntwort>
+            <falscheAntwort1>November</falscheAntwort1>
+            <falscheAntwort2>Januar</falscheAntwort2>
+            <falscheAntwort3>Mai</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>8</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist k e i n e Jahreszeit?</fragenText>
+            <richtigeAntwort>Karneval</richtigeAntwort>
+            <falscheAntwort1>Herbst</falscheAntwort1>
+            <falscheAntwort2>Winter</falscheAntwort2>
+            <falscheAntwort3>Sommer</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Monat kommt der Nikolaus?</fragenText>
+            <richtigeAntwort>Dezember</richtigeAntwort>
+            <falscheAntwort1>November</falscheAntwort1>
+            <falscheAntwort2>August</falscheAntwort2>
+            <falscheAntwort3>Oktober</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>An welchem Tag kommt der Nikolaus?</fragenText>
+            <richtigeAntwort>6. Dezember</richtigeAntwort>
+            <falscheAntwort1>5. Dezember</falscheAntwort1>
+            <falscheAntwort2>7. Dezember</falscheAntwort2>
+            <falscheAntwort3>6. November</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer kommt am 6. Dezember?</fragenText>
+            <richtigeAntwort>Nikolaus</richtigeAntwort>
+            <falscheAntwort1>Osterhase</falscheAntwort1>
+            <falscheAntwort2>Christkind</falscheAntwort2>
+            <falscheAntwort3>Kasper</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man den letzten Tag im Jahr auch noch?</fragenText>
+            <richtigeAntwort>Silvester</richtigeAntwort>
+            <falscheAntwort1>Tweety</falscheAntwort1>
+            <falscheAntwort2>Abschlusstag</falscheAntwort2>
+            <falscheAntwort3>Semester</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man den ersten Tag im Jahr auch noch?</fragenText>
+            <richtigeAntwort>Neujahrstag</richtigeAntwort>
+            <falscheAntwort1>Anfangstag</falscheAntwort1>
+            <falscheAntwort2>Starttag</falscheAntwort2>
+            <falscheAntwort3>Beginntag</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>4</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was ist auch ein Monatsname?</fragenText>
+            <richtigeAntwort>August</richtigeAntwort>
+            <falscheAntwort1>Fridolin</falscheAntwort1>
+            <falscheAntwort2>Melchior</falscheAntwort2>
+            <falscheAntwort3>Kasper</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer gab dem Monat August seinen Namen?</fragenText>
+            <richtigeAntwort>ein römischer Kaiser</richtigeAntwort>
+            <falscheAntwort1>ein griechischer Kaiser</falscheAntwort1>
+            <falscheAntwort2>ein ägyptischer König</falscheAntwort2>
+            <falscheAntwort3>ein berühmter Zirkusclown</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer gab dem Monat Juli seinen Namen?</fragenText>
+            <richtigeAntwort>ein römischer Kaiser</richtigeAntwort>
+            <falscheAntwort1>ein griechischer Gott</falscheAntwort1>
+            <falscheAntwort2>ein englischer König</falscheAntwort2>
+            <falscheAntwort3>eine berühmte Schauspielerin</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Monat hat die wenigsten Tage?</fragenText>
+            <richtigeAntwort>Februar</richtigeAntwort>
+            <falscheAntwort1>Mai</falscheAntwort1>
+            <falscheAntwort2>Juni</falscheAntwort2>
+            <falscheAntwort3>März</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Tage hat ein normaler Februar? (also nicht im Schaltjahr !)</fragenText>
+            <richtigeAntwort>28</richtigeAntwort>
+            <falscheAntwort1>27</falscheAntwort1>
+            <falscheAntwort2>29</falscheAntwort2>
+            <falscheAntwort3>30</falscheAntwort3>
+            <schwierikeit>11</schwierikeit>
+            <schwierigkeitMin>10</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Tage hat ein Februar in einem Schaltjahr?</fragenText>
+            <richtigeAntwort>29</richtigeAntwort>
+            <falscheAntwort1>28</falscheAntwort1>
+            <falscheAntwort2>30</falscheAntwort2>
+            <falscheAntwort3>27</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>An welchem Tag ist Muttertag?</fragenText>
+            <richtigeAntwort>am zweiten Sonntag im Mai</richtigeAntwort>
+            <falscheAntwort1>am ersten Sonntag im Mai</falscheAntwort1>
+            <falscheAntwort2>am letzten Sonntag im Mai</falscheAntwort2>
+            <falscheAntwort3>am letzten Sonntag im April</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Monat ist Muttertag?</fragenText>
+            <richtigeAntwort>Mai</richtigeAntwort>
+            <falscheAntwort1>Juni</falscheAntwort1>
+            <falscheAntwort2>Juli</falscheAntwort2>
+            <falscheAntwort3>April</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>10</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Monat ist Erntedankfest?</fragenText>
+            <richtigeAntwort>Oktober</richtigeAntwort>
+            <falscheAntwort1>November</falscheAntwort1>
+            <falscheAntwort2>September</falscheAntwort2>
+            <falscheAntwort3>August</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>9</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wer ist für die Jahreszeiten verantwortlich?</fragenText>
+            <richtigeAntwort>Sonne</richtigeAntwort>
+            <falscheAntwort1>Mond</falscheAntwort1>
+            <falscheAntwort2>Sterne</falscheAntwort2>
+            <falscheAntwort3>Kalender</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Monat gibt einer Glockenblume seinen Namen?</fragenText>
+            <richtigeAntwort>Mai</richtigeAntwort>
+            <falscheAntwort1>Juni</falscheAntwort1>
+            <falscheAntwort2>Juli</falscheAntwort2>
+            <falscheAntwort3>März</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Monat kommen die drei Eisheiligen?</fragenText>
+            <richtigeAntwort>Mai</richtigeAntwort>
+            <falscheAntwort1>November</falscheAntwort1>
+            <falscheAntwort2>Dezember</falscheAntwort2>
+            <falscheAntwort3>Januar</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>12</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Monat ist der Heilige Abend?</fragenText>
+            <richtigeAntwort>Dezember</richtigeAntwort>
+            <falscheAntwort1>März</falscheAntwort1>
+            <falscheAntwort2>November</falscheAntwort2>
+            <falscheAntwort3>Januar</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>An welchem Tag ist der Heilige Abend?</fragenText>
+            <richtigeAntwort>24. Dezember</richtigeAntwort>
+            <falscheAntwort1>25. Dezember</falscheAntwort1>
+            <falscheAntwort2>23. Dezember</falscheAntwort2>
+            <falscheAntwort3>26. Dezember</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>8</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Monat ist der Valentinstag?</fragenText>
+            <richtigeAntwort>Februar</richtigeAntwort>
+            <falscheAntwort1>März</falscheAntwort1>
+            <falscheAntwort2>April</falscheAntwort2>
+            <falscheAntwort3>Mai</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>12</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>An welchem Tag ist der Valentinstag?</fragenText>
+            <richtigeAntwort>14. Februar</richtigeAntwort>
+            <falscheAntwort1>14. März</falscheAntwort1>
+            <falscheAntwort2>24. Februar</falscheAntwort2>
+            <falscheAntwort3>4. April</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welchen Tag gibt es nicht?</fragenText>
+            <richtigeAntwort>30. Februar</richtigeAntwort>
+            <falscheAntwort1>30. März</falscheAntwort1>
+            <falscheAntwort2>30. Januar</falscheAntwort2>
+            <falscheAntwort3>31. Dezember</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>11</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Monate hat ein Jahr in E n g l a n d?</fragenText>
+            <richtigeAntwort>12</richtigeAntwort>
+            <falscheAntwort1>10</falscheAntwort1>
+            <falscheAntwort2>11</falscheAntwort2>
+            <falscheAntwort3>6</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>6</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Totensonntage gibt es in einem Jahr?</fragenText>
+            <richtigeAntwort>1</richtigeAntwort>
+            <falscheAntwort1>2</falscheAntwort1>
+            <falscheAntwort2>3</falscheAntwort2>
+            <falscheAntwort3>4</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>11</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Monat ist der Totensonntag?</fragenText>
+            <richtigeAntwort>November</richtigeAntwort>
+            <falscheAntwort1>Dezember</falscheAntwort1>
+            <falscheAntwort2>Oktober</falscheAntwort2>
+            <falscheAntwort3>Mai</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>7</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welche 2 aufeinander folgende Monate haben 31 Tage?</fragenText>
+            <richtigeAntwort>Juli August</richtigeAntwort>
+            <falscheAntwort1>Juni Juli</falscheAntwort1>
+            <falscheAntwort2>August September</falscheAntwort2>
+            <falscheAntwort3>Oktober November</falscheAntwort3>
+            <schwierikeit>8</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>15</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Welcher Tag wird von manchen Menschen als Unglückstag angesehen?</fragenText>
+            <richtigeAntwort>Freitag, der 13.</richtigeAntwort>
+            <falscheAntwort1>Freitag, der 12.</falscheAntwort1>
+            <falscheAntwort2>Montag, der 13.</falscheAntwort2>
+            <falscheAntwort3>Montag, der 1.</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+            <schwierigkeitMin>1</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Wie heißt der Mittwoch nach Karneval?</fragenText>
+            <richtigeAntwort>Aschermittwoch</richtigeAntwort>
+            <falscheAntwort1>Feuermittwoch</falscheAntwort1>
+            <falscheAntwort2>Rauchmittwoch</falscheAntwort2>
+            <falscheAntwort3>falscher Mittwoch</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In welchem Monat ist St. Martin?</fragenText>
+            <richtigeAntwort>November</richtigeAntwort>
+            <falscheAntwort1>August</falscheAntwort1>
+            <falscheAntwort2>September</falscheAntwort2>
+            <falscheAntwort3>Mai</falscheAntwort3>
+            <schwierikeit>6</schwierikeit>
+            <schwierigkeitMin>5</schwierigkeitMin>
+            <schwierigkeitMax>7</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>An welchem Tag ist St. Martin?</fragenText>
+            <richtigeAntwort>11. November</richtigeAntwort>
+            <falscheAntwort1>10. November</falscheAntwort1>
+            <falscheAntwort2>11. Dezember</falscheAntwort2>
+            <falscheAntwort3>10. September</falscheAntwort3>
+            <schwierikeit>9</schwierikeit>
+            <schwierigkeitMin>6</schwierigkeitMin>
+            <schwierigkeitMax>13</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Ein Schaltjahr kommt alle ... Jahre.</fragenText>
+            <richtigeAntwort>4</richtigeAntwort>
+            <falscheAntwort1>2</falscheAntwort1>
+            <falscheAntwort2>3</falscheAntwort2>
+            <falscheAntwort3>10</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>Was passiert im Schaltjahr?</fragenText>
+            <richtigeAntwort>Es kommt 1 Tag dazu.</richtigeAntwort>
+            <falscheAntwort1>Das Jahr ist 1 Tag kürzer.</falscheAntwort1>
+            <falscheAntwort2>Es kommen 2 Tage dazu.</falscheAntwort2>
+            <falscheAntwort3>Das Jahr ist 1 Woche kürzer.</falscheAntwort3>
+            <schwierikeit>7</schwierikeit>
+            <schwierigkeitMin>13</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+        <frage>
+            <fragenText>In einem Jahr wandert die Erde einmal ...</fragenText>
+            <richtigeAntwort>um die Sonne</richtigeAntwort>
+            <falscheAntwort1>um den Mond</falscheAntwort1>
+            <falscheAntwort2>um die Milchstraße</falscheAntwort2>
+            <falscheAntwort3>um den Mars</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+            <schwierigkeitMin>9</schwierigkeitMin>
+            <schwierigkeitMax>1</schwierigkeitMax>
+        </frage>
+    </fragen>
+</fragenKatalog>
