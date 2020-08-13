@@ -8,7 +8,6 @@ import javax.xml.transform.dom.DOMSource;
 import javax.xml.transform.OutputKeys;
 import javax.xml.transform.stream.StreamResult;
 import javax.xml.transform.Transformer;
-import javax.xml.transform.TransformerConfigurationException;
 import javax.xml.transform.TransformerException;
 import javax.xml.transform.TransformerFactory;
 import org.w3c.dom.Document;
@@ -22,29 +21,34 @@ public class XMLSchreiber {
   Element thema;
   Element autor;
   Element anzahlFragen;
+  int fragenZähler = 0;
   Element fach;
 
-  public XMLSchreiber() throws ParserConfigurationException {
-    DocumentBuilderFactory documentFactory = DocumentBuilderFactory.newInstance();
-    DocumentBuilder documentBuilder = documentFactory.newDocumentBuilder();
-    dokument = documentBuilder.newDocument();
-    wurzel = dokument.createElement("fragenKatalog");
-    dokument.appendChild(wurzel);
+  public XMLSchreiber() {
+    try {
+      DocumentBuilderFactory documentFactory = DocumentBuilderFactory.newInstance();
+      DocumentBuilder documentBuilder = documentFactory.newDocumentBuilder();
+      dokument = documentBuilder.newDocument();
+      wurzel = dokument.createElement("fragenKatalog");
+      dokument.appendChild(wurzel);
 
-    fach = dokument.createElement("fach");
-    wurzel.appendChild(fach);
+      fach = dokument.createElement("fach");
+      wurzel.appendChild(fach);
 
-    thema = dokument.createElement("thema");
-    wurzel.appendChild(thema);
+      thema = dokument.createElement("thema");
+      wurzel.appendChild(thema);
 
-    autor = dokument.createElement("autor");
-    wurzel.appendChild(autor);
+      autor = dokument.createElement("autor");
+      wurzel.appendChild(autor);
 
-    anzahlFragen = dokument.createElement("anzahlFragen");
-    wurzel.appendChild(anzahlFragen);
+      anzahlFragen = dokument.createElement("anzahlFragen");
+      wurzel.appendChild(anzahlFragen);
 
-    fragen = dokument.createElement("fragen");
-    wurzel.appendChild(fragen);
+      fragen = dokument.createElement("fragen");
+      wurzel.appendChild(fragen);
+    } catch (ParserConfigurationException e) {
+      e.printStackTrace();
+    }
   }
 
   private void erzeugeText(Element element, String text) {
@@ -73,6 +77,10 @@ public class XMLSchreiber {
     erzeugeText(this.anzahlFragen, anzahlFragen);
   }
 
+  public void setzeAnzahFragen() {
+    erzeugeText(this.anzahlFragen, String.valueOf(fragenZähler));
+  }
+
   public void setzeFach(String fach) {
     erzeugeText(this.fach, fach);
   }
@@ -87,6 +95,7 @@ public class XMLSchreiber {
     hängeTextElementAn(frage, "falscheAntwort2", falscheAntwort2);
     hängeTextElementAn(frage, "falscheAntwort3", falscheAntwort3);
     hängeTextElementAn(frage, "schwierikeit", Integer.toString(schwierikeit));
+    fragenZähler++;
     return frage;
   }
 
@@ -98,13 +107,18 @@ public class XMLSchreiber {
     hängeTextElementAn(frage, "schwierigkeitMax", Integer.toString(schwierigkeitMax));
   }
 
-  public void schreibeInDatei(String dateiName) throws TransformerConfigurationException, TransformerException {
-    TransformerFactory transformerFactory = TransformerFactory.newInstance();
-    Transformer transformer = transformerFactory.newTransformer();
-    transformer.setOutputProperty(OutputKeys.ENCODING, "UTF-8");
-    transformer.setOutputProperty(OutputKeys.INDENT, "yes");
-    DOMSource domSource = new DOMSource(dokument);
-    StreamResult streamResult = new StreamResult(new File(dateiName));
-    transformer.transform(domSource, streamResult);
+  public void schreibeInDatei(String dateiName) {
+    try {
+      setzeAnzahFragen();
+      TransformerFactory transformerFactory = TransformerFactory.newInstance();
+      Transformer transformer = transformerFactory.newTransformer();
+      transformer.setOutputProperty(OutputKeys.ENCODING, "UTF-8");
+      transformer.setOutputProperty(OutputKeys.INDENT, "yes");
+      DOMSource domSource = new DOMSource(dokument);
+      StreamResult streamResult = new StreamResult(new File(dateiName));
+      transformer.transform(domSource, streamResult);
+    } catch ( TransformerException e) {
+      e.printStackTrace();
+    }
   }
 }

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Informatik</fach>
+    <thema>7. Jahrgangsstufe</thema>
+    <autor>Josef</autor>
+    <anzahlFragen>10</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>Welche Wörter stecken hinter der Abkürzung HTTP?</fragenText>
+            <richtigeAntwort>Hypertext Transfer Protocol</richtigeAntwort>
+            <falscheAntwort1>Hypertext Transfer Pipeline</falscheAntwort1>
+            <falscheAntwort2>Hypertext Transmission Protocol</falscheAntwort2>
+            <falscheAntwort3>Helpertext Transfer Protocol</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+        </frage>
+        <frage>
+            <fragenText>Welche der aufgeführten IP-Adressen ist valide?</fragenText>
+            <richtigeAntwort>205.13.0.4</richtigeAntwort>
+            <falscheAntwort1>256.13.0.4</falscheAntwort1>
+            <falscheAntwort2>205.13.0</falscheAntwort2>
+            <falscheAntwort3>265.13.0.4</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+        </frage>
+        <frage>
+            <fragenText>Welcher HTML-Code stellt einen validen Link dar?</fragenText>
+            <richtigeAntwort>&lt;a href="index.html"&gt;Link&lt;/a&gt;</richtigeAntwort>
+            <falscheAntwort1>&lt;a link="index.html"&gt;Link&lt;/a&gt;</falscheAntwort1>
+            <falscheAntwort2>&lt;a url="index.html"&gt;Link&lt;/a&gt;</falscheAntwort2>
+            <falscheAntwort3>&lt;a src="index.html"&gt;Link&lt;/a&gt;</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man Editoren für Hypertextdokumente, die eine Vorschau des HTML-Codes ermöglichen?</fragenText>
+            <richtigeAntwort>WYSIWYG-Editoren</richtigeAntwort>
+            <falscheAntwort1>WYSIWYW-Editoren</falscheAntwort1>
+            <falscheAntwort2>WVSIWYG-Editoren</falscheAntwort2>
+            <falscheAntwort3>WUSIWYG-Editoren</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+        </frage>
+        <frage>
+            <fragenText>Welcher HTML-Tag existiert nicht?</fragenText>
+            <richtigeAntwort>&lt;underline&gt;&lt;/underline&gt;</richtigeAntwort>
+            <falscheAntwort1>&lt;b&gt;&lt;/b&gt;</falscheAntwort1>
+            <falscheAntwort2>&lt;strong&gt;&lt;/strong&gt;</falscheAntwort2>
+            <falscheAntwort3>&lt;u&gt;&lt;/u&gt;</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man das Gesetz das regelt wie Firmen und öffentliche Einrichtungen mit personenbezogenen Daten umzugehen haben.</fragenText>
+            <richtigeAntwort>DSGVO</richtigeAntwort>
+            <falscheAntwort1>DGSVO</falscheAntwort1>
+            <falscheAntwort2>DSGUO</falscheAntwort2>
+            <falscheAntwort3>DSBVO</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+        </frage>
+        <frage>
+            <fragenText>Mit einem Methodenaufruf ...</fragenText>
+            <richtigeAntwort>... gibt man einem Objekt Anweisungen.</richtigeAntwort>
+            <falscheAntwort1>... ruft man die Programmierungumgebung auf.</falscheAntwort1>
+            <falscheAntwort2>... liest man die Liste aller Methoden aus.</falscheAntwort2>
+            <falscheAntwort3>... startet man die Sprachausgabe.</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+        </frage>
+        <frage>
+            <fragenText>Was ist ein Struktogramm?</fragenText>
+            <richtigeAntwort>Eine grafische Darstellung eines Programmentwurfs.</richtigeAntwort>
+            <falscheAntwort1>Ein gut strukturiertes Computerprogramm.</falscheAntwort1>
+            <falscheAntwort2>Eine Software zum Zeitmanagement.</falscheAntwort2>
+            <falscheAntwort3>Eine grafische Programmiersprache.</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+        </frage>
+        <frage>
+            <fragenText>Die Verbindung von Knoten in einem Graphen nennt man ...</fragenText>
+            <richtigeAntwort>Kante</richtigeAntwort>
+            <falscheAntwort1>Seil</falscheAntwort1>
+            <falscheAntwort2>Glied</falscheAntwort2>
+            <falscheAntwort3>Line</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt die Beziehung, wenn zwei Objekte der gleichen Klasse in Beziehung stehen?</fragenText>
+            <richtigeAntwort>rekursive Beziehung</richtigeAntwort>
+            <falscheAntwort1>repetetive Beziehung</falscheAntwort1>
+            <falscheAntwort2>reflexive Beziehung</falscheAntwort2>
+            <falscheAntwort3>relationale Beziehung</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+        </frage>
+    </fragen>
+</fragenKatalog>

@@ -147,7 +147,7 @@ public class KommandoZeile {
 
     Spiel spiel = new Spiel();
 
-    CSVLeser leser = new CSVLeser("./Fragen.csv");
+    CSVLeser leser = new CSVLeser("./spiel/fragen/fragen.csv");
     leser.leseInSpielEin(spiel, jahrgangsstufe);
 
     boolean nochImSpiel = true;

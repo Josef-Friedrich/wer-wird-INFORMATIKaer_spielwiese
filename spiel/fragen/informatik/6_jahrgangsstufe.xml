@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragenKatalog>
+    <fach>Informatik</fach>
+    <thema>6. Jahrgangsstufe</thema>
+    <autor>Michi</autor>
+    <anzahlFragen>10</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>Wie nennt die Beziehung, wenn zwei Objekte der gleichen Klasse in Beziehung stehen?</fragenText>
+            <richtigeAntwort>rekursive Beziehung</richtigeAntwort>
+            <falscheAntwort1>repetetive Beziehung</falscheAntwort1>
+            <falscheAntwort2>reflexive Beziehung</falscheAntwort2>
+            <falscheAntwort3>relationale Beziehung</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+        </frage>
+        <frage>
+            <fragenText>Welche Definition trifft in Informatik für den Begriff Klasse zu?</fragenText>
+            <richtigeAntwort>ein Bauplan für Objekte gleicher Art</richtigeAntwort>
+            <falscheAntwort1>die Eigenschaft eines Objekts</falscheAntwort1>
+            <falscheAntwort2>eine Gruppe, zu der alle Objekte gehören</falscheAntwort2>
+            <falscheAntwort3>eine Ansammlung von Methoden</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+        </frage>
+        <frage>
+            <fragenText>Welche Attribute gehören nicht zur Klasse FOLIE?</fragenText>
+            <richtigeAntwort>EinzugLinks</richtigeAntwort>
+            <falscheAntwort1>Füllfarbe</falscheAntwort1>
+            <falscheAntwort2>Anzeigedauer</falscheAntwort2>
+            <falscheAntwort3>Folienübergang</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+        </frage>
+        <frage>
+            <fragenText>Was ändert sich im Wort "lassen", nachdem die Methode Z3.SchriftgroesseSetzen(8) ausgeführt worden ist?</fragenText>
+            <richtigeAntwort>Das erste s hat die Schriftgröße 8.</richtigeAntwort>
+            <falscheAntwort1>Das ss hat die Schriftgröße 8.</falscheAntwort1>
+            <falscheAntwort2>Die Zeile mit dem Wort hat die Schriftgröße 8.</falscheAntwort2>
+            <falscheAntwort3>Nichts, weil der Attributwert unzulässig ist.</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+        </frage>
+        <frage>
+            <fragenText>Wie wird bei Objektdiagrammen die Enthält-Beziehung zwischen zwei Objekten dargestellt?</fragenText>
+            <richtigeAntwort>Kante</richtigeAntwort>
+            <falscheAntwort1>Wurzel</falscheAntwort1>
+            <falscheAntwort2>Knoten</falscheAntwort2>
+            <falscheAntwort3>Blatt</falscheAntwort3>
+            <schwierikeit>2</schwierikeit>
+        </frage>
+        <frage>
+            <fragenText>Bei welcher Beziehung handelt es sich nicht um eine Enthält-Beziehung?</fragenText>
+            <richtigeAntwort>Teller – Messer – Gabel</richtigeAntwort>
+            <falscheAntwort1>Pixelgrafikdokument – Pixel</falscheAntwort1>
+            <falscheAntwort2>Mensch – Kopf – Auge – Haar</falscheAntwort2>
+            <falscheAntwort3>Buch – Seite</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+        </frage>
+        <frage>
+            <fragenText>Welches der folgenden Attribute gehört zur Klasse ABSATZ?</fragenText>
+            <richtigeAntwort>Ausrichtung</richtigeAntwort>
+            <falscheAntwort1>Schriftart</falscheAntwort1>
+            <falscheAntwort2>Fett</falscheAntwort2>
+            <falscheAntwort3>Hochgestellt</falscheAntwort3>
+            <schwierikeit>1</schwierikeit>
+        </frage>
+        <frage>
+            <fragenText>Wie sieht folgende Aussage in informatischer Punktschreibweise aus? „Das Objekt mit dem Bezeichner Fenster ist blau.“</fragenText>
+            <richtigeAntwort>Fenster.Farbe = blau</richtigeAntwort>
+            <falscheAntwort1>Rechteck.Fenster = blau</falscheAntwort1>
+            <falscheAntwort2>Fenster.Farbe(blau)</falscheAntwort2>
+            <falscheAntwort3>FENSTER.Farbe = blau</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+        </frage>
+        <frage>
+            <fragenText>Welche informatische Kurzschreibweise ist für folgende Aussage die richtige? „Das Objekt Schüler1 gehört der Klasse SCHÜLER an.“</fragenText>
+            <richtigeAntwort>Schüler1:SCHÜLER</richtigeAntwort>
+            <falscheAntwort1>Schüler:Schüler</falscheAntwort1>
+            <falscheAntwort2>SCHÜLER1:Schüler</falscheAntwort2>
+            <falscheAntwort3>SCHÜLER1:SCHÜLER</falscheAntwort3>
+            <schwierikeit>3</schwierikeit>
+        </frage>
+        <frage>
+            <fragenText>Welche Übersetzung folgender Aussage in die Punktschreibweise ist korrekt? „Der Radius des Balls wird auf 2 cm festgelegt.“</fragenText>
+            <richtigeAntwort>Ball.RadiusSetzen(2 cm)</richtigeAntwort>
+            <falscheAntwort1>Radius.Ball = 2 cm</falscheAntwort1>
+            <falscheAntwort2>Radius(2 cm):BALL</falscheAntwort2>
+            <falscheAntwort3>Ball.Radius = 2 cm</falscheAntwort3>
+            <schwierikeit>5</schwierikeit>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Attribute hat ein Objekt der Klasse Pixel?</fragenText>
+            <richtigeAntwort>1</richtigeAntwort>
+            <falscheAntwort1>3</falscheAntwort1>
+            <falscheAntwort2>5</falscheAntwort2>
+            <falscheAntwort3>7</falscheAntwort3>
+            <schwierikeit>4</schwierikeit>
+        </frage>
+    </fragen>
+</fragenKatalog>

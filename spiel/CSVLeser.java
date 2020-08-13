@@ -11,11 +11,15 @@ import org.apache.commons.csv.CSVRecord;
 
 public class CSVLeser {
 
-  private CSVParser csvParser;
+  private CSVParser leser;
 
   public CSVLeser(String csvDatei) throws IOException {
     BufferedReader reader = Files.newBufferedReader(Paths.get(csvDatei));
-    csvParser = new CSVParser(reader, CSVFormat.DEFAULT.withHeader().withIgnoreHeaderCase().withTrim());
+    leser = new CSVParser(reader, CSVFormat.DEFAULT.withHeader().withIgnoreHeaderCase().withTrim());
+  }
+
+  public CSVParser gibLeser() {
+    return leser;
   }
 
   private void leseZeileInSpielEin(Spiel spiel, CSVRecord csvRecord) {
@@ -30,10 +34,10 @@ public class CSVLeser {
    * @throws IOException
    */
   public void leseInSpielEin(Spiel spiel) throws IOException {
-    for (CSVRecord csvRecord : csvParser) {
+    for (CSVRecord csvRecord : leser) {
       leseZeileInSpielEin(spiel, csvRecord);
     }
-    csvParser.close();
+    leser.close();
   }
 
   /**
@@ -44,11 +48,11 @@ public class CSVLeser {
    * @throws IOException
    */
   public void leseInSpielEin(Spiel spiel, int jahrgangsstufe) throws IOException {
-    for (CSVRecord csvRecord : csvParser) {
+    for (CSVRecord csvRecord : leser) {
       if (Integer.parseInt(csvRecord.get("jahrgangsstufe")) == jahrgangsstufe) {
         leseZeileInSpielEin(spiel, csvRecord);
       }
     }
-    csvParser.close();
+    leser.close();
   }
 }
