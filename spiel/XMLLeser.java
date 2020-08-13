@@ -18,12 +18,11 @@ public class XMLLeser {
   public String thema;
   public String author;
 
-  public XMLLeser(String pfad)  {
+  public XMLLeser(File datei)  {
     try {
-      File file = new File(pfad);
       DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
       DocumentBuilder db = dbf.newDocumentBuilder();
-      dokument = db.parse(file);
+      dokument = db.parse(datei);
       dokument.getDocumentElement().normalize();
       fach = leseMetaDaten("fach");
       thema = leseMetaDaten("thema");
@@ -53,7 +52,7 @@ public class XMLLeser {
   }
 
   public static void main(String[] args) {
-    XMLLeser leser = new XMLLeser("fragen/musik/musik01.xml");
+    XMLLeser leser = new XMLLeser(new File("./spiel/fragen/musik/musik01.xml"));
     System.out.println(leser.fach);
   }
 
