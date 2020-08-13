@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<fragenKatalog>
+<fragenListe>
     <fach>Chemie</fach>
     <thema>Chemie</thema>
     <autor/>
@@ -1466,4 +1466,4 @@
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
     </fragen>
-</fragenKatalog>
+</fragenListe>

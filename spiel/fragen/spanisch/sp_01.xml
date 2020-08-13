@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<fragenKatalog>
+<fragenListe>
     <fach>Spanisch</fach>
     <thema>vocabulario</thema>
     <autor>L. Bartel, Stand 22.12.01</autor>
@@ -286,4 +286,4 @@
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
     </fragen>
-</fragenKatalog>
+</fragenListe>

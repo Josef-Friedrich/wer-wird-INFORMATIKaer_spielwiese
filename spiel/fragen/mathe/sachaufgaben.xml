@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<fragenKatalog>
+<fragenListe>
     <fach>Mathe</fach>
     <thema>Sachaufgaben Fragen</thema>
     <autor>Manfred Hartisch</autor>
@@ -1246,4 +1246,4 @@
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
     </fragen>
-</fragenKatalog>
+</fragenListe>

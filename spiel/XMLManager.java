@@ -48,7 +48,7 @@ public class XMLManager {
       DocumentBuilderFactory documentFactory = DocumentBuilderFactory.newInstance();
       DocumentBuilder documentBuilder = documentFactory.newDocumentBuilder();
       dokument = documentBuilder.newDocument();
-      wurzel = dokument.createElement("fragenKatalog");
+      wurzel = dokument.createElement("fragenListe");
       dokument.appendChild(wurzel);
 
       fach = dokument.createElement("fach");
@@ -72,7 +72,7 @@ public class XMLManager {
 
   /**
    * Lese die Metadaten des Fragen-Katalogs. Metadaten sind direkt
-   * unter dem Wurzel-Element fragenKatalog angehängt und haben nur
+   * unter dem Wurzel-Element fragenListe angehängt und haben nur
    * einen Text-Inhalt.
    *
    * @param elementName Der Name des XML-Elements z. b. thema, autor
