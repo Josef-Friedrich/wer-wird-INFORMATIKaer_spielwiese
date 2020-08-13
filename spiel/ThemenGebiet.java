@@ -7,14 +7,14 @@ import org.apache.commons.csv.CSVParser;
 import org.apache.commons.csv.CSVRecord;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
+import org.w3c.dom.Node;
+import org.w3c.dom.NodeList;
 
 /**
  * Die Fragen für ein Themengebiet werden in einer XML-Datei festgehalten.
  */
 public class ThemenGebiet extends XMLDatei {
 
-  Element wurzel;
-  Document dokument;
   Element fragen;
   Element thema;
   Element autor;
@@ -115,6 +115,32 @@ public class ThemenGebiet extends XMLDatei {
       schreibeInDatei("tmp.xml");
     } catch (IOException e) {
       e.printStackTrace();
+    }
+  }
+
+  /**
+   * Liest die Fragen einer Jahrgangsstufe in die Klasse Spiel ein.
+   *
+   * @param spiel
+   * @param jahrgangsstufe
+   * @throws IOException
+   */
+  public void leseFragenInsSpiel(Spiel spiel) {
+    NodeList knotenListe = dokument.getElementsByTagName("frage");
+    for (int i = 0; i < knotenListe.getLength(); i++) {
+      NodeList fragenElemente = knotenListe.item(i).getChildNodes();
+      // Die anderen Knoten 0 2 sind Text-Knoten, die nur die Leerzeichen aus der
+      // XML-Datei enthalten.
+      // Das ist ziemlich unschön und fragil.
+      Node fragenText = fragenElemente.item(1);
+      Node richtigeAntwort = fragenElemente.item(3);
+      Node falscheAntwort1 = fragenElemente.item(5);
+      Node falscheAntwort2 = fragenElemente.item(7);
+      Node falscheAntwort3 = fragenElemente.item(9);
+      Node schwierigkeit = fragenElemente.item(11);
+      spiel.erzeugeFrage(fragenText.getTextContent(), richtigeAntwort.getTextContent(),
+          falscheAntwort1.getTextContent(), falscheAntwort2.getTextContent(), falscheAntwort3.getTextContent(),
+          schwierigkeit.getTextContent());
     }
   }
 

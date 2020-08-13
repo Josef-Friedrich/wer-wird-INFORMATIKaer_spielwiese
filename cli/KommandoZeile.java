@@ -1,6 +1,7 @@
 package cli;
 
 import spiel.Spiel;
+import spiel.ThemenGebiet;
 import spiel.ThemenKatalog;
 
 import spiel.Frage;
@@ -161,8 +162,9 @@ public class KommandoZeile {
 
     Spiel spiel = new Spiel();
 
-    CSVLeser leser = new CSVLeser("./spiel/fragen/fragen.csv");
-    leser.leseInSpielEin(spiel, gebietsNummer);
+    ThemenGebiet gebiet = katalog.gibGebietDurchNummer(gebietDaten.nummer);
+
+    gebiet.leseFragenInsSpiel(spiel);
 
     boolean nochImSpiel = true;
 

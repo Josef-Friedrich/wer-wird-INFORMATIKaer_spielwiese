@@ -3,28 +3,8 @@
     <fach>Allgemein</fach>
     <thema>Allgemeinwissen</thema>
     <autor>A. Bergkemper, Stand 23.3.02</autor>
-    <anzahlFragen>489</anzahlFragen>
+    <anzahlFragen>487</anzahlFragen>
     <fragen>
-        <frage>
-            <fragenText>Themen: #Politik/Gesch., #Musik, #Film, #Fernsehen, #Wetter- Erdkunde, #Deutsch #Zit./Spr., #Pfl., #Tiere, #Ph., #Ch., #Ma, #Allg. Über [Suchen] kann z.B. '#Tiere' direkt angefahren werden.</fragenText>
-            <richtigeAntwort>richtige Antwort</richtigeAntwort>
-            <falscheAntwort1>falsche Antwort</falscheAntwort1>
-            <falscheAntwort2>falsche Antwort</falscheAntwort2>
-            <falscheAntwort3>falsche Antwort</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
-            <schwierigkeitMin>15</schwierigkeitMin>
-            <schwierigkeitMax>1</schwierigkeitMax>
-        </frage>
-        <frage>
-            <fragenText>#Politik-Geschichte</fragenText>
-            <richtigeAntwort>richtig</richtigeAntwort>
-            <falscheAntwort1>falsch</falscheAntwort1>
-            <falscheAntwort2>falsch</falscheAntwort2>
-            <falscheAntwort3>falsch</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
-            <schwierigkeitMin>15</schwierigkeitMin>
-            <schwierigkeitMax>1</schwierigkeitMax>
-        </frage>
         <frage>
             <fragenText>Wann war der Erste Weltkrieg?</fragenText>
             <richtigeAntwort>1914 - 1918</richtigeAntwort>

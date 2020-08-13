@@ -75,7 +75,7 @@ public class ThemenKatalog extends XMLDatei {
   /**
    * @param nummer Die Nummer in der Themen Liste beginnend mit 0.
    */
-  public ThemenGebiet ladeGebietDurchNummer(int nummer) {
+  public ThemenGebiet gibGebietDurchNummer(int nummer) {
     Node knoten = knotenListe.item(nummer);
     ThemenGebiet gebiet = new ThemenGebiet(new File("./spiel/fragen/" + gibPfadVonKnoten(knoten)));
     return gebiet;
@@ -84,7 +84,7 @@ public class ThemenKatalog extends XMLDatei {
   public static void main(String[] args) {
     ThemenKatalog katalog = new ThemenKatalog();
     katalog.listeGebieteAuf();
-    ThemenGebiet gebiet = katalog.ladeGebietDurchNummer(0);
+    ThemenGebiet gebiet = katalog.gibGebietDurchNummer(0);
     System.out.println(gebiet.gibThema());
   }
 
