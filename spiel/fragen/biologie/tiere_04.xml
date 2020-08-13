@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<fragenListe>
+<themenGebiet>
     <fach>Biologie</fach>
     <thema>Tierquiz 4</thema>
     <autor>Manfred Hartisch 5/2001</autor>
@@ -406,4 +406,4 @@
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
     </fragen>
-</fragenListe>
+</themenGebiet>

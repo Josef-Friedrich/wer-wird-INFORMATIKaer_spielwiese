@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<fragenListe>
+<themenGebiet>
     <fach>Deutsch</fach>
     <thema>Bücherquiz</thema>
     <autor>Manfred Hartisch 5/2001</autor>
@@ -836,4 +836,4 @@
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
     </fragen>
-</fragenListe>
+</themenGebiet>

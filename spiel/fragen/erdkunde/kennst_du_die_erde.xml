@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<fragenListe>
+<themenGebiet>
     <fach>Erdkunde</fach>
     <thema>Kennst du die Erde?</thema>
     <autor>Manfred Hartisch Juli 2001</autor>
@@ -3026,4 +3026,4 @@
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
     </fragen>
-</fragenListe>
+</themenGebiet>

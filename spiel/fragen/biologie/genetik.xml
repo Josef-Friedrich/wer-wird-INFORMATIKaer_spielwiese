@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<fragenListe>
+<themenGebiet>
     <fach>Biologie</fach>
     <thema>Klassische Genetik</thema>
     <autor>Klaus Blachut</autor>
@@ -1106,4 +1106,4 @@
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
     </fragen>
-</fragenListe>
+</themenGebiet>

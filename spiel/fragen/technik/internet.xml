@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<fragenListe>
+<themenGebiet>
     <fach>Technik</fach>
     <thema>Internetwissen</thema>
     <autor>Elmar F. Werker, V1.0 5/2001</autor>
@@ -186,4 +186,4 @@
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
     </fragen>
-</fragenListe>
+</themenGebiet>

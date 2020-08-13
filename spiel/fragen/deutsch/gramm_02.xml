@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<fragenListe>
+<themenGebiet>
     <fach>Deutsch</fach>
     <thema>Grammatik, Stand 11.04.01</thema>
     <autor>Rolf Gräbener, 4/2001</autor>
@@ -286,4 +286,4 @@
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
     </fragen>
-</fragenListe>
+</themenGebiet>

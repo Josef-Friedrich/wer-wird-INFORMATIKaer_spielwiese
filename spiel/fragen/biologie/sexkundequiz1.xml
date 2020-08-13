@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<fragenListe>
+<themenGebiet>
     <fach>Biologie</fach>
     <thema>Gut zu wissen I</thema>
     <autor>Alfons Deters, 3/2002</autor>
@@ -156,4 +156,4 @@
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
     </fragen>
-</fragenListe>
+</themenGebiet>
