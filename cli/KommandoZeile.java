@@ -5,7 +5,6 @@ import spiel.ThemenGebiet;
 import spiel.ThemenKatalog;
 
 import spiel.Frage;
-import spiel.CSVLeser;
 import java.util.Scanner;
 import java.io.IOException;
 import java.io.BufferedReader;

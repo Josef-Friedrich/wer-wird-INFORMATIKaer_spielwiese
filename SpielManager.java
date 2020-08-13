@@ -18,7 +18,7 @@ public class SpielManager {
       CSVLeser leser = new CSVLeser("./Fragen.csv");
       leser.leseInSpielEin(spiel, 7);
     } catch (IOException e) {
-      //TODO: handle exception
+      e.printStackTrace();
     }
 
     new GGSpielfeld(spiel);

@@ -14,7 +14,7 @@ public class CSVLeserTest {
       Frage frage = spiel.gibNächsteFrage();
       assertTrue(frage.gibFragenText() instanceof String);
     } catch (Exception e) {
-      //TODO: handle exception
+      e.printStackTrace();
     }
   }
 }
