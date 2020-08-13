@@ -1,6 +1,8 @@
 package cli;
 
 import spiel.Spiel;
+import spiel.ThemenKatalog;
+
 import spiel.Frage;
 import spiel.CSVLeser;
 import java.util.Scanner;
@@ -66,9 +68,9 @@ public class KommandoZeile {
   }
 
   /**
-   * Frage in der Kommandozeile, ob weitergespielt werden soll oder
-   * nicht. Es können sowohl Klein- als auch Großbuchstaben eingegeben
-   * werden. Wird nichts eingegeben, dann bedeutet das ja.
+   * Frage in der Kommandozeile, ob weitergespielt werden soll oder nicht. Es
+   * können sowohl Klein- als auch Großbuchstaben eingegeben werden. Wird nichts
+   * eingegeben, dann bedeutet das ja.
    *
    * @param scanner
    *
@@ -121,8 +123,8 @@ public class KommandoZeile {
   }
 
   /**
-   * Zeige eine Meldung in der Kommando-Zeile am Spiel-Ende. Zeige
-   * die Gewinnsumme.
+   * Zeige eine Meldung in der Kommando-Zeile am Spiel-Ende. Zeige die
+   * Gewinnsumme.
    */
   private static void zeigeSpielEnde(Spiel spiel) {
     if (spiel.istVerloren()) {
@@ -132,23 +134,35 @@ public class KommandoZeile {
     }
   }
 
+  private static void zeigeThemenGebiete(ThemenKatalog katalog) {
+    System.out.println("Wähle ein Themengebiet aus:\n");
+    ThemenKatalog.GebietDaten[] gebietDaten = katalog.gibGebietDaten();
+    for (ThemenKatalog.GebietDaten gebiet : gebietDaten) {
+      System.out.println(String.format("  %s. %s", gebiet.nummer + 1, gebiet.titel));
+    }
+    System.out.print("\nGib die Nummer des Themen-Gebiets ein: ");
+  }
+
   /**
    *
    */
   public static void main(String[] args) throws Exception, IOException {
     System.out.println("Willkommen bei „Wer wird INFORMATIKär (INFORMATIK-Millionär)");
     zeigeASCIILogo();
-
-    System.out.print("In welcher Jahrgangsstufe bist du? (6 oder 7): ");
+    ThemenKatalog katalog = new ThemenKatalog();
+    zeigeThemenGebiete(katalog);
     Scanner scanner = new Scanner(System.in);
-    int jahrgangsstufe = scanner.nextInt();
+    int gebietsNummer = scanner.nextInt();
 
-    System.out.println(String.format("Du bist in der %s. Jahrgangsstufe.", jahrgangsstufe));
+    ThemenKatalog.GebietDaten gebietDaten = katalog.gibGebietDatenDurchNummer(gebietsNummer - 1);
+
+    System.out.println(
+        String.format("Du hast das Themengebiet „%s“ ausgewählt. Das ist eine sehr gute Wahl!", gebietDaten.titel));
 
     Spiel spiel = new Spiel();
 
     CSVLeser leser = new CSVLeser("./spiel/fragen/fragen.csv");
-    leser.leseInSpielEin(spiel, jahrgangsstufe);
+    leser.leseInSpielEin(spiel, gebietsNummer);
 
     boolean nochImSpiel = true;
 

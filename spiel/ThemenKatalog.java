@@ -7,11 +7,28 @@ import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
 /**
- * Gibt einen Überblick über alle verfügbaren Themengebiete. Die
- * Themengebiete werden in der Datei ./spiel/fragen/index.xml
- * konfiguriert.
+ * Gibt einen Überblick über alle verfügbaren Themengebiete. Die Themengebiete
+ * werden in der Datei ./spiel/fragen/index.xml konfiguriert.
  */
 public class ThemenKatalog extends XMLDatei {
+
+  /**
+   * Eine kleine Klasse um eine paar Daten über ein Themengebiet zu speichern.
+   */
+  public static class GebietDaten {
+
+    public String pfad;
+
+    public String titel;
+
+    public int nummer;
+
+    public GebietDaten(String pfad, String titel, int nummer) {
+      this.pfad = pfad;
+      this.titel = titel;
+      this.nummer = nummer;
+    }
+  }
 
   NodeList knotenListe;
 
@@ -20,7 +37,7 @@ public class ThemenKatalog extends XMLDatei {
     knotenListe = dokument.getElementsByTagName("themenGebiet");
   }
 
-  private String gibTextAttributVonKnoten (Node knoten, String attributName) {
+  private String gibTextAttributVonKnoten(Node knoten, String attributName) {
     NamedNodeMap attributes = knoten.getAttributes();
     Node pfad = attributes.getNamedItem(attributName);
     return pfad.getTextContent();
@@ -39,6 +56,20 @@ public class ThemenKatalog extends XMLDatei {
       Node knoten = knotenListe.item(i);
       System.out.println(gibTitelVonKnoten(knoten) + " " + gibPfadVonKnoten(knoten));
     }
+  }
+
+  public GebietDaten[] gibGebietDaten() {
+    GebietDaten[] gebiete = new GebietDaten[knotenListe.getLength()];
+    for (int i = 0; i < knotenListe.getLength(); i++) {
+      Node knoten = knotenListe.item(i);
+      gebiete[i] = new GebietDaten(gibPfadVonKnoten(knoten), gibTitelVonKnoten(knoten), i);
+    }
+    return gebiete;
+  }
+
+  public GebietDaten gibGebietDatenDurchNummer(int nummer) {
+    Node knoten = knotenListe.item(nummer);
+    return new GebietDaten(gibPfadVonKnoten(knoten), gibTitelVonKnoten(knoten), nummer);
   }
 
   /**
