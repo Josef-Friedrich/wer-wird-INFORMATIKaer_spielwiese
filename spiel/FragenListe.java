@@ -37,6 +37,10 @@ public class FragenListe {
     anzahlFragen++;
   }
 
+  public ListenElement gibKopf () {
+    return kopf;
+  }
+
   /**
    * Füge eine Frage hinten in die Liste ein.
    *

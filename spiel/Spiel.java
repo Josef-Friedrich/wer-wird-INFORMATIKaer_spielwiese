@@ -108,6 +108,10 @@ public class Spiel {
     return false;
   }
 
+  public FragenListe gibBeantworteteFragen() {
+    return beantworteteFragen;
+  }
+
   /**
    * Beantworte die aktuelle Frage.
    *

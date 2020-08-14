@@ -5,6 +5,9 @@ import spiel.ThemenGebiet;
 import spiel.ThemenKatalog;
 
 import spiel.Frage;
+import spiel.FragenListe;
+import spiel.ListenElement;
+
 import java.util.Scanner;
 import java.io.IOException;
 import java.io.BufferedReader;
@@ -143,6 +146,18 @@ public class KommandoZeile {
     System.out.print("\nGib die Nummer des Themen-Gebiets ein: ");
   }
 
+  private static void zeigeBeantworteteFragen(FragenListe fragen) {
+    System.out.println("\nDeine beantworteten Fragen:\n");
+    ListenElement datenKnoten = fragen.gibKopf();
+    while (datenKnoten != null) {
+      Frage frage = datenKnoten.gibFrage();
+      if (frage != null) {
+        System.out.println(frage.gibFragenText());
+      }
+      datenKnoten = datenKnoten.gibNächstes();
+    }
+  }
+
   /**
    *
    */
@@ -181,6 +196,7 @@ public class KommandoZeile {
     }
 
     zeigeSpielEnde(spiel);
+    zeigeBeantworteteFragen(spiel.gibBeantworteteFragen());
 
     scanner.close();
   }
