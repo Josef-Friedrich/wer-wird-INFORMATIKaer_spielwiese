@@ -1,8 +1,8 @@
-import spiel.Spiel;
-import spiel.CSVLeser;
+package gui;
 
-import gui.GGSpielfeld;
-import java.io.IOException;
+import spiel.Spiel;
+import spiel.ThemenGebiet;
+import spiel.ThemenKatalog;
 
 /**
  * Hauptklasse, die die main Methode enthält.
@@ -14,13 +14,9 @@ public class SpielManager {
   public static void main(String[] args) {
     Spiel spiel = new Spiel();
 
-    try {
-      CSVLeser leser = new CSVLeser("./Fragen.csv");
-      leser.leseInSpielEin(spiel, 7);
-    } catch (IOException e) {
-      e.printStackTrace();
-    }
-
+    ThemenKatalog katalog = new ThemenKatalog();
+    ThemenGebiet gebiet = katalog.gibGebietDurchNummer(0);
+    gebiet.leseFragenInsSpiel(spiel);
     new GGSpielfeld(spiel);
   }
 }
