@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - ThemenGebiet",
+      "request": "launch",
+      "mainClass": "spiel.ThemenGebiet",
+      "projectName": "wer-wird-informatik-millionaer_spielwiese_b3cd6f91"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - SpielManager",
       "request": "launch",
       "mainClass": "gui.SpielManager",

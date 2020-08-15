@@ -9,6 +9,10 @@ import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.transform.dom.DOMSource;
 import javax.xml.transform.OutputKeys;
 import javax.xml.transform.stream.StreamResult;
+import javax.xml.xpath.XPath;
+import javax.xml.xpath.XPathConstants;
+import javax.xml.xpath.XPathExpressionException;
+import javax.xml.xpath.XPathFactory;
 import javax.xml.transform.Transformer;
 import javax.xml.transform.TransformerException;
 import javax.xml.transform.TransformerFactory;
@@ -26,13 +30,15 @@ public class XMLDatei {
 
   protected Element wurzel;
   protected Document dokument;
+  private XPath xPath;
 
-  public XMLDatei(File datei)  {
+  public XMLDatei(File datei) {
     try {
       DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
       DocumentBuilder db = dbf.newDocumentBuilder();
       dokument = db.parse(datei);
       dokument.getDocumentElement().normalize();
+      xPath = XPathFactory.newInstance().newXPath();
     } catch (ParserConfigurationException | SAXException | IOException e) {
       e.printStackTrace();
     }
@@ -62,6 +68,20 @@ public class XMLDatei {
     } catch (TransformerException e) {
       e.printStackTrace();
     }
+  }
+
+  public NodeList sucheXMLPfad(String ausdruck) throws XPathExpressionException {
+    return (NodeList) xPath.compile(ausdruck).evaluate(dokument, XPathConstants.NODESET);
+  }
+
+  public String gibTextDurchXMLPfad(String xmlPfadAusdruck) throws XPathExpressionException {
+    return (String) xPath.compile(String.format("%s/text()", xmlPfadAusdruck)).evaluate(dokument,
+        XPathConstants.STRING);
+  }
+
+  public int zähleElemente(String xmlPfadAusdruck) throws XPathExpressionException {
+    return ((Double) xPath.compile(String.format("count(%s)", xmlPfadAusdruck)).evaluate(dokument,
+        XPathConstants.NUMBER)).intValue();
   }
 
   /**

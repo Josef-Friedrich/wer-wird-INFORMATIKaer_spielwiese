@@ -3,6 +3,8 @@ package spiel;
 import java.io.File;
 import java.io.IOException;
 
+import javax.xml.xpath.XPathExpressionException;
+
 import org.apache.commons.csv.CSVParser;
 import org.apache.commons.csv.CSVRecord;
 import org.w3c.dom.Element;
@@ -65,6 +67,10 @@ public class ThemenGebiet extends XMLDatei {
 
   public String gibAutor() {
     return leseTextInhalt("autor");
+  }
+
+  public String gibTextVonFragenElement(String elementName, int frageNummer) throws XPathExpressionException  {
+    return gibTextDurchXMLPfad(String.format("/themenGebiet/fragen/frage[%s]/%s", frageNummer, elementName));
   }
 
   public void setzeAnzahFragen(String anzahlFragen) {
@@ -143,9 +149,12 @@ public class ThemenGebiet extends XMLDatei {
     }
   }
 
-  public static void main(String[] args) throws IOException {
-    ThemenGebiet schreiber = new ThemenGebiet();
-    schreiber.konvertiereCSV("./spiel/fragen/fragen.csv");
+  public static void main(String[] args) throws IOException, XPathExpressionException {
+    // ThemenGebiet schreiber = new ThemenGebiet();
+    // schreiber.konvertiereCSV("./spiel/fragen/fragen.csv");
+
+    ThemenGebiet themenGebiet = new ThemenGebiet(new File("spiel/fragen/musik/musik01.xml"));
+    System.out.println(themenGebiet.gibTextVonFragenElement("fragenText", 1));
   }
 
 }
