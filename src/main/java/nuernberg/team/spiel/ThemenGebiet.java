@@ -1,6 +1,5 @@
 package nuernberg.team.spiel;
 
-import java.io.File;
 import java.io.IOException;
 
 import javax.xml.xpath.XPathExpressionException;
@@ -23,10 +22,10 @@ public class ThemenGebiet extends XMLDatei {
   int fragenZähler = 0;
   Element fach;
 
-  public ThemenGebiet(String pfad) {
+  public ThemenGebiet(String pfad) throws Exception {
     super(pfad);
   }
-  public ThemenGebiet() {
+  public ThemenGebiet() throws Exception {
     super("themenGebiet");
     fach = dokument.createElement("fach");
     wurzel.appendChild(fach);
@@ -148,7 +147,7 @@ public class ThemenGebiet extends XMLDatei {
     }
   }
 
-  public static void main(String[] args) throws IOException, XPathExpressionException {
+  public static void main(String[] args) throws Exception {
     // ThemenGebiet schreiber = new ThemenGebiet();
     // schreiber.konvertiereCSV("./spiel/fragen/fragen.csv");
     ThemenGebiet themenGebiet = new ThemenGebiet("fragen/musik/musik01.xml");

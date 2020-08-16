@@ -11,7 +11,7 @@ import nuernberg.team.spiel.ThemenKatalog;
  */
 public class SpielManager {
 
-  public static void main(String[] args) {
+  public static void main(String[] args) throws Exception {
     Spiel spiel = new Spiel();
 
     ThemenKatalog katalog = new ThemenKatalog();

@@ -33,8 +33,11 @@ public class XMLDatei {
   protected Document dokument;
   private XPath xPath;
 
-  public XMLDatei (String pfad) {
+  public XMLDatei (String pfad) throws Exception {
     URL resource = getClass().getResource(pfad);
+    if (resource == null) {
+      throw new Exception("Pfad konnte nicht geladen werden: " + pfad);
+    }
     File datei = new File(resource.getFile());
     try {
       DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
