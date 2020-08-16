@@ -2,6 +2,7 @@ package nuernberg.team.spiel;
 
 import java.io.File;
 import java.io.IOException;
+import java.net.URL;
 
 import javax.xml.xpath.XPathExpressionException;
 
@@ -26,7 +27,9 @@ public class ThemenGebiet extends XMLDatei {
   public ThemenGebiet(File datei) {
     super(datei);
   }
-
+  public ThemenGebiet(String pfad, boolean dummy) {
+    super(pfad, dummy);
+  }
   public ThemenGebiet() {
     super("themenGebiet");
     fach = dokument.createElement("fach");
@@ -152,8 +155,7 @@ public class ThemenGebiet extends XMLDatei {
   public static void main(String[] args) throws IOException, XPathExpressionException {
     // ThemenGebiet schreiber = new ThemenGebiet();
     // schreiber.konvertiereCSV("./spiel/fragen/fragen.csv");
-
-    ThemenGebiet themenGebiet = new ThemenGebiet(new File("spiel/fragen/musik/musik01.xml"));
+    ThemenGebiet themenGebiet = new ThemenGebiet("fragen/musik/musik01.xml", true);
     System.out.println(themenGebiet.gibTextVonFragenElement("fragenText", 1));
   }
 

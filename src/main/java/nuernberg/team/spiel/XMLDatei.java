@@ -2,6 +2,7 @@ package nuernberg.team.spiel;
 
 import java.io.File;
 import java.io.IOException;
+import java.net.URL;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
@@ -33,6 +34,20 @@ public class XMLDatei {
   private XPath xPath;
 
   public XMLDatei(File datei) {
+    try {
+      DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
+      DocumentBuilder db = dbf.newDocumentBuilder();
+      dokument = db.parse(datei);
+      dokument.getDocumentElement().normalize();
+      xPath = XPathFactory.newInstance().newXPath();
+    } catch (ParserConfigurationException | SAXException | IOException e) {
+      e.printStackTrace();
+    }
+  }
+
+  public XMLDatei (String pfad, boolean dummy) {
+    URL resource = getClass().getResource(pfad);
+    File datei = new File(resource.getFile());
     try {
       DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
       DocumentBuilder db = dbf.newDocumentBuilder();
