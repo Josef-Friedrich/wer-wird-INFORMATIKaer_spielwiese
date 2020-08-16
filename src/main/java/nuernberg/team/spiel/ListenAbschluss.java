@@ -1,4 +1,4 @@
-package spiel;
+package nuernberg.team.spiel;
 
 public class ListenAbschluss extends ListenElement {
   public ListenElement gibNächstes() {

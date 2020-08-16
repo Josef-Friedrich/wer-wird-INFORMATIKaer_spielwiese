@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - KommandoZeile",
+      "request": "launch",
+      "mainClass": "nuernberg.team.cli.KommandoZeile",
+      "projectName": "wwim"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - ThemenGebiet",
       "request": "launch",
       "mainClass": "spiel.ThemenGebiet",

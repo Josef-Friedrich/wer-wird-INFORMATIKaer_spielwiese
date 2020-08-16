@@ -1,4 +1,4 @@
-package spiel;
+package nuernberg.team.spiel;
 
 /**
  * Ein Spiel

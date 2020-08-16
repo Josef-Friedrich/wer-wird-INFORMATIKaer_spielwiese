@@ -1,9 +1,9 @@
-package gui;
+package nuernberg.team.gui;
 
 import ch.aplu.jgamegrid.*;
 import java.awt.event.KeyEvent;
-import spiel.Spiel;
-import spiel.Frage;
+import nuernberg.team.spiel.Spiel;
+import nuernberg.team.spiel.Frage;
 
 @SuppressWarnings("serial")
 public class GGSpielfeld extends GameGrid implements GGKeyListener {

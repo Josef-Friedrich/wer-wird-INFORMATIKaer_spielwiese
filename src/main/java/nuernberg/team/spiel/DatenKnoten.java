@@ -1,4 +1,4 @@
-package spiel;
+package nuernberg.team.spiel;
 
 public class DatenKnoten extends ListenElement {
 

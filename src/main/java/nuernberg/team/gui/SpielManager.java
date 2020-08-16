@@ -1,8 +1,8 @@
-package gui;
+package nuernberg.team.gui;
 
-import spiel.Spiel;
-import spiel.ThemenGebiet;
-import spiel.ThemenKatalog;
+import nuernberg.team.spiel.Spiel;
+import nuernberg.team.spiel.ThemenGebiet;
+import nuernberg.team.spiel.ThemenKatalog;
 
 /**
  * Hauptklasse, die die main Methode enthält.

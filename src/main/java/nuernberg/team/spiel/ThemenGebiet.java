@@ -1,4 +1,4 @@
-package spiel;
+package nuernberg.team.spiel;
 
 import java.io.File;
 import java.io.IOException;

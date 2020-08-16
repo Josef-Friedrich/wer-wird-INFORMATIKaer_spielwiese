@@ -1,4 +1,4 @@
-package gui;
+package nuernberg.team.gui;
 
 import ch.aplu.jgamegrid.*;
 import java.awt.Color;

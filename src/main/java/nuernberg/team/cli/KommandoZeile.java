@@ -1,12 +1,12 @@
-package cli;
+package nuernberg.team.cli;
 
-import spiel.Spiel;
-import spiel.ThemenGebiet;
-import spiel.ThemenKatalog;
+import nuernberg.team.spiel.Spiel;
+import nuernberg.team.spiel.ThemenGebiet;
+import nuernberg.team.spiel.ThemenKatalog;
 
-import spiel.Frage;
-import spiel.FragenListe;
-import spiel.ListenElement;
+import nuernberg.team.spiel.Frage;
+import nuernberg.team.spiel.FragenListe;
+import nuernberg.team.spiel.ListenElement;
 
 import java.util.Scanner;
 import java.io.IOException;
