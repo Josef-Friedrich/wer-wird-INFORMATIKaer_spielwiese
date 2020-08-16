@@ -1,7 +1,5 @@
 package nuernberg.team.spiel;
 
-import java.io.File;
-
 import org.w3c.dom.NamedNodeMap;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
@@ -33,7 +31,7 @@ public class ThemenKatalog extends XMLDatei {
   NodeList knotenListe;
 
   public ThemenKatalog() {
-    super(new File("./spiel/fragen/index.xml"));
+    super("/fragen/index.xml");
     knotenListe = dokument.getElementsByTagName("themenGebiet");
   }
 
@@ -44,7 +42,7 @@ public class ThemenKatalog extends XMLDatei {
   }
 
   private String gibPfadVonKnoten(Node knoten) {
-    return gibTextAttributVonKnoten(knoten, "pfad");
+    return "/fragen/" + gibTextAttributVonKnoten(knoten, "pfad");
   }
 
   private String gibTitelVonKnoten(Node knoten) {
@@ -77,7 +75,7 @@ public class ThemenKatalog extends XMLDatei {
    */
   public ThemenGebiet gibGebietDurchNummer(int nummer) {
     Node knoten = knotenListe.item(nummer);
-    ThemenGebiet gebiet = new ThemenGebiet(new File("./spiel/fragen/" + gibPfadVonKnoten(knoten)));
+    ThemenGebiet gebiet = new ThemenGebiet(gibPfadVonKnoten(knoten));
     return gebiet;
   }
 

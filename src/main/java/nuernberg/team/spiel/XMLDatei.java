@@ -33,19 +33,7 @@ public class XMLDatei {
   protected Document dokument;
   private XPath xPath;
 
-  public XMLDatei(File datei) {
-    try {
-      DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
-      DocumentBuilder db = dbf.newDocumentBuilder();
-      dokument = db.parse(datei);
-      dokument.getDocumentElement().normalize();
-      xPath = XPathFactory.newInstance().newXPath();
-    } catch (ParserConfigurationException | SAXException | IOException e) {
-      e.printStackTrace();
-    }
-  }
-
-  public XMLDatei (String pfad, boolean dummy) {
+  public XMLDatei (String pfad) {
     URL resource = getClass().getResource(pfad);
     File datei = new File(resource.getFile());
     try {
@@ -59,7 +47,7 @@ public class XMLDatei {
     }
   }
 
-  public XMLDatei(String wurzelName) {
+  public XMLDatei(String pfad, String wurzelName) {
     try {
       DocumentBuilderFactory documentFactory = DocumentBuilderFactory.newInstance();
       DocumentBuilder documentBuilder = documentFactory.newDocumentBuilder();

@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - ThemenKatalog",
+      "request": "launch",
+      "mainClass": "nuernberg.team.spiel.ThemenKatalog",
+      "projectName": "wwim"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - ThemenGebiet",
       "request": "launch",
       "mainClass": "nuernberg.team.spiel.ThemenGebiet",
