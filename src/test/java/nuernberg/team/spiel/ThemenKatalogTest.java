@@ -7,9 +7,10 @@ import org.junit.Test;
 public class ThemenKatalogTest {
 
   @Test
-  public void testeKonstruktor() throws Exception {
-    new ThemenKatalog();
-    assertEquals(false, false);
+  public void methodeGibGebietDurchNummer() throws Exception {
+    ThemenKatalog katalog = new ThemenKatalog();
+    ThemenGebiet gebiet = katalog.gibGebietDurchNummer(0);
+    assertEquals("6. Jahrgangsstufe", gebiet.gibThema());
   }
 
 }

@@ -2,8 +2,6 @@ package nuernberg.team.spiel;
 
 import java.io.IOException;
 
-import javax.xml.xpath.XPathExpressionException;
-
 import org.apache.commons.csv.CSVParser;
 import org.apache.commons.csv.CSVRecord;
 import org.w3c.dom.Element;
@@ -26,7 +24,7 @@ public class ThemenGebiet extends XMLDatei {
     super(pfad);
   }
   public ThemenGebiet() throws Exception {
-    super("themenGebiet");
+    super("tmp.xml", "themenGebiet");
     fach = dokument.createElement("fach");
     wurzel.appendChild(fach);
 
@@ -65,10 +63,6 @@ public class ThemenGebiet extends XMLDatei {
 
   public String gibAutor() {
     return leseTextInhalt("autor");
-  }
-
-  public String gibTextVonFragenElement(String elementName, int frageNummer) throws XPathExpressionException  {
-    return gibTextDurchXMLPfad(String.format("/themenGebiet/fragen/frage[%s]/%s", frageNummer, elementName));
   }
 
   public void setzeAnzahFragen(String anzahlFragen) {
@@ -115,7 +109,7 @@ public class ThemenGebiet extends XMLDatei {
             Integer.parseInt(csvRecord.get("schwierigkeit")));
       }
       csv.close();
-      schreibeInDatei("tmp.xml");
+      schreibeInDatei();
     } catch (IOException e) {
       e.printStackTrace();
     }
@@ -149,7 +143,6 @@ public class ThemenGebiet extends XMLDatei {
     // ThemenGebiet schreiber = new ThemenGebiet();
     // schreiber.konvertiereCSV("./spiel/fragen/fragen.csv");
     ThemenGebiet themenGebiet = new ThemenGebiet("fragen/musik/musik01.xml");
-    System.out.println(themenGebiet.gibTextVonFragenElement("fragenText", 1));
   }
 
 }

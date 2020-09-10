@@ -10,10 +10,6 @@ import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.transform.dom.DOMSource;
 import javax.xml.transform.OutputKeys;
 import javax.xml.transform.stream.StreamResult;
-import javax.xml.xpath.XPath;
-import javax.xml.xpath.XPathConstants;
-import javax.xml.xpath.XPathExpressionException;
-import javax.xml.xpath.XPathFactory;
 import javax.xml.transform.Transformer;
 import javax.xml.transform.TransformerException;
 import javax.xml.transform.TransformerFactory;
@@ -29,11 +25,16 @@ import org.xml.sax.SAXException;
  */
 public class XMLDatei {
 
+  /**
+   * Der relative Pfad zum „resources“-Ordner mit führendem
+   * Schrägstrich.
+   */
+  protected String pfad;
   protected Element wurzel;
   protected Document dokument;
-  private XPath xPath;
 
   public XMLDatei(String pfad) throws Exception {
+    this.pfad = pfad;
     URL resource = getClass().getResource(pfad);
     if (resource == null) {
       throw new Exception("Pfad konnte nicht geladen werden: " + pfad);
@@ -43,14 +44,21 @@ public class XMLDatei {
       DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
       DocumentBuilder db = dbf.newDocumentBuilder();
       dokument = db.parse(datei);
-      dokument.getDocumentElement().normalize();
-      xPath = XPathFactory.newInstance().newXPath();
+      wurzel = dokument.getDocumentElement();
+      wurzel.normalize();
     } catch (ParserConfigurationException | SAXException | IOException e) {
       e.printStackTrace();
     }
   }
 
+  /**
+   * Eine neue XMLDatei beginnen.
+   *
+   * @param pfad
+   * @param wurzelName
+   */
   public XMLDatei(String pfad, String wurzelName) {
+    this.pfad = pfad;
     try {
       DocumentBuilderFactory documentFactory = DocumentBuilderFactory.newInstance();
       DocumentBuilder documentBuilder = documentFactory.newDocumentBuilder();
@@ -62,27 +70,26 @@ public class XMLDatei {
     }
   }
 
-  public void schreibeInDatei(String dateiName) {
+  public Element gibWurzel() {
+    return wurzel;
+  }
+
+  public Document gibDokument() {
+    return dokument;
+  }
+
+  public void schreibeInDatei() {
     try {
       TransformerFactory transformerFactory = TransformerFactory.newInstance();
       Transformer transformer = transformerFactory.newTransformer();
       transformer.setOutputProperty(OutputKeys.ENCODING, "UTF-8");
       transformer.setOutputProperty(OutputKeys.INDENT, "yes");
       DOMSource domSource = new DOMSource(dokument);
-      StreamResult streamResult = new StreamResult(new File(dateiName));
+      StreamResult streamResult = new StreamResult(new File(pfad));
       transformer.transform(domSource, streamResult);
     } catch (TransformerException e) {
       e.printStackTrace();
     }
-  }
-
-  public NodeList sucheXMLPfad(String ausdruck) throws XPathExpressionException {
-    return (NodeList) xPath.compile(ausdruck).evaluate(dokument, XPathConstants.NODESET);
-  }
-
-  public String gibTextDurchXMLPfad(String xmlPfadAusdruck) throws XPathExpressionException {
-    return (String) xPath.compile(String.format("%s/text()", xmlPfadAusdruck)).evaluate(dokument,
-        XPathConstants.STRING);
   }
 
   /**
@@ -97,11 +104,6 @@ public class XMLDatei {
   public String gibTextVonKind(Node elternKnoten, String name) {
     Element element = (Element) elternKnoten;
     return element.getElementsByTagName(name).item(0).getTextContent();
-  }
-
-  public int zähleElemente(String xmlPfadAusdruck) throws XPathExpressionException {
-    return ((Double) xPath.compile(String.format("count(%s)", xmlPfadAusdruck)).evaluate(dokument,
-        XPathConstants.NUMBER)).intValue();
   }
 
   /**

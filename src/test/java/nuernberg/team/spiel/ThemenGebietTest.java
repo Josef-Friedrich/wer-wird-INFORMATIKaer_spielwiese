@@ -11,11 +11,4 @@ public class ThemenGebietTest {
     ThemenGebiet gebiet = new ThemenGebiet("/fragen/musik/musik01.xml");
     assertEquals("Musik", gebiet.gibFach());
   }
-
-  @Test
-  public void testeMethodeGibTextVonFragenElement() throws Exception {
-    ThemenGebiet gebiet = new ThemenGebiet("/fragen/musik/musik01.xml");
-    assertEquals("Die Klarinette ist ein", gebiet.gibTextVonFragenElement("fragenText", 1));
-  }
-
 }

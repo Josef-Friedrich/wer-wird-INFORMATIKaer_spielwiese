@@ -71,7 +71,7 @@ public class ThemenKatalog extends XMLDatei {
   }
 
   /**
-   * @param nummer Die Nummer in der Themen Liste beginnend mit 0.
+   * @param nummer Die Nummer in der Themenliste beginnend mit 0.
    * @throws Exception
    */
   public ThemenGebiet gibGebietDurchNummer(int nummer) throws Exception {
