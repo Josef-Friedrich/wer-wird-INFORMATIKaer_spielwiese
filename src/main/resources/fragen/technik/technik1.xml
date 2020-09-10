@@ -11,7 +11,7 @@
             <falscheAntwort1>Eventuell</falscheAntwort1>
             <falscheAntwort2>Extra</falscheAntwort2>
             <falscheAntwort3>Edelstahl</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>2</schwierigkeitMax>
         </frage>
@@ -21,7 +21,7 @@
             <falscheAntwort1>Hauchwirkung</falscheAntwort1>
             <falscheAntwort2>Hustwirkung</falscheAntwort2>
             <falscheAntwort3>Nieswirkung</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>3</schwierigkeitMax>
         </frage>
@@ -31,7 +31,7 @@
             <falscheAntwort1>Schlackehammer</falscheAntwort1>
             <falscheAntwort2>Drahtbürste</falscheAntwort2>
             <falscheAntwort3>Massekabel</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -41,7 +41,7 @@
             <falscheAntwort1>Elektrodenlänge</falscheAntwort1>
             <falscheAntwort2>Elektrodenverbrauch</falscheAntwort2>
             <falscheAntwort3>Elektrodenhersteller</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -51,7 +51,7 @@
             <falscheAntwort1>50A</falscheAntwort1>
             <falscheAntwort2>60A</falscheAntwort2>
             <falscheAntwort3>30A</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -61,7 +61,7 @@
             <falscheAntwort1>Transformator</falscheAntwort1>
             <falscheAntwort2>Gleichrichter</falscheAntwort2>
             <falscheAntwort3>Umformer</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -71,7 +71,7 @@
             <falscheAntwort1>Null-Spannung</falscheAntwort1>
             <falscheAntwort2>Niedrigspannung</falscheAntwort2>
             <falscheAntwort3>untere Spannung</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -81,7 +81,7 @@
             <falscheAntwort1>basisch</falscheAntwort1>
             <falscheAntwort2>rutil</falscheAntwort2>
             <falscheAntwort3>cellulose</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -91,7 +91,7 @@
             <falscheAntwort1>1200 Grad Celsius</falscheAntwort1>
             <falscheAntwort2>2200 Grad Celsius</falscheAntwort2>
             <falscheAntwort3>3200 Grad Celsius</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -101,7 +101,7 @@
             <falscheAntwort1>Schlacke bilden</falscheAntwort1>
             <falscheAntwort2>Lichtbogen stabilisieren</falscheAntwort2>
             <falscheAntwort3>Gasglocke bilden</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -111,7 +111,7 @@
             <falscheAntwort1>7,5 Stunden</falscheAntwort1>
             <falscheAntwort2>2,25 Stunden</falscheAntwort2>
             <falscheAntwort3>2,5 Stunden</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -121,7 +121,7 @@
             <falscheAntwort1>44V</falscheAntwort1>
             <falscheAntwort2>42V</falscheAntwort2>
             <falscheAntwort3>52V</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -131,7 +131,7 @@
             <falscheAntwort1>Werkstoff des Bauteils</falscheAntwort1>
             <falscheAntwort2>Polung</falscheAntwort2>
             <falscheAntwort3>Schweißposition</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -141,7 +141,7 @@
             <falscheAntwort1>Zugfestigkeit</falscheAntwort1>
             <falscheAntwort2>Schweißposition</falscheAntwort2>
             <falscheAntwort3>Ausbringung und Stromart</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -151,7 +151,7 @@
             <falscheAntwort1>hohe Kerbschlagfestigkeit</falscheAntwort1>
             <falscheAntwort2>große Abschmelzleistung</falscheAntwort2>
             <falscheAntwort3>feinschuppige Nähte</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>

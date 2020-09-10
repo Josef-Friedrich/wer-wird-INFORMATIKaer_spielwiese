@@ -33,7 +33,7 @@ public class XMLDatei {
   protected Document dokument;
   private XPath xPath;
 
-  public XMLDatei (String pfad) throws Exception {
+  public XMLDatei(String pfad) throws Exception {
     URL resource = getClass().getResource(pfad);
     if (resource == null) {
       throw new Exception("Pfad konnte nicht geladen werden: " + pfad);
@@ -83,6 +83,20 @@ public class XMLDatei {
   public String gibTextDurchXMLPfad(String xmlPfadAusdruck) throws XPathExpressionException {
     return (String) xPath.compile(String.format("%s/text()", xmlPfadAusdruck)).evaluate(dokument,
         XPathConstants.STRING);
+  }
+
+  /**
+   * Gib den Textinhalt eines XML-Kind-Knoten zurück.
+   *
+   * @param elternKnoten Der übergeordnete Elternknoten: ein „fragen“-Knoten.
+   * @param name         Der Name des Kindknoten z. B. „fragenText“ oder
+   *                     „richtigeAntwort“.
+   *
+   * @return Der Textinhalt des Kind-Knotens.
+   */
+  public String gibTextVonKind(Node elternKnoten, String name) {
+    Element element = (Element) elternKnoten;
+    return element.getElementsByTagName(name).item(0).getTextContent();
   }
 
   public int zähleElemente(String xmlPfadAusdruck) throws XPathExpressionException {

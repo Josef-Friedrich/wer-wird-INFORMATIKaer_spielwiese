@@ -11,7 +11,7 @@
             <falscheAntwort1>Anaphase1</falscheAntwort1>
             <falscheAntwort2>Interphase</falscheAntwort2>
             <falscheAntwort3>Prophase2</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -21,7 +21,7 @@
             <falscheAntwort1>Aushilfskellner</falscheAntwort1>
             <falscheAntwort2>Biologe</falscheAntwort2>
             <falscheAntwort3>Gärtner</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -31,7 +31,7 @@
             <falscheAntwort1>Erbmolekül</falscheAntwort1>
             <falscheAntwort2>Körperzelle</falscheAntwort2>
             <falscheAntwort3>Kernteilchen</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -41,7 +41,7 @@
             <falscheAntwort1>46,xx</falscheAntwort1>
             <falscheAntwort2>44,xx</falscheAntwort2>
             <falscheAntwort3>44,xy</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -51,7 +51,7 @@
             <falscheAntwort1>Karyotyp</falscheAntwort1>
             <falscheAntwort2>Genotyp</falscheAntwort2>
             <falscheAntwort3>Nukleolus</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -61,7 +61,7 @@
             <falscheAntwort1>Genotyp</falscheAntwort1>
             <falscheAntwort2>Chromosom</falscheAntwort2>
             <falscheAntwort3>Karyogramm</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -71,7 +71,7 @@
             <falscheAntwort1>Spielregel</falscheAntwort1>
             <falscheAntwort2>Erbsenregel</falscheAntwort2>
             <falscheAntwort3>Spaltungsregel</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -81,7 +81,7 @@
             <falscheAntwort1>Roggen</falscheAntwort1>
             <falscheAntwort2>Wunderblume</falscheAntwort2>
             <falscheAntwort3>Mais</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -91,7 +91,7 @@
             <falscheAntwort1>Pan troglodytes</falscheAntwort1>
             <falscheAntwort2>Anas platyrhynchos</falscheAntwort2>
             <falscheAntwort3>Bubo bubo</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -101,7 +101,7 @@
             <falscheAntwort1>Pan troglodytes</falscheAntwort1>
             <falscheAntwort2>Anas platyrhynchos</falscheAntwort2>
             <falscheAntwort3>Bubo bubo</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -111,7 +111,7 @@
             <falscheAntwort1>RNA</falscheAntwort1>
             <falscheAntwort2>DNS</falscheAntwort2>
             <falscheAntwort3>C&amp;A</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -121,7 +121,7 @@
             <falscheAntwort1>Chiasma</falscheAntwort1>
             <falscheAntwort2>crossing-over</falscheAntwort2>
             <falscheAntwort3>Zentriol</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -131,7 +131,7 @@
             <falscheAntwort1>Karyopainting</falscheAntwort1>
             <falscheAntwort2>Karyotyping</falscheAntwort2>
             <falscheAntwort3>Granulozyten</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -141,7 +141,7 @@
             <falscheAntwort1>Blastozyten</falscheAntwort1>
             <falscheAntwort2>Neuronen</falscheAntwort2>
             <falscheAntwort3>Erythrozyten</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -151,7 +151,7 @@
             <falscheAntwort1>Radoosomen</falscheAntwort1>
             <falscheAntwort2>Busosomen</falscheAntwort2>
             <falscheAntwort3>Tramosomen</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -161,7 +161,7 @@
             <falscheAntwort1>Karyosom</falscheAntwort1>
             <falscheAntwort2>Autosom</falscheAntwort2>
             <falscheAntwort3>Spermosom</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -171,7 +171,7 @@
             <falscheAntwort1>schizoid</falscheAntwort1>
             <falscheAntwort2>haploid</falscheAntwort2>
             <falscheAntwort3>paranoid</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -181,7 +181,7 @@
             <falscheAntwort1>unvollständig</falscheAntwort1>
             <falscheAntwort2>vervierfacht</falscheAntwort2>
             <falscheAntwort3>doppelt</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -191,7 +191,7 @@
             <falscheAntwort1>Eltern</falscheAntwort1>
             <falscheAntwort2>Hormone</falscheAntwort2>
             <falscheAntwort3>Ribosomen</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -201,7 +201,7 @@
             <falscheAntwort1>Metasom</falscheAntwort1>
             <falscheAntwort2>Haplosom</falscheAntwort2>
             <falscheAntwort3>Diplosom</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -211,7 +211,7 @@
             <falscheAntwort1>leidet an Albinismus</falscheAntwort1>
             <falscheAntwort2>hat das Down-Syndrom</falscheAntwort2>
             <falscheAntwort3>ist ein Mann</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -221,7 +221,7 @@
             <falscheAntwort1>nur in der befruchteten Eizelle</falscheAntwort1>
             <falscheAntwort2>nur in Spermien</falscheAntwort2>
             <falscheAntwort3>nur in den Gameten</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -231,7 +231,7 @@
             <falscheAntwort1>der Befruchtung</falscheAntwort1>
             <falscheAntwort2>der Keimzellenbildung</falscheAntwort2>
             <falscheAntwort3>der Synthesephase</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -241,7 +241,7 @@
             <falscheAntwort1>„Genetik“</falscheAntwort1>
             <falscheAntwort2>„Geschlechtschromosom“</falscheAntwort2>
             <falscheAntwort3>„gametic unit“</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -251,7 +251,7 @@
             <falscheAntwort1>Anaphase</falscheAntwort1>
             <falscheAntwort2>Mitose</falscheAntwort2>
             <falscheAntwort3>Meiose</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -261,7 +261,7 @@
             <falscheAntwort1>Mitose</falscheAntwort1>
             <falscheAntwort2>Anaphase</falscheAntwort2>
             <falscheAntwort3>Cellulose</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -271,7 +271,7 @@
             <falscheAntwort1>Befruchtung</falscheAntwort1>
             <falscheAntwort2>Bildung von Eizellen und Spermien</falscheAntwort2>
             <falscheAntwort3>Genetische Vielfalt</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -281,7 +281,7 @@
             <falscheAntwort1>Anaphase</falscheAntwort1>
             <falscheAntwort2>Metaphase</falscheAntwort2>
             <falscheAntwort3>Telophase</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -291,7 +291,7 @@
             <falscheAntwort1>Telophase, Anaphase</falscheAntwort1>
             <falscheAntwort2>Metaphase, Prophase</falscheAntwort2>
             <falscheAntwort3>Anaphase, Interphase</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -301,7 +301,7 @@
             <falscheAntwort1>Metaphase</falscheAntwort1>
             <falscheAntwort2>Telophase</falscheAntwort2>
             <falscheAntwort3>Anaphase</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -311,7 +311,7 @@
             <falscheAntwort1>Trennung der Chromatiden</falscheAntwort1>
             <falscheAntwort2>nichts</falscheAntwort2>
             <falscheAntwort3>Auflösung der Kernmembran</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -321,7 +321,7 @@
             <falscheAntwort1>Interphase</falscheAntwort1>
             <falscheAntwort2>Anaphase</falscheAntwort2>
             <falscheAntwort3>Telophase</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -331,7 +331,7 @@
             <falscheAntwort1>an den Zellpolen</falscheAntwort1>
             <falscheAntwort2>am Kinetochor</falscheAntwort2>
             <falscheAntwort3>am Zentriol</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -341,7 +341,7 @@
             <falscheAntwort1>Eiben</falscheAntwort1>
             <falscheAntwort2>Kegelschnecken</falscheAntwort2>
             <falscheAntwort3>Vogelbeeren</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -351,7 +351,7 @@
             <falscheAntwort1>Strychnin</falscheAntwort1>
             <falscheAntwort2>Dioxin</falscheAntwort2>
             <falscheAntwort3>Digitoxin</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -361,7 +361,7 @@
             <falscheAntwort1>Mimose</falscheAntwort1>
             <falscheAntwort2>Mittellose</falscheAntwort2>
             <falscheAntwort3>Mikrose</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -371,7 +371,7 @@
             <falscheAntwort1>die Stube</falscheAntwort1>
             <falscheAntwort2>die Kammer</falscheAntwort2>
             <falscheAntwort3>das Verlies</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>3</schwierigkeitMax>
         </frage>
@@ -381,7 +381,7 @@
             <falscheAntwort1>dem Nervensystem</falscheAntwort1>
             <falscheAntwort2>den inneren Organen</falscheAntwort2>
             <falscheAntwort3>Erbsen</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -391,7 +391,7 @@
             <falscheAntwort1>Mitose</falscheAntwort1>
             <falscheAntwort2>Genese</falscheAntwort2>
             <falscheAntwort3>Karyogenese</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -401,7 +401,7 @@
             <falscheAntwort1>mitotisch teilen</falscheAntwort1>
             <falscheAntwort2>identisch verdoppeln</falscheAntwort2>
             <falscheAntwort3>genetisch verändern</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -411,7 +411,7 @@
             <falscheAntwort1>Chromosomen</falscheAntwort1>
             <falscheAntwort2>Körperzellen</falscheAntwort2>
             <falscheAntwort3>Zygoten</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -421,7 +421,7 @@
             <falscheAntwort1>Anaphase1</falscheAntwort1>
             <falscheAntwort2>Äquationsteilung</falscheAntwort2>
             <falscheAntwort3>Reifeteilung</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -431,7 +431,7 @@
             <falscheAntwort1>homologen Paare</falscheAntwort1>
             <falscheAntwort2>Spermienzellen</falscheAntwort2>
             <falscheAntwort3>Autosomen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -441,7 +441,7 @@
             <falscheAntwort1>Anaphase</falscheAntwort1>
             <falscheAntwort2>Mitose</falscheAntwort2>
             <falscheAntwort3>Zellteilung</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -451,7 +451,7 @@
             <falscheAntwort1>1.RT!</falscheAntwort1>
             <falscheAntwort2>RNA!</falscheAntwort2>
             <falscheAntwort3>Ä!</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -461,7 +461,7 @@
             <falscheAntwort1>Chiasmata</falscheAntwort1>
             <falscheAntwort2>crossing-over</falscheAntwort2>
             <falscheAntwort3>Tetrade</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -471,7 +471,7 @@
             <falscheAntwort1>46</falscheAntwort1>
             <falscheAntwort2>92</falscheAntwort2>
             <falscheAntwort3>44</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -481,7 +481,7 @@
             <falscheAntwort1>2</falscheAntwort1>
             <falscheAntwort2>23</falscheAntwort2>
             <falscheAntwort3>46</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -491,7 +491,7 @@
             <falscheAntwort1>1</falscheAntwort1>
             <falscheAntwort2>23</falscheAntwort2>
             <falscheAntwort3>46</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -501,7 +501,7 @@
             <falscheAntwort1>8</falscheAntwort1>
             <falscheAntwort2>32</falscheAntwort2>
             <falscheAntwort3>64</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -511,7 +511,7 @@
             <falscheAntwort1>die Befruchtung</falscheAntwort1>
             <falscheAntwort2>die Mitose</falscheAntwort2>
             <falscheAntwort3>vegetative Vermehrung</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -521,7 +521,7 @@
             <falscheAntwort1>8.388.608 (2 hoch 23)</falscheAntwort1>
             <falscheAntwort2>alle Nachkommen wären gleich</falscheAntwort2>
             <falscheAntwort3>nur 2 (männlich oder weiblich)</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -531,7 +531,7 @@
             <falscheAntwort1>Verschmelzung zweier Eizellen</falscheAntwort1>
             <falscheAntwort2>doppelte meiotische Teilung</falscheAntwort2>
             <falscheAntwort3>meiotische Rekombination</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -541,7 +541,7 @@
             <falscheAntwort1>erhöhte Spermiendichte</falscheAntwort1>
             <falscheAntwort2>Verschmelzung zweier Eizellen</falscheAntwort2>
             <falscheAntwort3>Teilung der Eizelle</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -551,7 +551,7 @@
             <falscheAntwort1>eine Zygote</falscheAntwort1>
             <falscheAntwort2>ein Polkörperchen</falscheAntwort2>
             <falscheAntwort3>ein Gonosom</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -561,7 +561,7 @@
             <falscheAntwort1>weniger Keimzellen</falscheAntwort1>
             <falscheAntwort2>mehr Zygoten</falscheAntwort2>
             <falscheAntwort3>häufiger Chiasmata</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -571,7 +571,7 @@
             <falscheAntwort1>Spaltungsregel</falscheAntwort1>
             <falscheAntwort2>Unabhängigkeitsregel</falscheAntwort2>
             <falscheAntwort3>Uniformitätsregel</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -581,7 +581,7 @@
             <falscheAntwort1>interdisziplinär</falscheAntwort1>
             <falscheAntwort2>intermittierend</falscheAntwort2>
             <falscheAntwort3>international</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -591,7 +591,7 @@
             <falscheAntwort1>Domina</falscheAntwort1>
             <falscheAntwort2>Domino</falscheAntwort2>
             <falscheAntwort3>dubidu</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -601,7 +601,7 @@
             <falscheAntwort1>G2</falscheAntwort1>
             <falscheAntwort2>P</falscheAntwort2>
             <falscheAntwort3>TG2</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -611,7 +611,7 @@
             <falscheAntwort1>Feuergefahr Stufe 1</falscheAntwort1>
             <falscheAntwort2>Formel 1</falscheAntwort2>
             <falscheAntwort3>Fast noch 'ne 1</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -621,7 +621,7 @@
             <falscheAntwort1>der Schimpanse</falscheAntwort1>
             <falscheAntwort2>das Meerschweinchen</falscheAntwort2>
             <falscheAntwort3>die Erbse</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -631,7 +631,7 @@
             <falscheAntwort1>beim intermediären</falscheAntwort1>
             <falscheAntwort2>beim dominanten</falscheAntwort2>
             <falscheAntwort3>beim rezessiven</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -641,7 +641,7 @@
             <falscheAntwort1>gleichgeschlechtlich</falscheAntwort1>
             <falscheAntwort2>einfacher Chromosomensatz</falscheAntwort2>
             <falscheAntwort3>befruchtet</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -651,7 +651,7 @@
             <falscheAntwort1>die F2-Generation</falscheAntwort1>
             <falscheAntwort2>die Mitose</falscheAntwort2>
             <falscheAntwort3>meiotische Zellteilung</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -661,7 +661,7 @@
             <falscheAntwort1>im Verhältnis 1:1</falscheAntwort1>
             <falscheAntwort2>zu 100%</falscheAntwort2>
             <falscheAntwort3>verstärkt</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -671,7 +671,7 @@
             <falscheAntwort1>Filialgeneration</falscheAntwort1>
             <falscheAntwort2>E-Generation</falscheAntwort2>
             <falscheAntwort3>„die Alten“</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -681,7 +681,7 @@
             <falscheAntwort1>Unterstreichung</falscheAntwort1>
             <falscheAntwort2>ein „d.“</falscheAntwort2>
             <falscheAntwort3>Sternchedn</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -691,7 +691,7 @@
             <falscheAntwort1>Genotypen</falscheAntwort1>
             <falscheAntwort2>Variabeln</falscheAntwort2>
             <falscheAntwort3>Chromosomen</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -701,7 +701,7 @@
             <falscheAntwort1>monozygote Chromosomen</falscheAntwort1>
             <falscheAntwort2>heterozygote Gameten</falscheAntwort2>
             <falscheAntwort3>homozygote Filialgeneration</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -711,7 +711,7 @@
             <falscheAntwort1>HGP</falscheAntwort1>
             <falscheAntwort2>Projekt Mensch</falscheAntwort2>
             <falscheAntwort3>GGR (german genomic research)</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -721,7 +721,7 @@
             <falscheAntwort1>Abt des Klosters Brünn</falscheAntwort1>
             <falscheAntwort2>Gartenverwalter des Klosters</falscheAntwort2>
             <falscheAntwort3>Priester</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -731,7 +731,7 @@
             <falscheAntwort1>Die Gesetze der Vererbung</falscheAntwort1>
             <falscheAntwort2>Über das Wesen der Vererbung</falscheAntwort2>
             <falscheAntwort3>Botanische Studien im Namen des Herrn</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -741,7 +741,7 @@
             <falscheAntwort1>1:2:2:1</falscheAntwort1>
             <falscheAntwort2>3:1</falscheAntwort2>
             <falscheAntwort3>1:1</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -751,7 +751,7 @@
             <falscheAntwort1>AABB</falscheAntwort1>
             <falscheAntwort2>aabb</falscheAntwort2>
             <falscheAntwort3>AaBa</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -761,7 +761,7 @@
             <falscheAntwort1>Ba</falscheAntwort1>
             <falscheAntwort2>AB</falscheAntwort2>
             <falscheAntwort3>ab</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -771,7 +771,7 @@
             <falscheAntwort1>gelb, kantig</falscheAntwort1>
             <falscheAntwort2>grün, kantig</falscheAntwort2>
             <falscheAntwort3>grün, rund</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -781,7 +781,7 @@
             <falscheAntwort1>Aa</falscheAntwort1>
             <falscheAntwort2>RR</falscheAntwort2>
             <falscheAntwort3>rw</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -791,7 +791,7 @@
             <falscheAntwort1>Die beiden Kreuzungspartner waren homozygot</falscheAntwort1>
             <falscheAntwort2>Die beiden Kreuzungspartner waren heterozygot</falscheAntwort2>
             <falscheAntwort3>Es liegt Genkoppelung vor</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -801,7 +801,7 @@
             <falscheAntwort1>Unabhängigkeitsregel</falscheAntwort1>
             <falscheAntwort2>Spaltungsregel</falscheAntwort2>
             <falscheAntwort3>Reziprozitätsregel</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -811,7 +811,7 @@
             <falscheAntwort1>ebony</falscheAntwort1>
             <falscheAntwort2>vestigal</falscheAntwort2>
             <falscheAntwort3>black</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -821,7 +821,7 @@
             <falscheAntwort1>2</falscheAntwort1>
             <falscheAntwort2>4</falscheAntwort2>
             <falscheAntwort3>8</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -831,7 +831,7 @@
             <falscheAntwort1>-</falscheAntwort1>
             <falscheAntwort2>b</falscheAntwort2>
             <falscheAntwort3>A</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -841,7 +841,7 @@
             <falscheAntwort1>Stummelflügel</falscheAntwort1>
             <falscheAntwort2>verlängerte Fühler</falscheAntwort2>
             <falscheAntwort3>graue Körperfärbung</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -851,7 +851,7 @@
             <falscheAntwort1>James Watson</falscheAntwort1>
             <falscheAntwort2>Gregor Mendel</falscheAntwort2>
             <falscheAntwort3>Van Morrison</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -861,7 +861,7 @@
             <falscheAntwort1>Don Camillo</falscheAntwort1>
             <falscheAntwort2>Franz von Assisi</falscheAntwort2>
             <falscheAntwort3>Little John</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -871,7 +871,7 @@
             <falscheAntwort1>AB</falscheAntwort1>
             <falscheAntwort2>B</falscheAntwort2>
             <falscheAntwort3>0</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -881,7 +881,7 @@
             <falscheAntwort1>AADD</falscheAntwort1>
             <falscheAntwort2>A0Dd</falscheAntwort2>
             <falscheAntwort3>AADd</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -891,7 +891,7 @@
             <falscheAntwort1>multiple Allelie</falscheAntwort1>
             <falscheAntwort2>kodominant</falscheAntwort2>
             <falscheAntwort3>Merkmale: Antigene</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -901,7 +901,7 @@
             <falscheAntwort1>A</falscheAntwort1>
             <falscheAntwort2>B</falscheAntwort2>
             <falscheAntwort3>D</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -911,7 +911,7 @@
             <falscheAntwort1>Versumpfung</falscheAntwort1>
             <falscheAntwort2>Verklampfung</falscheAntwort2>
             <falscheAntwort3>Verkrampfung</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -921,7 +921,7 @@
             <falscheAntwort1>Agranulozytose</falscheAntwort1>
             <falscheAntwort2>Akklamation</falscheAntwort2>
             <falscheAntwort3>Aspiration</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -931,7 +931,7 @@
             <falscheAntwort1>Beatles</falscheAntwort1>
             <falscheAntwort2>Langsamkeit</falscheAntwort2>
             <falscheAntwort3>Malediven</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -941,7 +941,7 @@
             <falscheAntwort1>Dr. Karl Landsteiner</falscheAntwort1>
             <falscheAntwort2>den Rhesus-Antigenen</falscheAntwort2>
             <falscheAntwort3>der Rhesus-League</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -951,7 +951,7 @@
             <falscheAntwort1>Antikörper</falscheAntwort1>
             <falscheAntwort2>Antipoden</falscheAntwort2>
             <falscheAntwort3>Antimaterie</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -961,7 +961,7 @@
             <falscheAntwort1>Kohlenhydrate</falscheAntwort1>
             <falscheAntwort2>Aminosäuren</falscheAntwort2>
             <falscheAntwort3>Lipide</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -971,7 +971,7 @@
             <falscheAntwort1>roten Blutkörperchen</falscheAntwort1>
             <falscheAntwort2>Zellen von Affen</falscheAntwort2>
             <falscheAntwort3>auf den Erythrozyten</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -981,7 +981,7 @@
             <falscheAntwort1>Universalempfänger</falscheAntwort1>
             <falscheAntwort2>Universalgenie</falscheAntwort2>
             <falscheAntwort3>Universitätsangestellte</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -991,7 +991,7 @@
             <falscheAntwort1>keine Antigene</falscheAntwort1>
             <falscheAntwort2>Rhesus-Antigene</falscheAntwort2>
             <falscheAntwort3>keine A-/B-Antigene</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1001,7 +1001,7 @@
             <falscheAntwort1>Anti-D</falscheAntwort1>
             <falscheAntwort2>gar keine</falscheAntwort2>
             <falscheAntwort3>alle</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1011,7 +1011,7 @@
             <falscheAntwort1>Bd</falscheAntwort1>
             <falscheAntwort2>0d</falscheAntwort2>
             <falscheAntwort3>0D</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1021,7 +1021,7 @@
             <falscheAntwort1>rh-/Rh+</falscheAntwort1>
             <falscheAntwort2>rh-/rh-</falscheAntwort2>
             <falscheAntwort3>Rh+/rh-</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1031,7 +1031,7 @@
             <falscheAntwort1>künstliche Antigene</falscheAntwort1>
             <falscheAntwort2>Vitamin D</falscheAntwort2>
             <falscheAntwort3>Provitamin A</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1041,7 +1041,7 @@
             <falscheAntwort1>intermediär</falscheAntwort1>
             <falscheAntwort2>kodominant</falscheAntwort2>
             <falscheAntwort3>dihybrid</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1051,7 +1051,7 @@
             <falscheAntwort1>ARh+</falscheAntwort1>
             <falscheAntwort2>Orh-</falscheAntwort2>
             <falscheAntwort3>BRh+</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1061,7 +1061,7 @@
             <falscheAntwort1>1</falscheAntwort1>
             <falscheAntwort2>2</falscheAntwort2>
             <falscheAntwort3>4</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1071,7 +1071,7 @@
             <falscheAntwort1>ein Indianer</falscheAntwort1>
             <falscheAntwort2>ein Rockmusiker</falscheAntwort2>
             <falscheAntwort3>ein Biker</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -1081,7 +1081,7 @@
             <falscheAntwort1>Arh-</falscheAntwort1>
             <falscheAntwort2>BRh+</falscheAntwort2>
             <falscheAntwort3>0Rh+</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1091,7 +1091,7 @@
             <falscheAntwort1>arttypisch</falscheAntwort1>
             <falscheAntwort2>hormonell</falscheAntwort2>
             <falscheAntwort3>instrumentell</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1101,7 +1101,7 @@
             <falscheAntwort1>Eltern</falscheAntwort1>
             <falscheAntwort2>Großeltern</falscheAntwort2>
             <falscheAntwort3>Eizellen</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>

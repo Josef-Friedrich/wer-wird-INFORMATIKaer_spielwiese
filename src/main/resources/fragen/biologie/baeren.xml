@@ -11,7 +11,7 @@
             <falscheAntwort1>Dünnbär</falscheAntwort1>
             <falscheAntwort2>Dickbär</falscheAntwort2>
             <falscheAntwort3>Breitbär</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -21,7 +21,7 @@
             <falscheAntwort1>Eisbär</falscheAntwort1>
             <falscheAntwort2>Grizzly</falscheAntwort2>
             <falscheAntwort3>Kragenbär</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -31,7 +31,7 @@
             <falscheAntwort1>Wubb</falscheAntwort1>
             <falscheAntwort2>Jupp</falscheAntwort2>
             <falscheAntwort3>Bubb</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -41,7 +41,7 @@
             <falscheAntwort1>Uralbär</falscheAntwort1>
             <falscheAntwort2>Alpenbär</falscheAntwort2>
             <falscheAntwort3>Himalayabär</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -51,7 +51,7 @@
             <falscheAntwort1>Sternenbär</falscheAntwort1>
             <falscheAntwort2>Sonnenbär</falscheAntwort2>
             <falscheAntwort3>Honigbär</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -61,7 +61,7 @@
             <falscheAntwort1>32</falscheAntwort1>
             <falscheAntwort2>20</falscheAntwort2>
             <falscheAntwort3>76</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -71,7 +71,7 @@
             <falscheAntwort1>Bäruk</falscheAntwort1>
             <falscheAntwort2>Kautschuk</falscheAntwort2>
             <falscheAntwort3>Hauruk</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -81,7 +81,7 @@
             <falscheAntwort1>einmal in ihrem Leben</falscheAntwort1>
             <falscheAntwort2>jedes Jahr</falscheAntwort2>
             <falscheAntwort3>alle 10 Jahre</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -91,7 +91,7 @@
             <falscheAntwort1>mit zwei Jahren</falscheAntwort1>
             <falscheAntwort2>mit drei Jahren</falscheAntwort2>
             <falscheAntwort3>mit sechs Jahren</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -101,7 +101,7 @@
             <falscheAntwort1>12 Monate</falscheAntwort1>
             <falscheAntwort2>6 Monate</falscheAntwort2>
             <falscheAntwort3>24 Monate</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -111,7 +111,7 @@
             <falscheAntwort1>1 - 2 kg</falscheAntwort1>
             <falscheAntwort2>600 - 750 Gramm</falscheAntwort2>
             <falscheAntwort3>ca. 3,5 kg</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -121,7 +121,7 @@
             <falscheAntwort1>im Juni oder Juli</falscheAntwort1>
             <falscheAntwort2>im März oder April</falscheAntwort2>
             <falscheAntwort3>im September oder Oktober</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -131,7 +131,7 @@
             <falscheAntwort1>Sie würden beim weißen Fell des Eisbären zu sehr auffallen.</falscheAntwort1>
             <falscheAntwort2>Sie würden beim Sehen nur stören.</falscheAntwort2>
             <falscheAntwort3>Sie würden beim Tauchen stören.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -141,7 +141,7 @@
             <falscheAntwort1>3 cm</falscheAntwort1>
             <falscheAntwort2>4 - 8 cm</falscheAntwort2>
             <falscheAntwort3>etwa 20 cm</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -151,7 +151,7 @@
             <falscheAntwort1>50 cm</falscheAntwort1>
             <falscheAntwort2>20 cm</falscheAntwort2>
             <falscheAntwort3>70 cm</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -161,7 +161,7 @@
             <falscheAntwort1>Bärenwette</falscheAntwort1>
             <falscheAntwort2>Bärenlotto</falscheAntwort2>
             <falscheAntwort3>Bärenniete</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -171,7 +171,7 @@
             <falscheAntwort1>so groß wie ein Apfel</falscheAntwort1>
             <falscheAntwort2>so groß wie eine Kirsche</falscheAntwort2>
             <falscheAntwort3>so groß wie eine Melone</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -181,7 +181,7 @@
             <falscheAntwort1>ca. 250 Gramm</falscheAntwort1>
             <falscheAntwort2>2 - 5 Gramm</falscheAntwort2>
             <falscheAntwort3>500 - 750 Gramm</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -191,7 +191,7 @@
             <falscheAntwort1>50 - 55 cm</falscheAntwort1>
             <falscheAntwort2>61 - 67 cm</falscheAntwort2>
             <falscheAntwort3>88 - 95 cm</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -201,7 +201,7 @@
             <falscheAntwort1>30 - 50 kg</falscheAntwort1>
             <falscheAntwort2>15 - 20 kg</falscheAntwort2>
             <falscheAntwort3>75 - 100 kg</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -211,7 +211,7 @@
             <falscheAntwort1>Fische</falscheAntwort1>
             <falscheAntwort2>Bambus</falscheAntwort2>
             <falscheAntwort3>Honig und Insekten</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -221,7 +221,7 @@
             <falscheAntwort1>Nasenbär</falscheAntwort1>
             <falscheAntwort2>Wickelbär</falscheAntwort2>
             <falscheAntwort3>Lippenbär</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -231,7 +231,7 @@
             <falscheAntwort1>mit Blättern</falscheAntwort1>
             <falscheAntwort2>mit seinen Vorderpfoten</falscheAntwort2>
             <falscheAntwort3>mit seinen Hinterpfoten</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -241,7 +241,7 @@
             <falscheAntwort1>Nasenbär</falscheAntwort1>
             <falscheAntwort2>Wickelbär</falscheAntwort2>
             <falscheAntwort3>Lippenbär</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -251,7 +251,7 @@
             <falscheAntwort1>Schlangen</falscheAntwort1>
             <falscheAntwort2>Tiger</falscheAntwort2>
             <falscheAntwort3>Löwen</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -261,7 +261,7 @@
             <falscheAntwort1>130 - 180 kg</falscheAntwort1>
             <falscheAntwort2>35 - 65 kg</falscheAntwort2>
             <falscheAntwort3>220 - 330 kg</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -271,7 +271,7 @@
             <falscheAntwort1>90 - 110 cm</falscheAntwort1>
             <falscheAntwort2>30 - 50 cm</falscheAntwort2>
             <falscheAntwort3>150 - 200 cm</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -281,7 +281,7 @@
             <falscheAntwort1>Malaienbär</falscheAntwort1>
             <falscheAntwort2>Lippenbär</falscheAntwort2>
             <falscheAntwort3>Brillenbär</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -291,7 +291,7 @@
             <falscheAntwort1>einmal in der Minute</falscheAntwort1>
             <falscheAntwort2>ganz schnell</falscheAntwort2>
             <falscheAntwort3>genauso schnell wie im Herbst</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -301,7 +301,7 @@
             <falscheAntwort1>11° C</falscheAntwort1>
             <falscheAntwort2>21° C</falscheAntwort2>
             <falscheAntwort3>1° C</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -311,7 +311,7 @@
             <falscheAntwort1>Bär der Götter</falscheAntwort1>
             <falscheAntwort2>Bär im Himmel</falscheAntwort2>
             <falscheAntwort3>Bär in der Höhle</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -321,7 +321,7 @@
             <falscheAntwort1>Bär im Wasser</falscheAntwort1>
             <falscheAntwort2>Bär in der Höhle</falscheAntwort2>
             <falscheAntwort3>Bär im Wald</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -331,7 +331,7 @@
             <falscheAntwort1>vom Malaienbären</falscheAntwort1>
             <falscheAntwort2>vom Lippenbären</falscheAntwort2>
             <falscheAntwort3>vom Eisbären</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -341,7 +341,7 @@
             <falscheAntwort1>Elefant, Grizzly, Tiger</falscheAntwort1>
             <falscheAntwort2>Löwe, Eisbär, Rotfuchs</falscheAntwort2>
             <falscheAntwort3>Lippenbär, Malaienbär, Braunbär</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -351,7 +351,7 @@
             <falscheAntwort1>120 - 140 cm</falscheAntwort1>
             <falscheAntwort2>60 - 80 cm</falscheAntwort2>
             <falscheAntwort3>100 - 120 cm</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -361,7 +361,7 @@
             <falscheAntwort1>ca. 1 m</falscheAntwort1>
             <falscheAntwort2>ca. 3 m</falscheAntwort2>
             <falscheAntwort3>ca. 4 m</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -371,7 +371,7 @@
             <falscheAntwort1>Brillenschlange</falscheAntwort1>
             <falscheAntwort2>Tiger</falscheAntwort2>
             <falscheAntwort3>Löwe</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -381,7 +381,7 @@
             <falscheAntwort1>bis 100 kg</falscheAntwort1>
             <falscheAntwort2>bis 300 kg</falscheAntwort2>
             <falscheAntwort3>bis 400 kg</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -391,7 +391,7 @@
             <falscheAntwort1>bis 265 kg</falscheAntwort1>
             <falscheAntwort2>bis 165 kg</falscheAntwort2>
             <falscheAntwort3>bis 365 kg</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -401,7 +401,7 @@
             <falscheAntwort1>bis 335 kg</falscheAntwort1>
             <falscheAntwort2>bis 225 kg</falscheAntwort2>
             <falscheAntwort3>bis 445 kg</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -411,7 +411,7 @@
             <falscheAntwort1>etwa 250 cm</falscheAntwort1>
             <falscheAntwort2>ca. 1,20 m</falscheAntwort2>
             <falscheAntwort3>über 3 m</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -421,7 +421,7 @@
             <falscheAntwort1>Grizzly</falscheAntwort1>
             <falscheAntwort2>Eisbär</falscheAntwort2>
             <falscheAntwort3>Kamtschatkabär</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -431,7 +431,7 @@
             <falscheAntwort1>dem Eisbären</falscheAntwort1>
             <falscheAntwort2>dem Kragenbären</falscheAntwort2>
             <falscheAntwort3>dem Malaienbären</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -441,7 +441,7 @@
             <falscheAntwort1>Löwen</falscheAntwort1>
             <falscheAntwort2>Tiger</falscheAntwort2>
             <falscheAntwort3>Elefanten</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -451,7 +451,7 @@
             <falscheAntwort1>Polarfuchs</falscheAntwort1>
             <falscheAntwort2>Walross</falscheAntwort2>
             <falscheAntwort3>Polarwolf</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -461,7 +461,7 @@
             <falscheAntwort1>Wolf</falscheAntwort1>
             <falscheAntwort2>Löwe</falscheAntwort2>
             <falscheAntwort3>Gepard</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -471,7 +471,7 @@
             <falscheAntwort1>Wolf und Fuchs</falscheAntwort1>
             <falscheAntwort2>Löwe und Hyäne</falscheAntwort2>
             <falscheAntwort3>Puma und Schakal</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -481,7 +481,7 @@
             <falscheAntwort1>150 cm</falscheAntwort1>
             <falscheAntwort2>100 cm</falscheAntwort2>
             <falscheAntwort3>180 cm</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -491,7 +491,7 @@
             <falscheAntwort1>80 - 130 cm</falscheAntwort1>
             <falscheAntwort2>195 - 225 cm</falscheAntwort2>
             <falscheAntwort3>250 - 300 cm</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -501,7 +501,7 @@
             <falscheAntwort1>morgends</falscheAntwort1>
             <falscheAntwort2>nachmittags</falscheAntwort2>
             <falscheAntwort3>mittags</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -511,7 +511,7 @@
             <falscheAntwort1>160 - 195 cm</falscheAntwort1>
             <falscheAntwort2>65 - 95 cm</falscheAntwort2>
             <falscheAntwort3>220 - 300 cm</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -521,7 +521,7 @@
             <falscheAntwort1>am westlichen Polarmeer</falscheAntwort1>
             <falscheAntwort2>am südlichen Polarmeer</falscheAntwort2>
             <falscheAntwort3>am östlichen Polarmeer</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -531,7 +531,7 @@
             <falscheAntwort1>ca. 600 kg</falscheAntwort1>
             <falscheAntwort2>ca. 200 kg</falscheAntwort2>
             <falscheAntwort3>ca. 800 kg</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -541,7 +541,7 @@
             <falscheAntwort1>0,75 m</falscheAntwort1>
             <falscheAntwort2>1 m</falscheAntwort2>
             <falscheAntwort3>2,50 m</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -551,7 +551,7 @@
             <falscheAntwort1>ca. 1,50 m</falscheAntwort1>
             <falscheAntwort2>ca. 3,50</falscheAntwort2>
             <falscheAntwort3>ca. 4,50 m</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -561,7 +561,7 @@
             <falscheAntwort1>Er stellte 1902 die Braunbären in Amerika unter Naturschutz.</falscheAntwort1>
             <falscheAntwort2>Er gründete 1902 die erste Stoffbärenfabrik in New York.</falscheAntwort2>
             <falscheAntwort3>Er erlegte auf eine Jagd 1902 ohne fremde Hilfe 5 Bären nur mit einem Messer.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -571,7 +571,7 @@
             <falscheAntwort1>Hamburg</falscheAntwort1>
             <falscheAntwort2>München</falscheAntwort2>
             <falscheAntwort3>Bochum</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -581,7 +581,7 @@
             <falscheAntwort1>Geselle Brummig</falscheAntwort1>
             <falscheAntwort2>Meister Lampe</falscheAntwort2>
             <falscheAntwort3>Lehrling Tollpatsch</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -591,7 +591,7 @@
             <falscheAntwort1>der Frühling</falscheAntwort1>
             <falscheAntwort2>der Sommer</falscheAntwort2>
             <falscheAntwort3>der Winter</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -601,7 +601,7 @@
             <falscheAntwort1>von Fischen</falscheAntwort1>
             <falscheAntwort2>von Fleisch</falscheAntwort2>
             <falscheAntwort3>von Aas</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -611,7 +611,7 @@
             <falscheAntwort1>Er teilt es mit anderen Bären.</falscheAntwort1>
             <falscheAntwort2>Er frisst alles auf, weil er dann 14 Tage satt ist.</falscheAntwort2>
             <falscheAntwort3>Er frisst nur die leckersten Sachen.</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -621,7 +621,7 @@
             <falscheAntwort1>ca. 32 kg</falscheAntwort1>
             <falscheAntwort2>ca. 13 kg</falscheAntwort2>
             <falscheAntwort3>ca. 63 kg</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -631,7 +631,7 @@
             <falscheAntwort1>ca. 66 kg</falscheAntwort1>
             <falscheAntwort2>ca. 101 kg</falscheAntwort2>
             <falscheAntwort3>ca. 15 kg</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -641,7 +641,7 @@
             <falscheAntwort1>ca. 60 km/h</falscheAntwort1>
             <falscheAntwort2>ca. 20 km/h</falscheAntwort2>
             <falscheAntwort3>ca. 80 km/h</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -651,7 +651,7 @@
             <falscheAntwort1>ca. 9 m</falscheAntwort1>
             <falscheAntwort2>ca. 6,50 m</falscheAntwort2>
             <falscheAntwort3>ca. 15 m</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -661,7 +661,7 @@
             <falscheAntwort1>nur mit den linken Füßen</falscheAntwort1>
             <falscheAntwort2>nur mit den Hinterfüßen</falscheAntwort2>
             <falscheAntwort3>nur mit den rechten Füßen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -671,7 +671,7 @@
             <falscheAntwort1>Kragenbär</falscheAntwort1>
             <falscheAntwort2>Grizzly</falscheAntwort2>
             <falscheAntwort3>Lippenbär</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -681,7 +681,7 @@
             <falscheAntwort1>ca. 45 km</falscheAntwort1>
             <falscheAntwort2>ca. 70 km</falscheAntwort2>
             <falscheAntwort3>ca. 20 km</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -691,7 +691,7 @@
             <falscheAntwort1>Grizzly</falscheAntwort1>
             <falscheAntwort2>Kodiakbär</falscheAntwort2>
             <falscheAntwort3>Malaienbär</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -701,7 +701,7 @@
             <falscheAntwort1>Kleine Panda</falscheAntwort1>
             <falscheAntwort2>Nasenbär</falscheAntwort2>
             <falscheAntwort3>Waschbär</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -711,7 +711,7 @@
             <falscheAntwort1>Nasenbär</falscheAntwort1>
             <falscheAntwort2>Kragenbär</falscheAntwort2>
             <falscheAntwort3>Brillenbär</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -721,7 +721,7 @@
             <falscheAntwort1>Eisbär</falscheAntwort1>
             <falscheAntwort2>Grizzly</falscheAntwort2>
             <falscheAntwort3>Kodiakbär</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -731,7 +731,7 @@
             <falscheAntwort1>Lippenbär</falscheAntwort1>
             <falscheAntwort2>Faltenbär</falscheAntwort2>
             <falscheAntwort3>Kragenbär</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -741,7 +741,7 @@
             <falscheAntwort1>Grizzly</falscheAntwort1>
             <falscheAntwort2>Panda</falscheAntwort2>
             <falscheAntwort3>Kragenbär</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -751,7 +751,7 @@
             <falscheAntwort1>Wickelbär</falscheAntwort1>
             <falscheAntwort2>Nasenbär</falscheAntwort2>
             <falscheAntwort3>Kleine Panda</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -761,7 +761,7 @@
             <falscheAntwort1>Nasenbär</falscheAntwort1>
             <falscheAntwort2>Kragenbär</falscheAntwort2>
             <falscheAntwort3>Lippenbär</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -771,7 +771,7 @@
             <falscheAntwort1>Krallenfährte</falscheAntwort1>
             <falscheAntwort2>Fußstempel</falscheAntwort2>
             <falscheAntwort3>Beinspur</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -781,7 +781,7 @@
             <falscheAntwort1>Kragenbär</falscheAntwort1>
             <falscheAntwort2>Lippenbär</falscheAntwort2>
             <falscheAntwort3>Eisbär</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -791,7 +791,7 @@
             <falscheAntwort1>Malaienbär</falscheAntwort1>
             <falscheAntwort2>Eisbär</falscheAntwort2>
             <falscheAntwort3>Kragenbär</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -801,7 +801,7 @@
             <falscheAntwort1>Lippenbär</falscheAntwort1>
             <falscheAntwort2>Große Panda</falscheAntwort2>
             <falscheAntwort3>Grizzly</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -811,7 +811,7 @@
             <falscheAntwort1>Kragenbär</falscheAntwort1>
             <falscheAntwort2>Lippenbär</falscheAntwort2>
             <falscheAntwort3>Große Panda</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -821,7 +821,7 @@
             <falscheAntwort1>Zimttiger</falscheAntwort1>
             <falscheAntwort2>Rotwolf</falscheAntwort2>
             <falscheAntwort3>Wasserlöwe</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -831,7 +831,7 @@
             <falscheAntwort1>ca. 1 m</falscheAntwort1>
             <falscheAntwort2>ca. 20 cm</falscheAntwort2>
             <falscheAntwort3>Der Kleine Panda hat nur einen kaum sichtbaren Pummelschwanz.</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -841,7 +841,7 @@
             <falscheAntwort1>ca. 30 cm</falscheAntwort1>
             <falscheAntwort2>ca. 0,50 cm</falscheAntwort2>
             <falscheAntwort3>ca. 1,50 m</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -851,7 +851,7 @@
             <falscheAntwort1>ca. 6</falscheAntwort1>
             <falscheAntwort2>ca. 10</falscheAntwort2>
             <falscheAntwort3>ca. 2</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -861,7 +861,7 @@
             <falscheAntwort1>dritte Hand</falscheAntwort1>
             <falscheAntwort2>falsche Hand</falscheAntwort2>
             <falscheAntwort3>Greifzange</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -871,7 +871,7 @@
             <falscheAntwort1>damit er nicht immer niesen muss</falscheAntwort1>
             <falscheAntwort2>damit es nicht hineinregnet</falscheAntwort2>
             <falscheAntwort3>damit er sich nicht erkältet</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -881,7 +881,7 @@
             <falscheAntwort1>der Grizzly</falscheAntwort1>
             <falscheAntwort2>der Große Panda</falscheAntwort2>
             <falscheAntwort3>der Lippenbär</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -891,7 +891,7 @@
             <falscheAntwort1>Mäusebär</falscheAntwort1>
             <falscheAntwort2>Hundebär</falscheAntwort2>
             <falscheAntwort3>Hasenbär</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -901,7 +901,7 @@
             <falscheAntwort1>ca. 3,5 kg</falscheAntwort1>
             <falscheAntwort2>ca. 5 kg</falscheAntwort2>
             <falscheAntwort3>ca. 10 kg</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -911,7 +911,7 @@
             <falscheAntwort1>drei bis vier</falscheAntwort1>
             <falscheAntwort2>zwei</falscheAntwort2>
             <falscheAntwort3>sechs</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -921,7 +921,7 @@
             <falscheAntwort1>2,10 - 2,30 m</falscheAntwort1>
             <falscheAntwort2>1 - 1,40 m</falscheAntwort2>
             <falscheAntwort3>0,75 - 1,10 m</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -931,7 +931,7 @@
             <falscheAntwort1>300 g</falscheAntwort1>
             <falscheAntwort2>200 g</falscheAntwort2>
             <falscheAntwort3>400 g</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -941,7 +941,7 @@
             <falscheAntwort1>„dicklung“ = dicker Bär</falscheAntwort1>
             <falscheAntwort2>„bärlung“ = lustiger Bär</falscheAntwort2>
             <falscheAntwort3>„drollfung“ = tapsiger Bär</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -951,7 +951,7 @@
             <falscheAntwort1>zu den Kleinen Bären</falscheAntwort1>
             <falscheAntwort2>zu den Großen Bären</falscheAntwort2>
             <falscheAntwort3>zu den Nagetieren</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -961,7 +961,7 @@
             <falscheAntwort1>im äußersten Norden von Norwegen</falscheAntwort1>
             <falscheAntwort2>im äußersten Süden Argentiniens</falscheAntwort2>
             <falscheAntwort3>im äußersten Westen von Kanada</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -971,7 +971,7 @@
             <falscheAntwort1>Eisbären</falscheAntwort1>
             <falscheAntwort2>Lippenbären</falscheAntwort2>
             <falscheAntwort3>Malaienbären</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -981,7 +981,7 @@
             <falscheAntwort1>2 - 4 cm</falscheAntwort1>
             <falscheAntwort2>bis 10 cm</falscheAntwort2>
             <falscheAntwort3>11 - 13,5 cm</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -991,7 +991,7 @@
             <falscheAntwort1>11 Monate</falscheAntwort1>
             <falscheAntwort2>3 - 4 Monate</falscheAntwort2>
             <falscheAntwort3>ca. 6 Wochen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1001,7 +1001,7 @@
             <falscheAntwort1>gewaltig</falscheAntwort1>
             <falscheAntwort2>stark</falscheAntwort2>
             <falscheAntwort3>zottelig</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1011,7 +1011,7 @@
             <falscheAntwort1>Eisbär</falscheAntwort1>
             <falscheAntwort2>Malaienbär</falscheAntwort2>
             <falscheAntwort3>Kragenbär</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1021,7 +1021,7 @@
             <falscheAntwort1>einmal in der Woche</falscheAntwort1>
             <falscheAntwort2>morgens, mittags, abends</falscheAntwort2>
             <falscheAntwort3>jeden Tag</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1031,7 +1031,7 @@
             <falscheAntwort1>5</falscheAntwort1>
             <falscheAntwort2>7</falscheAntwort2>
             <falscheAntwort3>3</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1041,7 +1041,7 @@
             <falscheAntwort1>Landbären und Wasserbären</falscheAntwort1>
             <falscheAntwort2>Dickbären und Dünnbären</falscheAntwort2>
             <falscheAntwort3>Sommerbären und Winterbären</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -1051,7 +1051,7 @@
             <falscheAntwort1>Grizzly</falscheAntwort1>
             <falscheAntwort2>Große Panda</falscheAntwort2>
             <falscheAntwort3>Brillenbär</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1061,7 +1061,7 @@
             <falscheAntwort1>Steppenbär</falscheAntwort1>
             <falscheAntwort2>Wüstenbär</falscheAntwort2>
             <falscheAntwort3>Savannenbär</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1071,7 +1071,7 @@
             <falscheAntwort1>vor Japan</falscheAntwort1>
             <falscheAntwort2>vor Madagaskar</falscheAntwort2>
             <falscheAntwort3>vor Grönland</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1081,7 +1081,7 @@
             <falscheAntwort1>Haie</falscheAntwort1>
             <falscheAntwort2>Aale</falscheAntwort2>
             <falscheAntwort3>Forellen</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1091,7 +1091,7 @@
             <falscheAntwort1>ca. 500 kg</falscheAntwort1>
             <falscheAntwort2>ca. 300 kg</falscheAntwort2>
             <falscheAntwort3>ca. 100 kg</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1101,7 +1101,7 @@
             <falscheAntwort1>ca. 1,75 m</falscheAntwort1>
             <falscheAntwort2>ca. 2,2 m</falscheAntwort2>
             <falscheAntwort3>ca. 4,5 m</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1111,7 +1111,7 @@
             <falscheAntwort1>Großer Panda</falscheAntwort1>
             <falscheAntwort2>Grizzly</falscheAntwort2>
             <falscheAntwort3>Kragenbär</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1121,7 +1121,7 @@
             <falscheAntwort1>Gelbbär</falscheAntwort1>
             <falscheAntwort2>Grünbär</falscheAntwort2>
             <falscheAntwort3>Rotbär</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1131,7 +1131,7 @@
             <falscheAntwort1>Felicitas - Braunbär</falscheAntwort1>
             <falscheAntwort2>Susanna -Braunbär</falscheAntwort2>
             <falscheAntwort3>Anna - Braunbär</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1141,7 +1141,7 @@
             <falscheAntwort1>ca. 666 kg</falscheAntwort1>
             <falscheAntwort2>250 - 300 kg</falscheAntwort2>
             <falscheAntwort3>etwa 1 Tonne</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1151,7 +1151,7 @@
             <falscheAntwort1>ca. 34 kg</falscheAntwort1>
             <falscheAntwort2>ca. 20 kg</falscheAntwort2>
             <falscheAntwort3>ca. 51 kg</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1161,7 +1161,7 @@
             <falscheAntwort1>ca. 0,9 m</falscheAntwort1>
             <falscheAntwort2>ca. 1,4 m</falscheAntwort2>
             <falscheAntwort3>ca. 3,2 m</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1171,7 +1171,7 @@
             <falscheAntwort1>ca. 30 km/h</falscheAntwort1>
             <falscheAntwort2>ca. 40 km/h</falscheAntwort2>
             <falscheAntwort3>ca. 70 km/h</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1181,7 +1181,7 @@
             <falscheAntwort1>Lippenbär</falscheAntwort1>
             <falscheAntwort2>Eisbär</falscheAntwort2>
             <falscheAntwort3>Große Panda</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1191,7 +1191,7 @@
             <falscheAntwort1>ca. 300 kg</falscheAntwort1>
             <falscheAntwort2>ca. 65 kg</falscheAntwort2>
             <falscheAntwort3>ca. 723 kg</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1201,7 +1201,7 @@
             <falscheAntwort1>ca. 2 m</falscheAntwort1>
             <falscheAntwort2>ca. 0,60 m</falscheAntwort2>
             <falscheAntwort3>ca. 3,5 m</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1211,7 +1211,7 @@
             <falscheAntwort1>Schwarzbär</falscheAntwort1>
             <falscheAntwort2>Grizzly</falscheAntwort2>
             <falscheAntwort3>Braunbär</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1221,7 +1221,7 @@
             <falscheAntwort1>Eisbär</falscheAntwort1>
             <falscheAntwort2>Schwarzbär</falscheAntwort2>
             <falscheAntwort3>Grizzly</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1231,7 +1231,7 @@
             <falscheAntwort1>ca. 2,5 m</falscheAntwort1>
             <falscheAntwort2>ca. 0,75 m</falscheAntwort2>
             <falscheAntwort3>ca. 3 m</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1241,7 +1241,7 @@
             <falscheAntwort1>Lippenbär</falscheAntwort1>
             <falscheAntwort2>Grizzly</falscheAntwort2>
             <falscheAntwort3>Eisbär</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1251,7 +1251,7 @@
             <falscheAntwort1>etwa 3.500</falscheAntwort1>
             <falscheAntwort2>ungefähr 200</falscheAntwort2>
             <falscheAntwort3>zwischen 400 und 600</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1261,7 +1261,7 @@
             <falscheAntwort1>100</falscheAntwort1>
             <falscheAntwort2>10.000</falscheAntwort2>
             <falscheAntwort3>10</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1271,7 +1271,7 @@
             <falscheAntwort1>Ihre Krallen besitzen Widerhaken.</falscheAntwort1>
             <falscheAntwort2>Ihre nackten Sohlen sind wärmer als der übrige Körper, deshalb schmilzt das Eis.</falscheAntwort2>
             <falscheAntwort3>Die Eisbären laufen zu schnell über das Eis.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1281,7 +1281,7 @@
             <falscheAntwort1>Brombeeren</falscheAntwort1>
             <falscheAntwort2>Waldhonig</falscheAntwort2>
             <falscheAntwort3>Lachse</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1291,7 +1291,7 @@
             <falscheAntwort1>600 m</falscheAntwort1>
             <falscheAntwort2>50 m</falscheAntwort2>
             <falscheAntwort3>1.000 m</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1301,7 +1301,7 @@
             <falscheAntwort1>Schneckenbär</falscheAntwort1>
             <falscheAntwort2>Schlafbär</falscheAntwort2>
             <falscheAntwort3>Traumbär</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1311,7 +1311,7 @@
             <falscheAntwort1>ca. 6 kg</falscheAntwort1>
             <falscheAntwort2>ca. 600 kg</falscheAntwort2>
             <falscheAntwort3>ca. 6.000 kg</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1321,7 +1321,7 @@
             <falscheAntwort1>ca. 20.000</falscheAntwort1>
             <falscheAntwort2>ca. 1.000</falscheAntwort2>
             <falscheAntwort3>ca. 25</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1331,7 +1331,7 @@
             <falscheAntwort1>Käpt´n Grünbär</falscheAntwort1>
             <falscheAntwort2>Käpt´n Rotbär</falscheAntwort2>
             <falscheAntwort3>Käpt´n Gelbbär</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -1341,7 +1341,7 @@
             <falscheAntwort1>Gras und Sträucher</falscheAntwort1>
             <falscheAntwort2>Mandeln und Bambus</falscheAntwort2>
             <falscheAntwort3>Beeren und Honig</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1351,7 +1351,7 @@
             <falscheAntwort1>Schwarzbär</falscheAntwort1>
             <falscheAntwort2>Braunbär</falscheAntwort2>
             <falscheAntwort3>Eisbär</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -1361,7 +1361,7 @@
             <falscheAntwort1>Krückstockbär</falscheAntwort1>
             <falscheAntwort2>Hörgerätbär</falscheAntwort2>
             <falscheAntwort3>Lupenbär</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1371,7 +1371,7 @@
             <falscheAntwort1>Augenbär</falscheAntwort1>
             <falscheAntwort2>Ohrenbär</falscheAntwort2>
             <falscheAntwort3>Halsbär</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1381,7 +1381,7 @@
             <falscheAntwort1>Ärmelbär</falscheAntwort1>
             <falscheAntwort2>Gürtelbär</falscheAntwort2>
             <falscheAntwort3>Taschenbär</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1391,7 +1391,7 @@
             <falscheAntwort1>Marokko</falscheAntwort1>
             <falscheAntwort2>Bolivien</falscheAntwort2>
             <falscheAntwort3>Ägypten</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1401,7 +1401,7 @@
             <falscheAntwort1>West- und Ostafrika</falscheAntwort1>
             <falscheAntwort2>Nord- und Südamerika</falscheAntwort2>
             <falscheAntwort3>Zentralaustralien</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1411,7 +1411,7 @@
             <falscheAntwort1>Japan</falscheAntwort1>
             <falscheAntwort2>Finnland</falscheAntwort2>
             <falscheAntwort3>Peru</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1421,7 +1421,7 @@
             <falscheAntwort1>Südpol</falscheAntwort1>
             <falscheAntwort2>Australien</falscheAntwort2>
             <falscheAntwort3>Nordpol</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1431,7 +1431,7 @@
             <falscheAntwort1>Australien</falscheAntwort1>
             <falscheAntwort2>Asien</falscheAntwort2>
             <falscheAntwort3>Afrika</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1441,7 +1441,7 @@
             <falscheAntwort1>Mittel- und Südostasien</falscheAntwort1>
             <falscheAntwort2>Südliches Polargebiet</falscheAntwort2>
             <falscheAntwort3>Südamerika</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1451,7 +1451,7 @@
             <falscheAntwort1>Brillenbär</falscheAntwort1>
             <falscheAntwort2>Kragenbär</falscheAntwort2>
             <falscheAntwort3>Panda</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -1461,7 +1461,7 @@
             <falscheAntwort1>10 %</falscheAntwort1>
             <falscheAntwort2>ungefähr die Hälfte</falscheAntwort2>
             <falscheAntwort3>Sie verlieren kein Gewicht.</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1471,7 +1471,7 @@
             <falscheAntwort1>Nordamerika</falscheAntwort1>
             <falscheAntwort2>Europa</falscheAntwort2>
             <falscheAntwort3>Asien</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1481,7 +1481,7 @@
             <falscheAntwort1>2 - 3 Stunden</falscheAntwort1>
             <falscheAntwort2>Ein Eisbär schläft nie.</falscheAntwort2>
             <falscheAntwort3>immer nur ein paar Minuten</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1491,7 +1491,7 @@
             <falscheAntwort1>Bärenliebe</falscheAntwort1>
             <falscheAntwort2>Bärenmilch</falscheAntwort2>
             <falscheAntwort3>Bärenglück</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -1501,7 +1501,7 @@
             <falscheAntwort1>Er jault.</falscheAntwort1>
             <falscheAntwort2>Er schmiert sich mit Matsch ein.</falscheAntwort2>
             <falscheAntwort3>Er kratzt sich wild.</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1511,7 +1511,7 @@
             <falscheAntwort1>Anthropologie</falscheAntwort1>
             <falscheAntwort2>Legastenie</falscheAntwort2>
             <falscheAntwort3>Soziologie</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1521,7 +1521,7 @@
             <falscheAntwort1>weil der Bär der Urahn des Menschen ist</falscheAntwort1>
             <falscheAntwort2>weil der Bär so stark ist</falscheAntwort2>
             <falscheAntwort3>weil er so ein kuscheliges Fell hat</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1531,7 +1531,7 @@
             <falscheAntwort1>150</falscheAntwort1>
             <falscheAntwort2>80 - 100</falscheAntwort2>
             <falscheAntwort3>10 - 30</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1541,7 +1541,7 @@
             <falscheAntwort1>die Umweltverschmutzung</falscheAntwort1>
             <falscheAntwort2>die Wilderei</falscheAntwort2>
             <falscheAntwort3>Meteoriteneinschläge</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1551,7 +1551,7 @@
             <falscheAntwort1>Schokolade</falscheAntwort1>
             <falscheAntwort2>Apfeltorte</falscheAntwort2>
             <falscheAntwort3>Bananen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1561,7 +1561,7 @@
             <falscheAntwort1>Mogli</falscheAntwort1>
             <falscheAntwort2>Bagheera</falscheAntwort2>
             <falscheAntwort3>Kaa</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1571,7 +1571,7 @@
             <falscheAntwort1>Bambi</falscheAntwort1>
             <falscheAntwort2>Fantasia</falscheAntwort2>
             <falscheAntwort3>Das große Krabbeln</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1581,7 +1581,7 @@
             <falscheAntwort1>aus Neuseeland</falscheAntwort1>
             <falscheAntwort2>aus Kolumbien</falscheAntwort2>
             <falscheAntwort3>aus Australien</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1591,7 +1591,7 @@
             <falscheAntwort1>auf Mr. Ted, dem sprechenden Zirkusbären</falscheAntwort1>
             <falscheAntwort2>auf Teddy Duncan</falscheAntwort2>
             <falscheAntwort3>auf Ted Dy, einem berühmten Naturforscher</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1601,7 +1601,7 @@
             <falscheAntwort1>1922</falscheAntwort1>
             <falscheAntwort2>1896</falscheAntwort2>
             <falscheAntwort3>1954</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1611,7 +1611,7 @@
             <falscheAntwort1>Bayern</falscheAntwort1>
             <falscheAntwort2>Bergen</falscheAntwort2>
             <falscheAntwort3>Belgrad</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1621,7 +1621,7 @@
             <falscheAntwort1>Er - der - immer Hunger - hat</falscheAntwort1>
             <falscheAntwort2>Er - der - verrückt - auf - Kinder - ist</falscheAntwort2>
             <falscheAntwort3>Er - der - dem - Schneesturm - trotzt</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1631,7 +1631,7 @@
             <falscheAntwort1>großer Neffe</falscheAntwort1>
             <falscheAntwort2>schreckliche Schwiegermutter</falscheAntwort2>
             <falscheAntwort3>böser Onkel</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1641,7 +1641,7 @@
             <falscheAntwort1>vor 10.000 Jahren</falscheAntwort1>
             <falscheAntwort2>vor 50.000 Jahren</falscheAntwort2>
             <falscheAntwort3>vor 3.500 Jahren</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1651,7 +1651,7 @@
             <falscheAntwort1>Er schleudert ihn gegen einen Baum.</falscheAntwort1>
             <falscheAntwort2>Er legt sich drauf.</falscheAntwort2>
             <falscheAntwort3>Er wirft ihn einen Abhang hinunter.</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1661,7 +1661,7 @@
             <falscheAntwort1>wenn er in seinem Schlaf gestört wird</falscheAntwort1>
             <falscheAntwort2>wenn er böse ist</falscheAntwort2>
             <falscheAntwort3>bei Sonnenuntergang</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1671,7 +1671,7 @@
             <falscheAntwort1>Er wirft mit Blättern.</falscheAntwort1>
             <falscheAntwort2>Er springt auf einen anderen Baum.</falscheAntwort2>
             <falscheAntwort3>Er klettert an der Rückseite des Stammes herunter.</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1681,7 +1681,7 @@
             <falscheAntwort1>um für die Mutter Bienenkörbe aus dem Baum zu holen</falscheAntwort1>
             <falscheAntwort2>um in den Bäumen frische Blätter finden zu können</falscheAntwort2>
             <falscheAntwort3>um besser die Aussicht zu genießen</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1691,7 +1691,7 @@
             <falscheAntwort1>4 Minuten</falscheAntwort1>
             <falscheAntwort2>30 Sekunden</falscheAntwort2>
             <falscheAntwort3>eine Viertelstunde</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1701,7 +1701,7 @@
             <falscheAntwort1>Sie müssen mit den Robben mithalten.</falscheAntwort1>
             <falscheAntwort2>Sie haben es so gut gelernt.</falscheAntwort2>
             <falscheAntwort3>Sie machen es so gerne.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1711,7 +1711,7 @@
             <falscheAntwort1>ein bisschen, es ist mehr ein Paddeln</falscheAntwort1>
             <falscheAntwort2>nein, sie können nur in flachem Wasser stehen</falscheAntwort2>
             <falscheAntwort3>nur die Männchen können schwimmen</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1721,7 +1721,7 @@
             <falscheAntwort1>Sie gehen schwimmen und lassen das Wasser dann in ihre Schnauze laufen.</falscheAntwort1>
             <falscheAntwort2>Sie lecken mit ihrer Zunge das Wasser.</falscheAntwort2>
             <falscheAntwort3>Sie pressen saftige Beeren aus.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1731,7 +1731,7 @@
             <falscheAntwort1>7 Monate</falscheAntwort1>
             <falscheAntwort2>3 Monate</falscheAntwort2>
             <falscheAntwort3>4 - 6 Wochen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1741,7 +1741,7 @@
             <falscheAntwort1>20 Wochen</falscheAntwort1>
             <falscheAntwort2>5 - 6 Monate</falscheAntwort2>
             <falscheAntwort3>zweieinhalb bis fünf Monate</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1751,7 +1751,7 @@
             <falscheAntwort1>ja, sie vergraben sie dann von Zeit zu Zeit</falscheAntwort1>
             <falscheAntwort2>kleine Mengen</falscheAntwort2>
             <falscheAntwort3>jeden fünften Tag</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1761,7 +1761,7 @@
             <falscheAntwort1>schlafen, fressen, trinken</falscheAntwort1>
             <falscheAntwort2>schlafen, aufwachen, räkeln, nach draußen gehen, fressen und trinken</falscheAntwort2>
             <falscheAntwort3>Sie schlafen durch.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1771,7 +1771,7 @@
             <falscheAntwort1>warten, bis ein Rudel Seehunde vorbeikommt</falscheAntwort1>
             <falscheAntwort2>Die dortige Obsternte plündern.</falscheAntwort2>
             <falscheAntwort3>in die warmen Iglus der Eskimos ziehen</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1781,7 +1781,7 @@
             <falscheAntwort1>Er liegt auf dem Rücken, um seine Fußsohlen zu verstecken.</falscheAntwort1>
             <falscheAntwort2>Er schläft ein.</falscheAntwort2>
             <falscheAntwort3>Er lockt den Seehund mit leisem Brummen an.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1791,7 +1791,7 @@
             <falscheAntwort1>weil sie meistens so alleine sind</falscheAntwort1>
             <falscheAntwort2>weil es soziale Tiere sind</falscheAntwort2>
             <falscheAntwort3>weil sie keine Angst kennen</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1801,7 +1801,7 @@
             <falscheAntwort1>Sie vertrauen einander nicht.</falscheAntwort1>
             <falscheAntwort2>Sie sind von Natur aus sehr schüchtern.</falscheAntwort2>
             <falscheAntwort3>Sie könnten sich sonst zu schnell verlieben.</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1811,7 +1811,7 @@
             <falscheAntwort1>aufstehen und sich gegenseitig abtasten</falscheAntwort1>
             <falscheAntwort2>sich hinsetzen und sich gegenseitig anschauen</falscheAntwort2>
             <falscheAntwort3>sich gegenseitig anbrummen</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -1821,7 +1821,7 @@
             <falscheAntwort1>Kennzeichnung der Bären durch Naturschützer</falscheAntwort1>
             <falscheAntwort2>bestimmte Geruchstypen</falscheAntwort2>
             <falscheAntwort3>bestimmte Stellen am Bärenkörper, die besonders gut riechen</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1831,7 +1831,7 @@
             <falscheAntwort1>Sie knurren und schreien.</falscheAntwort1>
             <falscheAntwort2>Sie flöten und pfeifen.</falscheAntwort2>
             <falscheAntwort3>Sie knurren und ächzen.</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1841,7 +1841,7 @@
             <falscheAntwort1>der Bering-Fluss</falscheAntwort1>
             <falscheAntwort2>der Anchorage-Fluss</falscheAntwort2>
             <falscheAntwort3>der Yukon-Fluss</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1851,7 +1851,7 @@
             <falscheAntwort1>3 - 4 Jahre</falscheAntwort1>
             <falscheAntwort2>sechs Monate</falscheAntwort2>
             <falscheAntwort3>immer</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1861,7 +1861,7 @@
             <falscheAntwort1>ja, bis die Jungen ungefähr ein Jahr alt sind</falscheAntwort1>
             <falscheAntwort2>ja, bis nach der Geburt der Jungen</falscheAntwort2>
             <falscheAntwort3>ja, für ein ganzes Bärenleben</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1871,7 +1871,7 @@
             <falscheAntwort1>wenn sie ihre Höhle fertig haben</falscheAntwort1>
             <falscheAntwort2>wenn sie zusammen jagen wollen</falscheAntwort2>
             <falscheAntwort3>wenn sie zusammen spielen wollen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1881,7 +1881,7 @@
             <falscheAntwort1>im Oktober und November</falscheAntwort1>
             <falscheAntwort2>im März und April</falscheAntwort2>
             <falscheAntwort3>im April und Mai</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1891,7 +1891,7 @@
             <falscheAntwort1>oft auf einem Baum</falscheAntwort1>
             <falscheAntwort2>einfach dort, wo es ihnen passt</falscheAntwort2>
             <falscheAntwort3>in Felsenhöhlen</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1901,7 +1901,7 @@
             <falscheAntwort1>Bären haben gerne Ruhe.</falscheAntwort1>
             <falscheAntwort2>sonst wehen Blätter in die Höhle</falscheAntwort2>
             <falscheAntwort3>sonst wir das Futter herausgeweht</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1911,7 +1911,7 @@
             <falscheAntwort1>in einer kleinen Gruppe nahe beieinander</falscheAntwort1>
             <falscheAntwort2>unter den Bäumen</falscheAntwort2>
             <falscheAntwort3>in Braunschweig</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1921,7 +1921,7 @@
             <falscheAntwort1>Die Mutter hat endlich Ruhe vor ihren Kleinen.</falscheAntwort1>
             <falscheAntwort2>Sie lernen dabei, gute Verlierer zu sein.</falscheAntwort2>
             <falscheAntwort3>Sie sind beschäftigt, während die Mutter Nahrung sucht.</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -1931,7 +1931,7 @@
             <falscheAntwort1>weil die ausgewachsenen Bären meist eine Wolf mit sich führen, der sie fressen will</falscheAntwort1>
             <falscheAntwort2>weil die Männchen oft ihre Mutter mitnehmen wollen</falscheAntwort2>
             <falscheAntwort3>weil die Männchen den Jungen verkehrte Dinge beibringen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1941,7 +1941,7 @@
             <falscheAntwort1>3 - 5 kg</falscheAntwort1>
             <falscheAntwort2>ca. 2 kg</falscheAntwort2>
             <falscheAntwort3>10 kg</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1951,7 +1951,7 @@
             <falscheAntwort1>weil eine Bärin meist Zwillinge oder Drillinge bekommt</falscheAntwort1>
             <falscheAntwort2>weil es ihm in dieser Zeit zu warm ist und im Herbst wieder angenehm ist</falscheAntwort2>
             <falscheAntwort3>Die Bärin muss lernen, trächtig zu werden.</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1961,7 +1961,7 @@
             <falscheAntwort1>Die erste Trächtigkeit dauert länger als die folgenden.</falscheAntwort1>
             <falscheAntwort2>Sie dauert 15 Monate.</falscheAntwort2>
             <falscheAntwort3>In der Trächtigkeit läuft die Bärin nur noch auf den Hintertatzen.</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1971,7 +1971,7 @@
             <falscheAntwort1>ja, vor allem auf Lavendelhonig</falscheAntwort1>
             <falscheAntwort2>nur die alten Bärendamen, weil sie harte Nahrung nicht mehr kauen können</falscheAntwort2>
             <falscheAntwort3>nein, das ist ein Märchen</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1981,7 +1981,7 @@
             <falscheAntwort1>Pizza</falscheAntwort1>
             <falscheAntwort2>Pfannekuchen</falscheAntwort2>
             <falscheAntwort3>Marmeladenbrote</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1991,7 +1991,7 @@
             <falscheAntwort1>weil ihm die größeren Bären oft zuvor kommen</falscheAntwort1>
             <falscheAntwort2>weil er so gierig ist</falscheAntwort2>
             <falscheAntwort3>weil er immer Hunger hat</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2001,7 +2001,7 @@
             <falscheAntwort1>dadurch, dass sie viel um die Nahrung kämpfen müssen</falscheAntwort1>
             <falscheAntwort2>durch die gesunde Seeluft</falscheAntwort2>
             <falscheAntwort3>durch die wenigen Balgereien mit anderen Bären</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2011,7 +2011,7 @@
             <falscheAntwort1>weil sie dort viele Spielkameraden haben</falscheAntwort1>
             <falscheAntwort2>weil es eine kleine Insel ist</falscheAntwort2>
             <falscheAntwort3>weil sie die Insel nicht verlassen können</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -2021,7 +2021,7 @@
             <falscheAntwort1>auf Neufundland</falscheAntwort1>
             <falscheAntwort2>in Deutschland</falscheAntwort2>
             <falscheAntwort3>auf Spitzbergen</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2031,7 +2031,7 @@
             <falscheAntwort1>1000 bis 10.000 Quadratkilometer</falscheAntwort1>
             <falscheAntwort2>100 bis 500 Quadratkilometer</falscheAntwort2>
             <falscheAntwort3>10 bis 20 Quadratkilometer</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2041,7 +2041,7 @@
             <falscheAntwort1>in Kanada, in den Vereinigten Staaten und in Russland</falscheAntwort1>
             <falscheAntwort2>im Schwarzwald</falscheAntwort2>
             <falscheAntwort3>in Nordamerika und in Nordeuropa</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2051,7 +2051,7 @@
             <falscheAntwort1>an der Größe seiner Füße</falscheAntwort1>
             <falscheAntwort2>anhand der Länge seiner Nägel</falscheAntwort2>
             <falscheAntwort3>am Geruch der Ohren</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -2061,7 +2061,7 @@
             <falscheAntwort1>73 Jahre</falscheAntwort1>
             <falscheAntwort2>65 Jahre</falscheAntwort2>
             <falscheAntwort3>82 Jahre</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2071,7 +2071,7 @@
             <falscheAntwort1>14 - 22 Jahre</falscheAntwort1>
             <falscheAntwort2>10 - 15 Jahre</falscheAntwort2>
             <falscheAntwort3>nicht älter als 10 Jahre</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2081,7 +2081,7 @@
             <falscheAntwort1>nur nachts, tagsüber ist es warm</falscheAntwort1>
             <falscheAntwort2>nein, er muss sich ausruhen, nachdem er nur einen Berg bestiegen hat</falscheAntwort2>
             <falscheAntwort3>nur die jungen Männchen haben ein großes Durchhaltevermögen</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -2091,7 +2091,7 @@
             <falscheAntwort1>Er bringt ihn zu einem Fluss und versteckt ihn unter Wasser.</falscheAntwort1>
             <falscheAntwort2>Er klettert mit dem Gerippe auf einen Baum.</falscheAntwort2>
             <falscheAntwort3>Er zieht sich das Fell über.</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -2101,7 +2101,7 @@
             <falscheAntwort1>nur, wenn er wirklich will</falscheAntwort1>
             <falscheAntwort2>nein, er ist stocktaub</falscheAntwort2>
             <falscheAntwort3>nein, ein kleiner Vogel sitzt in seinem Ohr und übersetzt alles</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -2111,7 +2111,7 @@
             <falscheAntwort1>nur morgens</falscheAntwort1>
             <falscheAntwort2>nein</falscheAntwort2>
             <falscheAntwort3>nur, wenn er gerade Lust dazu hat</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -2121,7 +2121,7 @@
             <falscheAntwort1>70 km</falscheAntwort1>
             <falscheAntwort2>50 km</falscheAntwort2>
             <falscheAntwort3>10 km</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2131,7 +2131,7 @@
             <falscheAntwort1>der Geschmackssinn</falscheAntwort1>
             <falscheAntwort2>der Tastsinn</falscheAntwort2>
             <falscheAntwort3>das Gehör</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -2141,7 +2141,7 @@
             <falscheAntwort1>um besser Schläge verteilen zu können</falscheAntwort1>
             <falscheAntwort2>um schneller laufen zu können</falscheAntwort2>
             <falscheAntwort3>um schneller Höhlen graben zu können</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2151,7 +2151,7 @@
             <falscheAntwort1>der Schwarzbär</falscheAntwort1>
             <falscheAntwort2>der Eisbär</falscheAntwort2>
             <falscheAntwort3>der Große Panda</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2161,7 +2161,7 @@
             <falscheAntwort1>3</falscheAntwort1>
             <falscheAntwort2>4</falscheAntwort2>
             <falscheAntwort3>2</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -2171,7 +2171,7 @@
             <falscheAntwort1>Zunge</falscheAntwort1>
             <falscheAntwort2>Achseln</falscheAntwort2>
             <falscheAntwort3>Ohren</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2181,7 +2181,7 @@
             <falscheAntwort1>Durchfall</falscheAntwort1>
             <falscheAntwort2>Bauchschmerzen</falscheAntwort2>
             <falscheAntwort3>Kopfschmerzen</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2191,7 +2191,7 @@
             <falscheAntwort1>um Nüsse knacken zu können</falscheAntwort1>
             <falscheAntwort2>um Beeren auspressen zu können</falscheAntwort2>
             <falscheAntwort3>um Fische entgräten zu können</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2201,7 +2201,7 @@
             <falscheAntwort1>Die weißen Haare haben einen schwarzen Kern, der die Wärme der Sonne aufnimmt.</falscheAntwort1>
             <falscheAntwort2>Es ist kurzhaarig.</falscheAntwort2>
             <falscheAntwort3>Das Fell wächst dreimal am Tag nach.</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2211,7 +2211,7 @@
             <falscheAntwort1>Schutz vor Insekten</falscheAntwort1>
             <falscheAntwort2>Schutzfarbe</falscheAntwort2>
             <falscheAntwort3>Schutz gegen Speere und Pfeile</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2221,7 +2221,7 @@
             <falscheAntwort1>Plattfüßler</falscheAntwort1>
             <falscheAntwort2>Fußgänger</falscheAntwort2>
             <falscheAntwort3>Spreizfüßler</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2231,7 +2231,7 @@
             <falscheAntwort1>Er geht ins Wasser und taucht unter.</falscheAntwort1>
             <falscheAntwort2>Er läuft einfach weiter.</falscheAntwort2>
             <falscheAntwort3>Er versteckt sich hinter einen Eisbrocken.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2241,7 +2241,7 @@
             <falscheAntwort1>Der Eisbär hat eine Art eingebauten Radar.</falscheAntwort1>
             <falscheAntwort2>indem er gut lauscht</falscheAntwort2>
             <falscheAntwort3>Der Eisbär hat sehr scharfe Augen.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2251,7 +2251,7 @@
             <falscheAntwort1>750 kg</falscheAntwort1>
             <falscheAntwort2>350 kg</falscheAntwort2>
             <falscheAntwort3>1050 kg</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2261,7 +2261,7 @@
             <falscheAntwort1>von Kabeljau</falscheAntwort1>
             <falscheAntwort2>von Schneehasen</falscheAntwort2>
             <falscheAntwort3>von Pinguinen</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2271,7 +2271,7 @@
             <falscheAntwort1>Konserven mit dem Dosenöffner öffnen</falscheAntwort1>
             <falscheAntwort2>verlassene Autos starten</falscheAntwort2>
             <falscheAntwort3>ausländische Karten lesen</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -2281,7 +2281,7 @@
             <falscheAntwort1>auf Hügeln</falscheAntwort1>
             <falscheAntwort2>in der Steppe</falscheAntwort2>
             <falscheAntwort3>im Gebirge</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -2291,7 +2291,7 @@
             <falscheAntwort1>braun</falscheAntwort1>
             <falscheAntwort2>grau</falscheAntwort2>
             <falscheAntwort3>schwarz</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -2301,7 +2301,7 @@
             <falscheAntwort1>Knochen</falscheAntwort1>
             <falscheAntwort2>Fett</falscheAntwort2>
             <falscheAntwort3>Hautfalten</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2311,7 +2311,7 @@
             <falscheAntwort1>der Eisbär</falscheAntwort1>
             <falscheAntwort2>der Schwarzbär</falscheAntwort2>
             <falscheAntwort3>der Waschbär</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2321,7 +2321,7 @@
             <falscheAntwort1>600 kg</falscheAntwort1>
             <falscheAntwort2>900 kg</falscheAntwort2>
             <falscheAntwort3>3.400 kg</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2331,7 +2331,7 @@
             <falscheAntwort1>1,5 - 2 m lang und 0,5 - 1 m hoch</falscheAntwort1>
             <falscheAntwort2>3 - 3,5 m lang und 2 m hoch</falscheAntwort2>
             <falscheAntwort3>4 - 5 m lang und 6 - 7 m hoch</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -2341,7 +2341,7 @@
             <falscheAntwort1>hält die Gelenke geschmeidig.</falscheAntwort1>
             <falscheAntwort2>hält die Feuchtigkeit besser.</falscheAntwort2>
             <falscheAntwort3>hält die Muskeln gelenkig.</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2351,7 +2351,7 @@
             <falscheAntwort1>im Inland von Australien</falscheAntwort1>
             <falscheAntwort2>in Sri Lanka</falscheAntwort2>
             <falscheAntwort3>im Inland von Java</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -2361,7 +2361,7 @@
             <falscheAntwort1>ein Beerenfresser</falscheAntwort1>
             <falscheAntwort2>ein Leckermaul</falscheAntwort2>
             <falscheAntwort3>ein Fischfresser</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2371,7 +2371,7 @@
             <falscheAntwort1>von Kokosnüssen</falscheAntwort1>
             <falscheAntwort2>von Sojakeimen</falscheAntwort2>
             <falscheAntwort3>von Paranüssen</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2381,7 +2381,7 @@
             <falscheAntwort1>Der Panda stammt vom Eisbären ab.</falscheAntwort1>
             <falscheAntwort2>Der Grizzly stammt vom Braunbären ab.</falscheAntwort2>
             <falscheAntwort3>Der Koala stammt vom Panda ab.</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2391,7 +2391,7 @@
             <falscheAntwort1>4</falscheAntwort1>
             <falscheAntwort2>6</falscheAntwort2>
             <falscheAntwort3>2</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2401,7 +2401,7 @@
             <falscheAntwort1>der tasmanische Teufel</falscheAntwort1>
             <falscheAntwort2>der australische Beutelbär</falscheAntwort2>
             <falscheAntwort3>der Kängurubär</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2411,7 +2411,7 @@
             <falscheAntwort1>vor 100.000 bis 200.000</falscheAntwort1>
             <falscheAntwort2>vor 2.000 bis 6.000 Jahren</falscheAntwort2>
             <falscheAntwort3>vor 2 bis 3 Millionen Jahren</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2421,7 +2421,7 @@
             <falscheAntwort1>Hannibal</falscheAntwort1>
             <falscheAntwort2>General</falscheAntwort2>
             <falscheAntwort3>Senegal</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2431,7 +2431,7 @@
             <falscheAntwort1>ca. 1 m</falscheAntwort1>
             <falscheAntwort2>ca. 2 m</falscheAntwort2>
             <falscheAntwort3>ca. 4 m</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -2441,7 +2441,7 @@
             <falscheAntwort1>über die Bahamas nach Florida</falscheAntwort1>
             <falscheAntwort2>über Grönland nach Neufundland</falscheAntwort2>
             <falscheAntwort3>über Mexiko nach Kanada</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2451,7 +2451,7 @@
             <falscheAntwort1>über den asiatischen Eisbären</falscheAntwort1>
             <falscheAntwort2>über den amerikanischen Bergbären</falscheAntwort2>
             <falscheAntwort3>über den afrikanischen Steppenbären</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2461,7 +2461,7 @@
             <falscheAntwort1>vor 100.000 Jahren</falscheAntwort1>
             <falscheAntwort2>vor 3 Millionen Jahren</falscheAntwort2>
             <falscheAntwort3>vor 6.500 Jahren</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2471,7 +2471,7 @@
             <falscheAntwort1>über die Bahamas nach Florida</falscheAntwort1>
             <falscheAntwort2>über Grönland nach Neufundland</falscheAntwort2>
             <falscheAntwort3>über Mexiko nach Kanada</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2481,7 +2481,7 @@
             <falscheAntwort1>Der Panda stammt vom Eisbären ab.</falscheAntwort1>
             <falscheAntwort2>Der Grizzly stammt vom Braunbären ab.</falscheAntwort2>
             <falscheAntwort3>Der Koala stammt vom Panda ab.</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>

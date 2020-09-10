@@ -11,7 +11,7 @@
             <falscheAntwort1>Kalle Wirsch</falscheAntwort1>
             <falscheAntwort2>Karl - Heinz</falscheAntwort2>
             <falscheAntwort3>Karl - Egon</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -21,7 +21,7 @@
             <falscheAntwort1>Sie küsste ihn.</falscheAntwort1>
             <falscheAntwort2>mit einem Zauberspruch</falscheAntwort2>
             <falscheAntwort3>mit viel Gold</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -31,7 +31,7 @@
             <falscheAntwort1>der Leser eines Buches</falscheAntwort1>
             <falscheAntwort2>der Käufer eines Buches</falscheAntwort2>
             <falscheAntwort3>der Verkäufer eines Buches</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -41,7 +41,7 @@
             <falscheAntwort1>sein Ohr wächst</falscheAntwort1>
             <falscheAntwort2>seine Haare wachsen</falscheAntwort2>
             <falscheAntwort3>seine Finger wachsen</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -51,7 +51,7 @@
             <falscheAntwort1>Österreich</falscheAntwort1>
             <falscheAntwort2>Deutschland</falscheAntwort2>
             <falscheAntwort3>Schweden</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -61,7 +61,7 @@
             <falscheAntwort1>Old Shatterhand</falscheAntwort1>
             <falscheAntwort2>Old Surehand</falscheAntwort2>
             <falscheAntwort3>Der letzte Mohikaner</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -71,7 +71,7 @@
             <falscheAntwort1>Aschenputtel</falscheAntwort1>
             <falscheAntwort2>Die unendliche Geschichte</falscheAntwort2>
             <falscheAntwort3>Pippi Langstrumpf</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -81,7 +81,7 @@
             <falscheAntwort1>Lomo</falscheAntwort1>
             <falscheAntwort2>Komo</falscheAntwort2>
             <falscheAntwort3>Nomo</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -91,7 +91,7 @@
             <falscheAntwort1>Pan Tau</falscheAntwort1>
             <falscheAntwort2>Prinz Löwenherz</falscheAntwort2>
             <falscheAntwort3>Mein Märchenbuch</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -101,7 +101,7 @@
             <falscheAntwort1>Thomas und Monika</falscheAntwort1>
             <falscheAntwort2>Thorsten und Annika</falscheAntwort2>
             <falscheAntwort3>Fabian und Felicitas</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -111,7 +111,7 @@
             <falscheAntwort1>Enten</falscheAntwort1>
             <falscheAntwort2>Gänse</falscheAntwort2>
             <falscheAntwort3>Katzen</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -121,7 +121,7 @@
             <falscheAntwort1>Dornröschen</falscheAntwort1>
             <falscheAntwort2>Rumpelstilzchen</falscheAntwort2>
             <falscheAntwort3>Rapunzel</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -131,7 +131,7 @@
             <falscheAntwort1>Christian Hans</falscheAntwort1>
             <falscheAntwort2>Karl - Heinz</falscheAntwort2>
             <falscheAntwort3>Lars Friedrich</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -141,7 +141,7 @@
             <falscheAntwort1>Karl Kranich</falscheAntwort1>
             <falscheAntwort2>Kurt Geier</falscheAntwort2>
             <falscheAntwort3>Konrad Meise</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -151,7 +151,7 @@
             <falscheAntwort1>einen Schlag auf den Po</falscheAntwort1>
             <falscheAntwort2>einen Kuchen</falscheAntwort2>
             <falscheAntwort3>seinen Lohn</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -161,7 +161,7 @@
             <falscheAntwort1>Max und Anton</falscheAntwort1>
             <falscheAntwort2>Karl und Moritz</falscheAntwort2>
             <falscheAntwort3>Anton und Karl</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -171,7 +171,7 @@
             <falscheAntwort1>ein Taschenbuch</falscheAntwort1>
             <falscheAntwort2>ein billiges Buch</falscheAntwort2>
             <falscheAntwort3>ein sehr altes Buch</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -181,7 +181,7 @@
             <falscheAntwort1>Donnerstag</falscheAntwort1>
             <falscheAntwort2>Mittwoch</falscheAntwort2>
             <falscheAntwort3>Samstag</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -191,7 +191,7 @@
             <falscheAntwort1>am Südpol</falscheAntwort1>
             <falscheAntwort2>in Indien</falscheAntwort2>
             <falscheAntwort3>in Afrika</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -201,7 +201,7 @@
             <falscheAntwort1>Hänsel und Gretel</falscheAntwort1>
             <falscheAntwort2>Schneewittchen</falscheAntwort2>
             <falscheAntwort3>Rotkäppchen</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -211,7 +211,7 @@
             <falscheAntwort1>Frau Holle</falscheAntwort1>
             <falscheAntwort2>Der Froschkönig</falscheAntwort2>
             <falscheAntwort3>Das tapfere Schneiderlein</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -221,7 +221,7 @@
             <falscheAntwort1>Paul</falscheAntwort1>
             <falscheAntwort2>Erwin</falscheAntwort2>
             <falscheAntwort3>Peter</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -231,7 +231,7 @@
             <falscheAntwort1>Birne</falscheAntwort1>
             <falscheAntwort2>Kirsche</falscheAntwort2>
             <falscheAntwort3>Pflaume</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -241,7 +241,7 @@
             <falscheAntwort1>Schneeweißchen und Rosenrot</falscheAntwort1>
             <falscheAntwort2>Aschenputtel</falscheAntwort2>
             <falscheAntwort3>Dornröschen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -251,7 +251,7 @@
             <falscheAntwort1>Villa Hügel</falscheAntwort1>
             <falscheAntwort2>Schloss Kunterbunt</falscheAntwort2>
             <falscheAntwort3>Burg Pippilotta</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -261,7 +261,7 @@
             <falscheAntwort1>Jemanden, der nicht liest.</falscheAntwort1>
             <falscheAntwort2>Jemanden, der Tierbücher liest.</falscheAntwort2>
             <falscheAntwort3>einen kleinen Käfer</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -271,7 +271,7 @@
             <falscheAntwort1>Wohnmobil</falscheAntwort1>
             <falscheAntwort2>Zelt</falscheAntwort2>
             <falscheAntwort3>Schloss</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -281,7 +281,7 @@
             <falscheAntwort1>die Molchis</falscheAntwort1>
             <falscheAntwort2>die Müllis</falscheAntwort2>
             <falscheAntwort3>die Güllis</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -291,7 +291,7 @@
             <falscheAntwort1>Tom, Karin, Kurt und Gerd</falscheAntwort1>
             <falscheAntwort2>Theo, Klärchen, Karl und Gustav</falscheAntwort2>
             <falscheAntwort3>Tarzan, Kleiner, Klaus und Gero</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -301,7 +301,7 @@
             <falscheAntwort1>Kobold</falscheAntwort1>
             <falscheAntwort2>Puschel</falscheAntwort2>
             <falscheAntwort3>Fridolin</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -311,7 +311,7 @@
             <falscheAntwort1>Klotzkopf</falscheAntwort1>
             <falscheAntwort2>Potzblitz</falscheAntwort2>
             <falscheAntwort3>Großkotz</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -321,7 +321,7 @@
             <falscheAntwort1>Immersatt</falscheAntwort1>
             <falscheAntwort2>Immergrün</falscheAntwort2>
             <falscheAntwort3>Nimm es weg</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -331,7 +331,7 @@
             <falscheAntwort1>Affen</falscheAntwort1>
             <falscheAntwort2>Monster</falscheAntwort2>
             <falscheAntwort3>Tiere</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -341,7 +341,7 @@
             <falscheAntwort1>Wuppertal</falscheAntwort1>
             <falscheAntwort2>Bielefeld</falscheAntwort2>
             <falscheAntwort3>Magdeburg</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -351,7 +351,7 @@
             <falscheAntwort1>Sonja</falscheAntwort1>
             <falscheAntwort2>Monja</falscheAntwort2>
             <falscheAntwort3>Anna</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -361,7 +361,7 @@
             <falscheAntwort1>Sylt</falscheAntwort1>
             <falscheAntwort2>Juist</falscheAntwort2>
             <falscheAntwort3>Sansibar</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -371,7 +371,7 @@
             <falscheAntwort1>6</falscheAntwort1>
             <falscheAntwort2>4</falscheAntwort2>
             <falscheAntwort3>3</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -381,7 +381,7 @@
             <falscheAntwort1>5</falscheAntwort1>
             <falscheAntwort2>6</falscheAntwort2>
             <falscheAntwort3>8</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -391,7 +391,7 @@
             <falscheAntwort1>Hansi</falscheAntwort1>
             <falscheAntwort2>Maria</falscheAntwort2>
             <falscheAntwort3>Heidi</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -401,7 +401,7 @@
             <falscheAntwort1>Die Stadtleoparden</falscheAntwort1>
             <falscheAntwort2>Die Landratten</falscheAntwort2>
             <falscheAntwort3>Die Dorflöwen</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -411,7 +411,7 @@
             <falscheAntwort1>12 Jahre</falscheAntwort1>
             <falscheAntwort2>65 Jahre</falscheAntwort2>
             <falscheAntwort3>234 Jahre</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -421,7 +421,7 @@
             <falscheAntwort1>Heidi</falscheAntwort1>
             <falscheAntwort2>Britta</falscheAntwort2>
             <falscheAntwort3>Susen</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -431,7 +431,7 @@
             <falscheAntwort1>Entenhaut</falscheAntwort1>
             <falscheAntwort2>Elefantenhaut</falscheAntwort2>
             <falscheAntwort3>Gespensterspuk</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -441,7 +441,7 @@
             <falscheAntwort1>Der kleine Geist</falscheAntwort1>
             <falscheAntwort2>Das Nachtgespenst</falscheAntwort2>
             <falscheAntwort3>Das Taggespenst</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -451,7 +451,7 @@
             <falscheAntwort1>Autofahrer</falscheAntwort1>
             <falscheAntwort2>Fahrradfahrer</falscheAntwort2>
             <falscheAntwort3>Schiffskapitän</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -461,7 +461,7 @@
             <falscheAntwort1>Horde</falscheAntwort1>
             <falscheAntwort2>Meute</falscheAntwort2>
             <falscheAntwort3>7</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -471,7 +471,7 @@
             <falscheAntwort1>Leo</falscheAntwort1>
             <falscheAntwort2>Schatz</falscheAntwort2>
             <falscheAntwort3>Freund</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -481,7 +481,7 @@
             <falscheAntwort1>Die Hexe von Ex</falscheAntwort1>
             <falscheAntwort2>Der Vampir von Um</falscheAntwort2>
             <falscheAntwort3>Das Gespenst von Hi</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -491,7 +491,7 @@
             <falscheAntwort1>Roberta Kräftig</falscheAntwort1>
             <falscheAntwort2>Karla Stark</falscheAntwort2>
             <falscheAntwort3>Monika Mutig</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -501,7 +501,7 @@
             <falscheAntwort1>Mausi</falscheAntwort1>
             <falscheAntwort2>Cheeky</falscheAntwort2>
             <falscheAntwort3>Diddle</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -511,7 +511,7 @@
             <falscheAntwort1>Asterix</falscheAntwort1>
             <falscheAntwort2>Majestix</falscheAntwort2>
             <falscheAntwort3>Garnix</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -521,7 +521,7 @@
             <falscheAntwort1>Freundix</falscheAntwort1>
             <falscheAntwort2>Geofix</falscheAntwort2>
             <falscheAntwort3>Beimix</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -531,7 +531,7 @@
             <falscheAntwort1>Pluto</falscheAntwort1>
             <falscheAntwort2>Idefix</falscheAntwort2>
             <falscheAntwort3>Wuffy</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -541,7 +541,7 @@
             <falscheAntwort1>H.P. und die Kammer des Schreckens</falscheAntwort1>
             <falscheAntwort2>H.P. und der Gefangene von Askaban</falscheAntwort2>
             <falscheAntwort3>H.P. und der Feuerkelch</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -551,7 +551,7 @@
             <falscheAntwort1>H.P. und der Stein der Weisen</falscheAntwort1>
             <falscheAntwort2>H.P. und der Gefangene von Askaban</falscheAntwort2>
             <falscheAntwort3>H.P. und der Feuerkelch</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -561,7 +561,7 @@
             <falscheAntwort1>H.P. und der Stein der Weisen</falscheAntwort1>
             <falscheAntwort2>H.P. und die Kammer des Schreckens</falscheAntwort2>
             <falscheAntwort3>H.P. und der Feuerkelch</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -571,7 +571,7 @@
             <falscheAntwort1>H.P. und der Stein der Weisen</falscheAntwort1>
             <falscheAntwort2>H.P. und die Kammer des Schreckens</falscheAntwort2>
             <falscheAntwort3>H.P. und der Gefangene von Askaban</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -581,7 +581,7 @@
             <falscheAntwort1>ein Riese</falscheAntwort1>
             <falscheAntwort2>ein Mönch</falscheAntwort2>
             <falscheAntwort3>ein Vampir</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -591,7 +591,7 @@
             <falscheAntwort1>eine Bibel für Frauen</falscheAntwort1>
             <falscheAntwort2>ein Kochbuch</falscheAntwort2>
             <falscheAntwort3>ein Lexikon</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -601,7 +601,7 @@
             <falscheAntwort1>ein komisches Buch</falscheAntwort1>
             <falscheAntwort2>ein kostbares Buch</falscheAntwort2>
             <falscheAntwort3>ein olles Buch</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -611,7 +611,7 @@
             <falscheAntwort1>Leseelefanten</falscheAntwort1>
             <falscheAntwort2>Lesepferde</falscheAntwort2>
             <falscheAntwort3>Lesehunde</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -621,7 +621,7 @@
             <falscheAntwort1>Erich Kästner</falscheAntwort1>
             <falscheAntwort2>Wilhelm Busch</falscheAntwort2>
             <falscheAntwort3>Enid Blyton</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -631,7 +631,7 @@
             <falscheAntwort1>Norwegen</falscheAntwort1>
             <falscheAntwort2>Dänemark</falscheAntwort2>
             <falscheAntwort3>Finnland</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -641,7 +641,7 @@
             <falscheAntwort1>Linus</falscheAntwort1>
             <falscheAntwort2>Minus</falscheAntwort2>
             <falscheAntwort3>Fauchi</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -651,7 +651,7 @@
             <falscheAntwort1>Der Seeräuber</falscheAntwort1>
             <falscheAntwort2>Das Piratenschiff</falscheAntwort2>
             <falscheAntwort3>Der Piratenschatz</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -661,7 +661,7 @@
             <falscheAntwort1>Tabaluga</falscheAntwort1>
             <falscheAntwort2>Strolchi</falscheAntwort2>
             <falscheAntwort3>Damokles</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -671,7 +671,7 @@
             <falscheAntwort1>Jakob</falscheAntwort1>
             <falscheAntwort2>Palamino</falscheAntwort2>
             <falscheAntwort3>Sarazena</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -681,7 +681,7 @@
             <falscheAntwort1>Tiger und Löwe</falscheAntwort1>
             <falscheAntwort2>Bär und Löwe</falscheAntwort2>
             <falscheAntwort3>Löwe und Bär</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -691,7 +691,7 @@
             <falscheAntwort1>101</falscheAntwort1>
             <falscheAntwort2>einer langen</falscheAntwort2>
             <falscheAntwort3>einer dunklen</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -701,7 +701,7 @@
             <falscheAntwort1>20</falscheAntwort1>
             <falscheAntwort2>60</falscheAntwort2>
             <falscheAntwort3>80</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -711,7 +711,7 @@
             <falscheAntwort1>Montage</falscheAntwort1>
             <falscheAntwort2>Sonntage</falscheAntwort2>
             <falscheAntwort3>Freitage</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -721,7 +721,7 @@
             <falscheAntwort1>Ei</falscheAntwort1>
             <falscheAntwort2>Sand</falscheAntwort2>
             <falscheAntwort3>Fels</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -731,7 +731,7 @@
             <falscheAntwort1>eine Bibelfabrik</falscheAntwort1>
             <falscheAntwort2>eine kleine Bibel</falscheAntwort2>
             <falscheAntwort3>eine französische Bank</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -741,7 +741,7 @@
             <falscheAntwort1>Old Surehand</falscheAntwort1>
             <falscheAntwort2>Kara Ben Nemsi</falscheAntwort2>
             <falscheAntwort3>Hadschi Halef Omar</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -751,7 +751,7 @@
             <falscheAntwort1>Ausrufezeichen</falscheAntwort1>
             <falscheAntwort2>Punkte</falscheAntwort2>
             <falscheAntwort3>Verkehrszeichen</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -761,7 +761,7 @@
             <falscheAntwort1>Großer Onkel</falscheAntwort1>
             <falscheAntwort2>Kleine Tante</falscheAntwort2>
             <falscheAntwort3>Große Tante</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -771,7 +771,7 @@
             <falscheAntwort1>Hirsch</falscheAntwort1>
             <falscheAntwort2>Blomquist</falscheAntwort2>
             <falscheAntwort3>Rummenigge</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -781,7 +781,7 @@
             <falscheAntwort1>Lärmgasse</falscheAntwort1>
             <falscheAntwort2>Brüllsiedlung</falscheAntwort2>
             <falscheAntwort3>Schreilautstraße</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -791,7 +791,7 @@
             <falscheAntwort1>Wawa</falscheAntwort1>
             <falscheAntwort2>Wutz</falscheAntwort2>
             <falscheAntwort3>Schusch</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -801,7 +801,7 @@
             <falscheAntwort1>Karl Klecks</falscheAntwort1>
             <falscheAntwort2>Toni Tintenfleck</falscheAntwort2>
             <falscheAntwort3>Kurt Kleckerer</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -811,7 +811,7 @@
             <falscheAntwort1>Anton</falscheAntwort1>
             <falscheAntwort2>Rudolf</falscheAntwort2>
             <falscheAntwort3>Albert</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -821,7 +821,7 @@
             <falscheAntwort1>Die Fledermaus</falscheAntwort1>
             <falscheAntwort2>Der Vampirwicht</falscheAntwort2>
             <falscheAntwort3>Wichtelchen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -831,7 +831,7 @@
             <falscheAntwort1>ein Liederbuch</falscheAntwort1>
             <falscheAntwort2>ein Kochbuch</falscheAntwort2>
             <falscheAntwort3>ein Buch über Mexiko</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>

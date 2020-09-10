@@ -11,7 +11,7 @@
             <falscheAntwort1>falsch</falscheAntwort1>
             <falscheAntwort2>falsch</falscheAntwort2>
             <falscheAntwort3>falsch</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -21,7 +21,7 @@
             <falscheAntwort1>den Umfang</falscheAntwort1>
             <falscheAntwort2>die Fläche</falscheAntwort2>
             <falscheAntwort3>die Diagonale</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -31,7 +31,7 @@
             <falscheAntwort1>den Radius</falscheAntwort1>
             <falscheAntwort2>die Fläche</falscheAntwort2>
             <falscheAntwort3>die Sekante</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -41,7 +41,7 @@
             <falscheAntwort1>eine Ellipse</falscheAntwort1>
             <falscheAntwort2>ein Quadrat</falscheAntwort2>
             <falscheAntwort3>einen Kolloid</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -51,7 +51,7 @@
             <falscheAntwort1>Dreieck</falscheAntwort1>
             <falscheAntwort2>Quadrat</falscheAntwort2>
             <falscheAntwort3>Ziegenviereck</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -61,7 +61,7 @@
             <falscheAntwort1>versechsfacht</falscheAntwort1>
             <falscheAntwort2>verdoppelt</falscheAntwort2>
             <falscheAntwort3>verachtfacht</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -71,7 +71,7 @@
             <falscheAntwort1>einen</falscheAntwort1>
             <falscheAntwort2>drei</falscheAntwort2>
             <falscheAntwort3>vier</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -81,7 +81,7 @@
             <falscheAntwort1>doppelt so groß</falscheAntwort1>
             <falscheAntwort2>dreimal so groß</falscheAntwort2>
             <falscheAntwort3>Pi-mal so groß</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -91,7 +91,7 @@
             <falscheAntwort1>die Hältfte</falscheAntwort1>
             <falscheAntwort2>ein Sechzehntel</falscheAntwort2>
             <falscheAntwort3>ein Viertel</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -101,7 +101,7 @@
             <falscheAntwort1>3mal so groß</falscheAntwort1>
             <falscheAntwort2>6mal so groß</falscheAntwort2>
             <falscheAntwort3>12mal so groß</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -111,7 +111,7 @@
             <falscheAntwort1>stimmt nicht</falscheAntwort1>
             <falscheAntwort2>stimmt für einige Punkte</falscheAntwort2>
             <falscheAntwort3>stimmt bei kleinen Kreisen</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>2</schwierigkeitMax>
         </frage>
@@ -121,7 +121,7 @@
             <falscheAntwort1>60°</falscheAntwort1>
             <falscheAntwort2>120°</falscheAntwort2>
             <falscheAntwort3>180°</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -131,7 +131,7 @@
             <falscheAntwort1>kommunistisch</falscheAntwort1>
             <falscheAntwort2>kongenial</falscheAntwort2>
             <falscheAntwort3>kongruent</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -141,7 +141,7 @@
             <falscheAntwort1>die Diagonale</falscheAntwort1>
             <falscheAntwort2>Mittelsekante</falscheAntwort2>
             <falscheAntwort3>ein Viertel des Umfangs</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>3</schwierigkeitMax>
         </frage>
@@ -151,7 +151,7 @@
             <falscheAntwort1>schneiden sich.</falscheAntwort1>
             <falscheAntwort2>schneiden sich außerhalb des Kreises.</falscheAntwort2>
             <falscheAntwort3>schneiden sich nicht.</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -161,7 +161,7 @@
             <falscheAntwort1>falsch</falscheAntwort1>
             <falscheAntwort2>falsch</falscheAntwort2>
             <falscheAntwort3>falsch</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -171,7 +171,7 @@
             <falscheAntwort1>89°</falscheAntwort1>
             <falscheAntwort2>88°</falscheAntwort2>
             <falscheAntwort3>90°</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>2</schwierigkeitMax>
         </frage>
@@ -181,7 +181,7 @@
             <falscheAntwort1>90°</falscheAntwort1>
             <falscheAntwort2>91°</falscheAntwort2>
             <falscheAntwort3>92°</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -191,7 +191,7 @@
             <falscheAntwort1>190°</falscheAntwort1>
             <falscheAntwort2>210°</falscheAntwort2>
             <falscheAntwort3>250°</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -201,7 +201,7 @@
             <falscheAntwort1>150°</falscheAntwort1>
             <falscheAntwort2>180°</falscheAntwort2>
             <falscheAntwort3>120°</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>2</schwierigkeitMax>
         </frage>
@@ -211,7 +211,7 @@
             <falscheAntwort1>Nachbarwinkel</falscheAntwort1>
             <falscheAntwort2>Wechselwinkel</falscheAntwort2>
             <falscheAntwort3>Mittelpunktswinkel</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -221,7 +221,7 @@
             <falscheAntwort1>die Höhe</falscheAntwort1>
             <falscheAntwort2>die längere Kathete</falscheAntwort2>
             <falscheAntwort3>die Diagonale</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -231,7 +231,7 @@
             <falscheAntwort1>70°</falscheAntwort1>
             <falscheAntwort2>80°</falscheAntwort2>
             <falscheAntwort3>90°</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -241,7 +241,7 @@
             <falscheAntwort1>70°</falscheAntwort1>
             <falscheAntwort2>45°</falscheAntwort2>
             <falscheAntwort3>50°</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -251,7 +251,7 @@
             <falscheAntwort1>70°</falscheAntwort1>
             <falscheAntwort2>80°</falscheAntwort2>
             <falscheAntwort3>60°</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -261,7 +261,7 @@
             <falscheAntwort1>120°</falscheAntwort1>
             <falscheAntwort2>140°</falscheAntwort2>
             <falscheAntwort3>160°</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -271,7 +271,7 @@
             <falscheAntwort1>120°</falscheAntwort1>
             <falscheAntwort2>140°</falscheAntwort2>
             <falscheAntwort3>160°</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -281,7 +281,7 @@
             <falscheAntwort1>30°</falscheAntwort1>
             <falscheAntwort2>75°</falscheAntwort2>
             <falscheAntwort3>90°</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -291,7 +291,7 @@
             <falscheAntwort1>45°</falscheAntwort1>
             <falscheAntwort2>75°</falscheAntwort2>
             <falscheAntwort3>60°</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -301,7 +301,7 @@
             <falscheAntwort1>doppelt so groß</falscheAntwort1>
             <falscheAntwort2>viermal so groß</falscheAntwort2>
             <falscheAntwort3>zweieinhalb mal so groß</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -311,7 +311,7 @@
             <falscheAntwort1>Mittelsenkrechten</falscheAntwort1>
             <falscheAntwort2>Höhen</falscheAntwort2>
             <falscheAntwort3>Diagonalen</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -321,7 +321,7 @@
             <falscheAntwort1>Winkelhalbierenden</falscheAntwort1>
             <falscheAntwort2>Höhen</falscheAntwort2>
             <falscheAntwort3>Diagonalen</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -331,7 +331,7 @@
             <falscheAntwort1>stumpfwinkliges Dreieck</falscheAntwort1>
             <falscheAntwort2>gleichseitiges Dreieck</falscheAntwort2>
             <falscheAntwort3>gleichschenkliges Dreieck</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -341,7 +341,7 @@
             <falscheAntwort1>ein Rechteck</falscheAntwort1>
             <falscheAntwort2>ein Dreieck</falscheAntwort2>
             <falscheAntwort3>einen Kreis</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -351,7 +351,7 @@
             <falscheAntwort1>eine Pyramide</falscheAntwort1>
             <falscheAntwort2>eine Kugel</falscheAntwort2>
             <falscheAntwort3>einen Würfel</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -361,7 +361,7 @@
             <falscheAntwort1>zweimal</falscheAntwort1>
             <falscheAntwort2>viermal</falscheAntwort2>
             <falscheAntwort3>Pi-mal</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -371,7 +371,7 @@
             <falscheAntwort1>zwei</falscheAntwort1>
             <falscheAntwort2>vier</falscheAntwort2>
             <falscheAntwort3>fünf</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -381,7 +381,7 @@
             <falscheAntwort1>vier</falscheAntwort1>
             <falscheAntwort2>zwei</falscheAntwort2>
             <falscheAntwort3>fünf</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -391,7 +391,7 @@
             <falscheAntwort1/>
             <falscheAntwort2/>
             <falscheAntwort3/>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -401,7 +401,7 @@
             <falscheAntwort1>vertikal</falscheAntwort1>
             <falscheAntwort2>diagonal</falscheAntwort2>
             <falscheAntwort3>tangential</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -411,7 +411,7 @@
             <falscheAntwort1>Ikosaeder</falscheAntwort1>
             <falscheAntwort2>Oktaeder</falscheAntwort2>
             <falscheAntwort3>Tetraeder</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -421,7 +421,7 @@
             <falscheAntwort1>Oktaeder</falscheAntwort1>
             <falscheAntwort2>Tetraeder</falscheAntwort2>
             <falscheAntwort3>Würfel</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -431,7 +431,7 @@
             <falscheAntwort1>waagerecht</falscheAntwort1>
             <falscheAntwort2>senkrecht</falscheAntwort2>
             <falscheAntwort3>diagonal</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -441,7 +441,7 @@
             <falscheAntwort1>die Höhe</falscheAntwort1>
             <falscheAntwort2>den Durchmesser</falscheAntwort2>
             <falscheAntwort3>die Sekante</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -451,7 +451,7 @@
             <falscheAntwort1>Sekante</falscheAntwort1>
             <falscheAntwort2>Diagonale</falscheAntwort2>
             <falscheAntwort3>Horizontale</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -461,7 +461,7 @@
             <falscheAntwort1>die Diagonale</falscheAntwort1>
             <falscheAntwort2>die Tangente</falscheAntwort2>
             <falscheAntwort3>die Sekante</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>3</schwierigkeitMax>
         </frage>
@@ -471,7 +471,7 @@
             <falscheAntwort1>Quadrat</falscheAntwort1>
             <falscheAntwort2>Senkrechte</falscheAntwort2>
             <falscheAntwort3>Diagonalen</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -481,7 +481,7 @@
             <falscheAntwort1>Ankathete durch Hypotenuse</falscheAntwort1>
             <falscheAntwort2>Gegenkathete durch Ankathete</falscheAntwort2>
             <falscheAntwort3>Ankathete durch Gegenkathete</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -491,7 +491,7 @@
             <falscheAntwort1>Kegel</falscheAntwort1>
             <falscheAntwort2>Kegelstumpf</falscheAntwort2>
             <falscheAntwort3>Kegelrumpf</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -501,7 +501,7 @@
             <falscheAntwort1>Thales von Milet</falscheAntwort1>
             <falscheAntwort2>Diogenes</falscheAntwort2>
             <falscheAntwort3>Sokrates</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -511,7 +511,7 @@
             <falscheAntwort1>ein Drittel</falscheAntwort1>
             <falscheAntwort2>ein Neuntel</falscheAntwort2>
             <falscheAntwort3>ein 81stel</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -521,7 +521,7 @@
             <falscheAntwort1>Rechteck - Quader</falscheAntwort1>
             <falscheAntwort2>Fünfeck - Fünfeckprisma</falscheAntwort2>
             <falscheAntwort3>Kreis - Zylinder</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -531,7 +531,7 @@
             <falscheAntwort1>vier</falscheAntwort1>
             <falscheAntwort2>acht</falscheAntwort2>
             <falscheAntwort3>zehn</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>2</schwierigkeitMax>
         </frage>
@@ -541,7 +541,7 @@
             <falscheAntwort1>sechs</falscheAntwort1>
             <falscheAntwort2>acht</falscheAntwort2>
             <falscheAntwort3>zehn</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -551,7 +551,7 @@
             <falscheAntwort1>vervierfacht</falscheAntwort1>
             <falscheAntwort2>versechsfacht</falscheAntwort2>
             <falscheAntwort3>verdoppelt</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -561,7 +561,7 @@
             <falscheAntwort1>viermal so groß</falscheAntwort1>
             <falscheAntwort2>dreimal so groß</falscheAntwort2>
             <falscheAntwort3>doppelt so groß</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -571,7 +571,7 @@
             <falscheAntwort1>Oktaeder</falscheAntwort1>
             <falscheAntwort2>Ikosaeder</falscheAntwort2>
             <falscheAntwort3>Dodekaeder</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -581,7 +581,7 @@
             <falscheAntwort1>60°</falscheAntwort1>
             <falscheAntwort2>80°</falscheAntwort2>
             <falscheAntwort3>120°</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -591,7 +591,7 @@
             <falscheAntwort1>zwei</falscheAntwort1>
             <falscheAntwort2>vier</falscheAntwort2>
             <falscheAntwort3>sechs</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>2</schwierigkeitMax>
         </frage>
@@ -601,7 +601,7 @@
             <falscheAntwort1>versechsfacht</falscheAntwort1>
             <falscheAntwort2>verdoppelt</falscheAntwort2>
             <falscheAntwort3>verachtfacht</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -611,7 +611,7 @@
             <falscheAntwort1>fünf</falscheAntwort1>
             <falscheAntwort2>acht</falscheAntwort2>
             <falscheAntwort3>vier</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -621,7 +621,7 @@
             <falscheAntwort1>10</falscheAntwort1>
             <falscheAntwort2>8</falscheAntwort2>
             <falscheAntwort3>16</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -631,7 +631,7 @@
             <falscheAntwort1>vier</falscheAntwort1>
             <falscheAntwort2>drei</falscheAntwort2>
             <falscheAntwort3>sechs</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -641,7 +641,7 @@
             <falscheAntwort1>Zylinder</falscheAntwort1>
             <falscheAntwort2>Pyramide</falscheAntwort2>
             <falscheAntwort3>Kegel</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -651,7 +651,7 @@
             <falscheAntwort1>90°</falscheAntwort1>
             <falscheAntwort2>80°</falscheAntwort2>
             <falscheAntwort3>120°</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -661,7 +661,7 @@
             <falscheAntwort1>vier</falscheAntwort1>
             <falscheAntwort2>sechs</falscheAntwort2>
             <falscheAntwort3>sieben</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -671,7 +671,7 @@
             <falscheAntwort1>vier</falscheAntwort1>
             <falscheAntwort2>fünf</falscheAntwort2>
             <falscheAntwort3>sechs</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -681,7 +681,7 @@
             <falscheAntwort1>zwei</falscheAntwort1>
             <falscheAntwort2>vier</falscheAntwort2>
             <falscheAntwort3>sechs</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -691,7 +691,7 @@
             <falscheAntwort1>Dreiecksprisma</falscheAntwort1>
             <falscheAntwort2>Zylinder</falscheAntwort2>
             <falscheAntwort3>Würfel</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -701,7 +701,7 @@
             <falscheAntwort1>Quadrat</falscheAntwort1>
             <falscheAntwort2>Okateder</falscheAntwort2>
             <falscheAntwort3>Rechteck</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -711,7 +711,7 @@
             <falscheAntwort1>9</falscheAntwort1>
             <falscheAntwort2>12</falscheAntwort2>
             <falscheAntwort3>16</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -721,7 +721,7 @@
             <falscheAntwort1>8</falscheAntwort1>
             <falscheAntwort2>6</falscheAntwort2>
             <falscheAntwort3>5</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -731,7 +731,7 @@
             <falscheAntwort1>6</falscheAntwort1>
             <falscheAntwort2>10</falscheAntwort2>
             <falscheAntwort3>12</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -741,7 +741,7 @@
             <falscheAntwort1>doppelt so lang</falscheAntwort1>
             <falscheAntwort2>dreimal so lang</falscheAntwort2>
             <falscheAntwort3>sechsmal so lang</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -751,7 +751,7 @@
             <falscheAntwort1>drei</falscheAntwort1>
             <falscheAntwort2>fünf</falscheAntwort2>
             <falscheAntwort3>zwei</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -761,7 +761,7 @@
             <falscheAntwort1>Quadrat</falscheAntwort1>
             <falscheAntwort2>Rechteck</falscheAntwort2>
             <falscheAntwort3>Rhombus</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -771,7 +771,7 @@
             <falscheAntwort1>Quadrat</falscheAntwort1>
             <falscheAntwort2>Rechteck</falscheAntwort2>
             <falscheAntwort3>Rhombus</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -781,7 +781,7 @@
             <falscheAntwort1>verdreifacht</falscheAntwort1>
             <falscheAntwort2>verdoppelt</falscheAntwort2>
             <falscheAntwort3>verachtfacht</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -791,7 +791,7 @@
             <falscheAntwort1>a = 5m; b = 7m</falscheAntwort1>
             <falscheAntwort2>a = 7m; b = 5m</falscheAntwort2>
             <falscheAntwort3>a = 11m; b = 1m</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -801,7 +801,7 @@
             <falscheAntwort1>10</falscheAntwort1>
             <falscheAntwort2>100</falscheAntwort2>
             <falscheAntwort3>10000</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -811,7 +811,7 @@
             <falscheAntwort1>1.000</falscheAntwort1>
             <falscheAntwort2>100</falscheAntwort2>
             <falscheAntwort3>100.000</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -821,7 +821,7 @@
             <falscheAntwort1>1.000</falscheAntwort1>
             <falscheAntwort2>100.000</falscheAntwort2>
             <falscheAntwort3>1.000.000</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -831,7 +831,7 @@
             <falscheAntwort1>100</falscheAntwort1>
             <falscheAntwort2>1.000</falscheAntwort2>
             <falscheAntwort3>100.000</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -841,7 +841,7 @@
             <falscheAntwort1>10</falscheAntwort1>
             <falscheAntwort2>0,1</falscheAntwort2>
             <falscheAntwort3>0,01</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -851,7 +851,7 @@
             <falscheAntwort1>10</falscheAntwort1>
             <falscheAntwort2>100</falscheAntwort2>
             <falscheAntwort3>10.000</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>2</schwierigkeitMax>
         </frage>
@@ -861,7 +861,7 @@
             <falscheAntwort1>10</falscheAntwort1>
             <falscheAntwort2>1000</falscheAntwort2>
             <falscheAntwort3>10.000</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>3</schwierigkeitMax>
         </frage>
@@ -871,7 +871,7 @@
             <falscheAntwort1>10</falscheAntwort1>
             <falscheAntwort2>100</falscheAntwort2>
             <falscheAntwort3>10.000</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>3</schwierigkeitMax>
         </frage>
@@ -881,7 +881,7 @@
             <falscheAntwort1>15°</falscheAntwort1>
             <falscheAntwort2>35°</falscheAntwort2>
             <falscheAntwort3>120°</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -891,7 +891,7 @@
             <falscheAntwort1>270°</falscheAntwort1>
             <falscheAntwort2>180°</falscheAntwort2>
             <falscheAntwort3>360°</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -901,7 +901,7 @@
             <falscheAntwort1>100°</falscheAntwort1>
             <falscheAntwort2>90°</falscheAntwort2>
             <falscheAntwort3>180°</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -911,7 +911,7 @@
             <falscheAntwort1>10°</falscheAntwort1>
             <falscheAntwort2>20°</falscheAntwort2>
             <falscheAntwort3>60°</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -921,7 +921,7 @@
             <falscheAntwort1>300°</falscheAntwort1>
             <falscheAntwort2>680°</falscheAntwort2>
             <falscheAntwort3>1800°</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -931,7 +931,7 @@
             <falscheAntwort1>mit Dreiecken</falscheAntwort1>
             <falscheAntwort2>mit Quadraten</falscheAntwort2>
             <falscheAntwort3>mit Sechsecken</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>

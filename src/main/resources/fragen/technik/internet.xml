@@ -11,7 +11,7 @@
             <falscheAntwort1>AOL</falscheAntwort1>
             <falscheAntwort2>T-Online</falscheAntwort2>
             <falscheAntwort3>Drucker</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -21,7 +21,7 @@
             <falscheAntwort1>e-Mail</falscheAntwort1>
             <falscheAntwort2>News</falscheAntwort2>
             <falscheAntwort3>FTP</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -31,7 +31,7 @@
             <falscheAntwort1>News</falscheAntwort1>
             <falscheAntwort2>Chat</falscheAntwort2>
             <falscheAntwort3>WWW</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -41,7 +41,7 @@
             <falscheAntwort1>NETBEUI</falscheAntwort1>
             <falscheAntwort2>IPX</falscheAntwort2>
             <falscheAntwort3>FTP</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -51,7 +51,7 @@
             <falscheAntwort1>vollständiger Baum</falscheAntwort1>
             <falscheAntwort2>Ring</falscheAntwort2>
             <falscheAntwort3>Bus</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -61,7 +61,7 @@
             <falscheAntwort1>www.allesklar.de</falscheAntwort1>
             <falscheAntwort2>www.fireball.de</falscheAntwort2>
             <falscheAntwort3>www.ford.de</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -71,7 +71,7 @@
             <falscheAntwort1>www.metager.de</falscheAntwort1>
             <falscheAntwort2>www.fireball.de</falscheAntwort2>
             <falscheAntwort3>www.web.de</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -81,7 +81,7 @@
             <falscheAntwort1>Eingabe www.t-online.de</falscheAntwort1>
             <falscheAntwort2>Webkataloge und Themensuche</falscheAntwort2>
             <falscheAntwort3>Meta-Suchmaschine</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -91,7 +91,7 @@
             <falscheAntwort1>Peer-to-Peer</falscheAntwort1>
             <falscheAntwort2>LAN</falscheAntwort2>
             <falscheAntwort3>GAN</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -101,7 +101,7 @@
             <falscheAntwort1>Name+Vorname</falscheAntwort1>
             <falscheAntwort2>Telefonnummer</falscheAntwort2>
             <falscheAntwort3>Beruf</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -111,7 +111,7 @@
             <falscheAntwort1>Irene.Müller@gmx.de</falscheAntwort1>
             <falscheAntwort2>www westfälische rundschau.de</falscheAntwort2>
             <falscheAntwort3>www.westfälische-rundschau.de</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -121,7 +121,7 @@
             <falscheAntwort1>WWW</falscheAntwort1>
             <falscheAntwort2>NNTP</falscheAntwort2>
             <falscheAntwort3>POP</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -131,7 +131,7 @@
             <falscheAntwort1>WWW</falscheAntwort1>
             <falscheAntwort2>NNTP</falscheAntwort2>
             <falscheAntwort3>SMTP</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -141,7 +141,7 @@
             <falscheAntwort1>bktgs@t-online.de</falscheAntwort1>
             <falscheAntwort2>kanzler@bund.de</falscheAntwort2>
             <falscheAntwort3>kerstin.mueller@gmx.de</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -151,7 +151,7 @@
             <falscheAntwort1>0190-555555</falscheAntwort1>
             <falscheAntwort2>300.300.300.300</falscheAntwort2>
             <falscheAntwort3>192.168.203.0</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -161,7 +161,7 @@
             <falscheAntwort1>e-mail</falscheAntwort1>
             <falscheAntwort2>Chat</falscheAntwort2>
             <falscheAntwort3>WWW</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -171,7 +171,7 @@
             <falscheAntwort1>e-Mailanhang</falscheAntwort1>
             <falscheAntwort2>Virusprogramm</falscheAntwort2>
             <falscheAntwort3>Plugin</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -181,7 +181,7 @@
             <falscheAntwort1>ISDN-NTBA</falscheAntwort1>
             <falscheAntwort2>DSL-Splitter</falscheAntwort2>
             <falscheAntwort3>Modem</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>

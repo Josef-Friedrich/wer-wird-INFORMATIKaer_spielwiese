@@ -11,7 +11,7 @@
             <falscheAntwort1>0,3mm</falscheAntwort1>
             <falscheAntwort2>300mm</falscheAntwort2>
             <falscheAntwort3>0,03mm</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -21,7 +21,7 @@
             <falscheAntwort1>28m</falscheAntwort1>
             <falscheAntwort2>0,28m</falscheAntwort2>
             <falscheAntwort3>0,028m</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -31,7 +31,7 @@
             <falscheAntwort1>435km</falscheAntwort1>
             <falscheAntwort2>4,35km</falscheAntwort2>
             <falscheAntwort3>0,435km</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -41,7 +41,7 @@
             <falscheAntwort1>300m</falscheAntwort1>
             <falscheAntwort2>3000m</falscheAntwort2>
             <falscheAntwort3>300000m</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -51,7 +51,7 @@
             <falscheAntwort1>0,0007m</falscheAntwort1>
             <falscheAntwort2>0,7m</falscheAntwort2>
             <falscheAntwort3>70m</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -61,7 +61,7 @@
             <falscheAntwort1>6m</falscheAntwort1>
             <falscheAntwort2>600m</falscheAntwort2>
             <falscheAntwort3>0,6m</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -71,7 +71,7 @@
             <falscheAntwort1>24mm</falscheAntwort1>
             <falscheAntwort2>24m</falscheAntwort2>
             <falscheAntwort3>24km</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -81,7 +81,7 @@
             <falscheAntwort1>0,562km</falscheAntwort1>
             <falscheAntwort2>0,562mm</falscheAntwort2>
             <falscheAntwort3>0,562dm</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -91,7 +91,7 @@
             <falscheAntwort1>35m</falscheAntwort1>
             <falscheAntwort2>3,5m</falscheAntwort2>
             <falscheAntwort3>3500m</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -101,7 +101,7 @@
             <falscheAntwort1>6,45dm</falscheAntwort1>
             <falscheAntwort2>65,4m</falscheAntwort2>
             <falscheAntwort3>65,4mm</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -111,7 +111,7 @@
             <falscheAntwort1>0,752cm</falscheAntwort1>
             <falscheAntwort2>752cm</falscheAntwort2>
             <falscheAntwort3>75,2m</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -121,7 +121,7 @@
             <falscheAntwort1>6300mm</falscheAntwort1>
             <falscheAntwort2>63000cm</falscheAntwort2>
             <falscheAntwort3>0,63km</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -131,7 +131,7 @@
             <falscheAntwort1>850m</falscheAntwort1>
             <falscheAntwort2>0,85dm</falscheAntwort2>
             <falscheAntwort3>850dm</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -141,7 +141,7 @@
             <falscheAntwort1>13cm</falscheAntwort1>
             <falscheAntwort2>13mm</falscheAntwort2>
             <falscheAntwort3>13km</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -151,7 +151,7 @@
             <falscheAntwort1>2,3dm</falscheAntwort1>
             <falscheAntwort2>2,3m</falscheAntwort2>
             <falscheAntwort3>0,0023km</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -161,7 +161,7 @@
             <falscheAntwort1>4,5cm</falscheAntwort1>
             <falscheAntwort2>450mm</falscheAntwort2>
             <falscheAntwort3>450m</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -171,7 +171,7 @@
             <falscheAntwort1>50cm</falscheAntwort1>
             <falscheAntwort2>5000cm</falscheAntwort2>
             <falscheAntwort3>0,5cm</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -181,7 +181,7 @@
             <falscheAntwort1>4m</falscheAntwort1>
             <falscheAntwort2>0,4km</falscheAntwort2>
             <falscheAntwort3>40dm</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -191,7 +191,7 @@
             <falscheAntwort1>0,0165km</falscheAntwort1>
             <falscheAntwort2>16,5mm</falscheAntwort2>
             <falscheAntwort3>1,65dm</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -201,7 +201,7 @@
             <falscheAntwort1>0,047m</falscheAntwort1>
             <falscheAntwort2>4700mm</falscheAntwort2>
             <falscheAntwort3>0,47dm</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -211,7 +211,7 @@
             <falscheAntwort1>56mm</falscheAntwort1>
             <falscheAntwort2>56m</falscheAntwort2>
             <falscheAntwort3>0,56cm</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -221,7 +221,7 @@
             <falscheAntwort1>89m</falscheAntwort1>
             <falscheAntwort2>890m</falscheAntwort2>
             <falscheAntwort3>0,89km</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -231,7 +231,7 @@
             <falscheAntwort1>630cm</falscheAntwort1>
             <falscheAntwort2>6,3dm</falscheAntwort2>
             <falscheAntwort3>0,63cm</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -241,7 +241,7 @@
             <falscheAntwort1>24000cm</falscheAntwort1>
             <falscheAntwort2>24000dm</falscheAntwort2>
             <falscheAntwort3>24000mm</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -251,7 +251,7 @@
             <falscheAntwort1>460km</falscheAntwort1>
             <falscheAntwort2>460mm</falscheAntwort2>
             <falscheAntwort3>460dm</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -261,7 +261,7 @@
             <falscheAntwort1>5,132cm</falscheAntwort1>
             <falscheAntwort2>5,132dm</falscheAntwort2>
             <falscheAntwort3>5,132km</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -271,7 +271,7 @@
             <falscheAntwort1>7m</falscheAntwort1>
             <falscheAntwort2>7dm</falscheAntwort2>
             <falscheAntwort3>7km</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -281,7 +281,7 @@
             <falscheAntwort1>3000mm</falscheAntwort1>
             <falscheAntwort2>3000dm</falscheAntwort2>
             <falscheAntwort3>300cm</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>

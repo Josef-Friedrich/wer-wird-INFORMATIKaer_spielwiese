@@ -11,7 +11,7 @@
             <falscheAntwort1>Eingänge</falscheAntwort1>
             <falscheAntwort2>Ausgänge</falscheAntwort2>
             <falscheAntwort3>Spannung</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>2</schwierigkeitMax>
         </frage>
@@ -21,7 +21,7 @@
             <falscheAntwort1>Ausgänge</falscheAntwort1>
             <falscheAntwort2>Merker</falscheAntwort2>
             <falscheAntwort3>Zeitglieder</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>3</schwierigkeitMax>
         </frage>
@@ -31,7 +31,7 @@
             <falscheAntwort1>Null</falscheAntwort1>
             <falscheAntwort2>230V</falscheAntwort2>
             <falscheAntwort3>5 Volt</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -41,7 +41,7 @@
             <falscheAntwort1>Relais</falscheAntwort1>
             <falscheAntwort2>Händen</falscheAntwort2>
             <falscheAntwort3>Spracheingabe</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -51,7 +51,7 @@
             <falscheAntwort1>Digitalausgang</falscheAntwort1>
             <falscheAntwort2>Analogausgang</falscheAntwort2>
             <falscheAntwort3>Relaisausgang</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -61,7 +61,7 @@
             <falscheAntwort1>Digitalausgang</falscheAntwort1>
             <falscheAntwort2>Analogausgang</falscheAntwort2>
             <falscheAntwort3>Analogeingang</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -71,7 +71,7 @@
             <falscheAntwort1>Digitalausgang</falscheAntwort1>
             <falscheAntwort2>Digitaleingang</falscheAntwort2>
             <falscheAntwort3>Analogausgang</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -81,7 +81,7 @@
             <falscheAntwort1>Selbsthaltung</falscheAntwort1>
             <falscheAntwort2>Einschaltverz.</falscheAntwort2>
             <falscheAntwort3>Ausschaltverz.</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -91,7 +91,7 @@
             <falscheAntwort1>Selbsthaltung</falscheAntwort1>
             <falscheAntwort2>Treppenhaussch.</falscheAntwort2>
             <falscheAntwort3>Wochenprogramm</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -101,7 +101,7 @@
             <falscheAntwort1>Lösung</falscheAntwort1>
             <falscheAntwort2>Gleichung</falscheAntwort2>
             <falscheAntwort3>Funktionsplan</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -111,7 +111,7 @@
             <falscheAntwort1>UND</falscheAntwort1>
             <falscheAntwort2>ODER</falscheAntwort2>
             <falscheAntwort3>Negation</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -121,7 +121,7 @@
             <falscheAntwort1>Und</falscheAntwort1>
             <falscheAntwort2>Oder</falscheAntwort2>
             <falscheAntwort3>Ausschaltverz.</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -131,7 +131,7 @@
             <falscheAntwort1>Eingängen</falscheAntwort1>
             <falscheAntwort2>Ausgängen</falscheAntwort2>
             <falscheAntwort3>Zeigliedern</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -141,7 +141,7 @@
             <falscheAntwort1>Eingängen</falscheAntwort1>
             <falscheAntwort2>AUsgängen</falscheAntwort2>
             <falscheAntwort3>Merkern</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -151,7 +151,7 @@
             <falscheAntwort1>weitere Eingänge</falscheAntwort1>
             <falscheAntwort2>weitere Ausgänge</falscheAntwort2>
             <falscheAntwort3>bessere Programm.</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -161,7 +161,7 @@
             <falscheAntwort1>Instabus</falscheAntwort1>
             <falscheAntwort2>Profibus</falscheAntwort2>
             <falscheAntwort3>Intranet</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>

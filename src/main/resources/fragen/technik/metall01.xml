@@ -11,7 +11,7 @@
             <falscheAntwort1>egal!</falscheAntwort1>
             <falscheAntwort2>bis 600°C</falscheAntwort2>
             <falscheAntwort3>über 900°C</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -21,7 +21,7 @@
             <falscheAntwort1>macht die Löteflächen glatt.</falscheAntwort1>
             <falscheAntwort2>beseitigt grobe Verschmutzungen.</falscheAntwort2>
             <falscheAntwort3>macht die Beachtung der Lötspaltgröße überflüssig.</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -31,7 +31,7 @@
             <falscheAntwort1>unter 0,05 mm</falscheAntwort1>
             <falscheAntwort2>0,3 - 0,6</falscheAntwort2>
             <falscheAntwort3>ist ohne Bedeutung</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -41,7 +41,7 @@
             <falscheAntwort1>Leistung P in kWh</falscheAntwort1>
             <falscheAntwort2>Elektr. Arbeit in kW</falscheAntwort2>
             <falscheAntwort3>Elektr. Spannung U in A</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -51,7 +51,7 @@
             <falscheAntwort1>Der Keilwinkel ist abhängig von der Neigung des Meißels zum Werkstück.</falscheAntwort1>
             <falscheAntwort2>Der Keilwinkel kann bei allen Werkstoffen gleich groß sein.</falscheAntwort2>
             <falscheAntwort3>Der Keilwinkel ist für die Spanbildung verantwortlich.</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -61,7 +61,7 @@
             <falscheAntwort1>Damit der Sägeschnitt nicht breiter als das Sägeblatt wird.</falscheAntwort1>
             <falscheAntwort2>Damit möglichst lange Fließspäne entstehen.</falscheAntwort2>
             <falscheAntwort3>Um auch dünne Bleche hochkannt durchsägen zu können.</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -71,7 +71,7 @@
             <falscheAntwort1>Entrgraten.</falscheAntwort1>
             <falscheAntwort2>Zentrieren einer Bohrung.</falscheAntwort2>
             <falscheAntwort3>Senken.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -81,7 +81,7 @@
             <falscheAntwort1>Senkprüfer</falscheAntwort1>
             <falscheAntwort2>Senkanreißer</falscheAntwort2>
             <falscheAntwort3>Senkbohrer</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -91,7 +91,7 @@
             <falscheAntwort1>Blauschimmel</falscheAntwort1>
             <falscheAntwort2>Laubrost</falscheAntwort2>
             <falscheAntwort3>Braunfäule</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -101,7 +101,7 @@
             <falscheAntwort1>Hinterschliffene Schneiden</falscheAntwort1>
             <falscheAntwort2>Hartmetallschruppschneiden</falscheAntwort2>
             <falscheAntwort3>Hohe-Schneid-Sicherheit</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -111,7 +111,7 @@
             <falscheAntwort1>Eisen - Chrom</falscheAntwort1>
             <falscheAntwort2>Eisen - Zink</falscheAntwort2>
             <falscheAntwort3>Eisen - Aluminium</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -121,7 +121,7 @@
             <falscheAntwort1>Der Spanwinkel der Feilenzähne ist immer negativ.</falscheAntwort1>
             <falscheAntwort2>Mit gefrästen Feilen können nur Leichtmetalle bearbeitet werden.</falscheAntwort2>
             <falscheAntwort3>Der Spanwinkel der Feilenzähne ist immer Null Grad.</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -131,7 +131,7 @@
             <falscheAntwort1>In dem man die Feile mit Öl einsteicht.</falscheAntwort1>
             <falscheAntwort2>In dem man die Feile nach etwa 20 Feilstrichen mit Petroleum auswäscht.</falscheAntwort2>
             <falscheAntwort3>In dem man die Feile mit Graghit einstreicht.</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -141,7 +141,7 @@
             <falscheAntwort1>Das Kleben ist besonders für kleine Flächen geeignet.</falscheAntwort1>
             <falscheAntwort2>Klebeverbindungen sind besonders auf Zugbeanspruchung günstig.</falscheAntwort2>
             <falscheAntwort3>Klebeverbindungen rechnet man zu den lösbaren Verbindungen.</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -151,7 +151,7 @@
             <falscheAntwort1>C60</falscheAntwort1>
             <falscheAntwort2>X 5CrNi 18-10</falscheAntwort2>
             <falscheAntwort3>Gold</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -161,7 +161,7 @@
             <falscheAntwort1>Cu</falscheAntwort1>
             <falscheAntwort2>C</falscheAntwort2>
             <falscheAntwort3>Cl</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -171,7 +171,7 @@
             <falscheAntwort1>Zahnscheibe</falscheAntwort1>
             <falscheAntwort2>Sperzahnschraube</falscheAntwort2>
             <falscheAntwort3>Federring</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -181,7 +181,7 @@
             <falscheAntwort1>Gußeisen</falscheAntwort1>
             <falscheAntwort2>Weißes Roheisen</falscheAntwort2>
             <falscheAntwort3>Graphit</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -191,7 +191,7 @@
             <falscheAntwort1>Ni</falscheAntwort1>
             <falscheAntwort2>Mn</falscheAntwort2>
             <falscheAntwort3>N</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -201,7 +201,7 @@
             <falscheAntwort1>273 K</falscheAntwort1>
             <falscheAntwort2>273 °C</falscheAntwort2>
             <falscheAntwort3>0 °C</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -211,7 +211,7 @@
             <falscheAntwort1>das Feingohren und Feindrehen</falscheAntwort1>
             <falscheAntwort2>das Honen und Läppen</falscheAntwort2>
             <falscheAntwort3>das Polieren</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -221,7 +221,7 @@
             <falscheAntwort1>17 Cr 3</falscheAntwort1>
             <falscheAntwort2>GTW-35-04</falscheAntwort2>
             <falscheAntwort3>X 5CrNi 18-10</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -231,7 +231,7 @@
             <falscheAntwort1>10°C</falscheAntwort1>
             <falscheAntwort2>0°C</falscheAntwort2>
             <falscheAntwort3>15°C</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -241,7 +241,7 @@
             <falscheAntwort1>Hauptfreifläche</falscheAntwort1>
             <falscheAntwort2>Nebenfreifläche</falscheAntwort2>
             <falscheAntwort3>Spanfläche</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -251,7 +251,7 @@
             <falscheAntwort1>Bröckelspäne</falscheAntwort1>
             <falscheAntwort2>Spiralspäne</falscheAntwort2>
             <falscheAntwort3>Spiralwendelspäne</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -261,7 +261,7 @@
             <falscheAntwort1>beschränkt</falscheAntwort1>
             <falscheAntwort2>verschränkt</falscheAntwort2>
             <falscheAntwort3>unverschränkt</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -271,7 +271,7 @@
             <falscheAntwort1>Prüfen von Bohrungen</falscheAntwort1>
             <falscheAntwort2>Messen von Wellen</falscheAntwort2>
             <falscheAntwort3>Feststellen der Wellentoleranz</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -281,7 +281,7 @@
             <falscheAntwort1>Ausrichten der Messschraube</falscheAntwort1>
             <falscheAntwort2>Einstellen auf einen bestimmten Wert</falscheAntwort2>
             <falscheAntwort3>Ausgleich der Wärmeausdehnung</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -291,7 +291,7 @@
             <falscheAntwort1>Feinzeiger</falscheAntwort1>
             <falscheAntwort2>Messuhr</falscheAntwort2>
             <falscheAntwort3>Maßstab</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -301,7 +301,7 @@
             <falscheAntwort1>Der Schneidstoff</falscheAntwort1>
             <falscheAntwort2>Der Spanwinkel</falscheAntwort2>
             <falscheAntwort3>Der Schneidenradius</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -311,7 +311,7 @@
             <falscheAntwort1>Istmaß</falscheAntwort1>
             <falscheAntwort2>Höchstmaß</falscheAntwort2>
             <falscheAntwort3>Übermaß</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -321,7 +321,7 @@
             <falscheAntwort1>Übermaßpassung</falscheAntwort1>
             <falscheAntwort2>Übergangspassung</falscheAntwort2>
             <falscheAntwort3>Feinpassung</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -331,7 +331,7 @@
             <falscheAntwort1>M bis N</falscheAntwort1>
             <falscheAntwort2>J bis K</falscheAntwort2>
             <falscheAntwort3>P bis R</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -341,7 +341,7 @@
             <falscheAntwort1>Prüfen von Außenkegeln</falscheAntwort1>
             <falscheAntwort2>Messen von Innenkegeln</falscheAntwort2>
             <falscheAntwort3>Messen von Außenkegeln</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -351,7 +351,7 @@
             <falscheAntwort1>Urformen</falscheAntwort1>
             <falscheAntwort2>Fügen</falscheAntwort2>
             <falscheAntwort3>Umformen</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -361,7 +361,7 @@
             <falscheAntwort1>Löten</falscheAntwort1>
             <falscheAntwort2>Schmelzschweißen</falscheAntwort2>
             <falscheAntwort3>Schrauben</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -371,7 +371,7 @@
             <falscheAntwort1>S235JR</falscheAntwort1>
             <falscheAntwort2>CuZn37</falscheAntwort2>
             <falscheAntwort3>AL99,9</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -381,7 +381,7 @@
             <falscheAntwort1>Spanwinkel</falscheAntwort1>
             <falscheAntwort2>Freiwinkel</falscheAntwort2>
             <falscheAntwort3>Neigungswinkel</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -391,7 +391,7 @@
             <falscheAntwort1>Große Verschleißfestigkeit</falscheAntwort1>
             <falscheAntwort2>Große Warmhärte</falscheAntwort2>
             <falscheAntwort3>Temperaturwechselbeständigkeit</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -401,7 +401,7 @@
             <falscheAntwort1>H, K, S</falscheAntwort1>
             <falscheAntwort2>H, S, T</falscheAntwort2>
             <falscheAntwort3>A, L, S</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -411,7 +411,7 @@
             <falscheAntwort1>Anlassbeständigkeit</falscheAntwort1>
             <falscheAntwort2>Temperaturwechselbeständigkeit</falscheAntwort2>
             <falscheAntwort3>Warmhärte</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -421,7 +421,7 @@
             <falscheAntwort1>Bornitrid und Aluminiumoxid</falscheAntwort1>
             <falscheAntwort2>Aluminiumoxid und Metallcarbide</falscheAntwort2>
             <falscheAntwort3>Metalloxide und Cobalt</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -431,7 +431,7 @@
             <falscheAntwort1>0,1% - 0,8%</falscheAntwort1>
             <falscheAntwort2>0,5% - 1,5%</falscheAntwort2>
             <falscheAntwort3>0,7% - 2,0%</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -441,7 +441,7 @@
             <falscheAntwort1>7,85</falscheAntwort1>
             <falscheAntwort2>4,5</falscheAntwort2>
             <falscheAntwort3>11,9</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -451,7 +451,7 @@
             <falscheAntwort1>3,5</falscheAntwort1>
             <falscheAntwort2>8,9</falscheAntwort2>
             <falscheAntwort3>6,5</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -461,7 +461,7 @@
             <falscheAntwort1>2,7</falscheAntwort1>
             <falscheAntwort2>7,85</falscheAntwort2>
             <falscheAntwort3>4,5</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -471,7 +471,7 @@
             <falscheAntwort1>Dolomit</falscheAntwort1>
             <falscheAntwort2>Martensit</falscheAntwort2>
             <falscheAntwort3>Perlit</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -481,7 +481,7 @@
             <falscheAntwort1>besonders gut dehnbar</falscheAntwort1>
             <falscheAntwort2>sehr weich und korrosionsbeständig</falscheAntwort2>
             <falscheAntwort3>gut anodisch oxidierbar</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -491,7 +491,7 @@
             <falscheAntwort1>Seine Festigkeit ist gering</falscheAntwort1>
             <falscheAntwort2>Es ist leicht umformbar</falscheAntwort2>
             <falscheAntwort3>Es ist wenig korrosionsbeständig</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -501,7 +501,7 @@
             <falscheAntwort1>2,06%</falscheAntwort1>
             <falscheAntwort2>2,86%</falscheAntwort2>
             <falscheAntwort3>4,3%</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -511,7 +511,7 @@
             <falscheAntwort1>0,8%</falscheAntwort1>
             <falscheAntwort2>2,86%</falscheAntwort2>
             <falscheAntwort3>4,3%</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -521,7 +521,7 @@
             <falscheAntwort1>Martensit</falscheAntwort1>
             <falscheAntwort2>Perlit</falscheAntwort2>
             <falscheAntwort3>Ferrit</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -531,7 +531,7 @@
             <falscheAntwort1>kostet</falscheAntwort1>
             <falscheAntwort2>korrodiert</falscheAntwort2>
             <falscheAntwort3>ist müde</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>3</schwierigkeitMax>
         </frage>
@@ -541,7 +541,7 @@
             <falscheAntwort1>fliegt</falscheAntwort1>
             <falscheAntwort2>steht</falscheAntwort2>
             <falscheAntwort3>geht</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>3</schwierigkeitMax>
         </frage>
@@ -551,7 +551,7 @@
             <falscheAntwort1>das Auto</falscheAntwort1>
             <falscheAntwort2>den Kunsstoff</falscheAntwort2>
             <falscheAntwort3>das Tier</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>3</schwierigkeitMax>
         </frage>
@@ -561,7 +561,7 @@
             <falscheAntwort1>Geselle</falscheAntwort1>
             <falscheAntwort2>Meister</falscheAntwort2>
             <falscheAntwort3>Gießer</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>

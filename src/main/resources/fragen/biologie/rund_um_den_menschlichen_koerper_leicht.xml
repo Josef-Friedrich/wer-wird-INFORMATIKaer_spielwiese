@@ -11,7 +11,7 @@
             <falscheAntwort1>Sehnen</falscheAntwort1>
             <falscheAntwort2>kleine Muskeln</falscheAntwort2>
             <falscheAntwort3>große Knochen</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -21,7 +21,7 @@
             <falscheAntwort1>Knieteller</falscheAntwort1>
             <falscheAntwort2>Kniebrett</falscheAntwort2>
             <falscheAntwort3>Knietasse</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -31,7 +31,7 @@
             <falscheAntwort1>Edern</falscheAntwort1>
             <falscheAntwort2>Odern</falscheAntwort2>
             <falscheAntwort3>Idern</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -41,7 +41,7 @@
             <falscheAntwort1>Skribent</falscheAntwort1>
             <falscheAntwort2>Skalpell</falscheAntwort2>
             <falscheAntwort3>Spinett</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -51,7 +51,7 @@
             <falscheAntwort1>Beutel</falscheAntwort1>
             <falscheAntwort2>Ballon</falscheAntwort2>
             <falscheAntwort3>Becher</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -61,7 +61,7 @@
             <falscheAntwort1>niesen</falscheAntwort1>
             <falscheAntwort2>gähnen</falscheAntwort2>
             <falscheAntwort3>schnarchen</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -71,7 +71,7 @@
             <falscheAntwort1>Muskel</falscheAntwort1>
             <falscheAntwort2>Knochen</falscheAntwort2>
             <falscheAntwort3>Knorpel</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -81,7 +81,7 @@
             <falscheAntwort1>mit Bändern</falscheAntwort1>
             <falscheAntwort2>mit Knorpeln</falscheAntwort2>
             <falscheAntwort3>mit Drähten</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -91,7 +91,7 @@
             <falscheAntwort1>Man muss weinen.</falscheAntwort1>
             <falscheAntwort2>Man muss lachen.</falscheAntwort2>
             <falscheAntwort3>Man wird rot.</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -101,7 +101,7 @@
             <falscheAntwort1>albern</falscheAntwort1>
             <falscheAntwort2>munter</falscheAntwort2>
             <falscheAntwort3>stark</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -111,7 +111,7 @@
             <falscheAntwort1>Katalog</falscheAntwort1>
             <falscheAntwort2>Mikroskop</falscheAntwort2>
             <falscheAntwort3>Periskop</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -121,7 +121,7 @@
             <falscheAntwort1>das Röllchen</falscheAntwort1>
             <falscheAntwort2>das Stäbchen</falscheAntwort2>
             <falscheAntwort3>das Häkchen</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -131,7 +131,7 @@
             <falscheAntwort1>Röteln</falscheAntwort1>
             <falscheAntwort2>Windpocken</falscheAntwort2>
             <falscheAntwort3>Masern</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -141,7 +141,7 @@
             <falscheAntwort1>Pia</falscheAntwort1>
             <falscheAntwort2>Linda</falscheAntwort2>
             <falscheAntwort3>Rosi</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -151,7 +151,7 @@
             <falscheAntwort1>Zeigefinger</falscheAntwort1>
             <falscheAntwort2>Mittelfinger</falscheAntwort2>
             <falscheAntwort3>der kleine Finger</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -161,7 +161,7 @@
             <falscheAntwort1>im Knie</falscheAntwort1>
             <falscheAntwort2>im Ohr</falscheAntwort2>
             <falscheAntwort3>an der Ferse</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -171,7 +171,7 @@
             <falscheAntwort1>weil man dann keine Luft bekommt</falscheAntwort1>
             <falscheAntwort2>weil so die Stimmbänder geschädigt werden</falscheAntwort2>
             <falscheAntwort3>weil dann das Essen nicht schmeckt</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -181,7 +181,7 @@
             <falscheAntwort1>beim Hören</falscheAntwort1>
             <falscheAntwort2>beim Sehen</falscheAntwort2>
             <falscheAntwort3>beim Fühlen</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -191,7 +191,7 @@
             <falscheAntwort1>Kohlendioxid</falscheAntwort1>
             <falscheAntwort2>Stickstoff</falscheAntwort2>
             <falscheAntwort3>Schwefeldioxid</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -201,7 +201,7 @@
             <falscheAntwort1>4</falscheAntwort1>
             <falscheAntwort2>3</falscheAntwort2>
             <falscheAntwort3>5</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -211,7 +211,7 @@
             <falscheAntwort1>Rosinen</falscheAntwort1>
             <falscheAntwort2>Nüsse</falscheAntwort2>
             <falscheAntwort3>Pistazien</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -221,7 +221,7 @@
             <falscheAntwort1>Erbse</falscheAntwort1>
             <falscheAntwort2>Bohne</falscheAntwort2>
             <falscheAntwort3>Reis</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -231,7 +231,7 @@
             <falscheAntwort1>Bronchitis</falscheAntwort1>
             <falscheAntwort2>Anämie</falscheAntwort2>
             <falscheAntwort3>Leukämie</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -241,7 +241,7 @@
             <falscheAntwort1>Kieber</falscheAntwort1>
             <falscheAntwort2>Zieber</falscheAntwort2>
             <falscheAntwort3>Dieber</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -251,7 +251,7 @@
             <falscheAntwort1>ab 45 Grad</falscheAntwort1>
             <falscheAntwort2>ab 38 Grad</falscheAntwort2>
             <falscheAntwort3>ab 36 Grad</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -261,7 +261,7 @@
             <falscheAntwort1>10 Monate</falscheAntwort1>
             <falscheAntwort2>8 Monate</falscheAntwort2>
             <falscheAntwort3>11 Monate</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -271,7 +271,7 @@
             <falscheAntwort1>das Bein</falscheAntwort1>
             <falscheAntwort2>der Arm</falscheAntwort2>
             <falscheAntwort3>der Po</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -281,7 +281,7 @@
             <falscheAntwort1>weil sie zu weich sind</falscheAntwort1>
             <falscheAntwort2>weil sie zu lose sind</falscheAntwort2>
             <falscheAntwort3>weil sie zu klein sind</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -291,7 +291,7 @@
             <falscheAntwort1>Kaffeezähne</falscheAntwort1>
             <falscheAntwort2>Kakaozähne</falscheAntwort2>
             <falscheAntwort3>Teezähne</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -301,7 +301,7 @@
             <falscheAntwort1>dass man neugierig ist</falscheAntwort1>
             <falscheAntwort2>dass man schwitzt</falscheAntwort2>
             <falscheAntwort3>dass man Langeweile hat</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -311,7 +311,7 @@
             <falscheAntwort1>Bauchspeicheldrüse</falscheAntwort1>
             <falscheAntwort2>Fettdrüsen</falscheAntwort2>
             <falscheAntwort3>Schmalzdrüse</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -321,7 +321,7 @@
             <falscheAntwort1>Hühnerhaut</falscheAntwort1>
             <falscheAntwort2>Entenhaut</falscheAntwort2>
             <falscheAntwort3>Wachtelhaut</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -331,7 +331,7 @@
             <falscheAntwort1>Maiskorn</falscheAntwort1>
             <falscheAntwort2>Weizenkorn</falscheAntwort2>
             <falscheAntwort3>Roggenkorn</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -341,7 +341,7 @@
             <falscheAntwort1>im Gesicht</falscheAntwort1>
             <falscheAntwort2>an den Handflächen</falscheAntwort2>
             <falscheAntwort3>am Popo</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -351,7 +351,7 @@
             <falscheAntwort1>Sie sorgen dafür, dass eine Brille nicht drückt.</falscheAntwort1>
             <falscheAntwort2>Sie werfen einen Schatten, damit es für die Pupille nicht zu hell ist.</falscheAntwort2>
             <falscheAntwort3>Sie verschönern das Gesicht.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -361,7 +361,7 @@
             <falscheAntwort1>der Unterarmknochen</falscheAntwort1>
             <falscheAntwort2>der Oberarmknochen</falscheAntwort2>
             <falscheAntwort3>das Wadenbein</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -371,7 +371,7 @@
             <falscheAntwort1>Paukenfell</falscheAntwort1>
             <falscheAntwort2>Zwerchfell</falscheAntwort2>
             <falscheAntwort3>Kesselfell</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -381,7 +381,7 @@
             <falscheAntwort1>Ast und Zweig</falscheAntwort1>
             <falscheAntwort2>Stamm und Blatt</falscheAntwort2>
             <falscheAntwort3>Rinde und Nadel</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -391,7 +391,7 @@
             <falscheAntwort1>neben der Speiseröhre</falscheAntwort1>
             <falscheAntwort2>in der Nasenhöhle</falscheAntwort2>
             <falscheAntwort3>unter dem Zwerchfell</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -401,7 +401,7 @@
             <falscheAntwort1>Felge und Stab</falscheAntwort1>
             <falscheAntwort2>Bogen und Faden</falscheAntwort2>
             <falscheAntwort3>Stock und Haken</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -411,7 +411,7 @@
             <falscheAntwort1>Pfeffersäure</falscheAntwort1>
             <falscheAntwort2>Zuckersäure</falscheAntwort2>
             <falscheAntwort3>Zimtsäure</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -421,7 +421,7 @@
             <falscheAntwort1>Niesen</falscheAntwort1>
             <falscheAntwort2>Schluckab</falscheAntwort2>
             <falscheAntwort3>Gähnen</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -431,7 +431,7 @@
             <falscheAntwort1>Hormone</falscheAntwort1>
             <falscheAntwort2>Blut</falscheAntwort2>
             <falscheAntwort3>Talg</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -441,7 +441,7 @@
             <falscheAntwort1>Destillation</falscheAntwort1>
             <falscheAntwort2>Detonation</falscheAntwort2>
             <falscheAntwort3>Denunziation</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -451,7 +451,7 @@
             <falscheAntwort1>Sie wird schwärzlich.</falscheAntwort1>
             <falscheAntwort2>Sie wird rötlich.</falscheAntwort2>
             <falscheAntwort3>Sie wird grünlich.</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -461,7 +461,7 @@
             <falscheAntwort1>Infrarotstrahlen</falscheAntwort1>
             <falscheAntwort2>Laserstrahlen</falscheAntwort2>
             <falscheAntwort3>Gammastrahlen</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -471,7 +471,7 @@
             <falscheAntwort1>Akumulator</falscheAntwort1>
             <falscheAntwort2>Akupressur</falscheAntwort2>
             <falscheAntwort3>Akustik</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -481,7 +481,7 @@
             <falscheAntwort1>Nahrungsschacht</falscheAntwort1>
             <falscheAntwort2>Essenskanal</falscheAntwort2>
             <falscheAntwort3>Futterbrücke</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -491,7 +491,7 @@
             <falscheAntwort1>Zehen</falscheAntwort1>
             <falscheAntwort2>Finger</falscheAntwort2>
             <falscheAntwort3>Lippen</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -501,7 +501,7 @@
             <falscheAntwort1>Ohrenmargarine</falscheAntwort1>
             <falscheAntwort2>Ohrenbutter</falscheAntwort2>
             <falscheAntwort3>Ohrenöl</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -511,7 +511,7 @@
             <falscheAntwort1>mit den Schneidezähnen</falscheAntwort1>
             <falscheAntwort2>mit den Eckzähnen</falscheAntwort2>
             <falscheAntwort3>mit den Weißheitszähnen</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -521,7 +521,7 @@
             <falscheAntwort1>ca. 3 l</falscheAntwort1>
             <falscheAntwort2>ca. 2 l</falscheAntwort2>
             <falscheAntwort3>ca. 9 l</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -531,7 +531,7 @@
             <falscheAntwort1>im Alter von 8 - 9 Jahren</falscheAntwort1>
             <falscheAntwort2>im Alter von 4 - 5 Jahren</falscheAntwort2>
             <falscheAntwort3>im Alter von 9 - 11 Jahren</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -541,7 +541,7 @@
             <falscheAntwort1>Vasen</falscheAntwort1>
             <falscheAntwort2>Arterien</falscheAntwort2>
             <falscheAntwort3>Turkmenen</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -551,7 +551,7 @@
             <falscheAntwort1>Venen</falscheAntwort1>
             <falscheAntwort2>Alveolen</falscheAntwort2>
             <falscheAntwort3>Artillen</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -561,7 +561,7 @@
             <falscheAntwort1>ein alter Mensch</falscheAntwort1>
             <falscheAntwort2>ein Jugendlicher</falscheAntwort2>
             <falscheAntwort3>ein Beamter</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -571,7 +571,7 @@
             <falscheAntwort1>3</falscheAntwort1>
             <falscheAntwort2>2</falscheAntwort2>
             <falscheAntwort3>5</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -581,7 +581,7 @@
             <falscheAntwort1>Knochen</falscheAntwort1>
             <falscheAntwort2>Fingernägel</falscheAntwort2>
             <falscheAntwort3>Muskeln</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -591,7 +591,7 @@
             <falscheAntwort1>Ohrqualle</falscheAntwort1>
             <falscheAntwort2>Ohrschale</falscheAntwort2>
             <falscheAntwort3>Ohrschnecke</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -601,7 +601,7 @@
             <falscheAntwort1>Muls</falscheAntwort1>
             <falscheAntwort2>Sulz</falscheAntwort2>
             <falscheAntwort3>Gruls</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -611,7 +611,7 @@
             <falscheAntwort1>Muskelgewebe</falscheAntwort1>
             <falscheAntwort2>Knochen</falscheAntwort2>
             <falscheAntwort3>Sehnen</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>

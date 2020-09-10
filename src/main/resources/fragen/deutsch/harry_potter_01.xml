@@ -11,7 +11,7 @@
             <falscheAntwort1>Stewart Ackerly</falscheAntwort1>
             <falscheAntwort2>Ron Weasley</falscheAntwort2>
             <falscheAntwort3>Draco Malfoy</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -21,7 +21,7 @@
             <falscheAntwort1>Serpensortia</falscheAntwort1>
             <falscheAntwort2>Ghul</falscheAntwort2>
             <falscheAntwort3>Dianthus</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -31,7 +31,7 @@
             <falscheAntwort1>H. P. und der Feuerkelch</falscheAntwort1>
             <falscheAntwort2>H. P. und der Gefangene von Askaban</falscheAntwort2>
             <falscheAntwort3>H. P. und die Kammer des Schreckens</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -41,7 +41,7 @@
             <falscheAntwort1>H. P. und der Feuerkelch</falscheAntwort1>
             <falscheAntwort2>H. P. und der Stein der Weisen</falscheAntwort2>
             <falscheAntwort3>H. P. und der Gefangene von Askaban</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -51,7 +51,7 @@
             <falscheAntwort1>H. P. und der Feuerkelch</falscheAntwort1>
             <falscheAntwort2>H. P. und der Stein der Weisen</falscheAntwort2>
             <falscheAntwort3>H. P. und die Kammer des Schreckens</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -61,7 +61,7 @@
             <falscheAntwort1>H. P. und der Stein der Weisen</falscheAntwort1>
             <falscheAntwort2>H. P. und der Gefangene von Askaban</falscheAntwort2>
             <falscheAntwort3>H. P. und die Kammer des Schreckens</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -71,7 +71,7 @@
             <falscheAntwort1>Kane</falscheAntwort1>
             <falscheAntwort2>Wane</falscheAntwort2>
             <falscheAntwort3>Sane</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -81,7 +81,7 @@
             <falscheAntwort1>Federfisch</falscheAntwort1>
             <falscheAntwort2>Haarschlange</falscheAntwort2>
             <falscheAntwort3>Zopfmaus</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -91,7 +91,7 @@
             <falscheAntwort1>Spaten</falscheAntwort1>
             <falscheAntwort2>Schrubber</falscheAntwort2>
             <falscheAntwort3>Harke</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -101,7 +101,7 @@
             <falscheAntwort1>Bogenschießen</falscheAntwort1>
             <falscheAntwort2>Handball</falscheAntwort2>
             <falscheAntwort3>Badminton</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -111,7 +111,7 @@
             <falscheAntwort1>Hozo</falscheAntwort1>
             <falscheAntwort2>Gozo</falscheAntwort2>
             <falscheAntwort3>Lozo</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -121,7 +121,7 @@
             <falscheAntwort1>rund</falscheAntwort1>
             <falscheAntwort2>quadratisch</falscheAntwort2>
             <falscheAntwort3>dreieckig</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -131,7 +131,7 @@
             <falscheAntwort1>rund</falscheAntwort1>
             <falscheAntwort2>dreieckig</falscheAntwort2>
             <falscheAntwort3>oval</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -141,7 +141,7 @@
             <falscheAntwort1>dreieckig</falscheAntwort1>
             <falscheAntwort2>quadratisch</falscheAntwort2>
             <falscheAntwort3>sechseckig</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -151,7 +151,7 @@
             <falscheAntwort1>verkleinernde Brillengläser</falscheAntwort1>
             <falscheAntwort2>verdoppelnde Brillengläser</falscheAntwort2>
             <falscheAntwort3>spiegelnde Brillengläser</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -161,7 +161,7 @@
             <falscheAntwort1>Quimbanda</falscheAntwort1>
             <falscheAntwort2>Homunculus</falscheAntwort2>
             <falscheAntwort3>Dissendium</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -171,7 +171,7 @@
             <falscheAntwort1>eine Goldbrille</falscheAntwort1>
             <falscheAntwort2>eine Silberbrille</falscheAntwort2>
             <falscheAntwort3>eine Saphirbrille</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -181,7 +181,7 @@
             <falscheAntwort1>eine Metallbrille</falscheAntwort1>
             <falscheAntwort2>eine federbesetzte Brille</falscheAntwort2>
             <falscheAntwort3>eine Holzbrille</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -191,7 +191,7 @@
             <falscheAntwort1>Cent</falscheAntwort1>
             <falscheAntwort2>Rubel</falscheAntwort2>
             <falscheAntwort3>Taler</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -201,7 +201,7 @@
             <falscheAntwort1>Hermine Granger</falscheAntwort1>
             <falscheAntwort2>Ginny Weasley</falscheAntwort2>
             <falscheAntwort3>Tina Malfoy</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -211,7 +211,7 @@
             <falscheAntwort1>Gero Bisanz</falscheAntwort1>
             <falscheAntwort2>Zero Toliman</falscheAntwort2>
             <falscheAntwort3>Pete Grease</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -221,7 +221,7 @@
             <falscheAntwort1>ca. 10 Minuten</falscheAntwort1>
             <falscheAntwort2>1 - 5 Minuten</falscheAntwort2>
             <falscheAntwort3>etwa 20 Minuten</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -231,7 +231,7 @@
             <falscheAntwort1>Ulujabula</falscheAntwort1>
             <falscheAntwort2>Elibemira</falscheAntwort2>
             <falscheAntwort3>Opolutia</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -241,7 +241,7 @@
             <falscheAntwort1>Zuzurobler</falscheAntwort1>
             <falscheAntwort2>Dudifurbler</falscheAntwort2>
             <falscheAntwort3>Sasilector</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -251,7 +251,7 @@
             <falscheAntwort1>Ovis</falscheAntwort1>
             <falscheAntwort2>Evis</falscheAntwort2>
             <falscheAntwort3>Uvis</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -261,7 +261,7 @@
             <falscheAntwort1>Ochse</falscheAntwort1>
             <falscheAntwort2>Stier</falscheAntwort2>
             <falscheAntwort3>Yak</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -271,7 +271,7 @@
             <falscheAntwort1>Beinschere</falscheAntwort1>
             <falscheAntwort2>Beinband</falscheAntwort2>
             <falscheAntwort3>Beinfessel</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -281,7 +281,7 @@
             <falscheAntwort1>Gringotts</falscheAntwort1>
             <falscheAntwort2>Spellotape</falscheAntwort2>
             <falscheAntwort3>Kerykeion</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -291,7 +291,7 @@
             <falscheAntwort1>Hund</falscheAntwort1>
             <falscheAntwort2>Maus</falscheAntwort2>
             <falscheAntwort3>Meerschweinchen</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -301,7 +301,7 @@
             <falscheAntwort1>Ravenclaw</falscheAntwort1>
             <falscheAntwort2>Gryffindor</falscheAntwort2>
             <falscheAntwort3>Hufflepuff</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -311,7 +311,7 @@
             <falscheAntwort1>Milchtee</falscheAntwort1>
             <falscheAntwort2>Margarinewein</falscheAntwort2>
             <falscheAntwort3>Sahneschnaps</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -321,7 +321,7 @@
             <falscheAntwort1>Sir Lancelord</falscheAntwort1>
             <falscheAntwort2>Sir Loch Ness</falscheAntwort2>
             <falscheAntwort3>Sir Dungeon</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -331,7 +331,7 @@
             <falscheAntwort1>Blinky</falscheAntwort1>
             <falscheAntwort2>Stinky</falscheAntwort2>
             <falscheAntwort3>Bonny</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -341,7 +341,7 @@
             <falscheAntwort1>Hokus Pokulos</falscheAntwort1>
             <falscheAntwort2>Simsada Labim</falscheAntwort2>
             <falscheAntwort3>Canerva Tragos</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -351,7 +351,7 @@
             <falscheAntwort1>Hermine Granger</falscheAntwort1>
             <falscheAntwort2>Ginny Weasley</falscheAntwort2>
             <falscheAntwort3>Perenelle Flamel</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -361,7 +361,7 @@
             <falscheAntwort1>Quasselfluch</falscheAntwort1>
             <falscheAntwort2>Laberfluch</falscheAntwort2>
             <falscheAntwort3>Stotterfluch</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -371,7 +371,7 @@
             <falscheAntwort1>Albert</falscheAntwort1>
             <falscheAntwort2>Armun</falscheAntwort2>
             <falscheAntwort3>Atlas</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -381,7 +381,7 @@
             <falscheAntwort1>Albus</falscheAntwort1>
             <falscheAntwort2>Alban</falscheAntwort2>
             <falscheAntwort3>Arnon</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -391,7 +391,7 @@
             <falscheAntwort1>Ravenclaw</falscheAntwort1>
             <falscheAntwort2>Gryffindor</falscheAntwort2>
             <falscheAntwort3>Slytherin</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -401,7 +401,7 @@
             <falscheAntwort1>Vergil</falscheAntwort1>
             <falscheAntwort2>Somil</falscheAntwort2>
             <falscheAntwort3>Hugil</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -411,7 +411,7 @@
             <falscheAntwort1>Obelisk</falscheAntwort1>
             <falscheAntwort2>Ramilisk</falscheAntwort2>
             <falscheAntwort3>Turmelisk</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -421,7 +421,7 @@
             <falscheAntwort1>Wuffi</falscheAntwort1>
             <falscheAntwort2>Satanus</falscheAntwort2>
             <falscheAntwort3>Wotanius</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -431,7 +431,7 @@
             <falscheAntwort1>Geister - Ghule</falscheAntwort1>
             <falscheAntwort2>Gespenster - Ghule</falscheAntwort2>
             <falscheAntwort3>Monster - Ghule</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -441,7 +441,7 @@
             <falscheAntwort1>Gezoar</falscheAntwort1>
             <falscheAntwort2>Mezoar</falscheAntwort2>
             <falscheAntwort3>Rezoar</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -451,7 +451,7 @@
             <falscheAntwort1>Mary Polkiss</falscheAntwort1>
             <falscheAntwort2>Anne Morlake</falscheAntwort2>
             <falscheAntwort3>Kim Tiang</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -461,7 +461,7 @@
             <falscheAntwort1>Thailändischer Feuersturm</falscheAntwort1>
             <falscheAntwort2>Tibetanische Feuerkugel</falscheAntwort2>
             <falscheAntwort3>Japanische Feuerwalze</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -471,7 +471,7 @@
             <falscheAntwort1>Simsalagrum</falscheAntwort1>
             <falscheAntwort2>Uporatula</falscheAntwort2>
             <falscheAntwort3>Infernola</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -481,7 +481,7 @@
             <falscheAntwort1>Donner Bullits</falscheAntwort1>
             <falscheAntwort2>Silver Cannons</falscheAntwort2>
             <falscheAntwort3>Greatly Bears</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -491,7 +491,7 @@
             <falscheAntwort1>einen Eierwärmer</falscheAntwort1>
             <falscheAntwort2>einen Kaffeewärmer</falscheAntwort2>
             <falscheAntwort3>eine Wärmeflasche</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -501,7 +501,7 @@
             <falscheAntwort1>Ben Brahim</falscheAntwort1>
             <falscheAntwort2>Ugur Bali</falscheAntwort2>
             <falscheAntwort3>Murat Taskin</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -511,7 +511,7 @@
             <falscheAntwort1>Cohan</falscheAntwort1>
             <falscheAntwort2>Corbes</falscheAntwort2>
             <falscheAntwort3>McCorty</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -521,7 +521,7 @@
             <falscheAntwort1>Elia Higgins</falscheAntwort1>
             <falscheAntwort2>Marc Donoway</falscheAntwort2>
             <falscheAntwort3>Bred Jordan</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -531,7 +531,7 @@
             <falscheAntwort1>Essex</falscheAntwort1>
             <falscheAntwort2>Sussex</falscheAntwort2>
             <falscheAntwort3>Eton</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -541,7 +541,7 @@
             <falscheAntwort1>Ron Weasley</falscheAntwort1>
             <falscheAntwort2>Neville Longbottom</falscheAntwort2>
             <falscheAntwort3>Graham Pritchard</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -551,7 +551,7 @@
             <falscheAntwort1>Croaker</falscheAntwort1>
             <falscheAntwort2>Mantikor</falscheAntwort2>
             <falscheAntwort3>Payne</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -561,7 +561,7 @@
             <falscheAntwort1>Draco Malfoy</falscheAntwort1>
             <falscheAntwort2>Gregory Goyle</falscheAntwort2>
             <falscheAntwort3>Ron Weasley</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -571,7 +571,7 @@
             <falscheAntwort1>Blackjack</falscheAntwort1>
             <falscheAntwort2>Bloodrun</falscheAntwort2>
             <falscheAntwort3>Blindbeer</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -581,7 +581,7 @@
             <falscheAntwort1>Ravenclaw</falscheAntwort1>
             <falscheAntwort2>Hufflepuff</falscheAntwort2>
             <falscheAntwort3>Slytherin</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -591,7 +591,7 @@
             <falscheAntwort1>Mary Marple</falscheAntwort1>
             <falscheAntwort2>Dana Whistler</falscheAntwort2>
             <falscheAntwort3>Paula Kadabra</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -601,7 +601,7 @@
             <falscheAntwort1>1993</falscheAntwort1>
             <falscheAntwort2>1992</falscheAntwort2>
             <falscheAntwort3>1991</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -611,7 +611,7 @@
             <falscheAntwort1>Hucratio - Fluch</falscheAntwort1>
             <falscheAntwort2>Frewentus - Fluch</falscheAntwort2>
             <falscheAntwort3>Zabuctus - Fluch</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -621,7 +621,7 @@
             <falscheAntwort1>Probiobskuranten</falscheAntwort1>
             <falscheAntwort2>Geoloskuranten</falscheAntwort2>
             <falscheAntwort3>Meteoskuranten</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -631,7 +631,7 @@
             <falscheAntwort1>Falke</falscheAntwort1>
             <falscheAntwort2>Habicht</falscheAntwort2>
             <falscheAntwort3>Bussard</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -641,7 +641,7 @@
             <falscheAntwort1>Filius</falscheAntwort1>
             <falscheAntwort2>Morgan</falscheAntwort2>
             <falscheAntwort3>Torben</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -651,7 +651,7 @@
             <falscheAntwort1>Abrara Mujasra</falscheAntwort1>
             <falscheAntwort2>Hokolo Brimboro</falscheAntwort2>
             <falscheAntwort3>Hukumu Serama</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -661,7 +661,7 @@
             <falscheAntwort1>Fuchs</falscheAntwort1>
             <falscheAntwort2>Biber</falscheAntwort2>
             <falscheAntwort3>Igel</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -671,7 +671,7 @@
             <falscheAntwort1>Roger Daltrey</falscheAntwort1>
             <falscheAntwort2>Robert Neroy</falscheAntwort2>
             <falscheAntwort3>Ron McFergusson</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -681,7 +681,7 @@
             <falscheAntwort1>Sir Albert Tommingham</falscheAntwort1>
             <falscheAntwort2>Sir Edward de Grollow</falscheAntwort2>
             <falscheAntwort3>Sir Francis Cook</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -691,7 +691,7 @@
             <falscheAntwort1>der beinlose Jack</falscheAntwort1>
             <falscheAntwort2>der Fast Durchsichtige Joe</falscheAntwort2>
             <falscheAntwort3>der halslose Ken</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -701,7 +701,7 @@
             <falscheAntwort1>Denkschale</falscheAntwort1>
             <falscheAntwort2>Denkoase</falscheAntwort2>
             <falscheAntwort3>Denkstätte</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -711,7 +711,7 @@
             <falscheAntwort1>Dentissimo</falscheAntwort1>
             <falscheAntwort2>Zahnobolus</falscheAntwort2>
             <falscheAntwort3>Zahnunibi</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -721,7 +721,7 @@
             <falscheAntwort1>Professor Binns</falscheAntwort1>
             <falscheAntwort2>Professor Hinns</falscheAntwort2>
             <falscheAntwort3>Professor Kinns</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -731,7 +731,7 @@
             <falscheAntwort1>Occie</falscheAntwort1>
             <falscheAntwort2>Uccia</falscheAntwort2>
             <falscheAntwort3>Eccoi</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -741,7 +741,7 @@
             <falscheAntwort1>Schimansky</falscheAntwort1>
             <falscheAntwort2>Wolff</falscheAntwort2>
             <falscheAntwort3>Ferdie</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -751,7 +751,7 @@
             <falscheAntwort1>Devil und Bones</falscheAntwort1>
             <falscheAntwort2>Blood und Honey</falscheAntwort2>
             <falscheAntwort3>Foggy und Mist</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -761,7 +761,7 @@
             <falscheAntwort1>Albus Dumbledore</falscheAntwort1>
             <falscheAntwort2>Adrian Pucey</falscheAntwort2>
             <falscheAntwort3>Aidan Lynch</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -771,7 +771,7 @@
             <falscheAntwort1>Gianthus</falscheAntwort1>
             <falscheAntwort2>Bianthus</falscheAntwort2>
             <falscheAntwort3>Mianthus</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -781,7 +781,7 @@
             <falscheAntwort1>Flechter</falscheAntwort1>
             <falscheAntwort2>Gretchery</falscheAntwort2>
             <falscheAntwort3>Dinchley</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -791,7 +791,7 @@
             <falscheAntwort1>dünne Dame im grünen Schlafrock</falscheAntwort1>
             <falscheAntwort2>große Dame im gelben Regenmantel</falscheAntwort2>
             <falscheAntwort3>kleine Dame im weißen Unhang</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -801,7 +801,7 @@
             <falscheAntwort1>hinter dem Wandschrank</falscheAntwort1>
             <falscheAntwort2>in einer Mauerritze</falscheAntwort2>
             <falscheAntwort3>unter der Matratze</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -811,7 +811,7 @@
             <falscheAntwort1>Piffindo</falscheAntwort1>
             <falscheAntwort2>Zibiffo</falscheAntwort2>
             <falscheAntwort3>Wibillo</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -821,7 +821,7 @@
             <falscheAntwort1>Ikarus Wiggel</falscheAntwort1>
             <falscheAntwort2>Damokles Higgel</falscheAntwort2>
             <falscheAntwort3>Ibrahim Tanko</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -831,7 +831,7 @@
             <falscheAntwort1>Dedric Ciggory</falscheAntwort1>
             <falscheAntwort2>Gedric Giccory</falscheAntwort2>
             <falscheAntwort3>Redric Riccory</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -841,7 +841,7 @@
             <falscheAntwort1>Dillirium</falscheAntwort1>
             <falscheAntwort2>Ferrossamo</falscheAntwort2>
             <falscheAntwort3>Fillipullimu</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -851,7 +851,7 @@
             <falscheAntwort1>Bobby</falscheAntwort1>
             <falscheAntwort2>Robby</falscheAntwort2>
             <falscheAntwort3>Wobby</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -861,7 +861,7 @@
             <falscheAntwort1>Iwan der Verrückte</falscheAntwort1>
             <falscheAntwort2>Gregor der Dumme</falscheAntwort2>
             <falscheAntwort3>Pjotr der Wahnsinnige</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -871,7 +871,7 @@
             <falscheAntwort1>in der Winkelgasse</falscheAntwort1>
             <falscheAntwort2>in der Drachengasse</falscheAntwort2>
             <falscheAntwort3>in der Geistergasse</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -881,7 +881,7 @@
             <falscheAntwort1>allabieren</falscheAntwort1>
             <falscheAntwort2>annarieren</falscheAntwort2>
             <falscheAntwort3>addarieren</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -891,7 +891,7 @@
             <falscheAntwort1>Wein und Gänseblut</falscheAntwort1>
             <falscheAntwort2>Bier und Mückenblut</falscheAntwort2>
             <falscheAntwort3>Sekt und Entenblut</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -901,7 +901,7 @@
             <falscheAntwort1>jede viertel Stunde</falscheAntwort1>
             <falscheAntwort2>alle 10 Minuten</falscheAntwort2>
             <falscheAntwort3>dreimal am Tag</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -911,7 +911,7 @@
             <falscheAntwort1>1907</falscheAntwort1>
             <falscheAntwort2>1790</falscheAntwort2>
             <falscheAntwort3>1970</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -921,7 +921,7 @@
             <falscheAntwort1>mit ihrem Körper</falscheAntwort1>
             <falscheAntwort2>mit Blättern und Moos</falscheAntwort2>
             <falscheAntwort3>mit heißem Sand</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -931,7 +931,7 @@
             <falscheAntwort1>2</falscheAntwort1>
             <falscheAntwort2>4</falscheAntwort2>
             <falscheAntwort3>5</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -941,7 +941,7 @@
             <falscheAntwort1>zwei Stunden</falscheAntwort1>
             <falscheAntwort2>10 Stunden</falscheAntwort2>
             <falscheAntwort3>eine halbe Stunde</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -951,7 +951,7 @@
             <falscheAntwort1>einen Briefmarkentausch - Club</falscheAntwort1>
             <falscheAntwort2>einen Zaubersprucherzähl - Club</falscheAntwort2>
             <falscheAntwort3>einen Gespenster - Club</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -961,7 +961,7 @@
             <falscheAntwort1>Aberfive</falscheAntwort1>
             <falscheAntwort2>Alberthore</falscheAntwort2>
             <falscheAntwort3>Alvingor</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -971,7 +971,7 @@
             <falscheAntwort1>Gilderoy Lockhart</falscheAntwort1>
             <falscheAntwort2>Minerva McGonagall</falscheAntwort2>
             <falscheAntwort3>Jim McGuffin</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -981,7 +981,7 @@
             <falscheAntwort1>Alter Lord</falscheAntwort1>
             <falscheAntwort2>Weißer Lord</falscheAntwort2>
             <falscheAntwort3>Monster Lord</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -991,7 +991,7 @@
             <falscheAntwort1>ein Kreuz</falscheAntwort1>
             <falscheAntwort2>ein Drache</falscheAntwort2>
             <falscheAntwort3>ein Vampir</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1001,7 +1001,7 @@
             <falscheAntwort1>Ron Weasley</falscheAntwort1>
             <falscheAntwort2>Pat Brid</falscheAntwort2>
             <falscheAntwort3>Joey Jenkins</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1011,7 +1011,7 @@
             <falscheAntwort1>Computer</falscheAntwort1>
             <falscheAntwort2>Küchengeräte</falscheAntwort2>
             <falscheAntwort3>Autoreifen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1021,7 +1021,7 @@
             <falscheAntwort1>1. Oktober</falscheAntwort1>
             <falscheAntwort2>1. August</falscheAntwort2>
             <falscheAntwort3>1. Juli</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1031,7 +1031,7 @@
             <falscheAntwort1>Elitezauberer</falscheAntwort1>
             <falscheAntwort2>G - 1 Zauberer</falscheAntwort2>
             <falscheAntwort3>Superzauberer</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1041,7 +1041,7 @@
             <falscheAntwort1/>
             <falscheAntwort2/>
             <falscheAntwort3/>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1051,7 +1051,7 @@
             <falscheAntwort1>Löwenmähnen - Haare</falscheAntwort1>
             <falscheAntwort2>Nashornschwanz - Haare</falscheAntwort2>
             <falscheAntwort3>Tigerschnurrbart - Haare</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1061,7 +1061,7 @@
             <falscheAntwort1>32 Knuts</falscheAntwort1>
             <falscheAntwort2>23 Sickel</falscheAntwort2>
             <falscheAntwort3>12 Galleonen</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1071,7 +1071,7 @@
             <falscheAntwort1>das neunte Lebensjahr</falscheAntwort1>
             <falscheAntwort2>das zehnte Lebensjahr</falscheAntwort2>
             <falscheAntwort3>das zwölfte Lebensjahr</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1081,7 +1081,7 @@
             <falscheAntwort1>2</falscheAntwort1>
             <falscheAntwort2>3</falscheAntwort2>
             <falscheAntwort3>5</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1091,7 +1091,7 @@
             <falscheAntwort1>Frost - Ratten</falscheAntwort1>
             <falscheAntwort2>Winter - Speck</falscheAntwort2>
             <falscheAntwort3>Kälte - Schokolade</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1101,7 +1101,7 @@
             <falscheAntwort1>Kobolde</falscheAntwort1>
             <falscheAntwort2>Zwerge</falscheAntwort2>
             <falscheAntwort3>Gnome</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1111,7 +1111,7 @@
             <falscheAntwort1>Irwisch der Schreckliche</falscheAntwort1>
             <falscheAntwort2>Darakon der Wütende</falscheAntwort2>
             <falscheAntwort3>Ultrigaria der Zornige</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1121,7 +1121,7 @@
             <falscheAntwort1>Alibert</falscheAntwort1>
             <falscheAntwort2>Holigate</falscheAntwort2>
             <falscheAntwort3>Bimiflate</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1131,7 +1131,7 @@
             <falscheAntwort1>Hornisten</falscheAntwort1>
             <falscheAntwort2>Gardisten</falscheAntwort2>
             <falscheAntwort3>Schnellisten</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1141,7 +1141,7 @@
             <falscheAntwort1>Emhabilo</falscheAntwort1>
             <falscheAntwort2>Exdrumera</falscheAntwort2>
             <falscheAntwort3>Essentia</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1151,7 +1151,7 @@
             <falscheAntwort1>Rita</falscheAntwort1>
             <falscheAntwort2>Onyx</falscheAntwort2>
             <falscheAntwort3>Luzia</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1161,7 +1161,7 @@
             <falscheAntwort1>vergnomen</falscheAntwort1>
             <falscheAntwort2>weggnomen</falscheAntwort2>
             <falscheAntwort3>begnomen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1171,7 +1171,7 @@
             <falscheAntwort1>Terry Glad</falscheAntwort1>
             <falscheAntwort2>Mary Blood</falscheAntwort2>
             <falscheAntwort3>Mary Grid</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1181,7 +1181,7 @@
             <falscheAntwort1>wie eine gelbe Leimtube</falscheAntwort1>
             <falscheAntwort2>wie ein weißer Füller</falscheAntwort2>
             <falscheAntwort3>wie ein grünes Lineal</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1191,7 +1191,7 @@
             <falscheAntwort1>Erdfräulein</falscheAntwort1>
             <falscheAntwort2>Erdopa</falscheAntwort2>
             <falscheAntwort3>Erdsäugling</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1201,7 +1201,7 @@
             <falscheAntwort1>Vergissmichnicht</falscheAntwort1>
             <falscheAntwort2>Denkanmich</falscheAntwort2>
             <falscheAntwort3>Verliermichnicht</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1211,7 +1211,7 @@
             <falscheAntwort1>mit schwarzem Rauch</falscheAntwort1>
             <falscheAntwort2>mit gelbem Rauch</falscheAntwort2>
             <falscheAntwort3>mit grünem Rauch</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1221,7 +1221,7 @@
             <falscheAntwort1>blau</falscheAntwort1>
             <falscheAntwort2>gold</falscheAntwort2>
             <falscheAntwort3>türkis</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1231,7 +1231,7 @@
             <falscheAntwort1>Birol</falscheAntwort1>
             <falscheAntwort2>Tahsin</falscheAntwort2>
             <falscheAntwort3>Ugur</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1241,7 +1241,7 @@
             <falscheAntwort1>von der Pariser Metro</falscheAntwort1>
             <falscheAntwort2>von der Moskauer U - Bahn</falscheAntwort2>
             <falscheAntwort3>vom Londoner Flughafen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1251,7 +1251,7 @@
             <falscheAntwort1>Blaue Graf</falscheAntwort1>
             <falscheAntwort2>Rote Lord</falscheAntwort2>
             <falscheAntwort3>Magische Fürst</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1261,7 +1261,7 @@
             <falscheAntwort1>im Ostturm</falscheAntwort1>
             <falscheAntwort2>im Südturm</falscheAntwort2>
             <falscheAntwort3>im Nordturm</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1271,7 +1271,7 @@
             <falscheAntwort1>sechseckig</falscheAntwort1>
             <falscheAntwort2>dreieckig</falscheAntwort2>
             <falscheAntwort3>viereckig</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1281,7 +1281,7 @@
             <falscheAntwort1>in der Garderobe</falscheAntwort1>
             <falscheAntwort2>im Garten</falscheAntwort2>
             <falscheAntwort3>im Schulbüro</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1291,7 +1291,7 @@
             <falscheAntwort1>mit einem gelben Lichtstrahl</falscheAntwort1>
             <falscheAntwort2>mit einem violetten Lichtstrahl</falscheAntwort2>
             <falscheAntwort3>mit einem silbernen Lichtstrahl</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1301,7 +1301,7 @@
             <falscheAntwort1>goldene Ringe</falscheAntwort1>
             <falscheAntwort2>silberne Haare</falscheAntwort2>
             <falscheAntwort3>silberne Zöpfe</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1311,7 +1311,7 @@
             <falscheAntwort1>Quimbanda</falscheAntwort1>
             <falscheAntwort2>Moulin Rouge</falscheAntwort2>
             <falscheAntwort3>Loiregeot</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1321,7 +1321,7 @@
             <falscheAntwort1>eine Geheimtür</falscheAntwort1>
             <falscheAntwort2>eine Schatzkiste</falscheAntwort2>
             <falscheAntwort3>einen Zauberstab</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1331,7 +1331,7 @@
             <falscheAntwort1>durch ein Zaubertor</falscheAntwort1>
             <falscheAntwort2>durch den magischen Vorhang</falscheAntwort2>
             <falscheAntwort3>durch ein verhextes Fenster</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1341,7 +1341,7 @@
             <falscheAntwort1>Schnapp</falscheAntwort1>
             <falscheAntwort2>Fass</falscheAntwort2>
             <falscheAntwort3>Beiß</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1351,7 +1351,7 @@
             <falscheAntwort1>Tole</falscheAntwort1>
             <falscheAntwort2>Kole</falscheAntwort2>
             <falscheAntwort3>Sole</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1361,7 +1361,7 @@
             <falscheAntwort1>einen Wellensittich</falscheAntwort1>
             <falscheAntwort2>ein Meerschweinchen</falscheAntwort2>
             <falscheAntwort3>einen Zwergdrachen</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1371,7 +1371,7 @@
             <falscheAntwort1>in das Ohr</falscheAntwort1>
             <falscheAntwort2>in das Bein</falscheAntwort2>
             <falscheAntwort3>in den Bauch</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1381,7 +1381,7 @@
             <falscheAntwort1>seit 1991</falscheAntwort1>
             <falscheAntwort2>seit 1992</falscheAntwort2>
             <falscheAntwort3>seit 1993</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1391,7 +1391,7 @@
             <falscheAntwort1>blau</falscheAntwort1>
             <falscheAntwort2>gelb</falscheAntwort2>
             <falscheAntwort3>grün</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1401,7 +1401,7 @@
             <falscheAntwort1>Stones</falscheAntwort1>
             <falscheAntwort2>Jones</falscheAntwort2>
             <falscheAntwort3>Klones</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1411,7 +1411,7 @@
             <falscheAntwort1>rot</falscheAntwort1>
             <falscheAntwort2>gelb</falscheAntwort2>
             <falscheAntwort3>grün</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1421,7 +1421,7 @@
             <falscheAntwort1>blau</falscheAntwort1>
             <falscheAntwort2>rot</falscheAntwort2>
             <falscheAntwort3>grün</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1431,7 +1431,7 @@
             <falscheAntwort1>rot</falscheAntwort1>
             <falscheAntwort2>gelb</falscheAntwort2>
             <falscheAntwort3>blau</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1441,7 +1441,7 @@
             <falscheAntwort1>oberhalb des rechten Knies</falscheAntwort1>
             <falscheAntwort2>unterhalb des rechten Knies</falscheAntwort2>
             <falscheAntwort3>unterhalb des linken Knies</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1451,7 +1451,7 @@
             <falscheAntwort1>Fransenschildkröte</falscheAntwort1>
             <falscheAntwort2>Brauner Waldkauz</falscheAntwort2>
             <falscheAntwort3>Kitfuchs</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1461,7 +1461,7 @@
             <falscheAntwort1>Slytherin</falscheAntwort1>
             <falscheAntwort2>Hufflepuff</falscheAntwort2>
             <falscheAntwort3>Gryffindor</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1471,7 +1471,7 @@
             <falscheAntwort1>Hawkes</falscheAntwort1>
             <falscheAntwort2>Sawkes</falscheAntwort2>
             <falscheAntwort3>Tawkes</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1481,7 +1481,7 @@
             <falscheAntwort1>Mini - Schrift</falscheAntwort1>
             <falscheAntwort2>Zwergen - Schrift</falscheAntwort2>
             <falscheAntwort3>Lilliput - Schrift</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1491,7 +1491,7 @@
             <falscheAntwort1/>
             <falscheAntwort2/>
             <falscheAntwort3/>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1501,7 +1501,7 @@
             <falscheAntwort1>Schweineohren</falscheAntwort1>
             <falscheAntwort2>einen Rattenschwanz</falscheAntwort2>
             <falscheAntwort3>Entenflügel</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1511,7 +1511,7 @@
             <falscheAntwort1>gold</falscheAntwort1>
             <falscheAntwort2>rot</falscheAntwort2>
             <falscheAntwort3>weiß</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1521,7 +1521,7 @@
             <falscheAntwort1>Eton</falscheAntwort1>
             <falscheAntwort2>Oxford</falscheAntwort2>
             <falscheAntwort3>Summerhill</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1531,7 +1531,7 @@
             <falscheAntwort1>im zweiten Schuljahr</falscheAntwort1>
             <falscheAntwort2>im dritten Schuljahr</falscheAntwort2>
             <falscheAntwort3>im fünften Schuljahr</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1541,7 +1541,7 @@
             <falscheAntwort1>ein Blutschwall</falscheAntwort1>
             <falscheAntwort2>Drachenschleim</falscheAntwort2>
             <falscheAntwort3>Fledermäuse</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1551,7 +1551,7 @@
             <falscheAntwort1>Kathrin</falscheAntwort1>
             <falscheAntwort2>Anne</falscheAntwort2>
             <falscheAntwort3>Mary</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1561,7 +1561,7 @@
             <falscheAntwort1>Veronika Dursley</falscheAntwort1>
             <falscheAntwort2>Amalie Dursley</falscheAntwort2>
             <falscheAntwort3>Rosalia Dursley</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1571,7 +1571,7 @@
             <falscheAntwort1>Eve Potter</falscheAntwort1>
             <falscheAntwort2>Lisa Potter</falscheAntwort2>
             <falscheAntwort3>Hanne Potter</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1581,7 +1581,7 @@
             <falscheAntwort1>Rockmusik</falscheAntwort1>
             <falscheAntwort2>Volksmusik</falscheAntwort2>
             <falscheAntwort3>Blasmusik</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1591,7 +1591,7 @@
             <falscheAntwort1>45 Jahre</falscheAntwort1>
             <falscheAntwort2>35 Jahre</falscheAntwort2>
             <falscheAntwort3>25 Jahre</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1601,7 +1601,7 @@
             <falscheAntwort1>so groß wie Fußbälle</falscheAntwort1>
             <falscheAntwort2>so groß wie Erbsen</falscheAntwort2>
             <falscheAntwort3>so groß wie Kürbisse</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1611,7 +1611,7 @@
             <falscheAntwort1>von einer Schnee - Eule</falscheAntwort1>
             <falscheAntwort2>von einem Steinadler</falscheAntwort2>
             <falscheAntwort3>von einem Einhorn</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1621,7 +1621,7 @@
             <falscheAntwort1>Professor Snape</falscheAntwort1>
             <falscheAntwort2>Professor McGonagall</falscheAntwort2>
             <falscheAntwort3>Blutige Baron</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1631,7 +1631,7 @@
             <falscheAntwort1>Gerald Potter</falscheAntwort1>
             <falscheAntwort2>Marvin Potter</falscheAntwort2>
             <falscheAntwort3>Calvin Dursley</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1641,7 +1641,7 @@
             <falscheAntwort1>Feindspiegel</falscheAntwort1>
             <falscheAntwort2>Feindlupe</falscheAntwort2>
             <falscheAntwort3>Feindrohr</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1651,7 +1651,7 @@
             <falscheAntwort1>Steinkekse</falscheAntwort1>
             <falscheAntwort2>Marmorkekse</falscheAntwort2>
             <falscheAntwort3>Eisenkekse</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1661,7 +1661,7 @@
             <falscheAntwort1>Tabula</falscheAntwort1>
             <falscheAntwort2>Gerula</falscheAntwort2>
             <falscheAntwort3>Majola</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1671,7 +1671,7 @@
             <falscheAntwort1>schneeweiß</falscheAntwort1>
             <falscheAntwort2>rabenschwarz</falscheAntwort2>
             <falscheAntwort3>blutrot</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1681,7 +1681,7 @@
             <falscheAntwort1>weiß</falscheAntwort1>
             <falscheAntwort2>schwarz</falscheAntwort2>
             <falscheAntwort3>rot</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1691,7 +1691,7 @@
             <falscheAntwort1>dicker Priester</falscheAntwort1>
             <falscheAntwort2>schwerer Bischof</falscheAntwort2>
             <falscheAntwort3>bauchiger Kardinal</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1701,7 +1701,7 @@
             <falscheAntwort1>Feuerstrahl</falscheAntwort1>
             <falscheAntwort2>Feuerstuhl</falscheAntwort2>
             <falscheAntwort3>Feuerschweif</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1711,7 +1711,7 @@
             <falscheAntwort1>Albus Dumbledore</falscheAntwort1>
             <falscheAntwort2>Hagrad</falscheAntwort2>
             <falscheAntwort3>Hermine Granger</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1721,7 +1721,7 @@
             <falscheAntwort1>gelbrot</falscheAntwort1>
             <falscheAntwort2>blauschwarz</falscheAntwort2>
             <falscheAntwort3>orangerot</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1731,7 +1731,7 @@
             <falscheAntwort1>Gold</falscheAntwort1>
             <falscheAntwort2>Eisen</falscheAntwort2>
             <falscheAntwort3>Porzellan</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1741,7 +1741,7 @@
             <falscheAntwort1>Draco Malfoy</falscheAntwort1>
             <falscheAntwort2>Professor Snape</falscheAntwort2>
             <falscheAntwort3>Bill Weasley</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1751,7 +1751,7 @@
             <falscheAntwort1>...., dass es gleich regnen wird.</falscheAntwort1>
             <falscheAntwort2>..., dass eine Hexe in der Nähe ist.</falscheAntwort2>
             <falscheAntwort3>..., dass der Zauberspruch falsch ist.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1761,7 +1761,7 @@
             <falscheAntwort1>Wasser - Omen</falscheAntwort1>
             <falscheAntwort2>Sturm - Omen</falscheAntwort2>
             <falscheAntwort3>Drachen - Omen</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1771,7 +1771,7 @@
             <falscheAntwort1>böse Katze</falscheAntwort1>
             <falscheAntwort2>schäbige Maus</falscheAntwort2>
             <falscheAntwort3>elende Ratte</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1781,7 +1781,7 @@
             <falscheAntwort1>Mrs Bigg</falscheAntwort1>
             <falscheAntwort2>Mrs Salome</falscheAntwort2>
             <falscheAntwort3>Mrs Donovay</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1791,7 +1791,7 @@
             <falscheAntwort1>Hagrid</falscheAntwort1>
             <falscheAntwort2>Aidan Lynch</falscheAntwort2>
             <falscheAntwort3>Albus Dumbledore</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1801,7 +1801,7 @@
             <falscheAntwort1>nachts im Verbotenen Wald einsperren</falscheAntwort1>
             <falscheAntwort2>in das Verlies von Askaban sperren</falscheAntwort2>
             <falscheAntwort3>in Gartengnome verzaubern</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1811,7 +1811,7 @@
             <falscheAntwort1>Golan Convay</falscheAntwort1>
             <falscheAntwort2>Ronald Weaton</falscheAntwort2>
             <falscheAntwort3>Keaton Buster</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1821,7 +1821,7 @@
             <falscheAntwort1>Norman Greenbaum</falscheAntwort1>
             <falscheAntwort2>Piers Polkiss</falscheAntwort2>
             <falscheAntwort3>Ludo Bagman</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1831,7 +1831,7 @@
             <falscheAntwort1>Finale Grande</falscheAntwort1>
             <falscheAntwort2>Finitum Res</falscheAntwort2>
             <falscheAntwort3>Exhuminus Tesdo</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1841,7 +1841,7 @@
             <falscheAntwort1>Milano</falscheAntwort1>
             <falscheAntwort2>Neapel</falscheAntwort2>
             <falscheAntwort3>Sizilia</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1851,7 +1851,7 @@
             <falscheAntwort1>Albus Dumbledore</falscheAntwort1>
             <falscheAntwort2>Harry Potter</falscheAntwort2>
             <falscheAntwort3>Professor McGonagall</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1861,7 +1861,7 @@
             <falscheAntwort1>Kürbissen</falscheAntwort1>
             <falscheAntwort2>Geistern</falscheAntwort2>
             <falscheAntwort3>Lichtkobolden</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1871,7 +1871,7 @@
             <falscheAntwort1>fliegendes Fahrrad</falscheAntwort1>
             <falscheAntwort2>fliegendes Auto</falscheAntwort2>
             <falscheAntwort3>fliegender Teppich</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -1881,7 +1881,7 @@
             <falscheAntwort1>mit einem fliegenden Fahrrad</falscheAntwort1>
             <falscheAntwort2>mit einem fliegenden Motorrad</falscheAntwort2>
             <falscheAntwort3>mit einem fliegenden Teppich</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -1891,7 +1891,7 @@
             <falscheAntwort1>Oliver Wood</falscheAntwort1>
             <falscheAntwort2>Ron Weasley</falscheAntwort2>
             <falscheAntwort3>Draco Malfoy</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1901,7 +1901,7 @@
             <falscheAntwort1>Professor Dumbledore</falscheAntwort1>
             <falscheAntwort2>Professor McGonagall</falscheAntwort2>
             <falscheAntwort3>Professor Quirrell</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1911,7 +1911,7 @@
             <falscheAntwort1>Ratten - Pulver</falscheAntwort1>
             <falscheAntwort2>Schnecken - Pulver</falscheAntwort2>
             <falscheAntwort3>Fliegen - Pulver</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1921,7 +1921,7 @@
             <falscheAntwort1>eine Trompete</falscheAntwort1>
             <falscheAntwort2>eine Geige</falscheAntwort2>
             <falscheAntwort3>eine Trommel</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1931,7 +1931,7 @@
             <falscheAntwort1>Ron Weasley</falscheAntwort1>
             <falscheAntwort2>Hermine Granger</falscheAntwort2>
             <falscheAntwort3>Professor Dumbledore</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -1941,7 +1941,7 @@
             <falscheAntwort1>Er verhext Trolle.</falscheAntwort1>
             <falscheAntwort2>Er zaubert Kraftlieder.</falscheAntwort2>
             <falscheAntwort3>Er weckt Geister auf.</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1951,7 +1951,7 @@
             <falscheAntwort1>Goofy</falscheAntwort1>
             <falscheAntwort2>Flecky</falscheAntwort2>
             <falscheAntwort3>Fuchur</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -1961,7 +1961,7 @@
             <falscheAntwort1>Eichenholz</falscheAntwort1>
             <falscheAntwort2>Buchenholz</falscheAntwort2>
             <falscheAntwort3>Birkenholz</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1971,7 +1971,7 @@
             <falscheAntwort1>zwischen zwei Statuen</falscheAntwort1>
             <falscheAntwort2>am Anfang der Wendeltreppe</falscheAntwort2>
             <falscheAntwort3>unter dem magischen Zauberteppich</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1981,7 +1981,7 @@
             <falscheAntwort1>2</falscheAntwort1>
             <falscheAntwort2>4</falscheAntwort2>
             <falscheAntwort3>5</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1991,7 +1991,7 @@
             <falscheAntwort1>Fortuna General</falscheAntwort1>
             <falscheAntwort2>Fortuna Maximus</falscheAntwort2>
             <falscheAntwort3>Fortuna Magica</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -2001,7 +2001,7 @@
             <falscheAntwort1>über einen ihrer Hunde</falscheAntwort1>
             <falscheAntwort2>über einen Besen</falscheAntwort2>
             <falscheAntwort3>über einen Teppich</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>

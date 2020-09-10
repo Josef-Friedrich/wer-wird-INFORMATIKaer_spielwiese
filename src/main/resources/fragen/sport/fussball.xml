@@ -11,7 +11,7 @@
             <falscheAntwort1>David Beckham</falscheAntwort1>
             <falscheAntwort2>Ronaldo</falscheAntwort2>
             <falscheAntwort3>Luis Figo</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -21,7 +21,7 @@
             <falscheAntwort1>5 - mal</falscheAntwort1>
             <falscheAntwort2>6 - mal</falscheAntwort2>
             <falscheAntwort3>4 - mal</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -31,7 +31,7 @@
             <falscheAntwort1>Er hielt bei einer Weltmeisterschaft 4 Elfmeter.</falscheAntwort1>
             <falscheAntwort2>Er schoss bei einer Weltmeisterschaft 16 Tore.</falscheAntwort2>
             <falscheAntwort3>Er schoss nach 14 Sekunden das schnellste Tor, das je bei einer Weltmeisterschaft geschossen wurde.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -41,7 +41,7 @@
             <falscheAntwort1>Südkorea</falscheAntwort1>
             <falscheAntwort2>Japan</falscheAntwort2>
             <falscheAntwort3>Senegal</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -51,7 +51,7 @@
             <falscheAntwort1>Italien</falscheAntwort1>
             <falscheAntwort2>Brasilien</falscheAntwort2>
             <falscheAntwort3>Frankreich</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -61,7 +61,7 @@
             <falscheAntwort1>Das Tor fiel in der 12. Minute der Nachspielzeit.</falscheAntwort1>
             <falscheAntwort2>Hakan Sükür schoss das Tor vom eigenen Strafraum aus.</falscheAntwort2>
             <falscheAntwort3>Hakan Sükür verwandelte einen Eckball direkt ins Tor.</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -71,7 +71,7 @@
             <falscheAntwort1>1 : 0 gewonnen</falscheAntwort1>
             <falscheAntwort2>0 : 1 verloren</falscheAntwort2>
             <falscheAntwort3>3 : 1 gewonnen</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -81,7 +81,7 @@
             <falscheAntwort1>1 : 3 verloren</falscheAntwort1>
             <falscheAntwort2>4 : 0 gewonnen</falscheAntwort2>
             <falscheAntwort3>0 : 2 verloren</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -91,7 +91,7 @@
             <falscheAntwort1>0 : 2 verloren</falscheAntwort1>
             <falscheAntwort2>3 : 1 gewonnen</falscheAntwort2>
             <falscheAntwort3>2 : 4 verloren</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -101,7 +101,7 @@
             <falscheAntwort1>Er wurde als erster Feldspieler im Tor eingesetzt und hielt sogar einen Elfmeter.</falscheAntwort1>
             <falscheAntwort2>Er verletzte sich beim ersten Gruppenspiel so schwer, dass er wieder nach Hause fliegen musste.</falscheAntwort2>
             <falscheAntwort3>Er verschoss den letzten Elfmeter im Finale.</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -111,7 +111,7 @@
             <falscheAntwort1>bis ins Achtelfinale</falscheAntwort1>
             <falscheAntwort2>Deutschland schied in der Vorrunde aus</falscheAntwort2>
             <falscheAntwort3>bis ins Halbfinale</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -121,7 +121,7 @@
             <falscheAntwort1>Italien</falscheAntwort1>
             <falscheAntwort2>Argentinien</falscheAntwort2>
             <falscheAntwort3>England</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -131,7 +131,7 @@
             <falscheAntwort1>Paraguay</falscheAntwort1>
             <falscheAntwort2>USA</falscheAntwort2>
             <falscheAntwort3>Kamerun</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -141,7 +141,7 @@
             <falscheAntwort1>Belgien</falscheAntwort1>
             <falscheAntwort2>Italien</falscheAntwort2>
             <falscheAntwort3>Japan</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -151,7 +151,7 @@
             <falscheAntwort1>Wanke</falscheAntwort1>
             <falscheAntwort2>Schranke</falscheAntwort2>
             <falscheAntwort3>Branke</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -161,7 +161,7 @@
             <falscheAntwort1>Bayer Leverkusen</falscheAntwort1>
             <falscheAntwort2>Borussia Dortmund</falscheAntwort2>
             <falscheAntwort3>Bayern München</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -171,7 +171,7 @@
             <falscheAntwort1>Manchester United</falscheAntwort1>
             <falscheAntwort2>Atletico Madrid</falscheAntwort2>
             <falscheAntwort3>AC Turin</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -181,7 +181,7 @@
             <falscheAntwort1>FC Schalke 04</falscheAntwort1>
             <falscheAntwort2>Bayern München</falscheAntwort2>
             <falscheAntwort3>Bayer Leverkusen</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -191,7 +191,7 @@
             <falscheAntwort1>4 : 1 gewonnen</falscheAntwort1>
             <falscheAntwort2>2 : 0 gewonnen</falscheAntwort2>
             <falscheAntwort3>0 : 3 verloren</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -201,7 +201,7 @@
             <falscheAntwort1>Mexiko</falscheAntwort1>
             <falscheAntwort2>Kamerun</falscheAntwort2>
             <falscheAntwort3>Japan</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -211,7 +211,7 @@
             <falscheAntwort1>Kamerun verwandelte 2 Eckbälle direkt ins Tor.</falscheAntwort1>
             <falscheAntwort2>Deutschland verschoss insgesamt 3 Elfmeter.</falscheAntwort2>
             <falscheAntwort3>In der 75. Minute wechselte sich der Trainer Rudi Völler selber ein.</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -221,7 +221,7 @@
             <falscheAntwort1>Das Spiel wurde wegen eines Gewitterregens abgebrochen.</falscheAntwort1>
             <falscheAntwort2>Deutschland verlor zum ersten Mal das Auftaktspiel einer Weltmeisterschaft mit 3 : 5 .</falscheAntwort2>
             <falscheAntwort3>Das Spiel wurde abgebrochen, weil 4 Spieler von Saudi Arabien eine rote Karte sahen.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -231,7 +231,7 @@
             <falscheAntwort1>Kroatien, Mexiko und Nigeria</falscheAntwort1>
             <falscheAntwort2>Südafrika, Slowenien und Paraguay</falscheAntwort2>
             <falscheAntwort3>Belgien, Russland und Tunesien</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -241,7 +241,7 @@
             <falscheAntwort1>Frankreich verlor das Halbfinale gegen England mit 3 : 1 .</falscheAntwort1>
             <falscheAntwort2>Frankreich erreichte das Achtelfinale.</falscheAntwort2>
             <falscheAntwort3>Frankreich verteidigte seinen Weltmeistertitel durch einen 2 : 0 Sieg über Italien.</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -251,7 +251,7 @@
             <falscheAntwort1>Deutschland</falscheAntwort1>
             <falscheAntwort2>Niederlande und Belgien</falscheAntwort2>
             <falscheAntwort3>Kamerun</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -261,7 +261,7 @@
             <falscheAntwort1>Foulen Ist Fieses Abwehren</falscheAntwort1>
             <falscheAntwort2>Fußballer Im Fernen Afrika</falscheAntwort2>
             <falscheAntwort3>Fußball Ist Für Alle</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -271,7 +271,7 @@
             <falscheAntwort1>Sechser - Band</falscheAntwort1>
             <falscheAntwort2>Fünfer - Ring</falscheAntwort2>
             <falscheAntwort3>Dreier - Schloss</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -281,7 +281,7 @@
             <falscheAntwort1>Das Trikot ist bunt.</falscheAntwort1>
             <falscheAntwort2>Ein Schuss wie ein Pfund.</falscheAntwort2>
             <falscheAntwort3>Hauptsache gesund !</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -291,7 +291,7 @@
             <falscheAntwort1>Unhold</falscheAntwort1>
             <falscheAntwort2>Unfehlbarer</falscheAntwort2>
             <falscheAntwort3>Überirdischer</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -301,7 +301,7 @@
             <falscheAntwort1>Abkürzung für „Meldung an den Unpateiischen“</falscheAntwort1>
             <falscheAntwort2>neuer Stürmerstar vom BVB</falscheAntwort2>
             <falscheAntwort3>Traineranweisung, dass die Mannschaft auf Unentschieden spielen soll</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -311,7 +311,7 @@
             <falscheAntwort1>Udo Lattek</falscheAntwort1>
             <falscheAntwort2>Ottmar Hitzfeld</falscheAntwort2>
             <falscheAntwort3>Matthias Sammer</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -321,7 +321,7 @@
             <falscheAntwort1>Borussia Dortmund</falscheAntwort1>
             <falscheAntwort2>Bayern München</falscheAntwort2>
             <falscheAntwort3>Das gelang noch keinem Aufsteiger.</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -331,7 +331,7 @@
             <falscheAntwort1>Borussia Dortmund</falscheAntwort1>
             <falscheAntwort2>Werder Bremen</falscheAntwort2>
             <falscheAntwort3>1. FC Kaiserslautern</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -341,7 +341,7 @@
             <falscheAntwort1>1. FC Kaiserslautern</falscheAntwort1>
             <falscheAntwort2>Borussia Dortmund</falscheAntwort2>
             <falscheAntwort3>Borussia Mönchengladbach</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -351,7 +351,7 @@
             <falscheAntwort1>1. FC Köln</falscheAntwort1>
             <falscheAntwort2>1. FC Kaiserslautern</falscheAntwort2>
             <falscheAntwort3>Borussia Dortmund</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -361,7 +361,7 @@
             <falscheAntwort1>Werder Bremen</falscheAntwort1>
             <falscheAntwort2>Borussia Dortmund</falscheAntwort2>
             <falscheAntwort3>Bayern München</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -371,7 +371,7 @@
             <falscheAntwort1>Hamburger SV</falscheAntwort1>
             <falscheAntwort2>1. FC Kaiserslautern</falscheAntwort2>
             <falscheAntwort3>Borussia Dortmund</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -381,7 +381,7 @@
             <falscheAntwort1>Werder Bremen</falscheAntwort1>
             <falscheAntwort2>Bayern München</falscheAntwort2>
             <falscheAntwort3>1. FC Kaiserslautern</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -391,7 +391,7 @@
             <falscheAntwort1>1. FC Kaiserslautern</falscheAntwort1>
             <falscheAntwort2>Werder Bremen</falscheAntwort2>
             <falscheAntwort3>Bayern München</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -401,7 +401,7 @@
             <falscheAntwort1>1. FC Kaiserslautern</falscheAntwort1>
             <falscheAntwort2>Werder Bremen</falscheAntwort2>
             <falscheAntwort3>Hamburger SV</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -411,7 +411,7 @@
             <falscheAntwort1>1. FC Kaiserslautern</falscheAntwort1>
             <falscheAntwort2>Hamburger SV</falscheAntwort2>
             <falscheAntwort3>VfB Stuttgart</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -421,7 +421,7 @@
             <falscheAntwort1>Hamburger SV</falscheAntwort1>
             <falscheAntwort2>Werder Bremen</falscheAntwort2>
             <falscheAntwort3>1. FC Kaiserslautern</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -431,7 +431,7 @@
             <falscheAntwort1>Bayern München</falscheAntwort1>
             <falscheAntwort2>1. FC Köln</falscheAntwort2>
             <falscheAntwort3>Borussia Dortmund</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -441,7 +441,7 @@
             <falscheAntwort1>Hamburger SV</falscheAntwort1>
             <falscheAntwort2>Borussia Dortmund</falscheAntwort2>
             <falscheAntwort3>Borussia Mönchengladbach</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -451,7 +451,7 @@
             <falscheAntwort1>Werder Bremen</falscheAntwort1>
             <falscheAntwort2>TSV 1860 München</falscheAntwort2>
             <falscheAntwort3>1. FC Köln</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -461,7 +461,7 @@
             <falscheAntwort1>VfB Stuttgart</falscheAntwort1>
             <falscheAntwort2>Hamburger SV</falscheAntwort2>
             <falscheAntwort3>1. FC Kaiserslautern</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -471,7 +471,7 @@
             <falscheAntwort1>Hamburger SV</falscheAntwort1>
             <falscheAntwort2>Werder Bremen</falscheAntwort2>
             <falscheAntwort3>Schalke 04</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -481,7 +481,7 @@
             <falscheAntwort1>Borussia Dortmund</falscheAntwort1>
             <falscheAntwort2>Hamburger SV</falscheAntwort2>
             <falscheAntwort3>1. FC Kaiserslautern</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -491,7 +491,7 @@
             <falscheAntwort1>Werder Bremen</falscheAntwort1>
             <falscheAntwort2>Borussia Mönchengladbach</falscheAntwort2>
             <falscheAntwort3>Hamburger SV</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -501,7 +501,7 @@
             <falscheAntwort1>1. FC Kaiserslautern</falscheAntwort1>
             <falscheAntwort2>Werder Bremen</falscheAntwort2>
             <falscheAntwort3>Hamburger SV</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -511,7 +511,7 @@
             <falscheAntwort1>1. FC Köln</falscheAntwort1>
             <falscheAntwort2>Eintracht Frankfurt</falscheAntwort2>
             <falscheAntwort3>1. Kaiserslautern</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -521,7 +521,7 @@
             <falscheAntwort1>Borussia Mönchengladbach</falscheAntwort1>
             <falscheAntwort2>Bayern München</falscheAntwort2>
             <falscheAntwort3>Borussia Dortmund</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -531,7 +531,7 @@
             <falscheAntwort1>Werder Bremen</falscheAntwort1>
             <falscheAntwort2>Hamburger SV</falscheAntwort2>
             <falscheAntwort3>Borussia Mönchengladbach</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -541,7 +541,7 @@
             <falscheAntwort1>Schalke 04</falscheAntwort1>
             <falscheAntwort2>Borussia Dortmund</falscheAntwort2>
             <falscheAntwort3>1. FC Nürnberg</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -551,7 +551,7 @@
             <falscheAntwort1>VfB Stuttgart</falscheAntwort1>
             <falscheAntwort2>Werder Bremen</falscheAntwort2>
             <falscheAntwort3>TSV 1860 München</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -561,7 +561,7 @@
             <falscheAntwort1>VfB Stuttgart</falscheAntwort1>
             <falscheAntwort2>1. FC Kaiserslautern</falscheAntwort2>
             <falscheAntwort3>Borussia Dortmund</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -571,7 +571,7 @@
             <falscheAntwort1>Werder Bremen</falscheAntwort1>
             <falscheAntwort2>Eintracht Braunschweig</falscheAntwort2>
             <falscheAntwort3>Bayern München</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -581,7 +581,7 @@
             <falscheAntwort1>Schalke 04</falscheAntwort1>
             <falscheAntwort2>Bayern München</falscheAntwort2>
             <falscheAntwort3>Borussia Dortmund</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -591,7 +591,7 @@
             <falscheAntwort1>Bayern München</falscheAntwort1>
             <falscheAntwort2>Hamburger SV</falscheAntwort2>
             <falscheAntwort3>1. FC Kaiserslautern</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -601,7 +601,7 @@
             <falscheAntwort1>Hamburger SV</falscheAntwort1>
             <falscheAntwort2>VfB Stuttgart</falscheAntwort2>
             <falscheAntwort3>Werder Bremen</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -611,7 +611,7 @@
             <falscheAntwort1>1. FC Köln</falscheAntwort1>
             <falscheAntwort2>Borussia Mönchengladbach</falscheAntwort2>
             <falscheAntwort3>Hamburger SV</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -621,7 +621,7 @@
             <falscheAntwort1>Borussia Dortmund</falscheAntwort1>
             <falscheAntwort2>Borussia Mönchengladbach</falscheAntwort2>
             <falscheAntwort3>Schalke 04</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -631,7 +631,7 @@
             <falscheAntwort1>Eintracht Frankfurt</falscheAntwort1>
             <falscheAntwort2>1. FC Nürnberg</falscheAntwort2>
             <falscheAntwort3>Werder Bremen</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -641,7 +641,7 @@
             <falscheAntwort1>1. FC Kaiserslautern</falscheAntwort1>
             <falscheAntwort2>Bayern München</falscheAntwort2>
             <falscheAntwort3>Hamburger SV</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -651,7 +651,7 @@
             <falscheAntwort1>1. FC Köln</falscheAntwort1>
             <falscheAntwort2>Borussia Dortmund</falscheAntwort2>
             <falscheAntwort3>Werder Bremen</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -661,7 +661,7 @@
             <falscheAntwort1>1. FC Kaiserslautern</falscheAntwort1>
             <falscheAntwort2>1. FC Köln</falscheAntwort2>
             <falscheAntwort3>Schalke 04</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -671,7 +671,7 @@
             <falscheAntwort1>1. FC Nürnberg</falscheAntwort1>
             <falscheAntwort2>Borussia Mönchengladbach</falscheAntwort2>
             <falscheAntwort3>1. FC Kaiserslautern</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -681,7 +681,7 @@
             <falscheAntwort1>Eintracht Braunschweig</falscheAntwort1>
             <falscheAntwort2>Bayern München</falscheAntwort2>
             <falscheAntwort3>VfB Stuttgart</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -691,7 +691,7 @@
             <falscheAntwort1>1. FC Köln</falscheAntwort1>
             <falscheAntwort2>Borussia Dortmund</falscheAntwort2>
             <falscheAntwort3>Hamburger SV</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -701,7 +701,7 @@
             <falscheAntwort1>1991</falscheAntwort1>
             <falscheAntwort2>1997</falscheAntwort2>
             <falscheAntwort3>Es gibt keine Champions League</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -711,7 +711,7 @@
             <falscheAntwort1>Brasilien</falscheAntwort1>
             <falscheAntwort2>Spanien</falscheAntwort2>
             <falscheAntwort3>Argentinien</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -721,7 +721,7 @@
             <falscheAntwort1>Oma Bein</falscheAntwort1>
             <falscheAntwort2>Onkel Hansi</falscheAntwort2>
             <falscheAntwort3>Opa Schuss</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -731,7 +731,7 @@
             <falscheAntwort1>Oliver Bierhoff</falscheAntwort1>
             <falscheAntwort2>Klaus Toppmöller</falscheAntwort2>
             <falscheAntwort3>Jürgen Klinsmann</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -741,7 +741,7 @@
             <falscheAntwort1>Bohnenheber</falscheAntwort1>
             <falscheAntwort2>Böllerschuss</falscheAntwort2>
             <falscheAntwort3>Gurkenecke</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -751,7 +751,7 @@
             <falscheAntwort1>Mike</falscheAntwort1>
             <falscheAntwort2>Sepp</falscheAntwort2>
             <falscheAntwort3>Jupp</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -761,7 +761,7 @@
             <falscheAntwort1>Kurt Maier</falscheAntwort1>
             <falscheAntwort2>Sepp Blatter</falscheAntwort2>
             <falscheAntwort3>Günther Frank</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -771,7 +771,7 @@
             <falscheAntwort1>der Mann mit der Pfeife</falscheAntwort1>
             <falscheAntwort2>der Mann mit dem Hut</falscheAntwort2>
             <falscheAntwort3>der Mann mit dem Ball</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -781,7 +781,7 @@
             <falscheAntwort1>Günter Netzer</falscheAntwort1>
             <falscheAntwort2>Franz Beckenbauer</falscheAntwort2>
             <falscheAntwort3>Oliver Bierhoff</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -791,7 +791,7 @@
             <falscheAntwort1>Deutschland und Argentinien</falscheAntwort1>
             <falscheAntwort2>Brasilien und Italien</falscheAntwort2>
             <falscheAntwort3>Brasilien und Argentinien</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -801,7 +801,7 @@
             <falscheAntwort1>im Halbfinale</falscheAntwort1>
             <falscheAntwort2>im Achtelfinale</falscheAntwort2>
             <falscheAntwort3>im Finale</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -811,7 +811,7 @@
             <falscheAntwort1>D F B</falscheAntwort1>
             <falscheAntwort2>U E F A</falscheAntwort2>
             <falscheAntwort3>A D A C</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -821,7 +821,7 @@
             <falscheAntwort1>Deutschland</falscheAntwort1>
             <falscheAntwort2>Brasilien</falscheAntwort2>
             <falscheAntwort3>England</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -831,7 +831,7 @@
             <falscheAntwort1>Deutschland</falscheAntwort1>
             <falscheAntwort2>Italien</falscheAntwort2>
             <falscheAntwort3>Frankreich</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -841,7 +841,7 @@
             <falscheAntwort1>Oliver Kahn</falscheAntwort1>
             <falscheAntwort2>Franz Beckenbauer</falscheAntwort2>
             <falscheAntwort3>Jürgen Klinsmann</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -851,7 +851,7 @@
             <falscheAntwort1>Deutschland</falscheAntwort1>
             <falscheAntwort2>Italien</falscheAntwort2>
             <falscheAntwort3>Dänemark</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -861,7 +861,7 @@
             <falscheAntwort1>Deutschland und Österreich</falscheAntwort1>
             <falscheAntwort2>Italien und Schweiz</falscheAntwort2>
             <falscheAntwort3>England und Schottland</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -871,7 +871,7 @@
             <falscheAntwort1>alle 8 Jahre</falscheAntwort1>
             <falscheAntwort2>alle 2 Jahre</falscheAntwort2>
             <falscheAntwort3>alle 6 Jahre</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -881,7 +881,7 @@
             <falscheAntwort1>Schalke 04 Bayern München</falscheAntwort1>
             <falscheAntwort2>Borussia Dortmund Schalke 04</falscheAntwort2>
             <falscheAntwort3>Hamburger SV Bayern München</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -891,7 +891,7 @@
             <falscheAntwort1>Brasilia</falscheAntwort1>
             <falscheAntwort2>New York</falscheAntwort2>
             <falscheAntwort3>London</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -901,7 +901,7 @@
             <falscheAntwort1>Andreas Köpke</falscheAntwort1>
             <falscheAntwort2>Oliver Kahn</falscheAntwort2>
             <falscheAntwort3>Oliver Reck</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -911,7 +911,7 @@
             <falscheAntwort1>TSV 1860 München</falscheAntwort1>
             <falscheAntwort2>Bayern München</falscheAntwort2>
             <falscheAntwort3>Bayer Leverkusen</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -921,7 +921,7 @@
             <falscheAntwort1>Glück</falscheAntwort1>
             <falscheAntwort2>Vorwärts</falscheAntwort2>
             <falscheAntwort3>Sieg</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -931,7 +931,7 @@
             <falscheAntwort1>4</falscheAntwort1>
             <falscheAntwort2>8</falscheAntwort2>
             <falscheAntwort3>2</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -941,7 +941,7 @@
             <falscheAntwort1>Hansa Rostock</falscheAntwort1>
             <falscheAntwort2>Werder Bremen</falscheAntwort2>
             <falscheAntwort3>VfL Wolfsburg</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -951,7 +951,7 @@
             <falscheAntwort1>In der Woche müssen</falscheAntwort1>
             <falscheAntwort2/>
             <falscheAntwort3/>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -961,7 +961,7 @@
             <falscheAntwort1>Borussia Dortmund</falscheAntwort1>
             <falscheAntwort2>VfL Bochum</falscheAntwort2>
             <falscheAntwort3>Karlsruher SC</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -971,7 +971,7 @@
             <falscheAntwort1>Debüt</falscheAntwort1>
             <falscheAntwort2>Duell</falscheAntwort2>
             <falscheAntwort3>Duett</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -981,7 +981,7 @@
             <falscheAntwort1>3 mal</falscheAntwort1>
             <falscheAntwort2>5 mal</falscheAntwort2>
             <falscheAntwort3>6 mal</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -991,7 +991,7 @@
             <falscheAntwort1>seit 1985</falscheAntwort1>
             <falscheAntwort2>seit 1990</falscheAntwort2>
             <falscheAntwort3>seit 1999</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1001,7 +1001,7 @@
             <falscheAntwort1>Giovanni Trappatoni</falscheAntwort1>
             <falscheAntwort2>Otto Rehagel</falscheAntwort2>
             <falscheAntwort3>Ottmar Hitzfeld</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1011,7 +1011,7 @@
             <falscheAntwort1>10 : 0</falscheAntwort1>
             <falscheAntwort2>15 : 0</falscheAntwort2>
             <falscheAntwort3>8 : 0</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1021,7 +1021,7 @@
             <falscheAntwort1>Bayern München</falscheAntwort1>
             <falscheAntwort2>Schalke 04</falscheAntwort2>
             <falscheAntwort3>1. FC Nürnberg</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1031,7 +1031,7 @@
             <falscheAntwort1>die Mannschaft ohne Flutlicht</falscheAntwort1>
             <falscheAntwort2>der Tabellenerste</falscheAntwort2>
             <falscheAntwort3>die Mannschaft mit roten Trikots</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1041,7 +1041,7 @@
             <falscheAntwort1>Torschützenpräsident</falscheAntwort1>
             <falscheAntwort2>Torschützenkaiser</falscheAntwort2>
             <falscheAntwort3>Torschützenkanzler</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1051,7 +1051,7 @@
             <falscheAntwort1>Schalke 04</falscheAntwort1>
             <falscheAntwort2>Borussia Dortmund</falscheAntwort2>
             <falscheAntwort3>Hertha BSC Berlin</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1061,7 +1061,7 @@
             <falscheAntwort1>Borussia Dortmund</falscheAntwort1>
             <falscheAntwort2>1. FC Nürnberg</falscheAntwort2>
             <falscheAntwort3>Bayern München</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1071,7 +1071,7 @@
             <falscheAntwort1>1970</falscheAntwort1>
             <falscheAntwort2>1954</falscheAntwort2>
             <falscheAntwort3>1982</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1081,7 +1081,7 @@
             <falscheAntwort1>Es kamen keine Zuschauer.</falscheAntwort1>
             <falscheAntwort2>Ein Krater war im Mittelkreis.</falscheAntwort2>
             <falscheAntwort3>Der Schiedsrichter war erkältet.</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1091,7 +1091,7 @@
             <falscheAntwort1>eine Spielbank für Fußballer</falscheAntwort1>
             <falscheAntwort2>eine Sparkasse für Fußballer</falscheAntwort2>
             <falscheAntwort3/>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1101,7 +1101,7 @@
             <falscheAntwort1>Anstoß</falscheAntwort1>
             <falscheAntwort2>Querpass</falscheAntwort2>
             <falscheAntwort3>Torschuss</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1111,7 +1111,7 @@
             <falscheAntwort1>bergen</falscheAntwort1>
             <falscheAntwort2>löchern</falscheAntwort2>
             <falscheAntwort3>klettern</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1121,7 +1121,7 @@
             <falscheAntwort1>Achtung, Abseitsfalle !</falscheAntwort1>
             <falscheAntwort2>schneller spielen</falscheAntwort2>
             <falscheAntwort3>ein oder zwei Spieler werden</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1131,7 +1131,7 @@
             <falscheAntwort1>Der Schiedsrichter schenkt etwas.</falscheAntwort1>
             <falscheAntwort2>Sie bekommt Geschenke.</falscheAntwort2>
             <falscheAntwort3>Der Trainer hat Geburtstag.</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1141,7 +1141,7 @@
             <falscheAntwort1>wenn er mit zwei Füßen getreten wird</falscheAntwort1>
             <falscheAntwort2>wenn der Trainer sagt:</falscheAntwort2>
             <falscheAntwort3/>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1151,7 +1151,7 @@
             <falscheAntwort1>Er muss barfuß spielen.</falscheAntwort1>
             <falscheAntwort2>Stadionverbot</falscheAntwort2>
             <falscheAntwort3>Er darf nicht duschen.</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1161,7 +1161,7 @@
             <falscheAntwort1>Goldener Schuss</falscheAntwort1>
             <falscheAntwort2>Samstagsschuss</falscheAntwort2>
             <falscheAntwort3>Hoch- und Weitschuss</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1171,7 +1171,7 @@
             <falscheAntwort1>Amsel</falscheAntwort1>
             <falscheAntwort2>Meise</falscheAntwort2>
             <falscheAntwort3>Taube</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1181,7 +1181,7 @@
             <falscheAntwort1>Kunstschuss</falscheAntwort1>
             <falscheAntwort2>Akrobatenschuss</falscheAntwort2>
             <falscheAntwort3>Fallgranate</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1191,7 +1191,7 @@
             <falscheAntwort1>Abwehrschuss</falscheAntwort1>
             <falscheAntwort2>Rettungsschuss</falscheAntwort2>
             <falscheAntwort3>Superschuss</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1201,7 +1201,7 @@
             <falscheAntwort1>bellen</falscheAntwort1>
             <falscheAntwort2>wiehern</falscheAntwort2>
             <falscheAntwort3>miauen</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -1211,7 +1211,7 @@
             <falscheAntwort1>bis der Regen aufgehört hat</falscheAntwort1>
             <falscheAntwort2>gar nicht</falscheAntwort2>
             <falscheAntwort3>zwei Stunden</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1221,7 +1221,7 @@
             <falscheAntwort1>Kobold</falscheAntwort1>
             <falscheAntwort2>Konto</falscheAntwort2>
             <falscheAntwort3>Komma</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1231,7 +1231,7 @@
             <falscheAntwort1>ausputzen</falscheAntwort1>
             <falscheAntwort2>absaugen</falscheAntwort2>
             <falscheAntwort3>einlochen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1241,7 +1241,7 @@
             <falscheAntwort1>8</falscheAntwort1>
             <falscheAntwort2>14</falscheAntwort2>
             <falscheAntwort3>10</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1251,7 +1251,7 @@
             <falscheAntwort1>Abseitsgraben</falscheAntwort1>
             <falscheAntwort2>Abseitshöhle</falscheAntwort2>
             <falscheAntwort3>Abseitsgrube</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1261,7 +1261,7 @@
             <falscheAntwort1>beim Steilpass</falscheAntwort1>
             <falscheAntwort2>beim Doppelpass</falscheAntwort2>
             <falscheAntwort3>in der Verlängerung</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1271,7 +1271,7 @@
             <falscheAntwort1>in der Verlängerung</falscheAntwort1>
             <falscheAntwort2>bei der Ballannahme</falscheAntwort2>
             <falscheAntwort3>in der Halbzeit</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1281,7 +1281,7 @@
             <falscheAntwort1>1904</falscheAntwort1>
             <falscheAntwort2>1898</falscheAntwort2>
             <falscheAntwort3>1925</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1291,7 +1291,7 @@
             <falscheAntwort1>München</falscheAntwort1>
             <falscheAntwort2>Dortmund</falscheAntwort2>
             <falscheAntwort3>Hamburg</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1301,7 +1301,7 @@
             <falscheAntwort1>Borussia Dortmund</falscheAntwort1>
             <falscheAntwort2>Schalke 04</falscheAntwort2>
             <falscheAntwort3>Borussia Mönchengladbach</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1311,7 +1311,7 @@
             <falscheAntwort1>Eckball</falscheAntwort1>
             <falscheAntwort2>Anstoß</falscheAntwort2>
             <falscheAntwort3>Abschlag</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -1321,7 +1321,7 @@
             <falscheAntwort1>11</falscheAntwort1>
             <falscheAntwort2>22</falscheAntwort2>
             <falscheAntwort3>13</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1331,7 +1331,7 @@
             <falscheAntwort1>1</falscheAntwort1>
             <falscheAntwort2>2</falscheAntwort2>
             <falscheAntwort3>4</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1341,7 +1341,7 @@
             <falscheAntwort1>45 Minuten</falscheAntwort1>
             <falscheAntwort2>120 Minuten</falscheAntwort2>
             <falscheAntwort3>60 Minuten</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1351,7 +1351,7 @@
             <falscheAntwort1>Franz Beckenbauer</falscheAntwort1>
             <falscheAntwort2>Jupp Derwall</falscheAntwort2>
             <falscheAntwort3>Helmut Schön</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1361,7 +1361,7 @@
             <falscheAntwort1>Franz Beckenbauer</falscheAntwort1>
             <falscheAntwort2>Helmut Rahn</falscheAntwort2>
             <falscheAntwort3>Martin Max</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1371,7 +1371,7 @@
             <falscheAntwort1>ca. 80 m lang und ca. 30 m breit</falscheAntwort1>
             <falscheAntwort2>ca. 77 m lang und ca. 66 m breit</falscheAntwort2>
             <falscheAntwort3>ca. 100 m lang und ca. 50 m breit</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1381,7 +1381,7 @@
             <falscheAntwort1>Berti Vogts</falscheAntwort1>
             <falscheAntwort2>Sepp Herberger</falscheAntwort2>
             <falscheAntwort3>Lothar Matthäus</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1391,7 +1391,7 @@
             <falscheAntwort1>Holland</falscheAntwort1>
             <falscheAntwort2>Frankreich</falscheAntwort2>
             <falscheAntwort3>England</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1401,7 +1401,7 @@
             <falscheAntwort1>Franz Klammer</falscheAntwort1>
             <falscheAntwort2>Franz Hinterseher</falscheAntwort2>
             <falscheAntwort3>Franz Eckenschläger</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -1411,7 +1411,7 @@
             <falscheAntwort1>Oliver Kahn</falscheAntwort1>
             <falscheAntwort2>Jürgen Kohler</falscheAntwort2>
             <falscheAntwort3>Mehmet Scholl</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -1421,7 +1421,7 @@
             <falscheAntwort1>grün</falscheAntwort1>
             <falscheAntwort2>gelb</falscheAntwort2>
             <falscheAntwort3>blau</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1431,7 +1431,7 @@
             <falscheAntwort1>England</falscheAntwort1>
             <falscheAntwort2>Frankreich</falscheAntwort2>
             <falscheAntwort3>Ungarn</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1441,7 +1441,7 @@
             <falscheAntwort1>1. FC Köln</falscheAntwort1>
             <falscheAntwort2>Schalke 04</falscheAntwort2>
             <falscheAntwort3>TSV München 1860</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1451,7 +1451,7 @@
             <falscheAntwort1>Verwarnung</falscheAntwort1>
             <falscheAntwort2>Halbzeit</falscheAntwort2>
             <falscheAntwort3>Verlängerung</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1461,7 +1461,7 @@
             <falscheAntwort1>1940</falscheAntwort1>
             <falscheAntwort2>1920</falscheAntwort2>
             <falscheAntwort3>1950</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1471,7 +1471,7 @@
             <falscheAntwort1>1900</falscheAntwort1>
             <falscheAntwort2>1896</falscheAntwort2>
             <falscheAntwort3>1910</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1481,7 +1481,7 @@
             <falscheAntwort1>1954</falscheAntwort1>
             <falscheAntwort2>1974</falscheAntwort2>
             <falscheAntwort3>1990</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1491,7 +1491,7 @@
             <falscheAntwort1>Anstoß</falscheAntwort1>
             <falscheAntwort2>Eckstoß</falscheAntwort2>
             <falscheAntwort3>Einwurf</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1501,7 +1501,7 @@
             <falscheAntwort1>Mexico - City</falscheAntwort1>
             <falscheAntwort2>Madrid</falscheAntwort2>
             <falscheAntwort3>München</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1511,7 +1511,7 @@
             <falscheAntwort1>Oliver Kahn</falscheAntwort1>
             <falscheAntwort2>Andreas Köpke</falscheAntwort2>
             <falscheAntwort3>Toni Schumacher</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1521,7 +1521,7 @@
             <falscheAntwort1>Argentinien</falscheAntwort1>
             <falscheAntwort2>Brasilien</falscheAntwort2>
             <falscheAntwort3>Mexiko</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1531,7 +1531,7 @@
             <falscheAntwort1>20 - 40 m</falscheAntwort1>
             <falscheAntwort2>50 - 100 m</falscheAntwort2>
             <falscheAntwort3>30 - 60 m</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1541,7 +1541,7 @@
             <falscheAntwort1>50 - 80 m</falscheAntwort1>
             <falscheAntwort2>60 - 90 m</falscheAntwort2>
             <falscheAntwort3>70 - 100 m</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1551,7 +1551,7 @@
             <falscheAntwort1>die gelben Engel</falscheAntwort1>
             <falscheAntwort2>die schwarzen Geister</falscheAntwort2>
             <falscheAntwort3>die weißen Sterne</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1561,7 +1561,7 @@
             <falscheAntwort1>Tiger</falscheAntwort1>
             <falscheAntwort2>Löwen</falscheAntwort2>
             <falscheAntwort3>Fohlen</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1571,7 +1571,7 @@
             <falscheAntwort1>VfL Bochum</falscheAntwort1>
             <falscheAntwort2>1. FC Köln</falscheAntwort2>
             <falscheAntwort3>Eintracht Frankfurt</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1581,7 +1581,7 @@
             <falscheAntwort1>Schaf</falscheAntwort1>
             <falscheAntwort2>Kamel</falscheAntwort2>
             <falscheAntwort3>Pferd</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1591,7 +1591,7 @@
             <falscheAntwort1>1. FC Kaiserslautern</falscheAntwort1>
             <falscheAntwort2>Bayern München</falscheAntwort2>
             <falscheAntwort3>Hamburger SV</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1601,7 +1601,7 @@
             <falscheAntwort1>Tiger</falscheAntwort1>
             <falscheAntwort2>Zebras</falscheAntwort2>
             <falscheAntwort3>Fohlen</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1611,7 +1611,7 @@
             <falscheAntwort1>Borussia Dortmund</falscheAntwort1>
             <falscheAntwort2>Eintracht Frankfurt</falscheAntwort2>
             <falscheAntwort3>Karlsruher SC</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1621,7 +1621,7 @@
             <falscheAntwort1>Dortmund</falscheAntwort1>
             <falscheAntwort2>Bochum</falscheAntwort2>
             <falscheAntwort3>Essen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1631,7 +1631,7 @@
             <falscheAntwort1>BVB</falscheAntwort1>
             <falscheAntwort2>HSV</falscheAntwort2>
             <falscheAntwort3>Hertha BSC</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1641,7 +1641,7 @@
             <falscheAntwort1>Hamburg</falscheAntwort1>
             <falscheAntwort2>Köln</falscheAntwort2>
             <falscheAntwort3>Frankfurt</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1651,7 +1651,7 @@
             <falscheAntwort1>BVB</falscheAntwort1>
             <falscheAntwort2>Schalke 04</falscheAntwort2>
             <falscheAntwort3>HSV</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1661,7 +1661,7 @@
             <falscheAntwort1>rot</falscheAntwort1>
             <falscheAntwort2>grün</falscheAntwort2>
             <falscheAntwort3>blau</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -1671,7 +1671,7 @@
             <falscheAntwort1>Platzverweis</falscheAntwort1>
             <falscheAntwort2>Anstoß</falscheAntwort2>
             <falscheAntwort3>Halbzeit</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -1681,7 +1681,7 @@
             <falscheAntwort1>16 - m Raum</falscheAntwort1>
             <falscheAntwort2>in der eigenen Hälfte</falscheAntwort2>
             <falscheAntwort3>auf dem ganzen Platz</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1691,7 +1691,7 @@
             <falscheAntwort1>1</falscheAntwort1>
             <falscheAntwort2>2</falscheAntwort2>
             <falscheAntwort3>4</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1701,7 +1701,7 @@
             <falscheAntwort1>4</falscheAntwort1>
             <falscheAntwort2>3</falscheAntwort2>
             <falscheAntwort3>2</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1711,7 +1711,7 @@
             <falscheAntwort1>Socken</falscheAntwort1>
             <falscheAntwort2>Kniestrümpfe</falscheAntwort2>
             <falscheAntwort3>Stäbe</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1721,7 +1721,7 @@
             <falscheAntwort1>2</falscheAntwort1>
             <falscheAntwort2>1</falscheAntwort2>
             <falscheAntwort3>4</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1731,7 +1731,7 @@
             <falscheAntwort1>4</falscheAntwort1>
             <falscheAntwort2>6</falscheAntwort2>
             <falscheAntwort3>3</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1741,7 +1741,7 @@
             <falscheAntwort1>6,68 m</falscheAntwort1>
             <falscheAntwort2>8,04 m</falscheAntwort2>
             <falscheAntwort3>5,25 m</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1751,7 +1751,7 @@
             <falscheAntwort1>2,00 m</falscheAntwort1>
             <falscheAntwort2>1,95 m</falscheAntwort2>
             <falscheAntwort3>2,63 m</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1761,7 +1761,7 @@
             <falscheAntwort1>8,50 m</falscheAntwort1>
             <falscheAntwort2>6,30 m</falscheAntwort2>
             <falscheAntwort3>3,90 m</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1771,7 +1771,7 @@
             <falscheAntwort1>62 - 66 cm</falscheAntwort1>
             <falscheAntwort2>72 - 77 cm</falscheAntwort2>
             <falscheAntwort3>65 - 69 cm</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1781,7 +1781,7 @@
             <falscheAntwort1>200 - 300 g</falscheAntwort1>
             <falscheAntwort2>333 - 366 g</falscheAntwort2>
             <falscheAntwort3>458 - 498 g</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1791,7 +1791,7 @@
             <falscheAntwort1>5</falscheAntwort1>
             <falscheAntwort2>8</falscheAntwort2>
             <falscheAntwort3>9</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1801,7 +1801,7 @@
             <falscheAntwort1>1</falscheAntwort1>
             <falscheAntwort2>7</falscheAntwort2>
             <falscheAntwort3>5</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1811,7 +1811,7 @@
             <falscheAntwort1>2</falscheAntwort1>
             <falscheAntwort2>3</falscheAntwort2>
             <falscheAntwort3>4</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -1821,7 +1821,7 @@
             <falscheAntwort1>3</falscheAntwort1>
             <falscheAntwort2>6</falscheAntwort2>
             <falscheAntwort3>4</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1831,7 +1831,7 @@
             <falscheAntwort1>Mittelstürmer</falscheAntwort1>
             <falscheAntwort2>Libero</falscheAntwort2>
             <falscheAntwort3>Linksaußen</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -1841,7 +1841,7 @@
             <falscheAntwort1>beim Doppelpass</falscheAntwort1>
             <falscheAntwort2>beim Abstoß</falscheAntwort2>
             <falscheAntwort3>beim Eckball</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1851,7 +1851,7 @@
             <falscheAntwort1>Maradona</falscheAntwort1>
             <falscheAntwort2>Santana</falscheAntwort2>
             <falscheAntwort3>Elber</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1861,7 +1861,7 @@
             <falscheAntwort1>Argentinien</falscheAntwort1>
             <falscheAntwort2>Uruguay</falscheAntwort2>
             <falscheAntwort3>Mexiko</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1871,7 +1871,7 @@
             <falscheAntwort1>Pelé</falscheAntwort1>
             <falscheAntwort2>Sanchez</falscheAntwort2>
             <falscheAntwort3>Matthäus</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1881,7 +1881,7 @@
             <falscheAntwort1>Italien</falscheAntwort1>
             <falscheAntwort2>Brasilien</falscheAntwort2>
             <falscheAntwort3>Australien</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1891,7 +1891,7 @@
             <falscheAntwort1>Deutschland</falscheAntwort1>
             <falscheAntwort2>Brasilien</falscheAntwort2>
             <falscheAntwort3>Argentinien</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1901,7 +1901,7 @@
             <falscheAntwort1>Uruguay</falscheAntwort1>
             <falscheAntwort2>Argentinien</falscheAntwort2>
             <falscheAntwort3>Italien</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1911,7 +1911,7 @@
             <falscheAntwort1>England</falscheAntwort1>
             <falscheAntwort2>Italien</falscheAntwort2>
             <falscheAntwort3>Argentinien</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1921,7 +1921,7 @@
             <falscheAntwort1>Ungarn</falscheAntwort1>
             <falscheAntwort2>Niederlande</falscheAntwort2>
             <falscheAntwort3>Brasilien</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1931,7 +1931,7 @@
             <falscheAntwort1>Deutschland</falscheAntwort1>
             <falscheAntwort2>Italien</falscheAntwort2>
             <falscheAntwort3>Frankreich</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1941,7 +1941,7 @@
             <falscheAntwort1>Italien</falscheAntwort1>
             <falscheAntwort2>Frankreich</falscheAntwort2>
             <falscheAntwort3>Mexiko</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1951,7 +1951,7 @@
             <falscheAntwort1>Deutschland</falscheAntwort1>
             <falscheAntwort2>Belgien</falscheAntwort2>
             <falscheAntwort3>Frankreich</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1961,7 +1961,7 @@
             <falscheAntwort1>1 : 0</falscheAntwort1>
             <falscheAntwort2>2 : 1</falscheAntwort2>
             <falscheAntwort3>4 : 3</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1971,7 +1971,7 @@
             <falscheAntwort1>1 : 0</falscheAntwort1>
             <falscheAntwort2>3 : 0</falscheAntwort2>
             <falscheAntwort3>2 : 0</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1981,7 +1981,7 @@
             <falscheAntwort1>3 : 2</falscheAntwort1>
             <falscheAntwort2>2 : 0</falscheAntwort2>
             <falscheAntwort3>2 : 1</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1991,7 +1991,7 @@
             <falscheAntwort1>ein Stirnband</falscheAntwort1>
             <falscheAntwort2>eine Mütze</falscheAntwort2>
             <falscheAntwort3>eine lange Hose</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -2001,7 +2001,7 @@
             <falscheAntwort1>Er nickt mit dem Kopf.</falscheAntwort1>
             <falscheAntwort2>Er hebt beide Arme.</falscheAntwort2>
             <falscheAntwort3>Er stellt sich auf ein Bein.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2011,7 +2011,7 @@
             <falscheAntwort1>nur im 5 - m Raum</falscheAntwort1>
             <falscheAntwort2>in der eigenen Hälfte</falscheAntwort2>
             <falscheAntwort3>überall</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -2021,7 +2021,7 @@
             <falscheAntwort1>München</falscheAntwort1>
             <falscheAntwort2>Hamburg</falscheAntwort2>
             <falscheAntwort3>Dortmund</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2031,7 +2031,7 @@
             <falscheAntwort1>Admirals Cup</falscheAntwort1>
             <falscheAntwort2>Winner Pokal</falscheAntwort2>
             <falscheAntwort3>Suppentopf</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -2041,7 +2041,7 @@
             <falscheAntwort1>16</falscheAntwort1>
             <falscheAntwort2>14</falscheAntwort2>
             <falscheAntwort3>20</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2051,7 +2051,7 @@
             <falscheAntwort1>16</falscheAntwort1>
             <falscheAntwort2>20</falscheAntwort2>
             <falscheAntwort3>22</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2061,7 +2061,7 @@
             <falscheAntwort1>2</falscheAntwort1>
             <falscheAntwort2>4</falscheAntwort2>
             <falscheAntwort3>5</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -2071,7 +2071,7 @@
             <falscheAntwort1>2</falscheAntwort1>
             <falscheAntwort2>4</falscheAntwort2>
             <falscheAntwort3>5</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -2081,7 +2081,7 @@
             <falscheAntwort1>Über</falscheAntwort1>
             <falscheAntwort2>Schiedsrichter</falscheAntwort2>
             <falscheAntwort3>Torwart</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -2091,7 +2091,7 @@
             <falscheAntwort1>aufwärts</falscheAntwort1>
             <falscheAntwort2>einerseits</falscheAntwort2>
             <falscheAntwort3>Eckball</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2101,7 +2101,7 @@
             <falscheAntwort1>Uwe Tor</falscheAntwort1>
             <falscheAntwort2>Kanone Uwe</falscheAntwort2>
             <falscheAntwort3>Uwe hopp</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -2111,7 +2111,7 @@
             <falscheAntwort1>Uwe Seeler</falscheAntwort1>
             <falscheAntwort2>Hansi Müller</falscheAntwort2>
             <falscheAntwort3>Egon Schmidt</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2121,7 +2121,7 @@
             <falscheAntwort1>Kopfballungeheuer</falscheAntwort1>
             <falscheAntwort2>Torschusskanone</falscheAntwort2>
             <falscheAntwort3>Fußballgott</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2131,7 +2131,7 @@
             <falscheAntwort1>ja</falscheAntwort1>
             <falscheAntwort2>nur in der ersten Halbzeit</falscheAntwort2>
             <falscheAntwort3>nur in der Verlängerung</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2141,7 +2141,7 @@
             <falscheAntwort1>Superelf</falscheAntwort1>
             <falscheAntwort2>Dreamteam</falscheAntwort2>
             <falscheAntwort3>Champions</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -2151,7 +2151,7 @@
             <falscheAntwort1>Bayern München</falscheAntwort1>
             <falscheAntwort2>1. FC Kaiserslautern</falscheAntwort2>
             <falscheAntwort3>Schalke 04</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -2161,7 +2161,7 @@
             <falscheAntwort1>Bayer Leverkusen</falscheAntwort1>
             <falscheAntwort2>VfB Stuttgart</falscheAntwort2>
             <falscheAntwort3>Bayern München</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -2171,7 +2171,7 @@
             <falscheAntwort1>Bayern München</falscheAntwort1>
             <falscheAntwort2>FC Liverpool</falscheAntwort2>
             <falscheAntwort3>Real Madrid</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -2181,7 +2181,7 @@
             <falscheAntwort1>Einwurf</falscheAntwort1>
             <falscheAntwort2>Abstoß</falscheAntwort2>
             <falscheAntwort3>Verlängerung</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2191,7 +2191,7 @@
             <falscheAntwort1>1</falscheAntwort1>
             <falscheAntwort2>3</falscheAntwort2>
             <falscheAntwort3>4</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2201,7 +2201,7 @@
             <falscheAntwort1>Helmut Schön</falscheAntwort1>
             <falscheAntwort2>Helmut Rahn</falscheAntwort2>
             <falscheAntwort3>Toni Polster</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -2211,7 +2211,7 @@
             <falscheAntwort1>Helmut Rahn</falscheAntwort1>
             <falscheAntwort2>Sepp Herberger</falscheAntwort2>
             <falscheAntwort3>Helmut Haller</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -2221,7 +2221,7 @@
             <falscheAntwort1>Lothar Matthäus</falscheAntwort1>
             <falscheAntwort2>Rudi Völler</falscheAntwort2>
             <falscheAntwort3>Berti Vogts</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -2231,7 +2231,7 @@
             <falscheAntwort1>Franz Beckenbauer</falscheAntwort1>
             <falscheAntwort2>Uwe Seeler</falscheAntwort2>
             <falscheAntwort3>Stefan Effenberg</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2241,7 +2241,7 @@
             <falscheAntwort1>Deutschland</falscheAntwort1>
             <falscheAntwort2>Brasilien</falscheAntwort2>
             <falscheAntwort3>Holland</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2251,7 +2251,7 @@
             <falscheAntwort1>Eckball</falscheAntwort1>
             <falscheAntwort2>Einwurf</falscheAntwort2>
             <falscheAntwort3>Verlängerung</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -2261,7 +2261,7 @@
             <falscheAntwort1>30 Minute</falscheAntwort1>
             <falscheAntwort2>45 Minuten</falscheAntwort2>
             <falscheAntwort3>5 Minuten</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -2271,7 +2271,7 @@
             <falscheAntwort1>Mondschein</falscheAntwort1>
             <falscheAntwort2>Kerzenschein</falscheAntwort2>
             <falscheAntwort3>Abblendlicht</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2281,7 +2281,7 @@
             <falscheAntwort1>38</falscheAntwort1>
             <falscheAntwort2>40</falscheAntwort2>
             <falscheAntwort3>42</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2291,7 +2291,7 @@
             <falscheAntwort1>auf einem Bein steht</falscheAntwort1>
             <falscheAntwort2>mit den Armen winkt</falscheAntwort2>
             <falscheAntwort3>in die Luft springt</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2301,7 +2301,7 @@
             <falscheAntwort1>Nägel</falscheAntwort1>
             <falscheAntwort2>Löcher</falscheAntwort2>
             <falscheAntwort3>Magnete</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2311,7 +2311,7 @@
             <falscheAntwort1>Fänger</falscheAntwort1>
             <falscheAntwort2>Klaus</falscheAntwort2>
             <falscheAntwort3>Mittelstürmer</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2321,7 +2321,7 @@
             <falscheAntwort1>Oliver Kahn</falscheAntwort1>
             <falscheAntwort2>Toni Schumacher</falscheAntwort2>
             <falscheAntwort3>Andreas Köpke</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -2331,7 +2331,7 @@
             <falscheAntwort1>Schalke 02</falscheAntwort1>
             <falscheAntwort2>Schalke 03</falscheAntwort2>
             <falscheAntwort3>Schalke 05</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2341,7 +2341,7 @@
             <falscheAntwort1>blau - weiß</falscheAntwort1>
             <falscheAntwort2>weiß - rot</falscheAntwort2>
             <falscheAntwort3>grün - weiß</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2351,7 +2351,7 @@
             <falscheAntwort1>gelb - schwarz</falscheAntwort1>
             <falscheAntwort2>grün - blau</falscheAntwort2>
             <falscheAntwort3>weiß - rot</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2361,7 +2361,7 @@
             <falscheAntwort1>Glückauf - Kampfbahn</falscheAntwort1>
             <falscheAntwort2>Stadion Rote Erde</falscheAntwort2>
             <falscheAntwort3>Betzenberg</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2371,7 +2371,7 @@
             <falscheAntwort1>Teufelsberg</falscheAntwort1>
             <falscheAntwort2>Zugspitze</falscheAntwort2>
             <falscheAntwort3>Höllenberg</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2381,7 +2381,7 @@
             <falscheAntwort1>Berti Vogts</falscheAntwort1>
             <falscheAntwort2>Erich Ribbeck</falscheAntwort2>
             <falscheAntwort3>Christoph Daum</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2391,7 +2391,7 @@
             <falscheAntwort1>Emsstadion</falscheAntwort1>
             <falscheAntwort2>Rheinstadion</falscheAntwort2>
             <falscheAntwort3>Elbestadion</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2401,7 +2401,7 @@
             <falscheAntwort1>Toni Turek</falscheAntwort1>
             <falscheAntwort2>Helmut Haller</falscheAntwort2>
             <falscheAntwort3>Sepp Herberger</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -2411,7 +2411,7 @@
             <falscheAntwort1>Berti Vogts</falscheAntwort1>
             <falscheAntwort2>Paul Breitner</falscheAntwort2>
             <falscheAntwort3>Franz Beckenbauer</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2421,7 +2421,7 @@
             <falscheAntwort1>Rudi Völler</falscheAntwort1>
             <falscheAntwort2>Olaf Thon</falscheAntwort2>
             <falscheAntwort3>Pierre Littbarski</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2431,7 +2431,7 @@
             <falscheAntwort1>Rheinstadion</falscheAntwort1>
             <falscheAntwort2>Westfalenstadion</falscheAntwort2>
             <falscheAntwort3>Weserstadion</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2441,7 +2441,7 @@
             <falscheAntwort1>Eckball</falscheAntwort1>
             <falscheAntwort2>Schiedsrichter</falscheAntwort2>
             <falscheAntwort3>Torwart</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -2451,7 +2451,7 @@
             <falscheAntwort1>Oberhemd</falscheAntwort1>
             <falscheAntwort2>Unterhemd</falscheAntwort2>
             <falscheAntwort3>T - Shirt</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -2461,7 +2461,7 @@
             <falscheAntwort1>Wadenschützer</falscheAntwort1>
             <falscheAntwort2>Knieschützer</falscheAntwort2>
             <falscheAntwort3>Fußschoner</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -2471,7 +2471,7 @@
             <falscheAntwort1>nein</falscheAntwort1>
             <falscheAntwort2>nur in der 1. Halbzeit</falscheAntwort2>
             <falscheAntwort3>nur in der Verlängerung</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -2481,7 +2481,7 @@
             <falscheAntwort1>der Ausgleich</falscheAntwort1>
             <falscheAntwort2>das Gegentor</falscheAntwort2>
             <falscheAntwort3>das Abseitstor</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2491,7 +2491,7 @@
             <falscheAntwort1>Außenlinie</falscheAntwort1>
             <falscheAntwort2>Torlinie</falscheAntwort2>
             <falscheAntwort3>Abseitslinie</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -2501,7 +2501,7 @@
             <falscheAntwort1>der Schiedsrichter</falscheAntwort1>
             <falscheAntwort2>der Torwart</falscheAntwort2>
             <falscheAntwort3>der Pilot</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2511,7 +2511,7 @@
             <falscheAntwort1>Verteidiger</falscheAntwort1>
             <falscheAntwort2>Stürmer</falscheAntwort2>
             <falscheAntwort3>Ersatzspieler</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -2521,7 +2521,7 @@
             <falscheAntwort1>football</falscheAntwort1>
             <falscheAntwort2>ballgame</falscheAntwort2>
             <falscheAntwort3>goal</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2531,7 +2531,7 @@
             <falscheAntwort1>sleeper</falscheAntwort1>
             <falscheAntwort2>profi</falscheAntwort2>
             <falscheAntwort3>captain</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -2541,7 +2541,7 @@
             <falscheAntwort1>Fortuna</falscheAntwort1>
             <falscheAntwort2>Borussia</falscheAntwort2>
             <falscheAntwort3>Werder</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -2551,7 +2551,7 @@
             <falscheAntwort1>Werder</falscheAntwort1>
             <falscheAntwort2>1. FC</falscheAntwort2>
             <falscheAntwort3>Hansa</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -2561,7 +2561,7 @@
             <falscheAntwort1>Borussia</falscheAntwort1>
             <falscheAntwort2>Hertha</falscheAntwort2>
             <falscheAntwort3>1. FC</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -2571,7 +2571,7 @@
             <falscheAntwort1>Werder</falscheAntwort1>
             <falscheAntwort2>Bayer</falscheAntwort2>
             <falscheAntwort3>Fortuna</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -2581,7 +2581,7 @@
             <falscheAntwort1>Borussia</falscheAntwort1>
             <falscheAntwort2>Werder</falscheAntwort2>
             <falscheAntwort3>1. FC</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2591,7 +2591,7 @@
             <falscheAntwort1>Bayern</falscheAntwort1>
             <falscheAntwort2>Fortuna</falscheAntwort2>
             <falscheAntwort3>Hansa</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -2601,7 +2601,7 @@
             <falscheAntwort1>HSV</falscheAntwort1>
             <falscheAntwort2>VfL</falscheAntwort2>
             <falscheAntwort3>BVB</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -2611,7 +2611,7 @@
             <falscheAntwort1>BVB</falscheAntwort1>
             <falscheAntwort2>VfB</falscheAntwort2>
             <falscheAntwort3>WSV</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -2621,7 +2621,7 @@
             <falscheAntwort1>FC</falscheAntwort1>
             <falscheAntwort2>SC</falscheAntwort2>
             <falscheAntwort3>VB</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -2631,7 +2631,7 @@
             <falscheAntwort1>Werder</falscheAntwort1>
             <falscheAntwort2>Bayer</falscheAntwort2>
             <falscheAntwort3>Borussia</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -2641,7 +2641,7 @@
             <falscheAntwort1>SV</falscheAntwort1>
             <falscheAntwort2>FC</falscheAntwort2>
             <falscheAntwort3>HB</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -2651,7 +2651,7 @@
             <falscheAntwort1>Werder</falscheAntwort1>
             <falscheAntwort2>Fortuna</falscheAntwort2>
             <falscheAntwort3>Hansa</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -2661,7 +2661,7 @@
             <falscheAntwort1>Tempo</falscheAntwort1>
             <falscheAntwort2>Kraft</falscheAntwort2>
             <falscheAntwort3>Ausdauer</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -2671,7 +2671,7 @@
             <falscheAntwort1>Union</falscheAntwort1>
             <falscheAntwort2>Bayer</falscheAntwort2>
             <falscheAntwort3>Werder</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -2681,7 +2681,7 @@
             <falscheAntwort1>Werder</falscheAntwort1>
             <falscheAntwort2>Hansa</falscheAntwort2>
             <falscheAntwort3>NSV</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -2691,7 +2691,7 @@
             <falscheAntwort1>KSC</falscheAntwort1>
             <falscheAntwort2>PSV</falscheAntwort2>
             <falscheAntwort3>Bayer</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -2701,7 +2701,7 @@
             <falscheAntwort1>04</falscheAntwort1>
             <falscheAntwort2>03</falscheAntwort2>
             <falscheAntwort3>06</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2711,7 +2711,7 @@
             <falscheAntwort1>88</falscheAntwort1>
             <falscheAntwort2>86</falscheAntwort2>
             <falscheAntwort3>99</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2721,7 +2721,7 @@
             <falscheAntwort1>Borussia</falscheAntwort1>
             <falscheAntwort2>Union</falscheAntwort2>
             <falscheAntwort3>Hansa</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -2731,7 +2731,7 @@
             <falscheAntwort1>Glück Auf</falscheAntwort1>
             <falscheAntwort2>Borussia</falscheAntwort2>
             <falscheAntwort3>Werder</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -2741,7 +2741,7 @@
             <falscheAntwort1>VfB</falscheAntwort1>
             <falscheAntwort2>BVB</falscheAntwort2>
             <falscheAntwort3>WSV</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -2751,7 +2751,7 @@
             <falscheAntwort1>Fortuna</falscheAntwort1>
             <falscheAntwort2>Borussia</falscheAntwort2>
             <falscheAntwort3>Eintracht</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -2761,7 +2761,7 @@
             <falscheAntwort1>BVB</falscheAntwort1>
             <falscheAntwort2>HSV</falscheAntwort2>
             <falscheAntwort3>VfB</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -2771,7 +2771,7 @@
             <falscheAntwort1>Werder</falscheAntwort1>
             <falscheAntwort2>Eintracht</falscheAntwort2>
             <falscheAntwort3>Energie</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -2781,7 +2781,7 @@
             <falscheAntwort1>Argentinien</falscheAntwort1>
             <falscheAntwort2>Brasilien</falscheAntwort2>
             <falscheAntwort3>Spanien</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2791,7 +2791,7 @@
             <falscheAntwort1>Uruguay</falscheAntwort1>
             <falscheAntwort2>Brasilien</falscheAntwort2>
             <falscheAntwort3>England</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2801,7 +2801,7 @@
             <falscheAntwort1>Italien</falscheAntwort1>
             <falscheAntwort2>Frankreich</falscheAntwort2>
             <falscheAntwort3>Deutschland</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2811,7 +2811,7 @@
             <falscheAntwort1>Deutschland</falscheAntwort1>
             <falscheAntwort2>England</falscheAntwort2>
             <falscheAntwort3>Italien</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2821,7 +2821,7 @@
             <falscheAntwort1>Sowjetunion</falscheAntwort1>
             <falscheAntwort2>Tschechoslowakei</falscheAntwort2>
             <falscheAntwort3>Spanien</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2831,7 +2831,7 @@
             <falscheAntwort1>Deutschland</falscheAntwort1>
             <falscheAntwort2>England</falscheAntwort2>
             <falscheAntwort3>Niederlande</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2841,7 +2841,7 @@
             <falscheAntwort1>Spanien</falscheAntwort1>
             <falscheAntwort2>Norwegen</falscheAntwort2>
             <falscheAntwort3>Österreich</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2851,7 +2851,7 @@
             <falscheAntwort1>Deutschland</falscheAntwort1>
             <falscheAntwort2>Niederlande</falscheAntwort2>
             <falscheAntwort3>Italien</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2861,7 +2861,7 @@
             <falscheAntwort1>England</falscheAntwort1>
             <falscheAntwort2>Deutschland</falscheAntwort2>
             <falscheAntwort3>Italien</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2871,7 +2871,7 @@
             <falscheAntwort1>Italien</falscheAntwort1>
             <falscheAntwort2>Deutschland</falscheAntwort2>
             <falscheAntwort3>Dänemark</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2881,7 +2881,7 @@
             <falscheAntwort1>Schweden</falscheAntwort1>
             <falscheAntwort2>Frankreich</falscheAntwort2>
             <falscheAntwort3>Italien</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2891,7 +2891,7 @@
             <falscheAntwort1>Polen</falscheAntwort1>
             <falscheAntwort2>Sowjetunion</falscheAntwort2>
             <falscheAntwort3>Ungarn</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2901,7 +2901,7 @@
             <falscheAntwort1>Spanien</falscheAntwort1>
             <falscheAntwort2>Belgien</falscheAntwort2>
             <falscheAntwort3>England</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2911,7 +2911,7 @@
             <falscheAntwort1>Niederlande</falscheAntwort1>
             <falscheAntwort2>Spanien</falscheAntwort2>
             <falscheAntwort3>Schweiz</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2921,7 +2921,7 @@
             <falscheAntwort1>Portugal</falscheAntwort1>
             <falscheAntwort2>Italien</falscheAntwort2>
             <falscheAntwort3>Deutschland</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2931,7 +2931,7 @@
             <falscheAntwort1>Belgien</falscheAntwort1>
             <falscheAntwort2>Deutschland</falscheAntwort2>
             <falscheAntwort3>Polen</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2941,7 +2941,7 @@
             <falscheAntwort1>1979</falscheAntwort1>
             <falscheAntwort2>1966</falscheAntwort2>
             <falscheAntwort3>1998</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2951,7 +2951,7 @@
             <falscheAntwort1>10 mal</falscheAntwort1>
             <falscheAntwort2>13 mal</falscheAntwort2>
             <falscheAntwort3>12 mal</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2961,7 +2961,7 @@
             <falscheAntwort1>Deutschland</falscheAntwort1>
             <falscheAntwort2>England</falscheAntwort2>
             <falscheAntwort3>Italien</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2971,7 +2971,7 @@
             <falscheAntwort1>Niederlande</falscheAntwort1>
             <falscheAntwort2>Deutschland</falscheAntwort2>
             <falscheAntwort3>Italien</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2981,7 +2981,7 @@
             <falscheAntwort1>1. FC Köln</falscheAntwort1>
             <falscheAntwort2>Bayern München</falscheAntwort2>
             <falscheAntwort3>Fortuna Düsseldorf</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2991,7 +2991,7 @@
             <falscheAntwort1>1. FC Köln</falscheAntwort1>
             <falscheAntwort2>Eintracht Frankfurt</falscheAntwort2>
             <falscheAntwort3>Fortuna Düsseldorf</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3001,7 +3001,7 @@
             <falscheAntwort1>Heinz Flohe</falscheAntwort1>
             <falscheAntwort2>Günther Netzer</falscheAntwort2>
             <falscheAntwort3>Jürgen Klinsmann</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3011,7 +3011,7 @@
             <falscheAntwort1>Berti Vogts</falscheAntwort1>
             <falscheAntwort2>Jupp Derwall</falscheAntwort2>
             <falscheAntwort3>Franz Beckenbauer</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3021,7 +3021,7 @@
             <falscheAntwort1>Real Madrid</falscheAntwort1>
             <falscheAntwort2>Borussia Dortmund</falscheAntwort2>
             <falscheAntwort3>Manchester United</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3031,7 +3031,7 @@
             <falscheAntwort1>FC Liverpool</falscheAntwort1>
             <falscheAntwort2>Borussia Dortmund</falscheAntwort2>
             <falscheAntwort3>Ajax Amsterdam</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3041,7 +3041,7 @@
             <falscheAntwort1>Bayern München</falscheAntwort1>
             <falscheAntwort2>Real Madrid</falscheAntwort2>
             <falscheAntwort3/>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3051,7 +3051,7 @@
             <falscheAntwort1>Manchester United</falscheAntwort1>
             <falscheAntwort2>Olympique Marseille</falscheAntwort2>
             <falscheAntwort3>AC Turin</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3061,7 +3061,7 @@
             <falscheAntwort1>Ajax Amsterdam</falscheAntwort1>
             <falscheAntwort2>Bayern München</falscheAntwort2>
             <falscheAntwort3>Real Madrid</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3071,7 +3071,7 @@
             <falscheAntwort1>Manchester United</falscheAntwort1>
             <falscheAntwort2>AC Parma</falscheAntwort2>
             <falscheAntwort3>Bayern München</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3081,7 +3081,7 @@
             <falscheAntwort1>Borussia Dortmund</falscheAntwort1>
             <falscheAntwort2>FC Liverpool</falscheAntwort2>
             <falscheAntwort3>Real Madrid</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3091,7 +3091,7 @@
             <falscheAntwort1>Bayern München</falscheAntwort1>
             <falscheAntwort2>Ajax Amsterdam</falscheAntwort2>
             <falscheAntwort3>Juventus Turin</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3101,7 +3101,7 @@
             <falscheAntwort1>Manchester United</falscheAntwort1>
             <falscheAntwort2>Real Madrid</falscheAntwort2>
             <falscheAntwort3>Lazio Rom</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3111,7 +3111,7 @@
             <falscheAntwort1>199</falscheAntwort1>
             <falscheAntwort2>209</falscheAntwort2>
             <falscheAntwort3>157</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -3121,7 +3121,7 @@
             <falscheAntwort1>Horst Hrubesch</falscheAntwort1>
             <falscheAntwort2>Uwe Seeler</falscheAntwort2>
             <falscheAntwort3>Rudi Völler</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -3131,7 +3131,7 @@
             <falscheAntwort1>Paul Breitner</falscheAntwort1>
             <falscheAntwort2>Franz Beckenbauer</falscheAntwort2>
             <falscheAntwort3>Lothar Emmerich</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3141,7 +3141,7 @@
             <falscheAntwort1>12</falscheAntwort1>
             <falscheAntwort2>13</falscheAntwort2>
             <falscheAntwort3>11</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3151,7 +3151,7 @@
             <falscheAntwort1>Pelé</falscheAntwort1>
             <falscheAntwort2>Juste Fontaine</falscheAntwort2>
             <falscheAntwort3>Ronaldo</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3161,7 +3161,7 @@
             <falscheAntwort1>Deutschland</falscheAntwort1>
             <falscheAntwort2>England</falscheAntwort2>
             <falscheAntwort3/>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -3171,7 +3171,7 @@
             <falscheAntwort1>England</falscheAntwort1>
             <falscheAntwort2>Italien</falscheAntwort2>
             <falscheAntwort3>Deutschland</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3181,7 +3181,7 @@
             <falscheAntwort1>Deutschland</falscheAntwort1>
             <falscheAntwort2>Argentinien</falscheAntwort2>
             <falscheAntwort3>England</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3191,7 +3191,7 @@
             <falscheAntwort1>Italien</falscheAntwort1>
             <falscheAntwort2>Brasilien</falscheAntwort2>
             <falscheAntwort3>Deutschland</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3201,7 +3201,7 @@
             <falscheAntwort1>Brasilien</falscheAntwort1>
             <falscheAntwort2>Spanien</falscheAntwort2>
             <falscheAntwort3>Deutschland</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3211,7 +3211,7 @@
             <falscheAntwort1>Deutschland</falscheAntwort1>
             <falscheAntwort2>Brasilien</falscheAntwort2>
             <falscheAntwort3>England</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3221,7 +3221,7 @@
             <falscheAntwort1>Uruguay</falscheAntwort1>
             <falscheAntwort2>Argentinien</falscheAntwort2>
             <falscheAntwort3>Deutschland</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3231,7 +3231,7 @@
             <falscheAntwort1>in einem Spiel drei Tore schießt</falscheAntwort1>
             <falscheAntwort2>in der Saison 10 Tore schießt</falscheAntwort2>
             <falscheAntwort3>in der Saison die meisten Tore schießt</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -3241,7 +3241,7 @@
             <falscheAntwort1>Borussia Mönchengladbach</falscheAntwort1>
             <falscheAntwort2>Bayern München</falscheAntwort2>
             <falscheAntwort3>Schalke 04</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3251,7 +3251,7 @@
             <falscheAntwort1>Hans Tilkowski</falscheAntwort1>
             <falscheAntwort2>Lothar Emmerich</falscheAntwort2>
             <falscheAntwort3>Siggi Held</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3261,7 +3261,7 @@
             <falscheAntwort1>20</falscheAntwort1>
             <falscheAntwort2>18</falscheAntwort2>
             <falscheAntwort3>19</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3271,7 +3271,7 @@
             <falscheAntwort1>Ernst Happel</falscheAntwort1>
             <falscheAntwort2>Udo Lattek</falscheAntwort2>
             <falscheAntwort3>Dettmar Cramer</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3281,7 +3281,7 @@
             <falscheAntwort1>Franz Beckenbauer</falscheAntwort1>
             <falscheAntwort2>Gerd Müller</falscheAntwort2>
             <falscheAntwort3>Andreas Brehme</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3291,7 +3291,7 @@
             <falscheAntwort1>Atletico Madrid</falscheAntwort1>
             <falscheAntwort2>Ajax Amsterdam</falscheAntwort2>
             <falscheAntwort3>Juventus Turin</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3301,7 +3301,7 @@
             <falscheAntwort1>Italien</falscheAntwort1>
             <falscheAntwort2>Deutschland</falscheAntwort2>
             <falscheAntwort3>Argentinien</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3311,7 +3311,7 @@
             <falscheAntwort1>102.600</falscheAntwort1>
             <falscheAntwort2>154.750</falscheAntwort2>
             <falscheAntwort3>88.340</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3321,7 +3321,7 @@
             <falscheAntwort1>Uruguay</falscheAntwort1>
             <falscheAntwort2>Argentinien</falscheAntwort2>
             <falscheAntwort3>Deutschland</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3331,7 +3331,7 @@
             <falscheAntwort1/>
             <falscheAntwort2/>
             <falscheAntwort3/>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3341,7 +3341,7 @@
             <falscheAntwort1>Oscar</falscheAntwort1>
             <falscheAntwort2>Friends</falscheAntwort2>
             <falscheAntwort3>Fips</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -3351,7 +3351,7 @@
             <falscheAntwort1>89</falscheAntwort1>
             <falscheAntwort2>134</falscheAntwort2>
             <falscheAntwort3>75</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3361,7 +3361,7 @@
             <falscheAntwort1>Johann Cruyff</falscheAntwort1>
             <falscheAntwort2>Franz Beckenbauer</falscheAntwort2>
             <falscheAntwort3>Bobby Charlton</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3371,7 +3371,7 @@
             <falscheAntwort1>985</falscheAntwort1>
             <falscheAntwort2>ungefähr 600</falscheAntwort2>
             <falscheAntwort3>750 - 900</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3381,7 +3381,7 @@
             <falscheAntwort1>Hügel</falscheAntwort1>
             <falscheAntwort2>Graben</falscheAntwort2>
             <falscheAntwort3>Berg</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -3391,7 +3391,7 @@
             <falscheAntwort1>Gefahrensituation</falscheAntwort1>
             <falscheAntwort2>Ausnahmesituation</falscheAntwort2>
             <falscheAntwort3>Königssituation</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -3401,7 +3401,7 @@
             <falscheAntwort1>Running</falscheAntwort1>
             <falscheAntwort2>Dancing</falscheAntwort2>
             <falscheAntwort3>Crying</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -3411,7 +3411,7 @@
             <falscheAntwort1>Karte</falscheAntwort1>
             <falscheAntwort2>Ausweis</falscheAntwort2>
             <falscheAntwort3>Konto</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -3421,7 +3421,7 @@
             <falscheAntwort1>Curling</falscheAntwort1>
             <falscheAntwort2>Dancing</falscheAntwort2>
             <falscheAntwort3>Doping</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -3431,7 +3431,7 @@
             <falscheAntwort1>30 Minute</falscheAntwort1>
             <falscheAntwort2>45 Minuten</falscheAntwort2>
             <falscheAntwort3>5 Minuten</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -3441,7 +3441,7 @@
             <falscheAntwort1>Maradona</falscheAntwort1>
             <falscheAntwort2>Ruud Gullit</falscheAntwort2>
             <falscheAntwort3>Johan Cruyff</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3451,7 +3451,7 @@
             <falscheAntwort1>Pelé</falscheAntwort1>
             <falscheAntwort2>Bobby Charlton</falscheAntwort2>
             <falscheAntwort3>Eusebio</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3461,7 +3461,7 @@
             <falscheAntwort1>20 Minuten</falscheAntwort1>
             <falscheAntwort2>30 Minuten</falscheAntwort2>
             <falscheAntwort3>6 Minuten</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -3471,7 +3471,7 @@
             <falscheAntwort1>Foulen Ist Fieses Abwehren</falscheAntwort1>
             <falscheAntwort2>Fußballer Im Fernen Afrika</falscheAntwort2>
             <falscheAntwort3>Fußball Ist Für Alle</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>

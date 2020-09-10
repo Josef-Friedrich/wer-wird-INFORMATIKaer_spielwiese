@@ -11,7 +11,7 @@
             <falscheAntwort1>Nomen</falscheAntwort1>
             <falscheAntwort2>Artikel</falscheAntwort2>
             <falscheAntwort3>Adjektiv</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -21,7 +21,7 @@
             <falscheAntwort1>schnell</falscheAntwort1>
             <falscheAntwort2>schlecht</falscheAntwort2>
             <falscheAntwort3>schlau</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -31,7 +31,7 @@
             <falscheAntwort1>Subjekt</falscheAntwort1>
             <falscheAntwort2>Prädikat</falscheAntwort2>
             <falscheAntwort3>Attribut</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -41,7 +41,7 @@
             <falscheAntwort1>Artikel</falscheAntwort1>
             <falscheAntwort2>Nomen</falscheAntwort2>
             <falscheAntwort3>Verb</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -51,7 +51,7 @@
             <falscheAntwort1>Komparativ</falscheAntwort1>
             <falscheAntwort2>Turbolativ</falscheAntwort2>
             <falscheAntwort3>Maximativ</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -61,7 +61,7 @@
             <falscheAntwort1>Akkusativ</falscheAntwort1>
             <falscheAntwort2>Nominativ</falscheAntwort2>
             <falscheAntwort3>Dativ</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -71,7 +71,7 @@
             <falscheAntwort1>den Hund</falscheAntwort1>
             <falscheAntwort2>des Hundes</falscheAntwort2>
             <falscheAntwort3>der Hund</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -81,7 +81,7 @@
             <falscheAntwort1>Futur</falscheAntwort1>
             <falscheAntwort2>Präteritum</falscheAntwort2>
             <falscheAntwort3>Plusquamperfekt</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -91,7 +91,7 @@
             <falscheAntwort1>ich werde überlegen</falscheAntwort1>
             <falscheAntwort2>ich habe überlegt</falscheAntwort2>
             <falscheAntwort3>ich überlegte</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -101,7 +101,7 @@
             <falscheAntwort1>des Pferdes</falscheAntwort1>
             <falscheAntwort2>den Pferden</falscheAntwort2>
             <falscheAntwort3>die Pferde</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -111,7 +111,7 @@
             <falscheAntwort1>b</falscheAntwort1>
             <falscheAntwort2>ü</falscheAntwort2>
             <falscheAntwort3>r</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -121,7 +121,7 @@
             <falscheAntwort1>Tisch</falscheAntwort1>
             <falscheAntwort2>Tafel</falscheAntwort2>
             <falscheAntwort3>Landkarte</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -131,7 +131,7 @@
             <falscheAntwort1>Nominativ</falscheAntwort1>
             <falscheAntwort2>Genitiv</falscheAntwort2>
             <falscheAntwort3>Dativ</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -141,7 +141,7 @@
             <falscheAntwort1>Artikel</falscheAntwort1>
             <falscheAntwort2>Konsonant</falscheAntwort2>
             <falscheAntwort3>Attribut</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -151,7 +151,7 @@
             <falscheAntwort1>Konsonanten</falscheAntwort1>
             <falscheAntwort2>Mitlaute</falscheAntwort2>
             <falscheAntwort3>Superlative</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -161,7 +161,7 @@
             <falscheAntwort1>Futur</falscheAntwort1>
             <falscheAntwort2>Präsens</falscheAntwort2>
             <falscheAntwort3>Perfekt</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -171,7 +171,7 @@
             <falscheAntwort1>lange</falscheAntwort1>
             <falscheAntwort2>Bei dieser Frage</falscheAntwort2>
             <falscheAntwort3>überlege</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -181,7 +181,7 @@
             <falscheAntwort1>Wir</falscheAntwort1>
             <falscheAntwort2>Grammatik</falscheAntwort2>
             <falscheAntwort3>am Computer</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -191,7 +191,7 @@
             <falscheAntwort1>Oft</falscheAntwort1>
             <falscheAntwort2>übten</falscheAntwort2>
             <falscheAntwort3>im Deutschunterricht</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -201,7 +201,7 @@
             <falscheAntwort1>am schönsten</falscheAntwort1>
             <falscheAntwort2>wunderschön</falscheAntwort2>
             <falscheAntwort3>schön</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -211,7 +211,7 @@
             <falscheAntwort1>Adjektiv</falscheAntwort1>
             <falscheAntwort2>Verb</falscheAntwort2>
             <falscheAntwort3>Nomen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -221,7 +221,7 @@
             <falscheAntwort1>ihr habt geraten</falscheAntwort1>
             <falscheAntwort2>du hast geraten</falscheAntwort2>
             <falscheAntwort3>du hattest geraten</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -231,7 +231,7 @@
             <falscheAntwort1>Positiv</falscheAntwort1>
             <falscheAntwort2>Superlativ</falscheAntwort2>
             <falscheAntwort3>Negativ</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -241,7 +241,7 @@
             <falscheAntwort1>Nomen</falscheAntwort1>
             <falscheAntwort2>Adjektive</falscheAntwort2>
             <falscheAntwort3>Artikel</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -251,7 +251,7 @@
             <falscheAntwort1>Präsens</falscheAntwort1>
             <falscheAntwort2>Perfekt</falscheAntwort2>
             <falscheAntwort3>Plusquamperfekt</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -261,7 +261,7 @@
             <falscheAntwort1>Objekt</falscheAntwort1>
             <falscheAntwort2>Adverbiale Bestimmung</falscheAntwort2>
             <falscheAntwort3>Prädikat</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -271,7 +271,7 @@
             <falscheAntwort1>Artikel</falscheAntwort1>
             <falscheAntwort2>Adjektiv</falscheAntwort2>
             <falscheAntwort3>Nomen</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -281,7 +281,7 @@
             <falscheAntwort1>Attribut</falscheAntwort1>
             <falscheAntwort2>Subjekt</falscheAntwort2>
             <falscheAntwort3>Prädikat</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>

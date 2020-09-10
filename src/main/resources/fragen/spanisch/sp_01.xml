@@ -11,7 +11,7 @@
             <falscheAntwort1>¿Dónde?</falscheAntwort1>
             <falscheAntwort2>¿Cuál?</falscheAntwort2>
             <falscheAntwort3>¿Qué?</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -21,7 +21,7 @@
             <falscheAntwort1>chique</falscheAntwort1>
             <falscheAntwort2>chica</falscheAntwort2>
             <falscheAntwort3>choque</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -31,7 +31,7 @@
             <falscheAntwort1>en B.</falscheAntwort1>
             <falscheAntwort2>from B.</falscheAntwort2>
             <falscheAntwort3>a B.</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -41,7 +41,7 @@
             <falscheAntwort1>la estudiosa</falscheAntwort1>
             <falscheAntwort2>el estudiante</falscheAntwort2>
             <falscheAntwort3>la estudia</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -51,7 +51,7 @@
             <falscheAntwort1>hoj</falscheAntwort1>
             <falscheAntwort2>hoi</falscheAntwort2>
             <falscheAntwort3>hui</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -61,7 +61,7 @@
             <falscheAntwort1>el compleanios</falscheAntwort1>
             <falscheAntwort2>la cumpleañas</falscheAntwort2>
             <falscheAntwort3>el complementario</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -71,7 +71,7 @@
             <falscheAntwort1>¿Cómo te llama?</falscheAntwort1>
             <falscheAntwort2>¿Cómo tu llamas?</falscheAntwort2>
             <falscheAntwort3>¿Cómo llamas?</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -81,7 +81,7 @@
             <falscheAntwort1>tanpoco</falscheAntwort1>
             <falscheAntwort2>muy poco</falscheAntwort2>
             <falscheAntwort3>tal vez</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -91,7 +91,7 @@
             <falscheAntwort1>el carpintero</falscheAntwort1>
             <falscheAntwort2>el calamares</falscheAntwort2>
             <falscheAntwort3>el comidero</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -101,7 +101,7 @@
             <falscheAntwort1>joven</falscheAntwort1>
             <falscheAntwort2>apto</falscheAntwort2>
             <falscheAntwort3>pequeño</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -111,7 +111,7 @@
             <falscheAntwort1>el pero</falscheAntwort1>
             <falscheAntwort2>el belo</falscheAntwort2>
             <falscheAntwort3>el perro</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -121,7 +121,7 @@
             <falscheAntwort1>rojo</falscheAntwort1>
             <falscheAntwort2>negro</falscheAntwort2>
             <falscheAntwort3>largo</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -131,7 +131,7 @@
             <falscheAntwort1>italiane</falscheAntwort1>
             <falscheAntwort2>italo</falscheAntwort2>
             <falscheAntwort3>itale</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -141,7 +141,7 @@
             <falscheAntwort1>bonito</falscheAntwort1>
             <falscheAntwort2>guapa</falscheAntwort2>
             <falscheAntwort3>corto</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -151,7 +151,7 @@
             <falscheAntwort1>Crio que no...</falscheAntwort1>
             <falscheAntwort2>Cree que no...</falscheAntwort2>
             <falscheAntwort3>Sí, ahora voy...</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -161,7 +161,7 @@
             <falscheAntwort1>también</falscheAntwort1>
             <falscheAntwort2>malo</falscheAntwort2>
             <falscheAntwort3>tampoco</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -171,7 +171,7 @@
             <falscheAntwort1>el paso</falscheAntwort1>
             <falscheAntwort2>el vase</falscheAntwort2>
             <falscheAntwort3>el pase</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -181,7 +181,7 @@
             <falscheAntwort1>¿Porque?</falscheAntwort1>
             <falscheAntwort2>¿Porqué?</falscheAntwort2>
             <falscheAntwort3>¿Por que?</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -191,7 +191,7 @@
             <falscheAntwort1>Por favor.</falscheAntwort1>
             <falscheAntwort2>De rien.</falscheAntwort2>
             <falscheAntwort3>Prego.</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -201,7 +201,7 @@
             <falscheAntwort1>nie</falscheAntwort1>
             <falscheAntwort2>immer</falscheAntwort2>
             <falscheAntwort3>jetzt</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -211,7 +211,7 @@
             <falscheAntwort1>nunca</falscheAntwort1>
             <falscheAntwort2>circa</falscheAntwort2>
             <falscheAntwort3>arriba</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -221,7 +221,7 @@
             <falscheAntwort1>nada</falscheAntwort1>
             <falscheAntwort2>bien</falscheAntwort2>
             <falscheAntwort3>bieno</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -231,7 +231,7 @@
             <falscheAntwort1>al</falscheAntwort1>
             <falscheAntwort2>todo</falscheAntwort2>
             <falscheAntwort3>ellos</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -241,7 +241,7 @@
             <falscheAntwort1>Qué tal.</falscheAntwort1>
             <falscheAntwort2>Hasta luego.</falscheAntwort2>
             <falscheAntwort3>De nada.</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -251,7 +251,7 @@
             <falscheAntwort1>poor</falscheAntwort1>
             <falscheAntwort2>povre</falscheAntwort2>
             <falscheAntwort3>popre</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -261,7 +261,7 @@
             <falscheAntwort1>cerrar el autobús</falscheAntwort1>
             <falscheAntwort2>subir al autobús</falscheAntwort2>
             <falscheAntwort3>subir del coche</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -271,7 +271,7 @@
             <falscheAntwort1>¿Por...?</falscheAntwort1>
             <falscheAntwort2>¿En qué hora...?</falscheAntwort2>
             <falscheAntwort3>¿A cuántas horas...?</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -281,7 +281,7 @@
             <falscheAntwort1>mille</falscheAntwort1>
             <falscheAntwort2>mile</falscheAntwort2>
             <falscheAntwort3>cien</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>

@@ -80,7 +80,7 @@ public class ThemenGebiet extends XMLDatei {
   }
 
   public Element setzeFrage(String fragenText, String richtigeAntwort, String falscheAntwort1, String falscheAntwort2,
-      String falscheAntwort3, int schwierikeit) {
+      String falscheAntwort3, int schwierigkeit) {
     Element frage = dokument.createElement("frage");
     fragen.appendChild(frage);
     hängeTextElementAn(frage, "fragenText", fragenText);
@@ -88,15 +88,15 @@ public class ThemenGebiet extends XMLDatei {
     hängeTextElementAn(frage, "falscheAntwort1", falscheAntwort1);
     hängeTextElementAn(frage, "falscheAntwort2", falscheAntwort2);
     hängeTextElementAn(frage, "falscheAntwort3", falscheAntwort3);
-    hängeTextElementAn(frage, "schwierikeit", Integer.toString(schwierikeit));
+    hängeTextElementAn(frage, "schwierigkeit", Integer.toString(schwierigkeit));
     fragenZähler++;
     return frage;
   }
 
   public void setzeFrage(String fragenText, String richtigeAntwort, String falscheAntwort1, String falscheAntwort2,
-      String falscheAntwort3, int schwierikeit, int schwierigkeitMin, int schwierigkeitMax) {
+      String falscheAntwort3, int schwierigkeit, int schwierigkeitMin, int schwierigkeitMax) {
     Element frage = setzeFrage(fragenText, richtigeAntwort, falscheAntwort1, falscheAntwort2, falscheAntwort3,
-        schwierikeit);
+        schwierigkeit);
     hängeTextElementAn(frage, "schwierigkeitMin", Integer.toString(schwierigkeitMin));
     hängeTextElementAn(frage, "schwierigkeitMax", Integer.toString(schwierigkeitMax));
   }
@@ -131,19 +131,17 @@ public class ThemenGebiet extends XMLDatei {
   public void leseFragenInsSpiel(Spiel spiel) {
     NodeList knotenListe = dokument.getElementsByTagName("frage");
     for (int i = 0; i < knotenListe.getLength(); i++) {
-      NodeList fragenElemente = knotenListe.item(i).getChildNodes();
-      // Die anderen Knoten 0 2 sind Text-Knoten, die nur die Leerzeichen aus der
-      // XML-Datei enthalten.
-      // Das ist ziemlich unschön und fragil.
-      Node fragenText = fragenElemente.item(1);
-      Node richtigeAntwort = fragenElemente.item(3);
-      Node falscheAntwort1 = fragenElemente.item(5);
-      Node falscheAntwort2 = fragenElemente.item(7);
-      Node falscheAntwort3 = fragenElemente.item(9);
-      Node schwierigkeit = fragenElemente.item(11);
-      spiel.erzeugeFrage(fragenText.getTextContent(), richtigeAntwort.getTextContent(),
-          falscheAntwort1.getTextContent(), falscheAntwort2.getTextContent(), falscheAntwort3.getTextContent(),
-          schwierigkeit.getTextContent());
+      Node frage = knotenListe.item(i);
+
+      String fragenText = gibTextVonKind(frage, "fragenText");
+      String richtigeAntwort = gibTextVonKind(frage, "richtigeAntwort");
+      String falscheAntwort1 = gibTextVonKind(frage, "falscheAntwort1");
+      String falscheAntwort2 = gibTextVonKind(frage, "falscheAntwort2");
+      String falscheAntwort3 = gibTextVonKind(frage, "falscheAntwort3");
+      String schwierigkeit = gibTextVonKind(frage, "schwierigkeit");
+      spiel.erzeugeFrage(fragenText, richtigeAntwort,
+          falscheAntwort1, falscheAntwort2, falscheAntwort3,
+          schwierigkeit);
     }
   }
 

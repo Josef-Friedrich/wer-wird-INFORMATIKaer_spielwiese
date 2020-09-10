@@ -11,7 +11,7 @@
             <falscheAntwort1>Bremsouting</falscheAntwort1>
             <falscheAntwort2>Bremswasting</falscheAntwort2>
             <falscheAntwort3>Bremsopening</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -21,7 +21,7 @@
             <falscheAntwort1>U-Bremse</falscheAntwort1>
             <falscheAntwort2>Maulbremse</falscheAntwort2>
             <falscheAntwort3>Wankbremse</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>2</schwierigkeitMax>
         </frage>
@@ -31,7 +31,7 @@
             <falscheAntwort1>Blattfeder</falscheAntwort1>
             <falscheAntwort2>Spiralfeder</falscheAntwort2>
             <falscheAntwort3>Öldruck</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>3</schwierigkeitMax>
         </frage>
@@ -41,7 +41,7 @@
             <falscheAntwort1>Twin-Zylinder</falscheAntwort1>
             <falscheAntwort2>Doppel-Zylinder</falscheAntwort2>
             <falscheAntwort3>Hydro-Presse</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -51,7 +51,7 @@
             <falscheAntwort1>Antriebsschlupf</falscheAntwort1>
             <falscheAntwort2>Reibhaften</falscheAntwort2>
             <falscheAntwort3>Bremsfading</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -61,7 +61,7 @@
             <falscheAntwort1>piezoelektrisch</falscheAntwort1>
             <falscheAntwort2>kapazitiv</falscheAntwort2>
             <falscheAntwort3>Fliehkraft</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -71,7 +71,7 @@
             <falscheAntwort1>2/3-Wegeventil</falscheAntwort1>
             <falscheAntwort2>3/2-Druckregelventil</falscheAntwort2>
             <falscheAntwort3>2/3-Füllungsventil</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -81,7 +81,7 @@
             <falscheAntwort1>Select-down</falscheAntwort1>
             <falscheAntwort2>up-and-down</falscheAntwort2>
             <falscheAntwort3>take-down</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -91,7 +91,7 @@
             <falscheAntwort1>Anfahren bei ungleicher Bodenhaftung ermöglichen</falscheAntwort1>
             <falscheAntwort2>Lastwechsel bei Kurvenfahrt ermöglichen</falscheAntwort2>
             <falscheAntwort3>Durchdrehen der Räder verhindern</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -101,7 +101,7 @@
             <falscheAntwort1>Nicken</falscheAntwort1>
             <falscheAntwort2>Wanken</falscheAntwort2>
             <falscheAntwort3>Blockieren der Räder</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -111,7 +111,7 @@
             <falscheAntwort1>0 bis 5 %</falscheAntwort1>
             <falscheAntwort2>100 %</falscheAntwort2>
             <falscheAntwort3>50 bis 100 %</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -121,7 +121,7 @@
             <falscheAntwort1>Normalkraft</falscheAntwort1>
             <falscheAntwort2>Bremskraft</falscheAntwort2>
             <falscheAntwort3>Druckkraft</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -131,7 +131,7 @@
             <falscheAntwort1>ABS</falscheAntwort1>
             <falscheAntwort2>AMG</falscheAntwort2>
             <falscheAntwort3>ASR</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -141,7 +141,7 @@
             <falscheAntwort1>Wankwinkel</falscheAntwort1>
             <falscheAntwort2>Spurdifferenzwinkel</falscheAntwort2>
             <falscheAntwort3>Radeinschlagwinkel</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -151,7 +151,7 @@
             <falscheAntwort1>Querkräfte</falscheAntwort1>
             <falscheAntwort2>Fliehkräfte</falscheAntwort2>
             <falscheAntwort3>Haftreibungsbeiwerte</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
