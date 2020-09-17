@@ -7,10 +7,10 @@ jahrgangsstufe,fragenText,richtigeAntwort,falscheAntwort1,falscheAntwort2,falsch
 7,Wie nennt man das Gesetz das regelt wie Firmen und öffentliche Einrichtungen mit personenbezogenen Daten umzugehen haben.,DSGVO,DGSVO,DSGUO,DSBVO,3,Josef
 7,Mit einem Methodenaufruf ...,... gibt man einem Objekt Anweisungen. ,... ruft man die Programmierungumgebung auf.,... liest man die Liste aller Methoden aus.,... startet man die Sprachausgabe.,2,Josef
 7,Was ist ein Struktogramm?,Eine grafische Darstellung eines Programmentwurfs.,Ein gut strukturiertes Computerprogramm.,Eine Software zum Zeitmanagement.,Eine grafische Programmiersprache.,1,Josef
-7,"Die Verbindung von Knoten in einem Graphen nennt man ...",Kante,Seil,Glied,Line,1,Josef
+7,Die Verbindung von Knoten in einem Graphen nennt man ...,Kante,Seil,Glied,Line,1,Josef
 7,"Wie nennt die Beziehung, wenn zwei Objekte der gleichen Klasse in Beziehung stehen?",rekursive Beziehung,repetetive Beziehung,reflexive Beziehung,relationale Beziehung,2,Josef
 6,Welche Definition trifft in Informatik für den Begriff Klasse zu? ,ein Bauplan für Objekte gleicher Art ,die Eigenschaft eines Objekts ,"eine Gruppe, zu der alle Objekte gehören ",eine Ansammlung von Methoden,1,Michi
-6,Welche Attribute gehören nicht zur Klasse FOLIE? ,EinzugLinks,Füllfarbe,Anzeigedauer,Folienübergang,2,Michi
+6,Welches Attribut gehört nicht zur Klasse FOLIE? ,EinzugLinks,Füllfarbe,Anzeigedauer,Folienübergang,2,Michi
 6,"Was ändert sich im Wort ""lassen"", nachdem die Methode Z3.SchriftgroesseSetzen(8) ausgeführt worden ist?",Das erste s hat die Schriftgröße 8. ,Das ss hat die Schriftgröße 8. ,Die Zeile mit dem Wort hat die Schriftgröße 8. ,"Nichts, weil der Attributwert unzulässig ist.",3,Michi
 6,Wie wird bei Objektdiagrammen die Enthält-Beziehung zwischen zwei Objekten dargestellt?,Kante,Wurzel,Knoten,Blatt,2,Michi
 6,Bei welcher Beziehung handelt es sich nicht um eine Enthält-Beziehung?,Teller – Messer – Gabel,Pixelgrafikdokument – Pixel ,Mensch – Kopf – Auge – Haar ,Buch – Seite ,4,Michi
@@ -18,4 +18,34 @@ jahrgangsstufe,fragenText,richtigeAntwort,falscheAntwort1,falscheAntwort2,falsch
 6,Wie sieht folgende Aussage in informatischer Punktschreibweise aus? „Das Objekt mit dem Bezeichner Fenster ist blau.“ ,Fenster.Farbe = blau ,Rechteck.Fenster = blau ,Fenster.Farbe(blau) ,FENSTER.Farbe = blau,5,Michi
 6,Welche informatische Kurzschreibweise ist für folgende Aussage die richtige? „Das Objekt Schüler1 gehört der Klasse SCHÜLER an.“ ,Schüler1:SCHÜLER ,Schüler:Schüler ,SCHÜLER1:Schüler ,SCHÜLER1:SCHÜLER,3,Michi
 6,Welche Übersetzung folgender Aussage in die Punktschreibweise ist korrekt? „Der Radius des Balls wird auf 2 cm festgelegt.“ ,Ball.RadiusSetzen(2 cm),Radius.Ball = 2 cm ,Radius(2 cm):BALL ,Ball.Radius = 2 cm ,5,Michi
-6,Wie viele Attribute hat ein Objekt der Klasse Pixel? ,1,3,5,7,4,Michi
+6,Wie viele Attribute hat ein Objekt der Klasse PIXEL? ,1,3,5,7,4,Michi
+7,"Welches dieser Objekte muss gestrichen werden, damit sich die restlichen Objekte einer Klasse zuordnen lassen?",bayern,norwegen,belgien,italien,3,Steffi
+7,Alle Objekte einer Klasse haben:,dieselben Attribute,dieselben Werte,denselben Namen,den gleichen Inhalt,4,Steffi
+7,Eine Klasse beschreibt:,gleichartige Objekte,die Ansammlung von 30 Schülern,eine Automarke,die Qualität von Aussagen,2,Steffi
+7,Was stimmt nicht? Auf der Objektkarte stehen:,Methoden,Objektname in klein ,Attributwerte in Zahlen ,Klassenname in Groß,4,Steffi
+7,"Das Dreieck soll zuerst in x- Richtung 5 cm und in y -Richtung 2 cm verschoben werden mit der Methode verschieben(x,y). Was wird funktionieren?","dreieck1.verschieben(5,2)",dreieck1.verschieben(5)verschieben(2),"dreieck1.verschieben(2,5)","dreieck1.verschieben(5,2)dreieck1.verschieben(5,2)",5,Steffi
+7,Methoden werden angewendet auf ,ein Objekt einer Klasse ,eine Klasse  ,auf bestimmte Objekte auf einer Klasse ,auf Objekte und Klassen,4,Steffi
+7,"Um mit der Punktnotation eine Methode auf dem Objekt viereck1 aufzurufen, schreibt man",viereck1.verschiebe(Parameter) ,verschiebe.viereck1(parameter) ,viereck1(parameter).verschiebe ,viereck1.parameter.verschiebe(),5,Steffi
+7,"CC Lizenzmodelle: der Nutzer  kann das Werk weitergeben, gegebenenfalls auch kommerziell . Das Werk darf allerdings nicht verändert werden und der Urheber muss genannt werden.",CC BY ND ,CC BY ,CC BY SA ,CC BY NC,5,Steffi
+7,Welche Bilder speichert man eher als Vektorgraphik?,Plan für eine neue Küche,eingescannte Seite aus einem Buch ,Illustration aus Tusche für ein Buch ,Passbild,3,Steffi
+7,Welche der Suffix ist normalerweise kein Bild zugeordnet?, rtf ,gif,jpeg ,png,3,Steffi
+6,Zu welcher Klasse gehört das Attribut Schuhgröße? ,Mensch,Spinne,Tausendfüssler,Baum,3,Michi
+6,Zu welchem Attribut gehört der Attributwert gelb?,Schriftfarbe,Linienstärke,Fett,Hochgestellt,1,Michi
+6,In einem Vektorgrafikdokument verwendet man  ,geometrische Objekte,menschliche Objekte,realistische Objekte,tierische Objekte,2,Michi
+6,Bei einem Methodenaufruf werden die Parameterwerte ,zwischen die Klammern geschrieben. ,in rot geschrieben. ,mit einem Ausrufezeichen versehen. ,weggelassen. ,5,Michi
+6,Das Tastenkürzel für Kopieren ist ,Strg + C,Strg + A,Strg + V ,Strg + X,1,Michi
+6,Das Tastenkürzel für Einfügen ist ,Strg + V,Strg + A ,Strg + C,Strg + X,2,Michi
+6,Wie viele Attributwerte haben boolsche Attribute? ,2,3,4,unendlich viele,5,Michi
+6,Die Einheit für die Schriftgröße ist ,Punkt,Komma,Millimeter,Zentimeter,4,Michi
+6,Ein Knoten ohne Kante nach unten heißt ,Blatt,Wurzel,Knoten ,Kante,4,Michi
+6,Der oberste Knoten heißt ,Wurzel,Knoten,Kante,Blatt,3,Michi
+6,Wie heißen die Eigenschaften von Objekten?,Attribute,Bezeichner,Charakter,Dokumente,3,Martin
+6,Welche Objekte enthalten Grafikdokumente NICHT?,Zahlen,Rechtecke,Linien,Textfelder,3,Martin
+6,Wie nennt man Objekte mit denselben Attributen?,Klassen,Lehrer,Schüler,Jahrgänge,1,Martin
+6,"Gib die Klasse für die Objekte schweiz, belgien, island, polen an.",LAND,STADT,EINWOHNER,SEHENSWUERDIGKEIT,2,Martin
+6,Was bezeichnet man in der Informatik als Methode?,"Operation, die ein Objekt ausführen kann.","Operation, die ein Subjekt ausführen kann.","Operation, die ein Prädikat ausführen kann.","Operation, die ein Konsonant ausführen kann.",2,Martin
+6,"Was bedeutet die elementare Informationseinheit ""Bit""?",binary digit,binary dictionary,biscuit day,bicycle day,3,Martin
+6,Was kommt in Objektdiagrammen NICHT vor?,+,enthält,>,Objekte,3,Martin
+6,Was macht ein Tabulator?,Textelemente exakt ausrichten,Textelemente korrekt schreiben,Bildelemente verkleinern,Bildelemente vergrößern,1,Martin
+6,Wofür steht bei freien Lizenzmodellen die Abkürzung CC?,Creative Commons,Create Comata,Chaos Computer,Cheap Community,3,Martin
+6,Welche Dateiendung kann ein Textverarbeitungsprogramm problemlos öffnen?,.doc,.jar,.exe,.dmg,2,Martin
