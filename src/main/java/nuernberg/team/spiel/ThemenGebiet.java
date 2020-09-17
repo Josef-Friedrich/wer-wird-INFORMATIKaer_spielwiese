@@ -11,6 +11,25 @@ import org.w3c.dom.NodeList;
 
 /**
  * Die Fragen für ein Themengebiet werden in einer XML-Datei festgehalten.
+ * <pre>{@code
+ * <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+ * <themenGebiet>
+ *     <fach>Informatik</fach>
+ *     <thema>6. Jahrgangsstufe</thema>
+ *     <autor>Michi</autor>
+ *     <anzahlFragen>10</anzahlFragen>
+ *     <fragen>
+ *         <frage>
+ *             <fragenText>Wie nennt die Beziehung, wenn zwei Objekte der gleichen Klasse in Beziehung stehen?</fragenText>
+ *             <richtigeAntwort>rekursive Beziehung</richtigeAntwort>
+ *             <falscheAntwort1>repetetive Beziehung</falscheAntwort1>
+ *             <falscheAntwort2>reflexive Beziehung</falscheAntwort2>
+ *             <falscheAntwort3>relationale Beziehung</falscheAntwort3>
+ *             <schwierigkeit>2</schwierigkeit>
+ *         </frage>
+ *     </fragen>
+ * </themenGebiet>
+ * }</pre>
  */
 public class ThemenGebiet extends XMLDatei {
 
