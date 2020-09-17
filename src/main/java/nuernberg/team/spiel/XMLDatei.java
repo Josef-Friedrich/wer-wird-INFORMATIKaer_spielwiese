@@ -26,52 +26,80 @@ import org.xml.sax.SAXException;
 public class XMLDatei {
 
   /**
-   * Der relative Pfad zum „resources“-Ordner mit führendem
-   * Schrägstrich.
+   * Der relative Pfad zum „resources“-Ordner mit führendem Schrägstrich.
    */
-  protected String pfad;
+  protected File datei;
   protected Element wurzel;
   protected Document dokument;
 
-  public XMLDatei(String pfad) throws Exception {
-    this.pfad = pfad;
-    URL resource = getClass().getResource(pfad);
+  /**
+   *
+   * @param relativerPfad Eine relativer Pfad (relative zum Ordner
+   *                      src/main/resources)
+   * @throws Exception
+   */
+  public XMLDatei(String relativerPfad) throws Exception {
+    URL resource = getClass().getResource(relativerPfad);
     if (resource == null) {
-      throw new Exception("Pfad konnte nicht geladen werden: " + pfad);
+      throw new Exception("Pfad konnte nicht geladen werden: " + relativerPfad);
     }
-    File datei = new File(resource.getFile());
+    datei = new File(resource.getFile());
+    initialisiere(datei);
+  }
+
+  /**
+   * Eine neue XMLDatei beginnen.
+   *
+   * @param datei Existiert die Datein noch nicht, wird eine neue Datei angelegt.
+   *              Existierte sie, so wird sie gelesen.
+   */
+  public XMLDatei(File datei) {
+    initialisiere(datei);
+  }
+
+  /**
+   * Initialisiere die XML-Datei.
+   *
+   * @param datei Existiert die Datein noch nicht, wird eine neue Datei angelegt.
+   *              Existierte sie, so wird sie gelesen.
+   */
+  private void initialisiere(File datei) {
+    this.datei = datei;
     try {
-      DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
-      DocumentBuilder db = dbf.newDocumentBuilder();
-      dokument = db.parse(datei);
-      wurzel = dokument.getDocumentElement();
-      wurzel.normalize();
+      DocumentBuilder documentBuilder = DocumentBuilderFactory.newInstance().newDocumentBuilder();
+      if (istImLeseModus()) {
+        dokument = documentBuilder.parse(datei);
+        wurzel = dokument.getDocumentElement();
+        wurzel.normalize();
+      } else {
+        dokument = documentBuilder.newDocument();
+      }
     } catch (ParserConfigurationException | SAXException | IOException e) {
       e.printStackTrace();
     }
   }
 
   /**
-   * Eine neue XMLDatei beginnen.
+   * Überprüft, ob die XML-Datei im Lesemodus ist.
    *
-   * @param pfad
-   * @param wurzelName
+   * Um die Datei im Lesemodus zu öffnen, muss die Datei existieren und
+   * darf nicht leer sein.
+   *
+   * @return wahr, wenn sich die Datei im Lese-Modus befindet.
    */
-  public XMLDatei(String pfad, String wurzelName) {
-    this.pfad = pfad;
-    try {
-      DocumentBuilderFactory documentFactory = DocumentBuilderFactory.newInstance();
-      DocumentBuilder documentBuilder = documentFactory.newDocumentBuilder();
-      dokument = documentBuilder.newDocument();
-      wurzel = dokument.createElement(wurzelName);
-      dokument.appendChild(wurzel);
-    } catch (ParserConfigurationException e) {
-      e.printStackTrace();
-    }
+  private boolean istImLeseModus() {
+    return datei.exists() && datei.length() > 0;
   }
 
   public Element gibWurzel() {
     return wurzel;
+  }
+
+  public void setzeWurzel(String wurzelName) {
+    if (!istImLeseModus()) {
+      wurzel = dokument.createElement(wurzelName);
+      dokument.appendChild(wurzel);
+    }
   }
 
   public Document gibDokument() {
@@ -85,7 +113,7 @@ public class XMLDatei {
       transformer.setOutputProperty(OutputKeys.ENCODING, "UTF-8");
       transformer.setOutputProperty(OutputKeys.INDENT, "yes");
       DOMSource domSource = new DOMSource(dokument);
-      StreamResult streamResult = new StreamResult(new File(pfad));
+      StreamResult streamResult = new StreamResult(datei);
       transformer.transform(domSource, streamResult);
     } catch (TransformerException e) {
       e.printStackTrace();

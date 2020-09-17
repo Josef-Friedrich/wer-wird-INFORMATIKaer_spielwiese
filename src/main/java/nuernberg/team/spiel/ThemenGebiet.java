@@ -1,5 +1,6 @@
 package nuernberg.team.spiel;
 
+import java.io.File;
 import java.io.IOException;
 
 import org.apache.commons.csv.CSVParser;
@@ -13,18 +14,20 @@ import org.w3c.dom.NodeList;
  */
 public class ThemenGebiet extends XMLDatei {
 
-  Element fragen;
-  Element thema;
-  Element autor;
-  Element anzahlFragen;
+  private Element fragen;
+  private Element thema;
+  private Element autor;
+  private Element anzahlFragen;
   int fragenZähler = 0;
-  Element fach;
+  private Element fach;
 
   public ThemenGebiet(String pfad) throws Exception {
     super(pfad);
   }
-  public ThemenGebiet() throws Exception {
-    super("tmp.xml", "themenGebiet");
+
+  public ThemenGebiet(File datei) throws Exception {
+    super(datei);
+    setzeWurzel("themenGebiet");
     fach = dokument.createElement("fach");
     wurzel.appendChild(fach);
 
