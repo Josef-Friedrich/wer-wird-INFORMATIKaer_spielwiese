@@ -77,7 +77,8 @@ public class XMLDatei {
   }
 
   /**
-   * Eine neue XMLDatei beginnen.
+   * Eine neue XMLDatei beginnen. Dieser Konstruktor wird vor allem benötigt um
+   * aus einer CSV-Datei eine neue XML-Datei zu erzeugen.
    *
    * @param datei Existiert die Datein noch nicht, wird eine neue Datei angelegt.
    *              Existierte sie, so wird sie gelesen.
