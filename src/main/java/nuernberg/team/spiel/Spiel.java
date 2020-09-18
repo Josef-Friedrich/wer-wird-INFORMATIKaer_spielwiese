@@ -56,12 +56,12 @@ public class Spiel {
    * Frage zufällig ein. Die Argumente können direkt aus dem CSVLeser eingelesen
    * werden.
    *
-   * @param fragenText
-   * @param richtigeAntwort
-   * @param falscheAntwort1
-   * @param falscheAntwort2
-   * @param falscheAntwort3
-   * @param schwierigkeit
+   * @param fragenText Der Text der Frage (Der eigentliche Fragensatz).
+   * @param richtigeAntwort Die richtige Antwort.
+   * @param falscheAntwort1 Die falsche Antwort Nr. 1.
+   * @param falscheAntwort2 Die falsche Antwort Nr. 2.
+   * @param falscheAntwort3 Die falsche Antwort Nr. 3.
+   * @param schwierigkeit Die Schwierigkeit (1-5).
    */
   public void erzeugeFrage(String fragenText, String richtigeAntwort, String falscheAntwort1, String falscheAntwort2,
       String falscheAntwort3, String schwierigkeit) {
@@ -85,7 +85,7 @@ public class Spiel {
    * Entnimm eine Frage. Diese Methode wird an die Klasse {@link FragenListe}
    * weitergeleitet.
    *
-   * @return
+   * @return Die nächste Frage
    */
   public Frage gibNächsteFrage() {
     aktuelleFrage = unbeantworteteFragen.entnimmFrage(schwierigkeit);
@@ -99,7 +99,7 @@ public class Spiel {
    *
    * @param antwort 0 = Frage A, 3 = Frage D
    *
-   * @return
+   * @return Wahr, wenn die Frage richtig beantwortete wurde.
    */
   public boolean istAntwortRichtig(int antwort) {
     if (aktuelleFrage.gibRichtigeAntwort() == antwort) {
@@ -116,7 +116,8 @@ public class Spiel {
    * Beantworte die aktuelle Frage.
    *
    * @param antwort 0 = Frage A, 3 = Frage D
-   * @return
+   *
+   * @return Wahr, wenn die Frage richtig beantwortet wurde.
    */
   public boolean beantworteFrage(int antwort) {
     beantworteteFragen.fügeHintenEin(aktuelleFrage);
@@ -129,7 +130,7 @@ public class Spiel {
    * Gib die aktuelle Fragennummer zurück. 1 ist die erste Fragennummer und so
    * weiter.
    *
-   * @return
+   * @return Die Fragennummer. 1 ist die erste Fragennummer.
    */
   public int gibFragenNummer() {
     return frageNummer;
@@ -139,7 +140,7 @@ public class Spiel {
    * Gib die Anzahl der noch unbeantworteten Fragen, die ins Spiel geladen wurden
    * zurück.
    *
-   * @return
+   * @return Die Anzahl der noch unbeantworteten Fragen.
    */
   public int gibAnzahlUnbeantworterFragen() {
     return unbeantworteteFragen.gibAnzahlFragen();
@@ -148,7 +149,7 @@ public class Spiel {
   /**
    * Gib die Anzahl der beantworteten Fragen zurück.
    *
-   * @return
+   * @return Die Anzahl der beantworteten Fragen.
    */
   public int gibAnzahlBeantworterFragen() {
     return beantworteteFragen.gibAnzahlFragen();
@@ -157,7 +158,7 @@ public class Spiel {
   /**
    * Gib die aktuelle Gewinnsumme aus.
    *
-   * @return
+   * @return Die aktuelle Gewinnsumme.
    */
   public long gibGewinnSumme() {
     if (frageNummer == 0) {
@@ -176,6 +177,8 @@ public class Spiel {
 
   /**
    * Zeige an, ob das Spiel gewonnen oder verloren wurde.
+   *
+   * @return Wahr, wenn das Spiel verloren wurde.
    */
   public boolean istVerloren() {
     return verloren;

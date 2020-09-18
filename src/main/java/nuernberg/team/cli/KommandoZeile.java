@@ -158,9 +158,6 @@ public class KommandoZeile {
     }
   }
 
-  /**
-   *
-   */
   public static void main(String[] args) throws Exception, IOException {
     System.out.println("Willkommen bei „Wer wird INFORMATIKär (INFORMATIK-Millionär)");
     zeigeASCIILogo();

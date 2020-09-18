@@ -40,11 +40,11 @@ public class ThemenGebiet extends XMLDatei {
   int fragenZähler = 0;
   private Element fach;
 
-  public ThemenGebiet(String pfad) throws Exception {
+  public ThemenGebiet(String pfad) {
     super(pfad);
   }
 
-  public ThemenGebiet(File datei) throws Exception {
+  public ThemenGebiet(File datei) {
     super(datei);
     setzeWurzel("themenGebiet");
     fach = dokument.createElement("fach");
@@ -140,9 +140,7 @@ public class ThemenGebiet extends XMLDatei {
   /**
    * Liest die Fragen einer Jahrgangsstufe in die Klasse Spiel ein.
    *
-   * @param spiel
-   * @param jahrgangsstufe
-   * @throws IOException
+   * @param spiel Eine Instanz der Klasse {@link Spiel}
    */
   public void leseFragenInsSpiel(Spiel spiel) {
     NodeList knotenListe = dokument.getElementsByTagName("frage");
@@ -159,12 +157,6 @@ public class ThemenGebiet extends XMLDatei {
           falscheAntwort1, falscheAntwort2, falscheAntwort3,
           schwierigkeit);
     }
-  }
-
-  public static void main(String[] args) throws Exception {
-    // ThemenGebiet schreiber = new ThemenGebiet();
-    // schreiber.konvertiereCSV("./spiel/fragen/fragen.csv");
-    ThemenGebiet themenGebiet = new ThemenGebiet("fragen/musik/musik01.xml");
   }
 
 }

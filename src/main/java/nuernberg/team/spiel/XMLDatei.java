@@ -36,13 +36,9 @@ public class XMLDatei {
    *
    * @param relativerPfad Eine relativer Pfad (relative zum Ordner
    *                      src/main/resources)
-   * @throws Exception
    */
-  public XMLDatei(String relativerPfad) throws Exception {
+  public XMLDatei(String relativerPfad) {
     URL resource = getClass().getResource(relativerPfad);
-    if (resource == null) {
-      throw new Exception("Pfad konnte nicht geladen werden: " + relativerPfad);
-    }
     datei = new File(resource.getFile());
     initialisiere(datei);
   }

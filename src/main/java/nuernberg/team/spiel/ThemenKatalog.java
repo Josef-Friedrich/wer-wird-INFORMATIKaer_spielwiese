@@ -30,7 +30,7 @@ public class ThemenKatalog extends XMLDatei {
 
   NodeList knotenListe;
 
-  public ThemenKatalog() throws Exception {
+  public ThemenKatalog() {
     super("/fragen/index.xml");
     knotenListe = dokument.getElementsByTagName("themenGebiet");
   }
@@ -72,19 +72,13 @@ public class ThemenKatalog extends XMLDatei {
 
   /**
    * @param nummer Die Nummer in der Themenliste beginnend mit 0.
-   * @throws Exception
+   *
+   * @return Das ausgewählte Themengebiet.
    */
-  public ThemenGebiet gibGebietDurchNummer(int nummer) throws Exception {
+  public ThemenGebiet gibGebietDurchNummer(int nummer) {
     Node knoten = knotenListe.item(nummer);
     ThemenGebiet gebiet = new ThemenGebiet(gibPfadVonKnoten(knoten));
     return gebiet;
-  }
-
-  public static void main(String[] args) throws Exception {
-    ThemenKatalog katalog = new ThemenKatalog();
-    katalog.listeGebieteAuf();
-    ThemenGebiet gebiet = katalog.gibGebietDurchNummer(0);
-    System.out.println(gebiet.gibThema());
   }
 
 }

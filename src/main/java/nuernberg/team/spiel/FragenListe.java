@@ -8,9 +8,9 @@ import java.util.Random;
  * Sie ist als eine einfach verkette Liste nach dem Entwurfsmuster „Kompositum“
  * realisiert.
  *
- * Sie entspricht der Klasse „Liste“ aus dem AUD 4 Beispiel von Annabel.
- *
- * @see https://www.studon.fau.de/file2861024_download.html
+ * Sie entspricht der Klasse „Liste“ aus dem
+ * <a href="https://www.studon.fau.de/file2861024_download.html">AUD 4 Beispiel
+ * von Annabel.</a>
  */
 public class FragenListe {
   private ListenElement kopf;
@@ -37,7 +37,7 @@ public class FragenListe {
     anzahlFragen++;
   }
 
-  public ListenElement gibKopf () {
+  public ListenElement gibKopf() {
     return kopf;
   }
 
@@ -56,7 +56,7 @@ public class FragenListe {
    *
    * @param frage    Die {@link Frage}, die einfügt werden sollen
    * @param position Die Positions-Nummer. 0 ist die erste Frage.
-   *                 {@link anzahlFrage} - 1 ist die Positionsnummer der letzten
+   *                 {@link anzahlFragen} - 1 ist die Positionsnummer der letzten
    *                 Frage.
    */
   public void fügeVorPositionEin(Frage frage, int position) {
@@ -112,8 +112,14 @@ public class FragenListe {
 
   /**
    * Erzeuge eine neue Frage anhand von mehreren String-Argumenten und füge diese
-   * Frage zufällig ein. Die Argumente können direkt aus dem CSVLeser eingelesen
-   * werden.
+   * Frage zufällig ein.
+   *
+   * @param fragenText      Der Text der Frage (Der eigentliche Fragensatz).
+   * @param richtigeAntwort Die richtige Antwort.
+   * @param falscheAntwort1 Die falsche Antwort Nr. 1.
+   * @param falscheAntwort2 Die falsche Antwort Nr. 2.
+   * @param falscheAntwort3 Die falsche Antwort Nr. 3.
+   * @param schwierigkeit   Die Schwierigkeit (1-5).
    */
   public void erzeugeFrage(String fragenText, String richtigeAntwort, String falscheAntwort1, String falscheAntwort2,
       String falscheAntwort3, String schwierigkeit) {
@@ -142,7 +148,7 @@ public class FragenListe {
    * dieser Methode keine Zähler verwendet, der hochgezählt werden muss. Diese
    * Methode funktioniert also sicherer.
    *
-   * @return
+   * @return Die Anzahl der Datenknoten.
    */
   public int gibAnzahlDatenKnoten() {
     return kopf.gibAnzahlDatenKnoten();

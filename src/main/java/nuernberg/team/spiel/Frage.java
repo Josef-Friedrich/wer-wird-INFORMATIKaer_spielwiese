@@ -43,20 +43,20 @@ public class Frage {
   private String[] buchstaben = { "A", "B", "C", "D" };
 
   /**
-   * @param frage           Der Text der Frage.
-   * @param richtigeAntwort Der Text der richtigen Antwort.
-   * @param falscheAntwort1
-   * @param falscheAntwort2
-   * @param falscheAntwort3
-   * @param schwierigkeit
+   * @param fragenText      Der Text der Frage (Der eigentliche Fragensatz).
+   * @param richtigeAntwort Die richtige Antwort.
+   * @param falscheAntwort1 Die falsche Antwort Nr. 1.
+   * @param falscheAntwort2 Die falsche Antwort Nr. 2.
+   * @param falscheAntwort3 Die falsche Antwort Nr. 3.
+   * @param schwierigkeit   Die Schwierigkeit (1-5).
    */
-  public Frage(String frage, String richtigeAntwort, String falscheAntwort1, String falscheAntwort2,
+  public Frage(String fragenText, String richtigeAntwort, String falscheAntwort1, String falscheAntwort2,
       String falscheAntwort3, int schwierigkeit) {
     this.antworten[0] = richtigeAntwort;
     this.antworten[1] = falscheAntwort1;
     this.antworten[2] = falscheAntwort2;
     this.antworten[3] = falscheAntwort3;
-    this.fragenText = frage;
+    this.fragenText = fragenText;
     this.richtigeAntwort = 0;
     this.schwierigkeit = schwierigkeit;
   }
@@ -64,10 +64,10 @@ public class Frage {
   /**
    * Mische die Antworten zufällig.
    *
-   * Dabei muss das Attribut {@link positionRichtigeAntwort} aktualisiert werden.
+   * Dabei muss das Attribut {@link richtigeAntwort} aktualisiert werden.
    *
-   * @see <a href=
-   *      "https://de.wikipedia.org/wiki/Zufällige_Permutation#Fisher-Yates-Verfahren">Fisher-Yates-Verfahren</a>
+   * Die Methode implementiert das <a href=
+   * "https://de.wikipedia.org/wiki/Zufällige_Permutation#Fisher-Yates-Verfahren">Fisher-Yates-Verfahren</a>.
    */
   public void mischeAntworten() {
     // Ein Objekt der Klasse Random erzeugen, um Zugriff auf einen
@@ -106,7 +106,7 @@ public class Frage {
    *
    * @param antwort Eine Zahl von 0 - 3.
    *
-   * @return
+   * @return Wahr, wenn die Frage richitg beantwortet wurde.
    */
   public boolean beantworteFrage(int antwort) {
     this.gegebeneAntwort = antwort;
@@ -144,18 +144,18 @@ public class Frage {
   }
 
   /**
-   * Gib die Index-Position der richtigen Antwort zurück.
+   * Gib die Index-Position der gegebenen Antwort zurück.
    *
-   * @return
+   * @return Die Index-Position (0-3) der gegebenen Antwort.
    */
   public int gibGegebeneAntwort() {
     return gegebeneAntwort;
   }
 
   /**
-   * Gib die Index-Position der gegeben Antwort zurück.
+   * Gib die Index-Position der richtigen Antwort zurück.
    *
-   * @return
+   * @return Die Index-Position (0-3) der richtigen Antwort.
    */
   public int gibRichtigeAntwort() {
     return richtigeAntwort;
@@ -164,7 +164,7 @@ public class Frage {
   /**
    * Gib den Text der richtigen Antwort zurück
    *
-   * @return
+   * @return Den Text der richtigen Antwort.
    */
   public String gibRichtigeAntwortText() {
     return antworten[richtigeAntwort];
@@ -173,7 +173,8 @@ public class Frage {
   /**
    *
    * @param antwortNr 0 = A, 3 = D
-   * @return
+   *
+   * @return Den Buchstaben (A-D) der Antwort.
    */
   public String gibBuchstabe(int antwortNr) {
     return buchstaben[antwortNr];
@@ -181,11 +182,11 @@ public class Frage {
 
   /**
    *
-   * @return
+   * @return Wahr, wenn die Frage richtig beantwortete wurde.
    */
-  public boolean istRichtigBeantwortet() throws Exception {
+  public boolean istRichtigBeantwortet() {
     if (gegebeneAntwort == -1) {
-      throw new Exception("Frage wurde noch nicht beantwortet");
+      return false;
     }
     return richtigeAntwort == gegebeneAntwort;
   }
