@@ -5,6 +5,9 @@ import static org.junit.Assert.assertEquals;
 import java.io.File;
 
 import org.junit.Test;
+import org.w3c.dom.Document;
+import org.w3c.dom.Node;
+import org.w3c.dom.NodeList;
 
 public class ThemenGebietTest {
 
@@ -17,7 +20,6 @@ public class ThemenGebietTest {
   @Test
   public void erzeugeThemenGebiet() throws Exception {
     File tmpDatei = File.createTempFile("wwim", ".xml");
-    System.out.println(tmpDatei.toString());
 
     ThemenGebiet schreiben = new ThemenGebiet(tmpDatei);
     schreiben.setzeFach("Informatik");
@@ -30,4 +32,23 @@ public class ThemenGebietTest {
     assertEquals("6. Jahrgangsstufe", lesen.gibThema());
     assertEquals("Josef Friedrich", lesen.gibAutor());
   }
+
+  @Test
+  public void methodeKonvertiereCSV() throws Exception {
+    File tmpDatei = File.createTempFile("wwim", ".xml");
+
+    ThemenGebiet schreiben = new ThemenGebiet(tmpDatei);
+    schreiben.konvertiereCSV("/fragen/fragen.csv");
+
+    ThemenGebiet lesen = new ThemenGebiet(tmpDatei);
+    assertEquals("Informatik", lesen.gibFach());
+    assertEquals("Jahrgangsstufe", lesen.gibThema());
+    assertEquals("Michi, Steffi, Josef, Martin", lesen.gibAutor());
+
+    Document dokument = lesen.gibDokument();
+    NodeList knotenListe = dokument.getElementsByTagName("frage");
+    Node frage = knotenListe.item(0);
+    assertEquals("frage", frage.getNodeName());
+  }
+
 }
