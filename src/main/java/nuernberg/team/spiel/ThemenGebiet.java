@@ -11,7 +11,9 @@ import org.w3c.dom.NodeList;
 
 /**
  * Die Fragen für ein Themengebiet werden in einer XML-Datei festgehalten.
- * <pre>{@code
+ *
+ * <pre>
+ * {@code
  * <?xml version="1.0" encoding="UTF-8" standalone="no"?>
  * <themenGebiet>
  *     <fach>Informatik</fach>
@@ -29,7 +31,8 @@ import org.w3c.dom.NodeList;
  *         </frage>
  *     </fragen>
  * </themenGebiet>
- * }</pre>
+ * }
+ * </pre>
  */
 public class ThemenGebiet extends XMLDatei {
 
@@ -40,10 +43,28 @@ public class ThemenGebiet extends XMLDatei {
   int fragenZähler = 0;
   private Element fach;
 
-  public ThemenGebiet(String pfad) {
-    super(pfad);
+  /**
+   * Erzeugt anhand eines relativen Pfades zu einer XML-Datei eine neue Instanze
+   * der Klasse.
+   *
+   * @param relativerPfad Relativer Pfad zum Elternverzeichnis
+   *                      <code>./src/main/resources/fragen</code>. Beispielsweise
+   *                      wird <code>informatik/6_jahrgangsstufe.xml</code> zu
+   *                      <code>src/main/resources/fragen/informatik/6_jahrgangsstufe.xml</code>
+   *                      ergänzt.
+   */
+  public ThemenGebiet(String relativerPfad) {
+    super("/fragen/" + relativerPfad);
   }
 
+  /**
+   * Erzeugt anhand eines {@link java.io.File}-Objekts eine neue Instanz.
+   *
+   * Existiert die Datein noch nicht oder ist leer, wird eine neue XML-Datei
+   * angelegt.
+   *
+   * @param datei Ein {@link java.io.File}-Objekt.
+   */
   public ThemenGebiet(File datei) {
     super(datei);
     setzeWurzel("themenGebiet");
@@ -153,9 +174,7 @@ public class ThemenGebiet extends XMLDatei {
       String falscheAntwort2 = gibTextVonKind(frage, "falscheAntwort2");
       String falscheAntwort3 = gibTextVonKind(frage, "falscheAntwort3");
       String schwierigkeit = gibTextVonKind(frage, "schwierigkeit");
-      spiel.erzeugeFrage(fragenText, richtigeAntwort,
-          falscheAntwort1, falscheAntwort2, falscheAntwort3,
-          schwierigkeit);
+      spiel.erzeugeFrage(fragenText, richtigeAntwort, falscheAntwort1, falscheAntwort2, falscheAntwort3, schwierigkeit);
     }
   }
 

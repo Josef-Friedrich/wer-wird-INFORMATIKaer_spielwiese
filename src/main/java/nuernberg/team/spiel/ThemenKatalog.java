@@ -6,7 +6,7 @@ import org.w3c.dom.NodeList;
 
 /**
  * Gibt einen Überblick über alle verfügbaren Themengebiete. Die Themengebiete
- * werden in der Datei ./spiel/fragen/index.xml konfiguriert.
+ * werden in der Datei <code>./spiel/fragen/index.xml</code> konfiguriert.
  */
 public class ThemenKatalog extends XMLDatei {
 
@@ -42,7 +42,7 @@ public class ThemenKatalog extends XMLDatei {
   }
 
   private String gibPfadVonKnoten(Node knoten) {
-    return "/fragen/" + gibTextAttributVonKnoten(knoten, "pfad");
+    return gibTextAttributVonKnoten(knoten, "pfad");
   }
 
   private String gibTitelVonKnoten(Node knoten) {
