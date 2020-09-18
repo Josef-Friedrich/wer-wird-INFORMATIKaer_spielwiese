@@ -1,7 +1,12 @@
 package nuernberg.team.spiel;
 
+import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.net.URL;
 
 import javax.xml.parsers.DocumentBuilder;
@@ -28,8 +33,12 @@ public class XMLDatei {
   /**
    * Der relative Pfad zum „resources“-Ordner mit führendem Schrägstrich.
    */
+  private String relativerPfad;
+
   protected File datei;
+
   protected Element wurzel;
+
   protected Document dokument;
 
   /**
@@ -38,9 +47,33 @@ public class XMLDatei {
    *                      src/main/resources)
    */
   public XMLDatei(String relativerPfad) {
-    URL resource = getClass().getResource(relativerPfad);
-    datei = new File(resource.getFile());
-    initialisiere(datei);
+    this.relativerPfad = relativerPfad;
+    datei = new File(getClass().getResource(relativerPfad).getFile());
+    initialisiere();
+  }
+
+  /**
+   * Gibt den Eingabestrom der aktuellen XML-Datei zurück.
+   *
+   * Damit XML im jar-Archiv gelesen werden können, muss ein Eingabestrom zur
+   * Verfügung gestellt werden. Arbeiten wird nur mit den {@link File}-Objekten,
+   * dann funktioniert das zwar im Debugging-Betrieb, aber nicht aus einer
+   * JAR-Datei heraus. Damit der Eingabestrom erzeugt werden kann, muss entweder
+   * das Attribut {@link relativerPfad} oder {@link datei} gesetzt sein. Sind
+   * beide Attribute gesetzt wird der Eingabestrom vom Attribut
+   * {@link relativerPfad} gebildet.
+   *
+   * @return Den Eingabestrom der aktuellen XML-Datei.
+   */
+  private InputStream gibEingabeStrom() {
+    if (relativerPfad == null) {
+      try {
+        return new FileInputStream(datei);
+      } catch (FileNotFoundException e) {
+        e.printStackTrace();
+      }
+    }
+    return getClass().getResourceAsStream(relativerPfad);
   }
 
   /**
@@ -50,21 +83,21 @@ public class XMLDatei {
    *              Existierte sie, so wird sie gelesen.
    */
   public XMLDatei(File datei) {
-    initialisiere(datei);
+    this.datei = datei;
+    initialisiere();
   }
 
   /**
    * Initialisiere die XML-Datei.
    *
-   * @param datei Existiert die Datein noch nicht, wird eine neue Datei angelegt.
-   *              Existierte sie, so wird sie gelesen.
+   * @param eingabeStrom Existiert die Datein noch nicht, wird eine neue Datei
+   *                     angelegt. Existierte sie, so wird sie gelesen.
    */
-  private void initialisiere(File datei) {
-    this.datei = datei;
+  private void initialisiere() {
     try {
       DocumentBuilder documentBuilder = DocumentBuilderFactory.newInstance().newDocumentBuilder();
       if (istImLeseModus()) {
-        dokument = documentBuilder.parse(datei);
+        dokument = documentBuilder.parse(gibEingabeStrom());
         wurzel = dokument.getDocumentElement();
         wurzel.normalize();
       } else {
@@ -78,13 +111,31 @@ public class XMLDatei {
   /**
    * Überprüft, ob die XML-Datei im Lesemodus ist.
    *
-   * Um die Datei im Lesemodus zu öffnen, muss die Datei existieren und
-   * darf nicht leer sein.
+   * Um die Datei im Lesemodus zu öffnen, muss die Datei existieren und darf nicht
+   * leer sein.
    *
    * @return wahr, wenn sich die Datei im Lese-Modus befindet.
    */
   private boolean istImLeseModus() {
-    return datei.exists() && datei.length() > 0;
+    // Diese Zeile funktioniert nicht bei der Verwendung von jar Dateien.
+    // return datei.exists() && datei.length() > 0;
+    try {
+      InputStream eingabeStrom = gibEingabeStrom();
+      InputStreamReader isr = new InputStreamReader(eingabeStrom);
+      BufferedReader br = new BufferedReader(isr);
+      boolean ergebnis;
+      if (br.readLine() != null)
+        ergebnis = true;
+      else
+        ergebnis = false;
+      eingabeStrom.close();
+      isr.close();
+      br.close();
+      return ergebnis;
+    } catch (IOException e) {
+      e.printStackTrace();
+    }
+    return true;
   }
 
   public Element gibWurzel() {
