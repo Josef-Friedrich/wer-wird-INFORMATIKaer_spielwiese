@@ -33,7 +33,7 @@ public class KommandoZeile {
   private static void stelleFrageAlsTextausgabe(Spiel spiel, Frage frage) {
     frage.mischeAntworten();
     String[] antworten = frage.gibAntworten();
-    System.out.println(String.format("\n\nFrage Nr. %s: %s\n", spiel.gibFragenNummer(), frage.gibFragenText()));
+    System.out.println(Farbe.gelb(String.format("\n\nFrage Nr. %s: %s\n", spiel.gibFragenNummer(), frage.gibFragenText())));
     for (int i = 0; i < antworten.length; i++) {
       zeigeAntwort(frage, antworten, i);
     }
@@ -105,11 +105,12 @@ public class KommandoZeile {
     String buchstabeRichtig = frage.gibBuchstabe(frage.gibRichtigeAntwort());
     String buchstabeAntwort = frage.gibBuchstabe(frage.gibGegebeneAntwort());
     if (frage.istRichtigBeantwortet()) {
-      System.out.println(String.format("Die Antwort %s war richtig!", buchstabeAntwort));
+      System.out.println(Farbe.grün(String.format("Die Antwort %s war richtig!", buchstabeAntwort)));
       System.out.println(String.format("Deine momentane Gewinnsumme: %s €", spiel.gibGewinnSumme()));
     } else {
-      System.out.println(String.format("Die Antwort %s war falsch! Richtig ist Antwort %s: %s", buchstabeAntwort,
-          buchstabeRichtig, frage.gibRichtigeAntwortText()));
+      System.out.print(Farbe.rot(String.format("Die Antwort %s war falsch! ", buchstabeAntwort)));
+      System.out.println(String.format("Richtig wäre Antwort %s gewesen: %s", Farbe.grün(buchstabeRichtig),
+          Farbe.grün(frage.gibRichtigeAntwortText())));
     }
   }
 
@@ -168,8 +169,8 @@ public class KommandoZeile {
 
     ThemenKatalog.GebietDaten gebietDaten = katalog.gibGebietDatenDurchNummer(gebietsNummer - 1);
 
-    System.out.println(
-        String.format("Du hast das Themengebiet „%s“ ausgewählt. Das ist eine sehr gute Wahl!", gebietDaten.titel));
+    System.out.println(String.format("Du hast das Themengebiet „%s“ ausgewählt. Das ist eine sehr gute Wahl!",
+        Farbe.grün(gebietDaten.titel)));
 
     Spiel spiel = new Spiel();
 
