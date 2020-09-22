@@ -11,7 +11,7 @@
             <falscheAntwort1>bis 15,8 cm</falscheAntwort1>
             <falscheAntwort2>bis 9,5 cm</falscheAntwort2>
             <falscheAntwort3>bis 7,2 cm</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -21,7 +21,7 @@
             <falscheAntwort1>Wiesenkauz</falscheAntwort1>
             <falscheAntwort2>Parkkauz</falscheAntwort2>
             <falscheAntwort3>Feldkauz</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -31,7 +31,7 @@
             <falscheAntwort1>Waldnaseneule</falscheAntwort1>
             <falscheAntwort2>Waldaugeneule</falscheAntwort2>
             <falscheAntwort3>Waldschnabeleule</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -41,7 +41,7 @@
             <falscheAntwort1>Gevatter</falscheAntwort1>
             <falscheAntwort2>Isegrim</falscheAntwort2>
             <falscheAntwort3>Meister Petz</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -51,7 +51,7 @@
             <falscheAntwort1>Marder</falscheAntwort1>
             <falscheAntwort2>Dachs</falscheAntwort2>
             <falscheAntwort3>Reh</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -61,7 +61,7 @@
             <falscheAntwort1>Kastanienblätter</falscheAntwort1>
             <falscheAntwort2>Nadelholztriebe</falscheAntwort2>
             <falscheAntwort3>Bucheckern</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -71,7 +71,7 @@
             <falscheAntwort1>immer genau 4</falscheAntwort1>
             <falscheAntwort2>1 - 3</falscheAntwort2>
             <falscheAntwort3>9 - 12</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -81,7 +81,7 @@
             <falscheAntwort1>3 mal</falscheAntwort1>
             <falscheAntwort2>2 mal</falscheAntwort2>
             <falscheAntwort3>4 mal</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -91,7 +91,7 @@
             <falscheAntwort1>Fähe</falscheAntwort1>
             <falscheAntwort2>Ricke</falscheAntwort2>
             <falscheAntwort3>Stute</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -101,7 +101,7 @@
             <falscheAntwort1>Erpel</falscheAntwort1>
             <falscheAntwort2>Rüde</falscheAntwort2>
             <falscheAntwort3>Egon</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -111,7 +111,7 @@
             <falscheAntwort1/>
             <falscheAntwort2/>
             <falscheAntwort3/>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -121,7 +121,7 @@
             <falscheAntwort1>bis 4 mm</falscheAntwort1>
             <falscheAntwort2>bis 6 mm</falscheAntwort2>
             <falscheAntwort3>bis 20 mm</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -131,7 +131,7 @@
             <falscheAntwort1>Grünfink</falscheAntwort1>
             <falscheAntwort2>Buntspecht</falscheAntwort2>
             <falscheAntwort3>Wildschweine</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -141,7 +141,7 @@
             <falscheAntwort1>bis 18 cm</falscheAntwort1>
             <falscheAntwort2>bis 6 cm</falscheAntwort2>
             <falscheAntwort3>bis 25 cm</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -151,7 +151,7 @@
             <falscheAntwort1>zum Ausgraben von Wurzeln</falscheAntwort1>
             <falscheAntwort2>zum Angeben bei den Weibchen</falscheAntwort2>
             <falscheAntwort3>als Waffe gegen Wölfe</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -161,7 +161,7 @@
             <falscheAntwort1>Wicken</falscheAntwort1>
             <falscheAntwort2>Zicken</falscheAntwort2>
             <falscheAntwort3>Dicken</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -171,7 +171,7 @@
             <falscheAntwort1>China</falscheAntwort1>
             <falscheAntwort2>Südamerika</falscheAntwort2>
             <falscheAntwort3>Indien</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -181,7 +181,7 @@
             <falscheAntwort1>Bisamratte</falscheAntwort1>
             <falscheAntwort2>Biber</falscheAntwort2>
             <falscheAntwort3>Wasserassel</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -191,7 +191,7 @@
             <falscheAntwort1>Würmer</falscheAntwort1>
             <falscheAntwort2>Eicheln</falscheAntwort2>
             <falscheAntwort3>Haselnüsse</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -201,7 +201,7 @@
             <falscheAntwort1>Maul - und Klauenseuche</falscheAntwort1>
             <falscheAntwort2>Malaria</falscheAntwort2>
             <falscheAntwort3>B S E</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -211,7 +211,7 @@
             <falscheAntwort1>Biber</falscheAntwort1>
             <falscheAntwort2>Dachse</falscheAntwort2>
             <falscheAntwort3>Füchse</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -221,7 +221,7 @@
             <falscheAntwort1>wühlen</falscheAntwort1>
             <falscheAntwort2>buhlen</falscheAntwort2>
             <falscheAntwort3>grunzen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -231,7 +231,7 @@
             <falscheAntwort1>kleine Speisepilze</falscheAntwort1>
             <falscheAntwort2>frische Baumknospen</falscheAntwort2>
             <falscheAntwort3>junge Füchse</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -241,7 +241,7 @@
             <falscheAntwort1>Welpen</falscheAntwort1>
             <falscheAntwort2>Ferkel</falscheAntwort2>
             <falscheAntwort3>Kälbchen</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -251,7 +251,7 @@
             <falscheAntwort1>Buntfinken</falscheAntwort1>
             <falscheAntwort2>Rotkehlchen</falscheAntwort2>
             <falscheAntwort3>Isegrim</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -261,7 +261,7 @@
             <falscheAntwort1>Amseln</falscheAntwort1>
             <falscheAntwort2>Dachse</falscheAntwort2>
             <falscheAntwort3>HIrschkäfer</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -271,7 +271,7 @@
             <falscheAntwort1>Fliegenpilz</falscheAntwort1>
             <falscheAntwort2>Hagebutte</falscheAntwort2>
             <falscheAntwort3>wilder Wacholder</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -281,7 +281,7 @@
             <falscheAntwort1>Blitz</falscheAntwort1>
             <falscheAntwort2>Lampe</falscheAntwort2>
             <falscheAntwort3>Scheinwerfer</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -291,7 +291,7 @@
             <falscheAntwort1>der helle Bauch</falscheAntwort1>
             <falscheAntwort2>die weißen Innenohren</falscheAntwort2>
             <falscheAntwort3>die weißen Vorderpfoten</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -301,7 +301,7 @@
             <falscheAntwort1>Nachtigall</falscheAntwort1>
             <falscheAntwort2>Uhu</falscheAntwort2>
             <falscheAntwort3>Nachtfalke</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -311,7 +311,7 @@
             <falscheAntwort1>Rollmöpse</falscheAntwort1>
             <falscheAntwort2>Igel</falscheAntwort2>
             <falscheAntwort3>Pillendreher</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -321,7 +321,7 @@
             <falscheAntwort1>nassen Moorboden</falscheAntwort1>
             <falscheAntwort2>feuchten Lehmboden</falscheAntwort2>
             <falscheAntwort3>harten Steinboden</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -331,7 +331,7 @@
             <falscheAntwort1>nadeliger Laubwald</falscheAntwort1>
             <falscheAntwort2>laubiger Nadelwald</falscheAntwort2>
             <falscheAntwort3>Launa - Wald</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -341,7 +341,7 @@
             <falscheAntwort1>Stein- und Schieferböden</falscheAntwort1>
             <falscheAntwort2>Sandböden</falscheAntwort2>
             <falscheAntwort3>Moorböden</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -351,7 +351,7 @@
             <falscheAntwort1>Das Grundwasser wird zu sauer.</falscheAntwort1>
             <falscheAntwort2>Die versteckten Eicheln, Nüsse und Buckeckern werden vergiftet.</falscheAntwort2>
             <falscheAntwort3>Die Ameisenhöhlen werden überspült.</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -361,7 +361,7 @@
             <falscheAntwort1>Essigsäure und Kohlensäure</falscheAntwort1>
             <falscheAntwort2>Ammoniaksäure und Salzsäure</falscheAntwort2>
             <falscheAntwort3>Zitronensäure und Ameisensäure</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -371,7 +371,7 @@
             <falscheAntwort1>süßer Regen</falscheAntwort1>
             <falscheAntwort2>saurer Nebel</falscheAntwort2>
             <falscheAntwort3>salziger Regen</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -381,7 +381,7 @@
             <falscheAntwort1>Kohlenmonoxid, Butan und Kaliumsulfat</falscheAntwort1>
             <falscheAntwort2>Sauerstoff, Kohlenstoff und Wasserstoff</falscheAntwort2>
             <falscheAntwort3>Schwefeldioxid, Neon und Zeratoxid</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -391,7 +391,7 @@
             <falscheAntwort1>Erhöhung der Luftfeuchtigkeit</falscheAntwort1>
             <falscheAntwort2>Vermehrung von Waldschädlingen</falscheAntwort2>
             <falscheAntwort3>Flucht der jagdbaren Waldtiere</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -401,7 +401,7 @@
             <falscheAntwort1>krankhafte Triebe am Stamm</falscheAntwort1>
             <falscheAntwort2>Verfärbung der Blätter</falscheAntwort2>
             <falscheAntwort3>verdickte Wurzeln</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -411,7 +411,7 @@
             <falscheAntwort1>verlaust</falscheAntwort1>
             <falscheAntwort2>verstaubt</falscheAntwort2>
             <falscheAntwort3>verlassen</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -421,7 +421,7 @@
             <falscheAntwort1>die Kleidermotten und roten Waldameisen</falscheAntwort1>
             <falscheAntwort2>die aasfressenden Vögel und Schleimschnecken</falscheAntwort2>
             <falscheAntwort3>die Waldarbeiter und Holzfäller</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -431,7 +431,7 @@
             <falscheAntwort1>durch kleine Waldspinnen</falscheAntwort1>
             <falscheAntwort2>durch Verknüpfung eines Nahrungsnetzes</falscheAntwort2>
             <falscheAntwort3>Es wird durch den Förster angelegt.</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -441,7 +441,7 @@
             <falscheAntwort1>Eichelhäher</falscheAntwort1>
             <falscheAntwort2>Förster</falscheAntwort2>
             <falscheAntwort3>Eichhörnchen</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -451,7 +451,7 @@
             <falscheAntwort1>Sie vertreiben wilde Tiere.</falscheAntwort1>
             <falscheAntwort2>Sie sehen schöner aus.</falscheAntwort2>
             <falscheAntwort3>Sie bieten seltenen Tieren Schutz.</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -461,7 +461,7 @@
             <falscheAntwort1>Bauer</falscheAntwort1>
             <falscheAntwort2>Wilderer</falscheAntwort2>
             <falscheAntwort3>Bäumerich</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -471,7 +471,7 @@
             <falscheAntwort1>Maikäfer</falscheAntwort1>
             <falscheAntwort2>Mistkäfer</falscheAntwort2>
             <falscheAntwort3>Herkuleskäfer</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -481,7 +481,7 @@
             <falscheAntwort1>Maulwurfkäfer</falscheAntwort1>
             <falscheAntwort2>Heukäfer</falscheAntwort2>
             <falscheAntwort3>Maikäfer</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -491,7 +491,7 @@
             <falscheAntwort1>Kabel</falscheAntwort1>
             <falscheAntwort2>Kübel</falscheAntwort2>
             <falscheAntwort3>Zobel</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -501,7 +501,7 @@
             <falscheAntwort1>Karl</falscheAntwort1>
             <falscheAntwort2>Klaus</falscheAntwort2>
             <falscheAntwort3>Hans</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -511,7 +511,7 @@
             <falscheAntwort1>Schwarzspecht</falscheAntwort1>
             <falscheAntwort2>Eichelhäher</falscheAntwort2>
             <falscheAntwort3>Zangenvogel</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -521,7 +521,7 @@
             <falscheAntwort1>eine Falle für Buntspechte</falscheAntwort1>
             <falscheAntwort2>eine besonders harte Spechtzunge</falscheAntwort2>
             <falscheAntwort3>eine Schmiede für Spechtkäfige</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -531,7 +531,7 @@
             <falscheAntwort1>Eichelhäher</falscheAntwort1>
             <falscheAntwort2>Specht</falscheAntwort2>
             <falscheAntwort3>Kleiber</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -541,7 +541,7 @@
             <falscheAntwort1>Karpfen und Hechte</falscheAntwort1>
             <falscheAntwort2>kleine Fische und Frösche</falscheAntwort2>
             <falscheAntwort3>Feuersalamander</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -551,7 +551,7 @@
             <falscheAntwort1>Distelfink</falscheAntwort1>
             <falscheAntwort2>Kohlmeise</falscheAntwort2>
             <falscheAntwort3>Spatz</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -561,7 +561,7 @@
             <falscheAntwort1>Rotkehlchen</falscheAntwort1>
             <falscheAntwort2>Buntspecht</falscheAntwort2>
             <falscheAntwort3>Eichelhäher</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -571,7 +571,7 @@
             <falscheAntwort1>Wasserratte</falscheAntwort1>
             <falscheAntwort2>Eichhörnchen</falscheAntwort2>
             <falscheAntwort3>Maulwurf</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -581,7 +581,7 @@
             <falscheAntwort1>Verschönerung des Waldes durch Ameisenhügel, leise Musik für kleinere Waldtiere</falscheAntwort1>
             <falscheAntwort2>Vertreibung größerer Tiere, sammeln von wertvollen Holzreserven, Wärmespeicherung</falscheAntwort2>
             <falscheAntwort3>Hitzeregulierung des Waldbodens, anlocken schmackhafter Wildschweine, aufräumen schmutziger Blätter</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -591,7 +591,7 @@
             <falscheAntwort1>kleine Rehkitze</falscheAntwort1>
             <falscheAntwort2>Gelege von Kuckuckseiern</falscheAntwort2>
             <falscheAntwort3>vergessene Eicheln und Kastanien</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -601,7 +601,7 @@
             <falscheAntwort1>ca. 50 m</falscheAntwort1>
             <falscheAntwort2>ca. 40 m</falscheAntwort2>
             <falscheAntwort3>ca. 60 m</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -611,7 +611,7 @@
             <falscheAntwort1/>
             <falscheAntwort2/>
             <falscheAntwort3/>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -621,7 +621,7 @@
             <falscheAntwort1>ca. 45 m</falscheAntwort1>
             <falscheAntwort2>ca. 55 m</falscheAntwort2>
             <falscheAntwort3>ca. 35 m</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -631,7 +631,7 @@
             <falscheAntwort1>Sie wechseln jeden Monat ihre Farbe.</falscheAntwort1>
             <falscheAntwort2>Sie hängen an den Zweigen.</falscheAntwort2>
             <falscheAntwort3>Sie wachsen immer in 5 - er Gruppen.</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -641,7 +641,7 @@
             <falscheAntwort1>ca. 10 m</falscheAntwort1>
             <falscheAntwort2>ca. 20 m</falscheAntwort2>
             <falscheAntwort3>ca. 60 m</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -651,7 +651,7 @@
             <falscheAntwort1>Göre</falscheAntwort1>
             <falscheAntwort2>Röhre</falscheAntwort2>
             <falscheAntwort3>Stör</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -661,7 +661,7 @@
             <falscheAntwort1>im Oktober</falscheAntwort1>
             <falscheAntwort2>im März</falscheAntwort2>
             <falscheAntwort3>im Februar</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -671,7 +671,7 @@
             <falscheAntwort1>im August</falscheAntwort1>
             <falscheAntwort2>im März</falscheAntwort2>
             <falscheAntwort3>im November</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -681,7 +681,7 @@
             <falscheAntwort1>ca. 25 m</falscheAntwort1>
             <falscheAntwort2>ca. 35 m</falscheAntwort2>
             <falscheAntwort3>20 m - 40 m</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -691,7 +691,7 @@
             <falscheAntwort1>Herbsteiche</falscheAntwort1>
             <falscheAntwort2>Frühlingseiche</falscheAntwort2>
             <falscheAntwort3>Wintereiche</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -701,7 +701,7 @@
             <falscheAntwort1>ca. 15 m</falscheAntwort1>
             <falscheAntwort2>ca. 20 m</falscheAntwort2>
             <falscheAntwort3>ca. 10 m</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -711,7 +711,7 @@
             <falscheAntwort1>ca. 40 m</falscheAntwort1>
             <falscheAntwort2>ca. 11 m</falscheAntwort2>
             <falscheAntwort3>ca. 7 m</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -721,7 +721,7 @@
             <falscheAntwort1>in einen Fuchsbau</falscheAntwort1>
             <falscheAntwort2>in die Nester anderer Vögel</falscheAntwort2>
             <falscheAntwort3>in heruntergefallene Eicheln und Bucheckern</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -731,7 +731,7 @@
             <falscheAntwort1>Er lässt junge Eichen in Ruhe wachsen.</falscheAntwort1>
             <falscheAntwort2>Er hackt alte Eichen um.</falscheAntwort2>
             <falscheAntwort3>Er verscheucht räuberische Tiere aus dem Wald.</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -741,7 +741,7 @@
             <falscheAntwort1>Schmerzwälder</falscheAntwort1>
             <falscheAntwort2>Wehwälder</falscheAntwort2>
             <falscheAntwort3>Ohwälder</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -751,7 +751,7 @@
             <falscheAntwort1>Arktischer Tundrawald</falscheAntwort1>
             <falscheAntwort2>Subtropischer Nebelwald</falscheAntwort2>
             <falscheAntwort3>Sibirischer Schneewald</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -761,7 +761,7 @@
             <falscheAntwort1>Schmarotzer</falscheAntwort1>
             <falscheAntwort2>Erzeuger</falscheAntwort2>
             <falscheAntwort3>Nutznießer</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -771,7 +771,7 @@
             <falscheAntwort1>Schmarotzer</falscheAntwort1>
             <falscheAntwort2>Verbraucher</falscheAntwort2>
             <falscheAntwort3>Nutznießer</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -781,7 +781,7 @@
             <falscheAntwort1>Es gibt dicke und dünne Tiere.</falscheAntwort1>
             <falscheAntwort2>Es ist mal warm und mal kalt.</falscheAntwort2>
             <falscheAntwort3>Vögel und Kriechtiere stehen in einem ausgewogenen Verhältnis.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -791,7 +791,7 @@
             <falscheAntwort1>Der Waldboden entzieht dem Wasser Natriucarbonatsulfamit.</falscheAntwort1>
             <falscheAntwort2>Der Waldboden süßt das Wasser.</falscheAntwort2>
             <falscheAntwort3>Der Waldboden leitet das Wasser um.</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -801,7 +801,7 @@
             <falscheAntwort1>Eiche</falscheAntwort1>
             <falscheAntwort2>Blautanne</falscheAntwort2>
             <falscheAntwort3>Fichte</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -811,7 +811,7 @@
             <falscheAntwort1>einzelne Verstecke im Wald, in denen Jungtiere Zuflucht suchen können</falscheAntwort1>
             <falscheAntwort2>alle Umweltbedingungen, die helfen, dass die Vögel brüten können</falscheAntwort2>
             <falscheAntwort3>gut getarnte Hinterhalte, wo sich die Jäger verstecken können</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -821,7 +821,7 @@
             <falscheAntwort1>Halbblüher</falscheAntwort1>
             <falscheAntwort2>Spätblüher</falscheAntwort2>
             <falscheAntwort3>Vollblüher</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -831,7 +831,7 @@
             <falscheAntwort1>Sternenblätter</falscheAntwort1>
             <falscheAntwort2>Mondblätter</falscheAntwort2>
             <falscheAntwort3>Silberblätter</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -841,7 +841,7 @@
             <falscheAntwort1>Wurzelschicht, Farnschicht, Knospenschicht, Stammschicht</falscheAntwort1>
             <falscheAntwort2>Erdschicht, Buschschicht, Blattschicht, Luftschicht</falscheAntwort2>
             <falscheAntwort3>Bodenschicht, Astschicht, Stammschicht, Wipfelschicht</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -851,7 +851,7 @@
             <falscheAntwort1>Düngung und Befruchtung</falscheAntwort1>
             <falscheAntwort2>Aasverwertung und Sauerstoffbildung</falscheAntwort2>
             <falscheAntwort3>Wasserspeicherung und Nahrungslieferant</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -861,7 +861,7 @@
             <falscheAntwort1>kreisrunde Kastanienschalen</falscheAntwort1>
             <falscheAntwort2>Jahresringe der Hexenbäume</falscheAntwort2>
             <falscheAntwort3>runde Wildschweinspuren</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -871,7 +871,7 @@
             <falscheAntwort1>70 - 90</falscheAntwort1>
             <falscheAntwort2>30 - 50</falscheAntwort2>
             <falscheAntwort3>140 - 180</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -881,7 +881,7 @@
             <falscheAntwort1>22</falscheAntwort1>
             <falscheAntwort2>28</falscheAntwort2>
             <falscheAntwort3>17</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -891,7 +891,7 @@
             <falscheAntwort1>20 Tonnen</falscheAntwort1>
             <falscheAntwort2>40 Tonnen</falscheAntwort2>
             <falscheAntwort3>10 Tonnen</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -901,7 +901,7 @@
             <falscheAntwort1>200 l</falscheAntwort1>
             <falscheAntwort2>600 l</falscheAntwort2>
             <falscheAntwort3>800 l</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -911,7 +911,7 @@
             <falscheAntwort1>30 %</falscheAntwort1>
             <falscheAntwort2>40 %</falscheAntwort2>
             <falscheAntwort3>20 %</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -921,7 +921,7 @@
             <falscheAntwort1>5 - 7°C</falscheAntwort1>
             <falscheAntwort2>1 - 2°C</falscheAntwort2>
             <falscheAntwort3>8 - 10°C</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -931,7 +931,7 @@
             <falscheAntwort1>26 t</falscheAntwort1>
             <falscheAntwort2>12 t</falscheAntwort2>
             <falscheAntwort3>49 t</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -941,7 +941,7 @@
             <falscheAntwort1>5 - 10</falscheAntwort1>
             <falscheAntwort2>300 - 500</falscheAntwort2>
             <falscheAntwort3>15 - 50</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -951,7 +951,7 @@
             <falscheAntwort1>Baumpilz</falscheAntwort1>
             <falscheAntwort2>Holzpilz</falscheAntwort2>
             <falscheAntwort3>Flusspilz</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -961,7 +961,7 @@
             <falscheAntwort1>Fistel</falscheAntwort1>
             <falscheAntwort2>Distel</falscheAntwort2>
             <falscheAntwort3>Bistel</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -971,7 +971,7 @@
             <falscheAntwort1>Kamille</falscheAntwort1>
             <falscheAntwort2>Pfefferminze</falscheAntwort2>
             <falscheAntwort3>Salbei</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -981,7 +981,7 @@
             <falscheAntwort1>durch Blüten</falscheAntwort1>
             <falscheAntwort2>durch Dornen</falscheAntwort2>
             <falscheAntwort3>durch Pollen</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -991,7 +991,7 @@
             <falscheAntwort1>Farne</falscheAntwort1>
             <falscheAntwort2>Moose</falscheAntwort2>
             <falscheAntwort3>Efeu</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1001,7 +1001,7 @@
             <falscheAntwort1>Windstärken bis 9</falscheAntwort1>
             <falscheAntwort2>lange Trockenheit</falscheAntwort2>
             <falscheAntwort3>Borkenkäfer</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1011,7 +1011,7 @@
             <falscheAntwort1>lange Schlingwurzeln</falscheAntwort1>
             <falscheAntwort2>tiefgehende Pfahlwurzel</falscheAntwort2>
             <falscheAntwort3>breite Saugwurzeln</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1021,7 +1021,7 @@
             <falscheAntwort1>an der Zahl der Blätter</falscheAntwort1>
             <falscheAntwort2>an der Anzahl der Zweige</falscheAntwort2>
             <falscheAntwort3>an der Stammdicke</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1031,7 +1031,7 @@
             <falscheAntwort1>Bodenkiefern</falscheAntwort1>
             <falscheAntwort2>Knüppelkiefern</falscheAntwort2>
             <falscheAntwort3>Bergkiefern</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1041,7 +1041,7 @@
             <falscheAntwort1>Latschenkiefer</falscheAntwort1>
             <falscheAntwort2>Trauerweide</falscheAntwort2>
             <falscheAntwort3>Rosskastanie</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1051,7 +1051,7 @@
             <falscheAntwort1>Blautanne</falscheAntwort1>
             <falscheAntwort2>Rotbuche</falscheAntwort2>
             <falscheAntwort3>Trauerweide</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1061,7 +1061,7 @@
             <falscheAntwort1>flache Schlingwurzeln</falscheAntwort1>
             <falscheAntwort2>platte Bodenwurzeln</falscheAntwort2>
             <falscheAntwort3>knorrige Korkenzieherwurzeln</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1071,7 +1071,7 @@
             <falscheAntwort1>Lärche</falscheAntwort1>
             <falscheAntwort2>Tanne</falscheAntwort2>
             <falscheAntwort3>Fichte</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1081,7 +1081,7 @@
             <falscheAntwort1>Kastanie</falscheAntwort1>
             <falscheAntwort2>Ulme</falscheAntwort2>
             <falscheAntwort3>Buche</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1091,7 +1091,7 @@
             <falscheAntwort1>Gelbkiefer</falscheAntwort1>
             <falscheAntwort2>Blautanne</falscheAntwort2>
             <falscheAntwort3>Grünlärche</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1101,7 +1101,7 @@
             <falscheAntwort1/>
             <falscheAntwort2/>
             <falscheAntwort3/>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1111,7 +1111,7 @@
             <falscheAntwort1>bis 80 cm</falscheAntwort1>
             <falscheAntwort2>bis 100 cm</falscheAntwort2>
             <falscheAntwort3>bis 60 cm</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1121,7 +1121,7 @@
             <falscheAntwort1>Fliegenpilz</falscheAntwort1>
             <falscheAntwort2>Steinpilz</falscheAntwort2>
             <falscheAntwort3>Pfifferling</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1131,7 +1131,7 @@
             <falscheAntwort1>Pferderose</falscheAntwort1>
             <falscheAntwort2>Katzenrose</falscheAntwort2>
             <falscheAntwort3>Mausrose</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1141,7 +1141,7 @@
             <falscheAntwort1>ca. 50 m</falscheAntwort1>
             <falscheAntwort2>ca. 40 m</falscheAntwort2>
             <falscheAntwort3>ca. 20 m</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1151,7 +1151,7 @@
             <falscheAntwort1>Fichte</falscheAntwort1>
             <falscheAntwort2>Tanne</falscheAntwort2>
             <falscheAntwort3>Kiefer</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -1161,7 +1161,7 @@
             <falscheAntwort1>Kiefer</falscheAntwort1>
             <falscheAntwort2>Tanne</falscheAntwort2>
             <falscheAntwort3>Lärche</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1171,7 +1171,7 @@
             <falscheAntwort1>Kiefernblüten</falscheAntwort1>
             <falscheAntwort2>Tannenblüten</falscheAntwort2>
             <falscheAntwort3>Kelchblüten</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1181,7 +1181,7 @@
             <falscheAntwort1>Südfrüchte</falscheAntwort1>
             <falscheAntwort2>Obstfrüchte</falscheAntwort2>
             <falscheAntwort3>Waldfrüchte</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1191,7 +1191,7 @@
             <falscheAntwort1>einträchtig und baumnah</falscheAntwort1>
             <falscheAntwort2>zusammen-geschlechtig und häuslich</falscheAntwort2>
             <falscheAntwort3>einzig und artig</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1201,7 +1201,7 @@
             <falscheAntwort1>Kiefer</falscheAntwort1>
             <falscheAntwort2>Tanne</falscheAntwort2>
             <falscheAntwort3>Lärche</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>

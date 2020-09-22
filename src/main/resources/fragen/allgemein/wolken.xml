@@ -11,7 +11,7 @@
             <falscheAntwort1>5 - 11 km</falscheAntwort1>
             <falscheAntwort2>6 - 12 km</falscheAntwort2>
             <falscheAntwort3>4 - 10 km</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -21,7 +21,7 @@
             <falscheAntwort1>5 - 10 km</falscheAntwort1>
             <falscheAntwort2>1 - 3 km</falscheAntwort2>
             <falscheAntwort3>7 - 16 km</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -31,7 +31,7 @@
             <falscheAntwort1>2 - 4 km</falscheAntwort1>
             <falscheAntwort2>1 - 3 km</falscheAntwort2>
             <falscheAntwort3>4 - 6 km</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -41,7 +41,7 @@
             <falscheAntwort1>5</falscheAntwort1>
             <falscheAntwort2>4</falscheAntwort2>
             <falscheAntwort3>6</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -51,7 +51,7 @@
             <falscheAntwort1>2</falscheAntwort1>
             <falscheAntwort2>3</falscheAntwort2>
             <falscheAntwort3>6</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -61,7 +61,7 @@
             <falscheAntwort1>8</falscheAntwort1>
             <falscheAntwort2>14</falscheAntwort2>
             <falscheAntwort3>6</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -71,7 +71,7 @@
             <falscheAntwort1>8 km</falscheAntwort1>
             <falscheAntwort2>12 km</falscheAntwort2>
             <falscheAntwort3>6 km</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -81,7 +81,7 @@
             <falscheAntwort1>Schlechtwetterwolken</falscheAntwort1>
             <falscheAntwort2>Mündungswolken</falscheAntwort2>
             <falscheAntwort3>Schneewolken</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -91,7 +91,7 @@
             <falscheAntwort1>Schichtwolken</falscheAntwort1>
             <falscheAntwort2>Schäfchenwolken</falscheAntwort2>
             <falscheAntwort3>Federwolken</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -101,7 +101,7 @@
             <falscheAntwort1>Haufenwolken</falscheAntwort1>
             <falscheAntwort2>Schäfchenwolken</falscheAntwort2>
             <falscheAntwort3>Gewitterwolken</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -111,7 +111,7 @@
             <falscheAntwort1>Schäfchenwolken</falscheAntwort1>
             <falscheAntwort2>Haufenwolken</falscheAntwort2>
             <falscheAntwort3>Federwolken</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -121,7 +121,7 @@
             <falscheAntwort1>Es wird gleich regnen.</falscheAntwort1>
             <falscheAntwort2>Das Wetter bleibt so wie es ist.</falscheAntwort2>
             <falscheAntwort3>Es wird bald schneien.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -131,7 +131,7 @@
             <falscheAntwort1>Haufenwolken</falscheAntwort1>
             <falscheAntwort2>Schichtwolken</falscheAntwort2>
             <falscheAntwort3>Federwolken</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -141,7 +141,7 @@
             <falscheAntwort1>Schäfchenwolken</falscheAntwort1>
             <falscheAntwort2>Haufenwolken</falscheAntwort2>
             <falscheAntwort3>Gewitterwolken</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -151,7 +151,7 @@
             <falscheAntwort1>Wasserdampf, Sauerstoff und Neon</falscheAntwort1>
             <falscheAntwort2>Wasserdampf, Hagel und Stickstoff</falscheAntwort2>
             <falscheAntwort3>Wasserdampf, Eiskristalle und Meteoriten</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -161,7 +161,7 @@
             <falscheAntwort1>Es ist frostig.</falscheAntwort1>
             <falscheAntwort2>Es ist heiter.</falscheAntwort2>
             <falscheAntwort3>Es ist lau.</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -171,7 +171,7 @@
             <falscheAntwort1>flüssiges Wasser wird zu Wasserdampf</falscheAntwort1>
             <falscheAntwort2>Eis wird zu flüssigem Wasser</falscheAntwort2>
             <falscheAntwort3>Wasser wird zu Eis</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -181,7 +181,7 @@
             <falscheAntwort1>Es bleibt so wie es ist.</falscheAntwort1>
             <falscheAntwort2>Das Wetter wird besser.</falscheAntwort2>
             <falscheAntwort3>Es fängt bald an zu schneien.</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -191,7 +191,7 @@
             <falscheAntwort1>1.500 m</falscheAntwort1>
             <falscheAntwort2>2 - 3 km</falscheAntwort2>
             <falscheAntwort3>über 100 km</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -201,7 +201,7 @@
             <falscheAntwort1>Sie ändert sich nicht.</falscheAntwort1>
             <falscheAntwort2>Sie muss steigen.</falscheAntwort2>
             <falscheAntwort3>Sie wechselt häufig von kalt nach warm.</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -211,7 +211,7 @@
             <falscheAntwort1>Es bleibt so wie es ist.</falscheAntwort1>
             <falscheAntwort2>Es wird wärmer.</falscheAntwort2>
             <falscheAntwort3>Es wird mal wärmer und mal kälter.</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -221,7 +221,7 @@
             <falscheAntwort1>Sprudelwasser</falscheAntwort1>
             <falscheAntwort2>Nieselregen und Schnee</falscheAntwort2>
             <falscheAntwort3>Eiskristalle</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -231,7 +231,7 @@
             <falscheAntwort1>Schluchtwolken</falscheAntwort1>
             <falscheAntwort2>Schachtwolken</falscheAntwort2>
             <falscheAntwort3>Schlammwolken</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -241,7 +241,7 @@
             <falscheAntwort1>Wollewolken</falscheAntwort1>
             <falscheAntwort2>Balkenwolken</falscheAntwort2>
             <falscheAntwort3>Mauerwolken</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -251,7 +251,7 @@
             <falscheAntwort1>Kätzchenwolken</falscheAntwort1>
             <falscheAntwort2>Kükenwolken</falscheAntwort2>
             <falscheAntwort3>Pferdchenwolken</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -261,7 +261,7 @@
             <falscheAntwort1>weiß</falscheAntwort1>
             <falscheAntwort2>grau</falscheAntwort2>
             <falscheAntwort3>schwarz</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -271,7 +271,7 @@
             <falscheAntwort1>gasförmiges Wasser</falscheAntwort1>
             <falscheAntwort2>Wasserdampf</falscheAntwort2>
             <falscheAntwort3>Nebel</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>

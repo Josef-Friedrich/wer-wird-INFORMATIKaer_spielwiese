@@ -11,7 +11,7 @@
             <falscheAntwort1>Der letzte Mohikaner</falscheAntwort1>
             <falscheAntwort2>Harry Potter</falscheAntwort2>
             <falscheAntwort3>Die unendliche Geschichte</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -21,7 +21,7 @@
             <falscheAntwort1>der „Bunte Prinz“</falscheAntwort1>
             <falscheAntwort2>der „Weiße Prinz“</falscheAntwort2>
             <falscheAntwort3>der „Goldene Prinz“</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -31,7 +31,7 @@
             <falscheAntwort1>ein fahrbarer Belagerungsturm</falscheAntwort1>
             <falscheAntwort2>ein langes, auf ein Holzgestell montiertes Schwert mit Widerhaken</falscheAntwort2>
             <falscheAntwort3>ein Knappe, der die Ritterprüfung nicht bestanden hatte</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -41,7 +41,7 @@
             <falscheAntwort1>tange</falscheAntwort1>
             <falscheAntwort2>Bange</falscheAntwort2>
             <falscheAntwort3>Zange</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -51,7 +51,7 @@
             <falscheAntwort1>Fatima</falscheAntwort1>
             <falscheAntwort2>Mange</falscheAntwort2>
             <falscheAntwort3>Kerresta</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -61,7 +61,7 @@
             <falscheAntwort1>eine kurze Lanze mit Widerhaken</falscheAntwort1>
             <falscheAntwort2>ein fahrbarer Belagerungsturm, von dem man auch Steine schleudern konnte</falscheAntwort2>
             <falscheAntwort3>eine verkleidete Frau in einer Ritterrüstung</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -71,7 +71,7 @@
             <falscheAntwort1>Pinnen</falscheAntwort1>
             <falscheAntwort2>Rinnen</falscheAntwort2>
             <falscheAntwort3>Finnen</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -81,7 +81,7 @@
             <falscheAntwort1>Page</falscheAntwort1>
             <falscheAntwort2>Knappe</falscheAntwort2>
             <falscheAntwort3>Vasall</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -91,7 +91,7 @@
             <falscheAntwort1>Normannenhelm</falscheAntwort1>
             <falscheAntwort2>Topfhelm</falscheAntwort2>
             <falscheAntwort3>Schutzhelm</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -101,7 +101,7 @@
             <falscheAntwort1>Kurzstange</falscheAntwort1>
             <falscheAntwort2>Schutzstange</falscheAntwort2>
             <falscheAntwort3>Handstange</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -111,7 +111,7 @@
             <falscheAntwort1>Turnier</falscheAntwort1>
             <falscheAntwort2>Schlacht</falscheAntwort2>
             <falscheAntwort3>Belagerung</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -121,7 +121,7 @@
             <falscheAntwort1>Kurzschild</falscheAntwort1>
             <falscheAntwort2>Rundschild</falscheAntwort2>
             <falscheAntwort3>Dickschild</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -131,7 +131,7 @@
             <falscheAntwort1>Kurzschild</falscheAntwort1>
             <falscheAntwort2>Langschild</falscheAntwort2>
             <falscheAntwort3>Quadratschild</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -141,7 +141,7 @@
             <falscheAntwort1>Mohammedhelm</falscheAntwort1>
             <falscheAntwort2>Wikingerhelm</falscheAntwort2>
             <falscheAntwort3>Selschukenhelm</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -151,7 +151,7 @@
             <falscheAntwort1>Ringstrümpfe</falscheAntwort1>
             <falscheAntwort2>Eisenstrümpfe</falscheAntwort2>
             <falscheAntwort3>Flechtstrümpfe</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -161,7 +161,7 @@
             <falscheAntwort1>ein Hemd mit vielen Ketten, an denen die Jagdhunde befestigt waren</falscheAntwort1>
             <falscheAntwort2>ein Hemd, an dem die Gefangenen im Kerker angekettet waren</falscheAntwort2>
             <falscheAntwort3>ein besonders wertvolles Hemd für die Prinzessinnen, das aus lauter edlen Ketten bestand</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -171,7 +171,7 @@
             <falscheAntwort1>Eisenjacke</falscheAntwort1>
             <falscheAntwort2>Kettenanzug</falscheAntwort2>
             <falscheAntwort3>Ringmantel</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -181,7 +181,7 @@
             <falscheAntwort1>Festungsburg</falscheAntwort1>
             <falscheAntwort2>Felsenburg</falscheAntwort2>
             <falscheAntwort3>Mauerburg</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -191,7 +191,7 @@
             <falscheAntwort1>über eine Hängebrücke</falscheAntwort1>
             <falscheAntwort2>mit einer Fähre</falscheAntwort2>
             <falscheAntwort3>Man musste an Seilen hinüberschwingen.</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -201,7 +201,7 @@
             <falscheAntwort1>Langschwert</falscheAntwort1>
             <falscheAntwort2>Schlagschwert</falscheAntwort2>
             <falscheAntwort3>Krummdolch</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -211,7 +211,7 @@
             <falscheAntwort1>Gameken</falscheAntwort1>
             <falscheAntwort2>Galoschen</falscheAntwort2>
             <falscheAntwort3>Geranien</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -221,7 +221,7 @@
             <falscheAntwort1>Starkburgen</falscheAntwort1>
             <falscheAntwort2>Heilige Burgen</falscheAntwort2>
             <falscheAntwort3>Mauerburgen</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -231,7 +231,7 @@
             <falscheAntwort1>Schutzburg</falscheAntwort1>
             <falscheAntwort2>Bergburg</falscheAntwort2>
             <falscheAntwort3>Lochburg</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -241,7 +241,7 @@
             <falscheAntwort1>Balmung</falscheAntwort1>
             <falscheAntwort2>Escalibur</falscheAntwort2>
             <falscheAntwort3>Standarte</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -251,7 +251,7 @@
             <falscheAntwort1>Kavaliere</falscheAntwort1>
             <falscheAntwort2>Scharniere</falscheAntwort2>
             <falscheAntwort3>Horniere</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -261,7 +261,7 @@
             <falscheAntwort1>Hofwitzemacher</falscheAntwort1>
             <falscheAntwort2>Hofclown</falscheAntwort2>
             <falscheAntwort3>Hofunterhalter</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -271,7 +271,7 @@
             <falscheAntwort1>Nachtstern</falscheAntwort1>
             <falscheAntwort2>Abendstern</falscheAntwort2>
             <falscheAntwort3>Tagstern</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -281,7 +281,7 @@
             <falscheAntwort1>Sie standen in der Mitte der Burg, damit sie bei einem Angriff geschützt waren.</falscheAntwort1>
             <falscheAntwort2>Man versteckte sie direkt hinter der Burgmauer.</falscheAntwort2>
             <falscheAntwort3>Sie standen unmittelbar neben der Küche, damit das Mehl sofort verarbeitet werden konnte.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -291,7 +291,7 @@
             <falscheAntwort1>Schmiede</falscheAntwort1>
             <falscheAntwort2>Maurer</falscheAntwort2>
             <falscheAntwort3>Burgbauern</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -301,7 +301,7 @@
             <falscheAntwort1>abwechselnd nach links und nach rechts</falscheAntwort1>
             <falscheAntwort2>nach links</falscheAntwort2>
             <falscheAntwort3>in den Burgen gab es noch keine Wendeltreppen</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -311,7 +311,7 @@
             <falscheAntwort1>Damit der Burgherr sich nicht verlaufen konnte.</falscheAntwort1>
             <falscheAntwort2>Die Baumeister wussten damals noch nicht, wie man links gewundene Wendeltreppen bauen konnte.</falscheAntwort2>
             <falscheAntwort3>Rechts gewundene Wendeltreppen konnte man schneller hinablaufen.</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -321,7 +321,7 @@
             <falscheAntwort1>Ozelot</falscheAntwort1>
             <falscheAntwort2>Gringott</falscheAntwort2>
             <falscheAntwort3>Skandelot</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -331,7 +331,7 @@
             <falscheAntwort1>ungefähr 10.000</falscheAntwort1>
             <falscheAntwort2>ca. 5.000</falscheAntwort2>
             <falscheAntwort3>3.000 - 7.000</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -341,7 +341,7 @@
             <falscheAntwort1>Friedrich Schiller</falscheAntwort1>
             <falscheAntwort2>Walther von der Vogelweide</falscheAntwort2>
             <falscheAntwort3>Hartmann von Aue</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -351,7 +351,7 @@
             <falscheAntwort1>Treffpfosten</falscheAntwort1>
             <falscheAntwort2>Marterpfahl</falscheAntwort2>
             <falscheAntwort3>Stechritter</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -361,7 +361,7 @@
             <falscheAntwort1>eine Strohpuppe, die zur Täuschung der Feinde auf das Pferd geschnallt wurde</falscheAntwort1>
             <falscheAntwort2>eine Spielpuppe aus hartem Stroh</falscheAntwort2>
             <falscheAntwort3>eine Strohpuppe, die die Ritter zum Schutz unter ihrer Rüstung trugen</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -371,7 +371,7 @@
             <falscheAntwort1>Axel</falscheAntwort1>
             <falscheAntwort2>Artus</falscheAntwort2>
             <falscheAntwort3>Abraham</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -381,7 +381,7 @@
             <falscheAntwort1>Ja, das Wasser wurde jeden Tag von Bauern zur Burg gebracht.</falscheAntwort1>
             <falscheAntwort2>nein</falscheAntwort2>
             <falscheAntwort3>Nur die großen Burgen hatten eine eigene Wasserversorgung.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -391,7 +391,7 @@
             <falscheAntwort1>Zerold</falscheAntwort1>
             <falscheAntwort2>Gerold</falscheAntwort2>
             <falscheAntwort3>Leopold</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -401,7 +401,7 @@
             <falscheAntwort1>Wappner</falscheAntwort1>
             <falscheAntwort2>Heraldiker</falscheAntwort2>
             <falscheAntwort3>Gaukler</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -411,7 +411,7 @@
             <falscheAntwort1>Gilger</falscheAntwort1>
             <falscheAntwort2>Heiliger</falscheAntwort2>
             <falscheAntwort3>Kreuzfahrer</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -421,7 +421,7 @@
             <falscheAntwort1>Jemand, der die Ritterrüstungen putzt.</falscheAntwort1>
             <falscheAntwort2>ein Vorfahre der heutigen Briefträger</falscheAntwort2>
             <falscheAntwort3>ein Priester auf einer Burg</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -431,7 +431,7 @@
             <falscheAntwort1>Raubritter</falscheAntwort1>
             <falscheAntwort2>Kreuzritter</falscheAntwort2>
             <falscheAntwort3>fahrende Ritter</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -441,7 +441,7 @@
             <falscheAntwort1>Ritalieniri</falscheAntwort1>
             <falscheAntwort2>Italiano</falscheAntwort2>
             <falscheAntwort3>Krampinotto</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -451,7 +451,7 @@
             <falscheAntwort1>ein hoher italienischer Adelstitel</falscheAntwort1>
             <falscheAntwort2>ein französischer Ritter, der sich für das Kämpfen bezahlen ließ</falscheAntwort2>
             <falscheAntwort3>der Brotlieferant des Burgherren</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -461,7 +461,7 @@
             <falscheAntwort1>David Beckham</falscheAntwort1>
             <falscheAntwort2>Sherlock Holmes</falscheAntwort2>
             <falscheAntwort3>William Shakespeare</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -471,7 +471,7 @@
             <falscheAntwort1>Italienisch</falscheAntwort1>
             <falscheAntwort2>Deutsch</falscheAntwort2>
             <falscheAntwort3>Englisch</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -481,7 +481,7 @@
             <falscheAntwort1>Wilfried</falscheAntwort1>
             <falscheAntwort2>Winfried</falscheAntwort2>
             <falscheAntwort3>Hagrid</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -491,7 +491,7 @@
             <falscheAntwort1>Falken</falscheAntwort1>
             <falscheAntwort2>Katzen</falscheAntwort2>
             <falscheAntwort3>Kaninchen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -501,7 +501,7 @@
             <falscheAntwort1>Mathematik</falscheAntwort1>
             <falscheAntwort2>Numismatik</falscheAntwort2>
             <falscheAntwort3>Wappentik</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -511,7 +511,7 @@
             <falscheAntwort1>Holzbrettchen</falscheAntwort1>
             <falscheAntwort2>Holzschüsseln</falscheAntwort2>
             <falscheAntwort3>eine Scheibe Käse</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -521,7 +521,7 @@
             <falscheAntwort1>eine vorher abgesprochene Gerichtsverhandlung</falscheAntwort1>
             <falscheAntwort2>eine öffentliche Gerichtsverhandlung</falscheAntwort2>
             <falscheAntwort3>ein Festmahl, bei dem die Diener und Köche zuschauen durften</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -531,7 +531,7 @@
             <falscheAntwort1>Eine Zimtkraftsuppe gab es im Mittelalter nicht, da das Zimtgewürz noch nicht bekannt war.</falscheAntwort1>
             <falscheAntwort2>Eien schmackhafte Gemüsesuppe, die allerdings durch Zitronensaft gelb gefärbt wurde.</falscheAntwort2>
             <falscheAntwort3>Eine Kraftsuppe, in die Zimtbrot getaucht wurde.</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -541,7 +541,7 @@
             <falscheAntwort1>Er wurde gefangen genommen.</falscheAntwort1>
             <falscheAntwort2>Er wurde sofort getötet.</falscheAntwort2>
             <falscheAntwort3>Er wurde erst gefangen genommen und nach drei Jahren getötet.</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -551,7 +551,7 @@
             <falscheAntwort1>Gisterne</falscheAntwort1>
             <falscheAntwort2>Wisterne</falscheAntwort2>
             <falscheAntwort3>Listerne</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -561,7 +561,7 @@
             <falscheAntwort1>die Grube, in die der Kot vom Abort fiel</falscheAntwort1>
             <falscheAntwort2>der erhöhte Teil der Mauerkrone</falscheAntwort2>
             <falscheAntwort3>eine zweigeteilte Zugbrücke</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -571,7 +571,7 @@
             <falscheAntwort1>Ivanhoe</falscheAntwort1>
             <falscheAntwort2>Richard Löwenherz</falscheAntwort2>
             <falscheAntwort3>Prinz Eisenherz</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -581,7 +581,7 @@
             <falscheAntwort1>Balmung</falscheAntwort1>
             <falscheAntwort2>Durindarte</falscheAntwort2>
             <falscheAntwort3>Pentium</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -591,7 +591,7 @@
             <falscheAntwort1>Man grub selbst einen unterirdischen Stollen, um die Angreifer abzulenken.</falscheAntwort1>
             <falscheAntwort2>Man stellte im Keller Lauschposten auf.</falscheAntwort2>
             <falscheAntwort3>Man schickte mehrere Spione zu den Angreifern.</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -601,7 +601,7 @@
             <falscheAntwort1>ca. 60</falscheAntwort1>
             <falscheAntwort2>ca. 10</falscheAntwort2>
             <falscheAntwort3>ca. 120</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -611,7 +611,7 @@
             <falscheAntwort1>Belleharde</falscheAntwort1>
             <falscheAntwort2>Dunklebarde</falscheAntwort2>
             <falscheAntwort3>Halleberde</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -621,7 +621,7 @@
             <falscheAntwort1>eine Art Ballade</falscheAntwort1>
             <falscheAntwort2>ein blonde Sängerin</falscheAntwort2>
             <falscheAntwort3>eine Frau, die die Zukunft vorhersagte</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -631,7 +631,7 @@
             <falscheAntwort1>Man befestigte Eisenplatten daran.</falscheAntwort1>
             <falscheAntwort2>Man pflanzte wilden Wein davor.</falscheAntwort2>
             <falscheAntwort3>Man erzeugte mit großen Windmühlen Wind, um die Brandpfeile auszupusten.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -641,7 +641,7 @@
             <falscheAntwort1>Man fertigte für jeden Gast einen Kelch mit dessen Namen an.</falscheAntwort1>
             <falscheAntwort2>Jeder Gast bekam ein edles Glas.</falscheAntwort2>
             <falscheAntwort3>Jeder Gast musste einen goldenen Becher mitbringen.</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -651,7 +651,7 @@
             <falscheAntwort1>als Teufelskopf</falscheAntwort1>
             <falscheAntwort2>als Stierkopf</falscheAntwort2>
             <falscheAntwort3>als Drachenkopf</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -661,7 +661,7 @@
             <falscheAntwort1>wilde Ochsen</falscheAntwort1>
             <falscheAntwort2>brennende Pfeile</falscheAntwort2>
             <falscheAntwort3>Streitäxte</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -671,7 +671,7 @@
             <falscheAntwort1>die Geheimgänge</falscheAntwort1>
             <falscheAntwort2>die Zugbrücke</falscheAntwort2>
             <falscheAntwort3>das Fallgitter des Burgtores</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -681,7 +681,7 @@
             <falscheAntwort1>Schach</falscheAntwort1>
             <falscheAntwort2>Halma</falscheAntwort2>
             <falscheAntwort3>Mensch ärgere dich nicht !</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -691,7 +691,7 @@
             <falscheAntwort1>Ja, allerdings befanden sie sich in einem langen, unterirdischen Geheimgang, der zu einem Fluss führte.</falscheAntwort1>
             <falscheAntwort2>Nein, auf den Burgen gab es noch keine Toiletten, die Ritter mussten die Burg immer verlassen.</falscheAntwort2>
             <falscheAntwort3>Nein, wenn die Ritter mussten, wurden Bauern mit einem Toilettenwagen gerufen.</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -701,7 +701,7 @@
             <falscheAntwort1>Die Ritter ließen ihr Lieblingspferd oft mit im Wohnraum übernachten.</falscheAntwort1>
             <falscheAntwort2>Es gab im Mittelalter noch keine Abfalleimer, sodass sich die Essensreste auch im Wohnraum sammelten.</falscheAntwort2>
             <falscheAntwort3>Im Wohnraum wurden in Notzeiten auch Hühner und Kühe gehalten.</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -711,7 +711,7 @@
             <falscheAntwort1>Heinrich II.</falscheAntwort1>
             <falscheAntwort2>Heinrich III.</falscheAntwort2>
             <falscheAntwort3>Heinrich I.</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -721,7 +721,7 @@
             <falscheAntwort1>1007 - 1057</falscheAntwort1>
             <falscheAntwort2>1345 - 1407</falscheAntwort2>
             <falscheAntwort3>1203 - 1302</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -731,7 +731,7 @@
             <falscheAntwort1>Barbarossa</falscheAntwort1>
             <falscheAntwort2>König Eisenherz</falscheAntwort2>
             <falscheAntwort3>König Adlerfeder</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -741,7 +741,7 @@
             <falscheAntwort1>William I.</falscheAntwort1>
             <falscheAntwort2>Richard II.</falscheAntwort2>
             <falscheAntwort3>William II.</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -751,7 +751,7 @@
             <falscheAntwort1>ca. 945 - 990</falscheAntwort1>
             <falscheAntwort2>1299 - 1398</falscheAntwort2>
             <falscheAntwort3>ungefähr 1613</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -761,7 +761,7 @@
             <falscheAntwort1>ein berühmter Arzt im Mittelalter</falscheAntwort1>
             <falscheAntwort2>ein fahrender Ritter</falscheAntwort2>
             <falscheAntwort3>ein geschickter Falkenjäger des König Arturs</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -771,7 +771,7 @@
             <falscheAntwort1>der Priester</falscheAntwort1>
             <falscheAntwort2>der Burgherr</falscheAntwort2>
             <falscheAntwort3>der Kerkermeister</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -781,7 +781,7 @@
             <falscheAntwort1>die Universitäten</falscheAntwort1>
             <falscheAntwort2>die Ritterburgen</falscheAntwort2>
             <falscheAntwort3>die Dörfer</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -791,7 +791,7 @@
             <falscheAntwort1>Mönche</falscheAntwort1>
             <falscheAntwort2>Gaukler</falscheAntwort2>
             <falscheAntwort3>Vasallen</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -801,7 +801,7 @@
             <falscheAntwort1>Topfhelmschmiede, die von Burg zu Burg zogen</falscheAntwort1>
             <falscheAntwort2>Schwert- und Messerschleifer, die von Burg zu Burg zogen</falscheAntwort2>
             <falscheAntwort3>Baumeister von Zugbrücken, die kaputte Zugbrücken wieder reparierten</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -811,7 +811,7 @@
             <falscheAntwort1>Tinne</falscheAntwort1>
             <falscheAntwort2>Linne</falscheAntwort2>
             <falscheAntwort3>Pinne</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -821,7 +821,7 @@
             <falscheAntwort1>eine buntbestickte Satteldecke</falscheAntwort1>
             <falscheAntwort2>die Liebe eines Ritters zu einer Bauerntochter, die er niemals heiraten durfte</falscheAntwort2>
             <falscheAntwort3>die älteste Köchin auf der Burg</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -831,7 +831,7 @@
             <falscheAntwort1>Jagdhunde</falscheAntwort1>
             <falscheAntwort2>dressierte Jagdmäuse</falscheAntwort2>
             <falscheAntwort3>zahme Kaninchen</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -841,7 +841,7 @@
             <falscheAntwort1>eine deutsche Adlige, die auch an vier Kreuzzügen teilnahm</falscheAntwort1>
             <falscheAntwort2>eine berühmte Sängerin des Mittelalters</falscheAntwort2>
             <falscheAntwort3>eine Königstochter, die 30 Jahre im Bingener Mäuseturm gefangengehalten wurde</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -851,7 +851,7 @@
             <falscheAntwort1>Ilias</falscheAntwort1>
             <falscheAntwort2>Edda</falscheAntwort2>
             <falscheAntwort3>Die Reisen des Odysseus</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -861,7 +861,7 @@
             <falscheAntwort1>nein</falscheAntwort1>
             <falscheAntwort2>kaum</falscheAntwort2>
             <falscheAntwort3>selten</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -871,7 +871,7 @@
             <falscheAntwort1>weil sie dort besser das Lesen und das Schreiben lernen konnten</falscheAntwort1>
             <falscheAntwort2>weil sie dort besser das Kochen und das Nähen lernen konnten</falscheAntwort2>
             <falscheAntwort3>weil dort die Ritter um die adligen Mädchen kämpften</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -881,7 +881,7 @@
             <falscheAntwort1>die aktiven Ritter</falscheAntwort1>
             <falscheAntwort2>die Ritter im Ruhestand</falscheAntwort2>
             <falscheAntwort3>die auszubildenden Ritter</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -891,7 +891,7 @@
             <falscheAntwort1>ein Ritter, der die Nachrichten mit einer Kutsche ausfuhr</falscheAntwort1>
             <falscheAntwort2>ein alter Ritter, der nicht mehr reiten konnte und deshalb mit dem Pferdewagen fuhr</falscheAntwort2>
             <falscheAntwort3>ein Ritter, der die Bauern beschützte, indem er auf dem Pferdewagen mitfuhr</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -901,7 +901,7 @@
             <falscheAntwort1>nein, beim Turnier gab es keine Gefangenen</falscheAntwort1>
             <falscheAntwort2>nein, beim Turnier ging es nur um den Spaß</falscheAntwort2>
             <falscheAntwort3>nein, denn die gefangenen Ritter wurden sofort getötet</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -911,7 +911,7 @@
             <falscheAntwort1>immer nur mit scharfen Waffen</falscheAntwort1>
             <falscheAntwort2>immer nur mit stumpfen Waffen</falscheAntwort2>
             <falscheAntwort3>nur die älteren Ritter durften mit scharfen Waffen kämpfen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -921,7 +921,7 @@
             <falscheAntwort1>ca. 150 m</falscheAntwort1>
             <falscheAntwort2>ca. 300 m</falscheAntwort2>
             <falscheAntwort3>ca. 75 m</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -931,7 +931,7 @@
             <falscheAntwort1>die Jagd zu Pferde</falscheAntwort1>
             <falscheAntwort2>die Jagd mit Hunden</falscheAntwort2>
             <falscheAntwort3>die Fuchsjagd</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -941,7 +941,7 @@
             <falscheAntwort1>Sie wurden von ihren Knappen auf das Pferd gehoben.</falscheAntwort1>
             <falscheAntwort2>Sie stiegen über lange Leitern auf ihr Pferd.</falscheAntwort2>
             <falscheAntwort3>Sie konnten sich erst auf dem Pferd ihre Rüstungen anziehen.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -951,7 +951,7 @@
             <falscheAntwort1>nein, denn wer lesen konnte, durfte kein Ritter werden</falscheAntwort1>
             <falscheAntwort2>ja, nur wer sehr gut lesen konnte, konnte auch Ritter werden</falscheAntwort2>
             <falscheAntwort3>ja, denn man konnte erst Ritter werden, nachdem man die Bibel vorgelesen und abgeschrieben hatte</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -961,7 +961,7 @@
             <falscheAntwort1>Muhurt</falscheAntwort1>
             <falscheAntwort2>Guhurt</falscheAntwort2>
             <falscheAntwort3>Kuhurt</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -971,7 +971,7 @@
             <falscheAntwort1>der Ausguck auf dem Burgturm</falscheAntwort1>
             <falscheAntwort2>ein festliches Rittertreffen</falscheAntwort2>
             <falscheAntwort3>der Bäcker in der Burg</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -981,7 +981,7 @@
             <falscheAntwort1>Sie veranstalteten einen lauten Siegestanz.</falscheAntwort1>
             <falscheAntwort2>Sie verfolgten die besiegten Ritter.</falscheAntwort2>
             <falscheAntwort3>Sie vergruben die erbeuteten Waffen.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -991,7 +991,7 @@
             <falscheAntwort1>die Belagerungswalzen</falscheAntwort1>
             <falscheAntwort2>die Belagerungskräne</falscheAntwort2>
             <falscheAntwort3>die Belagerungsraupen</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1001,7 +1001,7 @@
             <falscheAntwort1>Mauergang</falscheAntwort1>
             <falscheAntwort2>Ringwall</falscheAntwort2>
             <falscheAntwort3>Burggraben</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1011,7 +1011,7 @@
             <falscheAntwort1>Flugblätter, die zur Aufgabe aufforderten und Bestechungsgeld</falscheAntwort1>
             <falscheAntwort2>Nägel und Schrauben, Dynamit, Nitroglyzerin</falscheAntwort2>
             <falscheAntwort3>Schlamm, Eiszapfen und Schneebälle</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -1021,7 +1021,7 @@
             <falscheAntwort1>Minnelieder singen</falscheAntwort1>
             <falscheAntwort2>Karten spielen</falscheAntwort2>
             <falscheAntwort3>Zeitung lesen</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -1031,7 +1031,7 @@
             <falscheAntwort1>Man griff in der Nacht an.</falscheAntwort1>
             <falscheAntwort2>Man verstärkte die Angriffe.</falscheAntwort2>
             <falscheAntwort3>Man griff sie nur am Sonntag an, wenn die Bewohner in der Kirche waren.</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1041,7 +1041,7 @@
             <falscheAntwort1>ja, ohne Geheimgang durften keine Burgen gebaut werden</falscheAntwort1>
             <falscheAntwort2>nein, es gab im Mittelalter noch keine unterirdischen Geheimgänge</falscheAntwort2>
             <falscheAntwort3>ja, denn die unterirdischen Geheimgänge führten zu den Waffenkammern</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1051,7 +1051,7 @@
             <falscheAntwort1>die Burgmauern</falscheAntwort1>
             <falscheAntwort2>der Burggraben</falscheAntwort2>
             <falscheAntwort3>die Schießscharten</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1061,7 +1061,7 @@
             <falscheAntwort1>eine besonders schwere Armbrust</falscheAntwort1>
             <falscheAntwort2>eine Metallplatte, die sich beim Kettenhemd direkt über der Brust des Ritters befand</falscheAntwort2>
             <falscheAntwort3>eine Verteidigungstaktik beim Fechten</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1071,7 +1071,7 @@
             <falscheAntwort1>weil sie auf die Pferde aufpassen mussten</falscheAntwort1>
             <falscheAntwort2>weil sie nun bei ihren Feinden mitkämpfen durften</falscheAntwort2>
             <falscheAntwort3>weil derjenige gewonnen hatte, der die meisten gefangenen Ritter hatte</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1081,7 +1081,7 @@
             <falscheAntwort1>mit der Armbrust</falscheAntwort1>
             <falscheAntwort2>mit dem Schwert</falscheAntwort2>
             <falscheAntwort3>mit dem Messer</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1091,7 +1091,7 @@
             <falscheAntwort1>Es gab damals nur schwarze Wolle.</falscheAntwort1>
             <falscheAntwort2>weil er immer schmutzige Füße hatte</falscheAntwort2>
             <falscheAntwort3>damit man die Füße bei Nacht nicht sehen konnte</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1101,7 +1101,7 @@
             <falscheAntwort1>Fingerbrust</falscheAntwort1>
             <falscheAntwort2>Beinbrust</falscheAntwort2>
             <falscheAntwort3>Fußbrust</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1111,7 +1111,7 @@
             <falscheAntwort1>60 - 80 m</falscheAntwort1>
             <falscheAntwort2>ca. 50 m</falscheAntwort2>
             <falscheAntwort3>genau 168 m</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1121,7 +1121,7 @@
             <falscheAntwort1>damit der Ritter besser zustoßen konnte</falscheAntwort1>
             <falscheAntwort2>damit das Blut besser abtropfen konnte</falscheAntwort2>
             <falscheAntwort3>damit der Ritter das Schwert besser wieder herausziehen konnte</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1131,7 +1131,7 @@
             <falscheAntwort1>ein Wappen</falscheAntwort1>
             <falscheAntwort2>eine Loch</falscheAntwort2>
             <falscheAntwort3>das Bild des Königs</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1141,7 +1141,7 @@
             <falscheAntwort1>durch seine Heimatkunde</falscheAntwort1>
             <falscheAntwort2>durch seine Bibelstunde</falscheAntwort2>
             <falscheAntwort3>durch seine vielen Pfunde</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1151,7 +1151,7 @@
             <falscheAntwort1>König Ortus</falscheAntwort1>
             <falscheAntwort2>König Ertus</falscheAntwort2>
             <falscheAntwort3>König Urtus</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1161,7 +1161,7 @@
             <falscheAntwort1>Ja, die Ritter planten oft monatelang die richtige Taktik.</falscheAntwort1>
             <falscheAntwort2>Nein, denn dazu waren die Ritter noch zu dumm.</falscheAntwort2>
             <falscheAntwort3>Ja, ohne richtige Taktik ließ der König die Ritter erst gar nicht in die Schlacht ziehen.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1171,7 +1171,7 @@
             <falscheAntwort1>weil die Edelleute sehr gerne scharfe Gewürze aßen</falscheAntwort1>
             <falscheAntwort2>damit die Edelleute tüchtig Durst bekamen und viel trinken konnten</falscheAntwort2>
             <falscheAntwort3>Die Edelleute wollten erst hinterher raten, welche Fleischsorte sie eigentlich gegessen hatten.</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1181,7 +1181,7 @@
             <falscheAntwort1>ein rotes Gewand war das Zeichen der Knappen</falscheAntwort1>
             <falscheAntwort2>als Zeichen, dass er beim Kampf schon einmal geblutet hatte</falscheAntwort2>
             <falscheAntwort3>damit man ihn bei den Turnierkämpfen besser sehen konnte</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1191,7 +1191,7 @@
             <falscheAntwort1>eine Ritterrüstung, bei der auch die Hände mit Eisenplatten geschützt waren</falscheAntwort1>
             <falscheAntwort2>ein Ritter, der das Schwert mit der linken und mit der rechten Hand führen konnte</falscheAntwort2>
             <falscheAntwort3>ein Gaukler, der bei Ritterspielen mit seiner Fingerfertigkeit Zaubertricks vorführte</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1201,7 +1201,7 @@
             <falscheAntwort1>mit Messer und Holzgabel</falscheAntwort1>
             <falscheAntwort2>mit Holzlöffel und Gabel</falscheAntwort2>
             <falscheAntwort3>mit den Fingern</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1211,7 +1211,7 @@
             <falscheAntwort1>Der Burgherr kaufte die Speisen frisch auf dem Markt.</falscheAntwort1>
             <falscheAntwort2>Die Gäste brachten ihre Speisen selber mit.</falscheAntwort2>
             <falscheAntwort3>Der Burgherr überfiel seine Feinde und stahl ihnen das Essen.</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1221,7 +1221,7 @@
             <falscheAntwort1>Rotus Bartus I.</falscheAntwort1>
             <falscheAntwort2>Kaiser Rotbart I.</falscheAntwort2>
             <falscheAntwort3>Barossassa</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1231,7 +1231,7 @@
             <falscheAntwort1>Wilhelm I.</falscheAntwort1>
             <falscheAntwort2>Friedrich II.</falscheAntwort2>
             <falscheAntwort3>Wilhelm II.</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1241,7 +1241,7 @@
             <falscheAntwort1>eine Schießscharte im Burgturm</falscheAntwort1>
             <falscheAntwort2>ein junger Knappe</falscheAntwort2>
             <falscheAntwort3>ein langer Pfeil</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1251,7 +1251,7 @@
             <falscheAntwort1>35 kg</falscheAntwort1>
             <falscheAntwort2>15 kg</falscheAntwort2>
             <falscheAntwort3>45 kg</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1261,7 +1261,7 @@
             <falscheAntwort1>Ende des 12. Jahrhunderts</falscheAntwort1>
             <falscheAntwort2>Ende des 13. Jahrhunderts</falscheAntwort2>
             <falscheAntwort3>Ende des 15. Jahrhunderts</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1271,7 +1271,7 @@
             <falscheAntwort1>Vollrüstung</falscheAntwort1>
             <falscheAntwort2>Eisenrüstung</falscheAntwort2>
             <falscheAntwort3>Ganzrüstung</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1281,7 +1281,7 @@
             <falscheAntwort1>Kochbücher</falscheAntwort1>
             <falscheAntwort2>Zeitungen</falscheAntwort2>
             <falscheAntwort3>Comics</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1291,7 +1291,7 @@
             <falscheAntwort1>die Bestrafung eines Ritters, bei der ihm das Schwert weggenommen wurde</falscheAntwort1>
             <falscheAntwort2>die Endproduktion bei der Schwertherstellung, wenn der Schmied dem Ritter das Schwert übergab</falscheAntwort2>
             <falscheAntwort3>ein besonders schmaler Schwertgriff, damit auch Frauen das Schwert halten konnten</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1301,7 +1301,7 @@
             <falscheAntwort1>Schwertgabe</falscheAntwort1>
             <falscheAntwort2>Schwertweihe</falscheAntwort2>
             <falscheAntwort3>Schwertlehen</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1311,7 +1311,7 @@
             <falscheAntwort1>Heiligenspiele</falscheAntwort1>
             <falscheAntwort2>Bibelspiele</falscheAntwort2>
             <falscheAntwort3>Majestixspiele</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1321,7 +1321,7 @@
             <falscheAntwort1>Versteckspiele auf der Burg</falscheAntwort1>
             <falscheAntwort2>Ritterfeste für Knappen</falscheAntwort2>
             <falscheAntwort3>Spiele für Bauern und Mönche</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1331,7 +1331,7 @@
             <falscheAntwort1>weil die Köchinnen es nicht anders kannten</falscheAntwort1>
             <falscheAntwort2>um auch alle Krankheitserreger abzutöten</falscheAntwort2>
             <falscheAntwort3>weil es dann so gut duftete</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1341,7 +1341,7 @@
             <falscheAntwort1>weil es im Mittelalter keine andere Nahrung gab</falscheAntwort1>
             <falscheAntwort2>weil der Brei so köstlich schmeckte</falscheAntwort2>
             <falscheAntwort3>weil die Menschen im Mittelalter nicht dick werden wollten</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1351,7 +1351,7 @@
             <falscheAntwort1>Gennins</falscheAntwort1>
             <falscheAntwort2>Bennins</falscheAntwort2>
             <falscheAntwort3>Fennins</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1361,7 +1361,7 @@
             <falscheAntwort1>Liebeslieder</falscheAntwort1>
             <falscheAntwort2>Wappen, auf denen Hennen abgebildet waren</falscheAntwort2>
             <falscheAntwort3>bunte Wandteppiche</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1371,7 +1371,7 @@
             <falscheAntwort1>Ein rauschendes Fest, bei dem er vorsingen und auch vortanzen musste.</falscheAntwort1>
             <falscheAntwort2>Eine Hochzeit, bei der er sich seine Frau aussuchen durfte.</falscheAntwort2>
             <falscheAntwort3>Ein Festmahl, bei dem sich der Ritter richtig volllaufen lassen musste.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1381,7 +1381,7 @@
             <falscheAntwort1>in Salz gepökeltes Fleisch</falscheAntwort1>
             <falscheAntwort2>ein verwundetes Körperteil</falscheAntwort2>
             <falscheAntwort3>Weißbrot</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1391,7 +1391,7 @@
             <falscheAntwort1>Streithammer</falscheAntwort1>
             <falscheAntwort2>Streitkolben</falscheAntwort2>
             <falscheAntwort3>Streitaxt</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1401,7 +1401,7 @@
             <falscheAntwort1>Hutimirium</falscheAntwort1>
             <falscheAntwort2>Dirilirium</falscheAntwort2>
             <falscheAntwort3>Zipfilirium</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1411,7 +1411,7 @@
             <falscheAntwort1>ein sehr kleines Messer</falscheAntwort1>
             <falscheAntwort2>ein Burgfest mit Tanz und Musik</falscheAntwort2>
             <falscheAntwort3>eine Toilette im Wald</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1421,7 +1421,7 @@
             <falscheAntwort1>weil ein Topfhelm nur richtig saß, wenn der Ritter dazu das passende Wappen hatte</falscheAntwort1>
             <falscheAntwort2>weil der Kaiser das Wappengesetz erlassen hatte</falscheAntwort2>
             <falscheAntwort3>weil man einen Topfhelm ohne Wappen nicht wieder abnehmen konnte</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1431,7 +1431,7 @@
             <falscheAntwort1>die Hitze</falscheAntwort1>
             <falscheAntwort2>die Zugluft</falscheAntwort2>
             <falscheAntwort3>der Lärm</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1441,7 +1441,7 @@
             <falscheAntwort1>das Singen und Tanzen erlernen</falscheAntwort1>
             <falscheAntwort2>das Lesen und Schreiben erlernen</falscheAntwort2>
             <falscheAntwort3>das Spurenlesen zu erlernen</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1451,7 +1451,7 @@
             <falscheAntwort1>die Einsiedeleien</falscheAntwort1>
             <falscheAntwort2>die Klöster</falscheAntwort2>
             <falscheAntwort3>die finsteren Wälder</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1461,7 +1461,7 @@
             <falscheAntwort1>Kajüte</falscheAntwort1>
             <falscheAntwort2>Kombüse</falscheAntwort2>
             <falscheAntwort3>Konserve</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1471,7 +1471,7 @@
             <falscheAntwort1>der Weinkeller einer Burg</falscheAntwort1>
             <falscheAntwort2>die Küche einer Burg</falscheAntwort2>
             <falscheAntwort3>die Schießscharte einer Burg</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1481,7 +1481,7 @@
             <falscheAntwort1>en reicher Vogt</falscheAntwort1>
             <falscheAntwort2>ein freier Vagabund</falscheAntwort2>
             <falscheAntwort3>ein Berater des Königs</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1491,7 +1491,7 @@
             <falscheAntwort1>Milizen</falscheAntwort1>
             <falscheAntwort2>Minister</falscheAntwort2>
             <falscheAntwort3>Minestrant</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1501,7 +1501,7 @@
             <falscheAntwort1>Er musste seinem Herren ein neues Pferd kaufen.</falscheAntwort1>
             <falscheAntwort2>Er musste seinem Herren zum Markt folgen.</falscheAntwort2>
             <falscheAntwort3>Er musste jedem großen Heer, das er sah, sofort folgen.</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -1511,7 +1511,7 @@
             <falscheAntwort1>das Teppichknüpfen</falscheAntwort1>
             <falscheAntwort2>das Bogenschießen</falscheAntwort2>
             <falscheAntwort3>die Fechtkunst</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1521,7 +1521,7 @@
             <falscheAntwort1>1170</falscheAntwort1>
             <falscheAntwort2>1180</falscheAntwort2>
             <falscheAntwort3>1160</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1531,7 +1531,7 @@
             <falscheAntwort1>1339</falscheAntwort1>
             <falscheAntwort2>1229</falscheAntwort2>
             <falscheAntwort3>1449</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1541,7 +1541,7 @@
             <falscheAntwort1>999</falscheAntwort1>
             <falscheAntwort2>1199</falscheAntwort2>
             <falscheAntwort3>1299</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1551,7 +1551,7 @@
             <falscheAntwort1>Templer - Orden</falscheAntwort1>
             <falscheAntwort2>Johanniter - Orden</falscheAntwort2>
             <falscheAntwort3>Deutscher - Orden</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1561,7 +1561,7 @@
             <falscheAntwort1>Ret</falscheAntwort1>
             <falscheAntwort2>Zet</falscheAntwort2>
             <falscheAntwort3>Get</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1571,7 +1571,7 @@
             <falscheAntwort1>ein kurzes Schwert</falscheAntwort1>
             <falscheAntwort2>ein Brei aus Haferschleim</falscheAntwort2>
             <falscheAntwort3>der Aussichtsturm einer Burg</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1581,7 +1581,7 @@
             <falscheAntwort1>nur in Wasserburgen</falscheAntwort1>
             <falscheAntwort2>nein</falscheAntwort2>
             <falscheAntwort3>nur bei der Königin</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1591,7 +1591,7 @@
             <falscheAntwort1>wenn man kein eigenes Land besaß</falscheAntwort1>
             <falscheAntwort2>wenn man viel Gold besaß</falscheAntwort2>
             <falscheAntwort3>wenn man hinziehen konnte, wohin man wollte</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1601,7 +1601,7 @@
             <falscheAntwort1>Bayern</falscheAntwort1>
             <falscheAntwort2>Sachsen</falscheAntwort2>
             <falscheAntwort3>Hessen</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1611,7 +1611,7 @@
             <falscheAntwort1>Plünderritter</falscheAntwort1>
             <falscheAntwort2>hinterlistige Ritter</falscheAntwort2>
             <falscheAntwort3>gemeine Ritter</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1621,7 +1621,7 @@
             <falscheAntwort1>Es gab noch keine Zahnbürsten.</falscheAntwort1>
             <falscheAntwort2>Es gab weniger Zahnärzte.</falscheAntwort2>
             <falscheAntwort3>Es gab noch keine Zahnpasta.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1631,7 +1631,7 @@
             <falscheAntwort1>nur die Jungen</falscheAntwort1>
             <falscheAntwort2>nein, auf keinen Fall</falscheAntwort2>
             <falscheAntwort3>nur die Mädchen in der Küche</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1641,7 +1641,7 @@
             <falscheAntwort1>kleine Wurfgeschosse</falscheAntwort1>
             <falscheAntwort2>große Wandgemälde, die die Rittersäle schmückten</falscheAntwort2>
             <falscheAntwort3>kräftige, schwarze Pferde</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1651,7 +1651,7 @@
             <falscheAntwort1>von den umherziehenden Bauern</falscheAntwort1>
             <falscheAntwort2>vom Markt, der jeden Mittwoch stattfand</falscheAntwort2>
             <falscheAntwort3>aus dem Klostergarten</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1661,7 +1661,7 @@
             <falscheAntwort1>Sesam</falscheAntwort1>
             <falscheAntwort2>Mohn</falscheAntwort2>
             <falscheAntwort3>Curry</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1671,7 +1671,7 @@
             <falscheAntwort1>weil die Baumeister sonst keine andere Arbeit hatten</falscheAntwort1>
             <falscheAntwort2>weil die Baumeister unkündbare Verträge unterschreiben mussten</falscheAntwort2>
             <falscheAntwort3>weil er zum Schluss den Schlüssel übergeben musste</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1681,7 +1681,7 @@
             <falscheAntwort1>So nannte man einen großen Fleischtopf, der aussah wie ein Ritterhelm.</falscheAntwort1>
             <falscheAntwort2>ein spezieller Helm, der bei einem Angriff auf die Burg von den Köchen getragen wurde</falscheAntwort2>
             <falscheAntwort3>ein besonders geformter Kuchen</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1691,7 +1691,7 @@
             <falscheAntwort1>Zucker</falscheAntwort1>
             <falscheAntwort2>Pfeffer</falscheAntwort2>
             <falscheAntwort3>Muskat</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1701,7 +1701,7 @@
             <falscheAntwort1>Morgenstern</falscheAntwort1>
             <falscheAntwort2>Lanze</falscheAntwort2>
             <falscheAntwort3>Dolch</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1711,7 +1711,7 @@
             <falscheAntwort1>ja, aber nur nachmittags</falscheAntwort1>
             <falscheAntwort2>ja, aber nur vormittags</falscheAntwort2>
             <falscheAntwort3>ja, aber nur für drei Stunden</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1721,7 +1721,7 @@
             <falscheAntwort1>jeder Vierte</falscheAntwort1>
             <falscheAntwort2>ein Drittel</falscheAntwort2>
             <falscheAntwort3>fast alle</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1731,7 +1731,7 @@
             <falscheAntwort1>von 1107 - 1346</falscheAntwort1>
             <falscheAntwort2>von 995 - 1142</falscheAntwort2>
             <falscheAntwort3>von 1298 - 1458</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1741,7 +1741,7 @@
             <falscheAntwort1>3 Jahrhunderte</falscheAntwort1>
             <falscheAntwort2>1 Jahrhundert</falscheAntwort2>
             <falscheAntwort3>85 Jahre</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1751,7 +1751,7 @@
             <falscheAntwort1>Er musste Oma und Opa in seiner Burg versorgen.</falscheAntwort1>
             <falscheAntwort2>Er musste die älteste Tochter heiraten.</falscheAntwort2>
             <falscheAntwort3>Er musste ihm jedes Jahr ein neues Pferd schenken.</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1761,7 +1761,7 @@
             <falscheAntwort1>die Begleitung des Lehnsherren bei festlichen Anlässen</falscheAntwort1>
             <falscheAntwort2>das Halten des Steigbügels</falscheAntwort2>
             <falscheAntwort3>der Dienst bei der Festtafel, etwa als Mundschenk</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1771,7 +1771,7 @@
             <falscheAntwort1>Vasall</falscheAntwort1>
             <falscheAntwort2>Graf</falscheAntwort2>
             <falscheAntwort3>Earl</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1781,7 +1781,7 @@
             <falscheAntwort1>Vagabund</falscheAntwort1>
             <falscheAntwort2>Vogt</falscheAntwort2>
             <falscheAntwort3>Visoll</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1791,7 +1791,7 @@
             <falscheAntwort1>Geistliche</falscheAntwort1>
             <falscheAntwort2>Adel mit den Rittern</falscheAntwort2>
             <falscheAntwort3>Bauern</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1801,7 +1801,7 @@
             <falscheAntwort1>der Dolch</falscheAntwort1>
             <falscheAntwort2>das Schwert</falscheAntwort2>
             <falscheAntwort3>der Speer</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1811,7 +1811,7 @@
             <falscheAntwort1>Ehrlichkeit</falscheAntwort1>
             <falscheAntwort2>Ritterlichkeit</falscheAntwort2>
             <falscheAntwort3>Pünktlichkeit</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1821,7 +1821,7 @@
             <falscheAntwort1>Mannheim und Ingolstadt</falscheAntwort1>
             <falscheAntwort2>München und Stuttgart</falscheAntwort2>
             <falscheAntwort3>Passau und Rosenheim</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1831,7 +1831,7 @@
             <falscheAntwort1>Tjost</falscheAntwort1>
             <falscheAntwort2>Buhurt</falscheAntwort2>
             <falscheAntwort3>Turnei</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1841,7 +1841,7 @@
             <falscheAntwort1>ein Stall für die Ritterpferde</falscheAntwort1>
             <falscheAntwort2>ein mittelalterliches Theaterstück</falscheAntwort2>
             <falscheAntwort3>ein Belagerungsturm</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1851,7 +1851,7 @@
             <falscheAntwort1>Zögling</falscheAntwort1>
             <falscheAntwort2>Page</falscheAntwort2>
             <falscheAntwort3>Höfling</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1861,7 +1861,7 @@
             <falscheAntwort1>mit 16 Jahren</falscheAntwort1>
             <falscheAntwort2>mit 12 Jahren</falscheAntwort2>
             <falscheAntwort3>mit 10 Jahren</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1871,7 +1871,7 @@
             <falscheAntwort1>ein junges Fohlen, das zum Streitross ausgebildet wird</falscheAntwort1>
             <falscheAntwort2>ein prächtiger Thronstuhl mit einer hoher Lehne</falscheAntwort2>
             <falscheAntwort3>eine Schleuderwaffe</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1881,7 +1881,7 @@
             <falscheAntwort1>Pagoge</falscheAntwort1>
             <falscheAntwort2>Page</falscheAntwort2>
             <falscheAntwort3>Panini</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1891,7 +1891,7 @@
             <falscheAntwort1>ein prachtvoll angelegter Burggarten</falscheAntwort1>
             <falscheAntwort2>das Damenhaus der Burg</falscheAntwort2>
             <falscheAntwort3>der engste Diener des Burgherren</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1901,7 +1901,7 @@
             <falscheAntwort1>seit Ende des 15 . Jahrhunderts</falscheAntwort1>
             <falscheAntwort2>seit Anfang des 14 . Jahrhunderts</falscheAntwort2>
             <falscheAntwort3>seit Ende des 12 . Jahrhunderts</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1911,7 +1911,7 @@
             <falscheAntwort1>Klavier</falscheAntwort1>
             <falscheAntwort2>Spalier</falscheAntwort2>
             <falscheAntwort3>Vision</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1921,7 +1921,7 @@
             <falscheAntwort1>4</falscheAntwort1>
             <falscheAntwort2>2</falscheAntwort2>
             <falscheAntwort3>5</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1931,7 +1931,7 @@
             <falscheAntwort1>Urban III.</falscheAntwort1>
             <falscheAntwort2>Urban I.</falscheAntwort2>
             <falscheAntwort3>Urban IV.</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1941,7 +1941,7 @@
             <falscheAntwort1>995</falscheAntwort1>
             <falscheAntwort2>1195</falscheAntwort2>
             <falscheAntwort3>1295</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1951,7 +1951,7 @@
             <falscheAntwort1>eine friedliche Prozession zur Kirche</falscheAntwort1>
             <falscheAntwort2>ein Ritterkampf, bei dem sich die Ritter von Norden und Westen trafen, also sich überkreuzten</falscheAntwort2>
             <falscheAntwort3>ein langer Leiterwagen, in dem Holzkreuze für eine neue Kirche transportiert wurden</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1961,7 +1961,7 @@
             <falscheAntwort1>Höfling</falscheAntwort1>
             <falscheAntwort2>Knappe</falscheAntwort2>
             <falscheAntwort3>Knecht</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1971,7 +1971,7 @@
             <falscheAntwort1>9 Jahre</falscheAntwort1>
             <falscheAntwort2>5 Jahre</falscheAntwort2>
             <falscheAntwort3>11 Jahre</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1981,7 +1981,7 @@
             <falscheAntwort1>ein alter Ritter, der sich nur noch auf einen Stock lehnen konnte</falscheAntwort1>
             <falscheAntwort2>ein starker Ritter, an den die Bauern sich anlehnen konnten</falscheAntwort2>
             <falscheAntwort3>ein geschickter Schreiner, der Stühle mit hohen Lehnen herstellen konnte</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1991,7 +1991,7 @@
             <falscheAntwort1>einen Gummianzug</falscheAntwort1>
             <falscheAntwort2>Wattepolster</falscheAntwort2>
             <falscheAntwort3>mit Tierhaaren gepolsterte Taschen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2001,7 +2001,7 @@
             <falscheAntwort1>Teichburg</falscheAntwort1>
             <falscheAntwort2>Seeburg</falscheAntwort2>
             <falscheAntwort3>Meeresburg</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2011,7 +2011,7 @@
             <falscheAntwort1>Ja, denn nur wer in einer Burg lebte, war auch ein Ritter.</falscheAntwort1>
             <falscheAntwort2>ja, selbstverständlich</falscheAntwort2>
             <falscheAntwort3>natürlich</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2021,7 +2021,7 @@
             <falscheAntwort1>Fliege</falscheAntwort1>
             <falscheAntwort2>Mücke</falscheAntwort2>
             <falscheAntwort3>Biene</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2031,7 +2031,7 @@
             <falscheAntwort1>ein Erdbeben</falscheAntwort1>
             <falscheAntwort2>Mauereinstürze</falscheAntwort2>
             <falscheAntwort3>eine Überschwemmung</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2041,7 +2041,7 @@
             <falscheAntwort1>Fußfallen</falscheAntwort1>
             <falscheAntwort2>Fußhebel</falscheAntwort2>
             <falscheAntwort3>Fußeisen</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2051,7 +2051,7 @@
             <falscheAntwort1>Hildegard von Bingen</falscheAntwort1>
             <falscheAntwort2>Christine de Pisan</falscheAntwort2>
             <falscheAntwort3>Maria Steward</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2061,7 +2061,7 @@
             <falscheAntwort1>Tollwut</falscheAntwort1>
             <falscheAntwort2>Malaria</falscheAntwort2>
             <falscheAntwort3>Masern</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2071,7 +2071,7 @@
             <falscheAntwort1>Kartoffeln</falscheAntwort1>
             <falscheAntwort2>Reis</falscheAntwort2>
             <falscheAntwort3>Nudeln</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2081,7 +2081,7 @@
             <falscheAntwort1>Eine unterirdischer Geheimgang führte zum Eingang.</falscheAntwort1>
             <falscheAntwort2>Hinter der dicken Zugbrücke. Sie musste erst heruntergelassen erden.</falscheAntwort2>
             <falscheAntwort3>Eine dicke Eichentür unten am Turm wurde von bewaffneten Wächtern beschützt.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2091,7 +2091,7 @@
             <falscheAntwort1>giraffenhalsig</falscheAntwort1>
             <falscheAntwort2>schweinsbeinig</falscheAntwort2>
             <falscheAntwort3>elafantenbauchig</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2101,7 +2101,7 @@
             <falscheAntwort1>Tjorn</falscheAntwort1>
             <falscheAntwort2>Horn</falscheAntwort2>
             <falscheAntwort3>Zorn</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2111,7 +2111,7 @@
             <falscheAntwort1>Harnischer</falscheAntwort1>
             <falscheAntwort2>Rüstner</falscheAntwort2>
             <falscheAntwort3>Kettler</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2121,7 +2121,7 @@
             <falscheAntwort1>Harbisch</falscheAntwort1>
             <falscheAntwort2>Hartisch</falscheAntwort2>
             <falscheAntwort3>Harrisch</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2131,7 +2131,7 @@
             <falscheAntwort1>Hanner</falscheAntwort1>
             <falscheAntwort2>Fanner</falscheAntwort2>
             <falscheAntwort3>Panner</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -2141,7 +2141,7 @@
             <falscheAntwort1>4 Kühe</falscheAntwort1>
             <falscheAntwort2>2 Kühe</falscheAntwort2>
             <falscheAntwort3>8 Kühe</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2151,7 +2151,7 @@
             <falscheAntwort1>3 Kühe</falscheAntwort1>
             <falscheAntwort2>1 Kuh</falscheAntwort2>
             <falscheAntwort3>4 Kühe</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2161,7 +2161,7 @@
             <falscheAntwort1>2 Kühe</falscheAntwort1>
             <falscheAntwort2>1 Kuh</falscheAntwort2>
             <falscheAntwort3>3 Kühe</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2171,7 +2171,7 @@
             <falscheAntwort1>3 Kühe</falscheAntwort1>
             <falscheAntwort2>1 Kuh</falscheAntwort2>
             <falscheAntwort3>5 Kühe</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2181,7 +2181,7 @@
             <falscheAntwort1>4 Kühe</falscheAntwort1>
             <falscheAntwort2>2 Kühe</falscheAntwort2>
             <falscheAntwort3>1 Kuh</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2191,7 +2191,7 @@
             <falscheAntwort1>2 Kühe</falscheAntwort1>
             <falscheAntwort2>1 Kuh</falscheAntwort2>
             <falscheAntwort3>3 Kühe</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2201,7 +2201,7 @@
             <falscheAntwort1>Sie kostete 15 Kühe.</falscheAntwort1>
             <falscheAntwort2>Sie kostete 23 Kühe, also ungefähr soviel wie die Hälfte aller Kühe eines Dorfes.</falscheAntwort2>
             <falscheAntwort3>Sie kostete 7 Kühe.</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2211,7 +2211,7 @@
             <falscheAntwort1>Sie schliffen auf dem Boden und wurden erst im letzten Moment hochgerissen.</falscheAntwort1>
             <falscheAntwort2>unter der Achsel eingeklemmt</falscheAntwort2>
             <falscheAntwort3>Die frühen Ritter hatten noch keine Lanzen.</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2221,7 +2221,7 @@
             <falscheAntwort1>nein, die Ritter hatten noch nicht einmal Sättel</falscheAntwort1>
             <falscheAntwort2>nein, sie waren den Rittern noch unbekannt</falscheAntwort2>
             <falscheAntwort3>nur die ganz reichen Ritter hatten Steigbügel</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2231,7 +2231,7 @@
             <falscheAntwort1>Es gab insgesamt nur drei Brünnen.</falscheAntwort1>
             <falscheAntwort2>Die Brünnen gehörten dem König.</falscheAntwort2>
             <falscheAntwort3>Man konnte die Brünnen nicht nachmachen.</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2241,7 +2241,7 @@
             <falscheAntwort1>die Ritter aus Brünn</falscheAntwort1>
             <falscheAntwort2>die Spitzen der Burgmauern</falscheAntwort2>
             <falscheAntwort3>die Schutzbekleidung der Pferde</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2251,7 +2251,7 @@
             <falscheAntwort1>Schwert und Morgenstern</falscheAntwort1>
             <falscheAntwort2>Messer und Dolch</falscheAntwort2>
             <falscheAntwort3>Lanze und Wurfspeer</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2261,7 +2261,7 @@
             <falscheAntwort1>einen Dolch</falscheAntwort1>
             <falscheAntwort2>einen runden Schild aus Eisen</falscheAntwort2>
             <falscheAntwort3>ein langes Schwert</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2271,7 +2271,7 @@
             <falscheAntwort1>die schwedischen Pferdereiter</falscheAntwort1>
             <falscheAntwort2>die schwäbischen Reiter</falscheAntwort2>
             <falscheAntwort3>die slawischen Mongolen</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2281,7 +2281,7 @@
             <falscheAntwort1>Die Kleidung der Erwachsenen war aus viel besseren Stoffen.</falscheAntwort1>
             <falscheAntwort2>Die Kleidung der Kinder war viel bunter.</falscheAntwort2>
             <falscheAntwort3>An der Kleidung der Kinder waren kleine Glocken, damit man immer hörte, wo sie spielten.</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2291,7 +2291,7 @@
             <falscheAntwort1>in der Regel mit etwa 25 Jahren</falscheAntwort1>
             <falscheAntwort2>in der Regel mit etwa 18 Jahren</falscheAntwort2>
             <falscheAntwort3>in der Regel mit etwa 16 Jahren</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2301,7 +2301,7 @@
             <falscheAntwort1>etwa ein Viertel</falscheAntwort1>
             <falscheAntwort2>etwa ein Drittel</falscheAntwort2>
             <falscheAntwort3>ungefähr jedes zehnte Kind</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2311,7 +2311,7 @@
             <falscheAntwort1>Sie durfte nur lange, schwarze Kleider tragen.</falscheAntwort1>
             <falscheAntwort2>Sie musste einen Fingerring tragen.</falscheAntwort2>
             <falscheAntwort3>Sie musste einen Schleier tragen.</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2321,7 +2321,7 @@
             <falscheAntwort1>damit der Burgherr nicht beim Abtrocknen helfen musste</falscheAntwort1>
             <falscheAntwort2>um unangenehme Kochgerüche in den Wohnräumen zu vermeiden</falscheAntwort2>
             <falscheAntwort3>weil die Ritter die Köchinnen nicht sehen durften</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2331,7 +2331,7 @@
             <falscheAntwort1>Fugel</falscheAntwort1>
             <falscheAntwort2>Kugel</falscheAntwort2>
             <falscheAntwort3>Mugel</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2341,7 +2341,7 @@
             <falscheAntwort1>vier bis fünf</falscheAntwort1>
             <falscheAntwort2>drei</falscheAntwort2>
             <falscheAntwort3>sieben</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2351,7 +2351,7 @@
             <falscheAntwort1>etwa 3 kg</falscheAntwort1>
             <falscheAntwort2>ungefähr 5 kg</falscheAntwort2>
             <falscheAntwort3>2 - 4 kg</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2361,7 +2361,7 @@
             <falscheAntwort1>ca. 2,80 m</falscheAntwort1>
             <falscheAntwort2>2 - 3 m</falscheAntwort2>
             <falscheAntwort3>6 - 8 m</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2371,7 +2371,7 @@
             <falscheAntwort1>3 - 5</falscheAntwort1>
             <falscheAntwort2>2 - 3</falscheAntwort2>
             <falscheAntwort3>7 - 10</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2381,7 +2381,7 @@
             <falscheAntwort1>Kastanetten</falscheAntwort1>
             <falscheAntwort2>Katamarane</falscheAntwort2>
             <falscheAntwort3>Katastrophen</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -2391,7 +2391,7 @@
             <falscheAntwort1>Elefant</falscheAntwort1>
             <falscheAntwort2>Ottifant</falscheAntwort2>
             <falscheAntwort3>Alifant</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2401,7 +2401,7 @@
             <falscheAntwort1>Schlenker</falscheAntwort1>
             <falscheAntwort2>Kerkermeister</falscheAntwort2>
             <falscheAntwort3>Herold</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2411,7 +2411,7 @@
             <falscheAntwort1>Turmfried</falscheAntwort1>
             <falscheAntwort2>Gotfried</falscheAntwort2>
             <falscheAntwort3>Siegfried</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2421,7 +2421,7 @@
             <falscheAntwort1>schwarz</falscheAntwort1>
             <falscheAntwort2>braun</falscheAntwort2>
             <falscheAntwort3>grau</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2431,7 +2431,7 @@
             <falscheAntwort1>ein zweispänniger Ritterwagen, auf dem die Bogenschützen standen</falscheAntwort1>
             <falscheAntwort2>ein Brustpanzer, den die Ritter über dem Kettenhemd trugen</falscheAntwort2>
             <falscheAntwort3>ein Belagerungsturm, von dem aus auch schwere Steine geschleudert werden konnten</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2441,7 +2441,7 @@
             <falscheAntwort1>Trollst</falscheAntwort1>
             <falscheAntwort2>Toast</falscheAntwort2>
             <falscheAntwort3>Tuest</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2451,7 +2451,7 @@
             <falscheAntwort1>Burgtreue</falscheAntwort1>
             <falscheAntwort2>Burgpflicht</falscheAntwort2>
             <falscheAntwort3>Burgrecht</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2461,7 +2461,7 @@
             <falscheAntwort1>Aachen</falscheAntwort1>
             <falscheAntwort2>Rom</falscheAntwort2>
             <falscheAntwort3>Wien</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2471,7 +2471,7 @@
             <falscheAntwort1>3</falscheAntwort1>
             <falscheAntwort2>5</falscheAntwort2>
             <falscheAntwort3>9</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2481,7 +2481,7 @@
             <falscheAntwort1>ein zweispänniger Ritterwagen, auf dem die Bogenschützen standen</falscheAntwort1>
             <falscheAntwort2>ein Brustpanzer, den die Ritter über dem Kettenhemd trugen</falscheAntwort2>
             <falscheAntwort3>ein Belagerungsturm, von dem aus auch schwere Steine geschleudert werden konnten</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2491,7 +2491,7 @@
             <falscheAntwort1>das Zielwerfen mit der Lanze</falscheAntwort1>
             <falscheAntwort2>das Auswendiglernen eines Minneliedes</falscheAntwort2>
             <falscheAntwort3>der Kampf mit dem Feuerdrachen</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2501,7 +2501,7 @@
             <falscheAntwort1>Die Ritter mussten Strom sparen und beheizten nur den Speisesaal.</falscheAntwort1>
             <falscheAntwort2>Die Ritterzeit begann kurz nach der Eiszeit.</falscheAntwort2>
             <falscheAntwort3>Die Ritter hatten warme Rüstungen an.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>

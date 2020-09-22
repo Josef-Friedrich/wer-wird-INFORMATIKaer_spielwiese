@@ -11,7 +11,7 @@
             <falscheAntwort1>Peräa</falscheAntwort1>
             <falscheAntwort2>Galiläa</falscheAntwort2>
             <falscheAntwort3>Eritrea</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -21,7 +21,7 @@
             <falscheAntwort1>1731 n. Chr.</falscheAntwort1>
             <falscheAntwort2>1831 n. Chr.</falscheAntwort2>
             <falscheAntwort3>1631 n. Chr.</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -31,7 +31,7 @@
             <falscheAntwort1>blau</falscheAntwort1>
             <falscheAntwort2>grün</falscheAntwort2>
             <falscheAntwort3>gelb</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -41,7 +41,7 @@
             <falscheAntwort1>Anna</falscheAntwort1>
             <falscheAntwort2>Johanna</falscheAntwort2>
             <falscheAntwort3>Elisabeth</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -51,7 +51,7 @@
             <falscheAntwort1>Hagebutte</falscheAntwort1>
             <falscheAntwort2>Rose</falscheAntwort2>
             <falscheAntwort3>Pferd</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -61,7 +61,7 @@
             <falscheAntwort1>am 31. Dezember</falscheAntwort1>
             <falscheAntwort2>am 1. Januar</falscheAntwort2>
             <falscheAntwort3>am 24. Dezember</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -71,7 +71,7 @@
             <falscheAntwort1>3. Advent</falscheAntwort1>
             <falscheAntwort2>2. Advent</falscheAntwort2>
             <falscheAntwort3>1. Advent</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -81,7 +81,7 @@
             <falscheAntwort1>2. Advent</falscheAntwort1>
             <falscheAntwort2>1. Advent</falscheAntwort2>
             <falscheAntwort3>4. Advent</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -91,7 +91,7 @@
             <falscheAntwort1>Abendmahl</falscheAntwort1>
             <falscheAntwort2>Jesu Geburt</falscheAntwort2>
             <falscheAntwort3>Empfang der 10 Gebote</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -101,7 +101,7 @@
             <falscheAntwort1>Michael</falscheAntwort1>
             <falscheAntwort2>Raphael</falscheAntwort2>
             <falscheAntwort3>Nathanael</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -111,7 +111,7 @@
             <falscheAntwort1>Pharisäer und Zöllner</falscheAntwort1>
             <falscheAntwort2>Verlorener Sohn</falscheAntwort2>
             <falscheAntwort3>Jesu Geburt</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -121,7 +121,7 @@
             <falscheAntwort1>ein kleines Loch in der Erde</falscheAntwort1>
             <falscheAntwort2>ein Bettchen für ein Baby</falscheAntwort2>
             <falscheAntwort3>ein mit Stroh gefülltes Kissen</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -131,7 +131,7 @@
             <falscheAntwort1>Goldie</falscheAntwort1>
             <falscheAntwort2>Sternchen</falscheAntwort2>
             <falscheAntwort3>Rudolf</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -141,7 +141,7 @@
             <falscheAntwort1>Wackelohr</falscheAntwort1>
             <falscheAntwort2>Süßzahn</falscheAntwort2>
             <falscheAntwort3>Braunauge</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -151,7 +151,7 @@
             <falscheAntwort1>Donner</falscheAntwort1>
             <falscheAntwort2>Blitz</falscheAntwort2>
             <falscheAntwort3>Raubein</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -161,7 +161,7 @@
             <falscheAntwort1>7</falscheAntwort1>
             <falscheAntwort2>8</falscheAntwort2>
             <falscheAntwort3>6</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -171,7 +171,7 @@
             <falscheAntwort1>Madrid</falscheAntwort1>
             <falscheAntwort2>München</falscheAntwort2>
             <falscheAntwort3>Mailand</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -181,7 +181,7 @@
             <falscheAntwort1>24. Dezember 1209 n. Chr.</falscheAntwort1>
             <falscheAntwort2>6. Dezember 352 v. Chr.</falscheAntwort2>
             <falscheAntwort3>1. Dezember 1924 n. Chr.</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -191,7 +191,7 @@
             <falscheAntwort1>Berthold</falscheAntwort1>
             <falscheAntwort2>Gandalf</falscheAntwort2>
             <falscheAntwort3>Ludwig</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -201,7 +201,7 @@
             <falscheAntwort1>Onkel Martin</falscheAntwort1>
             <falscheAntwort2>Opa Claus</falscheAntwort2>
             <falscheAntwort3>Bruder Louis</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -211,7 +211,7 @@
             <falscheAntwort1>Merry Christmas</falscheAntwort1>
             <falscheAntwort2>Feliz Navidad</falscheAntwort2>
             <falscheAntwort3>Joyeux Noel</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -221,7 +221,7 @@
             <falscheAntwort1>Russland</falscheAntwort1>
             <falscheAntwort2>Schweden</falscheAntwort2>
             <falscheAntwort3>Griechenland</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -231,7 +231,7 @@
             <falscheAntwort1>Merry Christmas</falscheAntwort1>
             <falscheAntwort2>Buon Natale</falscheAntwort2>
             <falscheAntwort3>Hauskaa Jouluo</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -241,7 +241,7 @@
             <falscheAntwort1>Norwegen</falscheAntwort1>
             <falscheAntwort2>Polen</falscheAntwort2>
             <falscheAntwort3>Ungarn</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -251,7 +251,7 @@
             <falscheAntwort1>Spanien</falscheAntwort1>
             <falscheAntwort2>Italien</falscheAntwort2>
             <falscheAntwort3>Portugal</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -261,7 +261,7 @@
             <falscheAntwort1>Buon Natale</falscheAntwort1>
             <falscheAntwort2>Merry Christmas</falscheAntwort2>
             <falscheAntwort3>Hauskaa Joulua</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -271,7 +271,7 @@
             <falscheAntwort1>Feliz Navidad</falscheAntwort1>
             <falscheAntwort2>Buon Natale</falscheAntwort2>
             <falscheAntwort3>Joyeux Noel</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -281,7 +281,7 @@
             <falscheAntwort1>Griechenland und Belgien</falscheAntwort1>
             <falscheAntwort2>Italien und Spanien</falscheAntwort2>
             <falscheAntwort3>Österreich und Schweiz</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -291,7 +291,7 @@
             <falscheAntwort1>Feliz Navidad</falscheAntwort1>
             <falscheAntwort2>Buon Natale</falscheAntwort2>
             <falscheAntwort3>Merry Christmas</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -301,7 +301,7 @@
             <falscheAntwort1>Belgien</falscheAntwort1>
             <falscheAntwort2>Schweiz</falscheAntwort2>
             <falscheAntwort3>Holland</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -311,7 +311,7 @@
             <falscheAntwort1>Whiskey und Steaks</falscheAntwort1>
             <falscheAntwort2>Coca Cola und Hamburger</falscheAntwort2>
             <falscheAntwort3>Hafer und Heu</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -321,7 +321,7 @@
             <falscheAntwort1>Deutschland</falscheAntwort1>
             <falscheAntwort2>Italien</falscheAntwort2>
             <falscheAntwort3>Spanien</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -331,7 +331,7 @@
             <falscheAntwort1>Omilein Eis</falscheAntwort1>
             <falscheAntwort2>Mütterchen Schnee</falscheAntwort2>
             <falscheAntwort3>Onkelchen Sturm</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -341,7 +341,7 @@
             <falscheAntwort1>Peseta</falscheAntwort1>
             <falscheAntwort2>Polenta</falscheAntwort2>
             <falscheAntwort3>Piranha</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -351,7 +351,7 @@
             <falscheAntwort1>in den Garagen</falscheAntwort1>
             <falscheAntwort2>hinter den Schränken</falscheAntwort2>
             <falscheAntwort3>auf den Dächern</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -361,7 +361,7 @@
             <falscheAntwort1>11. November</falscheAntwort1>
             <falscheAntwort2>1. Dezember</falscheAntwort2>
             <falscheAntwort3>26. Dezember</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -371,7 +371,7 @@
             <falscheAntwort1>Schweiz</falscheAntwort1>
             <falscheAntwort2>Österreich</falscheAntwort2>
             <falscheAntwort3>Belgien</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -381,7 +381,7 @@
             <falscheAntwort1>Kroatien</falscheAntwort1>
             <falscheAntwort2>Kanada</falscheAntwort2>
             <falscheAntwort3>Kolumbien</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -391,7 +391,7 @@
             <falscheAntwort1>ein Huhn</falscheAntwort1>
             <falscheAntwort2>ein Schwein</falscheAntwort2>
             <falscheAntwort3>ein Schaf</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -401,7 +401,7 @@
             <falscheAntwort1>eine Perle</falscheAntwort1>
             <falscheAntwort2>ein Silberring</falscheAntwort2>
             <falscheAntwort3>eine Olive</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -411,7 +411,7 @@
             <falscheAntwort1>Indien</falscheAntwort1>
             <falscheAntwort2>Portugal</falscheAntwort2>
             <falscheAntwort3>Dänemark</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -421,7 +421,7 @@
             <falscheAntwort1>Spanien</falscheAntwort1>
             <falscheAntwort2>Griechenland</falscheAntwort2>
             <falscheAntwort3>Deutschland</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -431,7 +431,7 @@
             <falscheAntwort1>einen Teller Pudding</falscheAntwort1>
             <falscheAntwort2>eine Schale Nüsse</falscheAntwort2>
             <falscheAntwort3>eine Tasse Milch</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -441,7 +441,7 @@
             <falscheAntwort1>Ghana</falscheAntwort1>
             <falscheAntwort2>Schweiz</falscheAntwort2>
             <falscheAntwort3>Deutschland</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -451,7 +451,7 @@
             <falscheAntwort1>Taschen</falscheAntwort1>
             <falscheAntwort2>Schuhe</falscheAntwort2>
             <falscheAntwort3>Jacken</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -461,7 +461,7 @@
             <falscheAntwort1>ihr Sparschwein</falscheAntwort1>
             <falscheAntwort2>ihr Zeugnis</falscheAntwort2>
             <falscheAntwort3>ein gemaltes Weihnachtsbild</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -471,7 +471,7 @@
             <falscheAntwort1>Neuseeland</falscheAntwort1>
             <falscheAntwort2>Dänemark</falscheAntwort2>
             <falscheAntwort3>Deutschland</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -481,7 +481,7 @@
             <falscheAntwort1>eine Tafel Schokolade</falscheAntwort1>
             <falscheAntwort2>ein gutes Zeugnis</falscheAntwort2>
             <falscheAntwort3>eine CD - ROM</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -491,7 +491,7 @@
             <falscheAntwort1>Italien</falscheAntwort1>
             <falscheAntwort2>USA</falscheAntwort2>
             <falscheAntwort3>Tunesien</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -501,7 +501,7 @@
             <falscheAntwort1>damit man zweimal vom Weihnachtsessen nehmen kann</falscheAntwort1>
             <falscheAntwort2>weil der Pfarrer jede Familie im Dorf besucht</falscheAntwort2>
             <falscheAntwort3>falls einmal ein Gedeck zerbricht</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -511,7 +511,7 @@
             <falscheAntwort1>Kanada</falscheAntwort1>
             <falscheAntwort2>Schweden</falscheAntwort2>
             <falscheAntwort3>Österreich</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -521,7 +521,7 @@
             <falscheAntwort1>in der Kirche wird getanzt</falscheAntwort1>
             <falscheAntwort2>auf dem Platz hinter der Kirche werden die Geschenke versteckt</falscheAntwort2>
             <falscheAntwort3>um die Kirche herum wird ein Volkslauf veranstaltet</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -531,7 +531,7 @@
             <falscheAntwort1>24. Dezember</falscheAntwort1>
             <falscheAntwort2>6. Dezember</falscheAntwort2>
             <falscheAntwort3>31. Dezember</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -541,7 +541,7 @@
             <falscheAntwort1>Osterhase</falscheAntwort1>
             <falscheAntwort2>La Mamma (die gute Mutter)</falscheAntwort2>
             <falscheAntwort3>La Potter (der gute Zauberer)</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -551,7 +551,7 @@
             <falscheAntwort1>16. Januar</falscheAntwort1>
             <falscheAntwort2>1. Januar</falscheAntwort2>
             <falscheAntwort3>26. Dezember</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -561,7 +561,7 @@
             <falscheAntwort1>seit Anfang des 20. Jahrhunderts</falscheAntwort1>
             <falscheAntwort2>seit Ende des 11. Jahrhunderts</falscheAntwort2>
             <falscheAntwort3>seit Mitte des 5. Jahrhunderts</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -571,7 +571,7 @@
             <falscheAntwort1>Sonnenkönige</falscheAntwort1>
             <falscheAntwort2>Mondsänger</falscheAntwort2>
             <falscheAntwort3>Saturnpfeifer</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -581,7 +581,7 @@
             <falscheAntwort1>24. Dezember</falscheAntwort1>
             <falscheAntwort2>6. Dezember</falscheAntwort2>
             <falscheAntwort3>3. März</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -591,7 +591,7 @@
             <falscheAntwort1>Zweigrafentag</falscheAntwort1>
             <falscheAntwort2>Vierkaisertag</falscheAntwort2>
             <falscheAntwort3>Einbarontag</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -601,7 +601,7 @@
             <falscheAntwort1>6. Dezember</falscheAntwort1>
             <falscheAntwort2>1. Dezember</falscheAntwort2>
             <falscheAntwort3>24. Dezember</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -611,7 +611,7 @@
             <falscheAntwort1>1899</falscheAntwort1>
             <falscheAntwort2>1302</falscheAntwort2>
             <falscheAntwort3>1958</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -621,7 +621,7 @@
             <falscheAntwort1>Georg Friedrich Händel</falscheAntwort1>
             <falscheAntwort2>Wolfgang Amadeus Mozart</falscheAntwort2>
             <falscheAntwort3>Franz Schubert</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -631,7 +631,7 @@
             <falscheAntwort1>Johannes Tauler</falscheAntwort1>
             <falscheAntwort2>Joseph Mohr</falscheAntwort2>
             <falscheAntwort3>Christoph Schmid</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -641,7 +641,7 @@
             <falscheAntwort1>auf ein altes Minnelied aus Frankreich</falscheAntwort1>
             <falscheAntwort2>auf ein altes Kirchenlied aus Judäa</falscheAntwort2>
             <falscheAntwort3>auf ein altes Lied der Kreuzritter</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -651,7 +651,7 @@
             <falscheAntwort1>Santa Claus</falscheAntwort1>
             <falscheAntwort2>Sinterklaas</falscheAntwort2>
             <falscheAntwort3>Knecht Ruprecht</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -661,7 +661,7 @@
             <falscheAntwort1>in Kanada</falscheAntwort1>
             <falscheAntwort2>in Frankreich</falscheAntwort2>
             <falscheAntwort3>in Australien</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -671,7 +671,7 @@
             <falscheAntwort1>Rentiere</falscheAntwort1>
             <falscheAntwort2>Engel</falscheAntwort2>
             <falscheAntwort3>Riesen</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -681,7 +681,7 @@
             <falscheAntwort1>Kaiser Wilhelm II.</falscheAntwort1>
             <falscheAntwort2>Kaiser Cäsar</falscheAntwort2>
             <falscheAntwort3>Kaiser Nero</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -691,7 +691,7 @@
             <falscheAntwort1>Die Blumenhändler, damit ihr Umsatz im Dezember steigt.</falscheAntwort1>
             <falscheAntwort2>Bischof von Advent</falscheAntwort2>
             <falscheAntwort3>Kardinal von und zu Kranzenius der III.</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -701,7 +701,7 @@
             <falscheAntwort1>Kostümumzug</falscheAntwort1>
             <falscheAntwort2>Karnevalsumzug</falscheAntwort2>
             <falscheAntwort3>Friedensumzug</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -711,7 +711,7 @@
             <falscheAntwort1>Ihr Kinderlein kommet</falscheAntwort1>
             <falscheAntwort2>O Tannenbaum</falscheAntwort2>
             <falscheAntwort3>Es ist ein Ros entsprungen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -721,7 +721,7 @@
             <falscheAntwort1>Vom Himmel hoch, da komm ich her</falscheAntwort1>
             <falscheAntwort2>O du fröhliche</falscheAntwort2>
             <falscheAntwort3>O Tannenbaum</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -731,7 +731,7 @@
             <falscheAntwort1>Ja, er wurde extra für die Kinder in Bayern erbaut.</falscheAntwort1>
             <falscheAntwort2>nein</falscheAntwort2>
             <falscheAntwort3>Den Ort gibt es nur für den Poststempel auf Weihnachtskarten.</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -741,7 +741,7 @@
             <falscheAntwort1>Halloween - Day</falscheAntwort1>
             <falscheAntwort2>Thanksgiving - Day</falscheAntwort2>
             <falscheAntwort3>Domino - Day</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -751,7 +751,7 @@
             <falscheAntwort1>Wolfgang Amadeus Mozart, 1719 - 1789</falscheAntwort1>
             <falscheAntwort2>Christoph Kolumbus, 1451 - 1506</falscheAntwort2>
             <falscheAntwort3>Napoleon, 1769 - 1821</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -761,7 +761,7 @@
             <falscheAntwort1>24. Dezember</falscheAntwort1>
             <falscheAntwort2>6. Dezember</falscheAntwort2>
             <falscheAntwort3>31. Dezember</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -771,7 +771,7 @@
             <falscheAntwort1>Tag der Rentiere</falscheAntwort1>
             <falscheAntwort2>Tag der Geschenke</falscheAntwort2>
             <falscheAntwort3>Tag der Vorfreude</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -781,7 +781,7 @@
             <falscheAntwort1>Wildschwein</falscheAntwort1>
             <falscheAntwort2>Karpfen</falscheAntwort2>
             <falscheAntwort3>Rindersteaks</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -791,7 +791,7 @@
             <falscheAntwort1>mit Kerzen bestückte Kakteen</falscheAntwort1>
             <falscheAntwort2>Weihnachtsgebäck aus Mais</falscheAntwort2>
             <falscheAntwort3>die Engel in der Weihnachtsgeschichte</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -801,7 +801,7 @@
             <falscheAntwort1>Mittsommerfest</falscheAntwort1>
             <falscheAntwort2>Jubelfest</falscheAntwort2>
             <falscheAntwort3>Christfest</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -811,7 +811,7 @@
             <falscheAntwort1>am 1. Dezember</falscheAntwort1>
             <falscheAntwort2>am 6. Dezember</falscheAntwort2>
             <falscheAntwort3>am 24. Dezember</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -821,7 +821,7 @@
             <falscheAntwort1>Knecht Ruprecht</falscheAntwort1>
             <falscheAntwort2>Santa Claus</falscheAntwort2>
             <falscheAntwort3>Pére Noel</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -831,7 +831,7 @@
             <falscheAntwort1>am 6. Dezember</falscheAntwort1>
             <falscheAntwort2>am 24. Dezember</falscheAntwort2>
             <falscheAntwort3>in der Nacht zum 6. Januar</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -841,7 +841,7 @@
             <falscheAntwort1>Das weiß man bis heute nicht.</falscheAntwort1>
             <falscheAntwort2>Das Geburtsdatum ist genau der Beginn der Zeitrechnung, nämlich 0.</falscheAntwort2>
             <falscheAntwort3>Jesus Christus wurde schon 120 v. Chr. geboren.</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -851,7 +851,7 @@
             <falscheAntwort1>Es kamen aber die Engel des Herrn herauf</falscheAntwort1>
             <falscheAntwort2>Am Anfang schuf Gott Himmel und Erde</falscheAntwort2>
             <falscheAntwort3>Im Anfang war das Wort und das Wort war bei Gott</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -861,7 +861,7 @@
             <falscheAntwort1>Sie haben ihre christlichen Wurzeln im Paradies, als Eva dem Adam den Apfel schenkte.</falscheAntwort1>
             <falscheAntwort2>Sie haben ihre christlichen Wurzeln als Vorläufer des Winterschlussverkaufes.</falscheAntwort2>
             <falscheAntwort3>Sie haben ihre christlichen Wurzeln in dem Bibelwort „Geben ist seliger denn Nehmen“</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -871,7 +871,7 @@
             <falscheAntwort1>6. Dezember</falscheAntwort1>
             <falscheAntwort2>14. Februar</falscheAntwort2>
             <falscheAntwort3>22. März</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -881,7 +881,7 @@
             <falscheAntwort1>24.12.</falscheAntwort1>
             <falscheAntwort2>6.12.</falscheAntwort2>
             <falscheAntwort3>31.12.</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -891,7 +891,7 @@
             <falscheAntwort1>138 n. Chr.</falscheAntwort1>
             <falscheAntwort2>318 n. Chr.</falscheAntwort2>
             <falscheAntwort3>1888 n. Chr.</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -901,7 +901,7 @@
             <falscheAntwort1>im 15. Jahrhundert, weil da Amerika bereits entdeckt worden war</falscheAntwort1>
             <falscheAntwort2>nach der Schlacht im Teutoburger Wald</falscheAntwort2>
             <falscheAntwort3>im 2. Jahrhundert, weil da die Germanen erstmals von der Geburt Jesu hörten</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -911,7 +911,7 @@
             <falscheAntwort1>Das Weihnachtsfest ohne Geschenke feiern zu lassen.</falscheAntwort1>
             <falscheAntwort2>Das Weihnachtsfest ganz abzuschaffen.</falscheAntwort2>
             <falscheAntwort3>Das Weihnachtsfest nur alle vier Jahre feiern zu lassen.</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -921,7 +921,7 @@
             <falscheAntwort1>Der 25. Dezember war schon immer der kälteste Tag des Jahres.</falscheAntwort1>
             <falscheAntwort2>Am 25. Dezember endete in vielen Kulturen das Jahr.</falscheAntwort2>
             <falscheAntwort3>Am 25. Dezember wurde in vielen Kulturen ein neuer König gewählt.</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -931,7 +931,7 @@
             <falscheAntwort1>Der 24. Dezember wurde bei den Germanen schon immer „geweihte Nacht“ genannt.</falscheAntwort1>
             <falscheAntwort2>Weil oft Schnee lag, hieß es früher „weiße Nacht“.</falscheAntwort2>
             <falscheAntwort3>Die Franzosen tranken um den 24. Dezember herum gerne Wein.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -941,7 +941,7 @@
             <falscheAntwort1>weil es ein günstiger Termin ist</falscheAntwort1>
             <falscheAntwort2>weil es die Kirche so festgelegt hat</falscheAntwort2>
             <falscheAntwort3>weil es dann nur noch 18 Tage bis Weihnachten sind</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -951,7 +951,7 @@
             <falscheAntwort1>während der Reformation</falscheAntwort1>
             <falscheAntwort2>im 2. Jahrhundert</falscheAntwort2>
             <falscheAntwort3>in der Urkirche</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -961,7 +961,7 @@
             <falscheAntwort1>Bayern</falscheAntwort1>
             <falscheAntwort2>Schwarzwald</falscheAntwort2>
             <falscheAntwort3>Wiehengebirge</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -971,7 +971,7 @@
             <falscheAntwort1>Frankreich</falscheAntwort1>
             <falscheAntwort2>Schweiz</falscheAntwort2>
             <falscheAntwort3>USA</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -981,7 +981,7 @@
             <falscheAntwort1>am Nikolaustag</falscheAntwort1>
             <falscheAntwort2>Heilig Abend</falscheAntwort2>
             <falscheAntwort3>am 1. Dezember</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -991,7 +991,7 @@
             <falscheAntwort1>weil sie die Elemente verkörpern</falscheAntwort1>
             <falscheAntwort2>weil es Haustiere sind</falscheAntwort2>
             <falscheAntwort3>weil sie leicht zu fangen sind</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1001,7 +1001,7 @@
             <falscheAntwort1>seit Franz von Assisi (1200)</falscheAntwort1>
             <falscheAntwort2>seit Karl dem Großen (um 800)</falscheAntwort2>
             <falscheAntwort3>seit dem 3. Jahrhundert</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1011,7 +1011,7 @@
             <falscheAntwort1>an die Krippe</falscheAntwort1>
             <falscheAntwort2>ins Fenster</falscheAntwort2>
             <falscheAntwort3>neben den Weihnachtsbaum</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1021,7 +1021,7 @@
             <falscheAntwort1>in den Alpen</falscheAntwort1>
             <falscheAntwort2>am Südpol</falscheAntwort2>
             <falscheAntwort3>auf Island</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1031,7 +1031,7 @@
             <falscheAntwort1>Es sind heilige Tiere.</falscheAntwort1>
             <falscheAntwort2>Zeichen der Armut Jesu</falscheAntwort2>
             <falscheAntwort3>Ochse und Esel gingen mit den Hirten und waren immer zuerst da.</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1041,7 +1041,7 @@
             <falscheAntwort1>italienisch für „Spezialität“</falscheAntwort1>
             <falscheAntwort2>Speckkuchen</falscheAntwort2>
             <falscheAntwort3>Weihnachtskuchen für Reiche</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1051,7 +1051,7 @@
             <falscheAntwort1>ein traditionelles Weihnachtsgeschenk in China</falscheAntwort1>
             <falscheAntwort2>ein Liederbuch</falscheAntwort2>
             <falscheAntwort3>eine Gebäckspezialität aus Norwegen</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1061,7 +1061,7 @@
             <falscheAntwort1>im Markusevangelium</falscheAntwort1>
             <falscheAntwort2>im 1. Buch Mose</falscheAntwort2>
             <falscheAntwort3>im Matthäusevangelium</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1071,7 +1071,7 @@
             <falscheAntwort1>Äthiopien</falscheAntwort1>
             <falscheAntwort2>Russland</falscheAntwort2>
             <falscheAntwort3>Island</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1081,7 +1081,7 @@
             <falscheAntwort1>Bonifatius-Mission (740)</falscheAntwort1>
             <falscheAntwort2>Romantik (um 1830)</falscheAntwort2>
             <falscheAntwort3>seit der Entdeckung Amerikas (um 1490)</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1091,7 +1091,7 @@
             <falscheAntwort1>Weihnachtsplätzchen</falscheAntwort1>
             <falscheAntwort2>Schokoladennikoläuse</falscheAntwort2>
             <falscheAntwort3>Marzipan</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1101,7 +1101,7 @@
             <falscheAntwort1>Kerzen - Manufaktur - Braunschweig</falscheAntwort1>
             <falscheAntwort2>das hebräische Wort für Weihnachten</falscheAntwort2>
             <falscheAntwort3>Kinder mögen Bethlehem</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1111,7 +1111,7 @@
             <falscheAntwort1>Deutschland</falscheAntwort1>
             <falscheAntwort2>Russland</falscheAntwort2>
             <falscheAntwort3>Belgien</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1121,7 +1121,7 @@
             <falscheAntwort1>Inmitten der Nacht</falscheAntwort1>
             <falscheAntwort2>Süßer die Glocken nie klingen</falscheAntwort2>
             <falscheAntwort3>Ihr Kinderlein kommet</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1131,7 +1131,7 @@
             <falscheAntwort1>Afrika</falscheAntwort1>
             <falscheAntwort2>Weihnachtsinseln</falscheAntwort2>
             <falscheAntwort3>Australien</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1141,7 +1141,7 @@
             <falscheAntwort1>Deutschland und Belgien</falscheAntwort1>
             <falscheAntwort2>Italien und Frankreich</falscheAntwort2>
             <falscheAntwort3>Schweden und Deutschland</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1151,7 +1151,7 @@
             <falscheAntwort1>Weihnachtsgebäck in der Schweiz</falscheAntwort1>
             <falscheAntwort2>Brot, das der Nikolaus gegessen hat</falscheAntwort2>
             <falscheAntwort3>Österreichische Spezialität</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1161,7 +1161,7 @@
             <falscheAntwort1>Esel</falscheAntwort1>
             <falscheAntwort2>Schlittenhunde</falscheAntwort2>
             <falscheAntwort3>Pferde</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1171,7 +1171,7 @@
             <falscheAntwort1>996 nach Christus</falscheAntwort1>
             <falscheAntwort2>im Neuen Testament</falscheAntwort2>
             <falscheAntwort3>87 nach Christus in Bethlehem</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1181,7 +1181,7 @@
             <falscheAntwort1>Moritz Arndt</falscheAntwort1>
             <falscheAntwort2>Brüder Grimm</falscheAntwort2>
             <falscheAntwort3>Ludwig Bechstein</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1191,7 +1191,7 @@
             <falscheAntwort1>24. Dezember</falscheAntwort1>
             <falscheAntwort2>6. Dezember</falscheAntwort2>
             <falscheAntwort3>31. Dezember</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1201,7 +1201,7 @@
             <falscheAntwort1>Nikolaus</falscheAntwort1>
             <falscheAntwort2>Ostern</falscheAntwort2>
             <falscheAntwort3>Tag der Rentiere</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1211,7 +1211,7 @@
             <falscheAntwort1>Nikolaus</falscheAntwort1>
             <falscheAntwort2>Sinter Klaas</falscheAntwort2>
             <falscheAntwort3>Santa Claus</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1221,7 +1221,7 @@
             <falscheAntwort1>England</falscheAntwort1>
             <falscheAntwort2>Finnland</falscheAntwort2>
             <falscheAntwort3>Grönland</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1231,7 +1231,7 @@
             <falscheAntwort1>1643</falscheAntwort1>
             <falscheAntwort2>1743</falscheAntwort2>
             <falscheAntwort3>1943</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1241,7 +1241,7 @@
             <falscheAntwort1>Italien</falscheAntwort1>
             <falscheAntwort2>Deutschland</falscheAntwort2>
             <falscheAntwort3>Frankreich</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1251,7 +1251,7 @@
             <falscheAntwort1>Central Park</falscheAntwort1>
             <falscheAntwort2>Fifth Avenue</falscheAntwort2>
             <falscheAntwort3>East River</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1261,7 +1261,7 @@
             <falscheAntwort1>Deutschland</falscheAntwort1>
             <falscheAntwort2>Schweiz</falscheAntwort2>
             <falscheAntwort3>Ungarn</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1271,7 +1271,7 @@
             <falscheAntwort1>Engelbert Humperding</falscheAntwort1>
             <falscheAntwort2>Joseph und Maria</falscheAntwort2>
             <falscheAntwort3>Paul McCartney</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1281,7 +1281,7 @@
             <falscheAntwort1>O du fröhliche</falscheAntwort1>
             <falscheAntwort2>Oh Tannenbaum</falscheAntwort2>
             <falscheAntwort3>Ihr Kinderlein kommet</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1291,7 +1291,7 @@
             <falscheAntwort1>Am zweiten Sonntag vor dem Heiligen Abend</falscheAntwort1>
             <falscheAntwort2>Am dritten Sonntag vor dem Heiligen Abend</falscheAntwort2>
             <falscheAntwort3>Am ersten Sonntag vor dem Heiligen Abend</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1301,7 +1301,7 @@
             <falscheAntwort1>ein Blitz</falscheAntwort1>
             <falscheAntwort2>der Leuchtturm am Berg</falscheAntwort2>
             <falscheAntwort3>ein Feuerwerk am Himmel</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -1311,7 +1311,7 @@
             <falscheAntwort1>Königin Elisabeths Onkel Detlef</falscheAntwort1>
             <falscheAntwort2>der Erfinder Albert Tänzer</falscheAntwort2>
             <falscheAntwort3>der Gärtner Johann Gutenberg</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1321,7 +1321,7 @@
             <falscheAntwort1>Fabian</falscheAntwort1>
             <falscheAntwort2>Christian</falscheAntwort2>
             <falscheAntwort3>Thomas</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1331,7 +1331,7 @@
             <falscheAntwort1>Freude</falscheAntwort1>
             <falscheAntwort2>Abfahrt</falscheAntwort2>
             <falscheAntwort3>Hoffnung</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1341,7 +1341,7 @@
             <falscheAntwort1>Seefahrer und Bergsteiger</falscheAntwort1>
             <falscheAntwort2>Kinder und Eltern</falscheAntwort2>
             <falscheAntwort3>Bäcker und Metzger</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1351,7 +1351,7 @@
             <falscheAntwort1>Spanien</falscheAntwort1>
             <falscheAntwort2>Tunesien</falscheAntwort2>
             <falscheAntwort3>Israel</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1361,7 +1361,7 @@
             <falscheAntwort1>Meriam</falscheAntwort1>
             <falscheAntwort2>Eva</falscheAntwort2>
             <falscheAntwort3>Magda</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1371,7 +1371,7 @@
             <falscheAntwort1>Metzger</falscheAntwort1>
             <falscheAntwort2>Bäcker</falscheAntwort2>
             <falscheAntwort3>Pilot</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1381,7 +1381,7 @@
             <falscheAntwort1>Balthasar</falscheAntwort1>
             <falscheAntwort2>Melchior</falscheAntwort2>
             <falscheAntwort3>Caspar</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1391,7 +1391,7 @@
             <falscheAntwort1>Balthasar, Mehmet und Caspar</falscheAntwort1>
             <falscheAntwort2>Bruno, Melchior und Caspar</falscheAntwort2>
             <falscheAntwort3>Balthasar, Melchior und Calvin</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1401,7 +1401,7 @@
             <falscheAntwort1>mit Hilfe eines Karawanenführers</falscheAntwort1>
             <falscheAntwort2>mit Hilfe einer Landkarte</falscheAntwort2>
             <falscheAntwort3>mit Hilfe eines Kompasses</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1411,7 +1411,7 @@
             <falscheAntwort1>Belgien</falscheAntwort1>
             <falscheAntwort2>Indien</falscheAntwort2>
             <falscheAntwort3>Ägypten</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1421,7 +1421,7 @@
             <falscheAntwort1>Golgatha</falscheAntwort1>
             <falscheAntwort2>Nazareth</falscheAntwort2>
             <falscheAntwort3>Kairo</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1431,7 +1431,7 @@
             <falscheAntwort1>Oh du grüne Kiefer</falscheAntwort1>
             <falscheAntwort2>Oh du schöne Lärche</falscheAntwort2>
             <falscheAntwort3>Oh Fichte, oh Fichte</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -1441,7 +1441,7 @@
             <falscheAntwort1>Sie kamen aus dem Nachtland.</falscheAntwort1>
             <falscheAntwort2>Sie kamen aus dem Abendland.</falscheAntwort2>
             <falscheAntwort3>Sie kamen aus dem Mittagland.</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1451,7 +1451,7 @@
             <falscheAntwort1>Arzt</falscheAntwort1>
             <falscheAntwort2>Bäcker</falscheAntwort2>
             <falscheAntwort3>Maurer</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1461,7 +1461,7 @@
             <falscheAntwort1>Amos</falscheAntwort1>
             <falscheAntwort2>Moses</falscheAntwort2>
             <falscheAntwort3>Elisa</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1471,7 +1471,7 @@
             <falscheAntwort1>Rebekka und Jakob</falscheAntwort1>
             <falscheAntwort2>Marta und Josua</falscheAntwort2>
             <falscheAntwort3>Adam und Eva</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1481,7 +1481,7 @@
             <falscheAntwort1>Josef musste aus geschäftlichen Gründen nach Bethlehem.</falscheAntwort1>
             <falscheAntwort2>Sie wollten Ihre Eltern besuchen.</falscheAntwort2>
             <falscheAntwort3>wegen einer verschobenen Urlaubsreise</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1491,7 +1491,7 @@
             <falscheAntwort1>365</falscheAntwort1>
             <falscheAntwort2>12</falscheAntwort2>
             <falscheAntwort3>52</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>3</schwierigkeitMax>
         </frage>
@@ -1501,7 +1501,7 @@
             <falscheAntwort1>Puderzucker</falscheAntwort1>
             <falscheAntwort2>Zimt</falscheAntwort2>
             <falscheAntwort3>Eiweiß</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1511,7 +1511,7 @@
             <falscheAntwort1>das Fest der Geschenke</falscheAntwort1>
             <falscheAntwort2>das Fest der Familie</falscheAntwort2>
             <falscheAntwort3>das Fest der Glückseligkeit</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -1521,7 +1521,7 @@
             <falscheAntwort1>Weihnachtskugeln</falscheAntwort1>
             <falscheAntwort2>Strohsterne</falscheAntwort2>
             <falscheAntwort3>Kerzen</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1531,7 +1531,7 @@
             <falscheAntwort1>in ein Kinderbett</falscheAntwort1>
             <falscheAntwort2>in einen Korb</falscheAntwort2>
             <falscheAntwort3>in einen Schlafsack</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -1541,7 +1541,7 @@
             <falscheAntwort1>die rechte Hand Gottes</falscheAntwort1>
             <falscheAntwort2>der Fromme</falscheAntwort2>
             <falscheAntwort3>der Heilige</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1551,7 +1551,7 @@
             <falscheAntwort1>das Weihnachtsessen (bei uns gibt es immer Gans)</falscheAntwort1>
             <falscheAntwort2>natürlich die Geschenke</falscheAntwort2>
             <falscheAntwort3>der Weihnachtsbaum</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -1561,7 +1561,7 @@
             <falscheAntwort1>mit einem fliegenden Teppich</falscheAntwort1>
             <falscheAntwort2>mit einem Turbo-Rennschlitten</falscheAntwort2>
             <falscheAntwort3>mit Inlinern</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -1571,7 +1571,7 @@
             <falscheAntwort1>Damit man sie schnell anziehen kann, wenn der Nikolaus kommt.</falscheAntwort1>
             <falscheAntwort2>Damit die Schuhe mal wieder geputzt werden.</falscheAntwort2>
             <falscheAntwort3>Damit der Nikolaus drüberstolpert und man ihn sehen kann.</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -1581,7 +1581,7 @@
             <falscheAntwort1>Sie blieben bei Jesus.</falscheAntwort1>
             <falscheAntwort2>Sie gingen zu Herodes zurück und berichteten ihm.</falscheAntwort2>
             <falscheAntwort3>Sie bauten für Maria und Josef ein Haus.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1591,7 +1591,7 @@
             <falscheAntwort1>Pilatus</falscheAntwort1>
             <falscheAntwort2>Augustus</falscheAntwort2>
             <falscheAntwort3>Nero</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1601,7 +1601,7 @@
             <falscheAntwort1>Tyhrus</falscheAntwort1>
             <falscheAntwort2>Bethlehem</falscheAntwort2>
             <falscheAntwort3>Babylon</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1611,7 +1611,7 @@
             <falscheAntwort1>Weihrauch</falscheAntwort1>
             <falscheAntwort2>Gold</falscheAntwort2>
             <falscheAntwort3>Myrrhe</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -1621,7 +1621,7 @@
             <falscheAntwort1>Geld, Spielzeug und Kuchen</falscheAntwort1>
             <falscheAntwort2>Schinken, Wurst und Brot</falscheAntwort2>
             <falscheAntwort3>Decken, Kerzen und einen Kinderwagen</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>3</schwierigkeitMax>
         </frage>
@@ -1631,7 +1631,7 @@
             <falscheAntwort1>Gott ist nahegekommen</falscheAntwort1>
             <falscheAntwort2>Frohe Botschaft</falscheAntwort2>
             <falscheAntwort3>Himmelssohn</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1641,7 +1641,7 @@
             <falscheAntwort1>Sankt Nikolaus</falscheAntwort1>
             <falscheAntwort2>Bigfoot</falscheAntwort2>
             <falscheAntwort3>Papa Noel</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1651,7 +1651,7 @@
             <falscheAntwort1>Er wurde im Mittelalter von den Kirchen erfunden.</falscheAntwort1>
             <falscheAntwort2>Er gründet sich auf eine norwegische Sage.</falscheAntwort2>
             <falscheAntwort3>Es war eine Idee eines berühmten Fotografen, der gerne rot-weiße Fotos machte.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1661,7 +1661,7 @@
             <falscheAntwort1>25. Dezember</falscheAntwort1>
             <falscheAntwort2>23. Dezember</falscheAntwort2>
             <falscheAntwort3>26. Dezember</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>2</schwierigkeitMax>
         </frage>
@@ -1671,7 +1671,7 @@
             <falscheAntwort1>Januar</falscheAntwort1>
             <falscheAntwort2>November</falscheAntwort2>
             <falscheAntwort3>Februar</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>2</schwierigkeitMax>
         </frage>
@@ -1681,7 +1681,7 @@
             <falscheAntwort1>Knecht Ruprecht</falscheAntwort1>
             <falscheAntwort2>Santa Claus</falscheAntwort2>
             <falscheAntwort3>Pére Noel</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1691,7 +1691,7 @@
             <falscheAntwort1>Obst</falscheAntwort1>
             <falscheAntwort2>Fisch</falscheAntwort2>
             <falscheAntwort3>Gemüse</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1701,7 +1701,7 @@
             <falscheAntwort1>am Abend des 14. Dezembers</falscheAntwort1>
             <falscheAntwort2>am Abend des 1. Dezembers</falscheAntwort2>
             <falscheAntwort3>am Abend des 25. Dezembers</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1711,7 +1711,7 @@
             <falscheAntwort1>hin</falscheAntwort1>
             <falscheAntwort2>weg</falscheAntwort2>
             <falscheAntwort3>mit</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>2</schwierigkeitMax>
         </frage>
@@ -1721,7 +1721,7 @@
             <falscheAntwort1>heiter</falscheAntwort1>
             <falscheAntwort2>lustig</falscheAntwort2>
             <falscheAntwort3>albern</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>2</schwierigkeitMax>
         </frage>
@@ -1731,7 +1731,7 @@
             <falscheAntwort1>läuten</falscheAntwort1>
             <falscheAntwort2>bimmeln</falscheAntwort2>
             <falscheAntwort3>schellen</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>2</schwierigkeitMax>
         </frage>
@@ -1741,7 +1741,7 @@
             <falscheAntwort1>freut euch</falscheAntwort1>
             <falscheAntwort2>schlafet</falscheAntwort2>
             <falscheAntwort3>gehet</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -1751,7 +1751,7 @@
             <falscheAntwort1>Ihr Kinderlein kommet</falscheAntwort1>
             <falscheAntwort2>Morgen kommt der Weihnachtsmann</falscheAntwort2>
             <falscheAntwort3>Leise rieselt der Schnee</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>3</schwierigkeitMax>
         </frage>
@@ -1761,7 +1761,7 @@
             <falscheAntwort1>Stille Nacht</falscheAntwort1>
             <falscheAntwort2>O du fröhliche</falscheAntwort2>
             <falscheAntwort3>Alle Jahre wieder</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>2</schwierigkeitMax>
         </frage>
@@ -1771,7 +1771,7 @@
             <falscheAntwort1>Kaktus</falscheAntwort1>
             <falscheAntwort2>Schampus</falscheAntwort2>
             <falscheAntwort3>Fidibus</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1781,7 +1781,7 @@
             <falscheAntwort1>Diener John</falscheAntwort1>
             <falscheAntwort2>Magd Maria</falscheAntwort2>
             <falscheAntwort3>Butler James</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1791,7 +1791,7 @@
             <falscheAntwort1>zur Korrektur der Bibel</falscheAntwort1>
             <falscheAntwort2>zur Bestrafung der Sünder</falscheAntwort2>
             <falscheAntwort3>einfach nur so</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1801,7 +1801,7 @@
             <falscheAntwort1>wegen des Straßenzustandes</falscheAntwort1>
             <falscheAntwort2>wegen einer Überschwemmung</falscheAntwort2>
             <falscheAntwort3>ohne Grund</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1811,7 +1811,7 @@
             <falscheAntwort1>Agrippa</falscheAntwort1>
             <falscheAntwort2>Pilatus</falscheAntwort2>
             <falscheAntwort3>Tiberius</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1821,7 +1821,7 @@
             <falscheAntwort1>Nazareth</falscheAntwort1>
             <falscheAntwort2>Bethlehem</falscheAntwort2>
             <falscheAntwort3>Cäsarea</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1831,7 +1831,7 @@
             <falscheAntwort1>aus der Bibel</falscheAntwort1>
             <falscheAntwort2>an einem Erdbeben</falscheAntwort2>
             <falscheAntwort3>durch angestrengtes Nachdenken</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1841,7 +1841,7 @@
             <falscheAntwort1>Kardinalengel</falscheAntwort1>
             <falscheAntwort2>Schutzengel</falscheAntwort2>
             <falscheAntwort3>Oberengel</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1851,7 +1851,7 @@
             <falscheAntwort1>Lichtglanz</falscheAntwort1>
             <falscheAntwort2>Flügelwesen</falscheAntwort2>
             <falscheAntwort3>Heiliger</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1861,7 +1861,7 @@
             <falscheAntwort1>Zwischendorf</falscheAntwort1>
             <falscheAntwort2>Unterndorf</falscheAntwort2>
             <falscheAntwort3>Mitteldorf</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1871,7 +1871,7 @@
             <falscheAntwort1>als drei Könige</falscheAntwort1>
             <falscheAntwort2>als Räuber</falscheAntwort2>
             <falscheAntwort3>als drei Heilige</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1881,7 +1881,7 @@
             <falscheAntwort1>64 n. Chr.</falscheAntwort1>
             <falscheAntwort2>7 v. Chr.</falscheAntwort2>
             <falscheAntwort3>1274 n. Chr.</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1891,7 +1891,7 @@
             <falscheAntwort1>Deutschland</falscheAntwort1>
             <falscheAntwort2>Judäa</falscheAntwort2>
             <falscheAntwort3>Galiläa</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1901,7 +1901,7 @@
             <falscheAntwort1>Sie zweifelten.</falscheAntwort1>
             <falscheAntwort2>Sie wurden sehr ängstlich.</falscheAntwort2>
             <falscheAntwort3>Sie lasen in der Bibel.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1911,7 +1911,7 @@
             <falscheAntwort1>Pharisäer</falscheAntwort1>
             <falscheAntwort2>Apostel</falscheAntwort2>
             <falscheAntwort3>Drei Könige</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1921,7 +1921,7 @@
             <falscheAntwort1>Sie blieben bei den Schafen.</falscheAntwort1>
             <falscheAntwort2>Sie schliefen weiter.</falscheAntwort2>
             <falscheAntwort3>Sie taten nichts.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1931,7 +1931,7 @@
             <falscheAntwort1>Josef</falscheAntwort1>
             <falscheAntwort2>Maria</falscheAntwort2>
             <falscheAntwort3>Herodes</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1941,7 +1941,7 @@
             <falscheAntwort1>1.000 Millionen</falscheAntwort1>
             <falscheAntwort2>50 Millionen</falscheAntwort2>
             <falscheAntwort3>10 Millionen</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1951,7 +1951,7 @@
             <falscheAntwort1>50.000</falscheAntwort1>
             <falscheAntwort2>70.000</falscheAntwort2>
             <falscheAntwort3>30.000</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1961,7 +1961,7 @@
             <falscheAntwort1>Oktober</falscheAntwort1>
             <falscheAntwort2>September</falscheAntwort2>
             <falscheAntwort3>Februar</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1971,7 +1971,7 @@
             <falscheAntwort1>Weidenkätzchen</falscheAntwort1>
             <falscheAntwort2>Mistelzeig</falscheAntwort2>
             <falscheAntwort3>Tannenzweig</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1981,7 +1981,7 @@
             <falscheAntwort1>Jerusalem</falscheAntwort1>
             <falscheAntwort2>München</falscheAntwort2>
             <falscheAntwort3>Rom</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1991,7 +1991,7 @@
             <falscheAntwort1>Berlin</falscheAntwort1>
             <falscheAntwort2>München</falscheAntwort2>
             <falscheAntwort3>Hamburg</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2001,7 +2001,7 @@
             <falscheAntwort1>weil sie die Elemente verkörpern</falscheAntwort1>
             <falscheAntwort2>weil es Haustiere sind</falscheAntwort2>
             <falscheAntwort3>weil sie leicht zu fangen sind</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>

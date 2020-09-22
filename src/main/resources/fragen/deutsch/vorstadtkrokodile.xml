@@ -11,7 +11,7 @@
             <falscheAntwort1>Er hat einen Geburtsfehler.</falscheAntwort1>
             <falscheAntwort2>Er hatte einen Autounfall.</falscheAntwort2>
             <falscheAntwort3>Er hat sich im Sportunterricht verletzt.</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -21,7 +21,7 @@
             <falscheAntwort1>Peter</falscheAntwort1>
             <falscheAntwort2>Olaf</falscheAntwort2>
             <falscheAntwort3>Frank</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -31,7 +31,7 @@
             <falscheAntwort1>Ich bin jetzt Mitglied!</falscheAntwort1>
             <falscheAntwort2>Juhu! Ich bin jetzt ein Vorstadtkrokodil!</falscheAntwort2>
             <falscheAntwort3>Ich bin der König der Welt!</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -41,7 +41,7 @@
             <falscheAntwort1>Ein Rennfahrer</falscheAntwort1>
             <falscheAntwort2>Ein Einbrecher</falscheAntwort2>
             <falscheAntwort3>Ein Invalide</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -51,7 +51,7 @@
             <falscheAntwort1>Frank</falscheAntwort1>
             <falscheAntwort2>Maria</falscheAntwort2>
             <falscheAntwort3>Hannes</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -61,7 +61,7 @@
             <falscheAntwort1>Der Förster</falscheAntwort1>
             <falscheAntwort2>Frank und Rudolf</falscheAntwort2>
             <falscheAntwort3>Die italienischen Kinder</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -71,7 +71,7 @@
             <falscheAntwort1>Maria</falscheAntwort1>
             <falscheAntwort2>Olaf</falscheAntwort2>
             <falscheAntwort3>Frank</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -81,7 +81,7 @@
             <falscheAntwort1>Weil er gerne Milch trinkt</falscheAntwort1>
             <falscheAntwort2>Weil er sich für Sterne interessiert</falscheAntwort2>
             <falscheAntwort3>Weil er so blass ist</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -91,7 +91,7 @@
             <falscheAntwort1>Im Bauch</falscheAntwort1>
             <falscheAntwort2>Am Arm</falscheAntwort2>
             <falscheAntwort3>In den Fuß</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -101,7 +101,7 @@
             <falscheAntwort1>blond</falscheAntwort1>
             <falscheAntwort2>sie hat noch keine Haare</falscheAntwort2>
             <falscheAntwort3>braun</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -111,7 +111,7 @@
             <falscheAntwort1>Erich</falscheAntwort1>
             <falscheAntwort2>Ernst</falscheAntwort2>
             <falscheAntwort3>Engelbert</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -121,7 +121,7 @@
             <falscheAntwort1>Butter und Marmelade</falscheAntwort1>
             <falscheAntwort2>Wurst und Gemüse</falscheAntwort2>
             <falscheAntwort3>Spagetti und Brot</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -131,7 +131,7 @@
             <falscheAntwort1>ein Kaninchen</falscheAntwort1>
             <falscheAntwort2>ein Auto</falscheAntwort2>
             <falscheAntwort3>das gewünschte Spezialfahrrad</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -141,7 +141,7 @@
             <falscheAntwort1>auf dem Schulhof</falscheAntwort1>
             <falscheAntwort2>bei Mc Donalds</falscheAntwort2>
             <falscheAntwort3>in der alten Ziegelei</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -151,7 +151,7 @@
             <falscheAntwort1>Max von Grün</falscheAntwort1>
             <falscheAntwort2>Max Grün</falscheAntwort2>
             <falscheAntwort3>Grüner Max</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -161,7 +161,7 @@
             <falscheAntwort1>Olaf</falscheAntwort1>
             <falscheAntwort2>Hannes</falscheAntwort2>
             <falscheAntwort3>Frank</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -171,7 +171,7 @@
             <falscheAntwort1>seiner Mutter</falscheAntwort1>
             <falscheAntwort2>seiner Frau</falscheAntwort2>
             <falscheAntwort3>seiner Tochter</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -181,7 +181,7 @@
             <falscheAntwort1>übergewichtig</falscheAntwort1>
             <falscheAntwort2>blind</falscheAntwort2>
             <falscheAntwort3>er hat keine Behinderung</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -191,7 +191,7 @@
             <falscheAntwort1>Kurt</falscheAntwort1>
             <falscheAntwort2>Olaf</falscheAntwort2>
             <falscheAntwort3>Peter</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -201,7 +201,7 @@
             <falscheAntwort1>Marita</falscheAntwort1>
             <falscheAntwort2>Marie</falscheAntwort2>
             <falscheAntwort3>Marina</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -211,7 +211,7 @@
             <falscheAntwort1>Essen</falscheAntwort1>
             <falscheAntwort2>Bochum</falscheAntwort2>
             <falscheAntwort3>Duisburg</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -221,7 +221,7 @@
             <falscheAntwort1>Hannes</falscheAntwort1>
             <falscheAntwort2>Olaf</falscheAntwort2>
             <falscheAntwort3>Maria</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -231,7 +231,7 @@
             <falscheAntwort1>Karlo</falscheAntwort1>
             <falscheAntwort2>Kalle</falscheAntwort2>
             <falscheAntwort3>Carsten</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -241,7 +241,7 @@
             <falscheAntwort1>Ford Transit</falscheAntwort1>
             <falscheAntwort2>VW-Transporter</falscheAntwort2>
             <falscheAntwort3>VW-Käfer</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -251,7 +251,7 @@
             <falscheAntwort1>Maria</falscheAntwort1>
             <falscheAntwort2>Olaf</falscheAntwort2>
             <falscheAntwort3>Theo</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -261,7 +261,7 @@
             <falscheAntwort1>450 EGO</falscheAntwort1>
             <falscheAntwort2>300 CDG</falscheAntwort2>
             <falscheAntwort3>100 NKI</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -271,7 +271,7 @@
             <falscheAntwort1>Möhre</falscheAntwort1>
             <falscheAntwort2>Chili</falscheAntwort2>
             <falscheAntwort3>Mausi</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -281,7 +281,7 @@
             <falscheAntwort1>Olaf</falscheAntwort1>
             <falscheAntwort2>Maria</falscheAntwort2>
             <falscheAntwort3>Frank</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -291,7 +291,7 @@
             <falscheAntwort1>mit einem grün-weißen Mercedes</falscheAntwort1>
             <falscheAntwort2>mit einem roten VW-Bus</falscheAntwort2>
             <falscheAntwort3>mit einer Schubkarre</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -301,7 +301,7 @@
             <falscheAntwort1>die Eltern von Kurt</falscheAntwort1>
             <falscheAntwort2>der Förster</falscheAntwort2>
             <falscheAntwort3>die Invaliden</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -311,7 +311,7 @@
             <falscheAntwort1>bei Aldi an der Kasse</falscheAntwort1>
             <falscheAntwort2>bei der Polizei</falscheAntwort2>
             <falscheAntwort3>im Krankenhaus</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -321,7 +321,7 @@
             <falscheAntwort1>drei</falscheAntwort1>
             <falscheAntwort2>zwei</falscheAntwort2>
             <falscheAntwort3>keins</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -331,7 +331,7 @@
             <falscheAntwort1>Kurts Eltern lebten nicht mehr.</falscheAntwort1>
             <falscheAntwort2>Kurt war blind, nicht gelähmt.</falscheAntwort2>
             <falscheAntwort3>Kurt war 2 Jahre älter als im Buch.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -341,7 +341,7 @@
             <falscheAntwort1>Rudolf</falscheAntwort1>
             <falscheAntwort2>Peter</falscheAntwort2>
             <falscheAntwort3>Theo</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -351,7 +351,7 @@
             <falscheAntwort1>Hannes Mutter</falscheAntwort1>
             <falscheAntwort2>Olaf</falscheAntwort2>
             <falscheAntwort3>Kurt</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -361,7 +361,7 @@
             <falscheAntwort1>Fahrräder</falscheAntwort1>
             <falscheAntwort2>Autos</falscheAntwort2>
             <falscheAntwort3>LKWs</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -371,7 +371,7 @@
             <falscheAntwort1>Peter</falscheAntwort1>
             <falscheAntwort2>Olaf</falscheAntwort2>
             <falscheAntwort3>Otto</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -381,7 +381,7 @@
             <falscheAntwort1>schwarz</falscheAntwort1>
             <falscheAntwort2>weiß</falscheAntwort2>
             <falscheAntwort3>lila pink getupft</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -391,7 +391,7 @@
             <falscheAntwort1>3000 DM</falscheAntwort1>
             <falscheAntwort2>1000 DM</falscheAntwort2>
             <falscheAntwort3>500 DM</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -401,7 +401,7 @@
             <falscheAntwort1>einen eigenen Swimming-Pool</falscheAntwort1>
             <falscheAntwort2>ein Fahrrad für Kurt</falscheAntwort2>
             <falscheAntwort3>eine neue Hütte im Wald</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -411,7 +411,7 @@
             <falscheAntwort1>gelb</falscheAntwort1>
             <falscheAntwort2>grün</falscheAntwort2>
             <falscheAntwort3>blau</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -421,7 +421,7 @@
             <falscheAntwort1>im Museum</falscheAntwort1>
             <falscheAntwort2>in seinem Zimmer</falscheAntwort2>
             <falscheAntwort3>im Kindergarten</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -431,7 +431,7 @@
             <falscheAntwort1>einen Mercedes Benz</falscheAntwort1>
             <falscheAntwort2>einen BMW</falscheAntwort2>
             <falscheAntwort3>einen Ferrari</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -441,7 +441,7 @@
             <falscheAntwort1>vor zehn Tagen</falscheAntwort1>
             <falscheAntwort2>vor zwei Tagen</falscheAntwort2>
             <falscheAntwort3>vor 5 Tagen</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -451,7 +451,7 @@
             <falscheAntwort1>Kurt</falscheAntwort1>
             <falscheAntwort2>Hannes</falscheAntwort2>
             <falscheAntwort3>Maria</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -461,7 +461,7 @@
             <falscheAntwort1>10</falscheAntwort1>
             <falscheAntwort2>8</falscheAntwort2>
             <falscheAntwort3>11</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -471,7 +471,7 @@
             <falscheAntwort1>grau</falscheAntwort1>
             <falscheAntwort2>blond</falscheAntwort2>
             <falscheAntwort3>braun</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>3</schwierigkeitMax>
         </frage>
@@ -481,7 +481,7 @@
             <falscheAntwort1>am Badeteich</falscheAntwort1>
             <falscheAntwort2>auf dem Klo</falscheAntwort2>
             <falscheAntwort3>in der kleinen Schweiz</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -491,7 +491,7 @@
             <falscheAntwort1>Egon ist Kurts Bruder.</falscheAntwort1>
             <falscheAntwort2>Egon ist der coolste Junge der Stadt.</falscheAntwort2>
             <falscheAntwort3>Egon verschenkt jeden Tag Süßigkeiten.</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -501,7 +501,7 @@
             <falscheAntwort1>Kaninchen</falscheAntwort1>
             <falscheAntwort2>Affe</falscheAntwort2>
             <falscheAntwort3>Milchstraße</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -511,7 +511,7 @@
             <falscheAntwort1>Maria</falscheAntwort1>
             <falscheAntwort2>Theo</falscheAntwort2>
             <falscheAntwort3>Olaf</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -521,7 +521,7 @@
             <falscheAntwort1>eine Mülldeponie</falscheAntwort1>
             <falscheAntwort2>eine Schule</falscheAntwort2>
             <falscheAntwort3>ein Krankenhaus</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -531,7 +531,7 @@
             <falscheAntwort1>Privateigentum! Betreten verboten.</falscheAntwort1>
             <falscheAntwort2>Geschlossen wegen Krankheit!</falscheAntwort2>
             <falscheAntwort3>Dampft ab!</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -541,7 +541,7 @@
             <falscheAntwort1>vier</falscheAntwort1>
             <falscheAntwort2>zwei</falscheAntwort2>
             <falscheAntwort3>eins</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -551,7 +551,7 @@
             <falscheAntwort1>eine Kette</falscheAntwort1>
             <falscheAntwort2>seine Socken</falscheAntwort2>
             <falscheAntwort3>seine Hose</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -561,7 +561,7 @@
             <falscheAntwort1>Schützenverein</falscheAntwort1>
             <falscheAntwort2>Kegelverein</falscheAntwort2>
             <falscheAntwort3>Turnverein</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -571,7 +571,7 @@
             <falscheAntwort1>Egon und seine Freunde</falscheAntwort1>
             <falscheAntwort2>Förster</falscheAntwort2>
             <falscheAntwort3>alle Eltern</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -581,7 +581,7 @@
             <falscheAntwort1>das Haus</falscheAntwort1>
             <falscheAntwort2>Egons Stereoanlage</falscheAntwort2>
             <falscheAntwort3>nichts</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -591,7 +591,7 @@
             <falscheAntwort1>Maria</falscheAntwort1>
             <falscheAntwort2>Hannes</falscheAntwort2>
             <falscheAntwort3>Olaf</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -601,7 +601,7 @@
             <falscheAntwort1>wegen einer Racheaktion an Egon</falscheAntwort1>
             <falscheAntwort2>wegen der neuen Hütte</falscheAntwort2>
             <falscheAntwort3>wegen der Aufnahme von Invaliden in die Bande</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -611,7 +611,7 @@
             <falscheAntwort1>in der ersten Ferienwoche</falscheAntwort1>
             <falscheAntwort2>am dritten Ferientag</falscheAntwort2>
             <falscheAntwort3>in der ersten Woche nach den Ferien</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -621,7 +621,7 @@
             <falscheAntwort1>weil sie freiwillig ein Geständnis abgelegt haben</falscheAntwort1>
             <falscheAntwort2>weil sie mit einer Videokamera gefilmt wurden</falscheAntwort2>
             <falscheAntwort3>weil sie von der Polizei auf frischer Tat erwischt wurden</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -631,7 +631,7 @@
             <falscheAntwort1>weil sie von Egon bedroht wurden</falscheAntwort1>
             <falscheAntwort2>weil sie sie nicht wussten</falscheAntwort2>
             <falscheAntwort3>weil sie sie vergessen hatten</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -641,7 +641,7 @@
             <falscheAntwort1>in der Hofmannsegge</falscheAntwort1>
             <falscheAntwort2>in der Silberstraße</falscheAntwort2>
             <falscheAntwort3>in der Ruthstraße</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -651,7 +651,7 @@
             <falscheAntwort1>Spatzenhirn</falscheAntwort1>
             <falscheAntwort2>Diebeskönig</falscheAntwort2>
             <falscheAntwort3>King of Einbrecher</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -661,7 +661,7 @@
             <falscheAntwort1>Frankwagen</falscheAntwort1>
             <falscheAntwort2>Olafwagen</falscheAntwort2>
             <falscheAntwort3>Kurtwagen</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -671,7 +671,7 @@
             <falscheAntwort1>eine Schreibmaschine</falscheAntwort1>
             <falscheAntwort2>ein Schild</falscheAntwort2>
             <falscheAntwort3>eine Telefonanlage</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -681,7 +681,7 @@
             <falscheAntwort1>in der Amselsiedlung</falscheAntwort1>
             <falscheAntwort2>in der Kanariensiedlung</falscheAntwort2>
             <falscheAntwort3>in der Schwanensiedlung</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -691,7 +691,7 @@
             <falscheAntwort1>2</falscheAntwort1>
             <falscheAntwort2>5</falscheAntwort2>
             <falscheAntwort3>12</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -701,7 +701,7 @@
             <falscheAntwort1>in der Buchhaltung</falscheAntwort1>
             <falscheAntwort2>auf dem Parkplatz</falscheAntwort2>
             <falscheAntwort3>in der Brennhalle</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -711,7 +711,7 @@
             <falscheAntwort1>in der Hauptstraße</falscheAntwort1>
             <falscheAntwort2>in der Gudrunstraße</falscheAntwort2>
             <falscheAntwort3>im Waldweg</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -721,7 +721,7 @@
             <falscheAntwort1>aus Plastik</falscheAntwort1>
             <falscheAntwort2>aus Holz</falscheAntwort2>
             <falscheAntwort3>aus Schaumgummi</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -731,7 +731,7 @@
             <falscheAntwort1>Er zwirbelt seine Haare.</falscheAntwort1>
             <falscheAntwort2>Er bohrt in der Nase.</falscheAntwort2>
             <falscheAntwort3>Er lutscht am Daumen.</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -741,7 +741,7 @@
             <falscheAntwort1>Felddolcher</falscheAntwort1>
             <falscheAntwort2>Feldpiekser</falscheAntwort2>
             <falscheAntwort3>Feldspießer</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -751,7 +751,7 @@
             <falscheAntwort1>Gelatomampfer</falscheAntwort1>
             <falscheAntwort2>Tiramisulutscher</falscheAntwort2>
             <falscheAntwort3>Spagettischlürfer</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -761,7 +761,7 @@
             <falscheAntwort1>drei</falscheAntwort1>
             <falscheAntwort2>einen</falscheAntwort2>
             <falscheAntwort3>fünf</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -771,7 +771,7 @@
             <falscheAntwort1>Süßigkeiten</falscheAntwort1>
             <falscheAntwort2>Taschentücher</falscheAntwort2>
             <falscheAntwort3>ein Handy</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -781,7 +781,7 @@
             <falscheAntwort1>ein holländisches Dreigangfahrrad</falscheAntwort1>
             <falscheAntwort2>ein deutsches 21-Gang Fahrrad</falscheAntwort2>
             <falscheAntwort3>ein Fahrrad mit Hilfsmotor</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -791,7 +791,7 @@
             <falscheAntwort1>das Verwaltungsgebäude</falscheAntwort1>
             <falscheAntwort2>die Trockenhalle</falscheAntwort2>
             <falscheAntwort3>das Toilettenhäuschen</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -801,7 +801,7 @@
             <falscheAntwort1>bei der Kriminalpolizei</falscheAntwort1>
             <falscheAntwort2>beim Sittendezernat</falscheAntwort2>
             <falscheAntwort3>bei der Hundestaffel der Polizei</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -811,7 +811,7 @@
             <falscheAntwort1>als Schauspieler in einem Indianerfilm</falscheAntwort1>
             <falscheAntwort2>zur Selbstverteidigung</falscheAntwort2>
             <falscheAntwort3>als Ersatz für seine kaputte Armbrust</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -821,7 +821,7 @@
             <falscheAntwort1>die Golfbahnen</falscheAntwort1>
             <falscheAntwort2>die Blumenbeete</falscheAntwort2>
             <falscheAntwort3>die Gehwege</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -831,7 +831,7 @@
             <falscheAntwort1>Hannes und Kurts</falscheAntwort1>
             <falscheAntwort2>Marias und Franks</falscheAntwort2>
             <falscheAntwort3>Peters und Ottos</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -841,7 +841,7 @@
             <falscheAntwort1>Kopfstand auf dem Sattel</falscheAntwort1>
             <falscheAntwort2>verkehrt herum fahren mit Spiegel</falscheAntwort2>
             <falscheAntwort3>freihändig fahren</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -851,7 +851,7 @@
             <falscheAntwort1>fünfzehn</falscheAntwort1>
             <falscheAntwort2>acht</falscheAntwort2>
             <falscheAntwort3>zehn</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -861,7 +861,7 @@
             <falscheAntwort1>weil er Decken schick findet</falscheAntwort1>
             <falscheAntwort2>weil die Geschichte im Winter spielt</falscheAntwort2>
             <falscheAntwort3>weil alle Behinderten immer frieren</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -871,7 +871,7 @@
             <falscheAntwort1>Schlosser</falscheAntwort1>
             <falscheAntwort2>Schreiner</falscheAntwort2>
             <falscheAntwort3>Zahnarzt</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -881,7 +881,7 @@
             <falscheAntwort1>am 1. Juli</falscheAntwort1>
             <falscheAntwort2>am 23. Juni</falscheAntwort2>
             <falscheAntwort3>am 30. Juni</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -891,7 +891,7 @@
             <falscheAntwort1>Schnaps</falscheAntwort1>
             <falscheAntwort2>Fernseher</falscheAntwort2>
             <falscheAntwort3>Fahrräder</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -901,7 +901,7 @@
             <falscheAntwort1>im Kamin der Ziegelei</falscheAntwort1>
             <falscheAntwort2>in der Trockenhalle der Ziegelei</falscheAntwort2>
             <falscheAntwort3>im Keller des COOP</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -911,7 +911,7 @@
             <falscheAntwort1>Olaf</falscheAntwort1>
             <falscheAntwort2>Hannes</falscheAntwort2>
             <falscheAntwort3>Theos Schwester</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -921,7 +921,7 @@
             <falscheAntwort1>die Briten und die Amerikaner</falscheAntwort1>
             <falscheAntwort2>die Spanier und die Portugiesen</falscheAntwort2>
             <falscheAntwort3>die Griechen und die Inder</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -931,7 +931,7 @@
             <falscheAntwort1>Aus dem Kassenhäuschen kommt ein Tankwart.</falscheAntwort1>
             <falscheAntwort2>Es gibt richtiges Benzin an den Zapfsäulen.</falscheAntwort2>
             <falscheAntwort3>Sie ist ungefähr 2 m groß.</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -941,7 +941,7 @@
             <falscheAntwort1>Postbote</falscheAntwort1>
             <falscheAntwort2>Tischler</falscheAntwort2>
             <falscheAntwort3>Automechaniker</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -951,7 +951,7 @@
             <falscheAntwort1>am Auge</falscheAntwort1>
             <falscheAntwort2>an einem Armbruch</falscheAntwort2>
             <falscheAntwort3>an der Niere</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -961,7 +961,7 @@
             <falscheAntwort1>Bürgermeister</falscheAntwort1>
             <falscheAntwort2>Arzt</falscheAntwort2>
             <falscheAntwort3>Bankangestellter</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -971,7 +971,7 @@
             <falscheAntwort1>einen</falscheAntwort1>
             <falscheAntwort2>zwei</falscheAntwort2>
             <falscheAntwort3>vier</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -981,7 +981,7 @@
             <falscheAntwort1>Peter</falscheAntwort1>
             <falscheAntwort2>Hannes</falscheAntwort2>
             <falscheAntwort3>Otto</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -991,7 +991,7 @@
             <falscheAntwort1>lange braune</falscheAntwort1>
             <falscheAntwort2>kurze blonde</falscheAntwort2>
             <falscheAntwort3>kurze rote</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1001,7 +1001,7 @@
             <falscheAntwort1>in den Vor- und Hintergärten</falscheAntwort1>
             <falscheAntwort2>auf der Straße</falscheAntwort2>
             <falscheAntwort3>im Einkaufszentrum</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1011,7 +1011,7 @@
             <falscheAntwort1/>
             <falscheAntwort2/>
             <falscheAntwort3/>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1021,7 +1021,7 @@
             <falscheAntwort1/>
             <falscheAntwort2/>
             <falscheAntwort3/>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1031,7 +1031,7 @@
             <falscheAntwort1/>
             <falscheAntwort2/>
             <falscheAntwort3/>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>

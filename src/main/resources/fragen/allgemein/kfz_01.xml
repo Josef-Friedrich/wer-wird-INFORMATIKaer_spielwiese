@@ -11,7 +11,7 @@
             <falscheAntwort1>ZWB</falscheAntwort1>
             <falscheAntwort2>ZB</falscheAntwort2>
             <falscheAntwort3>ZWN</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -21,7 +21,7 @@
             <falscheAntwort1>LZ</falscheAntwort1>
             <falscheAntwort2>ZIT</falscheAntwort2>
             <falscheAntwort3>LZT</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -31,7 +31,7 @@
             <falscheAntwort1>ZA</falscheAntwort1>
             <falscheAntwort2>ZW</falscheAntwort2>
             <falscheAntwort3>ZI</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -41,7 +41,7 @@
             <falscheAntwort1>WB</falscheAntwort1>
             <falscheAntwort2>WZ</falscheAntwort2>
             <falscheAntwort3>WG</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -51,7 +51,7 @@
             <falscheAntwort1>WWA</falscheAntwort1>
             <falscheAntwort2>WWK</falscheAntwort2>
             <falscheAntwort3>WK</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -61,7 +61,7 @@
             <falscheAntwort1>WD</falscheAntwort1>
             <falscheAntwort2>WS</falscheAntwort2>
             <falscheAntwort3>WSL</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -71,7 +71,7 @@
             <falscheAntwort1>WGU</falscheAntwort1>
             <falscheAntwort2>WEG</falscheAntwort2>
             <falscheAntwort3>WBG</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -81,7 +81,7 @@
             <falscheAntwort1>WTN</falscheAntwort1>
             <falscheAntwort2>WIT</falscheAntwort2>
             <falscheAntwort3>WTD</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -91,7 +91,7 @@
             <falscheAntwort1>WH</falscheAntwort1>
             <falscheAntwort2>WA</falscheAntwort2>
             <falscheAntwort3>WAT</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -101,7 +101,7 @@
             <falscheAntwort1>AME</falscheAntwort1>
             <falscheAntwort2>WSTG</falscheAntwort2>
             <falscheAntwort3>AML</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -111,7 +111,7 @@
             <falscheAntwort1>WFS</falscheAntwort1>
             <falscheAntwort2>WES</falscheAntwort2>
             <falscheAntwort3>WEL</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -121,7 +121,7 @@
             <falscheAntwort1>WG</falscheAntwort1>
             <falscheAntwort2>WE</falscheAntwort2>
             <falscheAntwort3>WD</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -131,7 +131,7 @@
             <falscheAntwort1>WOL</falscheAntwort1>
             <falscheAntwort2>WOG</falscheAntwort2>
             <falscheAntwort3>WOS</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -141,7 +141,7 @@
             <falscheAntwort1>WS</falscheAntwort1>
             <falscheAntwort2>WM</falscheAntwort2>
             <falscheAntwort3>WR</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -151,7 +151,7 @@
             <falscheAntwort1>WEN</falscheAntwort1>
             <falscheAntwort2>STW</falscheAntwort2>
             <falscheAntwort3>WDL</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -161,7 +161,7 @@
             <falscheAntwort1>RMK</falscheAntwort1>
             <falscheAntwort2>WK</falscheAntwort2>
             <falscheAntwort3>RKR</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -171,7 +171,7 @@
             <falscheAntwort1>WES</falscheAntwort1>
             <falscheAntwort2>WS</falscheAntwort2>
             <falscheAntwort3>WSH</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -181,7 +181,7 @@
             <falscheAntwort1>HA</falscheAntwort1>
             <falscheAntwort2>WT</falscheAntwort2>
             <falscheAntwort3>HB</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -191,7 +191,7 @@
             <falscheAntwort1>WIT</falscheAntwort1>
             <falscheAntwort2>BKW</falscheAntwort2>
             <falscheAntwort3>BWT</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -201,7 +201,7 @@
             <falscheAntwort1>WIE</falscheAntwort1>
             <falscheAntwort2>WB</falscheAntwort2>
             <falscheAntwort3>WBD</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -211,7 +211,7 @@
             <falscheAntwort1>WIL</falscheAntwort1>
             <falscheAntwort2>WHH</falscheAntwort2>
             <falscheAntwort3>WHN</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -221,7 +221,7 @@
             <falscheAntwort1>WT</falscheAntwort1>
             <falscheAntwort2>WB</falscheAntwort2>
             <falscheAntwort3>WO</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -231,7 +231,7 @@
             <falscheAntwort1>WEE</falscheAntwort1>
             <falscheAntwort2>WEL</falscheAntwort2>
             <falscheAntwort3>WE</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -241,7 +241,7 @@
             <falscheAntwort1>WOB</falscheAntwort1>
             <falscheAntwort2>WIO</falscheAntwort2>
             <falscheAntwort3>WEI</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -251,7 +251,7 @@
             <falscheAntwort1>WR</falscheAntwort1>
             <falscheAntwort2>WM</falscheAntwort2>
             <falscheAntwort3>WA</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -261,7 +261,7 @@
             <falscheAntwort1>WT</falscheAntwort1>
             <falscheAntwort2>WI</falscheAntwort2>
             <falscheAntwort3>WG</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -271,7 +271,7 @@
             <falscheAntwort1>WAS</falscheAntwort1>
             <falscheAntwort2>WAB</falscheAntwort2>
             <falscheAntwort3>WAR</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -281,7 +281,7 @@
             <falscheAntwort1>WAD</falscheAntwort1>
             <falscheAntwort2>WAR</falscheAntwort2>
             <falscheAntwort3>WAO</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -291,7 +291,7 @@
             <falscheAntwort1>WT</falscheAntwort1>
             <falscheAntwort2>WU</falscheAntwort2>
             <falscheAntwort3>WP</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -301,7 +301,7 @@
             <falscheAntwort1>SKR</falscheAntwort1>
             <falscheAntwort2>SBK</falscheAntwort2>
             <falscheAntwort3>VK</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -311,7 +311,7 @@
             <falscheAntwort1>VÖL</falscheAntwort1>
             <falscheAntwort2>VÖ</falscheAntwort2>
             <falscheAntwort3>VÖK</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -321,7 +321,7 @@
             <falscheAntwort1>VSN</falscheAntwort1>
             <falscheAntwort2>VRS</falscheAntwort2>
             <falscheAntwort3>VN</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -331,7 +331,7 @@
             <falscheAntwort1>VN</falscheAntwort1>
             <falscheAntwort2>VD</falscheAntwort2>
             <falscheAntwort3>VED</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -341,7 +341,7 @@
             <falscheAntwort1>VEA</falscheAntwort1>
             <falscheAntwort2>VET</falscheAntwort2>
             <falscheAntwort3>VHT</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -351,7 +351,7 @@
             <falscheAntwort1>VBK</falscheAntwort1>
             <falscheAntwort2>VB</falscheAntwort2>
             <falscheAntwort3>VGK</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -361,7 +361,7 @@
             <falscheAntwort1>VG</falscheAntwort1>
             <falscheAntwort2>VO</falscheAntwort2>
             <falscheAntwort3>VGK</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -371,7 +371,7 @@
             <falscheAntwort1>UNA</falscheAntwort1>
             <falscheAntwort2>U</falscheAntwort2>
             <falscheAntwort3>UA</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -381,7 +381,7 @@
             <falscheAntwort1>UK</falscheAntwort1>
             <falscheAntwort2>UC</falscheAntwort2>
             <falscheAntwort3>UKM</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -391,7 +391,7 @@
             <falscheAntwort1>UM</falscheAntwort1>
             <falscheAntwort2>U</falscheAntwort2>
             <falscheAntwort3>ULM</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -401,7 +401,7 @@
             <falscheAntwort1>UKR</falscheAntwort1>
             <falscheAntwort2>UHK</falscheAntwort2>
             <falscheAntwort3>UNS</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -411,7 +411,7 @@
             <falscheAntwort1>URA</falscheAntwort1>
             <falscheAntwort2>UEC</falscheAntwort2>
             <falscheAntwort3>URW</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -421,7 +421,7 @@
             <falscheAntwort1>UZ</falscheAntwort1>
             <falscheAntwort2>UL</falscheAntwort2>
             <falscheAntwort3>UN</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -431,7 +431,7 @@
             <falscheAntwort1>TÜB</falscheAntwort1>
             <falscheAntwort2>TB</falscheAntwort2>
             <falscheAntwort3>TBG</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -441,7 +441,7 @@
             <falscheAntwort1>BTZ</falscheAntwort1>
             <falscheAntwort2>BTL</falscheAntwort2>
             <falscheAntwort3>BTW</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -451,7 +451,7 @@
             <falscheAntwort1>TUN</falscheAntwort1>
             <falscheAntwort2>TUL</falscheAntwort2>
             <falscheAntwort3>TG</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -461,7 +461,7 @@
             <falscheAntwort1>TRA</falscheAntwort1>
             <falscheAntwort2>TR</falscheAntwort2>
             <falscheAntwort3>TST</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -471,7 +471,7 @@
             <falscheAntwort1>TRR</falscheAntwort1>
             <falscheAntwort2>TS</falscheAntwort2>
             <falscheAntwort3>TRI</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -481,7 +481,7 @@
             <falscheAntwort1>TOR</falscheAntwort1>
             <falscheAntwort2>TOO</falscheAntwort2>
             <falscheAntwort3>TG</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -491,7 +491,7 @@
             <falscheAntwort1>TS</falscheAntwort1>
             <falscheAntwort2>TR</falscheAntwort2>
             <falscheAntwort3>TI</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -501,7 +501,7 @@
             <falscheAntwort1>TE</falscheAntwort1>
             <falscheAntwort2>TEF</falscheAntwort2>
             <falscheAntwort3>TFL</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -511,7 +511,7 @@
             <falscheAntwort1>MKR</falscheAntwort1>
             <falscheAntwort2>MTK</falscheAntwort2>
             <falscheAntwort3>TBK</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -521,7 +521,7 @@
             <falscheAntwort1>SWE</falscheAntwort1>
             <falscheAntwort2>SDW</falscheAntwort2>
             <falscheAntwort3>SW</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -531,7 +531,7 @@
             <falscheAntwort1>SED</falscheAntwort1>
             <falscheAntwort2>SMM</falscheAntwort2>
             <falscheAntwort3>SDA</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -541,7 +541,7 @@
             <falscheAntwort1>SG</falscheAntwort1>
             <falscheAntwort2>SA</falscheAntwort2>
             <falscheAntwort3>ST</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -551,7 +551,7 @@
             <falscheAntwort1>SHW</falscheAntwort1>
             <falscheAntwort2>SF</falscheAntwort2>
             <falscheAntwort3>SHF</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -561,7 +561,7 @@
             <falscheAntwort1>SKR</falscheAntwort1>
             <falscheAntwort2>RSK</falscheAntwort2>
             <falscheAntwort3>SK</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -571,7 +571,7 @@
             <falscheAntwort1>STO</falscheAntwort1>
             <falscheAntwort2>STB</falscheAntwort2>
             <falscheAntwort3>SB</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -581,7 +581,7 @@
             <falscheAntwort1>STE</falscheAntwort1>
             <falscheAntwort2>STA</falscheAntwort2>
             <falscheAntwort3>ST</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -591,7 +591,7 @@
             <falscheAntwort1>SB</falscheAntwort1>
             <falscheAntwort2>STB</falscheAntwort2>
             <falscheAntwort3>SBE</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -601,7 +601,7 @@
             <falscheAntwort1>STE</falscheAntwort1>
             <falscheAntwort2>SF</falscheAntwort2>
             <falscheAntwort3>SFU</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -611,7 +611,7 @@
             <falscheAntwort1>SRB</falscheAntwort1>
             <falscheAntwort2>SB</falscheAntwort2>
             <falscheAntwort3>SBO</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -621,7 +621,7 @@
             <falscheAntwort1>SNE</falscheAntwort1>
             <falscheAntwort2>SPR</falscheAntwort2>
             <falscheAntwort3>SN</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -631,7 +631,7 @@
             <falscheAntwort1>SPE</falscheAntwort1>
             <falscheAntwort2>SY</falscheAntwort2>
             <falscheAntwort3>SPY</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -641,7 +641,7 @@
             <falscheAntwort1>SB</falscheAntwort1>
             <falscheAntwort2>SOB</falscheAntwort2>
             <falscheAntwort3>SBG</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -651,7 +651,7 @@
             <falscheAntwort1>SOL</falscheAntwort1>
             <falscheAntwort2>SAK</falscheAntwort2>
             <falscheAntwort3>SKR</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -661,7 +661,7 @@
             <falscheAntwort1>ST</falscheAntwort1>
             <falscheAntwort2>SE</falscheAntwort2>
             <falscheAntwort3>SOE</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -671,7 +671,7 @@
             <falscheAntwort1>SH</falscheAntwort1>
             <falscheAntwort2>SW</falscheAntwort2>
             <falscheAntwort3>SR</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -681,7 +681,7 @@
             <falscheAntwort1>SMG</falscheAntwort1>
             <falscheAntwort2>SMM</falscheAntwort2>
             <falscheAntwort3>SG</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -691,7 +691,7 @@
             <falscheAntwort1>SAA</falscheAntwort1>
             <falscheAntwort2>SAL</falscheAntwort2>
             <falscheAntwort3>SLO</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -701,7 +701,7 @@
             <falscheAntwort1>SAL</falscheAntwort1>
             <falscheAntwort2>SLR</falscheAntwort2>
             <falscheAntwort3>SAR</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -711,7 +711,7 @@
             <falscheAntwort1>SW</falscheAntwort1>
             <falscheAntwort2>SG</falscheAntwort2>
             <falscheAntwort3>SB</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -721,7 +721,7 @@
             <falscheAntwort1>SL</falscheAntwort1>
             <falscheAntwort2>SA</falscheAntwort2>
             <falscheAntwort3>SS</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -731,7 +731,7 @@
             <falscheAntwort1>RHK</falscheAntwort1>
             <falscheAntwort2>SMS</falscheAntwort2>
             <falscheAntwort3>RHH</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -741,7 +741,7 @@
             <falscheAntwort1>SGM</falscheAntwort1>
             <falscheAntwort2>SIM</falscheAntwort2>
             <falscheAntwort3>SMG</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -751,7 +751,7 @@
             <falscheAntwort1>SIW</falscheAntwort1>
             <falscheAntwort2>SW</falscheAntwort2>
             <falscheAntwort3>SIG</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -761,7 +761,7 @@
             <falscheAntwort1>SUL</falscheAntwort1>
             <falscheAntwort2>SUH</falscheAntwort2>
             <falscheAntwort3>SH</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -771,7 +771,7 @@
             <falscheAntwort1>SAK</falscheAntwort1>
             <falscheAntwort2>SAH</falscheAntwort2>
             <falscheAntwort3>SZK</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -781,7 +781,7 @@
             <falscheAntwort1>SB</falscheAntwort1>
             <falscheAntwort2>SHB</falscheAntwort2>
             <falscheAntwort3>SG</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -791,7 +791,7 @@
             <falscheAntwort1>SHL</falscheAntwort1>
             <falscheAntwort2>SWH</falscheAntwort2>
             <falscheAntwort3>SWA</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -801,7 +801,7 @@
             <falscheAntwort1>SAG</falscheAntwort1>
             <falscheAntwort2>SAH</falscheAntwort2>
             <falscheAntwort3>SGN</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -811,7 +811,7 @@
             <falscheAntwort1>SL</falscheAntwort1>
             <falscheAntwort2>SO</falscheAntwort2>
             <falscheAntwort3>SN</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -821,7 +821,7 @@
             <falscheAntwort1>SFL</falscheAntwort1>
             <falscheAntwort2>SFB</falscheAntwort2>
             <falscheAntwort3>SFT</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -831,7 +831,7 @@
             <falscheAntwort1>SEG</falscheAntwort1>
             <falscheAntwort2>BSG</falscheAntwort2>
             <falscheAntwort3>SEB</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -841,7 +841,7 @@
             <falscheAntwort1>LSD</falscheAntwort1>
             <falscheAntwort2>SDS</falscheAntwort2>
             <falscheAntwort3>LKS</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -851,7 +851,7 @@
             <falscheAntwort1>SH</falscheAntwort1>
             <falscheAntwort2>SB</falscheAntwort2>
             <falscheAntwort3>SW</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -861,7 +861,7 @@
             <falscheAntwort1>SBE</falscheAntwort1>
             <falscheAntwort2>SÖB</falscheAntwort2>
             <falscheAntwort3>SNC</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -871,7 +871,7 @@
             <falscheAntwort1>SK</falscheAntwort1>
             <falscheAntwort2>SA</falscheAntwort2>
             <falscheAntwort3>SN</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -881,7 +881,7 @@
             <falscheAntwort1>AKS</falscheAntwort1>
             <falscheAntwort2>SSW</falscheAntwort2>
             <falscheAntwort3>AMS</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -891,7 +891,7 @@
             <falscheAntwort1>SCH</falscheAntwort1>
             <falscheAntwort2>SIB</falscheAntwort2>
             <falscheAntwort3>SWB</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -901,7 +901,7 @@
             <falscheAntwort1>SG</falscheAntwort1>
             <falscheAntwort2>ST</falscheAntwort2>
             <falscheAntwort3>STU</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -911,7 +911,7 @@
             <falscheAntwort1>RG</falscheAntwort1>
             <falscheAntwort2>RÜ</falscheAntwort2>
             <falscheAntwort3>RGN</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -921,7 +921,7 @@
             <falscheAntwort1>RHT</falscheAntwort1>
             <falscheAntwort2>RTK</falscheAntwort2>
             <falscheAntwort3>RHK</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -931,7 +931,7 @@
             <falscheAntwort1>HL</falscheAntwort1>
             <falscheAntwort2>RG</falscheAntwort2>
             <falscheAntwort3>HGL</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -941,7 +941,7 @@
             <falscheAntwort1>RL</falscheAntwort1>
             <falscheAntwort2>RT</falscheAntwort2>
             <falscheAntwort3>ROW</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -951,7 +951,7 @@
             <falscheAntwort1>RB</falscheAntwort1>
             <falscheAntwort2>RA</falscheAntwort2>
             <falscheAntwort3>RG</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -961,7 +961,7 @@
             <falscheAntwort1>RL</falscheAntwort1>
             <falscheAntwort2>RE</falscheAntwort2>
             <falscheAntwort3>RG</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -971,7 +971,7 @@
             <falscheAntwort1>REM</falscheAntwort1>
             <falscheAntwort2>RD</falscheAntwort2>
             <falscheAntwort3>RED</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -981,7 +981,7 @@
             <falscheAntwort1>RWÜ</falscheAntwort1>
             <falscheAntwort2>ROT</falscheAntwort2>
             <falscheAntwort3>RWM</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -991,7 +991,7 @@
             <falscheAntwort1>RH</falscheAntwort1>
             <falscheAntwort2>RS</falscheAntwort2>
             <falscheAntwort3>RM</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1001,7 +1001,7 @@
             <falscheAntwort1>RT</falscheAntwort1>
             <falscheAntwort2>RO</falscheAntwort2>
             <falscheAntwort3>ROT</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1011,7 +1011,7 @@
             <falscheAntwort1>RGH</falscheAntwort1>
             <falscheAntwort2>RIG</falscheAntwort2>
             <falscheAntwort3>RN</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1021,7 +1021,7 @@
             <falscheAntwort1>R</falscheAntwort1>
             <falscheAntwort2>RE</falscheAntwort2>
             <falscheAntwort3>RG</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1031,7 +1031,7 @@
             <falscheAntwort1>REH</falscheAntwort1>
             <falscheAntwort2>RH</falscheAntwort2>
             <falscheAntwort3>REG</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1041,7 +1041,7 @@
             <falscheAntwort1>RED</falscheAntwort1>
             <falscheAntwort2>RE</falscheAntwort2>
             <falscheAntwort3>REF</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1051,7 +1051,7 @@
             <falscheAntwort1>RAT</falscheAntwort1>
             <falscheAntwort2>RT</falscheAntwort2>
             <falscheAntwort3>RAS</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1061,7 +1061,7 @@
             <falscheAntwort1>RG</falscheAntwort1>
             <falscheAntwort2>RB</falscheAntwort2>
             <falscheAntwort3>RBG</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1071,7 +1071,7 @@
             <falscheAntwort1>QLG</falscheAntwort1>
             <falscheAntwort2>QDL</falscheAntwort2>
             <falscheAntwort3>QL</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1081,7 +1081,7 @@
             <falscheAntwort1>PSS</falscheAntwort1>
             <falscheAntwort2>PI</falscheAntwort2>
             <falscheAntwort3>PIS</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1091,7 +1091,7 @@
             <falscheAntwort1>PZ</falscheAntwort1>
             <falscheAntwort2>PG</falscheAntwort2>
             <falscheAntwort3>PT</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1101,7 +1101,7 @@
             <falscheAntwort1>PMM</falscheAntwort1>
             <falscheAntwort2>POM</falscheAntwort2>
             <falscheAntwort3>PD</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1111,7 +1111,7 @@
             <falscheAntwort1>PLN</falscheAntwort1>
             <falscheAntwort2>PL</falscheAntwort2>
             <falscheAntwort3>P</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1121,7 +1121,7 @@
             <falscheAntwort1>PLA</falscheAntwort1>
             <falscheAntwort2>PN</falscheAntwort2>
             <falscheAntwort3>PLN</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1131,7 +1131,7 @@
             <falscheAntwort1>POR</falscheAntwort1>
             <falscheAntwort2>SÄS</falscheAntwort2>
             <falscheAntwort3>SSW</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1141,7 +1141,7 @@
             <falscheAntwort1>PG</falscheAntwort1>
             <falscheAntwort2>PB</falscheAntwort2>
             <falscheAntwort3>PIB</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1151,7 +1151,7 @@
             <falscheAntwort1>PM</falscheAntwort1>
             <falscheAntwort2>PH</falscheAntwort2>
             <falscheAntwort3>PZ</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1161,7 +1161,7 @@
             <falscheAntwort1>PEI</falscheAntwort1>
             <falscheAntwort2>PN</falscheAntwort2>
             <falscheAntwort3>PEE</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1171,7 +1171,7 @@
             <falscheAntwort1>PAR</falscheAntwort1>
             <falscheAntwort2>PA</falscheAntwort2>
             <falscheAntwort3>PHM</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1181,7 +1181,7 @@
             <falscheAntwort1>PN</falscheAntwort1>
             <falscheAntwort2>PA</falscheAntwort2>
             <falscheAntwort3>PBO</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -1191,7 +1191,7 @@
             <falscheAntwort1>RTI</falscheAntwort1>
             <falscheAntwort2>PIN</falscheAntwort2>
             <falscheAntwort3>RIN</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1201,7 +1201,7 @@
             <falscheAntwort1>PFF</falscheAntwort1>
             <falscheAntwort2>PFH</falscheAntwort2>
             <falscheAntwort3>PFN</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1211,7 +1211,7 @@
             <falscheAntwort1>PAS</falscheAntwort1>
             <falscheAntwort2>PS</falscheAntwort2>
             <falscheAntwort3>PSA</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1221,7 +1221,7 @@
             <falscheAntwort1>PD</falscheAntwort1>
             <falscheAntwort2>PO</falscheAntwort2>
             <falscheAntwort3>PM</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1231,7 +1231,7 @@
             <falscheAntwort1>OVM</falscheAntwort1>
             <falscheAntwort2>OP</falscheAntwort2>
             <falscheAntwort3>OSO</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1241,7 +1241,7 @@
             <falscheAntwort1>OL</falscheAntwort1>
             <falscheAntwort2>OBL</falscheAntwort2>
             <falscheAntwort3>OSZ</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1251,7 +1251,7 @@
             <falscheAntwort1>OSB</falscheAntwort1>
             <falscheAntwort2>ON</falscheAntwort2>
             <falscheAntwort3>OSK</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1261,7 +1261,7 @@
             <falscheAntwort1>OPP</falscheAntwort1>
             <falscheAntwort2>ORP</falscheAntwort2>
             <falscheAntwort3>OSP</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1271,7 +1271,7 @@
             <falscheAntwort1>OD</falscheAntwort1>
             <falscheAntwort2>OB</falscheAntwort2>
             <falscheAntwort3>OBG</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1281,7 +1281,7 @@
             <falscheAntwort1>OKS</falscheAntwort1>
             <falscheAntwort2>OHK</falscheAntwort2>
             <falscheAntwort3>OS</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1291,7 +1291,7 @@
             <falscheAntwort1>OZS</falscheAntwort1>
             <falscheAntwort2>OHS</falscheAntwort2>
             <falscheAntwort3>OSB</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1301,7 +1301,7 @@
             <falscheAntwort1>OHL</falscheAntwort1>
             <falscheAntwort2>OBV</falscheAntwort2>
             <falscheAntwort3>OBL</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1311,7 +1311,7 @@
             <falscheAntwort1>OH</falscheAntwort1>
             <falscheAntwort2>OSH</falscheAntwort2>
             <falscheAntwort3>OAH</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1321,7 +1321,7 @@
             <falscheAntwort1>OHS</falscheAntwort1>
             <falscheAntwort2>OHT</falscheAntwort2>
             <falscheAntwort3>OS</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1331,7 +1331,7 @@
             <falscheAntwort1>OTK</falscheAntwort1>
             <falscheAntwort2>OR</falscheAntwort2>
             <falscheAntwort3>OK</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1341,7 +1341,7 @@
             <falscheAntwort1>OB</falscheAntwort1>
             <falscheAntwort2>OFF</falscheAntwort2>
             <falscheAntwort3>OFB</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1351,7 +1351,7 @@
             <falscheAntwort1>OP</falscheAntwort1>
             <falscheAntwort2>OL</falscheAntwort2>
             <falscheAntwort3>OLP</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1361,7 +1361,7 @@
             <falscheAntwort1>ST</falscheAntwort1>
             <falscheAntwort2>SM</falscheAntwort2>
             <falscheAntwort3>ON</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1371,7 +1371,7 @@
             <falscheAntwort1>OH</falscheAntwort1>
             <falscheAntwort2>OBH</falscheAntwort2>
             <falscheAntwort3>OHS</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1381,7 +1381,7 @@
             <falscheAntwort1>OA</falscheAntwort1>
             <falscheAntwort2>OG</falscheAntwort2>
             <falscheAntwort3>OU</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1391,7 +1391,7 @@
             <falscheAntwort1>OAG</falscheAntwort1>
             <falscheAntwort2>OAL</falscheAntwort2>
             <falscheAntwort3>OBA</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1401,7 +1401,7 @@
             <falscheAntwort1>NWK</falscheAntwort1>
             <falscheAntwort2>NOW</falscheAntwort2>
             <falscheAntwort3>NWB</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1411,7 +1411,7 @@
             <falscheAntwort1>NDW</falscheAntwort1>
             <falscheAntwort2>NAW</falscheAntwort2>
             <falscheAntwort3>NE</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1421,7 +1421,7 @@
             <falscheAntwort1>NVO</falscheAntwort1>
             <falscheAntwort2>NOV</falscheAntwort2>
             <falscheAntwort3>NDM</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1431,7 +1431,7 @@
             <falscheAntwort1>NEL</falscheAntwort1>
             <falscheAntwort2>NEU</falscheAntwort2>
             <falscheAntwort3>NEM</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1441,7 +1441,7 @@
             <falscheAntwort1>ND</falscheAntwort1>
             <falscheAntwort2>NW</falscheAntwort2>
             <falscheAntwort3>NE</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1451,7 +1451,7 @@
             <falscheAntwort1>NH</falscheAntwort1>
             <falscheAntwort2>NTM</falscheAntwort2>
             <falscheAntwort3>NM</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1461,7 +1461,7 @@
             <falscheAntwort1>NSO</falscheAntwort1>
             <falscheAntwort2>NDO</falscheAntwort2>
             <falscheAntwort3>NO</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1471,7 +1471,7 @@
             <falscheAntwort1>GFB</falscheAntwort1>
             <falscheAntwort2>GB</falscheAntwort2>
             <falscheAntwort3>NAH</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1481,7 +1481,7 @@
             <falscheAntwort1>NMN</falscheAntwort1>
             <falscheAntwort2>NEM</falscheAntwort2>
             <falscheAntwort3>NMT</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1491,7 +1491,7 @@
             <falscheAntwort1>NMA</falscheAntwort1>
             <falscheAntwort2>NEM</falscheAntwort2>
             <falscheAntwort3>NK</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1501,7 +1501,7 @@
             <falscheAntwort1>NH</falscheAntwort1>
             <falscheAntwort2>NEK</falscheAntwort2>
             <falscheAntwort3>NNK</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1511,7 +1511,7 @@
             <falscheAntwort1>NG</falscheAntwort1>
             <falscheAntwort2>NB</falscheAntwort2>
             <falscheAntwort3>NBG</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1521,7 +1521,7 @@
             <falscheAntwort1>NFL</falscheAntwort1>
             <falscheAntwort2>NL</falscheAntwort2>
             <falscheAntwort3>NEF</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1531,7 +1531,7 @@
             <falscheAntwort1>NWA</falscheAntwort1>
             <falscheAntwort2>NAW</falscheAntwort2>
             <falscheAntwort3>NDW</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1541,7 +1541,7 @@
             <falscheAntwort1>NAS</falscheAntwort1>
             <falscheAntwort2>GGB</falscheAntwort2>
             <falscheAntwort3>RHG</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1551,7 +1551,7 @@
             <falscheAntwort1>NAI</falscheAntwort1>
             <falscheAntwort2>NAD</falscheAntwort2>
             <falscheAntwort3>NEU</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1561,7 +1561,7 @@
             <falscheAntwort1>NEU</falscheAntwort1>
             <falscheAntwort2>NS</falscheAntwort2>
             <falscheAntwort3>N</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1571,7 +1571,7 @@
             <falscheAntwort1>NDS</falscheAntwort1>
             <falscheAntwort2>NOD</falscheAntwort2>
             <falscheAntwort3>NOR</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1581,7 +1581,7 @@
             <falscheAntwort1>NB</falscheAntwort1>
             <falscheAntwort2>NS</falscheAntwort2>
             <falscheAntwort3>NSH</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1591,7 +1591,7 @@
             <falscheAntwort1>NE</falscheAntwort1>
             <falscheAntwort2>NBB</falscheAntwort2>
             <falscheAntwort3>NG</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1601,7 +1601,7 @@
             <falscheAntwort1>NG</falscheAntwort1>
             <falscheAntwort2>NB</falscheAntwort2>
             <falscheAntwort3>NÜ</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1611,7 +1611,7 @@
             <falscheAntwort1>MÜT</falscheAntwort1>
             <falscheAntwort2>MÜZ</falscheAntwort2>
             <falscheAntwort3>MÜI</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1621,7 +1621,7 @@
             <falscheAntwort1>MÜH</falscheAntwort1>
             <falscheAntwort2>MÜI</falscheAntwort2>
             <falscheAntwort3>MDI</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1631,7 +1631,7 @@
             <falscheAntwort1>MGS</falscheAntwort1>
             <falscheAntwort2>MZS</falscheAntwort2>
             <falscheAntwort3>MER</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1641,7 +1641,7 @@
             <falscheAntwort1>MZB</falscheAntwort1>
             <falscheAntwort2>MB</falscheAntwort2>
             <falscheAntwort3>MBI</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1651,7 +1651,7 @@
             <falscheAntwort1>MKB</falscheAntwort1>
             <falscheAntwort2>MAK</falscheAntwort2>
             <falscheAntwort3>MKZ</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1661,7 +1661,7 @@
             <falscheAntwort1>MA</falscheAntwort1>
             <falscheAntwort2>MIT</falscheAntwort2>
             <falscheAntwort3>MIW</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1671,7 +1671,7 @@
             <falscheAntwort1>MUL</falscheAntwort1>
             <falscheAntwort2>MTK</falscheAntwort2>
             <falscheAntwort3>MUD</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1681,7 +1681,7 @@
             <falscheAntwort1>MKR</falscheAntwort1>
             <falscheAntwort2>MAT</falscheAntwort2>
             <falscheAntwort3>MAI</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1691,7 +1691,7 @@
             <falscheAntwort1>MSZ</falscheAntwort1>
             <falscheAntwort2>MBS</falscheAntwort2>
             <falscheAntwort3>MEC</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1701,7 +1701,7 @@
             <falscheAntwort1>MSS</falscheAntwort1>
             <falscheAntwort2>MAS</falscheAntwort2>
             <falscheAntwort3>MST</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1711,7 +1711,7 @@
             <falscheAntwort1>MN</falscheAntwort1>
             <falscheAntwort2>MÜ</falscheAntwort2>
             <falscheAntwort3>MR</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1721,7 +1721,7 @@
             <falscheAntwort1>MK</falscheAntwort1>
             <falscheAntwort2>MB</falscheAntwort2>
             <falscheAntwort3>MBB</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1731,7 +1731,7 @@
             <falscheAntwort1>MF</falscheAntwort1>
             <falscheAntwort2>MEQ</falscheAntwort2>
             <falscheAntwort3>MET</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1741,7 +1741,7 @@
             <falscheAntwort1>NOW</falscheAntwort1>
             <falscheAntwort2>NOK</falscheAntwort2>
             <falscheAntwort3>MOD</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1751,7 +1751,7 @@
             <falscheAntwort1>MÄR</falscheAntwort1>
             <falscheAntwort2>MÄO</falscheAntwort2>
             <falscheAntwort3>MOD</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1761,7 +1761,7 @@
             <falscheAntwort1>UG</falscheAntwort1>
             <falscheAntwort2>UA</falscheAntwort2>
             <falscheAntwort3>MG</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1771,7 +1771,7 @@
             <falscheAntwort1>MN</falscheAntwort1>
             <falscheAntwort2>ME</falscheAntwort2>
             <falscheAntwort3>MG</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1781,7 +1781,7 @@
             <falscheAntwort1>MSL</falscheAntwort1>
             <falscheAntwort2>MAL</falscheAntwort2>
             <falscheAntwort3>MFL</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1791,7 +1791,7 @@
             <falscheAntwort1>MÄK</falscheAntwort1>
             <falscheAntwort2>MÄ</falscheAntwort2>
             <falscheAntwort3>MRK</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -1801,7 +1801,7 @@
             <falscheAntwort1>MIB</falscheAntwort1>
             <falscheAntwort2>MIT</falscheAntwort2>
             <falscheAntwort3>MIG</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1811,7 +1811,7 @@
             <falscheAntwort1>MIL</falscheAntwort1>
             <falscheAntwort2>ML</falscheAntwort2>
             <falscheAntwort3>MLB</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1821,7 +1821,7 @@
             <falscheAntwort1>MAR</falscheAntwort1>
             <falscheAntwort2>MR</falscheAntwort2>
             <falscheAntwort3>MLH</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1831,7 +1831,7 @@
             <falscheAntwort1>MÖ</falscheAntwort1>
             <falscheAntwort2>MB</falscheAntwort2>
             <falscheAntwort3>MGL</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1841,7 +1841,7 @@
             <falscheAntwort1>MEB</falscheAntwort1>
             <falscheAntwort2>MEG</falscheAntwort2>
             <falscheAntwort3>MEZ</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1851,7 +1851,7 @@
             <falscheAntwort1>MN</falscheAntwort1>
             <falscheAntwort2>ME</falscheAntwort2>
             <falscheAntwort3>MI</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1861,7 +1861,7 @@
             <falscheAntwort1>MT</falscheAntwort1>
             <falscheAntwort2>MM</falscheAntwort2>
             <falscheAntwort3>MET</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1871,7 +1871,7 @@
             <falscheAntwort1>MB</falscheAntwort1>
             <falscheAntwort2>MG</falscheAntwort2>
             <falscheAntwort3>MA</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1881,7 +1881,7 @@
             <falscheAntwort1>MIB</falscheAntwort1>
             <falscheAntwort2>MS</falscheAntwort2>
             <falscheAntwort3>MIS</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1891,7 +1891,7 @@
             <falscheAntwort1>MM</falscheAntwort1>
             <falscheAntwort2>MH</falscheAntwort2>
             <falscheAntwort3>MN</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1901,7 +1901,7 @@
             <falscheAntwort1>MN</falscheAntwort1>
             <falscheAntwort2>MÜ</falscheAntwort2>
             <falscheAntwort3>MH</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1911,7 +1911,7 @@
             <falscheAntwort1>LÖR</falscheAntwort1>
             <falscheAntwort2>LR</falscheAntwort2>
             <falscheAntwort3>LH</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1921,7 +1921,7 @@
             <falscheAntwort1>LWG</falscheAntwort1>
             <falscheAntwort2>LDW</falscheAntwort2>
             <falscheAntwort3>LLT</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1931,7 +1931,7 @@
             <falscheAntwort1>LW</falscheAntwort1>
             <falscheAntwort2>LD</falscheAntwort2>
             <falscheAntwort3>LH</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1941,7 +1941,7 @@
             <falscheAntwort1>ODS</falscheAntwort1>
             <falscheAntwort2>OS</falscheAntwort2>
             <falscheAntwort3>LOD</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1951,7 +1951,7 @@
             <falscheAntwort1>LIW</falscheAntwort1>
             <falscheAntwort2>LW</falscheAntwort2>
             <falscheAntwort3>LIM</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1961,7 +1961,7 @@
             <falscheAntwort1>L</falscheAntwort1>
             <falscheAntwort2>LAL</falscheAntwort2>
             <falscheAntwort3>LAA</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1971,7 +1971,7 @@
             <falscheAntwort1>LIE</falscheAntwort1>
             <falscheAntwort2>LI</falscheAntwort2>
             <falscheAntwort3>LPP</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1981,7 +1981,7 @@
             <falscheAntwort1>LIL</falscheAntwort1>
             <falscheAntwort2>LIT</falscheAntwort2>
             <falscheAntwort3>LIS</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1991,7 +1991,7 @@
             <falscheAntwort1>LD</falscheAntwort1>
             <falscheAntwort2>LN</falscheAntwort2>
             <falscheAntwort3>LA</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2001,7 +2001,7 @@
             <falscheAntwort1>LN</falscheAntwort1>
             <falscheAntwort2>LÜ</falscheAntwort2>
             <falscheAntwort3>LB</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2011,7 +2011,7 @@
             <falscheAntwort1>LVK</falscheAntwort1>
             <falscheAntwort2>LK</falscheAntwort2>
             <falscheAntwort3>LES</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2021,7 +2021,7 @@
             <falscheAntwort1>L</falscheAntwort1>
             <falscheAntwort2>LEE</falscheAntwort2>
             <falscheAntwort3>LE</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2031,7 +2031,7 @@
             <falscheAntwort1>LDA</falscheAntwort1>
             <falscheAntwort2>DSP</falscheAntwort2>
             <falscheAntwort3>DSW</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2041,7 +2041,7 @@
             <falscheAntwort1>LDI</falscheAntwort1>
             <falscheAntwort2>LAD</falscheAntwort2>
             <falscheAntwort3>LKR</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2051,7 +2051,7 @@
             <falscheAntwort1>LA</falscheAntwort1>
             <falscheAntwort2>LP</falscheAntwort2>
             <falscheAntwort3>LPZ</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2061,7 +2061,7 @@
             <falscheAntwort1>LW</falscheAntwort1>
             <falscheAntwort2>LD</falscheAntwort2>
             <falscheAntwort3>LG</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2071,7 +2071,7 @@
             <falscheAntwort1>LAN</falscheAntwort1>
             <falscheAntwort2>NBL</falscheAntwort2>
             <falscheAntwort3>NBG</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2081,7 +2081,7 @@
             <falscheAntwort1>LH</falscheAntwort1>
             <falscheAntwort2>LD</falscheAntwort2>
             <falscheAntwort3>LT</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2091,7 +2091,7 @@
             <falscheAntwort1>LB</falscheAntwort1>
             <falscheAntwort2>LE</falscheAntwort2>
             <falscheAntwort3>LZ</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2101,7 +2101,7 @@
             <falscheAntwort1>HHK</falscheAntwort1>
             <falscheAntwort2>HLK</falscheAntwort2>
             <falscheAntwort3>KKS</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2111,7 +2111,7 @@
             <falscheAntwort1>KÖH</falscheAntwort1>
             <falscheAntwort2>KÖ</falscheAntwort2>
             <falscheAntwort3>KÖN</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2121,7 +2121,7 @@
             <falscheAntwort1>KFF</falscheAntwort1>
             <falscheAntwort2>KHK</falscheAntwort2>
             <falscheAntwort3>KHR</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2131,7 +2131,7 @@
             <falscheAntwort1>KS</falscheAntwort1>
             <falscheAntwort2>KU</falscheAntwort2>
             <falscheAntwort3>KSE</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2141,7 +2141,7 @@
             <falscheAntwort1>KM</falscheAntwort1>
             <falscheAntwort2>KB</falscheAntwort2>
             <falscheAntwort3>KL</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2151,7 +2151,7 @@
             <falscheAntwort1>KN</falscheAntwort1>
             <falscheAntwort2>KI</falscheAntwort2>
             <falscheAntwort3>KG</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2161,7 +2161,7 @@
             <falscheAntwort1>KAS</falscheAntwort1>
             <falscheAntwort2>KA</falscheAntwort2>
             <falscheAntwort3>KL</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -2171,7 +2171,7 @@
             <falscheAntwort1>KD</falscheAntwort1>
             <falscheAntwort2>KF</falscheAntwort2>
             <falscheAntwort3>KRE</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2181,7 +2181,7 @@
             <falscheAntwort1>KL</falscheAntwort1>
             <falscheAntwort2>KB</falscheAntwort2>
             <falscheAntwort3>KOB</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2191,7 +2191,7 @@
             <falscheAntwort1>KS</falscheAntwort1>
             <falscheAntwort2>KO</falscheAntwort2>
             <falscheAntwort3>KT</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2201,7 +2201,7 @@
             <falscheAntwort1>KZ</falscheAntwort1>
             <falscheAntwort2>KA</falscheAntwort2>
             <falscheAntwort3>KAM</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2211,7 +2211,7 @@
             <falscheAntwort1>KL</falscheAntwort1>
             <falscheAntwort2>KLV</falscheAntwort2>
             <falscheAntwort3>KV</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2221,7 +2221,7 @@
             <falscheAntwort1>KS</falscheAntwort1>
             <falscheAntwort2>KA</falscheAntwort2>
             <falscheAntwort3>KT</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2231,7 +2231,7 @@
             <falscheAntwort1>DOK</falscheAntwort1>
             <falscheAntwort2>DBK</falscheAntwort2>
             <falscheAntwort3>KGB</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2241,7 +2241,7 @@
             <falscheAntwort1>KL</falscheAntwort1>
             <falscheAntwort2>K</falscheAntwort2>
             <falscheAntwort3>KIE</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2251,7 +2251,7 @@
             <falscheAntwort1>BKR</falscheAntwort1>
             <falscheAntwort2>BKH</falscheAntwort2>
             <falscheAntwort3>KR</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2261,7 +2261,7 @@
             <falscheAntwort1>BKI</falscheAntwort1>
             <falscheAntwort2>BKG</falscheAntwort2>
             <falscheAntwort3>KIS</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2271,7 +2271,7 @@
             <falscheAntwort1>KB</falscheAntwort1>
             <falscheAntwort2>KA</falscheAntwort2>
             <falscheAntwort3>KAU</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2281,7 +2281,7 @@
             <falscheAntwort1>KEM</falscheAntwort1>
             <falscheAntwort2>KEL</falscheAntwort2>
             <falscheAntwort3>KE</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2291,7 +2291,7 @@
             <falscheAntwort1>K</falscheAntwort1>
             <falscheAntwort2>KEM</falscheAntwort2>
             <falscheAntwort3>KP</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2301,7 +2301,7 @@
             <falscheAntwort1>KO</falscheAntwort1>
             <falscheAntwort2>KR</falscheAntwort2>
             <falscheAntwort3>KN</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2311,7 +2311,7 @@
             <falscheAntwort1>WF</falscheAntwort1>
             <falscheAntwort2>KW</falscheAntwort2>
             <falscheAntwort3>WAF</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2321,7 +2321,7 @@
             <falscheAntwort1>KL</falscheAntwort1>
             <falscheAntwort2>KR</falscheAntwort2>
             <falscheAntwort3>KAR</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2331,7 +2331,7 @@
             <falscheAntwort1>KL</falscheAntwort1>
             <falscheAntwort2>KÖ</falscheAntwort2>
             <falscheAntwort3>KN</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2341,7 +2341,7 @@
             <falscheAntwort1>JRL</falscheAntwort1>
             <falscheAntwort2>JEL</falscheAntwort2>
             <falscheAntwort3>JE</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2351,7 +2351,7 @@
             <falscheAntwort1>JA</falscheAntwort1>
             <falscheAntwort2>JE</falscheAntwort2>
             <falscheAntwort3>JN</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2361,7 +2361,7 @@
             <falscheAntwort1>STB</falscheAntwort1>
             <falscheAntwort2>ST</falscheAntwort2>
             <falscheAntwort3>IB</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2371,7 +2371,7 @@
             <falscheAntwort1>IGS</falscheAntwort1>
             <falscheAntwort2>IS</falscheAntwort2>
             <falscheAntwort3>INS</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2381,7 +2381,7 @@
             <falscheAntwort1>IKR</falscheAntwort1>
             <falscheAntwort2>ILK</falscheAntwort2>
             <falscheAntwort3>IKS</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2391,7 +2391,7 @@
             <falscheAntwort1>SIG</falscheAntwort1>
             <falscheAntwort2>STI</falscheAntwort2>
             <falscheAntwort3>SIB</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2401,7 +2401,7 @@
             <falscheAntwort1>FRD</falscheAntwort1>
             <falscheAntwort2>FRL</falscheAntwort2>
             <falscheAntwort3>FES</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2411,7 +2411,7 @@
             <falscheAntwort1>FY</falscheAntwort1>
             <falscheAntwort2>FG</falscheAntwort2>
             <falscheAntwort3>FGF</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2421,7 +2421,7 @@
             <falscheAntwort1>FIB</falscheAntwort1>
             <falscheAntwort2>FB</falscheAntwort2>
             <falscheAntwort3>FRB</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2431,7 +2431,7 @@
             <falscheAntwort1>FOR</falscheAntwort1>
             <falscheAntwort2>FH</falscheAntwort2>
             <falscheAntwort3>FHH</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2441,7 +2441,7 @@
             <falscheAntwort1>FG</falscheAntwort1>
             <falscheAntwort2>FB</falscheAntwort2>
             <falscheAntwort3>FS</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2451,7 +2451,7 @@
             <falscheAntwort1>FB</falscheAntwort1>
             <falscheAntwort2>FR</falscheAntwort2>
             <falscheAntwort3>FU</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2461,7 +2461,7 @@
             <falscheAntwort1>FF</falscheAntwort1>
             <falscheAntwort2>FB</falscheAntwort2>
             <falscheAntwort3>FÜR</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2471,7 +2471,7 @@
             <falscheAntwort1>FR</falscheAntwort1>
             <falscheAntwort2>FO</falscheAntwort2>
             <falscheAntwort3>FRO</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2481,7 +2481,7 @@
             <falscheAntwort1>FDA</falscheAntwort1>
             <falscheAntwort2>FRE</falscheAntwort2>
             <falscheAntwort3>FRS</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2491,7 +2491,7 @@
             <falscheAntwort1>FL</falscheAntwort1>
             <falscheAntwort2>FU</falscheAntwort2>
             <falscheAntwort3>FA</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2501,7 +2501,7 @@
             <falscheAntwort1>FR</falscheAntwort1>
             <falscheAntwort2>FM</falscheAntwort2>
             <falscheAntwort3>FA</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2511,7 +2511,7 @@
             <falscheAntwort1>EK</falscheAntwort1>
             <falscheAntwort2>EUS</falscheAntwort2>
             <falscheAntwort3>EKI</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2521,7 +2521,7 @@
             <falscheAntwort1>WER</falscheAntwort1>
             <falscheAntwort2>WMK</falscheAntwort2>
             <falscheAntwort3>WEM</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2531,7 +2531,7 @@
             <falscheAntwort1>ESN</falscheAntwort1>
             <falscheAntwort2>ESL</falscheAntwort2>
             <falscheAntwort3>ESG</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2541,7 +2541,7 @@
             <falscheAntwort1>EHÖ</falscheAntwort1>
             <falscheAntwort2>ERL</falscheAntwort2>
             <falscheAntwort3>EH</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2551,7 +2551,7 @@
             <falscheAntwort1>OWK</falscheAntwort1>
             <falscheAntwort2>ODK</falscheAntwort2>
             <falscheAntwort3>ERK</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2561,7 +2561,7 @@
             <falscheAntwort1>EG</falscheAntwort1>
             <falscheAntwort2>EL</falscheAntwort2>
             <falscheAntwort3>ERL</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2571,7 +2571,7 @@
             <falscheAntwort1>EK</falscheAntwort1>
             <falscheAntwort2>ER</falscheAntwort2>
             <falscheAntwort3>ERK</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2581,7 +2581,7 @@
             <falscheAntwort1>E</falscheAntwort1>
             <falscheAntwort2>EM</falscheAntwort2>
             <falscheAntwort3>EDN</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -2591,7 +2591,7 @@
             <falscheAntwort1>EMM</falscheAntwort1>
             <falscheAntwort2>ED</falscheAntwort2>
             <falscheAntwort3>EMD</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2601,7 +2601,7 @@
             <falscheAntwort1>ESL</falscheAntwort1>
             <falscheAntwort2>EM</falscheAntwort2>
             <falscheAntwort3>ELA</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2611,7 +2611,7 @@
             <falscheAntwort1>EF</falscheAntwort1>
             <falscheAntwort2>EI</falscheAntwort2>
             <falscheAntwort3>ED</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2621,7 +2621,7 @@
             <falscheAntwort1>ET</falscheAntwort1>
             <falscheAntwort2>ES</falscheAntwort2>
             <falscheAntwort3>EIC</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2631,7 +2631,7 @@
             <falscheAntwort1>ET</falscheAntwort1>
             <falscheAntwort2>ER</falscheAntwort2>
             <falscheAntwort3>ERF</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2641,7 +2641,7 @@
             <falscheAntwort1>ELL</falscheAntwort1>
             <falscheAntwort2>ELE</falscheAntwort2>
             <falscheAntwort3>ELB</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2651,7 +2651,7 @@
             <falscheAntwort1>EG</falscheAntwort1>
             <falscheAntwort2>ER</falscheAntwort2>
             <falscheAntwort3>EN</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2661,7 +2661,7 @@
             <falscheAntwort1>EBG</falscheAntwort1>
             <falscheAntwort2>EBB</falscheAntwort2>
             <falscheAntwort3>EBS</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2671,7 +2671,7 @@
             <falscheAntwort1>EI</falscheAntwort1>
             <falscheAntwort2>ES</falscheAntwort2>
             <falscheAntwort3>EN</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2681,7 +2681,7 @@
             <falscheAntwort1>EE</falscheAntwort1>
             <falscheAntwort2>EN</falscheAntwort2>
             <falscheAntwort3>ES</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2691,7 +2691,7 @@
             <falscheAntwort1>BDÜ</falscheAntwort1>
             <falscheAntwort2>BDH</falscheAntwort2>
             <falscheAntwort3>DÜR</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2701,7 +2701,7 @@
             <falscheAntwort1>DT</falscheAntwort1>
             <falscheAntwort2>DL</falscheAntwort2>
             <falscheAntwort3>DTS</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2711,7 +2711,7 @@
             <falscheAntwort1>DR</falscheAntwort1>
             <falscheAntwort2>DB</falscheAntwort2>
             <falscheAntwort3>DG</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2721,7 +2721,7 @@
             <falscheAntwort1>DRI</falscheAntwort1>
             <falscheAntwort2>DOR</falscheAntwort2>
             <falscheAntwort3>DRS</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2731,7 +2731,7 @@
             <falscheAntwort1>D</falscheAntwort1>
             <falscheAntwort2>DT</falscheAntwort2>
             <falscheAntwort3>DM</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2741,7 +2741,7 @@
             <falscheAntwort1>DR</falscheAntwort1>
             <falscheAntwort2>DÜ</falscheAntwort2>
             <falscheAntwort3>DE</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2751,7 +2751,7 @@
             <falscheAntwort1>DE</falscheAntwort1>
             <falscheAntwort2>DN</falscheAntwort2>
             <falscheAntwort3>DEM</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2761,7 +2761,7 @@
             <falscheAntwort1>DID</falscheAntwort1>
             <falscheAntwort2>DLD</falscheAntwort2>
             <falscheAntwort3>DLL</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2771,7 +2771,7 @@
             <falscheAntwort1>DB</falscheAntwort1>
             <falscheAntwort2>DÖ</falscheAntwort2>
             <falscheAntwort3>DN</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2781,7 +2781,7 @@
             <falscheAntwort1>DP</falscheAntwort1>
             <falscheAntwort2>DI</falscheAntwort2>
             <falscheAntwort3>DZ</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2791,7 +2791,7 @@
             <falscheAntwort1>DFL</falscheAntwort1>
             <falscheAntwort2>DFG</falscheAntwort2>
             <falscheAntwort3>DLD</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2801,7 +2801,7 @@
             <falscheAntwort1>DMH</falscheAntwort1>
             <falscheAntwort2>DEH</falscheAntwort2>
             <falscheAntwort3>DLT</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2811,7 +2811,7 @@
             <falscheAntwort1>DEF</falscheAntwort1>
             <falscheAntwort2>DED</falscheAntwort2>
             <falscheAntwort3>DGG</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2821,7 +2821,7 @@
             <falscheAntwort1>DS</falscheAntwort1>
             <falscheAntwort2>DES</falscheAntwort2>
             <falscheAntwort3>DU</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2831,7 +2831,7 @@
             <falscheAntwort1>DR</falscheAntwort1>
             <falscheAntwort2>DE</falscheAntwort2>
             <falscheAntwort3>D</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2841,7 +2841,7 @@
             <falscheAntwort1>BDO</falscheAntwort1>
             <falscheAntwort2>BDR</falscheAntwort2>
             <falscheAntwort3>BDN</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2851,7 +2851,7 @@
             <falscheAntwort1>DN</falscheAntwort1>
             <falscheAntwort2>DA</falscheAntwort2>
             <falscheAntwort3>DAN</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2861,7 +2861,7 @@
             <falscheAntwort1>DAB</falscheAntwort1>
             <falscheAntwort2>LDA</falscheAntwort2>
             <falscheAntwort3>LDB</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2871,7 +2871,7 @@
             <falscheAntwort1>DAA</falscheAntwort1>
             <falscheAntwort2>DAC</falscheAntwort2>
             <falscheAntwort3>DAU</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2881,7 +2881,7 @@
             <falscheAntwort1>DB</falscheAntwort1>
             <falscheAntwort2>DD</falscheAntwort2>
             <falscheAntwort3>DG</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2891,7 +2891,7 @@
             <falscheAntwort1>DS</falscheAntwort1>
             <falscheAntwort2>DD</falscheAntwort2>
             <falscheAntwort3>DÜ</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2901,7 +2901,7 @@
             <falscheAntwort1>CL</falscheAntwort1>
             <falscheAntwort2>CA</falscheAntwort2>
             <falscheAntwort3>C</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2911,7 +2911,7 @@
             <falscheAntwort1>CUF</falscheAntwort1>
             <falscheAntwort2>CUH</falscheAntwort2>
             <falscheAntwort3>CUN</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2921,7 +2921,7 @@
             <falscheAntwort1>COF</falscheAntwort1>
             <falscheAntwort2>COS</falscheAntwort2>
             <falscheAntwort3>COD</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2931,7 +2931,7 @@
             <falscheAntwort1>CLZ</falscheAntwort1>
             <falscheAntwort2>COZ</falscheAntwort2>
             <falscheAntwort3>CMZ</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2941,7 +2941,7 @@
             <falscheAntwort1>CU</falscheAntwort1>
             <falscheAntwort2>COB</falscheAntwort2>
             <falscheAntwort3>CG</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2951,7 +2951,7 @@
             <falscheAntwort1>CLB</falscheAntwort1>
             <falscheAntwort2>CLO</falscheAntwort2>
             <falscheAntwort3>CLG</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2961,7 +2961,7 @@
             <falscheAntwort1>CA</falscheAntwort1>
             <falscheAntwort2>CH</falscheAntwort2>
             <falscheAntwort3>C</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2971,7 +2971,7 @@
             <falscheAntwort1>CL</falscheAntwort1>
             <falscheAntwort2>C</falscheAntwort2>
             <falscheAntwort3>CEL</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2981,7 +2981,7 @@
             <falscheAntwort1>CT</falscheAntwort1>
             <falscheAntwort2>CO</falscheAntwort2>
             <falscheAntwort3>CS</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2991,7 +2991,7 @@
             <falscheAntwort1>CM</falscheAntwort1>
             <falscheAntwort2>CH</falscheAntwort2>
             <falscheAntwort3>CT</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -3001,7 +3001,7 @@
             <falscheAntwort1>BÜG</falscheAntwort1>
             <falscheAntwort2>BÜK</falscheAntwort2>
             <falscheAntwort3>BÜN</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3011,7 +3011,7 @@
             <falscheAntwort1>BK</falscheAntwort1>
             <falscheAntwort2>BD</falscheAntwort2>
             <falscheAntwort3>BS</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3021,7 +3021,7 @@
             <falscheAntwort1>BT</falscheAntwort1>
             <falscheAntwort2>BA</falscheAntwort2>
             <falscheAntwort3>BN</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3031,7 +3031,7 @@
             <falscheAntwort1>BIF</falscheAntwort1>
             <falscheAntwort2>BIT</falscheAntwort2>
             <falscheAntwort3>BTD</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3041,7 +3041,7 @@
             <falscheAntwort1>BY</falscheAntwort1>
             <falscheAntwort2>BA</falscheAntwort2>
             <falscheAntwort3>BR</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3051,7 +3051,7 @@
             <falscheAntwort1>BR</falscheAntwort1>
             <falscheAntwort2>B</falscheAntwort2>
             <falscheAntwort3>BG</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3061,7 +3061,7 @@
             <falscheAntwort1>BBG</falscheAntwort1>
             <falscheAntwort2>BDB</falscheAntwort2>
             <falscheAntwort3>BRG</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3071,7 +3071,7 @@
             <falscheAntwort1>BO</falscheAntwort1>
             <falscheAntwort2>BOP</falscheAntwort2>
             <falscheAntwort3>BOO</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -3081,7 +3081,7 @@
             <falscheAntwort1>B</falscheAntwort1>
             <falscheAntwort2>BO</falscheAntwort2>
             <falscheAntwort3>BK</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3091,7 +3091,7 @@
             <falscheAntwort1>BOC</falscheAntwort1>
             <falscheAntwort2>B</falscheAntwort2>
             <falscheAntwort3>BH</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -3101,7 +3101,7 @@
             <falscheAntwort1>BO</falscheAntwort1>
             <falscheAntwort2>B</falscheAntwort2>
             <falscheAntwort3>BON</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -3111,7 +3111,7 @@
             <falscheAntwort1>BKS</falscheAntwort1>
             <falscheAntwort2>BGL</falscheAntwort2>
             <falscheAntwort3>BUK</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3121,7 +3121,7 @@
             <falscheAntwort1>ZLK</falscheAntwort1>
             <falscheAntwort2>ZAK</falscheAntwort2>
             <falscheAntwort3>BOL</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3131,7 +3131,7 @@
             <falscheAntwort1>BTP</falscheAntwort1>
             <falscheAntwort2>BIP</falscheAntwort2>
             <falscheAntwort3>BGP</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3141,7 +3141,7 @@
             <falscheAntwort1>BIN</falscheAntwort1>
             <falscheAntwort2>BFN</falscheAntwort2>
             <falscheAntwort3>BKN</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -3151,7 +3151,7 @@
             <falscheAntwort1>BF</falscheAntwort1>
             <falscheAntwort2>BL</falscheAntwort2>
             <falscheAntwort3>BD</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -3161,7 +3161,7 @@
             <falscheAntwort1>BTL</falscheAntwort1>
             <falscheAntwort2>BER</falscheAntwort2>
             <falscheAntwort3>BL</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3171,7 +3171,7 @@
             <falscheAntwort1>BB</falscheAntwort1>
             <falscheAntwort2>BI</falscheAntwort2>
             <falscheAntwort3>BR</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3181,7 +3181,7 @@
             <falscheAntwort1>BNB</falscheAntwort1>
             <falscheAntwort2>BBB</falscheAntwort2>
             <falscheAntwort3>BEB</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3191,7 +3191,7 @@
             <falscheAntwort1>BL</falscheAntwort1>
             <falscheAntwort2>BÖ</falscheAntwort2>
             <falscheAntwort3>BG</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3201,7 +3201,7 @@
             <falscheAntwort1>BAI</falscheAntwort1>
             <falscheAntwort2>BAN</falscheAntwort2>
             <falscheAntwort3>BAM</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3211,7 +3211,7 @@
             <falscheAntwort1>BAB</falscheAntwort1>
             <falscheAntwort2>BB</falscheAntwort2>
             <falscheAntwort3>BBN</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3221,7 +3221,7 @@
             <falscheAntwort1>B</falscheAntwort1>
             <falscheAntwort2>BB</falscheAntwort2>
             <falscheAntwort3>BG</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3231,7 +3231,7 @@
             <falscheAntwort1>BL</falscheAntwort1>
             <falscheAntwort2>BE</falscheAntwort2>
             <falscheAntwort3>BN</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -3241,7 +3241,7 @@
             <falscheAntwort1>AN</falscheAntwort1>
             <falscheAntwort2>AT</falscheAntwort2>
             <falscheAntwort3>AG</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -3251,7 +3251,7 @@
             <falscheAntwort1>AHZ</falscheAntwort1>
             <falscheAntwort2>ANZ</falscheAntwort2>
             <falscheAntwort3>AZT</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3261,7 +3261,7 @@
             <falscheAntwort1>ALZ</falscheAntwort1>
             <falscheAntwort2>AW</falscheAntwort2>
             <falscheAntwort3>ALW</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3271,7 +3271,7 @@
             <falscheAntwort1>ARW</falscheAntwort1>
             <falscheAntwort2>AHW</falscheAntwort2>
             <falscheAntwort3>AWL</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3281,7 +3281,7 @@
             <falscheAntwort1>AU</falscheAntwort1>
             <falscheAntwort2>A</falscheAntwort2>
             <falscheAntwort3>AR</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -3291,7 +3291,7 @@
             <falscheAntwort1>ASB</falscheAntwort1>
             <falscheAntwort2>AUS</falscheAntwort2>
             <falscheAntwort3>AUB</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3301,7 +3301,7 @@
             <falscheAntwort1>ASF</falscheAntwort1>
             <falscheAntwort2>ASS</falscheAntwort2>
             <falscheAntwort3>ASB</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3311,7 +3311,7 @@
             <falscheAntwort1>AB</falscheAntwort1>
             <falscheAntwort2>AM</falscheAntwort2>
             <falscheAntwort3>AMS</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3321,7 +3321,7 @@
             <falscheAntwort1>WEL</falscheAntwort1>
             <falscheAntwort2>WL</falscheAntwort2>
             <falscheAntwort3>AL</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3331,7 +3331,7 @@
             <falscheAntwort1>ANB</falscheAntwort1>
             <falscheAntwort2>AB</falscheAntwort2>
             <falscheAntwort3>ABG</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3341,7 +3341,7 @@
             <falscheAntwort1>AB</falscheAntwort1>
             <falscheAntwort2>ANS</falscheAntwort2>
             <falscheAntwort3>ANB</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3351,7 +3351,7 @@
             <falscheAntwort1>AG</falscheAntwort1>
             <falscheAntwort2>AB</falscheAntwort2>
             <falscheAntwort3>AMB</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3361,7 +3361,7 @@
             <falscheAntwort1>AH</falscheAntwort1>
             <falscheAntwort2>AL</falscheAntwort2>
             <falscheAntwort3>ALT</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3371,7 +3371,7 @@
             <falscheAntwort1>AIB</falscheAntwort1>
             <falscheAntwort2>AF</falscheAntwort2>
             <falscheAntwort3>AAF</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3381,7 +3381,7 @@
             <falscheAntwort1>AA</falscheAntwort1>
             <falscheAntwort2>A</falscheAntwort2>
             <falscheAntwort3>AH</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -3391,7 +3391,7 @@
             <falscheAntwort1>ALB</falscheAntwort1>
             <falscheAntwort2>ALL</falscheAntwort2>
             <falscheAntwort3>ABL</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3401,7 +3401,7 @@
             <falscheAntwort1>AS</falscheAntwort1>
             <falscheAntwort2>A</falscheAntwort2>
             <falscheAntwort3>AG</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3411,7 +3411,7 @@
             <falscheAntwort1>OK</falscheAntwort1>
             <falscheAntwort2>OA</falscheAntwort2>
             <falscheAntwort3>AK</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3421,7 +3421,7 @@
             <falscheAntwort1>GW</falscheAntwort1>
             <falscheAntwort2>GT</falscheAntwort2>
             <falscheAntwort3>GR</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3431,7 +3431,7 @@
             <falscheAntwort1>GN</falscheAntwort1>
             <falscheAntwort2>GT</falscheAntwort2>
             <falscheAntwort3>GG</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3441,7 +3441,7 @@
             <falscheAntwort1>GB</falscheAntwort1>
             <falscheAntwort2>GÜ</falscheAntwort2>
             <falscheAntwort3>GG</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3451,7 +3451,7 @@
             <falscheAntwort1>GOA</falscheAntwort1>
             <falscheAntwort2>GOT</falscheAntwort2>
             <falscheAntwort3>GOH</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3461,7 +3461,7 @@
             <falscheAntwort1>GL</falscheAntwort1>
             <falscheAntwort2>GÜ</falscheAntwort2>
             <falscheAntwort3>GH</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3471,7 +3471,7 @@
             <falscheAntwort1>GL</falscheAntwort1>
             <falscheAntwort2>GO</falscheAntwort2>
             <falscheAntwort3>GR</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3481,7 +3481,7 @@
             <falscheAntwort1>GZ</falscheAntwort1>
             <falscheAntwort2>GRE</falscheAntwort2>
             <falscheAntwort3>GR</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3491,7 +3491,7 @@
             <falscheAntwort1>GL</falscheAntwort1>
             <falscheAntwort2>GÖ</falscheAntwort2>
             <falscheAntwort3>GZ</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3501,7 +3501,7 @@
             <falscheAntwort1>GG</falscheAntwort1>
             <falscheAntwort2>GÖ</falscheAntwort2>
             <falscheAntwort3>GN</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3511,7 +3511,7 @@
             <falscheAntwort1>GN</falscheAntwort1>
             <falscheAntwort2>GE</falscheAntwort2>
             <falscheAntwort3>G</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3521,7 +3521,7 @@
             <falscheAntwort1>GE</falscheAntwort1>
             <falscheAntwort2>GR</falscheAntwort2>
             <falscheAntwort3>GA</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -3531,7 +3531,7 @@
             <falscheAntwort1>GO</falscheAntwort1>
             <falscheAntwort2>GI</falscheAntwort2>
             <falscheAntwort3>GN</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3541,7 +3541,7 @@
             <falscheAntwort1>GEH</falscheAntwort1>
             <falscheAntwort2>GMH</falscheAntwort2>
             <falscheAntwort3>GEM</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3551,7 +3551,7 @@
             <falscheAntwort1>GK</falscheAntwort1>
             <falscheAntwort2>GL</falscheAntwort2>
             <falscheAntwort3>G</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -3561,7 +3561,7 @@
             <falscheAntwort1>GAK</falscheAntwort1>
             <falscheAntwort2>GAR</falscheAntwort2>
             <falscheAntwort3>GAN</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -3571,7 +3571,7 @@
             <falscheAntwort1>GE</falscheAntwort1>
             <falscheAntwort2>GR</falscheAntwort2>
             <falscheAntwort3>GA</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -3581,7 +3581,7 @@
             <falscheAntwort1>FT</falscheAntwort1>
             <falscheAntwort2>FR</falscheAntwort2>
             <falscheAntwort3>FH</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -3591,7 +3591,7 @@
             <falscheAntwort1>FK</falscheAntwort1>
             <falscheAntwort2>FR</falscheAntwort2>
             <falscheAntwort3>FL</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3601,7 +3601,7 @@
             <falscheAntwort1>FI</falscheAntwort1>
             <falscheAntwort2>FR</falscheAntwort2>
             <falscheAntwort3>FG</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -3611,7 +3611,7 @@
             <falscheAntwort1>AB</falscheAntwort1>
             <falscheAntwort2>AU</falscheAntwort2>
             <falscheAntwort3>AG</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>

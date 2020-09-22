@@ -11,7 +11,7 @@
             <falscheAntwort1>Saturn</falscheAntwort1>
             <falscheAntwort2>Neptun</falscheAntwort2>
             <falscheAntwort3>Erde</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -21,7 +21,7 @@
             <falscheAntwort1>Mikroskop</falscheAntwort1>
             <falscheAntwort2>Fernglas</falscheAntwort2>
             <falscheAntwort3>Brille</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -31,7 +31,7 @@
             <falscheAntwort1>Krematorium</falscheAntwort1>
             <falscheAntwort2>Oratorium</falscheAntwort2>
             <falscheAntwort3>Raumstation</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -41,7 +41,7 @@
             <falscheAntwort1>Sternstraße</falscheAntwort1>
             <falscheAntwort2>Sternhaufen</falscheAntwort2>
             <falscheAntwort3>Milchautobahn</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -51,7 +51,7 @@
             <falscheAntwort1>Johannes Kepler</falscheAntwort1>
             <falscheAntwort2>Johann Sebastian Bach</falscheAntwort2>
             <falscheAntwort3>Friedrich Schiller</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -61,7 +61,7 @@
             <falscheAntwort1>Luft</falscheAntwort1>
             <falscheAntwort2>Gas</falscheAntwort2>
             <falscheAntwort3>Nebel</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -71,7 +71,7 @@
             <falscheAntwort1>Uranus und Neptun</falscheAntwort1>
             <falscheAntwort2>Miranda und Triton</falscheAntwort2>
             <falscheAntwort3>Titan und Charon</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -81,7 +81,7 @@
             <falscheAntwort1>Apollo</falscheAntwort1>
             <falscheAntwort2>Sojus</falscheAntwort2>
             <falscheAntwort3>Hubble</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -91,7 +91,7 @@
             <falscheAntwort1>Raketen</falscheAntwort1>
             <falscheAntwort2>Sonden</falscheAntwort2>
             <falscheAntwort3>Raumschiffe</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -101,7 +101,7 @@
             <falscheAntwort1>Erde</falscheAntwort1>
             <falscheAntwort2>Merkur</falscheAntwort2>
             <falscheAntwort3>Titan</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -111,7 +111,7 @@
             <falscheAntwort1>Planet</falscheAntwort1>
             <falscheAntwort2>Mars</falscheAntwort2>
             <falscheAntwort3>Sonne</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -121,7 +121,7 @@
             <falscheAntwort1>John Glenn</falscheAntwort1>
             <falscheAntwort2>Juri Gagarin</falscheAntwort2>
             <falscheAntwort3>Ulf Merbold</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -131,7 +131,7 @@
             <falscheAntwort1>Planeten</falscheAntwort1>
             <falscheAntwort2>Asteroiden</falscheAntwort2>
             <falscheAntwort3>Sterne</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -141,7 +141,7 @@
             <falscheAntwort1>aus Eis</falscheAntwort1>
             <falscheAntwort2>aus Luft</falscheAntwort2>
             <falscheAntwort3>aus Gestein</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -151,7 +151,7 @@
             <falscheAntwort1>Physiker</falscheAntwort1>
             <falscheAntwort2>Biologen</falscheAntwort2>
             <falscheAntwort3>Sterngucker</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -161,7 +161,7 @@
             <falscheAntwort1>Miranda</falscheAntwort1>
             <falscheAntwort2>Triton</falscheAntwort2>
             <falscheAntwort3>Charon</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -171,7 +171,7 @@
             <falscheAntwort1>der schöne Planet</falscheAntwort1>
             <falscheAntwort2>der bewohnte Planet</falscheAntwort2>
             <falscheAntwort3>der fruchtbare Planet</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -181,7 +181,7 @@
             <falscheAntwort1>fliegende Unterteller</falscheAntwort1>
             <falscheAntwort2>Raketen</falscheAntwort2>
             <falscheAntwort3>Raumschiffe</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -191,7 +191,7 @@
             <falscheAntwort1>Uranus</falscheAntwort1>
             <falscheAntwort2>Merkur</falscheAntwort2>
             <falscheAntwort3>Mond</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -201,7 +201,7 @@
             <falscheAntwort1>eine Raumstation</falscheAntwort1>
             <falscheAntwort2>eine italienische Eisdiele</falscheAntwort2>
             <falscheAntwort3>eine Diskothek</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -211,7 +211,7 @@
             <falscheAntwort1>eine Woche</falscheAntwort1>
             <falscheAntwort2>einen Tag</falscheAntwort2>
             <falscheAntwort3>einen Monat</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -221,7 +221,7 @@
             <falscheAntwort1>Stier</falscheAntwort1>
             <falscheAntwort2>Fisch</falscheAntwort2>
             <falscheAntwort3>Zwilling</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -231,7 +231,7 @@
             <falscheAntwort1>Gasschicht</falscheAntwort1>
             <falscheAntwort2>Atmosphäre</falscheAntwort2>
             <falscheAntwort3>Luftschicht</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -241,7 +241,7 @@
             <falscheAntwort1>Pluto</falscheAntwort1>
             <falscheAntwort2>Mars</falscheAntwort2>
             <falscheAntwort3>Jupiter</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>

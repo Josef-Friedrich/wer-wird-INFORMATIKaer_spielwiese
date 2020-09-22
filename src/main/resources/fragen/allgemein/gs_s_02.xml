@@ -11,7 +11,7 @@
             <falscheAntwort1>Aurich</falscheAntwort1>
             <falscheAntwort2>Altenberg</falscheAntwort2>
             <falscheAntwort3>Aschaffenburg</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -21,7 +21,7 @@
             <falscheAntwort1>Tante</falscheAntwort1>
             <falscheAntwort2>Schwester</falscheAntwort2>
             <falscheAntwort3>Mutter</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -31,7 +31,7 @@
             <falscheAntwort1>Runde</falscheAntwort1>
             <falscheAntwort2>Masse</falscheAntwort2>
             <falscheAntwort3>Flotte</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -41,7 +41,7 @@
             <falscheAntwort1>Neapel</falscheAntwort1>
             <falscheAntwort2>Pisa</falscheAntwort2>
             <falscheAntwort3>Rimini</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -51,7 +51,7 @@
             <falscheAntwort1>Vogel</falscheAntwort1>
             <falscheAntwort2>Libelle</falscheAntwort2>
             <falscheAntwort3>alte Frau</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -61,7 +61,7 @@
             <falscheAntwort1>Segelschiff</falscheAntwort1>
             <falscheAntwort2>Nähmaschine</falscheAntwort2>
             <falscheAntwort3>Popgruppe</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -71,7 +71,7 @@
             <falscheAntwort1>Bauer</falscheAntwort1>
             <falscheAntwort2>Turm</falscheAntwort2>
             <falscheAntwort3>Pferd</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -81,7 +81,7 @@
             <falscheAntwort1>FFM</falscheAntwort1>
             <falscheAntwort2>FM</falscheAntwort2>
             <falscheAntwort3>FAM</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -91,7 +91,7 @@
             <falscheAntwort1>Hans Spaßig</falscheAntwort1>
             <falscheAntwort2>Kerl Freudig</falscheAntwort2>
             <falscheAntwort3>Otto Ernst</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -101,7 +101,7 @@
             <falscheAntwort1>3. November</falscheAntwort1>
             <falscheAntwort2>22. März</falscheAntwort2>
             <falscheAntwort3>14. Februar</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -111,7 +111,7 @@
             <falscheAntwort1>schade</falscheAntwort1>
             <falscheAntwort2>Guten Tag</falscheAntwort2>
             <falscheAntwort3>bitte</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -121,7 +121,7 @@
             <falscheAntwort1>Wörterbuch</falscheAntwort1>
             <falscheAntwort2>Schmetterling</falscheAntwort2>
             <falscheAntwort3>Gemüse</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -131,7 +131,7 @@
             <falscheAntwort1>Sprotten</falscheAntwort1>
             <falscheAntwort2>Marzipan</falscheAntwort2>
             <falscheAntwort3>Käse</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -141,7 +141,7 @@
             <falscheAntwort1>englischer Popstar</falscheAntwort1>
             <falscheAntwort2>schweizer Erfinder</falscheAntwort2>
             <falscheAntwort3>deutscher Schauspieler</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -151,7 +151,7 @@
             <falscheAntwort1>Küchenwaage</falscheAntwort1>
             <falscheAntwort2>Brückenwaage</falscheAntwort2>
             <falscheAntwort3>Personenwaage</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -161,7 +161,7 @@
             <falscheAntwort1>Bär</falscheAntwort1>
             <falscheAntwort2>Hase</falscheAntwort2>
             <falscheAntwort3>Fuchs</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -171,7 +171,7 @@
             <falscheAntwort1>Dinosaurier</falscheAntwort1>
             <falscheAntwort2>Fernrohr</falscheAntwort2>
             <falscheAntwort3>Küchenwaage</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -181,7 +181,7 @@
             <falscheAntwort1>Rocko</falscheAntwort1>
             <falscheAntwort2>Misty</falscheAntwort2>
             <falscheAntwort3>Ash</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -191,7 +191,7 @@
             <falscheAntwort1>Schwarze Henker</falscheAntwort1>
             <falscheAntwort2>Grüne Hüpfer</falscheAntwort2>
             <falscheAntwort3>Braune Wiesel</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -201,7 +201,7 @@
             <falscheAntwort1>Erdäpfel</falscheAntwort1>
             <falscheAntwort2>Paradiesapfel</falscheAntwort2>
             <falscheAntwort3>Grundbirn</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -211,7 +211,7 @@
             <falscheAntwort1>Skandinavisches Meer</falscheAntwort1>
             <falscheAntwort2>Ostfriesenmeer</falscheAntwort2>
             <falscheAntwort3>Schwarzes Meer</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -221,7 +221,7 @@
             <falscheAntwort1>Sand</falscheAntwort1>
             <falscheAntwort2>Kunststoff</falscheAntwort2>
             <falscheAntwort3>Beton</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -231,7 +231,7 @@
             <falscheAntwort1>Heimmüller</falscheAntwort1>
             <falscheAntwort2>Gröllmeier</falscheAntwort2>
             <falscheAntwort3>Mülleimer</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -241,7 +241,7 @@
             <falscheAntwort1>Automarke</falscheAntwort1>
             <falscheAntwort2>Hunderasse</falscheAntwort2>
             <falscheAntwort3>Zitronenlimonade</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -251,7 +251,7 @@
             <falscheAntwort1>B</falscheAntwort1>
             <falscheAntwort2>C</falscheAntwort2>
             <falscheAntwort3>D</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -261,7 +261,7 @@
             <falscheAntwort1>Pferd</falscheAntwort1>
             <falscheAntwort2>Affe</falscheAntwort2>
             <falscheAntwort3>Vogel</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -271,7 +271,7 @@
             <falscheAntwort1>Italien</falscheAntwort1>
             <falscheAntwort2>Rumänien</falscheAntwort2>
             <falscheAntwort3>Polen</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -281,7 +281,7 @@
             <falscheAntwort1>DLRG</falscheAntwort1>
             <falscheAntwort2>BMVW</falscheAntwort2>
             <falscheAntwort3>AUDI</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -291,7 +291,7 @@
             <falscheAntwort1>3. November</falscheAntwort1>
             <falscheAntwort2>22. März</falscheAntwort2>
             <falscheAntwort3>14. Februar</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -301,7 +301,7 @@
             <falscheAntwort1>10.000</falscheAntwort1>
             <falscheAntwort2>100</falscheAntwort2>
             <falscheAntwort3>10</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -311,7 +311,7 @@
             <falscheAntwort1>Lochkarte</falscheAntwort1>
             <falscheAntwort2>Notizzettel</falscheAntwort2>
             <falscheAntwort3>geheime Mitteilung</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -321,7 +321,7 @@
             <falscheAntwort1>Montag</falscheAntwort1>
             <falscheAntwort2>Mittwoch</falscheAntwort2>
             <falscheAntwort3>Freitag</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -331,7 +331,7 @@
             <falscheAntwort1>Karfreitag</falscheAntwort1>
             <falscheAntwort2>Gründonnerstag</falscheAntwort2>
             <falscheAntwort3>Pfingstmontag</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -341,7 +341,7 @@
             <falscheAntwort1>5</falscheAntwort1>
             <falscheAntwort2>6</falscheAntwort2>
             <falscheAntwort3>2</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -351,7 +351,7 @@
             <falscheAntwort1>Alte Hansestadt Bremen</falscheAntwort1>
             <falscheAntwort2>Geschlossene Hansestadt Bremen</falscheAntwort2>
             <falscheAntwort3>Befreite Hansestadt Bremen</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -361,7 +361,7 @@
             <falscheAntwort1>2 Jahre</falscheAntwort1>
             <falscheAntwort2>6 Jahre</falscheAntwort2>
             <falscheAntwort3>8 Jahre</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -371,7 +371,7 @@
             <falscheAntwort1>New York</falscheAntwort1>
             <falscheAntwort2>Miami</falscheAntwort2>
             <falscheAntwort3>San Franzisko</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -381,7 +381,7 @@
             <falscheAntwort1>Football</falscheAntwort1>
             <falscheAntwort2>Streetball</falscheAntwort2>
             <falscheAntwort3>Baseball</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -391,7 +391,7 @@
             <falscheAntwort1>übelriechender Fisch</falscheAntwort1>
             <falscheAntwort2>arbeitsunwilliger Mensch</falscheAntwort2>
             <falscheAntwort3>fauler Schüler</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -401,7 +401,7 @@
             <falscheAntwort1>Speichereinheit für Computer</falscheAntwort1>
             <falscheAntwort2>Hundebiss</falscheAntwort2>
             <falscheAntwort3>Geldbeutel für Münzen</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -411,7 +411,7 @@
             <falscheAntwort1>Barock</falscheAntwort1>
             <falscheAntwort2>Steinzeit</falscheAntwort2>
             <falscheAntwort3>Renaissance</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -421,7 +421,7 @@
             <falscheAntwort1>Kloanlage</falscheAntwort1>
             <falscheAntwort2>Waschsalon</falscheAntwort2>
             <falscheAntwort3>Putzerei</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -431,7 +431,7 @@
             <falscheAntwort1>Bycycling</falscheAntwort1>
             <falscheAntwort2>Cycling</falscheAntwort2>
             <falscheAntwort3>Drekking</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -441,7 +441,7 @@
             <falscheAntwort1>Cäsar</falscheAntwort1>
             <falscheAntwort2>Cardio</falscheAntwort2>
             <falscheAntwort3>Cicero</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -451,7 +451,7 @@
             <falscheAntwort1>Schmuckstück</falscheAntwort1>
             <falscheAntwort2>Teil des Auges</falscheAntwort2>
             <falscheAntwort3>Verbrechervereinigung</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -461,7 +461,7 @@
             <falscheAntwort1>Käse</falscheAntwort1>
             <falscheAntwort2>Jogurt</falscheAntwort2>
             <falscheAntwort3>Soja</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -471,7 +471,7 @@
             <falscheAntwort1>Silver Goal</falscheAntwort1>
             <falscheAntwort2>Green Goal</falscheAntwort2>
             <falscheAntwort3>Red Goal</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -481,7 +481,7 @@
             <falscheAntwort1>tanzende Walmütter</falscheAntwort1>
             <falscheAntwort2>wasserlösliche Vitamine</falscheAntwort2>
             <falscheAntwort3>Wahlhelferinnen</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -491,7 +491,7 @@
             <falscheAntwort1>Coupé</falscheAntwort1>
             <falscheAntwort2>Mini - Van</falscheAntwort2>
             <falscheAntwort3>Limousine</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -501,7 +501,7 @@
             <falscheAntwort1>Arena</falscheAntwort1>
             <falscheAntwort2>Bühne</falscheAntwort2>
             <falscheAntwort3>Auditorium</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -511,7 +511,7 @@
             <falscheAntwort1>Bergkristall</falscheAntwort1>
             <falscheAntwort2>Rubin</falscheAntwort2>
             <falscheAntwort3>Achat</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -521,7 +521,7 @@
             <falscheAntwort1>Blumenbündel</falscheAntwort1>
             <falscheAntwort2>Laufvogel</falscheAntwort2>
             <falscheAntwort3>Komponist</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -531,7 +531,7 @@
             <falscheAntwort1>Partnersuche</falscheAntwort1>
             <falscheAntwort2>Waschsucht</falscheAntwort2>
             <falscheAntwort3>zum Vergnügen</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -541,7 +541,7 @@
             <falscheAntwort1>Atlantik</falscheAntwort1>
             <falscheAntwort2>Nordsee</falscheAntwort2>
             <falscheAntwort3>Adria</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -551,7 +551,7 @@
             <falscheAntwort1>Schwerin</falscheAntwort1>
             <falscheAntwort2>Saarbrücken</falscheAntwort2>
             <falscheAntwort3>Solingen</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -561,7 +561,7 @@
             <falscheAntwort1>Hessen</falscheAntwort1>
             <falscheAntwort2>Saarland</falscheAntwort2>
             <falscheAntwort3>Niedersachsen</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -571,7 +571,7 @@
             <falscheAntwort1>Keks</falscheAntwort1>
             <falscheAntwort2>Roulade</falscheAntwort2>
             <falscheAntwort3>Gugelhupf</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -581,7 +581,7 @@
             <falscheAntwort1>Laubfroschart</falscheAntwort1>
             <falscheAntwort2>Meteoritenkrater</falscheAntwort2>
             <falscheAntwort3>bayrische Sportart</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -591,7 +591,7 @@
             <falscheAntwort1>Pferd</falscheAntwort1>
             <falscheAntwort2>Kamel</falscheAntwort2>
             <falscheAntwort3>Ochse</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -601,7 +601,7 @@
             <falscheAntwort1>Markus</falscheAntwort1>
             <falscheAntwort2>Johannes</falscheAntwort2>
             <falscheAntwort3>Lukas</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -611,7 +611,7 @@
             <falscheAntwort1>Majoran</falscheAntwort1>
             <falscheAntwort2>Zimt</falscheAntwort2>
             <falscheAntwort3>Pfeffer</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -621,7 +621,7 @@
             <falscheAntwort1>römische Bodenvase</falscheAntwort1>
             <falscheAntwort2>private Ausstellungsräume</falscheAntwort2>
             <falscheAntwort3>chinesische Gardine</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -631,7 +631,7 @@
             <falscheAntwort1>Punkte</falscheAntwort1>
             <falscheAntwort2>Adler</falscheAntwort2>
             <falscheAntwort3>Streifen</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -641,7 +641,7 @@
             <falscheAntwort1>Schneehase</falscheAntwort1>
             <falscheAntwort2>Katze</falscheAntwort2>
             <falscheAntwort3>Biber</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -651,7 +651,7 @@
             <falscheAntwort1>Schritt</falscheAntwort1>
             <falscheAntwort2>Trab</falscheAntwort2>
             <falscheAntwort3>Stand</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -661,7 +661,7 @@
             <falscheAntwort1>Wollmäulchen</falscheAntwort1>
             <falscheAntwort2>Lederschnauze</falscheAntwort2>
             <falscheAntwort3>Samtmündchen</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -671,7 +671,7 @@
             <falscheAntwort1>Richard Wagner</falscheAntwort1>
             <falscheAntwort2>Johann Sebastian Bach</falscheAntwort2>
             <falscheAntwort3>Dieter Bohlen</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -681,7 +681,7 @@
             <falscheAntwort1>A</falscheAntwort1>
             <falscheAntwort2>AC</falscheAntwort2>
             <falscheAntwort3>AN</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -691,7 +691,7 @@
             <falscheAntwort1>Zackerl</falscheAntwort1>
             <falscheAntwort2>Zickerl</falscheAntwort2>
             <falscheAntwort3>Zeckerl</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -701,7 +701,7 @@
             <falscheAntwort1>Tiger</falscheAntwort1>
             <falscheAntwort2>Schlange</falscheAntwort2>
             <falscheAntwort3>Löwe</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -711,7 +711,7 @@
             <falscheAntwort1>Salzspitze</falscheAntwort1>
             <falscheAntwort2>Pfeffermütze</falscheAntwort2>
             <falscheAntwort3>Ölberg</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -721,7 +721,7 @@
             <falscheAntwort1>Adler</falscheAntwort1>
             <falscheAntwort2>Kranich</falscheAntwort2>
             <falscheAntwort3>Kondor</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -731,7 +731,7 @@
             <falscheAntwort1>drei</falscheAntwort1>
             <falscheAntwort2>fünf</falscheAntwort2>
             <falscheAntwort3>sechs</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -741,7 +741,7 @@
             <falscheAntwort1>32</falscheAntwort1>
             <falscheAntwort2>28</falscheAntwort2>
             <falscheAntwort3>36</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -751,7 +751,7 @@
             <falscheAntwort1>Komödiant</falscheAntwort1>
             <falscheAntwort2>Mandant</falscheAntwort2>
             <falscheAntwort3>Diamant</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -761,7 +761,7 @@
             <falscheAntwort1>Werkzeuge</falscheAntwort1>
             <falscheAntwort2>Modegetränke</falscheAntwort2>
             <falscheAntwort3>gute Freunde</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -771,7 +771,7 @@
             <falscheAntwort1>Radfahren</falscheAntwort1>
             <falscheAntwort2>Laufen</falscheAntwort2>
             <falscheAntwort3>Schwimmen</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -781,7 +781,7 @@
             <falscheAntwort1>norddeutsche Küstenstadt</falscheAntwort1>
             <falscheAntwort2>deutscher Ministerpräsident</falscheAntwort2>
             <falscheAntwort3>asiatischer Wirbelsturm</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -791,7 +791,7 @@
             <falscheAntwort1>Sachsen - Anhalt</falscheAntwort1>
             <falscheAntwort2>Brandenburg</falscheAntwort2>
             <falscheAntwort3>Mecklenburg - Vorpommern</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -801,7 +801,7 @@
             <falscheAntwort1>Flügel</falscheAntwort1>
             <falscheAntwort2>Harfe</falscheAntwort2>
             <falscheAntwort3>Mundharmonika</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -811,7 +811,7 @@
             <falscheAntwort1>Apolloallee</falscheAntwort1>
             <falscheAntwort2>Zeppelinstraße</falscheAntwort2>
             <falscheAntwort3>Titanicweg</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -821,7 +821,7 @@
             <falscheAntwort1>Tag des Frühlings</falscheAntwort1>
             <falscheAntwort2>Tag der Mutter</falscheAntwort2>
             <falscheAntwort3>Tag der Ruhe</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -831,7 +831,7 @@
             <falscheAntwort1>in der Antarktis</falscheAntwort1>
             <falscheAntwort2>am Südpol</falscheAntwort2>
             <falscheAntwort3>am Äquator</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -841,7 +841,7 @@
             <falscheAntwort1>Echolot</falscheAntwort1>
             <falscheAntwort2>Frisbee</falscheAntwort2>
             <falscheAntwort3>Diskus</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -851,7 +851,7 @@
             <falscheAntwort1>Europa und Afrika</falscheAntwort1>
             <falscheAntwort2>Australien und Asien</falscheAntwort2>
             <falscheAntwort3>Nord- und Südamerika</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -861,7 +861,7 @@
             <falscheAntwort1>Membran</falscheAntwort1>
             <falscheAntwort2>Meran</falscheAntwort2>
             <falscheAntwort3>Iran</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -871,7 +871,7 @@
             <falscheAntwort1>Nordrhein - Westfalen</falscheAntwort1>
             <falscheAntwort2>Hessen</falscheAntwort2>
             <falscheAntwort3>Thüringen</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -881,7 +881,7 @@
             <falscheAntwort1>Inder</falscheAntwort1>
             <falscheAntwort2>Portugiesen</falscheAntwort2>
             <falscheAntwort3>Japaner</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -891,7 +891,7 @@
             <falscheAntwort1>Leber</falscheAntwort1>
             <falscheAntwort2>Lunge</falscheAntwort2>
             <falscheAntwort3>Galle</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -901,7 +901,7 @@
             <falscheAntwort1>Schwarzhelme</falscheAntwort1>
             <falscheAntwort2>Grünhelme</falscheAntwort2>
             <falscheAntwort3>Rothelme</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -911,7 +911,7 @@
             <falscheAntwort1>Deutschland</falscheAntwort1>
             <falscheAntwort2>Griechenland</falscheAntwort2>
             <falscheAntwort3>Italien</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -921,7 +921,7 @@
             <falscheAntwort1>Dortmund</falscheAntwort1>
             <falscheAntwort2>Bochum</falscheAntwort2>
             <falscheAntwort3>Essen</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -931,7 +931,7 @@
             <falscheAntwort1>britische Insel</falscheAntwort1>
             <falscheAntwort2>Stadt in China</falscheAntwort2>
             <falscheAntwort3>Kölner Bezirk</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -941,7 +941,7 @@
             <falscheAntwort1>Österreich</falscheAntwort1>
             <falscheAntwort2>Ungarn</falscheAntwort2>
             <falscheAntwort3>Schweiz</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -951,7 +951,7 @@
             <falscheAntwort1>Isar</falscheAntwort1>
             <falscheAntwort2>Lech</falscheAntwort2>
             <falscheAntwort3>Iller</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -961,7 +961,7 @@
             <falscheAntwort1>Indischen Ozean</falscheAntwort1>
             <falscheAntwort2>Mittelmeer</falscheAntwort2>
             <falscheAntwort3>Rote Meer</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -971,7 +971,7 @@
             <falscheAntwort1>Oder</falscheAntwort1>
             <falscheAntwort2>Weser</falscheAntwort2>
             <falscheAntwort3>Elbe</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -981,7 +981,7 @@
             <falscheAntwort1>Leipzig</falscheAntwort1>
             <falscheAntwort2>Ingolstadt</falscheAntwort2>
             <falscheAntwort3>Stuttgart</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -991,7 +991,7 @@
             <falscheAntwort1>Kindergefängnis</falscheAntwort1>
             <falscheAntwort2>Mercedes A - Klasse</falscheAntwort2>
             <falscheAntwort3>kleines Telefonhäuschen</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1001,7 +1001,7 @@
             <falscheAntwort1>Untermänner</falscheAntwort1>
             <falscheAntwort2>Nachtlöhner</falscheAntwort2>
             <falscheAntwort3>Bergbauern</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>

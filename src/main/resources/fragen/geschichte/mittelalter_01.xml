@@ -11,7 +11,7 @@
             <falscheAntwort1>Otto</falscheAntwort1>
             <falscheAntwort2>Widukind</falscheAntwort2>
             <falscheAntwort3>Pippin</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>3</schwierigkeitMax>
         </frage>
@@ -21,7 +21,7 @@
             <falscheAntwort1>742</falscheAntwort1>
             <falscheAntwort2>800</falscheAntwort2>
             <falscheAntwort3>813</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -31,7 +31,7 @@
             <falscheAntwort1>Mainz</falscheAntwort1>
             <falscheAntwort2>Hamburg</falscheAntwort2>
             <falscheAntwort3>Köln</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -41,7 +41,7 @@
             <falscheAntwort1>20</falscheAntwort1>
             <falscheAntwort2>22</falscheAntwort2>
             <falscheAntwort3>25</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -51,7 +51,7 @@
             <falscheAntwort1>seine drei Söhne</falscheAntwort1>
             <falscheAntwort2>seine drei Brüder</falscheAntwort2>
             <falscheAntwort3>seine drei Neffen</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -61,7 +61,7 @@
             <falscheAntwort1>930</falscheAntwort1>
             <falscheAntwort2>900</falscheAntwort2>
             <falscheAntwort3>800</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -71,7 +71,7 @@
             <falscheAntwort1>Sachsen</falscheAntwort1>
             <falscheAntwort2>Franken</falscheAntwort2>
             <falscheAntwort3>Worms</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -81,7 +81,7 @@
             <falscheAntwort1>Angeln</falscheAntwort1>
             <falscheAntwort2>Franken</falscheAntwort2>
             <falscheAntwort3>Goten</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -91,7 +91,7 @@
             <falscheAntwort1>Franken</falscheAntwort1>
             <falscheAntwort2>Bayern</falscheAntwort2>
             <falscheAntwort3>Schwaben</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -101,7 +101,7 @@
             <falscheAntwort1>Rumänen</falscheAntwort1>
             <falscheAntwort2>Sachsen</falscheAntwort2>
             <falscheAntwort3>Thüringer</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -111,7 +111,7 @@
             <falscheAntwort1>Lachfeld</falscheAntwort1>
             <falscheAntwort2>Lochfeld</falscheAntwort2>
             <falscheAntwort3>Lichtfeld</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -121,7 +121,7 @@
             <falscheAntwort1>seine Frau</falscheAntwort1>
             <falscheAntwort2>den Papst</falscheAntwort2>
             <falscheAntwort3>Stammesherzöge</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -131,7 +131,7 @@
             <falscheAntwort1>Investition</falscheAntwort1>
             <falscheAntwort2>Inventur</falscheAntwort2>
             <falscheAntwort3>Inventar</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -141,7 +141,7 @@
             <falscheAntwort1>HeinrichI.</falscheAntwort1>
             <falscheAntwort2>HeinrichII.</falscheAntwort2>
             <falscheAntwort3>HeinrichIII.</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -151,7 +151,7 @@
             <falscheAntwort1>Sankt Peter</falscheAntwort1>
             <falscheAntwort2>Clüny</falscheAntwort2>
             <falscheAntwort3>Sankt Moritz</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -161,7 +161,7 @@
             <falscheAntwort1>Kolossa</falscheAntwort1>
             <falscheAntwort2>Rom</falscheAntwort2>
             <falscheAntwort3>Aachen</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -171,7 +171,7 @@
             <falscheAntwort1>29</falscheAntwort1>
             <falscheAntwort2>31</falscheAntwort2>
             <falscheAntwort3>33</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -181,7 +181,7 @@
             <falscheAntwort1>weil er zu jung war</falscheAntwort1>
             <falscheAntwort2>weil er zu viele Kriege führte</falscheAntwort2>
             <falscheAntwort3>weil er zu alt war</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -191,7 +191,7 @@
             <falscheAntwort1>Widukind</falscheAntwort1>
             <falscheAntwort2>Herwig</falscheAntwort2>
             <falscheAntwort3>Atilla</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -201,7 +201,7 @@
             <falscheAntwort1>Frühling</falscheAntwort1>
             <falscheAntwort2>Sommer</falscheAntwort2>
             <falscheAntwort3>Herbst</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -211,7 +211,7 @@
             <falscheAntwort1>Einfelderwirtschaft</falscheAntwort1>
             <falscheAntwort2>Zweifelderwirtschaft</falscheAntwort2>
             <falscheAntwort3>Vierfelderwirtschaft</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -221,7 +221,7 @@
             <falscheAntwort1>Pfand</falscheAntwort1>
             <falscheAntwort2>Pfarre</falscheAntwort2>
             <falscheAntwort3>Pferch</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -231,7 +231,7 @@
             <falscheAntwort1>an Männer, die Karl heißen</falscheAntwort1>
             <falscheAntwort2>an Menschen aus Karlsruhe</falscheAntwort2>
             <falscheAntwort3>für Verdienste in der Stadt Karlsruhe</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -241,7 +241,7 @@
             <falscheAntwort1>Heinrich I.</falscheAntwort1>
             <falscheAntwort2>Heinrich II.</falscheAntwort2>
             <falscheAntwort3>Heinrich IV.</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -251,7 +251,7 @@
             <falscheAntwort1>Westfälischer Frieden</falscheAntwort1>
             <falscheAntwort2>Einigung von Canossa</falscheAntwort2>
             <falscheAntwort3>Kompromiss von Aachen</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -261,7 +261,7 @@
             <falscheAntwort1>Heinrich IV.</falscheAntwort1>
             <falscheAntwort2>Otto IV.</falscheAntwort2>
             <falscheAntwort3>Otto V.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>

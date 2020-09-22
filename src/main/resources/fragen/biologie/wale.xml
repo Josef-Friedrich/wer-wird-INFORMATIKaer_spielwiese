@@ -11,7 +11,7 @@
             <falscheAntwort1>Reptilien</falscheAntwort1>
             <falscheAntwort2>Fische</falscheAntwort2>
             <falscheAntwort3>Vögel</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>2</schwierigkeitMax>
         </frage>
@@ -21,7 +21,7 @@
             <falscheAntwort1>ca. 10</falscheAntwort1>
             <falscheAntwort2>ca. 20</falscheAntwort2>
             <falscheAntwort3>ca. 60</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -31,7 +31,7 @@
             <falscheAntwort1>Augen - und Ohrwale</falscheAntwort1>
             <falscheAntwort2>Rücken - und Bauchwale</falscheAntwort2>
             <falscheAntwort3>Grau - und Schwarzwale</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -41,7 +41,7 @@
             <falscheAntwort1>Finnwal</falscheAntwort1>
             <falscheAntwort2>Blauwal</falscheAntwort2>
             <falscheAntwort3>Pottwal</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -51,7 +51,7 @@
             <falscheAntwort1>nein</falscheAntwort1>
             <falscheAntwort2>nur die Männchen</falscheAntwort2>
             <falscheAntwort3>nur die Weibchen</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -61,7 +61,7 @@
             <falscheAntwort1>nur am Nordpol</falscheAntwort1>
             <falscheAntwort2>nur am Südpol</falscheAntwort2>
             <falscheAntwort3>nur im Mittelmeer</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -71,7 +71,7 @@
             <falscheAntwort1>Walhaie</falscheAntwort1>
             <falscheAntwort2>alle Wale</falscheAntwort2>
             <falscheAntwort3>Zahnwale</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -81,7 +81,7 @@
             <falscheAntwort1>die tropischen Meere</falscheAntwort1>
             <falscheAntwort2>die Flussmündungen</falscheAntwort2>
             <falscheAntwort3>die norwegischen Fjorde</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -91,7 +91,7 @@
             <falscheAntwort1>Luke</falscheAntwort1>
             <falscheAntwort2>Klappe</falscheAntwort2>
             <falscheAntwort3>Welle</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -101,7 +101,7 @@
             <falscheAntwort1>Rinne</falscheAntwort1>
             <falscheAntwort2>Pinne</falscheAntwort2>
             <falscheAntwort3>Zinne</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -111,7 +111,7 @@
             <falscheAntwort1>Klipper</falscheAntwort1>
             <falscheAntwort2>Schlipper</falscheAntwort2>
             <falscheAntwort3>Ripper</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -121,7 +121,7 @@
             <falscheAntwort1>aus dem Ohr</falscheAntwort1>
             <falscheAntwort2>aus der Lippe</falscheAntwort2>
             <falscheAntwort3>aus dem Rachen</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -131,7 +131,7 @@
             <falscheAntwort1>Unterseite des Kopfes</falscheAntwort1>
             <falscheAntwort2>Oberseite des Rückens</falscheAntwort2>
             <falscheAntwort3>Unterseite des Schwanzes</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -141,7 +141,7 @@
             <falscheAntwort1>vor ca. 20 Millionen Jahren</falscheAntwort1>
             <falscheAntwort2>vor ca. 10 Millionen Jahren</falscheAntwort2>
             <falscheAntwort3>vor ca. 80 Millionen Jahren</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -151,7 +151,7 @@
             <falscheAntwort1>Protoceraptor</falscheAntwort1>
             <falscheAntwort2>Proconsul</falscheAntwort2>
             <falscheAntwort3>Prototyp</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -161,7 +161,7 @@
             <falscheAntwort1>ca. 42 Grad</falscheAntwort1>
             <falscheAntwort2>ca. 25 Grad</falscheAntwort2>
             <falscheAntwort3>ca. 49 Grad</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -171,7 +171,7 @@
             <falscheAntwort1>Flubber</falscheAntwort1>
             <falscheAntwort2>Glibber</falscheAntwort2>
             <falscheAntwort3>Glubber</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -181,7 +181,7 @@
             <falscheAntwort1>10 cm</falscheAntwort1>
             <falscheAntwort2>25 cm</falscheAntwort2>
             <falscheAntwort3>5 mm</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -191,7 +191,7 @@
             <falscheAntwort1>10 - 20 Minuten</falscheAntwort1>
             <falscheAntwort2>30 - 40 Minuten</falscheAntwort2>
             <falscheAntwort3>bis 200 Minuten</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -201,7 +201,7 @@
             <falscheAntwort1>Fontäne</falscheAntwort1>
             <falscheAntwort2>Sprudel</falscheAntwort2>
             <falscheAntwort3>Strom</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -211,7 +211,7 @@
             <falscheAntwort1>Dill</falscheAntwort1>
             <falscheAntwort2>Trill</falscheAntwort2>
             <falscheAntwort3>Bill</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -221,7 +221,7 @@
             <falscheAntwort1>Brei</falscheAntwort1>
             <falscheAntwort2>Watt</falscheAntwort2>
             <falscheAntwort3>Planken</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -231,7 +231,7 @@
             <falscheAntwort1>bis zu drei Metern</falscheAntwort1>
             <falscheAntwort2>1 - 2 Meter</falscheAntwort2>
             <falscheAntwort3>2,25 m</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -241,7 +241,7 @@
             <falscheAntwort1>Sie sehen sehr gut.</falscheAntwort1>
             <falscheAntwort2>Sie riechen sehr gut.</falscheAntwort2>
             <falscheAntwort3>nach den Sternen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -251,7 +251,7 @@
             <falscheAntwort1>Unmengen von Fisch</falscheAntwort1>
             <falscheAntwort2>Unmengen von Robben</falscheAntwort2>
             <falscheAntwort3>Unmengen von Quallen</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>3</schwierigkeitMax>
         </frage>
@@ -261,7 +261,7 @@
             <falscheAntwort1>Fische</falscheAntwort1>
             <falscheAntwort2>Quallen</falscheAntwort2>
             <falscheAntwort3>Tintenfische</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>3</schwierigkeitMax>
         </frage>
@@ -271,7 +271,7 @@
             <falscheAntwort1>der untere rechte Zahn</falscheAntwort1>
             <falscheAntwort2>der untere linke Zahn</falscheAntwort2>
             <falscheAntwort3>der obere rechte Zahn</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -281,7 +281,7 @@
             <falscheAntwort1>bis 1 m</falscheAntwort1>
             <falscheAntwort2>bis 2 m</falscheAntwort2>
             <falscheAntwort3>bis 4 m</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -291,7 +291,7 @@
             <falscheAntwort1>Apfel</falscheAntwort1>
             <falscheAntwort2>Kürbis</falscheAntwort2>
             <falscheAntwort3>Birne</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -301,7 +301,7 @@
             <falscheAntwort1>nein</falscheAntwort1>
             <falscheAntwort2>nur unscharf</falscheAntwort2>
             <falscheAntwort3>nur die Männchen</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -311,7 +311,7 @@
             <falscheAntwort1>Kitz</falscheAntwort1>
             <falscheAntwort2>Laich</falscheAntwort2>
             <falscheAntwort3>Fohlen</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -321,7 +321,7 @@
             <falscheAntwort1>2 m</falscheAntwort1>
             <falscheAntwort2>4 m</falscheAntwort2>
             <falscheAntwort3>3 m</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -331,7 +331,7 @@
             <falscheAntwort1>200 kg</falscheAntwort1>
             <falscheAntwort2>4000 kg</falscheAntwort2>
             <falscheAntwort3>800 kg</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -341,7 +341,7 @@
             <falscheAntwort1>Huckelwal</falscheAntwort1>
             <falscheAntwort2>Zuckelwal</falscheAntwort2>
             <falscheAntwort3>Ruckelwal</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>3</schwierigkeitMax>
         </frage>
@@ -351,7 +351,7 @@
             <falscheAntwort1>3 - 5 cm</falscheAntwort1>
             <falscheAntwort2>25 mm</falscheAntwort2>
             <falscheAntwort3>ca. 1 cm</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -361,7 +361,7 @@
             <falscheAntwort1>22 Meter</falscheAntwort1>
             <falscheAntwort2>28 Meter</falscheAntwort2>
             <falscheAntwort3>31 Meter</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -371,7 +371,7 @@
             <falscheAntwort1>95 Tonnen</falscheAntwort1>
             <falscheAntwort2>76 Tonnen</falscheAntwort2>
             <falscheAntwort3>220 Tonnen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -381,7 +381,7 @@
             <falscheAntwort1>wie 20 Elefanten</falscheAntwort1>
             <falscheAntwort2>wie 14 Elefanten</falscheAntwort2>
             <falscheAntwort3>wie 29 Elefanten</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -391,7 +391,7 @@
             <falscheAntwort1>ca. 40 km/h</falscheAntwort1>
             <falscheAntwort2>ca. 35 km/h</falscheAntwort2>
             <falscheAntwort3>ca. 40 km/h</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -401,7 +401,7 @@
             <falscheAntwort1>ca. 40 km/h</falscheAntwort1>
             <falscheAntwort2>ca. 60 km/h</falscheAntwort2>
             <falscheAntwort3>ca. 30 km/h</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -411,7 +411,7 @@
             <falscheAntwort1>ca. 50 Jahre</falscheAntwort1>
             <falscheAntwort2>ca. 60 Jahre</falscheAntwort2>
             <falscheAntwort3>ca. 70 Jahre</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -421,7 +421,7 @@
             <falscheAntwort1>70 Jahre</falscheAntwort1>
             <falscheAntwort2>90 Jahre</falscheAntwort2>
             <falscheAntwort3>100 Jahre</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -431,7 +431,7 @@
             <falscheAntwort1>am Gewicht</falscheAntwort1>
             <falscheAntwort2>an der Länge</falscheAntwort2>
             <falscheAntwort3>an der Farbe</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -441,7 +441,7 @@
             <falscheAntwort1>Gel</falscheAntwort1>
             <falscheAntwort2>Öl</falscheAntwort2>
             <falscheAntwort3>Bran</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -451,7 +451,7 @@
             <falscheAntwort1>Topfwal</falscheAntwort1>
             <falscheAntwort2>Tassenwal</falscheAntwort2>
             <falscheAntwort3>Becherwal</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>2</schwierigkeitMax>
         </frage>
@@ -461,7 +461,7 @@
             <falscheAntwort1>Gänsewal</falscheAntwort1>
             <falscheAntwort2>Hühnerwal</falscheAntwort2>
             <falscheAntwort3>Adlerwal</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -471,7 +471,7 @@
             <falscheAntwort1>Lämmerwal</falscheAntwort1>
             <falscheAntwort2>Schafswal</falscheAntwort2>
             <falscheAntwort3>Ziegenwal</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -481,7 +481,7 @@
             <falscheAntwort1>Gelbwal</falscheAntwort1>
             <falscheAntwort2>Rotwal</falscheAntwort2>
             <falscheAntwort3>Grünwal</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>2</schwierigkeitMax>
         </frage>
@@ -491,7 +491,7 @@
             <falscheAntwort1>Grönlandwal</falscheAntwort1>
             <falscheAntwort2>Entenwal</falscheAntwort2>
             <falscheAntwort3>Grindwal</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -501,7 +501,7 @@
             <falscheAntwort1>Weißwal</falscheAntwort1>
             <falscheAntwort2>Schwarzwal</falscheAntwort2>
             <falscheAntwort3>Braunwal</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -511,7 +511,7 @@
             <falscheAntwort1>Ritterwal</falscheAntwort1>
             <falscheAntwort2>Degenwal</falscheAntwort2>
             <falscheAntwort3>Räuberwal</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -521,7 +521,7 @@
             <falscheAntwort1>max. 6 Meter</falscheAntwort1>
             <falscheAntwort2>max. 12 Meter</falscheAntwort2>
             <falscheAntwort3>max. 24 Meter</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -531,7 +531,7 @@
             <falscheAntwort1>ca. 20 Tonnen</falscheAntwort1>
             <falscheAntwort2>ca. 60 Tonnen</falscheAntwort2>
             <falscheAntwort3>ca. 80 Tonnen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -541,7 +541,7 @@
             <falscheAntwort1>ca. 125.000</falscheAntwort1>
             <falscheAntwort2>ca. 250.000</falscheAntwort2>
             <falscheAntwort3>ca. 750.000</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -551,7 +551,7 @@
             <falscheAntwort1>ca. 9,40 m</falscheAntwort1>
             <falscheAntwort2>ca. 6,30 m</falscheAntwort2>
             <falscheAntwort3>ca. 3,10 m</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -561,7 +561,7 @@
             <falscheAntwort1>ca. 600</falscheAntwort1>
             <falscheAntwort2>ca. 1.200</falscheAntwort2>
             <falscheAntwort3>ca. 2.400</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -571,7 +571,7 @@
             <falscheAntwort1>ca. 8 Meter</falscheAntwort1>
             <falscheAntwort2>ca. 6 Meter</falscheAntwort2>
             <falscheAntwort3>ca. 4 Meter</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -581,7 +581,7 @@
             <falscheAntwort1>ca. 10 Tonnen</falscheAntwort1>
             <falscheAntwort2>ca. 15 Tonnen</falscheAntwort2>
             <falscheAntwort3>ca. 20 Tonnen</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -591,7 +591,7 @@
             <falscheAntwort1>Südpazifik</falscheAntwort1>
             <falscheAntwort2>Nordatlantik</falscheAntwort2>
             <falscheAntwort3>Südatlantik</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -601,7 +601,7 @@
             <falscheAntwort1>50 - 150</falscheAntwort1>
             <falscheAntwort2>2000 - 3000</falscheAntwort2>
             <falscheAntwort3>400.000</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -611,7 +611,7 @@
             <falscheAntwort1>ca. 12 Meter</falscheAntwort1>
             <falscheAntwort2>ca. 21 Meter</falscheAntwort2>
             <falscheAntwort3>ca. 30 Meter</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -621,7 +621,7 @@
             <falscheAntwort1>ca. 3 Tonnen</falscheAntwort1>
             <falscheAntwort2>ca. 9 Tonnen</falscheAntwort2>
             <falscheAntwort3>ca. 14 Tonnen</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -631,7 +631,7 @@
             <falscheAntwort1>im Mittelmeer</falscheAntwort1>
             <falscheAntwort2>in der Ostsee</falscheAntwort2>
             <falscheAntwort3>in der Nordsee</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -641,7 +641,7 @@
             <falscheAntwort1>ca. 5.000</falscheAntwort1>
             <falscheAntwort2>ca. 10.000</falscheAntwort2>
             <falscheAntwort3>ca. 20.000</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -651,7 +651,7 @@
             <falscheAntwort1>200.000</falscheAntwort1>
             <falscheAntwort2>300.000</falscheAntwort2>
             <falscheAntwort3>500.000</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -661,7 +661,7 @@
             <falscheAntwort1>ca. 10 Meter</falscheAntwort1>
             <falscheAntwort2>ca. 15 Meter</falscheAntwort2>
             <falscheAntwort3>ca. 20 Meter</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -671,7 +671,7 @@
             <falscheAntwort1>ca. 90 Tonnen</falscheAntwort1>
             <falscheAntwort2>ca. 120 Tonnen</falscheAntwort2>
             <falscheAntwort3>ca. 50 Tonnen</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -681,7 +681,7 @@
             <falscheAntwort1>ca. 44.000</falscheAntwort1>
             <falscheAntwort2>ca. 66.000</falscheAntwort2>
             <falscheAntwort3>ca. 88.000</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -691,7 +691,7 @@
             <falscheAntwort1>ca. 500.000</falscheAntwort1>
             <falscheAntwort2>ca. 250.000</falscheAntwort2>
             <falscheAntwort3>ca. 750.000</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -701,7 +701,7 @@
             <falscheAntwort1>50.000</falscheAntwort1>
             <falscheAntwort2>100.000</falscheAntwort2>
             <falscheAntwort3>170.000</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -711,7 +711,7 @@
             <falscheAntwort1>ca. 20 Meter</falscheAntwort1>
             <falscheAntwort2>ca. 8 Meter</falscheAntwort2>
             <falscheAntwort3>ca. 4 Meter</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -721,7 +721,7 @@
             <falscheAntwort1>ca. 10 Tonnen</falscheAntwort1>
             <falscheAntwort2>ca. 50 Tonnen</falscheAntwort2>
             <falscheAntwort3>ca. 25 Tonnen</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -731,7 +731,7 @@
             <falscheAntwort1>in der Südsee</falscheAntwort1>
             <falscheAntwort2>in der Nordsee</falscheAntwort2>
             <falscheAntwort3>im indischen Ozean</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -741,7 +741,7 @@
             <falscheAntwort1>ca. 6.000</falscheAntwort1>
             <falscheAntwort2>ca. 400</falscheAntwort2>
             <falscheAntwort3>ca. 15.000</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -751,7 +751,7 @@
             <falscheAntwort1>Grindwal</falscheAntwort1>
             <falscheAntwort2>Grauwal</falscheAntwort2>
             <falscheAntwort3>Blauwal</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -761,7 +761,7 @@
             <falscheAntwort1>Orca</falscheAntwort1>
             <falscheAntwort2>Flipper</falscheAntwort2>
             <falscheAntwort3>Molly</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -771,7 +771,7 @@
             <falscheAntwort1>am Nordpol</falscheAntwort1>
             <falscheAntwort2>am Südpol</falscheAntwort2>
             <falscheAntwort3>im indischen Ozean</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -781,7 +781,7 @@
             <falscheAntwort1>Miniwal</falscheAntwort1>
             <falscheAntwort2>Gnomwal</falscheAntwort2>
             <falscheAntwort3>Wichtelwal</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -791,7 +791,7 @@
             <falscheAntwort1>ca. 4 m</falscheAntwort1>
             <falscheAntwort2>ca. 6 m</falscheAntwort2>
             <falscheAntwort3>ca. 8 m</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -801,7 +801,7 @@
             <falscheAntwort1>Warften</falscheAntwort1>
             <falscheAntwort2>Latten</falscheAntwort2>
             <falscheAntwort3>Marten</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -811,7 +811,7 @@
             <falscheAntwort1>200 m</falscheAntwort1>
             <falscheAntwort2>450 m</falscheAntwort2>
             <falscheAntwort3>600 - 900 m</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -821,7 +821,7 @@
             <falscheAntwort1>Finnwale</falscheAntwort1>
             <falscheAntwort2>Blauwale</falscheAntwort2>
             <falscheAntwort3>Grindwale</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -831,7 +831,7 @@
             <falscheAntwort1>Pantimos</falscheAntwort1>
             <falscheAntwort2>Romanov</falscheAntwort2>
             <falscheAntwort3>Habakuk</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -841,7 +841,7 @@
             <falscheAntwort1>Große Tümmler</falscheAntwort1>
             <falscheAntwort2>Kleiner Lümmler</falscheAntwort2>
             <falscheAntwort3>Großer Lümmler</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -851,7 +851,7 @@
             <falscheAntwort1>Rudel</falscheAntwort1>
             <falscheAntwort2>Herde</falscheAntwort2>
             <falscheAntwort3>Klasse</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -861,7 +861,7 @@
             <falscheAntwort1>3</falscheAntwort1>
             <falscheAntwort2>4</falscheAntwort2>
             <falscheAntwort3>1</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -871,7 +871,7 @@
             <falscheAntwort1>Luft</falscheAntwort1>
             <falscheAntwort2>Gas</falscheAntwort2>
             <falscheAntwort3>Wachs</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -881,7 +881,7 @@
             <falscheAntwort1>ja</falscheAntwort1>
             <falscheAntwort2>nur die Jungtiere</falscheAntwort2>
             <falscheAntwort3>nur die Weibchen</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -891,7 +891,7 @@
             <falscheAntwort1>Blauwal</falscheAntwort1>
             <falscheAntwort2>Grauwal</falscheAntwort2>
             <falscheAntwort3>Zwergwal</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -901,7 +901,7 @@
             <falscheAntwort1>2 m</falscheAntwort1>
             <falscheAntwort2>3,40 m</falscheAntwort2>
             <falscheAntwort3>12 m</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -911,7 +911,7 @@
             <falscheAntwort1>Rückenflosse</falscheAntwort1>
             <falscheAntwort2>Schwanzflosse</falscheAntwort2>
             <falscheAntwort3>Unterkiefer</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -921,7 +921,7 @@
             <falscheAntwort1>Narwal</falscheAntwort1>
             <falscheAntwort2>Finnwal</falscheAntwort2>
             <falscheAntwort3>Grindwal</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -931,7 +931,7 @@
             <falscheAntwort1>mit einem Rudel Hammerhaie</falscheAntwort1>
             <falscheAntwort2>mit Killerwalen</falscheAntwort2>
             <falscheAntwort3>mit Tiefseemuränen</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -941,7 +941,7 @@
             <falscheAntwort1>5 Minuten</falscheAntwort1>
             <falscheAntwort2>20 Minuten</falscheAntwort2>
             <falscheAntwort3>40 Minuten</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -951,7 +951,7 @@
             <falscheAntwort1>ca. 5,70 m</falscheAntwort1>
             <falscheAntwort2>ca. 12,50 m</falscheAntwort2>
             <falscheAntwort3>ca. 8,30 m</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -961,7 +961,7 @@
             <falscheAntwort1>in der Südsee</falscheAntwort1>
             <falscheAntwort2>vor Südamerika</falscheAntwort2>
             <falscheAntwort3>in der Antarktis</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -971,7 +971,7 @@
             <falscheAntwort1>bis 300 m</falscheAntwort1>
             <falscheAntwort2>400 - 700 m</falscheAntwort2>
             <falscheAntwort3>ca. 1.200 m</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -981,7 +981,7 @@
             <falscheAntwort1>50 Kilometer</falscheAntwort1>
             <falscheAntwort2>20 Kilometer</falscheAntwort2>
             <falscheAntwort3>40 Kilometer</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -991,7 +991,7 @@
             <falscheAntwort1>bis fast 20 km</falscheAntwort1>
             <falscheAntwort2>bis fast 100 km</falscheAntwort2>
             <falscheAntwort3>bis fast 70 km</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1001,7 +1001,7 @@
             <falscheAntwort1>ca. ein Viertel ihres Körpergewichtes</falscheAntwort1>
             <falscheAntwort2>ca. ein Drittel ihres Körpergewichtes</falscheAntwort2>
             <falscheAntwort3>ca. ein Achtel ihres Körpergewichtes</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1011,7 +1011,7 @@
             <falscheAntwort1>20 Monate</falscheAntwort1>
             <falscheAntwort2>6 Monate</falscheAntwort2>
             <falscheAntwort3>26 Monate</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1021,7 +1021,7 @@
             <falscheAntwort1>2 - 3</falscheAntwort1>
             <falscheAntwort2>immer Zwillinge</falscheAntwort2>
             <falscheAntwort3>3 - 5</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1031,7 +1031,7 @@
             <falscheAntwort1>etwa 6.000 km</falscheAntwort1>
             <falscheAntwort2>ungefähr 3.500 km</falscheAntwort2>
             <falscheAntwort3>fast 8.300 km</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1041,7 +1041,7 @@
             <falscheAntwort1>Weißwal</falscheAntwort1>
             <falscheAntwort2>Grauwal</falscheAntwort2>
             <falscheAntwort3>Blauwal</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -1051,7 +1051,7 @@
             <falscheAntwort1>Ozelot</falscheAntwort1>
             <falscheAntwort2>Orbit</falscheAntwort2>
             <falscheAntwort3>Omot</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1061,7 +1061,7 @@
             <falscheAntwort1>die Brustflossen</falscheAntwort1>
             <falscheAntwort2>die Rückenflosse</falscheAntwort2>
             <falscheAntwort3>der lange Unterkiefer</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1071,7 +1071,7 @@
             <falscheAntwort1>Grauwal</falscheAntwort1>
             <falscheAntwort2>Grönlandwal</falscheAntwort2>
             <falscheAntwort3>Finnwal</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1081,7 +1081,7 @@
             <falscheAntwort1>ca. ein Viertel seines Körpers</falscheAntwort1>
             <falscheAntwort2>ca. die Hälfte seines Körpers</falscheAntwort2>
             <falscheAntwort3>ca. ein Achtel seines Körpers</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1091,7 +1091,7 @@
             <falscheAntwort1>ca. 80 cm</falscheAntwort1>
             <falscheAntwort2>ca. 1,50 m</falscheAntwort2>
             <falscheAntwort3>ca. 3,70 m</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1101,7 +1101,7 @@
             <falscheAntwort1>Gaird - Wal</falscheAntwort1>
             <falscheAntwort2>Laird - Wal</falscheAntwort2>
             <falscheAntwort3>Haird - Wal</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1111,7 +1111,7 @@
             <falscheAntwort1>ca. 8 m</falscheAntwort1>
             <falscheAntwort2>ca. 18 m</falscheAntwort2>
             <falscheAntwort3>ca. 32 m</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1121,7 +1121,7 @@
             <falscheAntwort1>im südlichen Pazifik</falscheAntwort1>
             <falscheAntwort2>im südlichen Atlantik</falscheAntwort2>
             <falscheAntwort3>im nördlichen Atlantik</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1131,7 +1131,7 @@
             <falscheAntwort1>Knochen</falscheAntwort1>
             <falscheAntwort2>Haut</falscheAntwort2>
             <falscheAntwort3>Muskeln</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1141,7 +1141,7 @@
             <falscheAntwort1>50 Liter</falscheAntwort1>
             <falscheAntwort2>100 Liter</falscheAntwort2>
             <falscheAntwort3>200 Liter</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1151,7 +1151,7 @@
             <falscheAntwort1>Falten</falscheAntwort1>
             <falscheAntwort2>Säcke</falscheAntwort2>
             <falscheAntwort3>Taschen</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1161,7 +1161,7 @@
             <falscheAntwort1>Entenschnabel</falscheAntwort1>
             <falscheAntwort2>Hühnerschnabel</falscheAntwort2>
             <falscheAntwort3>Adlerschnabel</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1171,7 +1171,7 @@
             <falscheAntwort1>schwarz</falscheAntwort1>
             <falscheAntwort2>grau</falscheAntwort2>
             <falscheAntwort3>braun</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1181,7 +1181,7 @@
             <falscheAntwort1>Walmesser</falscheAntwort1>
             <falscheAntwort2>Armbrust</falscheAntwort2>
             <falscheAntwort3>Tornado</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1191,7 +1191,7 @@
             <falscheAntwort1>Ostkaper</falscheAntwort1>
             <falscheAntwort2>Westkaper</falscheAntwort2>
             <falscheAntwort3>Südkaper</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1201,7 +1201,7 @@
             <falscheAntwort1>Chiquita</falscheAntwort1>
             <falscheAntwort2>Zabaquita</falscheAntwort2>
             <falscheAntwort3>Raquita</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1211,7 +1211,7 @@
             <falscheAntwort1>ca. 25 kg</falscheAntwort1>
             <falscheAntwort2>60 - 100 kg</falscheAntwort2>
             <falscheAntwort3>ca. 120 kg</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1221,7 +1221,7 @@
             <falscheAntwort1>1,60 - 2 m</falscheAntwort1>
             <falscheAntwort2>2,20 - 2,80 m</falscheAntwort2>
             <falscheAntwort3>3 m - 3,50 m</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1231,7 +1231,7 @@
             <falscheAntwort1>die kleinen, dünnen</falscheAntwort1>
             <falscheAntwort2>die männlichen Jungtiere</falscheAntwort2>
             <falscheAntwort3>die weiblichen Alttiere</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1241,7 +1241,7 @@
             <falscheAntwort1>ca. 2 m</falscheAntwort1>
             <falscheAntwort2>2,30 - 3 m</falscheAntwort2>
             <falscheAntwort3>ca. 80 cm</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1251,7 +1251,7 @@
             <falscheAntwort1>100 - 200</falscheAntwort1>
             <falscheAntwort2>ca. 300</falscheAntwort2>
             <falscheAntwort3>mehr als 400</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>

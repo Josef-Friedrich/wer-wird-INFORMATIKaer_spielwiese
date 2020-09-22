@@ -11,7 +11,7 @@
             <falscheAntwort1>brother</falscheAntwort1>
             <falscheAntwort2>baby</falscheAntwort2>
             <falscheAntwort3>father</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -21,7 +21,7 @@
             <falscheAntwort1>father</falscheAntwort1>
             <falscheAntwort2>mother</falscheAntwort2>
             <falscheAntwort3>sister</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -31,7 +31,7 @@
             <falscheAntwort1>mother</falscheAntwort1>
             <falscheAntwort2>sister</falscheAntwort2>
             <falscheAntwort3>father</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -41,7 +41,7 @@
             <falscheAntwort1>father</falscheAntwort1>
             <falscheAntwort2>mum</falscheAntwort2>
             <falscheAntwort3>uncle</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -51,7 +51,7 @@
             <falscheAntwort1>father</falscheAntwort1>
             <falscheAntwort2>brother</falscheAntwort2>
             <falscheAntwort3>mother</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -61,7 +61,7 @@
             <falscheAntwort1>uncle</falscheAntwort1>
             <falscheAntwort2>mother</falscheAntwort2>
             <falscheAntwort3>grandpa</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -71,7 +71,7 @@
             <falscheAntwort1>grand hotel</falscheAntwort1>
             <falscheAntwort2>grandmother</falscheAntwort2>
             <falscheAntwort3>grand brother</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -81,7 +81,7 @@
             <falscheAntwort1>grand mum</falscheAntwort1>
             <falscheAntwort2>grandpa</falscheAntwort2>
             <falscheAntwort3>grand sister</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -91,7 +91,7 @@
             <falscheAntwort1>grandaunt</falscheAntwort1>
             <falscheAntwort2>grandfather</falscheAntwort2>
             <falscheAntwort3>granduncle</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -101,7 +101,7 @@
             <falscheAntwort1>grandmother</falscheAntwort1>
             <falscheAntwort2>grandma</falscheAntwort2>
             <falscheAntwort3>grand sister</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -111,7 +111,7 @@
             <falscheAntwort1>brother</falscheAntwort1>
             <falscheAntwort2>father</falscheAntwort2>
             <falscheAntwort3>sister</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -121,7 +121,7 @@
             <falscheAntwort1>baby</falscheAntwort1>
             <falscheAntwort2>dad</falscheAntwort2>
             <falscheAntwort3>son</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -131,7 +131,7 @@
             <falscheAntwort1>daddy</falscheAntwort1>
             <falscheAntwort2>mother</falscheAntwort2>
             <falscheAntwort3>sister</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -141,7 +141,7 @@
             <falscheAntwort1>uncle</falscheAntwort1>
             <falscheAntwort2>brother</falscheAntwort2>
             <falscheAntwort3>aunt</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -151,7 +151,7 @@
             <falscheAntwort1>baby</falscheAntwort1>
             <falscheAntwort2>daughter</falscheAntwort2>
             <falscheAntwort3>uncle</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -161,7 +161,7 @@
             <falscheAntwort1>three</falscheAntwort1>
             <falscheAntwort2>two</falscheAntwort2>
             <falscheAntwort3>four</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -171,7 +171,7 @@
             <falscheAntwort1>three</falscheAntwort1>
             <falscheAntwort2>one</falscheAntwort2>
             <falscheAntwort3>five</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -181,7 +181,7 @@
             <falscheAntwort1>one</falscheAntwort1>
             <falscheAntwort2>two</falscheAntwort2>
             <falscheAntwort3>nine</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -191,7 +191,7 @@
             <falscheAntwort1>six</falscheAntwort1>
             <falscheAntwort2>five</falscheAntwort2>
             <falscheAntwort3>seven</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -201,7 +201,7 @@
             <falscheAntwort1>six</falscheAntwort1>
             <falscheAntwort2>four</falscheAntwort2>
             <falscheAntwort3>seven</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -211,7 +211,7 @@
             <falscheAntwort1>one</falscheAntwort1>
             <falscheAntwort2>seven</falscheAntwort2>
             <falscheAntwort3>two</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -221,7 +221,7 @@
             <falscheAntwort1>nine</falscheAntwort1>
             <falscheAntwort2>six</falscheAntwort2>
             <falscheAntwort3>ten</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -231,7 +231,7 @@
             <falscheAntwort1>three</falscheAntwort1>
             <falscheAntwort2>nine</falscheAntwort2>
             <falscheAntwort3>four</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -241,7 +241,7 @@
             <falscheAntwort1>two</falscheAntwort1>
             <falscheAntwort2>number</falscheAntwort2>
             <falscheAntwort3>four</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -251,7 +251,7 @@
             <falscheAntwort1>one</falscheAntwort1>
             <falscheAntwort2>three</falscheAntwort2>
             <falscheAntwort3>nine</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -261,7 +261,7 @@
             <falscheAntwort1>six</falscheAntwort1>
             <falscheAntwort2>four</falscheAntwort2>
             <falscheAntwort3>eight</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -271,7 +271,7 @@
             <falscheAntwort1>four</falscheAntwort1>
             <falscheAntwort2>eleven</falscheAntwort2>
             <falscheAntwort3>zero</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -281,7 +281,7 @@
             <falscheAntwort1>two</falscheAntwort1>
             <falscheAntwort2>one</falscheAntwort2>
             <falscheAntwort3>six</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -291,7 +291,7 @@
             <falscheAntwort1>Friday</falscheAntwort1>
             <falscheAntwort2>Tuesday</falscheAntwort2>
             <falscheAntwort3>Sunday</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -301,7 +301,7 @@
             <falscheAntwort1>Saturday</falscheAntwort1>
             <falscheAntwort2>Thursday</falscheAntwort2>
             <falscheAntwort3>Friday</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -311,7 +311,7 @@
             <falscheAntwort1>Sunday</falscheAntwort1>
             <falscheAntwort2>Monday</falscheAntwort2>
             <falscheAntwort3>Thursday</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -321,7 +321,7 @@
             <falscheAntwort1>Saturday</falscheAntwort1>
             <falscheAntwort2>Tuesday</falscheAntwort2>
             <falscheAntwort3>Friday</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -331,7 +331,7 @@
             <falscheAntwort1>Tuesday</falscheAntwort1>
             <falscheAntwort2>Monday</falscheAntwort2>
             <falscheAntwort3>Sunday</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -341,7 +341,7 @@
             <falscheAntwort1>Wednesday</falscheAntwort1>
             <falscheAntwort2>Sunday</falscheAntwort2>
             <falscheAntwort3>Monday</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -351,7 +351,7 @@
             <falscheAntwort1>June</falscheAntwort1>
             <falscheAntwort2>February</falscheAntwort2>
             <falscheAntwort3>July</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -361,7 +361,7 @@
             <falscheAntwort1>May</falscheAntwort1>
             <falscheAntwort2>October</falscheAntwort2>
             <falscheAntwort3>July</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -371,7 +371,7 @@
             <falscheAntwort1>April</falscheAntwort1>
             <falscheAntwort2>May</falscheAntwort2>
             <falscheAntwort3>August</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -381,7 +381,7 @@
             <falscheAntwort1>December</falscheAntwort1>
             <falscheAntwort2>August</falscheAntwort2>
             <falscheAntwort3>November</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -391,7 +391,7 @@
             <falscheAntwort1>June</falscheAntwort1>
             <falscheAntwort2>March</falscheAntwort2>
             <falscheAntwort3>July</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -401,7 +401,7 @@
             <falscheAntwort1>April</falscheAntwort1>
             <falscheAntwort2>July</falscheAntwort2>
             <falscheAntwort3>May</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -411,7 +411,7 @@
             <falscheAntwort1>May</falscheAntwort1>
             <falscheAntwort2>June</falscheAntwort2>
             <falscheAntwort3>April</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -421,7 +421,7 @@
             <falscheAntwort1>December</falscheAntwort1>
             <falscheAntwort2>November</falscheAntwort2>
             <falscheAntwort3>January</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -431,7 +431,7 @@
             <falscheAntwort1>May</falscheAntwort1>
             <falscheAntwort2>April</falscheAntwort2>
             <falscheAntwort3>June</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -441,7 +441,7 @@
             <falscheAntwort1>December</falscheAntwort1>
             <falscheAntwort2>November</falscheAntwort2>
             <falscheAntwort3>May</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -451,7 +451,7 @@
             <falscheAntwort1>January</falscheAntwort1>
             <falscheAntwort2>December</falscheAntwort2>
             <falscheAntwort3>February</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -461,7 +461,7 @@
             <falscheAntwort1>January</falscheAntwort1>
             <falscheAntwort2>October</falscheAntwort2>
             <falscheAntwort3>May</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -471,7 +471,7 @@
             <falscheAntwort1>autumn</falscheAntwort1>
             <falscheAntwort2>summer</falscheAntwort2>
             <falscheAntwort3>winter</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -481,7 +481,7 @@
             <falscheAntwort1>autumn</falscheAntwort1>
             <falscheAntwort2>spring</falscheAntwort2>
             <falscheAntwort3>winter</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -491,7 +491,7 @@
             <falscheAntwort1>summer</falscheAntwort1>
             <falscheAntwort2>winter</falscheAntwort2>
             <falscheAntwort3>spring</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -501,7 +501,7 @@
             <falscheAntwort1>spring</falscheAntwort1>
             <falscheAntwort2>summer</falscheAntwort2>
             <falscheAntwort3>autumn</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -511,7 +511,7 @@
             <falscheAntwort1>April love</falscheAntwort1>
             <falscheAntwort2>Easter eggs</falscheAntwort2>
             <falscheAntwort3>swimming pool</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -521,7 +521,7 @@
             <falscheAntwort1>dogs</falscheAntwort1>
             <falscheAntwort2>cats</falscheAntwort2>
             <falscheAntwort3>aunts</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -531,7 +531,7 @@
             <falscheAntwort1>octopus</falscheAntwort1>
             <falscheAntwort2>Easter eagle</falscheAntwort2>
             <falscheAntwort3>chestnuts</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -541,7 +541,7 @@
             <falscheAntwort1>animals</falscheAntwort1>
             <falscheAntwort2>trees</falscheAntwort2>
             <falscheAntwort3>stones</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -551,7 +551,7 @@
             <falscheAntwort1>wind</falscheAntwort1>
             <falscheAntwort2>snow</falscheAntwort2>
             <falscheAntwort3>sun</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -561,7 +561,7 @@
             <falscheAntwort1>raincoat</falscheAntwort1>
             <falscheAntwort2>bow and arrow</falscheAntwort2>
             <falscheAntwort3>red and blue</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -571,7 +571,7 @@
             <falscheAntwort1>pool</falscheAntwort1>
             <falscheAntwort2>ball</falscheAntwort2>
             <falscheAntwort3>hot</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -581,7 +581,7 @@
             <falscheAntwort1>warm</falscheAntwort1>
             <falscheAntwort2>cool</falscheAntwort2>
             <falscheAntwort3>white</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -591,7 +591,7 @@
             <falscheAntwort1>eagle</falscheAntwort1>
             <falscheAntwort2>ice</falscheAntwort2>
             <falscheAntwort3>egg</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -601,7 +601,7 @@
             <falscheAntwort1>stars</falscheAntwort1>
             <falscheAntwort2>moon</falscheAntwort2>
             <falscheAntwort3>heaven</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -611,7 +611,7 @@
             <falscheAntwort1>sun umbrella</falscheAntwort1>
             <falscheAntwort2>sunshine</falscheAntwort2>
             <falscheAntwort3>water ship</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -621,7 +621,7 @@
             <falscheAntwort1>going</falscheAntwort1>
             <falscheAntwort2>running</falscheAntwort2>
             <falscheAntwort3>crying</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -631,7 +631,7 @@
             <falscheAntwort1>ocean</falscheAntwort1>
             <falscheAntwort2>sea</falscheAntwort2>
             <falscheAntwort3>poor boy</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -641,7 +641,7 @@
             <falscheAntwort1>cold</falscheAntwort1>
             <falscheAntwort2>hot</falscheAntwort2>
             <falscheAntwort3>frozen</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -651,7 +651,7 @@
             <falscheAntwort1>autumn</falscheAntwort1>
             <falscheAntwort2>nuts</falscheAntwort2>
             <falscheAntwort3>colour</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -661,7 +661,7 @@
             <falscheAntwort1>far</falscheAntwort1>
             <falscheAntwort2>black</falscheAntwort2>
             <falscheAntwort3>frighten</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -671,7 +671,7 @@
             <falscheAntwort1>ice</falscheAntwort1>
             <falscheAntwort2>white</falscheAntwort2>
             <falscheAntwort3>sky</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -681,7 +681,7 @@
             <falscheAntwort1>copybook</falscheAntwort1>
             <falscheAntwort2>skating</falscheAntwort2>
             <falscheAntwort3>felt tip</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -691,7 +691,7 @@
             <falscheAntwort1>fog</falscheAntwort1>
             <falscheAntwort2>snow</falscheAntwort2>
             <falscheAntwort3>wind</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -701,7 +701,7 @@
             <falscheAntwort1>rain</falscheAntwort1>
             <falscheAntwort2>warm</falscheAntwort2>
             <falscheAntwort3>storm</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -711,7 +711,7 @@
             <falscheAntwort1>warm</falscheAntwort1>
             <falscheAntwort2>hot</falscheAntwort2>
             <falscheAntwort3>ice</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -721,7 +721,7 @@
             <falscheAntwort1>white</falscheAntwort1>
             <falscheAntwort2>snow</falscheAntwort2>
             <falscheAntwort3>biro</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -731,7 +731,7 @@
             <falscheAntwort1>running</falscheAntwort1>
             <falscheAntwort2>swimming</falscheAntwort2>
             <falscheAntwort3>blowing</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -741,7 +741,7 @@
             <falscheAntwort1>sun</falscheAntwort1>
             <falscheAntwort2>snow</falscheAntwort2>
             <falscheAntwort3>school</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -751,7 +751,7 @@
             <falscheAntwort1>sun</falscheAntwort1>
             <falscheAntwort2>rain</falscheAntwort2>
             <falscheAntwort3>hail</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -761,7 +761,7 @@
             <falscheAntwort1>sun flakes</falscheAntwort1>
             <falscheAntwort2>cornflakes</falscheAntwort2>
             <falscheAntwort3>rain flakes</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -771,7 +771,7 @@
             <falscheAntwort1>snowball</falscheAntwort1>
             <falscheAntwort2>snowwoman</falscheAntwort2>
             <falscheAntwort3>snow</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -781,7 +781,7 @@
             <falscheAntwort1>heaven</falscheAntwort1>
             <falscheAntwort2>sky</falscheAntwort2>
             <falscheAntwort3>wind</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -791,7 +791,7 @@
             <falscheAntwort1>warm</falscheAntwort1>
             <falscheAntwort2>sunny</falscheAntwort2>
             <falscheAntwort3>crayon</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -801,7 +801,7 @@
             <falscheAntwort1>storm</falscheAntwort1>
             <falscheAntwort2>rain</falscheAntwort2>
             <falscheAntwort3>sun</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -811,7 +811,7 @@
             <falscheAntwort1>heaven</falscheAntwort1>
             <falscheAntwort2>hot</falscheAntwort2>
             <falscheAntwort3>hair</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -821,7 +821,7 @@
             <falscheAntwort1>silver</falscheAntwort1>
             <falscheAntwort2>storm</falscheAntwort2>
             <falscheAntwort3>wind</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -831,7 +831,7 @@
             <falscheAntwort1>sun</falscheAntwort1>
             <falscheAntwort2>fog</falscheAntwort2>
             <falscheAntwort3>wind</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -841,7 +841,7 @@
             <falscheAntwort1>skating</falscheAntwort1>
             <falscheAntwort2>rainbow</falscheAntwort2>
             <falscheAntwort3>summer</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -851,7 +851,7 @@
             <falscheAntwort1>sky and earth</falscheAntwort1>
             <falscheAntwort2>hot and cold</falscheAntwort2>
             <falscheAntwort3>summer and winter</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -861,7 +861,7 @@
             <falscheAntwort1>angry</falscheAntwort1>
             <falscheAntwort2>kindly</falscheAntwort2>
             <falscheAntwort3>sunny</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -871,7 +871,7 @@
             <falscheAntwort1>red</falscheAntwort1>
             <falscheAntwort2>white</falscheAntwort2>
             <falscheAntwort3>blue</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -881,7 +881,7 @@
             <falscheAntwort1>green</falscheAntwort1>
             <falscheAntwort2>red</falscheAntwort2>
             <falscheAntwort3>white</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -891,7 +891,7 @@
             <falscheAntwort1>blue</falscheAntwort1>
             <falscheAntwort2>black</falscheAntwort2>
             <falscheAntwort3>pink</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -901,7 +901,7 @@
             <falscheAntwort1>yellow</falscheAntwort1>
             <falscheAntwort2>grey</falscheAntwort2>
             <falscheAntwort3>orange</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -911,7 +911,7 @@
             <falscheAntwort1>green</falscheAntwort1>
             <falscheAntwort2>light green</falscheAntwort2>
             <falscheAntwort3>grey</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -921,7 +921,7 @@
             <falscheAntwort1>green</falscheAntwort1>
             <falscheAntwort2>dark green</falscheAntwort2>
             <falscheAntwort3>grey</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -931,7 +931,7 @@
             <falscheAntwort1>black</falscheAntwort1>
             <falscheAntwort2>green</falscheAntwort2>
             <falscheAntwort3>brown</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -941,7 +941,7 @@
             <falscheAntwort1>white</falscheAntwort1>
             <falscheAntwort2>yellow</falscheAntwort2>
             <falscheAntwort3>purple</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -951,7 +951,7 @@
             <falscheAntwort1>white</falscheAntwort1>
             <falscheAntwort2>purple</falscheAntwort2>
             <falscheAntwort3>red</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -961,7 +961,7 @@
             <falscheAntwort1>white</falscheAntwort1>
             <falscheAntwort2>yellow</falscheAntwort2>
             <falscheAntwort3>blue</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -971,7 +971,7 @@
             <falscheAntwort1>grey</falscheAntwort1>
             <falscheAntwort2>white</falscheAntwort2>
             <falscheAntwort3>brown</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -981,7 +981,7 @@
             <falscheAntwort1>green</falscheAntwort1>
             <falscheAntwort2>grey</falscheAntwort2>
             <falscheAntwort3>purple</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -991,7 +991,7 @@
             <falscheAntwort1>red</falscheAntwort1>
             <falscheAntwort2>black</falscheAntwort2>
             <falscheAntwort3>blue</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -1001,7 +1001,7 @@
             <falscheAntwort1>crayon</falscheAntwort1>
             <falscheAntwort2>chalk</falscheAntwort2>
             <falscheAntwort3>door</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1011,7 +1011,7 @@
             <falscheAntwort1>window</falscheAntwort1>
             <falscheAntwort2>door</falscheAntwort2>
             <falscheAntwort3>copybook</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1021,7 +1021,7 @@
             <falscheAntwort1>door</falscheAntwort1>
             <falscheAntwort2>pencil</falscheAntwort2>
             <falscheAntwort3>table</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1031,7 +1031,7 @@
             <falscheAntwort1>pen</falscheAntwort1>
             <falscheAntwort2>crayon</falscheAntwort2>
             <falscheAntwort3>book</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1041,7 +1041,7 @@
             <falscheAntwort1>man</falscheAntwort1>
             <falscheAntwort2>chalk</falscheAntwort2>
             <falscheAntwort3>woman</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1051,7 +1051,7 @@
             <falscheAntwort1>men</falscheAntwort1>
             <falscheAntwort2>babys</falscheAntwort2>
             <falscheAntwort3>women</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1061,7 +1061,7 @@
             <falscheAntwort1>blackboard</falscheAntwort1>
             <falscheAntwort2>felt tip</falscheAntwort2>
             <falscheAntwort3>snowflakes</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1071,7 +1071,7 @@
             <falscheAntwort1>table</falscheAntwort1>
             <falscheAntwort2>picture</falscheAntwort2>
             <falscheAntwort3>ruler</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1081,7 +1081,7 @@
             <falscheAntwort1>teacher</falscheAntwort1>
             <falscheAntwort2>schoolbag</falscheAntwort2>
             <falscheAntwort3>pencil</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1091,7 +1091,7 @@
             <falscheAntwort1>rubber</falscheAntwort1>
             <falscheAntwort2>picture</falscheAntwort2>
             <falscheAntwort3>sheet</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1101,7 +1101,7 @@
             <falscheAntwort1>chick</falscheAntwort1>
             <falscheAntwort2>pen</falscheAntwort2>
             <falscheAntwort3>scissors</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1111,7 +1111,7 @@
             <falscheAntwort1>schoolbag</falscheAntwort1>
             <falscheAntwort2>window colour</falscheAntwort2>
             <falscheAntwort3>felt tip</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1121,7 +1121,7 @@
             <falscheAntwort1>pen</falscheAntwort1>
             <falscheAntwort2>pencil case</falscheAntwort2>
             <falscheAntwort3>pencil</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1131,7 +1131,7 @@
             <falscheAntwort1>beaver</falscheAntwort1>
             <falscheAntwort2>window</falscheAntwort2>
             <falscheAntwort3>teacher</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1141,7 +1141,7 @@
             <falscheAntwort1>ruler</falscheAntwort1>
             <falscheAntwort2>reindeer</falscheAntwort2>
             <falscheAntwort3>donkey</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1151,7 +1151,7 @@
             <falscheAntwort1>cock</falscheAntwort1>
             <falscheAntwort2>rubber</falscheAntwort2>
             <falscheAntwort3>lamb</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1161,7 +1161,7 @@
             <falscheAntwort1>sheep</falscheAntwort1>
             <falscheAntwort2>sheet</falscheAntwort2>
             <falscheAntwort3>sunshine</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1171,7 +1171,7 @@
             <falscheAntwort1>blackboard</falscheAntwort1>
             <falscheAntwort2>pencil case</falscheAntwort2>
             <falscheAntwort3>table</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1181,7 +1181,7 @@
             <falscheAntwort1>parrot</falscheAntwort1>
             <falscheAntwort2>sister</falscheAntwort2>
             <falscheAntwort3>school</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1191,7 +1191,7 @@
             <falscheAntwort1>bed</falscheAntwort1>
             <falscheAntwort2>chair</falscheAntwort2>
             <falscheAntwort3>horse</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1201,7 +1201,7 @@
             <falscheAntwort1>ten</falscheAntwort1>
             <falscheAntwort2>turkey</falscheAntwort2>
             <falscheAntwort3>teacher</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1211,7 +1211,7 @@
             <falscheAntwort1>picture</falscheAntwort1>
             <falscheAntwort2>teatime</falscheAntwort2>
             <falscheAntwort3>lucky</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1221,7 +1221,7 @@
             <falscheAntwort1>clock</falscheAntwort1>
             <falscheAntwort2>windy</falscheAntwort2>
             <falscheAntwort3>money</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1231,7 +1231,7 @@
             <falscheAntwort1>horse</falscheAntwort1>
             <falscheAntwort2>dog</falscheAntwort2>
             <falscheAntwort3>mouse</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1241,7 +1241,7 @@
             <falscheAntwort1>garden</falscheAntwort1>
             <falscheAntwort2>lamb</falscheAntwort2>
             <falscheAntwort3>lion</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1251,7 +1251,7 @@
             <falscheAntwort1>chair</falscheAntwort1>
             <falscheAntwort2>chalk</falscheAntwort2>
             <falscheAntwort3>hippo</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1261,7 +1261,7 @@
             <falscheAntwort1>picture</falscheAntwort1>
             <falscheAntwort2>cow</falscheAntwort2>
             <falscheAntwort3>turkey</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1271,7 +1271,7 @@
             <falscheAntwort1>egg</falscheAntwort1>
             <falscheAntwort2>dog</falscheAntwort2>
             <falscheAntwort3>uncle</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1281,7 +1281,7 @@
             <falscheAntwort1>pig</falscheAntwort1>
             <falscheAntwort2>cat</falscheAntwort2>
             <falscheAntwort3>ant</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1291,7 +1291,7 @@
             <falscheAntwort1>horse</falscheAntwort1>
             <falscheAntwort2>monkey</falscheAntwort2>
             <falscheAntwort3>buffalo</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1301,7 +1301,7 @@
             <falscheAntwort1>sheep</falscheAntwort1>
             <falscheAntwort2>chick</falscheAntwort2>
             <falscheAntwort3>bee</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1311,7 +1311,7 @@
             <falscheAntwort1>egg</falscheAntwort1>
             <falscheAntwort2>rat</falscheAntwort2>
             <falscheAntwort3>bat</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1321,7 +1321,7 @@
             <falscheAntwort1>parrot</falscheAntwort1>
             <falscheAntwort2>hippo</falscheAntwort2>
             <falscheAntwort3>pig</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1331,7 +1331,7 @@
             <falscheAntwort1>light</falscheAntwort1>
             <falscheAntwort2>lion</falscheAntwort2>
             <falscheAntwort3>love</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1341,7 +1341,7 @@
             <falscheAntwort1>moon</falscheAntwort1>
             <falscheAntwort2>monkey</falscheAntwort2>
             <falscheAntwort3>mirror</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1351,7 +1351,7 @@
             <falscheAntwort1>meat</falscheAntwort1>
             <falscheAntwort2>ice</falscheAntwort2>
             <falscheAntwort3>mail</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1361,7 +1361,7 @@
             <falscheAntwort1>rain</falscheAntwort1>
             <falscheAntwort2>ruler</falscheAntwort2>
             <falscheAntwort3>bat</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1371,7 +1371,7 @@
             <falscheAntwort1>parrot</falscheAntwort1>
             <falscheAntwort2>picture</falscheAntwort2>
             <falscheAntwort3>beaver</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1381,7 +1381,7 @@
             <falscheAntwort1>dog</falscheAntwort1>
             <falscheAntwort2>horse</falscheAntwort2>
             <falscheAntwort3>cat</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -1391,7 +1391,7 @@
             <falscheAntwort1>sheet</falscheAntwort1>
             <falscheAntwort2>school</falscheAntwort2>
             <falscheAntwort3>shirt</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1401,7 +1401,7 @@
             <falscheAntwort1>monkey</falscheAntwort1>
             <falscheAntwort2>donkey</falscheAntwort2>
             <falscheAntwort3>parrot</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1411,7 +1411,7 @@
             <falscheAntwort1>beaver</falscheAntwort1>
             <falscheAntwort2>bat</falscheAntwort2>
             <falscheAntwort3>bee</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1421,7 +1421,7 @@
             <falscheAntwort1>bee</falscheAntwort1>
             <falscheAntwort2>bear</falscheAntwort2>
             <falscheAntwort3>beaver</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1431,7 +1431,7 @@
             <falscheAntwort1>turkey</falscheAntwort1>
             <falscheAntwort2>ant</falscheAntwort2>
             <falscheAntwort3>chalk</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -1441,7 +1441,7 @@
             <falscheAntwort1>horse</falscheAntwort1>
             <falscheAntwort2>hippo</falscheAntwort2>
             <falscheAntwort3>cow</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -1451,7 +1451,7 @@
             <falscheAntwort1>table</falscheAntwort1>
             <falscheAntwort2>pig</falscheAntwort2>
             <falscheAntwort3>garden</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -1461,7 +1461,7 @@
             <falscheAntwort1>donkey</falscheAntwort1>
             <falscheAntwort2>horse</falscheAntwort2>
             <falscheAntwort3>lion</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1471,7 +1471,7 @@
             <falscheAntwort1>cow</falscheAntwort1>
             <falscheAntwort2>buffalo</falscheAntwort2>
             <falscheAntwort3>dog</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -1481,7 +1481,7 @@
             <falscheAntwort1>cock</falscheAntwort1>
             <falscheAntwort2>lamb</falscheAntwort2>
             <falscheAntwort3>bat</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -1491,7 +1491,7 @@
             <falscheAntwort1>turkey</falscheAntwort1>
             <falscheAntwort2>donkey</falscheAntwort2>
             <falscheAntwort3>parrot</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1501,7 +1501,7 @@
             <falscheAntwort1>turkey</falscheAntwort1>
             <falscheAntwort2>frog</falscheAntwort2>
             <falscheAntwort3>pencil</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1511,7 +1511,7 @@
             <falscheAntwort1>rainbow</falscheAntwort1>
             <falscheAntwort2>rat</falscheAntwort2>
             <falscheAntwort3>rubber</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1521,7 +1521,7 @@
             <falscheAntwort1>cat</falscheAntwort1>
             <falscheAntwort2>lion</falscheAntwort2>
             <falscheAntwort3>dog</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -1531,7 +1531,7 @@
             <falscheAntwort1>animal</falscheAntwort1>
             <falscheAntwort2>horse</falscheAntwort2>
             <falscheAntwort3>pony</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -1541,7 +1541,7 @@
             <falscheAntwort1>dog</falscheAntwort1>
             <falscheAntwort2>cat</falscheAntwort2>
             <falscheAntwort3>pig</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1551,7 +1551,7 @@
             <falscheAntwort1>cat</falscheAntwort1>
             <falscheAntwort2>rat</falscheAntwort2>
             <falscheAntwort3>pig</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1561,7 +1561,7 @@
             <falscheAntwort1>bee</falscheAntwort1>
             <falscheAntwort2>bear</falscheAntwort2>
             <falscheAntwort3>bean</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1571,7 +1571,7 @@
             <falscheAntwort1>bear</falscheAntwort1>
             <falscheAntwort2>budgie</falscheAntwort2>
             <falscheAntwort3>bread</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1581,7 +1581,7 @@
             <falscheAntwort1>cucumber</falscheAntwort1>
             <falscheAntwort2>bubble gum</falscheAntwort2>
             <falscheAntwort3>rabbit</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1591,7 +1591,7 @@
             <falscheAntwort1>hedgehog</falscheAntwort1>
             <falscheAntwort2>guinea pig</falscheAntwort2>
             <falscheAntwort3>blueberry</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1601,7 +1601,7 @@
             <falscheAntwort1>bee</falscheAntwort1>
             <falscheAntwort2>sky</falscheAntwort2>
             <falscheAntwort3>bat</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1611,7 +1611,7 @@
             <falscheAntwort1>fish</falscheAntwort1>
             <falscheAntwort2>box</falscheAntwort2>
             <falscheAntwort3>frog</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1621,7 +1621,7 @@
             <falscheAntwort1>cat food</falscheAntwort1>
             <falscheAntwort2>magpie</falscheAntwort2>
             <falscheAntwort3>guinea pig</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1631,7 +1631,7 @@
             <falscheAntwort1>tortoise</falscheAntwort1>
             <falscheAntwort2>mother</falscheAntwort2>
             <falscheAntwort3>spider</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1641,7 +1641,7 @@
             <falscheAntwort1>rat</falscheAntwort1>
             <falscheAntwort2>rubber</falscheAntwort2>
             <falscheAntwort3>robin</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1651,7 +1651,7 @@
             <falscheAntwort1>rabbit</falscheAntwort1>
             <falscheAntwort2>ruler</falscheAntwort2>
             <falscheAntwort3>rainbow</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1661,7 +1661,7 @@
             <falscheAntwort1>curd</falscheAntwort1>
             <falscheAntwort2>sheep</falscheAntwort2>
             <falscheAntwort3>apple</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1671,7 +1671,7 @@
             <falscheAntwort1>window</falscheAntwort1>
             <falscheAntwort2>wind</falscheAntwort2>
             <falscheAntwort3>cheese</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1681,7 +1681,7 @@
             <falscheAntwort1>donkey</falscheAntwort1>
             <falscheAntwort2>turkey</falscheAntwort2>
             <falscheAntwort3>magpie</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1691,7 +1691,7 @@
             <falscheAntwort1>dog</falscheAntwort1>
             <falscheAntwort2>lion</falscheAntwort2>
             <falscheAntwort3>mouse</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1701,7 +1701,7 @@
             <falscheAntwort1>mouse</falscheAntwort1>
             <falscheAntwort2>doll</falscheAntwort2>
             <falscheAntwort3>cat</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1711,7 +1711,7 @@
             <falscheAntwort1>fox</falscheAntwort1>
             <falscheAntwort2>frog</falscheAntwort2>
             <falscheAntwort3>fly</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -1721,7 +1721,7 @@
             <falscheAntwort1>hedgehog</falscheAntwort1>
             <falscheAntwort2>magpie</falscheAntwort2>
             <falscheAntwort3>budgie</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1731,7 +1731,7 @@
             <falscheAntwort1>caterpillar</falscheAntwort1>
             <falscheAntwort2>table</falscheAntwort2>
             <falscheAntwort3>budgie</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1741,7 +1741,7 @@
             <falscheAntwort1>cherry</falscheAntwort1>
             <falscheAntwort2>banana</falscheAntwort2>
             <falscheAntwort3>jam</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1751,7 +1751,7 @@
             <falscheAntwort1>chips</falscheAntwort1>
             <falscheAntwort2>bean</falscheAntwort2>
             <falscheAntwort3>grapes</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -1761,7 +1761,7 @@
             <falscheAntwort1>egg</falscheAntwort1>
             <falscheAntwort2>bear</falscheAntwort2>
             <falscheAntwort3>dips</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1771,7 +1771,7 @@
             <falscheAntwort1>marmalade</falscheAntwort1>
             <falscheAntwort2>chocolate</falscheAntwort2>
             <falscheAntwort3>bread</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1781,7 +1781,7 @@
             <falscheAntwort1>butter</falscheAntwort1>
             <falscheAntwort2>apple</falscheAntwort2>
             <falscheAntwort3>bee</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1791,7 +1791,7 @@
             <falscheAntwort1>dog food</falscheAntwort1>
             <falscheAntwort2>bedroom</falscheAntwort2>
             <falscheAntwort3>rainbow</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1801,7 +1801,7 @@
             <falscheAntwort1>ice - cream</falscheAntwort1>
             <falscheAntwort2>cucumber</falscheAntwort2>
             <falscheAntwort3>breakfast</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1811,7 +1811,7 @@
             <falscheAntwort1>breakfast</falscheAntwort1>
             <falscheAntwort2>dog food</falscheAntwort2>
             <falscheAntwort3>mice</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1821,7 +1821,7 @@
             <falscheAntwort1>cherry</falscheAntwort1>
             <falscheAntwort2>cucumber</falscheAntwort2>
             <falscheAntwort3>cats</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1831,7 +1831,7 @@
             <falscheAntwort1>chips</falscheAntwort1>
             <falscheAntwort2>chair</falscheAntwort2>
             <falscheAntwort3>chicken</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1841,7 +1841,7 @@
             <falscheAntwort1>potatoes</falscheAntwort1>
             <falscheAntwort2>chicken</falscheAntwort2>
             <falscheAntwort3>grapes</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1851,7 +1851,7 @@
             <falscheAntwort1>cheese</falscheAntwort1>
             <falscheAntwort2>cream</falscheAntwort2>
             <falscheAntwort3>cucumber</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -1861,7 +1861,7 @@
             <falscheAntwort1>chicken</falscheAntwort1>
             <falscheAntwort2>cheese</falscheAntwort2>
             <falscheAntwort3>chips</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -1871,7 +1871,7 @@
             <falscheAntwort1>cream</falscheAntwort1>
             <falscheAntwort2>chips</falscheAntwort2>
             <falscheAntwort3>cat</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1881,7 +1881,7 @@
             <falscheAntwort1>chips</falscheAntwort1>
             <falscheAntwort2>cherry</falscheAntwort2>
             <falscheAntwort3>ham</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1891,7 +1891,7 @@
             <falscheAntwort1>dips</falscheAntwort1>
             <falscheAntwort2>cat food</falscheAntwort2>
             <falscheAntwort3>bread</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1901,7 +1901,7 @@
             <falscheAntwort1>bat</falscheAntwort1>
             <falscheAntwort2>ant</falscheAntwort2>
             <falscheAntwort3>bean</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1911,7 +1911,7 @@
             <falscheAntwort1>juice</falscheAntwort1>
             <falscheAntwort2>curd</falscheAntwort2>
             <falscheAntwort3>chips</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1921,7 +1921,7 @@
             <falscheAntwort1>bread</falscheAntwort1>
             <falscheAntwort2>jam</falscheAntwort2>
             <falscheAntwort3>curd</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1931,7 +1931,7 @@
             <falscheAntwort1>chocolate</falscheAntwort1>
             <falscheAntwort2>marmalade</falscheAntwort2>
             <falscheAntwort3>banana</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1941,7 +1941,7 @@
             <falscheAntwort1>breakfast</falscheAntwort1>
             <falscheAntwort2>cat food</falscheAntwort2>
             <falscheAntwort3>cucumber</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1951,7 +1951,7 @@
             <falscheAntwort1>blueberry</falscheAntwort1>
             <falscheAntwort2>ham</falscheAntwort2>
             <falscheAntwort3>cheese</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1961,7 +1961,7 @@
             <falscheAntwort1>bean</falscheAntwort1>
             <falscheAntwort2>bread</falscheAntwort2>
             <falscheAntwort3>egg</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1971,7 +1971,7 @@
             <falscheAntwort1>pea</falscheAntwort1>
             <falscheAntwort2>tasty</falscheAntwort2>
             <falscheAntwort3>rice</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1981,7 +1981,7 @@
             <falscheAntwort1>pineapple</falscheAntwort1>
             <falscheAntwort2>raspberry</falscheAntwort2>
             <falscheAntwort3>watermelon</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1991,7 +1991,7 @@
             <falscheAntwort1>raisin</falscheAntwort1>
             <falscheAntwort2>bread</falscheAntwort2>
             <falscheAntwort3>plum</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2001,7 +2001,7 @@
             <falscheAntwort1>rice</falscheAntwort1>
             <falscheAntwort2>salt</falscheAntwort2>
             <falscheAntwort3>pea</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2011,7 +2011,7 @@
             <falscheAntwort1>egg</falscheAntwort1>
             <falscheAntwort2>salt</falscheAntwort2>
             <falscheAntwort3>ant</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2021,7 +2021,7 @@
             <falscheAntwort1>lemon</falscheAntwort1>
             <falscheAntwort2>bean</falscheAntwort2>
             <falscheAntwort3>meat</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2031,7 +2031,7 @@
             <falscheAntwort1>raisin</falscheAntwort1>
             <falscheAntwort2>peach</falscheAntwort2>
             <falscheAntwort3>bowl</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2041,7 +2041,7 @@
             <falscheAntwort1>bean</falscheAntwort1>
             <falscheAntwort2>apple</falscheAntwort2>
             <falscheAntwort3>plum</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2051,7 +2051,7 @@
             <falscheAntwort1>strawberry</falscheAntwort1>
             <falscheAntwort2>raspberry</falscheAntwort2>
             <falscheAntwort3>tomato</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2061,7 +2061,7 @@
             <falscheAntwort1>pear</falscheAntwort1>
             <falscheAntwort2>meat</falscheAntwort2>
             <falscheAntwort3>salt</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2071,7 +2071,7 @@
             <falscheAntwort1>turkey</falscheAntwort1>
             <falscheAntwort2>rice</falscheAntwort2>
             <falscheAntwort3>lemon</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2081,7 +2081,7 @@
             <falscheAntwort1>peanut</falscheAntwort1>
             <falscheAntwort2>strawberry</falscheAntwort2>
             <falscheAntwort3>lettuce</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2091,7 +2091,7 @@
             <falscheAntwort1>salt</falscheAntwort1>
             <falscheAntwort2>nice</falscheAntwort2>
             <falscheAntwort3>pea</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2101,7 +2101,7 @@
             <falscheAntwort1>say</falscheAntwort1>
             <falscheAntwort2>sand</falscheAntwort2>
             <falscheAntwort3>since</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -2111,7 +2111,7 @@
             <falscheAntwort1>lollipop</falscheAntwort1>
             <falscheAntwort2>breakfast</falscheAntwort2>
             <falscheAntwort3>orange</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2121,7 +2121,7 @@
             <falscheAntwort1>blueberry</falscheAntwort1>
             <falscheAntwort2>raspberry</falscheAntwort2>
             <falscheAntwort3>red berry</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2131,7 +2131,7 @@
             <falscheAntwort1>loudly</falscheAntwort1>
             <falscheAntwort2>windy</falscheAntwort2>
             <falscheAntwort3>mummy</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2141,7 +2141,7 @@
             <falscheAntwort1>apple</falscheAntwort1>
             <falscheAntwort2>peach</falscheAntwort2>
             <falscheAntwort3>turkey</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2151,7 +2151,7 @@
             <falscheAntwort1>night</falscheAntwort1>
             <falscheAntwort2>day</falscheAntwort2>
             <falscheAntwort3>evening</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2161,7 +2161,7 @@
             <falscheAntwort1>book</falscheAntwort1>
             <falscheAntwort2>bear</falscheAntwort2>
             <falscheAntwort3>soap</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2171,7 +2171,7 @@
             <falscheAntwort1>tea</falscheAntwort1>
             <falscheAntwort2>plate</falscheAntwort2>
             <falscheAntwort3>saucer</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2181,7 +2181,7 @@
             <falscheAntwort1>tray</falscheAntwort1>
             <falscheAntwort2>mice</falscheAntwort2>
             <falscheAntwort3>mouth</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2191,7 +2191,7 @@
             <falscheAntwort1>budgie</falscheAntwort1>
             <falscheAntwort2>peanut</falscheAntwort2>
             <falscheAntwort3>sugar</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2201,7 +2201,7 @@
             <falscheAntwort1>water</falscheAntwort1>
             <falscheAntwort2>salt</falscheAntwort2>
             <falscheAntwort3>shoulder</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -2211,7 +2211,7 @@
             <falscheAntwort1>blackboard</falscheAntwort1>
             <falscheAntwort2>window</falscheAntwort2>
             <falscheAntwort3>table</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2221,7 +2221,7 @@
             <falscheAntwort1>time</falscheAntwort1>
             <falscheAntwort2>cat</falscheAntwort2>
             <falscheAntwort3>tear</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -2231,7 +2231,7 @@
             <falscheAntwort1>way</falscheAntwort1>
             <falscheAntwort2>say</falscheAntwort2>
             <falscheAntwort3>stay</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2241,7 +2241,7 @@
             <falscheAntwort1>teacup</falscheAntwort1>
             <falscheAntwort2>teaspoon</falscheAntwort2>
             <falscheAntwort3>teatime</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2251,7 +2251,7 @@
             <falscheAntwort1>teatime</falscheAntwort1>
             <falscheAntwort2>teaspoon</falscheAntwort2>
             <falscheAntwort3>teabag</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2261,7 +2261,7 @@
             <falscheAntwort1>teaspoon</falscheAntwort1>
             <falscheAntwort2>teacup</falscheAntwort2>
             <falscheAntwort3>teatime</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2271,7 +2271,7 @@
             <falscheAntwort1>teapot</falscheAntwort1>
             <falscheAntwort2>teatime</falscheAntwort2>
             <falscheAntwort3>teacup</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2281,7 +2281,7 @@
             <falscheAntwort1>heart</falscheAntwort1>
             <falscheAntwort2>warm</falscheAntwort2>
             <falscheAntwort3>way</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -2291,7 +2291,7 @@
             <falscheAntwort1>head</falscheAntwort1>
             <falscheAntwort2>leg</falscheAntwort2>
             <falscheAntwort3>finger</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -2301,7 +2301,7 @@
             <falscheAntwort1>hip</falscheAntwort1>
             <falscheAntwort2>eye</falscheAntwort2>
             <falscheAntwort3>throat</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2311,7 +2311,7 @@
             <falscheAntwort1>mouth</falscheAntwort1>
             <falscheAntwort2>eye</falscheAntwort2>
             <falscheAntwort3>nose</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2321,7 +2321,7 @@
             <falscheAntwort1>nose</falscheAntwort1>
             <falscheAntwort2>ear</falscheAntwort2>
             <falscheAntwort3>arm</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2331,7 +2331,7 @@
             <falscheAntwort1>leg</falscheAntwort1>
             <falscheAntwort2>arm</falscheAntwort2>
             <falscheAntwort3>head</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -2341,7 +2341,7 @@
             <falscheAntwort1>leg</falscheAntwort1>
             <falscheAntwort2>arm</falscheAntwort2>
             <falscheAntwort3>back</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2351,7 +2351,7 @@
             <falscheAntwort1>neck</falscheAntwort1>
             <falscheAntwort2>sheet</falscheAntwort2>
             <falscheAntwort3>knee</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -2361,7 +2361,7 @@
             <falscheAntwort1>arm</falscheAntwort1>
             <falscheAntwort2>finger</falscheAntwort2>
             <falscheAntwort3>toe</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -2371,7 +2371,7 @@
             <falscheAntwort1>leg</falscheAntwort1>
             <falscheAntwort2>heart</falscheAntwort2>
             <falscheAntwort3>shoulder</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -2381,7 +2381,7 @@
             <falscheAntwort1>arm</falscheAntwort1>
             <falscheAntwort2>head</falscheAntwort2>
             <falscheAntwort3>hand</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -2391,7 +2391,7 @@
             <falscheAntwort1>head</falscheAntwort1>
             <falscheAntwort2>toe</falscheAntwort2>
             <falscheAntwort3>ear</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2401,7 +2401,7 @@
             <falscheAntwort1>mouth</falscheAntwort1>
             <falscheAntwort2>leg</falscheAntwort2>
             <falscheAntwort3>toe</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -2411,7 +2411,7 @@
             <falscheAntwort1>throat</falscheAntwort1>
             <falscheAntwort2>arm</falscheAntwort2>
             <falscheAntwort3>back</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2421,7 +2421,7 @@
             <falscheAntwort1>mice</falscheAntwort1>
             <falscheAntwort2>neck</falscheAntwort2>
             <falscheAntwort3>heart</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2431,7 +2431,7 @@
             <falscheAntwort1>toe</falscheAntwort1>
             <falscheAntwort2>back</falscheAntwort2>
             <falscheAntwort3>eye</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2441,7 +2441,7 @@
             <falscheAntwort1>ear</falscheAntwort1>
             <falscheAntwort2>neck</falscheAntwort2>
             <falscheAntwort3>toe</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2451,7 +2451,7 @@
             <falscheAntwort1>foot</falscheAntwort1>
             <falscheAntwort2>shower</falscheAntwort2>
             <falscheAntwort3>leg</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2461,7 +2461,7 @@
             <falscheAntwort1>knee</falscheAntwort1>
             <falscheAntwort2>tree</falscheAntwort2>
             <falscheAntwort3>ear</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2471,7 +2471,7 @@
             <falscheAntwort1>feet</falscheAntwort1>
             <falscheAntwort2>throat</falscheAntwort2>
             <falscheAntwort3>hand</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2481,7 +2481,7 @@
             <falscheAntwort1>ear</falscheAntwort1>
             <falscheAntwort2>eye</falscheAntwort2>
             <falscheAntwort3>hip</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2491,7 +2491,7 @@
             <falscheAntwort1>sugar</falscheAntwort1>
             <falscheAntwort2>bear</falscheAntwort2>
             <falscheAntwort3>garden</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2501,7 +2501,7 @@
             <falscheAntwort1>sore throat</falscheAntwort1>
             <falscheAntwort2>runny nose</falscheAntwort2>
             <falscheAntwort3>cold</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2511,7 +2511,7 @@
             <falscheAntwort1>runny nose</falscheAntwort1>
             <falscheAntwort2>headache</falscheAntwort2>
             <falscheAntwort3>heartbeat</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2521,7 +2521,7 @@
             <falscheAntwort1>headache</falscheAntwort1>
             <falscheAntwort2>windy ear</falscheAntwort2>
             <falscheAntwort3>sore throat</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2531,7 +2531,7 @@
             <falscheAntwort1>shirt</falscheAntwort1>
             <falscheAntwort2>boots</falscheAntwort2>
             <falscheAntwort3>socks</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -2541,7 +2541,7 @@
             <falscheAntwort1>dress</falscheAntwort1>
             <falscheAntwort2>blouse</falscheAntwort2>
             <falscheAntwort3>shirt</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2551,7 +2551,7 @@
             <falscheAntwort1>doormat</falscheAntwort1>
             <falscheAntwort2>tablecloth</falscheAntwort2>
             <falscheAntwort3>mailbox</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2561,7 +2561,7 @@
             <falscheAntwort1>hat</falscheAntwort1>
             <falscheAntwort2>dress</falscheAntwort2>
             <falscheAntwort3>skirt</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2571,7 +2571,7 @@
             <falscheAntwort1>socks</falscheAntwort1>
             <falscheAntwort2>hat</falscheAntwort2>
             <falscheAntwort3>coat</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2581,7 +2581,7 @@
             <falscheAntwort1>fat</falscheAntwort1>
             <falscheAntwort2>cat</falscheAntwort2>
             <falscheAntwort3>bat</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -2591,7 +2591,7 @@
             <falscheAntwort1>trousers</falscheAntwort1>
             <falscheAntwort2>dress</falscheAntwort2>
             <falscheAntwort3>shoes</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2601,7 +2601,7 @@
             <falscheAntwort1>chair</falscheAntwort1>
             <falscheAntwort2>shorts</falscheAntwort2>
             <falscheAntwort3>jacket</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -2611,7 +2611,7 @@
             <falscheAntwort1>small</falscheAntwort1>
             <falscheAntwort2>large</falscheAntwort2>
             <falscheAntwort3>long</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -2621,7 +2621,7 @@
             <falscheAntwort1>small</falscheAntwort1>
             <falscheAntwort2>medium</falscheAntwort2>
             <falscheAntwort3>short</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -2631,7 +2631,7 @@
             <falscheAntwort1>large</falscheAntwort1>
             <falscheAntwort2>long</falscheAntwort2>
             <falscheAntwort3>medium</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -2641,7 +2641,7 @@
             <falscheAntwort1>parrot</falscheAntwort1>
             <falscheAntwort2>pencil</falscheAntwort2>
             <falscheAntwort3>plum</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2651,7 +2651,7 @@
             <falscheAntwort1>shoe</falscheAntwort1>
             <falscheAntwort2>skirt</falscheAntwort2>
             <falscheAntwort3>hat</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2661,7 +2661,7 @@
             <falscheAntwort1>shower</falscheAntwort1>
             <falscheAntwort2>school</falscheAntwort2>
             <falscheAntwort3>key</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -2671,7 +2671,7 @@
             <falscheAntwort1>trousers</falscheAntwort1>
             <falscheAntwort2>pocket</falscheAntwort2>
             <falscheAntwort3>boots</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -2681,7 +2681,7 @@
             <falscheAntwort1>shower curtain</falscheAntwort1>
             <falscheAntwort2>water machine</falscheAntwort2>
             <falscheAntwort3>children´s room</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -2691,7 +2691,7 @@
             <falscheAntwort1>hall</falscheAntwort1>
             <falscheAntwort2>chair</falscheAntwort2>
             <falscheAntwort3>mirror</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2701,7 +2701,7 @@
             <falscheAntwort1>children´s room</falscheAntwort1>
             <falscheAntwort2>bedroom</falscheAntwort2>
             <falscheAntwort3>coat rack</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2711,7 +2711,7 @@
             <falscheAntwort1>chair</falscheAntwort1>
             <falscheAntwort2>table</falscheAntwort2>
             <falscheAntwort3>door</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -2721,7 +2721,7 @@
             <falscheAntwort1>kitchen</falscheAntwort1>
             <falscheAntwort2>bathroom</falscheAntwort2>
             <falscheAntwort3>hall</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2731,7 +2731,7 @@
             <falscheAntwort1>chips</falscheAntwort1>
             <falscheAntwort2>chalk</falscheAntwort2>
             <falscheAntwort3>coat</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2741,7 +2741,7 @@
             <falscheAntwort1>bedroom</falscheAntwort1>
             <falscheAntwort2>kitchen</falscheAntwort2>
             <falscheAntwort3>fireplace</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2751,7 +2751,7 @@
             <falscheAntwort1>furniture</falscheAntwort1>
             <falscheAntwort2>fireplace</falscheAntwort2>
             <falscheAntwort3>rainbow</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2761,7 +2761,7 @@
             <falscheAntwort1>door</falscheAntwort1>
             <falscheAntwort2>table</falscheAntwort2>
             <falscheAntwort3>window</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2771,7 +2771,7 @@
             <falscheAntwort1>table</falscheAntwort1>
             <falscheAntwort2>window</falscheAntwort2>
             <falscheAntwort3>room</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2781,7 +2781,7 @@
             <falscheAntwort1>rainbow</falscheAntwort1>
             <falscheAntwort2>fireplace</falscheAntwort2>
             <falscheAntwort3>mailbox</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2791,7 +2791,7 @@
             <falscheAntwort1>bedroom</falscheAntwort1>
             <falscheAntwort2>mailbox</falscheAntwort2>
             <falscheAntwort3>coat rack</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2801,7 +2801,7 @@
             <falscheAntwort1>cold</falscheAntwort1>
             <falscheAntwort2>fire</falscheAntwort2>
             <falscheAntwort3>ice</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2811,7 +2811,7 @@
             <falscheAntwort1>mirror</falscheAntwort1>
             <falscheAntwort2>desk</falscheAntwort2>
             <falscheAntwort3>attic</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2821,7 +2821,7 @@
             <falscheAntwort1>coat rack</falscheAntwort1>
             <falscheAntwort2>grandmother clock</falscheAntwort2>
             <falscheAntwort3>shower curtain</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2831,7 +2831,7 @@
             <falscheAntwort1>room</falscheAntwort1>
             <falscheAntwort2>attic</falscheAntwort2>
             <falscheAntwort3>key</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2841,7 +2841,7 @@
             <falscheAntwort1>shoulder</falscheAntwort1>
             <falscheAntwort2>shower</falscheAntwort2>
             <falscheAntwort3>bee</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2851,7 +2851,7 @@
             <falscheAntwort1>bed</falscheAntwort1>
             <falscheAntwort2>key</falscheAntwort2>
             <falscheAntwort3>hall</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2861,7 +2861,7 @@
             <falscheAntwort1>bathroom</falscheAntwort1>
             <falscheAntwort2>bedroom</falscheAntwort2>
             <falscheAntwort3>children´s room</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2871,7 +2871,7 @@
             <falscheAntwort1>doormat</falscheAntwort1>
             <falscheAntwort2>mirror</falscheAntwort2>
             <falscheAntwort3>kitchen</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2881,7 +2881,7 @@
             <falscheAntwort1>table</falscheAntwort1>
             <falscheAntwort2>chair</falscheAntwort2>
             <falscheAntwort3>trousers</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2891,7 +2891,7 @@
             <falscheAntwort1>hall</falscheAntwort1>
             <falscheAntwort2>chair</falscheAntwort2>
             <falscheAntwort3>attic</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2901,7 +2901,7 @@
             <falscheAntwort1>school</falscheAntwort1>
             <falscheAntwort2>shoulder</falscheAntwort2>
             <falscheAntwort3>desk</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2911,7 +2911,7 @@
             <falscheAntwort1>washing machine</falscheAntwort1>
             <falscheAntwort2>children´s room</falscheAntwort2>
             <falscheAntwort3>mailbox</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2921,7 +2921,7 @@
             <falscheAntwort1>door</falscheAntwort1>
             <falscheAntwort2>table</falscheAntwort2>
             <falscheAntwort3>bed</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -2931,7 +2931,7 @@
             <falscheAntwort1>desk</falscheAntwort1>
             <falscheAntwort2>table</falscheAntwort2>
             <falscheAntwort3>door</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -2941,7 +2941,7 @@
             <falscheAntwort1>fish</falscheAntwort1>
             <falscheAntwort2>cat</falscheAntwort2>
             <falscheAntwort3>horse</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -2951,7 +2951,7 @@
             <falscheAntwort1>stone</falscheAntwort1>
             <falscheAntwort2>field</falscheAntwort2>
             <falscheAntwort3>tail</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2961,7 +2961,7 @@
             <falscheAntwort1>feather</falscheAntwort1>
             <falscheAntwort2>flower</falscheAntwort2>
             <falscheAntwort3>fine</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2971,7 +2971,7 @@
             <falscheAntwort1>forest</falscheAntwort1>
             <falscheAntwort2>field</falscheAntwort2>
             <falscheAntwort3>wing</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2981,7 +2981,7 @@
             <falscheAntwort1>flower</falscheAntwort1>
             <falscheAntwort2>wood</falscheAntwort2>
             <falscheAntwort3>trees</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2991,7 +2991,7 @@
             <falscheAntwort1>stone</falscheAntwort1>
             <falscheAntwort2>rose</falscheAntwort2>
             <falscheAntwort3>green</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -3001,7 +3001,7 @@
             <falscheAntwort1>hat</falscheAntwort1>
             <falscheAntwort2>high</falscheAntwort2>
             <falscheAntwort3>head</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3011,7 +3011,7 @@
             <falscheAntwort1>rock</falscheAntwort1>
             <falscheAntwort2>mouth</falscheAntwort2>
             <falscheAntwort3>country</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3021,7 +3021,7 @@
             <falscheAntwort1>ocean</falscheAntwort1>
             <falscheAntwort2>sea</falscheAntwort2>
             <falscheAntwort3>river</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3031,7 +3031,7 @@
             <falscheAntwort1>hill</falscheAntwort1>
             <falscheAntwort2>stone</falscheAntwort2>
             <falscheAntwort3>mountain</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3041,7 +3041,7 @@
             <falscheAntwort1>flower</falscheAntwort1>
             <falscheAntwort2>nose</falscheAntwort2>
             <falscheAntwort3>tree</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -3051,7 +3051,7 @@
             <falscheAntwort1>hill</falscheAntwort1>
             <falscheAntwort2>rock</falscheAntwort2>
             <falscheAntwort3>mountain</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -3061,7 +3061,7 @@
             <falscheAntwort1>neck</falscheAntwort1>
             <falscheAntwort2>beak</falscheAntwort2>
             <falscheAntwort3>back</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3071,7 +3071,7 @@
             <falscheAntwort1>field</falscheAntwort1>
             <falscheAntwort2>wind</falscheAntwort2>
             <falscheAntwort3>bird</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3081,7 +3081,7 @@
             <falscheAntwort1>white</falscheAntwort1>
             <falscheAntwort2>tree</falscheAntwort2>
             <falscheAntwort3>horse</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3091,7 +3091,7 @@
             <falscheAntwort1>doll</falscheAntwort1>
             <falscheAntwort2>balloon</falscheAntwort2>
             <falscheAntwort3>bear</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -3101,7 +3101,7 @@
             <falscheAntwort1>doll</falscheAntwort1>
             <falscheAntwort2>ball</falscheAntwort2>
             <falscheAntwort3>puzzle</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -3111,7 +3111,7 @@
             <falscheAntwort1>blackbird</falscheAntwort1>
             <falscheAntwort2>evening</falscheAntwort2>
             <falscheAntwort3>planet</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3121,7 +3121,7 @@
             <falscheAntwort1>field</falscheAntwort1>
             <falscheAntwort2>love letter</falscheAntwort2>
             <falscheAntwort3>flower</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -3131,7 +3131,7 @@
             <falscheAntwort1>secret</falscheAntwort1>
             <falscheAntwort2>miss</falscheAntwort2>
             <falscheAntwort3>mouth</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -3141,7 +3141,7 @@
             <falscheAntwort1>live</falscheAntwort1>
             <falscheAntwort2>earth</falscheAntwort2>
             <falscheAntwort3>toys</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -3151,7 +3151,7 @@
             <falscheAntwort1>shoes</falscheAntwort1>
             <falscheAntwort2>trees</falscheAntwort2>
             <falscheAntwort3>kiss</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -3161,7 +3161,7 @@
             <falscheAntwort1>seven</falscheAntwort1>
             <falscheAntwort2>search</falscheAntwort2>
             <falscheAntwort3>silent</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -3171,7 +3171,7 @@
             <falscheAntwort1>sun</falscheAntwort1>
             <falscheAntwort2>moon</falscheAntwort2>
             <falscheAntwort3>star</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -3181,7 +3181,7 @@
             <falscheAntwort1>sun</falscheAntwort1>
             <falscheAntwort2>Monday</falscheAntwort2>
             <falscheAntwort3>earth</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -3191,7 +3191,7 @@
             <falscheAntwort1>heaven</falscheAntwort1>
             <falscheAntwort2>sky</falscheAntwort2>
             <falscheAntwort3>cloud</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -3201,7 +3201,7 @@
             <falscheAntwort1>power</falscheAntwort1>
             <falscheAntwort2>need</falscheAntwort2>
             <falscheAntwort3>cream</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -3211,7 +3211,7 @@
             <falscheAntwort1>moon</falscheAntwort1>
             <falscheAntwort2>sun</falscheAntwort2>
             <falscheAntwort3>earth</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -3221,7 +3221,7 @@
             <falscheAntwort1>mix</falscheAntwort1>
             <falscheAntwort2>cake</falscheAntwort2>
             <falscheAntwort3>sugar</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -3231,7 +3231,7 @@
             <falscheAntwort1>under</falscheAntwort1>
             <falscheAntwort2>right</falscheAntwort2>
             <falscheAntwort3>over</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -3241,7 +3241,7 @@
             <falscheAntwort1>north</falscheAntwort1>
             <falscheAntwort2>left</falscheAntwort2>
             <falscheAntwort3>under</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -3251,7 +3251,7 @@
             <falscheAntwort1>ear</falscheAntwort1>
             <falscheAntwort2>young</falscheAntwort2>
             <falscheAntwort3>one</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -3261,7 +3261,7 @@
             <falscheAntwort1>breakfast</falscheAntwort1>
             <falscheAntwort2>good luck</falscheAntwort2>
             <falscheAntwort3>straight ahead</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -3271,7 +3271,7 @@
             <falscheAntwort1>walk</falscheAntwort1>
             <falscheAntwort2>thank you</falscheAntwort2>
             <falscheAntwort3>plum</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -3281,7 +3281,7 @@
             <falscheAntwort1>three</falscheAntwort1>
             <falscheAntwort2>please</falscheAntwort2>
             <falscheAntwort3>Thursday</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -3291,7 +3291,7 @@
             <falscheAntwort1>he</falscheAntwort1>
             <falscheAntwort2>I</falscheAntwort2>
             <falscheAntwort3>she</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -3301,7 +3301,7 @@
             <falscheAntwort1>you</falscheAntwort1>
             <falscheAntwort2>she</falscheAntwort2>
             <falscheAntwort3>I</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -3311,7 +3311,7 @@
             <falscheAntwort1>he</falscheAntwort1>
             <falscheAntwort2>she</falscheAntwort2>
             <falscheAntwort3>you</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -3321,7 +3321,7 @@
             <falscheAntwort1>bus</falscheAntwort1>
             <falscheAntwort2>car</falscheAntwort2>
             <falscheAntwort3>field</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3331,7 +3331,7 @@
             <falscheAntwort1>sad</falscheAntwort1>
             <falscheAntwort2>right</falscheAntwort2>
             <falscheAntwort3>left</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3341,7 +3341,7 @@
             <falscheAntwort1>Monday</falscheAntwort1>
             <falscheAntwort2>Sunday</falscheAntwort2>
             <falscheAntwort3>Friday</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -3351,7 +3351,7 @@
             <falscheAntwort1>sleep</falscheAntwort1>
             <falscheAntwort2>chalk</falscheAntwort2>
             <falscheAntwort3>good</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3361,7 +3361,7 @@
             <falscheAntwort1>head</falscheAntwort1>
             <falscheAntwort2>five</falscheAntwort2>
             <falscheAntwort3>glad</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3371,7 +3371,7 @@
             <falscheAntwort1>stormy</falscheAntwort1>
             <falscheAntwort2>windy</falscheAntwort2>
             <falscheAntwort3>ugly</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -3381,7 +3381,7 @@
             <falscheAntwort1>gold</falscheAntwort1>
             <falscheAntwort2>bad</falscheAntwort2>
             <falscheAntwort3>green</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -3391,7 +3391,7 @@
             <falscheAntwort1>heart</falscheAntwort1>
             <falscheAntwort2>head</falscheAntwort2>
             <falscheAntwort3>hat</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -3401,7 +3401,7 @@
             <falscheAntwort1>hip</falscheAntwort1>
             <falscheAntwort2>hart</falscheAntwort2>
             <falscheAntwort3>hair</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3411,7 +3411,7 @@
             <falscheAntwort1>yesterday</falscheAntwort1>
             <falscheAntwort2>tomorrow</falscheAntwort2>
             <falscheAntwort3>soon</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3421,7 +3421,7 @@
             <falscheAntwort1>he</falscheAntwort1>
             <falscheAntwort2>you</falscheAntwort2>
             <falscheAntwort3>she</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -3431,7 +3431,7 @@
             <falscheAntwort1>left</falscheAntwort1>
             <falscheAntwort2>inch</falscheAntwort2>
             <falscheAntwort3>autumn</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3441,7 +3441,7 @@
             <falscheAntwort1>snow</falscheAntwort1>
             <falscheAntwort2>fast</falscheAntwort2>
             <falscheAntwort3>food</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3451,7 +3451,7 @@
             <falscheAntwort1>bake</falscheAntwort1>
             <falscheAntwort2>cake</falscheAntwort2>
             <falscheAntwort3>snake</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -3461,7 +3461,7 @@
             <falscheAntwort1>sky</falscheAntwort1>
             <falscheAntwort2>bye</falscheAntwort2>
             <falscheAntwort3>why</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -3471,7 +3471,7 @@
             <falscheAntwort1>knee</falscheAntwort1>
             <falscheAntwort2>we</falscheAntwort2>
             <falscheAntwort3>bee</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -3481,7 +3481,7 @@
             <falscheAntwort1>night</falscheAntwort1>
             <falscheAntwort2>evening</falscheAntwort2>
             <falscheAntwort3>day</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -3491,7 +3491,7 @@
             <falscheAntwort1>okay</falscheAntwort1>
             <falscheAntwort2>yes</falscheAntwort2>
             <falscheAntwort3>perhaps</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -3501,7 +3501,7 @@
             <falscheAntwort1>no</falscheAntwort1>
             <falscheAntwort2>now</falscheAntwort2>
             <falscheAntwort3>nine</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -3511,7 +3511,7 @@
             <falscheAntwort1>no</falscheAntwort1>
             <falscheAntwort2>number</falscheAntwort2>
             <falscheAntwort3>nose</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -3521,7 +3521,7 @@
             <falscheAntwort1>cat</falscheAntwort1>
             <falscheAntwort2>cream</falscheAntwort2>
             <falscheAntwort3>black</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3531,7 +3531,7 @@
             <falscheAntwort1>stormy</falscheAntwort1>
             <falscheAntwort2>windy</falscheAntwort2>
             <falscheAntwort3>duty</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3541,7 +3541,7 @@
             <falscheAntwort1>sad</falscheAntwort1>
             <falscheAntwort2>ferry</falscheAntwort2>
             <falscheAntwort3>time</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3551,7 +3551,7 @@
             <falscheAntwort1>I</falscheAntwort1>
             <falscheAntwort2>he</falscheAntwort2>
             <falscheAntwort3>you</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -3561,7 +3561,7 @@
             <falscheAntwort1>sweet</falscheAntwort1>
             <falscheAntwort2>fun</falscheAntwort2>
             <falscheAntwort3>toys</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -3571,7 +3571,7 @@
             <falscheAntwort1>sheep</falscheAntwort1>
             <falscheAntwort2>sheet</falscheAntwort2>
             <falscheAntwort3>sleep</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -3581,7 +3581,7 @@
             <falscheAntwort1>sleep</falscheAntwort1>
             <falscheAntwort2>sheet</falscheAntwort2>
             <falscheAntwort3>street</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -3591,7 +3591,7 @@
             <falscheAntwort1>may</falscheAntwort1>
             <falscheAntwort2>night</falscheAntwort2>
             <falscheAntwort3>nine</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -3601,7 +3601,7 @@
             <falscheAntwort1>train</falscheAntwort1>
             <falscheAntwort2>far</falscheAntwort2>
             <falscheAntwort3>wood</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -3611,7 +3611,7 @@
             <falscheAntwort1>where</falscheAntwort1>
             <falscheAntwort2>water</falscheAntwort2>
             <falscheAntwort3>who</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -3621,7 +3621,7 @@
             <falscheAntwort1>why</falscheAntwort1>
             <falscheAntwort2>who</falscheAntwort2>
             <falscheAntwort3>hot</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3631,7 +3631,7 @@
             <falscheAntwort1>nine</falscheAntwort1>
             <falscheAntwort2>zero</falscheAntwort2>
             <falscheAntwort3>ruler</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -3641,7 +3641,7 @@
             <falscheAntwort1>fine</falscheAntwort1>
             <falscheAntwort2>wine</falscheAntwort2>
             <falscheAntwort3>slime</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>

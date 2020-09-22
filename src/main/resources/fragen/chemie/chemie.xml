@@ -11,7 +11,7 @@
             <falscheAntwort1>falsch</falscheAntwort1>
             <falscheAntwort2>falsch</falscheAntwort2>
             <falscheAntwort3>falsch</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -21,7 +21,7 @@
             <falscheAntwort1>an der Verpackung</falscheAntwort1>
             <falscheAntwort2>Es steht doch drauf!</falscheAntwort2>
             <falscheAntwort3>Das lernen Chemiker.</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -31,7 +31,7 @@
             <falscheAntwort1>Buchenmeyerkolben</falscheAntwort1>
             <falscheAntwort2>Fichtenmeyerkolben</falscheAntwort2>
             <falscheAntwort3>Eichenmeyerkolben</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -41,7 +41,7 @@
             <falscheAntwort1>Strafmaßnahmen bei Verstößen im Straßenverkehr</falscheAntwort1>
             <falscheAntwort2>Umrechnungstabelle Euro - US-Dollar</falscheAntwort2>
             <falscheAntwort3>physiologische Wirkung des Alkohols</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -51,7 +51,7 @@
             <falscheAntwort1>ein Reinigungsmittel.</falscheAntwort1>
             <falscheAntwort2>ein Element, das in flüssigem Zustand farblos ist.</falscheAntwort2>
             <falscheAntwort3>ein Kristall.</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>2</schwierigkeitMax>
         </frage>
@@ -61,7 +61,7 @@
             <falscheAntwort1>Kugelschreiber</falscheAntwort1>
             <falscheAntwort2>Arbeitsheft</falscheAntwort2>
             <falscheAntwort3>Becherglas</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -71,7 +71,7 @@
             <falscheAntwort1>Gold</falscheAntwort1>
             <falscheAntwort2>Platin</falscheAntwort2>
             <falscheAntwort3>Uran</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -81,7 +81,7 @@
             <falscheAntwort1>Metall</falscheAntwort1>
             <falscheAntwort2>Feststoff</falscheAntwort2>
             <falscheAntwort3>Säure</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -91,7 +91,7 @@
             <falscheAntwort1>Erdgas</falscheAntwort1>
             <falscheAntwort2>Edelgas</falscheAntwort2>
             <falscheAntwort3>Sumpfgas</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -101,7 +101,7 @@
             <falscheAntwort1>Komplikation</falscheAntwort1>
             <falscheAntwort2>Kommunion</falscheAntwort2>
             <falscheAntwort3>Konfrontation</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -111,7 +111,7 @@
             <falscheAntwort1>Stickstoff</falscheAntwort1>
             <falscheAntwort2>Wasserstoff</falscheAntwort2>
             <falscheAntwort3>Kohlenstoffdioxid</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>2</schwierigkeitMax>
         </frage>
@@ -121,7 +121,7 @@
             <falscheAntwort1>am Geruch</falscheAntwort1>
             <falscheAntwort2>an der Farbe</falscheAntwort2>
             <falscheAntwort3>am Aussehen</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>2</schwierigkeitMax>
         </frage>
@@ -131,7 +131,7 @@
             <falscheAntwort1>blau</falscheAntwort1>
             <falscheAntwort2>grün</falscheAntwort2>
             <falscheAntwort3>weiß</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -141,7 +141,7 @@
             <falscheAntwort1>sieben</falscheAntwort1>
             <falscheAntwort2>weggießen</falscheAntwort2>
             <falscheAntwort3>es bitten, daraus zu kommen</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>2</schwierigkeitMax>
         </frage>
@@ -151,7 +151,7 @@
             <falscheAntwort1>alle Stoffe, die man im Labor finden kann</falscheAntwort1>
             <falscheAntwort2>alle Säuren</falscheAntwort2>
             <falscheAntwort3>alle ätzenden Stoffe</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -161,7 +161,7 @@
             <falscheAntwort1>Temperatur</falscheAntwort1>
             <falscheAntwort2>Farbe</falscheAntwort2>
             <falscheAntwort3>Aggregatzustand</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>2</schwierigkeitMax>
         </frage>
@@ -171,7 +171,7 @@
             <falscheAntwort1>Döbereiner</falscheAntwort1>
             <falscheAntwort2>Meyer</falscheAntwort2>
             <falscheAntwort3>Wöhler</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -181,7 +181,7 @@
             <falscheAntwort1>Bierglas</falscheAntwort1>
             <falscheAntwort2>Fensterglas</falscheAntwort2>
             <falscheAntwort3>Kristallglas</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>2</schwierigkeitMax>
         </frage>
@@ -191,7 +191,7 @@
             <falscheAntwort1>Feuer</falscheAntwort1>
             <falscheAntwort2>Fehler</falscheAntwort2>
             <falscheAntwort3>Metall</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>2</schwierigkeitMax>
         </frage>
@@ -201,7 +201,7 @@
             <falscheAntwort1>flüssig</falscheAntwort1>
             <falscheAntwort2>fest</falscheAntwort2>
             <falscheAntwort3>gar keinen</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>3</schwierigkeitMax>
         </frage>
@@ -211,7 +211,7 @@
             <falscheAntwort1>Es verringert sich.</falscheAntwort1>
             <falscheAntwort2>Es bleibt gleich.</falscheAntwort2>
             <falscheAntwort3>Es verschwindet ganz.</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -221,7 +221,7 @@
             <falscheAntwort1>Aluminium</falscheAntwort1>
             <falscheAntwort2>Wasser</falscheAntwort2>
             <falscheAntwort3>Luft</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>3</schwierigkeitMax>
         </frage>
@@ -231,7 +231,7 @@
             <falscheAntwort1>Kupferoxid</falscheAntwort1>
             <falscheAntwort2>Schwefeloxid</falscheAntwort2>
             <falscheAntwort3>Kupfersulfat</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -241,7 +241,7 @@
             <falscheAntwort1>Auslösen einer Brausetablette</falscheAntwort1>
             <falscheAntwort2>Löschen von Tinte mit einem Tintenkiller</falscheAntwort2>
             <falscheAntwort3>Backen eines Kuchens</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -251,7 +251,7 @@
             <falscheAntwort1>Farbanstrich eines Hauses</falscheAntwort1>
             <falscheAntwort2>Mischen von Sand und Mörtel</falscheAntwort2>
             <falscheAntwort3>Anrühren von Kuchenteig</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -261,7 +261,7 @@
             <falscheAntwort1>gasförmig</falscheAntwort1>
             <falscheAntwort2>farblos</falscheAntwort2>
             <falscheAntwort3>geschmacklos</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -271,7 +271,7 @@
             <falscheAntwort1>silber glänzend</falscheAntwort1>
             <falscheAntwort2>kann nicht oxidieren</falscheAntwort2>
             <falscheAntwort3>niedriger Schmelzpunkt</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -281,7 +281,7 @@
             <falscheAntwort1>erhöht sich sein Volumen.</falscheAntwort1>
             <falscheAntwort2>explodiert es.</falscheAntwort2>
             <falscheAntwort3>kühlt es ab.</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -291,7 +291,7 @@
             <falscheAntwort1>Filtern</falscheAntwort1>
             <falscheAntwort2>Destillieren</falscheAntwort2>
             <falscheAntwort3>Dekantieren</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -301,7 +301,7 @@
             <falscheAntwort1>Kochen</falscheAntwort1>
             <falscheAntwort2>Schütteln</falscheAntwort2>
             <falscheAntwort3>Rühren</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -311,7 +311,7 @@
             <falscheAntwort1>das Aufbewahren zweier Stoffe in einem Behälter</falscheAntwort1>
             <falscheAntwort2>das Mischen zweier Stoffe</falscheAntwort2>
             <falscheAntwort3>die qualitative Untersuchung zweier Stoffe</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -321,7 +321,7 @@
             <falscheAntwort1>homophob und heterophop</falscheAntwort1>
             <falscheAntwort2>hydrophop und hydrophil</falscheAntwort2>
             <falscheAntwort3>elektrophile und nukleophil</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -331,7 +331,7 @@
             <falscheAntwort1>Resublimation</falscheAntwort1>
             <falscheAntwort2>Kontraktion</falscheAntwort2>
             <falscheAntwort3>Rekontraktion</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -341,7 +341,7 @@
             <falscheAntwort1>Sieben</falscheAntwort1>
             <falscheAntwort2>Magnetisierung</falscheAntwort2>
             <falscheAntwort3>Erhitzen</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -351,7 +351,7 @@
             <falscheAntwort1>Erde</falscheAntwort1>
             <falscheAntwort2>Wasser</falscheAntwort2>
             <falscheAntwort3>Luft</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -361,7 +361,7 @@
             <falscheAntwort1>Synthese</falscheAntwort1>
             <falscheAntwort2>Katalyse</falscheAntwort2>
             <falscheAntwort3>Hydrierung</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -371,7 +371,7 @@
             <falscheAntwort1>Luft</falscheAntwort1>
             <falscheAntwort2>NH3</falscheAntwort2>
             <falscheAntwort3>H2</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -381,7 +381,7 @@
             <falscheAntwort1>Calcium</falscheAntwort1>
             <falscheAntwort2>Eisen</falscheAntwort2>
             <falscheAntwort3>Wasser</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -391,7 +391,7 @@
             <falscheAntwort1>giftig</falscheAntwort1>
             <falscheAntwort2>brennbar</falscheAntwort2>
             <falscheAntwort3>umweltgefährlich</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -401,7 +401,7 @@
             <falscheAntwort1>halb so groß</falscheAntwort1>
             <falscheAntwort2>doppelt so groß</falscheAntwort2>
             <falscheAntwort3>nicht bestimmbar</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -411,7 +411,7 @@
             <falscheAntwort1>Startenergie</falscheAntwort1>
             <falscheAntwort2>Kernenergie</falscheAntwort2>
             <falscheAntwort3>Lösungsenergie</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -421,7 +421,7 @@
             <falscheAntwort1>Konfusion</falscheAntwort1>
             <falscheAntwort2>Sublimation</falscheAntwort2>
             <falscheAntwort3>Ionisierung</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -431,7 +431,7 @@
             <falscheAntwort1>Sie wird kleiner.</falscheAntwort1>
             <falscheAntwort2>Sie bleibt gleich.</falscheAntwort2>
             <falscheAntwort3>Sie wird genau doppelt so groß.</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -441,7 +441,7 @@
             <falscheAntwort1>Kerzenwachs</falscheAntwort1>
             <falscheAntwort2>Zinn</falscheAntwort2>
             <falscheAntwort3>Blei</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -451,7 +451,7 @@
             <falscheAntwort1>Eisen und Schwefel</falscheAntwort1>
             <falscheAntwort2>Eisen und Salzsäure</falscheAntwort2>
             <falscheAntwort3>Eisen und Salpetersäure</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -461,7 +461,7 @@
             <falscheAntwort1>Eisen und Sauerstoff</falscheAntwort1>
             <falscheAntwort2>Eisen und Phosphor</falscheAntwort2>
             <falscheAntwort3>Eisen und Schwefelsäure</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -471,7 +471,7 @@
             <falscheAntwort1>endotherm</falscheAntwort1>
             <falscheAntwort2>thermisch</falscheAntwort2>
             <falscheAntwort3>energetisch</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -481,7 +481,7 @@
             <falscheAntwort1>Moleküle</falscheAntwort1>
             <falscheAntwort2>Ionen</falscheAntwort2>
             <falscheAntwort3>Gase</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -491,7 +491,7 @@
             <falscheAntwort1>H2O</falscheAntwort1>
             <falscheAntwort2>NH3</falscheAntwort2>
             <falscheAntwort3>CuO</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -501,7 +501,7 @@
             <falscheAntwort1>Emulsion</falscheAntwort1>
             <falscheAntwort2>Nebel</falscheAntwort2>
             <falscheAntwort3>Rauch</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -511,7 +511,7 @@
             <falscheAntwort1>Mineralwasser</falscheAntwort1>
             <falscheAntwort2>Rauch</falscheAntwort2>
             <falscheAntwort3>Bohnen und Erbsen</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -521,7 +521,7 @@
             <falscheAntwort1>Sahne</falscheAntwort1>
             <falscheAntwort2>Sekt</falscheAntwort2>
             <falscheAntwort3>Milch</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -531,7 +531,7 @@
             <falscheAntwort1>nichts</falscheAntwort1>
             <falscheAntwort2>Das hängt von der Teperatur ab.</falscheAntwort2>
             <falscheAntwort3>Es brennt langsam ab.</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -541,7 +541,7 @@
             <falscheAntwort1>grün</falscheAntwort1>
             <falscheAntwort2>rot</falscheAntwort2>
             <falscheAntwort3>rostbraun</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -551,7 +551,7 @@
             <falscheAntwort1>aktivieren die Elemente Radon und Radium</falscheAntwort1>
             <falscheAntwort2>sind reaktionsträge</falscheAntwort2>
             <falscheAntwort3>empfangen Radiowellen</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -561,7 +561,7 @@
             <falscheAntwort1>Redoxreaktion</falscheAntwort1>
             <falscheAntwort2>Hydrierung</falscheAntwort2>
             <falscheAntwort3>Reduktion</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -571,7 +571,7 @@
             <falscheAntwort1>Seife</falscheAntwort1>
             <falscheAntwort2>Lösung</falscheAntwort2>
             <falscheAntwort3>Emulgator</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -581,7 +581,7 @@
             <falscheAntwort1>Glimmspanprobe</falscheAntwort1>
             <falscheAntwort2>Flammenfärbung</falscheAntwort2>
             <falscheAntwort3>mit wasserfreiem Kupfersulfat</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -591,7 +591,7 @@
             <falscheAntwort1>1.</falscheAntwort1>
             <falscheAntwort2>2.</falscheAntwort2>
             <falscheAntwort3>7.</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -601,7 +601,7 @@
             <falscheAntwort1>Sie sinkt.</falscheAntwort1>
             <falscheAntwort2>Sie bleibt konstant.</falscheAntwort2>
             <falscheAntwort3>Sie schwankt um die Ausgangstemperatur.</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -611,7 +611,7 @@
             <falscheAntwort1>Pipette</falscheAntwort1>
             <falscheAntwort2>Messzylinder</falscheAntwort2>
             <falscheAntwort3>U-Rohr</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -621,7 +621,7 @@
             <falscheAntwort1>Kupfer</falscheAntwort1>
             <falscheAntwort2>Zink</falscheAntwort2>
             <falscheAntwort3>Zinn</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -631,7 +631,7 @@
             <falscheAntwort1>gleich</falscheAntwort1>
             <falscheAntwort2>höher</falscheAntwort2>
             <falscheAntwort3>doppelt so hoch</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -641,7 +641,7 @@
             <falscheAntwort1>Cola oben, Cola light unten</falscheAntwort1>
             <falscheAntwort2>beide oben</falscheAntwort2>
             <falscheAntwort3>beide unten</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -651,7 +651,7 @@
             <falscheAntwort1>Helium</falscheAntwort1>
             <falscheAntwort2>Sauerstoff</falscheAntwort2>
             <falscheAntwort3>Stickstoff</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -661,7 +661,7 @@
             <falscheAntwort1>Gold</falscheAntwort1>
             <falscheAntwort2>Blei</falscheAntwort2>
             <falscheAntwort3>Aluminium</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -671,7 +671,7 @@
             <falscheAntwort1>Silber</falscheAntwort1>
             <falscheAntwort2>Gold</falscheAntwort2>
             <falscheAntwort3>Eisen</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -681,7 +681,7 @@
             <falscheAntwort1>Phosphor</falscheAntwort1>
             <falscheAntwort2>Gold</falscheAntwort2>
             <falscheAntwort3>Kaliumdichromat</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -691,7 +691,7 @@
             <falscheAntwort1>Reaktor</falscheAntwort1>
             <falscheAntwort2>Oxalat</falscheAntwort2>
             <falscheAntwort3>Alaun</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -701,7 +701,7 @@
             <falscheAntwort1>Lackmus</falscheAntwort1>
             <falscheAntwort2>Phenolphthalein</falscheAntwort2>
             <falscheAntwort3>Rotkohl</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -711,7 +711,7 @@
             <falscheAntwort1>Zitronensäure</falscheAntwort1>
             <falscheAntwort2>Phosphorsäure</falscheAntwort2>
             <falscheAntwort3>Biersäure</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -721,7 +721,7 @@
             <falscheAntwort1>Nicht-Metall</falscheAntwort1>
             <falscheAntwort2>Reformer</falscheAntwort2>
             <falscheAntwort3>Indikator</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -731,7 +731,7 @@
             <falscheAntwort1>Zucker</falscheAntwort1>
             <falscheAntwort2>Kochsalz</falscheAntwort2>
             <falscheAntwort3>Vitamin C</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -741,7 +741,7 @@
             <falscheAntwort1>Analyse</falscheAntwort1>
             <falscheAntwort2>Titration</falscheAntwort2>
             <falscheAntwort3>Substitution</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -751,7 +751,7 @@
             <falscheAntwort1>1 u</falscheAntwort1>
             <falscheAntwort2>1 g/mol</falscheAntwort2>
             <falscheAntwort3>1 g</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -761,7 +761,7 @@
             <falscheAntwort1>Sauerstoff</falscheAntwort1>
             <falscheAntwort2>Kohlendioxid</falscheAntwort2>
             <falscheAntwort3>Schwefeldioxid</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -771,7 +771,7 @@
             <falscheAntwort1>Lithium</falscheAntwort1>
             <falscheAntwort2>Natrium</falscheAntwort2>
             <falscheAntwort3>Kalium</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -781,7 +781,7 @@
             <falscheAntwort1>Wasserstoff</falscheAntwort1>
             <falscheAntwort2>Sauerstoff</falscheAntwort2>
             <falscheAntwort3>Stickstoff</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -791,7 +791,7 @@
             <falscheAntwort1>Fluor</falscheAntwort1>
             <falscheAntwort2>Chlor</falscheAntwort2>
             <falscheAntwort3>Brom</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -801,7 +801,7 @@
             <falscheAntwort1>Helium</falscheAntwort1>
             <falscheAntwort2>Neon</falscheAntwort2>
             <falscheAntwort3>Argon</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -811,7 +811,7 @@
             <falscheAntwort1>Kupferoxid</falscheAntwort1>
             <falscheAntwort2>Kaliumpermanganat</falscheAntwort2>
             <falscheAntwort3>Wasserstoffperoxid</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -821,7 +821,7 @@
             <falscheAntwort1>B</falscheAntwort1>
             <falscheAntwort2>F</falscheAntwort2>
             <falscheAntwort3>N</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -831,7 +831,7 @@
             <falscheAntwort1>Eisen</falscheAntwort1>
             <falscheAntwort2>Quecksilber</falscheAntwort2>
             <falscheAntwort3>Natrium</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -841,7 +841,7 @@
             <falscheAntwort1>gelb</falscheAntwort1>
             <falscheAntwort2>blau</falscheAntwort2>
             <falscheAntwort3>rot</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -851,7 +851,7 @@
             <falscheAntwort1>- 273 K</falscheAntwort1>
             <falscheAntwort2>0 K</falscheAntwort2>
             <falscheAntwort3>223 K</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -861,7 +861,7 @@
             <falscheAntwort1>Masse * Stoffmenge</falscheAntwort1>
             <falscheAntwort2>Stoffmenge * Masse</falscheAntwort2>
             <falscheAntwort3>Stoffmenge / Masse</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -871,7 +871,7 @@
             <falscheAntwort1>glänz metallisch</falscheAntwort1>
             <falscheAntwort2>ist schwerer als Blei</falscheAntwort2>
             <falscheAntwort3>leitet den elektrischen Strom</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -881,7 +881,7 @@
             <falscheAntwort1>magnetisch</falscheAntwort1>
             <falscheAntwort2>leitet elektrischen Strom</falscheAntwort2>
             <falscheAntwort3>schwimmt auf Quecksilber</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -891,7 +891,7 @@
             <falscheAntwort1>gelb</falscheAntwort1>
             <falscheAntwort2>sublimiert</falscheAntwort2>
             <falscheAntwort3>schmilzt bei 113 °C</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -901,7 +901,7 @@
             <falscheAntwort1>Calcium</falscheAntwort1>
             <falscheAntwort2>Barium</falscheAntwort2>
             <falscheAntwort3>Schwefel</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -911,7 +911,7 @@
             <falscheAntwort1>Es versinkt.</falscheAntwort1>
             <falscheAntwort2>nichts</falscheAntwort2>
             <falscheAntwort3>Es rostet.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -921,7 +921,7 @@
             <falscheAntwort1>zweiwertig</falscheAntwort1>
             <falscheAntwort2>dreiwertig</falscheAntwort2>
             <falscheAntwort3>vierwertig</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -931,7 +931,7 @@
             <falscheAntwort1>Chlor</falscheAntwort1>
             <falscheAntwort2>Fluor</falscheAntwort2>
             <falscheAntwort3>Iod</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -941,7 +941,7 @@
             <falscheAntwort1>n=m/M</falscheAntwort1>
             <falscheAntwort2>Druck*Volumen/Temperatur = konstant</falscheAntwort2>
             <falscheAntwort3>Bis auf die Edelgase sind alle Gase zweiatomig.</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -951,7 +951,7 @@
             <falscheAntwort1>Knallgasprobe</falscheAntwort1>
             <falscheAntwort2>Glimmspanprobe</falscheAntwort2>
             <falscheAntwort3>Ersticken einer Flamme</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -961,7 +961,7 @@
             <falscheAntwort1>Diamant</falscheAntwort1>
             <falscheAntwort2>Holzkohle</falscheAntwort2>
             <falscheAntwort3>Graphit</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -971,7 +971,7 @@
             <falscheAntwort1>Kupfer</falscheAntwort1>
             <falscheAntwort2>Gold</falscheAntwort2>
             <falscheAntwort3>Platin</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -981,7 +981,7 @@
             <falscheAntwort1>Das hängt von der Temperatur ab.</falscheAntwort1>
             <falscheAntwort2>Der Nagel rostet.</falscheAntwort2>
             <falscheAntwort3>Der Glanz verschwindet.</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -991,7 +991,7 @@
             <falscheAntwort1>Es brennt ganz schwach.</falscheAntwort1>
             <falscheAntwort2>Es explodiert.</falscheAntwort2>
             <falscheAntwort3>Das hängt vom Mischungsverhältnis ab.</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1001,7 +1001,7 @@
             <falscheAntwort1>Sulfat-Ionen</falscheAntwort1>
             <falscheAntwort2>Kohlendioxid</falscheAntwort2>
             <falscheAntwort3>Schwefelwasserstoff</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1011,7 +1011,7 @@
             <falscheAntwort1>rot</falscheAntwort1>
             <falscheAntwort2>gelb</falscheAntwort2>
             <falscheAntwort3>grün</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1021,7 +1021,7 @@
             <falscheAntwort1>blau</falscheAntwort1>
             <falscheAntwort2>gelb</falscheAntwort2>
             <falscheAntwort3>grün</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1031,7 +1031,7 @@
             <falscheAntwort1>keine Elektronen</falscheAntwort1>
             <falscheAntwort2>halb so viele Elektronen wie Protonen</falscheAntwort2>
             <falscheAntwort3>doppelt so viele Elektronen wie Protonen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1041,7 +1041,7 @@
             <falscheAntwort1>7</falscheAntwort1>
             <falscheAntwort2>14</falscheAntwort2>
             <falscheAntwort3>18</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1051,7 +1051,7 @@
             <falscheAntwort1>Hydroxide</falscheAntwort1>
             <falscheAntwort2>Oxide</falscheAntwort2>
             <falscheAntwort3>Kationen</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1061,7 +1061,7 @@
             <falscheAntwort1>negative Ionen</falscheAntwort1>
             <falscheAntwort2>neutrale Elektronen</falscheAntwort2>
             <falscheAntwort3>zerfallene Ozonmoleküle</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1071,7 +1071,7 @@
             <falscheAntwort1>zeigt an, ob ein Stoff oxidiert werden kann.</falscheAntwort1>
             <falscheAntwort2>ist ein Stoffzusatz in Lebensmitteln.</falscheAntwort2>
             <falscheAntwort3>ist eine Verbindung mit dem Farbstoff Indigo.</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1081,7 +1081,7 @@
             <falscheAntwort1>0-7</falscheAntwort1>
             <falscheAntwort2>0-14</falscheAntwort2>
             <falscheAntwort3>3-10</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1091,7 +1091,7 @@
             <falscheAntwort1>Erdalkalimetalle</falscheAntwort1>
             <falscheAntwort2>Kohlenstoffgruppe</falscheAntwort2>
             <falscheAntwort3>Halogene</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1101,7 +1101,7 @@
             <falscheAntwort1>Kohlenstoffgruppe</falscheAntwort1>
             <falscheAntwort2>Chalkogene</falscheAntwort2>
             <falscheAntwort3>Halogene</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1111,7 +1111,7 @@
             <falscheAntwort1>Es beginnt zu brennen.</falscheAntwort1>
             <falscheAntwort2>Das hängt von der Temperatur ab.</falscheAntwort2>
             <falscheAntwort3>Es löst sich auf.</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1121,7 +1121,7 @@
             <falscheAntwort1>Kupfer</falscheAntwort1>
             <falscheAntwort2>Aluminium</falscheAntwort2>
             <falscheAntwort3>Blei</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1131,7 +1131,7 @@
             <falscheAntwort1>Eisen - Rost</falscheAntwort1>
             <falscheAntwort2>Kupfer - Patina</falscheAntwort2>
             <falscheAntwort3>Zinn - Zinnpest</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1141,7 +1141,7 @@
             <falscheAntwort1>Wissenschaft der Elektrochemie</falscheAntwort1>
             <falscheAntwort2>spezielle Anwendung der Fotografie</falscheAntwort2>
             <falscheAntwort3>Reaktionsähnlichkeit mit Chrom</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1151,7 +1151,7 @@
             <falscheAntwort1>Ionenbindung</falscheAntwort1>
             <falscheAntwort2>Polare Bindung</falscheAntwort2>
             <falscheAntwort3>Van-der-Waals-Bindung</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1161,7 +1161,7 @@
             <falscheAntwort1>Cer</falscheAntwort1>
             <falscheAntwort2>Bor</falscheAntwort2>
             <falscheAntwort3>Iod</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1171,7 +1171,7 @@
             <falscheAntwort1>Salz</falscheAntwort1>
             <falscheAntwort2>Mehl</falscheAntwort2>
             <falscheAntwort3>Backpulver</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1181,7 +1181,7 @@
             <falscheAntwort1>ein Metall</falscheAntwort1>
             <falscheAntwort2>ein Emulgator</falscheAntwort2>
             <falscheAntwort3>Kondensator</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1191,7 +1191,7 @@
             <falscheAntwort1>gleicher Masse, aber unterschiedlicher Elemente</falscheAntwort1>
             <falscheAntwort2>einer Verbindung, aber unterschiedlicher Masse</falscheAntwort2>
             <falscheAntwort3>gleicher Größe, aber mit unterschiedlicher Elektronenzahl</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1201,7 +1201,7 @@
             <falscheAntwort1>Blei</falscheAntwort1>
             <falscheAntwort2>Eisen</falscheAntwort2>
             <falscheAntwort3>Kupfer</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1211,7 +1211,7 @@
             <falscheAntwort1>Ethanol</falscheAntwort1>
             <falscheAntwort2>Wasser</falscheAntwort2>
             <falscheAntwort3>Glycerin</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1221,7 +1221,7 @@
             <falscheAntwort1>gesättigt</falscheAntwort1>
             <falscheAntwort2>negativ geladen</falscheAntwort2>
             <falscheAntwort3>alkalisch</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1231,7 +1231,7 @@
             <falscheAntwort1>haben eine große Oberflächenspannung</falscheAntwort1>
             <falscheAntwort2>sind trübe</falscheAntwort2>
             <falscheAntwort3>leiten den elektrischen Strom gut</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1241,7 +1241,7 @@
             <falscheAntwort1>Propan</falscheAntwort1>
             <falscheAntwort2>Pentan</falscheAntwort2>
             <falscheAntwort3>Octan</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1251,7 +1251,7 @@
             <falscheAntwort1>Blei</falscheAntwort1>
             <falscheAntwort2>Kupfer</falscheAntwort2>
             <falscheAntwort3>Aluminium</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1261,7 +1261,7 @@
             <falscheAntwort1>mehr Elektronen als Protonen</falscheAntwort1>
             <falscheAntwort2>gleich viel Elektronen wie Protonen</falscheAntwort2>
             <falscheAntwort3>keine Elektronen</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1271,7 +1271,7 @@
             <falscheAntwort1>gleich viel Elektronen wie Protonen</falscheAntwort1>
             <falscheAntwort2>mehr Protonen als Elektronen</falscheAntwort2>
             <falscheAntwort3>keine Elektronen</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1281,7 +1281,7 @@
             <falscheAntwort1>Alkan</falscheAntwort1>
             <falscheAntwort2>Alken</falscheAntwort2>
             <falscheAntwort3>Keton</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1291,7 +1291,7 @@
             <falscheAntwort1>Andrea</falscheAntwort1>
             <falscheAntwort2>Tessa</falscheAntwort2>
             <falscheAntwort3>Sina</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1301,7 +1301,7 @@
             <falscheAntwort1>Benzin</falscheAntwort1>
             <falscheAntwort2>Diesel</falscheAntwort2>
             <falscheAntwort3>Schweröl</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1311,7 +1311,7 @@
             <falscheAntwort1>desto hiedriger die Schmelzpunkte.</falscheAntwort1>
             <falscheAntwort2>desto reaktionsfreudiger sind sie.</falscheAntwort2>
             <falscheAntwort3>desto größer die Tendenz zur Esterbildung.</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1321,7 +1321,7 @@
             <falscheAntwort1>Ketone</falscheAntwort1>
             <falscheAntwort2>Puffer</falscheAntwort2>
             <falscheAntwort3>Carbone</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1331,7 +1331,7 @@
             <falscheAntwort1>Sauerstoff</falscheAntwort1>
             <falscheAntwort2>Phosphor</falscheAntwort2>
             <falscheAntwort3>Kohlenstoff</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1341,7 +1341,7 @@
             <falscheAntwort1>haben eine geringe Dichte</falscheAntwort1>
             <falscheAntwort2>sind umweltgefährlich</falscheAntwort2>
             <falscheAntwort3>eigenen sich als Puffer in empfindlichen Systemen</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1351,7 +1351,7 @@
             <falscheAntwort1>isolierte Polymere</falscheAntwort1>
             <falscheAntwort2>langkettige Aldehyde</falscheAntwort2>
             <falscheAntwort3>Monosacharosen in Helixform</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1361,7 +1361,7 @@
             <falscheAntwort1>Carbonsäuren</falscheAntwort1>
             <falscheAntwort2>Alkenen</falscheAntwort2>
             <falscheAntwort3>Ethern</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1371,7 +1371,7 @@
             <falscheAntwort1>Fructose</falscheAntwort1>
             <falscheAntwort2>Pentose</falscheAntwort2>
             <falscheAntwort3>Ketose</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1381,7 +1381,7 @@
             <falscheAntwort1>flüssig</falscheAntwort1>
             <falscheAntwort2>fest</falscheAntwort2>
             <falscheAntwort3>gefroren</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1391,7 +1391,7 @@
             <falscheAntwort1>der Abstoßung gleich geladener Teilchen</falscheAntwort1>
             <falscheAntwort2>dem Säureeinfluss der Seife</falscheAntwort2>
             <falscheAntwort3>der Reaktionsfreudigkeit der Seife</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1401,7 +1401,7 @@
             <falscheAntwort1>Salze langkettinger Alkane</falscheAntwort1>
             <falscheAntwort2>Polymere des Ethens</falscheAntwort2>
             <falscheAntwort3>Derivate sekundärer Alkohole</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1411,7 +1411,7 @@
             <falscheAntwort1>Orbit</falscheAntwort1>
             <falscheAntwort2>Orbitum</falscheAntwort2>
             <falscheAntwort3>Orbiton</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1421,7 +1421,7 @@
             <falscheAntwort1>Polyacryl</falscheAntwort1>
             <falscheAntwort2>Polyäthylen</falscheAntwort2>
             <falscheAntwort3>Polyester</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1431,7 +1431,7 @@
             <falscheAntwort1>Natriumchlorid</falscheAntwort1>
             <falscheAntwort2>Natriumhydroxid</falscheAntwort2>
             <falscheAntwort3>Natriumhydrogencarbonat</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1441,7 +1441,7 @@
             <falscheAntwort1>„Geben ist seliger denn nehmen.“</falscheAntwort1>
             <falscheAntwort2>„Die Gesamtzahl der Valenzelektronen beträgt 8.“</falscheAntwort2>
             <falscheAntwort3>„Je mehr Hydroxidgruppen, desto süßer der Alkohol.“</falscheAntwort3>
-            <schwierikeit>15</schwierikeit>
+            <schwierigkeit>15</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1451,7 +1451,7 @@
             <falscheAntwort1>aromatische Kohlenwasserstoffe</falscheAntwort1>
             <falscheAntwort2>langkettige Kohlenwasserstoffe</falscheAntwort2>
             <falscheAntwort3>tertiäre Kohlenwasserstoffe</falscheAntwort3>
-            <schwierikeit>15</schwierikeit>
+            <schwierigkeit>15</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1461,7 +1461,7 @@
             <falscheAntwort1>Demokrit</falscheAntwort1>
             <falscheAntwort2>Bunsen</falscheAntwort2>
             <falscheAntwort3>Rutherford</falscheAntwort3>
-            <schwierikeit>15</schwierikeit>
+            <schwierigkeit>15</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>

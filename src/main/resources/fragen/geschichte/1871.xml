@@ -11,7 +11,7 @@
             <falscheAntwort1>Berlin</falscheAntwort1>
             <falscheAntwort2>Frankfurt</falscheAntwort2>
             <falscheAntwort3>München</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -21,7 +21,7 @@
             <falscheAntwort1>schwarz rot gold</falscheAntwort1>
             <falscheAntwort2>blau weiß rot</falscheAntwort2>
             <falscheAntwort3>weißes Kreuz auf rot</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -31,7 +31,7 @@
             <falscheAntwort1>Adolf Hitler</falscheAntwort1>
             <falscheAntwort2>Wilhem I.</falscheAntwort2>
             <falscheAntwort3>Helmut Kohl</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -41,7 +41,7 @@
             <falscheAntwort1>Reichstag</falscheAntwort1>
             <falscheAntwort2>Bundestag</falscheAntwort2>
             <falscheAntwort3>Länderrat</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -51,7 +51,7 @@
             <falscheAntwort1>Der Reichskanzler</falscheAntwort1>
             <falscheAntwort2>Der Bundestag</falscheAntwort2>
             <falscheAntwort3>Der Bundesrat</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -61,7 +61,7 @@
             <falscheAntwort1>Vom Volk direkt</falscheAntwort1>
             <falscheAntwort2>Vom Reichstag</falscheAntwort2>
             <falscheAntwort3>Vom Bundesrat</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -71,7 +71,7 @@
             <falscheAntwort1>Hopfen und Malz</falscheAntwort1>
             <falscheAntwort2>Butter und Schmalz</falscheAntwort2>
             <falscheAntwort3>Wasser und Luft</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -81,7 +81,7 @@
             <falscheAntwort1>Dänemark</falscheAntwort1>
             <falscheAntwort2>Nordamerika</falscheAntwort2>
             <falscheAntwort3>Frankreich</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -91,7 +91,7 @@
             <falscheAntwort1>Ein Konsum</falscheAntwort1>
             <falscheAntwort2>Ein Konzert</falscheAntwort2>
             <falscheAntwort3>Ein Betriebsverein</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -101,7 +101,7 @@
             <falscheAntwort1>Eine Kartusche</falscheAntwort1>
             <falscheAntwort2>Ein Kartaster</falscheAntwort2>
             <falscheAntwort3>Eine Kastanie</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -111,7 +111,7 @@
             <falscheAntwort1>Wirtschaft</falscheAntwort1>
             <falscheAntwort2>Bürgschaft</falscheAntwort2>
             <falscheAntwort3>Seilschaft</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -121,7 +121,7 @@
             <falscheAntwort1>Der Stadel</falscheAntwort1>
             <falscheAntwort2>Der Pudel</falscheAntwort2>
             <falscheAntwort3>Der Strudel</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -131,7 +131,7 @@
             <falscheAntwort1>Handwerker</falscheAntwort1>
             <falscheAntwort2>Neuadel</falscheAntwort2>
             <falscheAntwort3>Semiadel</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -141,7 +141,7 @@
             <falscheAntwort1>Bankangestellter</falscheAntwort1>
             <falscheAntwort2>Priester</falscheAntwort2>
             <falscheAntwort3>Fußballprofi</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -151,7 +151,7 @@
             <falscheAntwort1>Wehrpflicht</falscheAntwort1>
             <falscheAntwort2>Impfpflicht</falscheAntwort2>
             <falscheAntwort3>Anschnallpflicht</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -161,7 +161,7 @@
             <falscheAntwort1>Mittelschule</falscheAntwort1>
             <falscheAntwort2>höhere Schule</falscheAntwort2>
             <falscheAntwort3>Dorfschule</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -171,7 +171,7 @@
             <falscheAntwort1>Xanthippe</falscheAntwort1>
             <falscheAntwort2>Emanze</falscheAntwort2>
             <falscheAntwort3>Gänseblümchen</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -181,7 +181,7 @@
             <falscheAntwort1>die Nationalliberale Partei</falscheAntwort1>
             <falscheAntwort2>die Fortschrittspartei</falscheAntwort2>
             <falscheAntwort3>das Zentrum</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -191,7 +191,7 @@
             <falscheAntwort1>Nationalliberale Partei</falscheAntwort1>
             <falscheAntwort2>Fortschrittspartei</falscheAntwort2>
             <falscheAntwort3>Zentrum</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -201,7 +201,7 @@
             <falscheAntwort1>im Reichstag</falscheAntwort1>
             <falscheAntwort2>im Bundestag</falscheAntwort2>
             <falscheAntwort3>im Kölner Dom</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -211,7 +211,7 @@
             <falscheAntwort1>Bebel</falscheAntwort1>
             <falscheAntwort2>Lasalle</falscheAntwort2>
             <falscheAntwort3>Liebknecht</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -221,7 +221,7 @@
             <falscheAntwort1>Schützenvereine</falscheAntwort1>
             <falscheAntwort2>Karnevalsvereine</falscheAntwort2>
             <falscheAntwort3>Das Finanzamt</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -231,7 +231,7 @@
             <falscheAntwort1>Fortschrittspartei</falscheAntwort1>
             <falscheAntwort2>Nationalliberale Partei</falscheAntwort2>
             <falscheAntwort3>Konservative Partei</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -241,7 +241,7 @@
             <falscheAntwort1>Die Gewerkschaften</falscheAntwort1>
             <falscheAntwort2>Der Reichstag</falscheAntwort2>
             <falscheAntwort3>Der Kaiser</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -251,7 +251,7 @@
             <falscheAntwort1>Der Hosenbandorden</falscheAntwort1>
             <falscheAntwort2>Der Templerorder</falscheAntwort2>
             <falscheAntwort3>Der Orden wider den tierischen Ernst</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -261,7 +261,7 @@
             <falscheAntwort1>Besteuerung des Weihwassers</falscheAntwort1>
             <falscheAntwort2>Autountersuchung beim TÜV</falscheAntwort2>
             <falscheAntwort3>Verbot der Massentierhaltung</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -271,7 +271,7 @@
             <falscheAntwort1>Abschaffung von Buß- und Bettag</falscheAntwort1>
             <falscheAntwort2>Freie und allgemeine Wahlen</falscheAntwort2>
             <falscheAntwort3>Einführung der Branntweinsteuer</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -281,7 +281,7 @@
             <falscheAntwort1>Für die Gewerkschaften</falscheAntwort1>
             <falscheAntwort2>Für die Kirche</falscheAntwort2>
             <falscheAntwort3>Für den Reichstag</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -291,7 +291,7 @@
             <falscheAntwort1>Beleidigung des Kaisers durch Bebel</falscheAntwort1>
             <falscheAntwort2>Hohe Beiträge der Gewerkschaften</falscheAntwort2>
             <falscheAntwort3>Streit zwischen Bebel und Lasalle</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -301,7 +301,7 @@
             <falscheAntwort1>Verbot von Kampfhunden</falscheAntwort1>
             <falscheAntwort2>Das Wehrpflichtgesetz</falscheAntwort2>
             <falscheAntwort3>Das Kommunistengesetz</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -311,7 +311,7 @@
             <falscheAntwort1>Zeitungen</falscheAntwort1>
             <falscheAntwort2>Bücher</falscheAntwort2>
             <falscheAntwort3>Zeitschriften</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -321,7 +321,7 @@
             <falscheAntwort1>200 000 Stimmen</falscheAntwort1>
             <falscheAntwort2>400 000 Stimmen</falscheAntwort2>
             <falscheAntwort3>800 000 Stimmen</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -331,7 +331,7 @@
             <falscheAntwort1>Krankenversicherungsgesetz</falscheAntwort1>
             <falscheAntwort2>Unfallversicherungsgesetz</falscheAntwort2>
             <falscheAntwort3>Invaliden- und Altersv.-gesetz</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -341,7 +341,7 @@
             <falscheAntwort1>Arbeitnehmer</falscheAntwort1>
             <falscheAntwort2>Arbeitgeber</falscheAntwort2>
             <falscheAntwort3>Der Staat</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -351,7 +351,7 @@
             <falscheAntwort1>Sozialismus</falscheAntwort1>
             <falscheAntwort2>Kommunismus</falscheAntwort2>
             <falscheAntwort3>Nationalsozialismus</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -361,7 +361,7 @@
             <falscheAntwort1>ein Sechstel</falscheAntwort1>
             <falscheAntwort2>ein Fünftel</falscheAntwort2>
             <falscheAntwort3>ein Drittel</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -371,7 +371,7 @@
             <falscheAntwort1>Österreich</falscheAntwort1>
             <falscheAntwort2>Frankreich</falscheAntwort2>
             <falscheAntwort3>Spanien</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -381,7 +381,7 @@
             <falscheAntwort1>Rum</falscheAntwort1>
             <falscheAntwort2>Stahl</falscheAntwort2>
             <falscheAntwort3>Zuckerrohr</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -391,7 +391,7 @@
             <falscheAntwort1>George Washington</falscheAntwort1>
             <falscheAntwort2>Harry Truman</falscheAntwort2>
             <falscheAntwort3>Dwight Eisenhower</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -401,7 +401,7 @@
             <falscheAntwort1>1914-1918</falscheAntwort1>
             <falscheAntwort2>1939-1945</falscheAntwort2>
             <falscheAntwort3>1789-1796</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -411,7 +411,7 @@
             <falscheAntwort1>die Branntweinsteuer</falscheAntwort1>
             <falscheAntwort2>die Sonntagsarbeit</falscheAntwort2>
             <falscheAntwort3>Französisch als Amtssprache</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -421,7 +421,7 @@
             <falscheAntwort1>14 Güterwagen voll Gold</falscheAntwort1>
             <falscheAntwort2>die Pläne für Winchestergewehre</falscheAntwort2>
             <falscheAntwort3>das Bernsteinzimmer</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>

@@ -11,7 +11,7 @@
             <falscheAntwort1>Die Feder wurde halbiert.</falscheAntwort1>
             <falscheAntwort2>Die Feder wurde gespalten.</falscheAntwort2>
             <falscheAntwort3>Die Feder wurde rot angemalt.</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -21,7 +21,7 @@
             <falscheAntwort1>einen blauen Punkt</falscheAntwort1>
             <falscheAntwort2>einen schwarzen Punkt</falscheAntwort2>
             <falscheAntwort3>einen grünen Punkt</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -31,7 +31,7 @@
             <falscheAntwort1>einen Feind verwundet</falscheAntwort1>
             <falscheAntwort2>einem Feind das Pferd gestohlen</falscheAntwort2>
             <falscheAntwort3>selber oft verwundet worden</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -41,7 +41,7 @@
             <falscheAntwort1>einem Feind das Pferd gestohlen</falscheAntwort1>
             <falscheAntwort2>einen Feind verletzt</falscheAntwort2>
             <falscheAntwort3>einen Feind berührt</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -51,7 +51,7 @@
             <falscheAntwort1>dieser Krieger hat ein Pferd gestohlen</falscheAntwort1>
             <falscheAntwort2>dieser Krieger hat einen Feind getötet</falscheAntwort2>
             <falscheAntwort3>dieser Krieger hat einem Feind die Kehle durchgeschnitten</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -61,7 +61,7 @@
             <falscheAntwort1>Loipe</falscheAntwort1>
             <falscheAntwort2>Soap</falscheAntwort2>
             <falscheAntwort3>Ruin</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -71,7 +71,7 @@
             <falscheAntwort1>Regenwald</falscheAntwort1>
             <falscheAntwort2>Tundra</falscheAntwort2>
             <falscheAntwort3>Savanne</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -81,7 +81,7 @@
             <falscheAntwort1>eine kurze Friedenspfeife</falscheAntwort1>
             <falscheAntwort2>eine besonders große Adlerfeder</falscheAntwort2>
             <falscheAntwort3>eine kleine Ledertasche zur Aufbewahrung der vergifteten Pfeilspitzen</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -91,7 +91,7 @@
             <falscheAntwort1>Schimäre</falscheAntwort1>
             <falscheAntwort2>Travois</falscheAntwort2>
             <falscheAntwort3>Lacrosse</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -101,7 +101,7 @@
             <falscheAntwort1>Lederskalp</falscheAntwort1>
             <falscheAntwort2>Lederschuh</falscheAntwort2>
             <falscheAntwort3>Lederhemd</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -111,7 +111,7 @@
             <falscheAntwort1>Der schöne Mohikaner</falscheAntwort1>
             <falscheAntwort2>Der erste Mohikaner</falscheAntwort2>
             <falscheAntwort3>Der gute Mohikaner</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -121,7 +121,7 @@
             <falscheAntwort1>Halbbrüder</falscheAntwort1>
             <falscheAntwort2>echte Brüder</falscheAntwort2>
             <falscheAntwort3>Kriegsbrüder</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -131,7 +131,7 @@
             <falscheAntwort1>Papyrus</falscheAntwort1>
             <falscheAntwort2>Tontafeln</falscheAntwort2>
             <falscheAntwort3>Büffelhaut</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -141,7 +141,7 @@
             <falscheAntwort1>Großer Bär</falscheAntwort1>
             <falscheAntwort2>Winnetou</falscheAntwort2>
             <falscheAntwort3>Crazy Horse</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -151,7 +151,7 @@
             <falscheAntwort1>als kühle Gemächer</falscheAntwort1>
             <falscheAntwort2>als Gräber</falscheAntwort2>
             <falscheAntwort3>als Schutz vor den Regenfällen</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -161,7 +161,7 @@
             <falscheAntwort1>Glasperlen</falscheAntwort1>
             <falscheAntwort2>Goldmünzen</falscheAntwort2>
             <falscheAntwort3>Muscheln</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -171,7 +171,7 @@
             <falscheAntwort1>ein indianischer Rachefeldzug</falscheAntwort1>
             <falscheAntwort2>ein Massaker an den spanischen Eroberern</falscheAntwort2>
             <falscheAntwort3>ein indianisches Singspiel</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -181,7 +181,7 @@
             <falscheAntwort1>weil sie die Gefangenen als Sklaven arbeiten ließen</falscheAntwort1>
             <falscheAntwort2>weil sie ihr Land vergrößern wollten</falscheAntwort2>
             <falscheAntwort3>um möglichst große Schätze zu erobern</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -191,7 +191,7 @@
             <falscheAntwort1>eine Gottheit der Inkas</falscheAntwort1>
             <falscheAntwort2>die Regenzeit in Südamerika</falscheAntwort2>
             <falscheAntwort3>ein angeschossener Bison</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -201,7 +201,7 @@
             <falscheAntwort1>Sari</falscheAntwort1>
             <falscheAntwort2>Kimono</falscheAntwort2>
             <falscheAntwort3>Kilt</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -211,7 +211,7 @@
             <falscheAntwort1>Aztkli</falscheAntwort1>
             <falscheAntwort2>Brachtli</falscheAntwort2>
             <falscheAntwort3>Frziklu</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -221,7 +221,7 @@
             <falscheAntwort1>Tomaten</falscheAntwort1>
             <falscheAntwort2>Tortellini</falscheAntwort2>
             <falscheAntwort3>Tlachtli</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -231,7 +231,7 @@
             <falscheAntwort1>Mexico City</falscheAntwort1>
             <falscheAntwort2>Tennessee</falscheAntwort2>
             <falscheAntwort3>Cacamanchao</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -241,7 +241,7 @@
             <falscheAntwort1>im heutigen Chile</falscheAntwort1>
             <falscheAntwort2>im heutigen Brasilien</falscheAntwort2>
             <falscheAntwort3>im heutigen Venezuela</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -251,7 +251,7 @@
             <falscheAntwort1>Maya</falscheAntwort1>
             <falscheAntwort2>Azteken</falscheAntwort2>
             <falscheAntwort3>Inkas</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -261,7 +261,7 @@
             <falscheAntwort1>ca. 15 Millionen</falscheAntwort1>
             <falscheAntwort2>ca. 10 Millionen</falscheAntwort2>
             <falscheAntwort3>ca. 23 Millionen</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -271,7 +271,7 @@
             <falscheAntwort1>ca. 900.000</falscheAntwort1>
             <falscheAntwort2>ca. 250.000</falscheAntwort2>
             <falscheAntwort3>ca. 1.500.000</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -281,7 +281,7 @@
             <falscheAntwort1>wahre Indianergeschichten</falscheAntwort1>
             <falscheAntwort2>Ausgrabungen, bei denen Überreste von Indianern gefunden wurden</falscheAntwort2>
             <falscheAntwort3>getragene Kleidungsstücke von Indianern</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -291,7 +291,7 @@
             <falscheAntwort1>ein Trauerritual bei einer Indianerbeerdigung</falscheAntwort1>
             <falscheAntwort2>eine gefährliche Straße für die weißen Siedler</falscheAntwort2>
             <falscheAntwort3>der Weg zum Marterpfahl</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -301,7 +301,7 @@
             <falscheAntwort1>mit Bildern, die sie in den Sand malten</falscheAntwort1>
             <falscheAntwort2>mit einem Übersetzer</falscheAntwort2>
             <falscheAntwort3>Angehörige verschiedener Stämme sprachen nicht miteinander.</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -311,7 +311,7 @@
             <falscheAntwort1>Arnold Schwarzenegger</falscheAntwort1>
             <falscheAntwort2>Heinz Rühmann</falscheAntwort2>
             <falscheAntwort3>Tom Cruise</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -321,7 +321,7 @@
             <falscheAntwort1>Sioux</falscheAntwort1>
             <falscheAntwort2>Navajos</falscheAntwort2>
             <falscheAntwort3>Mohikaner</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -331,7 +331,7 @@
             <falscheAntwort1>Lassoschwinger</falscheAntwort1>
             <falscheAntwort2>flinker Reiter</falscheAntwort2>
             <falscheAntwort3>Indianerjäger</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -341,7 +341,7 @@
             <falscheAntwort1>2 Jahre</falscheAntwort1>
             <falscheAntwort2>4 Jahre</falscheAntwort2>
             <falscheAntwort3>8 Jahre</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -351,7 +351,7 @@
             <falscheAntwort1>4.200 km</falscheAntwort1>
             <falscheAntwort2>1.500 km</falscheAntwort2>
             <falscheAntwort3>900 km</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -361,7 +361,7 @@
             <falscheAntwort1>Transsibirische Eisenbahn</falscheAntwort1>
             <falscheAntwort2>East - West - Train</falscheAntwort2>
             <falscheAntwort3>Rothaut - Express</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -371,7 +371,7 @@
             <falscheAntwort1>Der mit dem Wolf jagt</falscheAntwort1>
             <falscheAntwort2>Der mit dem Wolf heult</falscheAntwort2>
             <falscheAntwort3>Der mit dem Wolf frisst</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -381,7 +381,7 @@
             <falscheAntwort1>Winnetou</falscheAntwort1>
             <falscheAntwort2>Der letzte Mohikaner</falscheAntwort2>
             <falscheAntwort3>Der Schuh des Manitu</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -391,7 +391,7 @@
             <falscheAntwort1>Sie ließen sich von Bäumen auf die Bisons fallen.</falscheAntwort1>
             <falscheAntwort2>Sie gruben sich ein und schossen von unten auf die Bisons.</falscheAntwort2>
             <falscheAntwort3>Sie lockten die Bisons mit saftigen Gräsern in große Gruben.</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -401,7 +401,7 @@
             <falscheAntwort1>1861 wurde die Luftpost eingeführt.</falscheAntwort1>
             <falscheAntwort2>Graham Bell hatte das Internet erfunden.</falscheAntwort2>
             <falscheAntwort3>Die Indianer übernahmen ab 1861 die Verteilung der Post.</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -411,7 +411,7 @@
             <falscheAntwort1>mit dem Flugzeug</falscheAntwort1>
             <falscheAntwort2>mit der Eisenbahn</falscheAntwort2>
             <falscheAntwort3>mit dem Heißluftballon</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -421,7 +421,7 @@
             <falscheAntwort1>Die Indianer rieben ihre Kleidung mit Bisonfett ein, damit die Pfeile abrutschten.</falscheAntwort1>
             <falscheAntwort2>Der Schamane verzauberte die Kleidung mit Beschwörungsformeln.</falscheAntwort2>
             <falscheAntwort3>Die Indianer färbten ihre Kleidung dunkel, damit sie schlechter zu erkennen waren.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -431,7 +431,7 @@
             <falscheAntwort1>Bud Spencer</falscheAntwort1>
             <falscheAntwort2>David Cassedy</falscheAntwort2>
             <falscheAntwort3>Tom Gerhard</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -441,7 +441,7 @@
             <falscheAntwort1>1735</falscheAntwort1>
             <falscheAntwort2>1698</falscheAntwort2>
             <falscheAntwort3>1612</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -451,7 +451,7 @@
             <falscheAntwort1>der erste Sommermonat mit einem Vollmond</falscheAntwort1>
             <falscheAntwort2>ideale Wetterverhältnisse für eine Bisonjagd</falscheAntwort2>
             <falscheAntwort3>einen besonders heißen Frühling</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -461,7 +461,7 @@
             <falscheAntwort1>in Steinhäusern</falscheAntwort1>
             <falscheAntwort2>in verlassenen Indianerzelten</falscheAntwort2>
             <falscheAntwort3>in Erdhöhlen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -471,7 +471,7 @@
             <falscheAntwort1>Trapper</falscheAntwort1>
             <falscheAntwort2>Cowboys</falscheAntwort2>
             <falscheAntwort3>Goldwäscher</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -481,7 +481,7 @@
             <falscheAntwort1>der Mississippi</falscheAntwort1>
             <falscheAntwort2>der Ohio</falscheAntwort2>
             <falscheAntwort3>der Grand Canyon</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -491,7 +491,7 @@
             <falscheAntwort1>Eine Stadt, die von den Indianern überfallen wurde und aus der die Einwohner geflohen waren.</falscheAntwort1>
             <falscheAntwort2>Eine Stadt, in der die Indianer ihre Toten begruben.</falscheAntwort2>
             <falscheAntwort3>Eine Stadt, in der die Indianer zu ihren Toten beteten.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -501,7 +501,7 @@
             <falscheAntwort1>die Gummistiefel</falscheAntwort1>
             <falscheAntwort2>der Südwester - Hut</falscheAntwort2>
             <falscheAntwort3>Hosenträger</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -511,7 +511,7 @@
             <falscheAntwort1>aus den Bisonhörnern</falscheAntwort1>
             <falscheAntwort2>aus Glas</falscheAntwort2>
             <falscheAntwort3>aus dem Holz der erbeuteten Gewehrschäfte</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -521,7 +521,7 @@
             <falscheAntwort1>Fluss, an dem unsere Väter wohnten</falscheAntwort1>
             <falscheAntwort2>schneller Fluss</falscheAntwort2>
             <falscheAntwort3>Fluss, in dem viele Fische schwimmen</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -531,7 +531,7 @@
             <falscheAntwort1>einen Federkranz</falscheAntwort1>
             <falscheAntwort2>eine einzelne Adlerfeder</falscheAntwort2>
             <falscheAntwort3>einen geflochtenen Zopf</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -541,7 +541,7 @@
             <falscheAntwort1>die Indianer hatten die Trapper verjagt</falscheAntwort1>
             <falscheAntwort2>die Biberjagd wurde verboten</falscheAntwort2>
             <falscheAntwort3>die Biber waren fast ausgestorben</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -551,7 +551,7 @@
             <falscheAntwort1>Farmers Day</falscheAntwort1>
             <falscheAntwort2>Turkey Day</falscheAntwort2>
             <falscheAntwort3>Godfather Day</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -561,7 +561,7 @@
             <falscheAntwort1>weil Biber in Nordamerika sehr selten waren</falscheAntwort1>
             <falscheAntwort2>weil die Biber leicht zu fangen waren</falscheAntwort2>
             <falscheAntwort3>weil die Indianer den Fallenstellern nur das Jagen von Bibern erlaubten</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -571,7 +571,7 @@
             <falscheAntwort1>Abraham Lincoln</falscheAntwort1>
             <falscheAntwort2>Theodore Roosevelt</falscheAntwort2>
             <falscheAntwort3>Thomas Jefferson</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -581,7 +581,7 @@
             <falscheAntwort1>12</falscheAntwort1>
             <falscheAntwort2>11</falscheAntwort2>
             <falscheAntwort3>14</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -591,7 +591,7 @@
             <falscheAntwort1>1798</falscheAntwort1>
             <falscheAntwort2>1879</falscheAntwort2>
             <falscheAntwort3>1679</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -601,7 +601,7 @@
             <falscheAntwort1>weil sie so weit von England entfernt waren</falscheAntwort1>
             <falscheAntwort2>weil sie einen eigenen König haben wollten</falscheAntwort2>
             <falscheAntwort3>weil es in England keine Indianer gab</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -611,7 +611,7 @@
             <falscheAntwort1>19</falscheAntwort1>
             <falscheAntwort2>7</falscheAntwort2>
             <falscheAntwort3>25</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -621,7 +621,7 @@
             <falscheAntwort1>Washington</falscheAntwort1>
             <falscheAntwort2>New York</falscheAntwort2>
             <falscheAntwort3>Detroit</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -631,7 +631,7 @@
             <falscheAntwort1>1708</falscheAntwort1>
             <falscheAntwort2>1506</falscheAntwort2>
             <falscheAntwort3>1666</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -641,7 +641,7 @@
             <falscheAntwort1>Die Aussiedler flüchteten vor Krankheiten und Seuchen.</falscheAntwort1>
             <falscheAntwort2>Alle Aussiedler fanden in Europa keine Arbeit mehr.</falscheAntwort2>
             <falscheAntwort3>Die meisten Familien waren Kriminelle und flüchteten vor der Polizei.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -651,7 +651,7 @@
             <falscheAntwort1>1820</falscheAntwort1>
             <falscheAntwort2>1420</falscheAntwort2>
             <falscheAntwort3>1720</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -661,7 +661,7 @@
             <falscheAntwort1>Mary</falscheAntwort1>
             <falscheAntwort2>Titanic</falscheAntwort2>
             <falscheAntwort3>Quenn Elizabeth</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -671,7 +671,7 @@
             <falscheAntwort1>Red River</falscheAntwort1>
             <falscheAntwort2>Big Little Horn</falscheAntwort2>
             <falscheAntwort3>Grand Canyon</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -681,7 +681,7 @@
             <falscheAntwort1>4 Millionen Dollar</falscheAntwort1>
             <falscheAntwort2>einen Sack Gold</falscheAntwort2>
             <falscheAntwort3>55 Gewehre</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -691,7 +691,7 @@
             <falscheAntwort1>Über die Schienen der Eisenbahn stolperten viele Pferde und die Indianer stürzten sich zu Tode.</falscheAntwort1>
             <falscheAntwort2>Der Dampf der Eisenbahn führte bei den meisten Indianern zu Keuchhusten, an dem viele Indianer starben.</falscheAntwort2>
             <falscheAntwort3>Die Indianer fuhren gerne mit der Eisenbahn und vernachlässigten ihre Familien.</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -701,7 +701,7 @@
             <falscheAntwort1>Silver Wing</falscheAntwort1>
             <falscheAntwort2>White Cloud</falscheAntwort2>
             <falscheAntwort3>Nscho Tschi</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -711,7 +711,7 @@
             <falscheAntwort1>Kartoffeln</falscheAntwort1>
             <falscheAntwort2>Gold</falscheAntwort2>
             <falscheAntwort3>Büffelhörner</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -721,7 +721,7 @@
             <falscheAntwort1>vergiftete Pfeilspitzen</falscheAntwort1>
             <falscheAntwort2>kleine indianische Flöten</falscheAntwort2>
             <falscheAntwort3>kurze Messer für die Indianerkinder</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -731,7 +731,7 @@
             <falscheAntwort1>Die meisten Indianer starben vor lauter Angst vor den Unbekannten.</falscheAntwort1>
             <falscheAntwort2>Die weißen Siedler hatten alle Gewehre.</falscheAntwort2>
             <falscheAntwort3>Die weißen Siedler plünderten die Felder der Indianer, so dass diese verhungern mussten.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -741,7 +741,7 @@
             <falscheAntwort1>Manitus Garten</falscheAntwort1>
             <falscheAntwort2>Himmelreich</falscheAntwort2>
             <falscheAntwort3>Bisongrab</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -751,7 +751,7 @@
             <falscheAntwort1>die Jagdgründe des benachbarten Indianerstammes</falscheAntwort1>
             <falscheAntwort2>die Ebenen der Prärie mit ihren riesigen Bisonherden</falscheAntwort2>
             <falscheAntwort3>die Siedlungen der weißen Siedler</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -761,7 +761,7 @@
             <falscheAntwort1>Uran</falscheAntwort1>
             <falscheAntwort2>Platin</falscheAntwort2>
             <falscheAntwort3>Öl</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -771,7 +771,7 @@
             <falscheAntwort1>Tachina - Figuren</falscheAntwort1>
             <falscheAntwort2>Sachina - Figuren</falscheAntwort2>
             <falscheAntwort3>Rachina - Figuren</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -781,7 +781,7 @@
             <falscheAntwort1>Holzspielfiguren eines indianischen Brettspieles</falscheAntwort1>
             <falscheAntwort2>Figuren eines indianischen Kreistanzes</falscheAntwort2>
             <falscheAntwort3>Muster auf der Wigwaminnenseite</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -791,7 +791,7 @@
             <falscheAntwort1>kleine Holzflöten, mit denen die Indianerbabys in den Schlaf geflötet wurden</falscheAntwort1>
             <falscheAntwort2>indianische Schamanen, die für die Nacht zuständig waren</falscheAntwort2>
             <falscheAntwort3>junge Indianer, die bei der Jagd nicht besonders erfolgreich waren</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -801,7 +801,7 @@
             <falscheAntwort1>ein Indianerstamm, der sich nur von Früchten und Getreide ernährte</falscheAntwort1>
             <falscheAntwort2>die Späher eines Indianerstammes</falscheAntwort2>
             <falscheAntwort3>die unverheirateten Indianerfrauen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -811,7 +811,7 @@
             <falscheAntwort1>Häuptlinge</falscheAntwort1>
             <falscheAntwort2>Schelme</falscheAntwort2>
             <falscheAntwort3>Pharaonen</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -821,7 +821,7 @@
             <falscheAntwort1>Karl Valentin</falscheAntwort1>
             <falscheAntwort2>Karl Moik</falscheAntwort2>
             <falscheAntwort3>Reinhard May</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -831,7 +831,7 @@
             <falscheAntwort1>ein Muster zum Verzieren von Stoffen</falscheAntwort1>
             <falscheAntwort2>ein Lied</falscheAntwort2>
             <falscheAntwort3>eine deutliche Fährte</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -841,7 +841,7 @@
             <falscheAntwort1>als Spielzeug</falscheAntwort1>
             <falscheAntwort2>zum Aufhängen von Kleidung</falscheAntwort2>
             <falscheAntwort3>zum Zeichnen im Sand</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -851,7 +851,7 @@
             <falscheAntwort1>Nur die Kinder durften dann eintreten.</falscheAntwort1>
             <falscheAntwort2>Ja, denn die Vorderklappe war immer geschlossen.</falscheAntwort2>
             <falscheAntwort3>Nur die Verwandten durften dann eintreten.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -861,7 +861,7 @@
             <falscheAntwort1>Bisontanz</falscheAntwort1>
             <falscheAntwort2>Regentanz</falscheAntwort2>
             <falscheAntwort3>Cha Cha Cha</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -871,7 +871,7 @@
             <falscheAntwort1>um das Ende des Winters</falscheAntwort1>
             <falscheAntwort2>um eine gute Ernte</falscheAntwort2>
             <falscheAntwort3>um eine Frau</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -881,7 +881,7 @@
             <falscheAntwort1>Hier ist unser Lager !</falscheAntwort1>
             <falscheAntwort2>großes Fest</falscheAntwort2>
             <falscheAntwort3>Schlafenszeit</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -891,7 +891,7 @@
             <falscheAntwort1>europäische Einwanderer</falscheAntwort1>
             <falscheAntwort2>Eskimos</falscheAntwort2>
             <falscheAntwort3>Indianersäuglinge</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -901,7 +901,7 @@
             <falscheAntwort1>um die Häute vom Fell zu befreien</falscheAntwort1>
             <falscheAntwort2>um das Leder von Dämonen und Geistern zu befreien</falscheAntwort2>
             <falscheAntwort3>damit das Leder besser roch</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -911,7 +911,7 @@
             <falscheAntwort1>Er musste einen Bären töten.</falscheAntwort1>
             <falscheAntwort2>Er musste das Pferd eines Weißen stehlen.</falscheAntwort2>
             <falscheAntwort3>Er musste dem Häuptling unbemerkt eine Feder stehlen.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -921,7 +921,7 @@
             <falscheAntwort1>nur die Frauen mussten ihr eigenes Besteck mitbringen</falscheAntwort1>
             <falscheAntwort2>nein</falscheAntwort2>
             <falscheAntwort3>nur der Häuptling musste sein eigenes Geschirr und Besteck mitbringen</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -931,7 +931,7 @@
             <falscheAntwort1>auf Strohmatten</falscheAntwort1>
             <falscheAntwort2>auf gestampfter Erde</falscheAntwort2>
             <falscheAntwort3>auf Waschbärpelzen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -941,7 +941,7 @@
             <falscheAntwort1>aus Blech</falscheAntwort1>
             <falscheAntwort2>aus ausgehöhlten Bisonhörnern</falscheAntwort2>
             <falscheAntwort3>aus Holz</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -951,7 +951,7 @@
             <falscheAntwort1>magere Büffel</falscheAntwort1>
             <falscheAntwort2>dünne Bären</falscheAntwort2>
             <falscheAntwort3>braune Wölfe</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -961,7 +961,7 @@
             <falscheAntwort1>meine Heimat</falscheAntwort1>
             <falscheAntwort2>Zelthaus</falscheAntwort2>
             <falscheAntwort3>runde Hütte</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -971,7 +971,7 @@
             <falscheAntwort1>Salzstangen</falscheAntwort1>
             <falscheAntwort2>Chips</falscheAntwort2>
             <falscheAntwort3>Smarties</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -981,7 +981,7 @@
             <falscheAntwort1>Trödel</falscheAntwort1>
             <falscheAntwort2>Marketing</falscheAntwort2>
             <falscheAntwort3>Jahrmarkt</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -991,7 +991,7 @@
             <falscheAntwort1>das plötzliche Treffen eines Indianerstammes</falscheAntwort1>
             <falscheAntwort2>die Begegnung mit der Wildnis</falscheAntwort2>
             <falscheAntwort3>eine Verschwörung der Indianer</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1001,7 +1001,7 @@
             <falscheAntwort1>Ja, aber nur, wenn der Feind einen Indianer getötet hatte.</falscheAntwort1>
             <falscheAntwort2>Ja, allerdings wurden nur die Weißen an den Marterpfählen gequält.</falscheAntwort2>
             <falscheAntwort3>Ja, alle Gefangenen wurden zuerst für einen Tag an den Marterpfahl gebunden.</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1011,7 +1011,7 @@
             <falscheAntwort1>Blitzpfeil</falscheAntwort1>
             <falscheAntwort2>Stahlbüffel</falscheAntwort2>
             <falscheAntwort3>Donnerspeer</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1021,7 +1021,7 @@
             <falscheAntwort1>ein rotes Pferd</falscheAntwort1>
             <falscheAntwort2>ein wildes Pferd</falscheAntwort2>
             <falscheAntwort3>das tote Pferd des Häuptlings</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1031,7 +1031,7 @@
             <falscheAntwort1>aus gehärteten Tierfellen</falscheAntwort1>
             <falscheAntwort2>aus Beton</falscheAntwort2>
             <falscheAntwort3>aus bemalten Steinen</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1041,7 +1041,7 @@
             <falscheAntwort1>Bravois</falscheAntwort1>
             <falscheAntwort2>Gravois</falscheAntwort2>
             <falscheAntwort3>Zravois</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1051,7 +1051,7 @@
             <falscheAntwort1>ein indianisches Fleischgericht, das aus Büffel- und Pferdefleisch bestand</falscheAntwort1>
             <falscheAntwort2>eine Art Bogen, der allerdings so groß war, dass er von zwei Indianern gehalten werden musste</falscheAntwort2>
             <falscheAntwort3>ein kleinwüchsiger Indianer, der als Späher den Feind auskundschaftete</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1061,7 +1061,7 @@
             <falscheAntwort1>Bohnen, Reis, Kohlrabi</falscheAntwort1>
             <falscheAntwort2>Mais, Kartoffeln, Erbsen</falscheAntwort2>
             <falscheAntwort3>Kürbis, Kartoffeln, Radieschen</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1071,7 +1071,7 @@
             <falscheAntwort1>drei Mütter</falscheAntwort1>
             <falscheAntwort2>drei Göttinnen</falscheAntwort2>
             <falscheAntwort3>drei Sattmacher</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1081,7 +1081,7 @@
             <falscheAntwort1>drei weibliche Gottheiten</falscheAntwort1>
             <falscheAntwort2>ein Sternbild am Frühlingshimmel</falscheAntwort2>
             <falscheAntwort3>die drei ältesten Frauen im Dorf</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1091,7 +1091,7 @@
             <falscheAntwort1>Sie trugen lange Ski.</falscheAntwort1>
             <falscheAntwort2>Sie benutzten Hundeschlitten.</falscheAntwort2>
             <falscheAntwort3>Sie gingen auf Stelzen.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1101,7 +1101,7 @@
             <falscheAntwort1>Die Hütten wurden mit gefüllten Tierfellen abgedichtet.</falscheAntwort1>
             <falscheAntwort2>Um die Hütten wurde ein Abwassergraben gezogen.</falscheAntwort2>
             <falscheAntwort3>Die Hütten wurden auf einem Sandberg errichtet.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1111,7 +1111,7 @@
             <falscheAntwort1>aus eine verzierten Holzkugel</falscheAntwort1>
             <falscheAntwort2>aus einer Kugel, die aus einem Bisonhorn geschnitzt wurde</falscheAntwort2>
             <falscheAntwort3>aus einer zusammengepressten Präriegraskugel</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1121,7 +1121,7 @@
             <falscheAntwort1>vier Rauchsäulen nebeneinander</falscheAntwort1>
             <falscheAntwort2>zwei Rauchsäulen nebeneinander</falscheAntwort2>
             <falscheAntwort3>fünf Rauchsäulen nebeneinander</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1131,7 +1131,7 @@
             <falscheAntwort1>Hilfe</falscheAntwort1>
             <falscheAntwort2>schlechte Nachrichten</falscheAntwort2>
             <falscheAntwort3>Feierabend</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1141,7 +1141,7 @@
             <falscheAntwort1>Maskenmanitus</falscheAntwort1>
             <falscheAntwort2>Dämonen</falscheAntwort2>
             <falscheAntwort3>Bund der Schattengestalten</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1151,7 +1151,7 @@
             <falscheAntwort1>die weißen Europäer, wenn diese Brillen und fremdländische Hüte trugen</falscheAntwort1>
             <falscheAntwort2>die Gottheiten anderer Indianerstämme</falscheAntwort2>
             <falscheAntwort3>die geschminkten Frauen bei den Siegesfeiern</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1161,7 +1161,7 @@
             <falscheAntwort1>Pyramiden</falscheAntwort1>
             <falscheAntwort2>Wigwam</falscheAntwort2>
             <falscheAntwort3>Iglus</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -1171,7 +1171,7 @@
             <falscheAntwort1>ca. 4 Pfeile</falscheAntwort1>
             <falscheAntwort2>ca. 6 Pfeile</falscheAntwort2>
             <falscheAntwort3>ca. 2 Pfeile</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1181,7 +1181,7 @@
             <falscheAntwort1>Wigwam</falscheAntwort1>
             <falscheAntwort2>Tipi</falscheAntwort2>
             <falscheAntwort3>Iglu</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1191,7 +1191,7 @@
             <falscheAntwort1>eine Indianerhochzeit</falscheAntwort1>
             <falscheAntwort2>eine große Bisonherde</falscheAntwort2>
             <falscheAntwort3>eine gescheiterte Mutprobe</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1201,7 +1201,7 @@
             <falscheAntwort1>Tjost</falscheAntwort1>
             <falscheAntwort2>Quirl</falscheAntwort2>
             <falscheAntwort3>Gnom</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1211,7 +1211,7 @@
             <falscheAntwort1>Mondmann</falscheAntwort1>
             <falscheAntwort2>Scharlatan</falscheAntwort2>
             <falscheAntwort3>Wahrsager</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1221,7 +1221,7 @@
             <falscheAntwort1>eine unverheiratete Indianerfrau</falscheAntwort1>
             <falscheAntwort2>ein wildes Pferd, das erst noch eingeritten werden musste</falscheAntwort2>
             <falscheAntwort3>der Sohn des Häuptlings</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1231,7 +1231,7 @@
             <falscheAntwort1>Hulaknet</falscheAntwort1>
             <falscheAntwort2>Famubet</falscheAntwort2>
             <falscheAntwort3>Boleritt</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1241,7 +1241,7 @@
             <falscheAntwort1>Bummstock</falscheAntwort1>
             <falscheAntwort2>Donnerast</falscheAntwort2>
             <falscheAntwort3>Krachstamm</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1251,7 +1251,7 @@
             <falscheAntwort1>Buddha</falscheAntwort1>
             <falscheAntwort2>Allah</falscheAntwort2>
             <falscheAntwort3>Zeus</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1261,7 +1261,7 @@
             <falscheAntwort1>ca. 8 m</falscheAntwort1>
             <falscheAntwort2>ca. 6 m</falscheAntwort2>
             <falscheAntwort3>ca. 2 m</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1271,7 +1271,7 @@
             <falscheAntwort1>ca. 10</falscheAntwort1>
             <falscheAntwort2>ca. 15</falscheAntwort2>
             <falscheAntwort3>ca. 5</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1281,7 +1281,7 @@
             <falscheAntwort1>6 - 9 m</falscheAntwort1>
             <falscheAntwort2>4 - 6 m</falscheAntwort2>
             <falscheAntwort3>30 - 45 m</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1291,7 +1291,7 @@
             <falscheAntwort1>in Langhäusern ohne Türen, in die man nur durch die Fenster gelangte</falscheAntwort1>
             <falscheAntwort2>in Zelten ohne Eingang, in die man nur durch einen unterirdischen Gang gelangte</falscheAntwort2>
             <falscheAntwort3>in Erdhöhlen, deren Eingänge durch bemalte Tierfelle getarnt waren</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1301,7 +1301,7 @@
             <falscheAntwort1>die Anzahl der Frauen</falscheAntwort1>
             <falscheAntwort2>die Anzahl der Kinder</falscheAntwort2>
             <falscheAntwort3>die Anzahl der Pferde</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1311,7 +1311,7 @@
             <falscheAntwort1>Pfauenfedern</falscheAntwort1>
             <falscheAntwort2>Straußenfedern</falscheAntwort2>
             <falscheAntwort3>Taubenfedern</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1321,7 +1321,7 @@
             <falscheAntwort1>barbieren</falscheAntwort1>
             <falscheAntwort2>garnieren</falscheAntwort2>
             <falscheAntwort3>marinieren</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1331,7 +1331,7 @@
             <falscheAntwort1>Skolt</falscheAntwort1>
             <falscheAntwort2>Balg</falscheAntwort2>
             <falscheAntwort3>Sgeld</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1341,7 +1341,7 @@
             <falscheAntwort1>Die Indianer konnten nur dadurch ihrem Häuptling beweisen, dass sie gesiegt hatten.</falscheAntwort1>
             <falscheAntwort2>Die Indianer glaubten, dass sie dann selbst am Kopf unverwundbar würden.</falscheAntwort2>
             <falscheAntwort3>Viele Indianer hatten einfach Angst vor einem toten Feind, der noch seine Haare besaß.</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1351,7 +1351,7 @@
             <falscheAntwort1>Krieger</falscheAntwort1>
             <falscheAntwort2>Feind</falscheAntwort2>
             <falscheAntwort3>Jäger</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1361,7 +1361,7 @@
             <falscheAntwort1>Dratini</falscheAntwort1>
             <falscheAntwort2>Ditto</falscheAntwort2>
             <falscheAntwort3>Dragoran</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1371,7 +1371,7 @@
             <falscheAntwort1>ca. 1.000</falscheAntwort1>
             <falscheAntwort2>2.000 - 3.000</falscheAntwort2>
             <falscheAntwort3>698</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1381,7 +1381,7 @@
             <falscheAntwort1>Buffalo Tom</falscheAntwort1>
             <falscheAntwort2>Buffalo John</falscheAntwort2>
             <falscheAntwort3>Buffalo Jim</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1391,7 +1391,7 @@
             <falscheAntwort1>Krieger</falscheAntwort1>
             <falscheAntwort2>Freund</falscheAntwort2>
             <falscheAntwort3>Jäger</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1401,7 +1401,7 @@
             <falscheAntwort1>Er tötete drei seiner besten Krieger.</falscheAntwort1>
             <falscheAntwort2>Er band sich selbst für drei Tage an den Marterpfahl und fastete dort.</falscheAntwort2>
             <falscheAntwort3>Er veranstaltete ein großes Fest.</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1411,7 +1411,7 @@
             <falscheAntwort1>der unbekannte Westen</falscheAntwort1>
             <falscheAntwort2>der Fruchtbare Westen</falscheAntwort2>
             <falscheAntwort3>der Neue Westen</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1421,7 +1421,7 @@
             <falscheAntwort1>in einem Kinderwagen</falscheAntwort1>
             <falscheAntwort2>in einem Bisonfellsack vor dem Bauch</falscheAntwort2>
             <falscheAntwort3>in einer Art Holzschlitten</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1431,7 +1431,7 @@
             <falscheAntwort1>Schlemmikan</falscheAntwort1>
             <falscheAntwort2>Pelikan</falscheAntwort2>
             <falscheAntwort3>Vatikan</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1441,7 +1441,7 @@
             <falscheAntwort1>das Zelt der alten Frauen</falscheAntwort1>
             <falscheAntwort2>eine vergiftete Pfeilspitze</falscheAntwort2>
             <falscheAntwort3>der Umhang des Medizinmannes, der aus neun bis zwölf verschiedenen Fellen bestehen musste</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1451,7 +1451,7 @@
             <falscheAntwort1>Mani Tou</falscheAntwort1>
             <falscheAntwort2>Tsching Päng</falscheAntwort2>
             <falscheAntwort3>How Tow</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1461,7 +1461,7 @@
             <falscheAntwort1>eine indianische Büffeljagd</falscheAntwort1>
             <falscheAntwort2>ein indianisches Nationalgericht</falscheAntwort2>
             <falscheAntwort3>ein wilder Kriegstanz</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1471,7 +1471,7 @@
             <falscheAntwort1>Nein, bei den Indianern gab es keine Bienen.</falscheAntwort1>
             <falscheAntwort2>Nein, die Indianer hatten große Angst vor Bienen.</falscheAntwort2>
             <falscheAntwort3>Nein, die Bienen waren für die Indianer heilige Tiere, die nicht berührt werden durften.</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1481,7 +1481,7 @@
             <falscheAntwort1>weil sie oft blutige Tierfelle trugen</falscheAntwort1>
             <falscheAntwort2>weil sie eine rote Hautfarbe hatten</falscheAntwort2>
             <falscheAntwort3>weil sie in der untergehenden Sonne rot schimmerten</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1491,7 +1491,7 @@
             <falscheAntwort1>nur die Männer</falscheAntwort1>
             <falscheAntwort2>ja</falscheAntwort2>
             <falscheAntwort3>nur die Kinder</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1501,7 +1501,7 @@
             <falscheAntwort1>Irokesen</falscheAntwort1>
             <falscheAntwort2>Citroen</falscheAntwort2>
             <falscheAntwort3>Navajo</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1511,7 +1511,7 @@
             <falscheAntwort1>Navajo</falscheAntwort1>
             <falscheAntwort2>Apachen</falscheAntwort2>
             <falscheAntwort3>Schoschonen</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1521,7 +1521,7 @@
             <falscheAntwort1>75 m</falscheAntwort1>
             <falscheAntwort2>300 m</falscheAntwort2>
             <falscheAntwort3>45 m</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1531,7 +1531,7 @@
             <falscheAntwort1>7 - 9</falscheAntwort1>
             <falscheAntwort2>ca. 12</falscheAntwort2>
             <falscheAntwort3>3</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1541,7 +1541,7 @@
             <falscheAntwort1>Gewehr</falscheAntwort1>
             <falscheAntwort2>Messer</falscheAntwort2>
             <falscheAntwort3>Tomahawk</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1551,7 +1551,7 @@
             <falscheAntwort1>links vom Wind</falscheAntwort1>
             <falscheAntwort2>mit dem Wind</falscheAntwort2>
             <falscheAntwort3>rechts vom Wind</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1561,7 +1561,7 @@
             <falscheAntwort1>das gute Gehör der Bisons</falscheAntwort1>
             <falscheAntwort2>die guten Augen der Bisons</falscheAntwort2>
             <falscheAntwort3>der gute Geschmack der Bisons</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1571,7 +1571,7 @@
             <falscheAntwort1>durch bunt bemalte Glatzen</falscheAntwort1>
             <falscheAntwort2>durch lange, geflochtene Bärte</falscheAntwort2>
             <falscheAntwort3>durch kurze, geflochtene Zöpfe</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1581,7 +1581,7 @@
             <falscheAntwort1>Apachen</falscheAntwort1>
             <falscheAntwort2>Sioux</falscheAntwort2>
             <falscheAntwort3>Mohikaner</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1591,7 +1591,7 @@
             <falscheAntwort1>Lomahawk</falscheAntwort1>
             <falscheAntwort2>Womahawk</falscheAntwort2>
             <falscheAntwort3>Bomahawk</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1601,7 +1601,7 @@
             <falscheAntwort1>der Marterpfahl</falscheAntwort1>
             <falscheAntwort2>der Stammesälteste</falscheAntwort2>
             <falscheAntwort3>ein Regentanz</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1611,7 +1611,7 @@
             <falscheAntwort1>Ja, sie düngten schon mit Nitrat und Schwefelsäure.</falscheAntwort1>
             <falscheAntwort2>Nein, die Indianer hatten noch keine Felder.</falscheAntwort2>
             <falscheAntwort3>Nein, die Indianer gruben ihre Felder nur um.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1621,7 +1621,7 @@
             <falscheAntwort1>Nein, denn es gab damals noch keine Kühlschränke.</falscheAntwort1>
             <falscheAntwort2>Nein, die Indianer jagten immer nur so viel, wie sie an einem Tag essen konnten.</falscheAntwort2>
             <falscheAntwort3>Nein, wenn die Indianer zu viel gejagt hatten, luden sie den Nachbarstamm zu einem großen Festmahl ein.</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -1631,7 +1631,7 @@
             <falscheAntwort1>ca. 19 Jahre</falscheAntwort1>
             <falscheAntwort2>ca. 17 Jahre</falscheAntwort2>
             <falscheAntwort3>ca. 21 Jahre</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1641,7 +1641,7 @@
             <falscheAntwort1>ca. 15 Jahre</falscheAntwort1>
             <falscheAntwort2>ca. 19 Jahre</falscheAntwort2>
             <falscheAntwort3>ca. 21 Jahre</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1651,7 +1651,7 @@
             <falscheAntwort1>nur der Häuptling</falscheAntwort1>
             <falscheAntwort2>nur die Frauen</falscheAntwort2>
             <falscheAntwort3>nur der Medizinmann</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1661,7 +1661,7 @@
             <falscheAntwort1>eine Mittagsmahlzeit und eine Mitternachtsmahlzeit</falscheAntwort1>
             <falscheAntwort2>eine Mahlzeit am Morgen und eine Mahlzeit am Abend</falscheAntwort2>
             <falscheAntwort3>mehrere kleine Mahlzeiten über den Tag verteilt</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1671,7 +1671,7 @@
             <falscheAntwort1>20 - 30</falscheAntwort1>
             <falscheAntwort2>ca. 40</falscheAntwort2>
             <falscheAntwort3>immer genau aus 17</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1681,7 +1681,7 @@
             <falscheAntwort1>Sie stellten die erlegten Feinde des Stammes dar.</falscheAntwort1>
             <falscheAntwort2>Sie stellten die Stammesgötter dar.</falscheAntwort2>
             <falscheAntwort3>Sie stellten Glücksbringer für die Bisonjagd dar.</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1691,7 +1691,7 @@
             <falscheAntwort1>Sotlach</falscheAntwort1>
             <falscheAntwort2>Hotlach</falscheAntwort2>
             <falscheAntwort3>Botlach</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1701,7 +1701,7 @@
             <falscheAntwort1>eine Jagdhütte</falscheAntwort1>
             <falscheAntwort2>ein Kriegstanz</falscheAntwort2>
             <falscheAntwort3>das Zelt des Medizinmanns</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1711,7 +1711,7 @@
             <falscheAntwort1>Vola</falscheAntwort1>
             <falscheAntwort2>Zola</falscheAntwort2>
             <falscheAntwort3>Mola</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1721,7 +1721,7 @@
             <falscheAntwort1>eine Lanze mit geteilter Spitze</falscheAntwort1>
             <falscheAntwort2>ein vergifteter Pfeil</falscheAntwort2>
             <falscheAntwort3>eine angemalter Adlerfeder</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1731,7 +1731,7 @@
             <falscheAntwort1>Indianer - Clou</falscheAntwort1>
             <falscheAntwort2>Indianer - Schwarm</falscheAntwort2>
             <falscheAntwort3>Indianer - Crown</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1741,7 +1741,7 @@
             <falscheAntwort1>verfeindete Indianerstämme</falscheAntwort1>
             <falscheAntwort2>befreundete Indianerstämme</falscheAntwort2>
             <falscheAntwort3>ein Indianerfriedhof</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1751,7 +1751,7 @@
             <falscheAntwort1>Er ging in sein Wigwam.</falscheAntwort1>
             <falscheAntwort2>Er machte seine Pfeife aus.</falscheAntwort2>
             <falscheAntwort3>Er löschte das Lagerfeuer.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1761,7 +1761,7 @@
             <falscheAntwort1>Der gemütliche Teil der Einladung begann nun.</falscheAntwort1>
             <falscheAntwort2>Die Einladung begann nun.</falscheAntwort2>
             <falscheAntwort3>Der geschäftliche Teil der Einladung begann nun.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1771,7 +1771,7 @@
             <falscheAntwort1>ca. 15 Minuten</falscheAntwort1>
             <falscheAntwort2>ca. 30 Minuten</falscheAntwort2>
             <falscheAntwort3>ca. 120 Minuten</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1781,7 +1781,7 @@
             <falscheAntwort1>ca. 8</falscheAntwort1>
             <falscheAntwort2>ca. 10</falscheAntwort2>
             <falscheAntwort3>ca. 6</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1791,7 +1791,7 @@
             <falscheAntwort1>Karawanen</falscheAntwort1>
             <falscheAntwort2>Totemstämme</falscheAntwort2>
             <falscheAntwort3>Bisonstämme</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1801,7 +1801,7 @@
             <falscheAntwort1>Baumstämme, auf die die Indianer mit Pfeil und Bogen zielten</falscheAntwort1>
             <falscheAntwort2>Baumstämme, aus denen die Totempfähle geschnitzt sind</falscheAntwort2>
             <falscheAntwort3>die Baumstämme der nordamerikanischen Nomadentanne</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1811,7 +1811,7 @@
             <falscheAntwort1>Lommosins</falscheAntwort1>
             <falscheAntwort2>Lederssins</falscheAntwort2>
             <falscheAntwort3>Lokkassins</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1821,7 +1821,7 @@
             <falscheAntwort1>ein Indianerstamm in den Rocky Mountains</falscheAntwort1>
             <falscheAntwort2>kleine Mokkatassen der Indianer</falscheAntwort2>
             <falscheAntwort3>kleine Bisons</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1831,7 +1831,7 @@
             <falscheAntwort1>mit Hilfe des Tomahawks</falscheAntwort1>
             <falscheAntwort2>mit Hilfe eines scharfen Messers</falscheAntwort2>
             <falscheAntwort3>gar nicht</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1841,7 +1841,7 @@
             <falscheAntwort1>Leitungswasser</falscheAntwort1>
             <falscheAntwort2>Prickelwasser</falscheAntwort2>
             <falscheAntwort3>Teufelswasser</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1851,7 +1851,7 @@
             <falscheAntwort1>die heißen Bergquellen</falscheAntwort1>
             <falscheAntwort2>Benzin</falscheAntwort2>
             <falscheAntwort3>das Wasser zur Reinigung des Totempfahles</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1861,7 +1861,7 @@
             <falscheAntwort1>Suchs</falscheAntwort1>
             <falscheAntwort2>Schuh</falscheAntwort2>
             <falscheAntwort3>Siejux</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1871,7 +1871,7 @@
             <falscheAntwort1>die Apachen</falscheAntwort1>
             <falscheAntwort2>die Mohikaner</falscheAntwort2>
             <falscheAntwort3>die Irokesen</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1881,7 +1881,7 @@
             <falscheAntwort1>Sternentanz</falscheAntwort1>
             <falscheAntwort2>Mondtanz</falscheAntwort2>
             <falscheAntwort3>Erntetanz</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1891,7 +1891,7 @@
             <falscheAntwort1>Tomahawk</falscheAntwort1>
             <falscheAntwort2>Nugget</falscheAntwort2>
             <falscheAntwort3>Squaw</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1901,7 +1901,7 @@
             <falscheAntwort1>Cippohulana</falscheAntwort1>
             <falscheAntwort2>Beppalonika</falscheAntwort2>
             <falscheAntwort3>Uddiresika</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1911,7 +1911,7 @@
             <falscheAntwort1>Biberpelz</falscheAntwort1>
             <falscheAntwort2>Bisonfell</falscheAntwort2>
             <falscheAntwort3>Adlerfedern</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1921,7 +1921,7 @@
             <falscheAntwort1>eine Bisontreibjagd</falscheAntwort1>
             <falscheAntwort2>der größte Indianerhäuptling aller Zeiten</falscheAntwort2>
             <falscheAntwort3>ein indianisches Festgericht</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1931,7 +1931,7 @@
             <falscheAntwort1>Klurissse</falscheAntwort1>
             <falscheAntwort2>Befrosse</falscheAntwort2>
             <falscheAntwort3>Fopresse</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1941,7 +1941,7 @@
             <falscheAntwort1>Ramsum</falscheAntwort1>
             <falscheAntwort2>Damhum</falscheAntwort2>
             <falscheAntwort3>Zambum</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1951,7 +1951,7 @@
             <falscheAntwort1>Wigwam</falscheAntwort1>
             <falscheAntwort2>Tipi</falscheAntwort2>
             <falscheAntwort3>Langhaus</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1961,7 +1961,7 @@
             <falscheAntwort1>Hopi</falscheAntwort1>
             <falscheAntwort2>Schoschonen</falscheAntwort2>
             <falscheAntwort3>Shawnee</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1971,7 +1971,7 @@
             <falscheAntwort1>mit Kiefernnadeln oder Präriegras</falscheAntwort1>
             <falscheAntwort2>mit Büffelfell oder Biberpelz</falscheAntwort2>
             <falscheAntwort3>mit Bisonleder oder Wolfshaut</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1981,7 +1981,7 @@
             <falscheAntwort1>Irokesen</falscheAntwort1>
             <falscheAntwort2>Kiowa</falscheAntwort2>
             <falscheAntwort3>Navajo</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1991,7 +1991,7 @@
             <falscheAntwort1>Comanche</falscheAntwort1>
             <falscheAntwort2>Cheyenne</falscheAntwort2>
             <falscheAntwort3>Crow</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2001,7 +2001,7 @@
             <falscheAntwort1>Arapaho</falscheAntwort1>
             <falscheAntwort2>Apachen</falscheAntwort2>
             <falscheAntwort3>Assiniboin</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2011,7 +2011,7 @@
             <falscheAntwort1>weiß</falscheAntwort1>
             <falscheAntwort2>schwarz</falscheAntwort2>
             <falscheAntwort3>grün</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2021,7 +2021,7 @@
             <falscheAntwort1>blau</falscheAntwort1>
             <falscheAntwort2>gelb</falscheAntwort2>
             <falscheAntwort3>rot</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -2031,7 +2031,7 @@
             <falscheAntwort1>weiß</falscheAntwort1>
             <falscheAntwort2>schwarz</falscheAntwort2>
             <falscheAntwort3>blau</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2041,7 +2041,7 @@
             <falscheAntwort1>Büffel</falscheAntwort1>
             <falscheAntwort2>Esel</falscheAntwort2>
             <falscheAntwort3>Lamas</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2051,7 +2051,7 @@
             <falscheAntwort1>Hogan</falscheAntwort1>
             <falscheAntwort2>Wigwam</falscheAntwort2>
             <falscheAntwort3>Iglu</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2061,7 +2061,7 @@
             <falscheAntwort1>Sie schossen sie vergifteten Pfeilen ab.</falscheAntwort1>
             <falscheAntwort2>Sie hetzten ihre wilden Hunde auf die Bisons.</falscheAntwort2>
             <falscheAntwort3>Sie gruben tiefe Fallgruben und trieben die Bisons dort hinein.</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2071,7 +2071,7 @@
             <falscheAntwort1>Es gab immer nur einen Häuptling.</falscheAntwort1>
             <falscheAntwort2>12, für jeden Monat gab es einen anderen Häuptling</falscheAntwort2>
             <falscheAntwort3>4, für jede Jahreszeit gab es einen neuen Häuptling</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2081,7 +2081,7 @@
             <falscheAntwort1>Ja, sie brachten sie aus Asien mit.</falscheAntwort1>
             <falscheAntwort2>Ja, sie züchteten sie aus wilden Mustangs.</falscheAntwort2>
             <falscheAntwort3>Ja, denn in Nordamerika gab es schon immer große, zahme Pferdeherden.</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2091,7 +2091,7 @@
             <falscheAntwort1>getrockneter Baumharz</falscheAntwort1>
             <falscheAntwort2>gepresster Steppengrassaft</falscheAntwort2>
             <falscheAntwort3>kleingehackte Kastanien</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2101,7 +2101,7 @@
             <falscheAntwort1>ungefähr 75</falscheAntwort1>
             <falscheAntwort2>etwa 100</falscheAntwort2>
             <falscheAntwort3>10 - 40</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2111,7 +2111,7 @@
             <falscheAntwort1>das Land der Wilden</falscheAntwort1>
             <falscheAntwort2>das Paradies</falscheAntwort2>
             <falscheAntwort3>das Land der Büffel</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2121,7 +2121,7 @@
             <falscheAntwort1>Seltsame</falscheAntwort1>
             <falscheAntwort2>Stärkere</falscheAntwort2>
             <falscheAntwort3>Südländer</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2131,7 +2131,7 @@
             <falscheAntwort1>Rothäute</falscheAntwort1>
             <falscheAntwort2>Bjmüllen</falscheAntwort2>
             <falscheAntwort3>Wasabroeder</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2141,7 +2141,7 @@
             <falscheAntwort1>ja, allerdings wurden sie von den „Weißen“ nach Südamerika vertrieben</falscheAntwort1>
             <falscheAntwort2>ja</falscheAntwort2>
             <falscheAntwort3>nein, sie lebten auch in Afrika, wurden dort aber nie entdeckt</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2151,7 +2151,7 @@
             <falscheAntwort1>so nannten sich die Ureinwohner schon seit tausenden von Jahren</falscheAntwort1>
             <falscheAntwort2>europäische Wissenschaftler</falscheAntwort2>
             <falscheAntwort3>die Inder nannten sie so, weil sie ähnliche Sitten und Gebräuche hatten</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2161,7 +2161,7 @@
             <falscheAntwort1>ja, allerdings hatte sein Wachtmann im Aussichtsturm Amerika zuerst gesehen, durfte es aber niemandem sagen</falscheAntwort1>
             <falscheAntwort2>ja</falscheAntwort2>
             <falscheAntwort3>nein, zwei Jahre vorher entdeckte Pierre Brice Amerika, verunglückte aber auf der Rückreise</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2171,7 +2171,7 @@
             <falscheAntwort1>1592</falscheAntwort1>
             <falscheAntwort2>1392</falscheAntwort2>
             <falscheAntwort3>1692</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2181,7 +2181,7 @@
             <falscheAntwort1>Hernán Cortés</falscheAntwort1>
             <falscheAntwort2>Sir Francis Drake</falscheAntwort2>
             <falscheAntwort3>Leonardo da Vinci</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2191,7 +2191,7 @@
             <falscheAntwort1>Nordamerikastraße, eine vierspurige Straße wurde von den ersten Indianern gebaut</falscheAntwort1>
             <falscheAntwort2>Asienstraße, sie wurde von den Asiaten gebaut, versank aber bei einer großen Sturmflut</falscheAntwort2>
             <falscheAntwort3>Büffelstraße, die wilden Büffel zogen auf ihrer Wanderung nach saftigeren Weidegründen</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2201,7 +2201,7 @@
             <falscheAntwort1>Hernán Cortés</falscheAntwort1>
             <falscheAntwort2>Sir Francis Drake</falscheAntwort2>
             <falscheAntwort3>Leonardo da Vinci</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>

@@ -11,7 +11,7 @@
             <falscheAntwort1>biologische Naturstoffe der Erdkruste</falscheAntwort1>
             <falscheAntwort2>physikalische Naturstoffe der Erdkruste</falscheAntwort2>
             <falscheAntwort3>physische Naturstoffe der Erdkruste</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -21,7 +21,7 @@
             <falscheAntwort1>Glimmer - Muskuvit</falscheAntwort1>
             <falscheAntwort2>Quarz</falscheAntwort2>
             <falscheAntwort3>Feldspat</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -31,7 +31,7 @@
             <falscheAntwort1>Silzium</falscheAntwort1>
             <falscheAntwort2>Aluminium</falscheAntwort2>
             <falscheAntwort3>Eisen</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -41,7 +41,7 @@
             <falscheAntwort1>Gips kratzt Orthoklas</falscheAntwort1>
             <falscheAntwort2>Quarz kratzt Diamant</falscheAntwort2>
             <falscheAntwort3>Talk kratzt Fluorit</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -51,7 +51,7 @@
             <falscheAntwort1>Richterskala</falscheAntwort1>
             <falscheAntwort2>Fujita - Skala</falscheAntwort2>
             <falscheAntwort3>Saffir - Simpson - Skala</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -61,7 +61,7 @@
             <falscheAntwort1>Gänge</falscheAntwort1>
             <falscheAntwort2>Klüfte</falscheAntwort2>
             <falscheAntwort3>Schlote</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -71,7 +71,7 @@
             <falscheAntwort1>Quarz</falscheAntwort1>
             <falscheAntwort2>Glimmer</falscheAntwort2>
             <falscheAntwort3>Pyroxen / Amphibol</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -81,7 +81,7 @@
             <falscheAntwort1>Quarz</falscheAntwort1>
             <falscheAntwort2>Kalzit</falscheAntwort2>
             <falscheAntwort3>Topas</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -91,7 +91,7 @@
             <falscheAntwort1>flaschengrün</falscheAntwort1>
             <falscheAntwort2>schwarz - grünschwarz</falscheAntwort2>
             <falscheAntwort3>rötlich - gelblich - weiß</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -101,7 +101,7 @@
             <falscheAntwort1>Gesteine</falscheAntwort1>
             <falscheAntwort2>Erze</falscheAntwort2>
             <falscheAntwort3>Kristalle</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -111,7 +111,7 @@
             <falscheAntwort1>Erze</falscheAntwort1>
             <falscheAntwort2>Steinen</falscheAntwort2>
             <falscheAntwort3>Gemengteilen</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -121,7 +121,7 @@
             <falscheAntwort1>grün</falscheAntwort1>
             <falscheAntwort2>rot</falscheAntwort2>
             <falscheAntwort3>gelb</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -131,7 +131,7 @@
             <falscheAntwort1>Rubin</falscheAntwort1>
             <falscheAntwort2>Smaragd</falscheAntwort2>
             <falscheAntwort3>Granat</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -141,7 +141,7 @@
             <falscheAntwort1>Quarz</falscheAntwort1>
             <falscheAntwort2>Orthoklas</falscheAntwort2>
             <falscheAntwort3>Glimmer</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -151,7 +151,7 @@
             <falscheAntwort1>polymineralische Gesteine</falscheAntwort1>
             <falscheAntwort2>hypermineralische Gesteine</falscheAntwort2>
             <falscheAntwort3>pedromineralische Gesteine</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -161,7 +161,7 @@
             <falscheAntwort1>chemischen Lösungen</falscheAntwort1>
             <falscheAntwort2>Wasser</falscheAntwort2>
             <falscheAntwort3>toter Flora und Fauna</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -171,7 +171,7 @@
             <falscheAntwort1>saure Gesteine ohne Quarz</falscheAntwort1>
             <falscheAntwort2>intermediäre Gesteine</falscheAntwort2>
             <falscheAntwort3>Gesteine aus Glimmer u. Quarz</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -181,7 +181,7 @@
             <falscheAntwort1>Basalt</falscheAntwort1>
             <falscheAntwort2>Rhyolith</falscheAntwort2>
             <falscheAntwort3>Trachyt</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -191,7 +191,7 @@
             <falscheAntwort1>Umwandlungsgesteine</falscheAntwort1>
             <falscheAntwort2>Sedimentgesteine</falscheAntwort2>
             <falscheAntwort3>metamorphe Gesteine</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -201,7 +201,7 @@
             <falscheAntwort1>schwer</falscheAntwort1>
             <falscheAntwort2>dicht</falscheAntwort2>
             <falscheAntwort3>kieselsäurearm</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -211,7 +211,7 @@
             <falscheAntwort1>Gemenge aus Kristallen</falscheAntwort1>
             <falscheAntwort2>Gemenge aus Erzen</falscheAntwort2>
             <falscheAntwort3>Gemenge aus Edelsteinen</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -221,7 +221,7 @@
             <falscheAntwort1>Farbe</falscheAntwort1>
             <falscheAntwort2>Temperatur</falscheAntwort2>
             <falscheAntwort3>Aggregatzustand</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -231,7 +231,7 @@
             <falscheAntwort1>Feuersteine</falscheAntwort1>
             <falscheAntwort2>Wirtsgestein</falscheAntwort2>
             <falscheAntwort3>Metamorphite</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -241,7 +241,7 @@
             <falscheAntwort1>porphyrische Struktur</falscheAntwort1>
             <falscheAntwort2>zu große Kristalle</falscheAntwort2>
             <falscheAntwort3>keine Kristalle</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -251,7 +251,7 @@
             <falscheAntwort1>Gabbro</falscheAntwort1>
             <falscheAntwort2>Diorit</falscheAntwort2>
             <falscheAntwort3>Granit</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -261,7 +261,7 @@
             <falscheAntwort1>Abkühlung von Magma</falscheAntwort1>
             <falscheAntwort2>Umwandlung von Plutoniten</falscheAntwort2>
             <falscheAntwort3>Bildung eines Plutonits</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -271,7 +271,7 @@
             <falscheAntwort1>gut ausgebildete Kristalle</falscheAntwort1>
             <falscheAntwort2>ein körniges Gefüge</falscheAntwort2>
             <falscheAntwort3>eine porphyrische Struktur</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -281,7 +281,7 @@
             <falscheAntwort1>durch Umwandlung anderer Gesteine</falscheAntwort1>
             <falscheAntwort2>durch Einschmelzung</falscheAntwort2>
             <falscheAntwort3>durch Verwitterung</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -291,7 +291,7 @@
             <falscheAntwort1>biologische Prozessen</falscheAntwort1>
             <falscheAntwort2>chemischen Prozessen</falscheAntwort2>
             <falscheAntwort3>physikalischer Verwitterung</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -301,7 +301,7 @@
             <falscheAntwort1>Rhyolith</falscheAntwort1>
             <falscheAntwort2>Trachyt</falscheAntwort2>
             <falscheAntwort3>Andesit</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -311,7 +311,7 @@
             <falscheAntwort1>fest und flüssig</falscheAntwort1>
             <falscheAntwort2>dicht und locker</falscheAntwort2>
             <falscheAntwort3>basisch und sauer</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -321,7 +321,7 @@
             <falscheAntwort1>Restkristallisation</falscheAntwort1>
             <falscheAntwort2>Gesteinsschmelze ist zu Substanzarm</falscheAntwort2>
             <falscheAntwort3>Wasser an Gesteinsbildung beteiligt</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -331,7 +331,7 @@
             <falscheAntwort1>Bims</falscheAntwort1>
             <falscheAntwort2>vulkanische Gläser</falscheAntwort2>
             <falscheAntwort3>Tuffe</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -341,7 +341,7 @@
             <falscheAntwort1>ein Jahrzehnt</falscheAntwort1>
             <falscheAntwort2>Jahrhunderte</falscheAntwort2>
             <falscheAntwort3>Jahrtausende</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -351,7 +351,7 @@
             <falscheAntwort1>Porphyr</falscheAntwort1>
             <falscheAntwort2>Granit</falscheAntwort2>
             <falscheAntwort3>Gabbro</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -361,7 +361,7 @@
             <falscheAntwort1>Helgoland</falscheAntwort1>
             <falscheAntwort2>Sächsische Schweiz</falscheAntwort2>
             <falscheAntwort3>Rügen</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -371,7 +371,7 @@
             <falscheAntwort1>Brocken</falscheAntwort1>
             <falscheAntwort2>Kyffhäuser (Harz)</falscheAntwort2>
             <falscheAntwort3>Kap Arkona</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -381,7 +381,7 @@
             <falscheAntwort1>Quarz, Feldspat, Olivin</falscheAntwort1>
             <falscheAntwort2>Quarz, Feldspat, Hornblende</falscheAntwort2>
             <falscheAntwort3>Quarz, Feldspatvertreter, Glimmer</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -391,7 +391,7 @@
             <falscheAntwort1>Schotter</falscheAntwort1>
             <falscheAntwort2>Baumaterial</falscheAntwort2>
             <falscheAntwort3>zu hochwertigen Werkstoff geschmolzen</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -401,7 +401,7 @@
             <falscheAntwort1>Ruhrgebiet</falscheAntwort1>
             <falscheAntwort2>Alpenvorland</falscheAntwort2>
             <falscheAntwort3>Mecklenburgische Seenplatte</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -411,7 +411,7 @@
             <falscheAntwort1>Kochsalzlösung</falscheAntwort1>
             <falscheAntwort2>Wasser</falscheAntwort2>
             <falscheAntwort3>Chlorkohlenwasserstoff</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -421,7 +421,7 @@
             <falscheAntwort1>Grundmasse mit Einsprenglinge</falscheAntwort1>
             <falscheAntwort2>grobkristallines Gefüge</falscheAntwort2>
             <falscheAntwort3>Schieferung</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -431,7 +431,7 @@
             <falscheAntwort1>Skeletteilchen</falscheAntwort1>
             <falscheAntwort2>Schieferung</falscheAntwort2>
             <falscheAntwort3>Schichtung</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -441,7 +441,7 @@
             <falscheAntwort1>Porphyr</falscheAntwort1>
             <falscheAntwort2>Granit</falscheAntwort2>
             <falscheAntwort3>Gneis</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -451,7 +451,7 @@
             <falscheAntwort1>Andesit</falscheAntwort1>
             <falscheAntwort2>Schiefer</falscheAntwort2>
             <falscheAntwort3>Gabbro</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -461,7 +461,7 @@
             <falscheAntwort1>Diorit</falscheAntwort1>
             <falscheAntwort2>Syerit</falscheAntwort2>
             <falscheAntwort3>Gabbro</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -471,7 +471,7 @@
             <falscheAntwort1>an den Polen</falscheAntwort1>
             <falscheAntwort2>in Hochgebirgsregionen</falscheAntwort2>
             <falscheAntwort3>in humiden Gebieten</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -481,7 +481,7 @@
             <falscheAntwort1>hydrologische</falscheAntwort1>
             <falscheAntwort2>pedrographische</falscheAntwort2>
             <falscheAntwort3>geographische</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -491,7 +491,7 @@
             <falscheAntwort1>in der Lithosphäre</falscheAntwort1>
             <falscheAntwort2>in der Asthenosphäre</falscheAntwort2>
             <falscheAntwort3>in der Hydrosphäre</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -501,7 +501,7 @@
             <falscheAntwort1>Kohle</falscheAntwort1>
             <falscheAntwort2>Torf</falscheAntwort2>
             <falscheAntwort3>Graphit</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -511,7 +511,7 @@
             <falscheAntwort1>schichtiger Aufbau</falscheAntwort1>
             <falscheAntwort2>Fossilien bzw. deren Abdrücke</falscheAntwort2>
             <falscheAntwort3>Gesteinsstücke</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -521,7 +521,7 @@
             <falscheAntwort1>gelb</falscheAntwort1>
             <falscheAntwort2>braun</falscheAntwort2>
             <falscheAntwort3>weiß</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -531,7 +531,7 @@
             <falscheAntwort1>Deutschland</falscheAntwort1>
             <falscheAntwort2>Norwegen</falscheAntwort2>
             <falscheAntwort3>Island</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -541,7 +541,7 @@
             <falscheAntwort1>Dolomit</falscheAntwort1>
             <falscheAntwort2>Gips</falscheAntwort2>
             <falscheAntwort3>Steinsalz</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -551,7 +551,7 @@
             <falscheAntwort1>Transport von Lockersedimenten</falscheAntwort1>
             <falscheAntwort2>Aufschmelzung von Gesteinen</falscheAntwort2>
             <falscheAntwort3>Kristallbildung</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -561,7 +561,7 @@
             <falscheAntwort1>Schleif- und Mühlstein</falscheAntwort1>
             <falscheAntwort2>Bildhauerstein</falscheAntwort2>
             <falscheAntwort3>Werkstein</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -571,7 +571,7 @@
             <falscheAntwort1>Frostverwitterung</falscheAntwort1>
             <falscheAntwort2>Salzsprengung</falscheAntwort2>
             <falscheAntwort3>Temperaturverwitterung</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -581,7 +581,7 @@
             <falscheAntwort1>Wasser</falscheAntwort1>
             <falscheAntwort2>Wind</falscheAntwort2>
             <falscheAntwort3>Eis und Schmelzwasser</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -591,7 +591,7 @@
             <falscheAntwort1>nach der Farbe</falscheAntwort1>
             <falscheAntwort2>nach dem Gefüge</falscheAntwort2>
             <falscheAntwort3>nach dem Geruch</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -601,7 +601,7 @@
             <falscheAntwort1>Schotter</falscheAntwort1>
             <falscheAntwort2>Sand</falscheAntwort2>
             <falscheAntwort3>Schlamm</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -611,7 +611,7 @@
             <falscheAntwort1>Glas</falscheAntwort1>
             <falscheAntwort2>Baumaterial</falscheAntwort2>
             <falscheAntwort3>Keramik</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -621,7 +621,7 @@
             <falscheAntwort1>Helgoland</falscheAntwort1>
             <falscheAntwort2>Elbsandsteingebirge</falscheAntwort2>
             <falscheAntwort3>Schwarzwald</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -631,7 +631,7 @@
             <falscheAntwort1>Zerfall der Gesteine</falscheAntwort1>
             <falscheAntwort2>Auflösung der Gesteine</falscheAntwort2>
             <falscheAntwort3>Verdichtung von Humus</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -641,7 +641,7 @@
             <falscheAntwort1>Abfällen von Menschen</falscheAntwort1>
             <falscheAntwort2>umgewandelten Magmatiten</falscheAntwort2>
             <falscheAntwort3>verwitterten Sedimentiten</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -651,7 +651,7 @@
             <falscheAntwort1>Festgestein</falscheAntwort1>
             <falscheAntwort2>Konglomerat</falscheAntwort2>
             <falscheAntwort3>rotes, mineralisches Material</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -661,7 +661,7 @@
             <falscheAntwort1>Farbe</falscheAntwort1>
             <falscheAntwort2>Mineralbestand</falscheAntwort2>
             <falscheAntwort3>Zusammensetzung</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -671,7 +671,7 @@
             <falscheAntwort1>Raum Weser, Aller, Elbe</falscheAntwort1>
             <falscheAntwort2>Erfurt</falscheAntwort2>
             <falscheAntwort3>Halle</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -681,7 +681,7 @@
             <falscheAntwort1>Kunststoffe</falscheAntwort1>
             <falscheAntwort2>Arzneimittel</falscheAntwort2>
             <falscheAntwort3>Kosmetika</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -691,7 +691,7 @@
             <falscheAntwort1>Braunkohle</falscheAntwort1>
             <falscheAntwort2>Magerkohle</falscheAntwort2>
             <falscheAntwort3>Steinkohle</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -701,7 +701,7 @@
             <falscheAntwort1>Rheinisch-westfälische Revier</falscheAntwort1>
             <falscheAntwort2>Zwickauer Revier</falscheAntwort2>
             <falscheAntwort3>Ostsee</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -711,7 +711,7 @@
             <falscheAntwort1>Benzin</falscheAntwort1>
             <falscheAntwort2>Schmier- und Heizöl</falscheAntwort2>
             <falscheAntwort3>Vaseline</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -721,7 +721,7 @@
             <falscheAntwort1>Bestandteil von Tischplatten</falscheAntwort1>
             <falscheAntwort2>Bestandteil von Lampenschalen</falscheAntwort2>
             <falscheAntwort3>Düngemittel</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -731,7 +731,7 @@
             <falscheAntwort1>im Monument Valley (USA)</falscheAntwort1>
             <falscheAntwort2>im Elbsandsteingebirge</falscheAntwort2>
             <falscheAntwort3>im Glen Canyon (USA)</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -741,7 +741,7 @@
             <falscheAntwort1>im Hochgebirge</falscheAntwort1>
             <falscheAntwort2>im Flusslauf</falscheAntwort2>
             <falscheAntwort3>im Delta</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -751,7 +751,7 @@
             <falscheAntwort1>Zement</falscheAntwort1>
             <falscheAntwort2>Farbe</falscheAntwort2>
             <falscheAntwort3>Ziegelton</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -761,7 +761,7 @@
             <falscheAntwort1>an der Erdoberfläche</falscheAntwort1>
             <falscheAntwort2>in der Epizone</falscheAntwort2>
             <falscheAntwort3>in der Mesozone</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -771,7 +771,7 @@
             <falscheAntwort1>wegen dem Gefüge</falscheAntwort1>
             <falscheAntwort2>wegen der Härte</falscheAntwort2>
             <falscheAntwort3>wegen den Kristallen</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -781,7 +781,7 @@
             <falscheAntwort1>Plutonite</falscheAntwort1>
             <falscheAntwort2>Ganggesteine</falscheAntwort2>
             <falscheAntwort3>Feuersteine</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -791,7 +791,7 @@
             <falscheAntwort1>Inkohlung</falscheAntwort1>
             <falscheAntwort2>Regionalmetamorphose</falscheAntwort2>
             <falscheAntwort3>Kontaktmetamorphose</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -801,7 +801,7 @@
             <falscheAntwort1>Lösung der Gesteine</falscheAntwort1>
             <falscheAntwort2>Vernichtung des Gesteins</falscheAntwort2>
             <falscheAntwort3>Porosität</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -811,7 +811,7 @@
             <falscheAntwort1>einer Schichtung.</falscheAntwort1>
             <falscheAntwort2>einer Grundmasse mit Einsprenglinge</falscheAntwort2>
             <falscheAntwort3>von Fossilien</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -821,7 +821,7 @@
             <falscheAntwort1>Diagenese</falscheAntwort1>
             <falscheAntwort2>Inkohlung</falscheAntwort2>
             <falscheAntwort3>Akkumulation</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -831,7 +831,7 @@
             <falscheAntwort1>Granit</falscheAntwort1>
             <falscheAntwort2>Mergel</falscheAntwort2>
             <falscheAntwort3>Sandstein</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -841,7 +841,7 @@
             <falscheAntwort1>basische Gesteine</falscheAntwort1>
             <falscheAntwort2>besonders harte Gesteine</falscheAntwort2>
             <falscheAntwort3>Ganggesteine</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -851,7 +851,7 @@
             <falscheAntwort1>Österreich</falscheAntwort1>
             <falscheAntwort2>Deutschland</falscheAntwort2>
             <falscheAntwort3>Norwegen</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -861,7 +861,7 @@
             <falscheAntwort1>in den Zentralalpen</falscheAntwort1>
             <falscheAntwort2>im Südwesten des Erzgebirges</falscheAntwort2>
             <falscheAntwort3>im Thüringer Wald</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -871,7 +871,7 @@
             <falscheAntwort1>Granit</falscheAntwort1>
             <falscheAntwort2>Ton</falscheAntwort2>
             <falscheAntwort3>Arkose</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -881,7 +881,7 @@
             <falscheAntwort1>Metamorphit aus Sedimentiten</falscheAntwort1>
             <falscheAntwort2>Metamorphit aus Metamorphiten</falscheAntwort2>
             <falscheAntwort3>Metamorphit aus vulkanischer Asche</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -891,7 +891,7 @@
             <falscheAntwort1>Erstarrungsgesteine</falscheAntwort1>
             <falscheAntwort2>Trümmergesteine</falscheAntwort2>
             <falscheAntwort3>Festgestein</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>

@@ -11,7 +11,7 @@
             <falscheAntwort1>Brocken</falscheAntwort1>
             <falscheAntwort2>Schneekoppe</falscheAntwort2>
             <falscheAntwort3>Feldberg</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -21,7 +21,7 @@
             <falscheAntwort1>Harz</falscheAntwort1>
             <falscheAntwort2>Schwarzwald</falscheAntwort2>
             <falscheAntwort3>Riesengebirge</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -31,7 +31,7 @@
             <falscheAntwort1>Schwäbische Alb</falscheAntwort1>
             <falscheAntwort2>Vogesen</falscheAntwort2>
             <falscheAntwort3>Pfälzer Wald</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -41,7 +41,7 @@
             <falscheAntwort1>Chiemsee</falscheAntwort1>
             <falscheAntwort2>Starnberger See</falscheAntwort2>
             <falscheAntwort3>Steinhuder Meer</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -51,7 +51,7 @@
             <falscheAntwort1>Allgäuer Alpen</falscheAntwort1>
             <falscheAntwort2>Salzburger Alpen</falscheAntwort2>
             <falscheAntwort3>Lechtaler Alpen</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -61,7 +61,7 @@
             <falscheAntwort1>Feldberg</falscheAntwort1>
             <falscheAntwort2>Schneeberg</falscheAntwort2>
             <falscheAntwort3>Wasserkuppe</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -71,7 +71,7 @@
             <falscheAntwort1>Vogelsberg</falscheAntwort1>
             <falscheAntwort2>Steigerwald</falscheAntwort2>
             <falscheAntwort3>Frankenwald</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -81,7 +81,7 @@
             <falscheAntwort1>Fränkische Alb</falscheAntwort1>
             <falscheAntwort2>Fichtelgebirge</falscheAntwort2>
             <falscheAntwort3>Erzgebirge</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -91,7 +91,7 @@
             <falscheAntwort1>Böhmerwald</falscheAntwort1>
             <falscheAntwort2>Fichtelgebirge</falscheAntwort2>
             <falscheAntwort3>Frankenwald</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -101,7 +101,7 @@
             <falscheAntwort1>Vogesen</falscheAntwort1>
             <falscheAntwort2>Schwäbische Alb</falscheAntwort2>
             <falscheAntwort3>Odenwald</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -111,7 +111,7 @@
             <falscheAntwort1>2863</falscheAntwort1>
             <falscheAntwort2>2763</falscheAntwort2>
             <falscheAntwort3>2663</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -121,7 +121,7 @@
             <falscheAntwort1>südlich</falscheAntwort1>
             <falscheAntwort2>östlich</falscheAntwort2>
             <falscheAntwort3>westlich</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -131,7 +131,7 @@
             <falscheAntwort1>Weser</falscheAntwort1>
             <falscheAntwort2>Oder</falscheAntwort2>
             <falscheAntwort3>Aller</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -141,7 +141,7 @@
             <falscheAntwort1>Oste</falscheAntwort1>
             <falscheAntwort2>Havel</falscheAntwort2>
             <falscheAntwort3>Elde</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -151,7 +151,7 @@
             <falscheAntwort1>Maas</falscheAntwort1>
             <falscheAntwort2>Marne</falscheAntwort2>
             <falscheAntwort3>Main</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -161,7 +161,7 @@
             <falscheAntwort1>Freiburg</falscheAntwort1>
             <falscheAntwort2>Frankfurt</falscheAntwort2>
             <falscheAntwort3>Wiesbaden</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -171,7 +171,7 @@
             <falscheAntwort1>Baden-Württemberg</falscheAntwort1>
             <falscheAntwort2>Hessen</falscheAntwort2>
             <falscheAntwort3>Rheinland-Pfalz</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -181,7 +181,7 @@
             <falscheAntwort1>Frankenwald</falscheAntwort1>
             <falscheAntwort2>Erzgebirge</falscheAntwort2>
             <falscheAntwort3>Oberpfälzer Wald</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -191,7 +191,7 @@
             <falscheAntwort1>Rhein</falscheAntwort1>
             <falscheAntwort2>Donau</falscheAntwort2>
             <falscheAntwort3>Main</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -201,7 +201,7 @@
             <falscheAntwort1>Baden-Württemberg</falscheAntwort1>
             <falscheAntwort2>Nordrhein-Westfalen</falscheAntwort2>
             <falscheAntwort3>Mecklenburg-Vorpommern</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -211,7 +211,7 @@
             <falscheAntwort1>Saarland</falscheAntwort1>
             <falscheAntwort2>Nordrhein-Westfalen</falscheAntwort2>
             <falscheAntwort3>Baden-Württemberg</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -221,7 +221,7 @@
             <falscheAntwort1>Mosella</falscheAntwort1>
             <falscheAntwort2>Ahrweiler</falscheAntwort2>
             <falscheAntwort3>Bingen</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -231,7 +231,7 @@
             <falscheAntwort1>München</falscheAntwort1>
             <falscheAntwort2>Kassel</falscheAntwort2>
             <falscheAntwort3>Friedrichshafen</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -241,7 +241,7 @@
             <falscheAntwort1>Sachsen</falscheAntwort1>
             <falscheAntwort2>Sachsen-Anhalt</falscheAntwort2>
             <falscheAntwort3>Hamburg</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -251,7 +251,7 @@
             <falscheAntwort1>Heidelberg</falscheAntwort1>
             <falscheAntwort2>Ludwigshafen</falscheAntwort2>
             <falscheAntwort3>Worms</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -261,7 +261,7 @@
             <falscheAntwort1>Ernstberg</falscheAntwort1>
             <falscheAntwort2>Nürburgring</falscheAntwort2>
             <falscheAntwort3>Kyll</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -271,7 +271,7 @@
             <falscheAntwort1>Frankfurt</falscheAntwort1>
             <falscheAntwort2>Kassel</falscheAntwort2>
             <falscheAntwort3>Darmstadt</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -281,7 +281,7 @@
             <falscheAntwort1>Mecklenburg-Vorpommern</falscheAntwort1>
             <falscheAntwort2>Thüringen</falscheAntwort2>
             <falscheAntwort3>Sachsen</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -291,7 +291,7 @@
             <falscheAntwort1>Brandenburg</falscheAntwort1>
             <falscheAntwort2>Mecklenburg-Vorpommern</falscheAntwort2>
             <falscheAntwort3>Schleswig-Holstein</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -301,7 +301,7 @@
             <falscheAntwort1>Werra und Fulda</falscheAntwort1>
             <falscheAntwort2>Altmühl und Lech</falscheAntwort2>
             <falscheAntwort3>Havel und Spree</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -311,7 +311,7 @@
             <falscheAntwort1>Bayern</falscheAntwort1>
             <falscheAntwort2>Brandenburg</falscheAntwort2>
             <falscheAntwort3>Niedersachsen</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -321,7 +321,7 @@
             <falscheAntwort1>Elbe</falscheAntwort1>
             <falscheAntwort2>Rhein</falscheAntwort2>
             <falscheAntwort3>Main</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -331,7 +331,7 @@
             <falscheAntwort1>Nordrhein-Westfalen</falscheAntwort1>
             <falscheAntwort2>Niedersachsen</falscheAntwort2>
             <falscheAntwort3>Hessen</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -341,7 +341,7 @@
             <falscheAntwort1>Leipzig</falscheAntwort1>
             <falscheAntwort2>Erfurt</falscheAntwort2>
             <falscheAntwort3>Chemnitz</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -351,7 +351,7 @@
             <falscheAntwort1>Hamburg</falscheAntwort1>
             <falscheAntwort2>Frankfurt</falscheAntwort2>
             <falscheAntwort3>München</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -361,7 +361,7 @@
             <falscheAntwort1>Schwerin</falscheAntwort1>
             <falscheAntwort2>Halle</falscheAntwort2>
             <falscheAntwort3>Bautzen</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -371,7 +371,7 @@
             <falscheAntwort1>Sachsen-Anhalt</falscheAntwort1>
             <falscheAntwort2>Bremen</falscheAntwort2>
             <falscheAntwort3>Thüringen</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -381,7 +381,7 @@
             <falscheAntwort1>Weser</falscheAntwort1>
             <falscheAntwort2>Ems</falscheAntwort2>
             <falscheAntwort3>Saale</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -391,7 +391,7 @@
             <falscheAntwort1>10</falscheAntwort1>
             <falscheAntwort2>8</falscheAntwort2>
             <falscheAntwort3>11</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -401,7 +401,7 @@
             <falscheAntwort1>Bonn</falscheAntwort1>
             <falscheAntwort2>Frankfurt</falscheAntwort2>
             <falscheAntwort3>München</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -411,7 +411,7 @@
             <falscheAntwort1>Saarbrücken</falscheAntwort1>
             <falscheAntwort2>Magdeburg</falscheAntwort2>
             <falscheAntwort3>Potsdam</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -421,7 +421,7 @@
             <falscheAntwort1>Flensburg</falscheAntwort1>
             <falscheAntwort2>Schwerin</falscheAntwort2>
             <falscheAntwort3>Schleswig</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -431,7 +431,7 @@
             <falscheAntwort1>Mecklenburg-Vorpommern</falscheAntwort1>
             <falscheAntwort2>Hamburg</falscheAntwort2>
             <falscheAntwort3>Bremen</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -441,7 +441,7 @@
             <falscheAntwort1>Elde</falscheAntwort1>
             <falscheAntwort2>Spree</falscheAntwort2>
             <falscheAntwort3>Havel</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -451,7 +451,7 @@
             <falscheAntwort1>Eder</falscheAntwort1>
             <falscheAntwort2>Aller</falscheAntwort2>
             <falscheAntwort3>Leine</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -461,7 +461,7 @@
             <falscheAntwort1>15</falscheAntwort1>
             <falscheAntwort2>17</falscheAntwort2>
             <falscheAntwort3>14</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -471,7 +471,7 @@
             <falscheAntwort1>Deutschland</falscheAntwort1>
             <falscheAntwort2>Schweiz</falscheAntwort2>
             <falscheAntwort3>Österreich</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -481,7 +481,7 @@
             <falscheAntwort1>Weimar</falscheAntwort1>
             <falscheAntwort2>Gotha</falscheAntwort2>
             <falscheAntwort3>Gera</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -491,7 +491,7 @@
             <falscheAntwort1>Cuxhaven</falscheAntwort1>
             <falscheAntwort2>Bremerhaven</falscheAntwort2>
             <falscheAntwort3>Wilhelmshaven</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -501,7 +501,7 @@
             <falscheAntwort1>Juist</falscheAntwort1>
             <falscheAntwort2>Borkum</falscheAntwort2>
             <falscheAntwort3>Norderney</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -511,7 +511,7 @@
             <falscheAntwort1>Dortmund</falscheAntwort1>
             <falscheAntwort2>Köln</falscheAntwort2>
             <falscheAntwort3>Bonn</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -521,7 +521,7 @@
             <falscheAntwort1>Usedom</falscheAntwort1>
             <falscheAntwort2>Hiddensee</falscheAntwort2>
             <falscheAntwort3>Fehmarn</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -531,7 +531,7 @@
             <falscheAntwort1>Hamburg an der Elbe</falscheAntwort1>
             <falscheAntwort2>Hannover an der Leine</falscheAntwort2>
             <falscheAntwort3>Stuttgart am Neckar</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -541,7 +541,7 @@
             <falscheAntwort1>Osnabrück</falscheAntwort1>
             <falscheAntwort2>Braunschweig</falscheAntwort2>
             <falscheAntwort3>Bremen</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>

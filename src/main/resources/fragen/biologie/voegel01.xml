@@ -11,7 +11,7 @@
             <falscheAntwort1>am Boden unter einer Hecke</falscheAntwort1>
             <falscheAntwort2>in Sumpfgebieten</falscheAntwort2>
             <falscheAntwort3>neben dem Komposthaufen</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -21,7 +21,7 @@
             <falscheAntwort1>aus dem Nest werfen</falscheAntwort1>
             <falscheAntwort2>Pflegedienst</falscheAntwort2>
             <falscheAntwort3>Brutdienst</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -31,7 +31,7 @@
             <falscheAntwort1>Stubenhocker</falscheAntwort1>
             <falscheAntwort2>Nesttiger</falscheAntwort2>
             <falscheAntwort3>Nestflüchter</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -41,7 +41,7 @@
             <falscheAntwort1>flugreif</falscheAntwort1>
             <falscheAntwort2>selbständig</falscheAntwort2>
             <falscheAntwort3>erwachsen</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -51,7 +51,7 @@
             <falscheAntwort1>Winterling</falscheAntwort1>
             <falscheAntwort2>Aussteiger</falscheAntwort2>
             <falscheAntwort3>Wintervogel</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -61,7 +61,7 @@
             <falscheAntwort1>Dauergast</falscheAntwort1>
             <falscheAntwort2>Jahresvogel</falscheAntwort2>
             <falscheAntwort3>Gastvogel</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -71,7 +71,7 @@
             <falscheAntwort1>Sonnenblumenkerne</falscheAntwort1>
             <falscheAntwort2>Salatblätter</falscheAntwort2>
             <falscheAntwort3>Kompostabfälle</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -81,7 +81,7 @@
             <falscheAntwort1>braun</falscheAntwort1>
             <falscheAntwort2>grün gesprenkelt</falscheAntwort2>
             <falscheAntwort3>schwarz-weiß</falscheAntwort3>
-            <schwierikeit>14</schwierikeit>
+            <schwierigkeit>14</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -91,7 +91,7 @@
             <falscheAntwort1>Amsel</falscheAntwort1>
             <falscheAntwort2>Kanarienvogel</falscheAntwort2>
             <falscheAntwort3>Meise</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -101,7 +101,7 @@
             <falscheAntwort1>gestreifter Lehmling</falscheAntwort1>
             <falscheAntwort2>Lemminge</falscheAntwort2>
             <falscheAntwort3>Bachstelze</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -111,7 +111,7 @@
             <falscheAntwort1>Bodenbauer</falscheAntwort1>
             <falscheAntwort2>Bodenvogel</falscheAntwort2>
             <falscheAntwort3>Brütvogel</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -121,7 +121,7 @@
             <falscheAntwort1>Kanarienvogel</falscheAntwort1>
             <falscheAntwort2>Diebische Elster</falscheAntwort2>
             <falscheAntwort3>Falke</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -131,7 +131,7 @@
             <falscheAntwort1>Nahrung</falscheAntwort1>
             <falscheAntwort2>Wildnis</falscheAntwort2>
             <falscheAntwort3>Lehmpfützen</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -141,7 +141,7 @@
             <falscheAntwort1>Meerschweinchen</falscheAntwort1>
             <falscheAntwort2>Hund</falscheAntwort2>
             <falscheAntwort3>Regenwurm</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -151,7 +151,7 @@
             <falscheAntwort1>Kuhställe</falscheAntwort1>
             <falscheAntwort2>Hecken</falscheAntwort2>
             <falscheAntwort3>Baumwipfeln</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -161,7 +161,7 @@
             <falscheAntwort1>um darin zu schlafen</falscheAntwort1>
             <falscheAntwort2>um sich zu verstecken</falscheAntwort2>
             <falscheAntwort3>um sich vor Regen zu schützen</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -171,7 +171,7 @@
             <falscheAntwort1>Amsel</falscheAntwort1>
             <falscheAntwort2>Star</falscheAntwort2>
             <falscheAntwort3>Rotkehlchen</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -181,7 +181,7 @@
             <falscheAntwort1>Spatz</falscheAntwort1>
             <falscheAntwort2>Meise</falscheAntwort2>
             <falscheAntwort3>Buchfink</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -191,7 +191,7 @@
             <falscheAntwort1>gar nicht</falscheAntwort1>
             <falscheAntwort2>auf dem Bauch</falscheAntwort2>
             <falscheAntwort3>hängend mit dem Kopf nach unten</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -201,7 +201,7 @@
             <falscheAntwort1>jeder macht was er will</falscheAntwort1>
             <falscheAntwort2>sie fliegen in den Süden</falscheAntwort2>
             <falscheAntwort3>sie bleiben zusammen und brüten nochmal</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>

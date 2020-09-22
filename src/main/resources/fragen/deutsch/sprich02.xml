@@ -11,7 +11,7 @@
             <falscheAntwort1>wird später Grubengräber.</falscheAntwort1>
             <falscheAntwort2>hat sonst keine Arbeit.</falscheAntwort2>
             <falscheAntwort3>bekommt Blasen an den Händen.</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -21,7 +21,7 @@
             <falscheAntwort1>so kommt es zurück.</falscheAntwort1>
             <falscheAntwort2>so hört man das Echo.</falscheAntwort2>
             <falscheAntwort3>so ruft es zurück.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -31,7 +31,7 @@
             <falscheAntwort1>immer anderen zu.</falscheAntwort1>
             <falscheAntwort2>deinem Nachbarn zu.</falscheAntwort2>
             <falscheAntwort3>niemals jemanden zu.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -41,7 +41,7 @@
             <falscheAntwort1>kommt selten allein.</falscheAntwort1>
             <falscheAntwort2>macht noch keinen Schwarm.</falscheAntwort2>
             <falscheAntwort3>fliegt gerne allein.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -51,7 +51,7 @@
             <falscheAntwort1>den küsst man nicht.</falscheAntwort1>
             <falscheAntwort2>der lügt auch zweimal.</falscheAntwort2>
             <falscheAntwort3>den mag man nicht.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -61,7 +61,7 @@
             <falscheAntwort1>das Eis.</falscheAntwort1>
             <falscheAntwort2>den Fels.</falscheAntwort2>
             <falscheAntwort3>den Kopf.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -71,7 +71,7 @@
             <falscheAntwort1>ist nicht so schlimm.</falscheAntwort1>
             <falscheAntwort2>wirft keinen um.</falscheAntwort2>
             <falscheAntwort3>sieht niemand voraus.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -81,7 +81,7 @@
             <falscheAntwort1>versalzen die Suppe.</falscheAntwort1>
             <falscheAntwort2>streiten sich immer.</falscheAntwort2>
             <falscheAntwort3>stehen sich im Weg.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -91,7 +91,7 @@
             <falscheAntwort1>muss ihn bezahlen.</falscheAntwort1>
             <falscheAntwort2>ärgert sich.</falscheAntwort2>
             <falscheAntwort3>meldet ihn der Versicherung.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -101,7 +101,7 @@
             <falscheAntwort1>genießen.</falscheAntwort1>
             <falscheAntwort2>sportlich beginnen.</falscheAntwort2>
             <falscheAntwort3>nicht verschlafen.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -111,7 +111,7 @@
             <falscheAntwort1>sind langweilig.</falscheAntwort1>
             <falscheAntwort2>sind ungefährlich.</falscheAntwort2>
             <falscheAntwort3>sind schmutzig.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -121,7 +121,7 @@
             <falscheAntwort1>vor lauter Nebel nicht.</falscheAntwort1>
             <falscheAntwort2>vor lauter Regen nicht.</falscheAntwort2>
             <falscheAntwort3>schon aus der Ferne.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -131,7 +131,7 @@
             <falscheAntwort1>hängt am Baum.</falscheAntwort1>
             <falscheAntwort2>ist gesund.</falscheAntwort2>
             <falscheAntwort3>fällt vom Ast.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -141,7 +141,7 @@
             <falscheAntwort1>so die Kinder.</falscheAntwort1>
             <falscheAntwort2>so die Eltern.</falscheAntwort2>
             <falscheAntwort3>so die Mutter.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -151,7 +151,7 @@
             <falscheAntwort1>sieht er neue Länder.</falscheAntwort1>
             <falscheAntwort2>hat er Urlaub.</falscheAntwort2>
             <falscheAntwort3>kommt er gerne wieder nach Hause.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -161,7 +161,7 @@
             <falscheAntwort1>freut sich der Anwalt.</falscheAntwort1>
             <falscheAntwort2>muss jemand den Streit schlichten.</falscheAntwort2>
             <falscheAntwort3>kommt die Polizeit.</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -171,7 +171,7 @@
             <falscheAntwort1>staubt es.</falscheAntwort1>
             <falscheAntwort2>ist es laut.</falscheAntwort2>
             <falscheAntwort3>arbeitet der Schreiner.</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -181,7 +181,7 @@
             <falscheAntwort1>vergeht viel zu langsam.</falscheAntwort1>
             <falscheAntwort2>ist knapp.</falscheAntwort2>
             <falscheAntwort3>läuft davon.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -191,7 +191,7 @@
             <falscheAntwort1>deinen Schuhen.</falscheAntwort1>
             <falscheAntwort2>deiner Arbeit.</falscheAntwort2>
             <falscheAntwort3>deinen Freunden.</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -201,7 +201,7 @@
             <falscheAntwort1>muss zum Arzt gehen.</falscheAntwort1>
             <falscheAntwort2>wird geschimpft.</falscheAntwort2>
             <falscheAntwort3>braucht kein Hörgerät.</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -211,7 +211,7 @@
             <falscheAntwort1>schaut man in die Augen.</falscheAntwort1>
             <falscheAntwort2>läuft man nicht nach.</falscheAntwort2>
             <falscheAntwort3>kann man nicht trauen.</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -221,7 +221,7 @@
             <falscheAntwort1>kann man kochen.</falscheAntwort1>
             <falscheAntwort2>fängt man Fliegen.</falscheAntwort2>
             <falscheAntwort3>verfeinert man das Essen.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -231,7 +231,7 @@
             <falscheAntwort1>hat etwas verloren.</falscheAntwort1>
             <falscheAntwort2>braucht gute Augen.</falscheAntwort2>
             <falscheAntwort3>muss besser aufpassen.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -241,7 +241,7 @@
             <falscheAntwort1>schreiben ist Gold.</falscheAntwort1>
             <falscheAntwort2>lachen ist Gold.</falscheAntwort2>
             <falscheAntwort3>schweigen ist Geld.</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -251,7 +251,7 @@
             <falscheAntwort1>falsch</falscheAntwort1>
             <falscheAntwort2>falsch</falscheAntwort2>
             <falscheAntwort3>falsch</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>

@@ -11,7 +11,7 @@
             <falscheAntwort1>9 Monate</falscheAntwort1>
             <falscheAntwort2>2 Monate</falscheAntwort2>
             <falscheAntwort3>4 Monate</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -21,7 +21,7 @@
             <falscheAntwort1>6</falscheAntwort1>
             <falscheAntwort2>5</falscheAntwort2>
             <falscheAntwort3>3</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -31,7 +31,7 @@
             <falscheAntwort1>Englischer Garten</falscheAntwort1>
             <falscheAntwort2>Pferdepark</falscheAntwort2>
             <falscheAntwort3>Berliner Garten</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -41,7 +41,7 @@
             <falscheAntwort1>Tremel</falscheAntwort1>
             <falscheAntwort2>Trosse</falscheAntwort2>
             <falscheAntwort3>Tragge</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -51,7 +51,7 @@
             <falscheAntwort1>Galopp</falscheAntwort1>
             <falscheAntwort2>Trab</falscheAntwort2>
             <falscheAntwort3>Spurt</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -61,7 +61,7 @@
             <falscheAntwort1>Trimmung</falscheAntwort1>
             <falscheAntwort2>Klärung</falscheAntwort2>
             <falscheAntwort3>Trauung</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -71,7 +71,7 @@
             <falscheAntwort1>Pferbra</falscheAntwort1>
             <falscheAntwort2>Zeppo</falscheAntwort2>
             <falscheAntwort3>Zerd</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -81,7 +81,7 @@
             <falscheAntwort1>Gepferd</falscheAntwort1>
             <falscheAntwort2>Pferdehof</falscheAntwort2>
             <falscheAntwort3>Hengstfarm</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -91,7 +91,7 @@
             <falscheAntwort1>Tüpfelschecken</falscheAntwort1>
             <falscheAntwort2>Sternchenschecken</falscheAntwort2>
             <falscheAntwort3>Mosaikschecken</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -101,7 +101,7 @@
             <falscheAntwort1>Nordrhein - Westfalen</falscheAntwort1>
             <falscheAntwort2>Sachsen</falscheAntwort2>
             <falscheAntwort3>Schleswig - Holstein</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -111,7 +111,7 @@
             <falscheAntwort1>Pürree</falscheAntwort1>
             <falscheAntwort2>Pediküre</falscheAntwort2>
             <falscheAntwort3>Pedell</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -121,7 +121,7 @@
             <falscheAntwort1>Gecke</falscheAntwort1>
             <falscheAntwort2>Flecke</falscheAntwort2>
             <falscheAntwort3>Recke</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -131,7 +131,7 @@
             <falscheAntwort1>Trapez</falscheAntwort1>
             <falscheAntwort2>Turban</falscheAntwort2>
             <falscheAntwort3>Tornado</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -141,7 +141,7 @@
             <falscheAntwort1>10%</falscheAntwort1>
             <falscheAntwort2>90%</falscheAntwort2>
             <falscheAntwort3>30%</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -151,7 +151,7 @@
             <falscheAntwort1>damit man in den Stall kommt, wenn eine Tür mal klemmt</falscheAntwort1>
             <falscheAntwort2>damit die Tiere eine Abwechslung haben</falscheAntwort2>
             <falscheAntwort3>damit Schwalben gefahrlos hindurch fliegen können</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -161,7 +161,7 @@
             <falscheAntwort1>beruhigende Musik</falscheAntwort1>
             <falscheAntwort2>blendfreie Beleuchtung</falscheAntwort2>
             <falscheAntwort3>genügend Fliegenfallen</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -171,7 +171,7 @@
             <falscheAntwort1>Knoblauch</falscheAntwort1>
             <falscheAntwort2>Gänseblümchen</falscheAntwort2>
             <falscheAntwort3>Brennnessel</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -181,7 +181,7 @@
             <falscheAntwort1>jeden Monat</falscheAntwort1>
             <falscheAntwort2>einmal im Jahr</falscheAntwort2>
             <falscheAntwort3>wöchentlich</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -191,7 +191,7 @@
             <falscheAntwort1>Salzmangel</falscheAntwort1>
             <falscheAntwort2>Schlafmangel</falscheAntwort2>
             <falscheAntwort3>Kalziummangel</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -201,7 +201,7 @@
             <falscheAntwort1>ca. 18 Wochen</falscheAntwort1>
             <falscheAntwort2>ca. 2 Wochen</falscheAntwort2>
             <falscheAntwort3>ca. 80 Wochen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -211,7 +211,7 @@
             <falscheAntwort1>18°C - 20 °C</falscheAntwort1>
             <falscheAntwort2>14°C - 16 °C</falscheAntwort2>
             <falscheAntwort3>22°C - 24 °C</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -221,7 +221,7 @@
             <falscheAntwort1>Drohen</falscheAntwort1>
             <falscheAntwort2>Richten</falscheAntwort2>
             <falscheAntwort3>Bäumen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -231,7 +231,7 @@
             <falscheAntwort1>Schoppen</falscheAntwort1>
             <falscheAntwort2>Foppen</falscheAntwort2>
             <falscheAntwort3>Doppen</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -241,7 +241,7 @@
             <falscheAntwort1>Karawane</falscheAntwort1>
             <falscheAntwort2>Kartusche</falscheAntwort2>
             <falscheAntwort3>Karmuffel</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -251,7 +251,7 @@
             <falscheAntwort1>Zügel</falscheAntwort1>
             <falscheAntwort2>Sattel</falscheAntwort2>
             <falscheAntwort3>Schweif</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -261,7 +261,7 @@
             <falscheAntwort1>monatlich</falscheAntwort1>
             <falscheAntwort2>wöchentlich</falscheAntwort2>
             <falscheAntwort3>jährlich</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -271,7 +271,7 @@
             <falscheAntwort1>Stallweg</falscheAntwort1>
             <falscheAntwort2>Stallpfad</falscheAntwort2>
             <falscheAntwort3>Stallgang</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -281,7 +281,7 @@
             <falscheAntwort1>im Reiterstübchen</falscheAntwort1>
             <falscheAntwort2>in der Pferdebox</falscheAntwort2>
             <falscheAntwort3>im Geschirrschrank</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -291,7 +291,7 @@
             <falscheAntwort1>Portugiesen</falscheAntwort1>
             <falscheAntwort2>Engländer</falscheAntwort2>
             <falscheAntwort3>Holländer</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -301,7 +301,7 @@
             <falscheAntwort1>Nordensattel</falscheAntwort1>
             <falscheAntwort2>Ostsattel</falscheAntwort2>
             <falscheAntwort3>Südensattel</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -311,7 +311,7 @@
             <falscheAntwort1>ja, aber nur bei den Hengsten</falscheAntwort1>
             <falscheAntwort2>ja, sogar zweimal</falscheAntwort2>
             <falscheAntwort3>nein</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -321,7 +321,7 @@
             <falscheAntwort1>4 Jahre</falscheAntwort1>
             <falscheAntwort2>2 Jahre</falscheAntwort2>
             <falscheAntwort3>5 Jahre</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -331,7 +331,7 @@
             <falscheAntwort1>200.000</falscheAntwort1>
             <falscheAntwort2>400.000</falscheAntwort2>
             <falscheAntwort3>800.000</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -341,7 +341,7 @@
             <falscheAntwort1>Artax</falscheAntwort1>
             <falscheAntwort2>Iltschi</falscheAntwort2>
             <falscheAntwort3>Hatatittla</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -351,7 +351,7 @@
             <falscheAntwort1>Darkschimmel</falscheAntwort1>
             <falscheAntwort2>Blackschimmel</falscheAntwort2>
             <falscheAntwort3>Nightschimmel</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -361,7 +361,7 @@
             <falscheAntwort1>Vorbein</falscheAntwort1>
             <falscheAntwort2>Rückhand</falscheAntwort2>
             <falscheAntwort3>Vorschulter</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -371,7 +371,7 @@
             <falscheAntwort1>Lippizaner</falscheAntwort1>
             <falscheAntwort2>Pintos</falscheAntwort2>
             <falscheAntwort3>Trakehner</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -381,7 +381,7 @@
             <falscheAntwort1>Sting Ray</falscheAntwort1>
             <falscheAntwort2>Fury</falscheAntwort2>
             <falscheAntwort3>Rih</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -391,7 +391,7 @@
             <falscheAntwort1>Welpe</falscheAntwort1>
             <falscheAntwort2>Kalb</falscheAntwort2>
             <falscheAntwort3>Frischling</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -401,7 +401,7 @@
             <falscheAntwort1>Jolly Jumper</falscheAntwort1>
             <falscheAntwort2>Hatschi</falscheAntwort2>
             <falscheAntwort3>Son Goku</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -411,7 +411,7 @@
             <falscheAntwort1>ca. 100 Millionen</falscheAntwort1>
             <falscheAntwort2>ca. 30 Millionen</falscheAntwort2>
             <falscheAntwort3>ca. 70 Milliarden</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -421,7 +421,7 @@
             <falscheAntwort1>Pünktchen</falscheAntwort1>
             <falscheAntwort2>Krümel</falscheAntwort2>
             <falscheAntwort3>Fleck</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -431,7 +431,7 @@
             <falscheAntwort1>Küster</falscheAntwort1>
             <falscheAntwort2>Lüster</falscheAntwort2>
             <falscheAntwort3>Pfüstern</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -441,7 +441,7 @@
             <falscheAntwort1>Kleine Tante</falscheAntwort1>
             <falscheAntwort2>Großer Onkel</falscheAntwort2>
             <falscheAntwort3>Große Tante</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -451,7 +451,7 @@
             <falscheAntwort1>Schwarz - weiß - Pferde</falscheAntwort1>
             <falscheAntwort2>Streifenpferde</falscheAntwort2>
             <falscheAntwort3>Ringelpferde</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -461,7 +461,7 @@
             <falscheAntwort1>3</falscheAntwort1>
             <falscheAntwort2>2</falscheAntwort2>
             <falscheAntwort3>4</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -471,7 +471,7 @@
             <falscheAntwort1>das Brustbein</falscheAntwort1>
             <falscheAntwort2>den Widerrist</falscheAntwort2>
             <falscheAntwort3>die Wirbelsäule</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -481,7 +481,7 @@
             <falscheAntwort1>durch das Streicheln des Schweifes</falscheAntwort1>
             <falscheAntwort2>durch das Streicheln des Halses</falscheAntwort2>
             <falscheAntwort3>durch das Streicheln des Vorderbeines</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -491,7 +491,7 @@
             <falscheAntwort1>der Reiter</falscheAntwort1>
             <falscheAntwort2>der Trainer</falscheAntwort2>
             <falscheAntwort3>der Starter</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -501,7 +501,7 @@
             <falscheAntwort1>2</falscheAntwort1>
             <falscheAntwort2>3</falscheAntwort2>
             <falscheAntwort3>1</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -511,7 +511,7 @@
             <falscheAntwort1>Nation</falscheAntwort1>
             <falscheAntwort2>Option</falscheAntwort2>
             <falscheAntwort3>Kumulation</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -521,7 +521,7 @@
             <falscheAntwort1>Schlagen</falscheAntwort1>
             <falscheAntwort2>Hauen</falscheAntwort2>
             <falscheAntwort3>Ringen</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -531,7 +531,7 @@
             <falscheAntwort1>Der Reiter muss absteigen und das Pferd muss alleine über das Hindernis springen.</falscheAntwort1>
             <falscheAntwort2>Pferd und Reiter müssen von vorne beginnen.</falscheAntwort2>
             <falscheAntwort3>Der Reiter muss drei Strafrunden reiten.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -541,7 +541,7 @@
             <falscheAntwort1>Tortelini</falscheAntwort1>
             <falscheAntwort2>Canneloni</falscheAntwort2>
             <falscheAntwort3>Makkaroni</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -551,7 +551,7 @@
             <falscheAntwort1>am Wassergraben</falscheAntwort1>
             <falscheAntwort2>am Doppeloxer</falscheAntwort2>
             <falscheAntwort3>am Luftgatter</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -561,7 +561,7 @@
             <falscheAntwort1>Rochade</falscheAntwort1>
             <falscheAntwort2>Panade</falscheAntwort2>
             <falscheAntwort3>Palisade</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -571,7 +571,7 @@
             <falscheAntwort1>Kormoran</falscheAntwort1>
             <falscheAntwort2>Kanaille</falscheAntwort2>
             <falscheAntwort3>Kapitel</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -581,7 +581,7 @@
             <falscheAntwort1>8</falscheAntwort1>
             <falscheAntwort2>4</falscheAntwort2>
             <falscheAntwort3>10</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -591,7 +591,7 @@
             <falscheAntwort1>4</falscheAntwort1>
             <falscheAntwort2>3</falscheAntwort2>
             <falscheAntwort3>5</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -601,7 +601,7 @@
             <falscheAntwort1>damit das Pferd die Gerte besser sehen kann</falscheAntwort1>
             <falscheAntwort2>um damit nicht an der Bande entlangzustreifen</falscheAntwort2>
             <falscheAntwort3>damit das Pferd die Gerte nicht sehen kann</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -611,7 +611,7 @@
             <falscheAntwort1>Samstag</falscheAntwort1>
             <falscheAntwort2>Sonntag</falscheAntwort2>
             <falscheAntwort3>Mittwoch</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -621,7 +621,7 @@
             <falscheAntwort1>10</falscheAntwort1>
             <falscheAntwort2>8</falscheAntwort2>
             <falscheAntwort3>12</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -631,7 +631,7 @@
             <falscheAntwort1>Mittelgalopp</falscheAntwort1>
             <falscheAntwort2>Arbeitsgalopp</falscheAntwort2>
             <falscheAntwort3>starker Galopp</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -641,7 +641,7 @@
             <falscheAntwort1>2</falscheAntwort1>
             <falscheAntwort2>3</falscheAntwort2>
             <falscheAntwort3>5</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -651,7 +651,7 @@
             <falscheAntwort1>im Zweitakt</falscheAntwort1>
             <falscheAntwort2>im Dreivierteltakt</falscheAntwort2>
             <falscheAntwort3>im Vierteltakt</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -661,7 +661,7 @@
             <falscheAntwort1>das Pferd beruhigen</falscheAntwort1>
             <falscheAntwort2>das Pferd bremsen</falscheAntwort2>
             <falscheAntwort3>das Pferd stoppen</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -671,7 +671,7 @@
             <falscheAntwort1>Sporenhilfe</falscheAntwort1>
             <falscheAntwort2>Zügelhilfe</falscheAntwort2>
             <falscheAntwort3>Peitschenhilfe</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -681,7 +681,7 @@
             <falscheAntwort1>Versammlung</falscheAntwort1>
             <falscheAntwort2>halbe Parade</falscheAntwort2>
             <falscheAntwort3>Stillstand</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -691,7 +691,7 @@
             <falscheAntwort1>Stange</falscheAntwort1>
             <falscheAntwort2>Stöckchen</falscheAntwort2>
             <falscheAntwort3>Merte</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -701,7 +701,7 @@
             <falscheAntwort1>Schwertraben</falscheAntwort1>
             <falscheAntwort2>Mitteltraben</falscheAntwort2>
             <falscheAntwort3>Austraben</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -711,7 +711,7 @@
             <falscheAntwort1>Er pfeift laut los.</falscheAntwort1>
             <falscheAntwort2>Er ruft: „Hü hott!“</falscheAntwort2>
             <falscheAntwort3>Er tritt das Pferd mit den Hacken.</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -721,7 +721,7 @@
             <falscheAntwort1>Krone</falscheAntwort1>
             <falscheAntwort2>Kiefer</falscheAntwort2>
             <falscheAntwort3>Welle</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -731,7 +731,7 @@
             <falscheAntwort1>Gesäß und Knie</falscheAntwort1>
             <falscheAntwort2>Ellbogen und Finger</falscheAntwort2>
             <falscheAntwort3>Schulter und Rücken</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -741,7 +741,7 @@
             <falscheAntwort1>Steigtreppen</falscheAntwort1>
             <falscheAntwort2>Steigleitern</falscheAntwort2>
             <falscheAntwort3>Steigstäbe</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -751,7 +751,7 @@
             <falscheAntwort1>Barkasse</falscheAntwort1>
             <falscheAntwort2>Baracke</falscheAntwort2>
             <falscheAntwort3>Schabernack</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -761,7 +761,7 @@
             <falscheAntwort1>vor jeder Mahlzeit</falscheAntwort1>
             <falscheAntwort2>nach dem Ausritt</falscheAntwort2>
             <falscheAntwort3>wenn es zu dicke Beine hat</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -771,7 +771,7 @@
             <falscheAntwort1>Bau</falscheAntwort1>
             <falscheAntwort2>Garage</falscheAntwort2>
             <falscheAntwort3>Raufe</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -781,7 +781,7 @@
             <falscheAntwort1>Epistek</falscheAntwort1>
             <falscheAntwort2>Druse</falscheAntwort2>
             <falscheAntwort3>Mergel</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -791,7 +791,7 @@
             <falscheAntwort1>Gauke</falscheAntwort1>
             <falscheAntwort2>Frauke</falscheAntwort2>
             <falscheAntwort3>Rauke</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -801,7 +801,7 @@
             <falscheAntwort1>3 - 5 Tage</falscheAntwort1>
             <falscheAntwort2>2 - 3 Tage</falscheAntwort2>
             <falscheAntwort3>7 - 12 Tage</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -811,7 +811,7 @@
             <falscheAntwort1>ca. 15 Monate</falscheAntwort1>
             <falscheAntwort2>ca. 7 Monate</falscheAntwort2>
             <falscheAntwort3>ca. 19 Monate</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -821,7 +821,7 @@
             <falscheAntwort1>Supermängel</falscheAntwort1>
             <falscheAntwort2>Maximalmängel</falscheAntwort2>
             <falscheAntwort3>Turbomängel</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -831,7 +831,7 @@
             <falscheAntwort1>am Schweif</falscheAntwort1>
             <falscheAntwort2>hinter den Ohren</falscheAntwort2>
             <falscheAntwort3>über den Augen</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -841,7 +841,7 @@
             <falscheAntwort1>Linsen</falscheAntwort1>
             <falscheAntwort2>Eicheln</falscheAntwort2>
             <falscheAntwort3>Erbsen</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -851,7 +851,7 @@
             <falscheAntwort1>Aufziehen</falscheAntwort1>
             <falscheAntwort2>Abziehen</falscheAntwort2>
             <falscheAntwort3>Wegziehen</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -861,7 +861,7 @@
             <falscheAntwort1>laut singen</falscheAntwort1>
             <falscheAntwort2>auf keinen Fall sprechen</falscheAntwort2>
             <falscheAntwort3>dreimal kräftig pfeifen</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -871,7 +871,7 @@
             <falscheAntwort1>hinterher</falscheAntwort1>
             <falscheAntwort2>voraus</falscheAntwort2>
             <falscheAntwort3>abwechselnd immer um das Pferd herum</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -881,7 +881,7 @@
             <falscheAntwort1>Fluchthaken</falscheAntwort1>
             <falscheAntwort2>Pferdehaken</falscheAntwort2>
             <falscheAntwort3>Standhaken</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -891,7 +891,7 @@
             <falscheAntwort1>viermal</falscheAntwort1>
             <falscheAntwort2>zweimal</falscheAntwort2>
             <falscheAntwort3>einmal</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -901,7 +901,7 @@
             <falscheAntwort1>Das Pferd möchte spielen.</falscheAntwort1>
             <falscheAntwort2>Das Pferd ist müde.</falscheAntwort2>
             <falscheAntwort3>Das Pferd freut sich.</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -911,7 +911,7 @@
             <falscheAntwort1>Hustenbonbons</falscheAntwort1>
             <falscheAntwort2>Zuckerstückchen</falscheAntwort2>
             <falscheAntwort3>Honig</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -921,7 +921,7 @@
             <falscheAntwort1>die Ohren</falscheAntwort1>
             <falscheAntwort2>die Augen</falscheAntwort2>
             <falscheAntwort3>die Zähne</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -931,7 +931,7 @@
             <falscheAntwort1>30,4°C bis 36,9°C</falscheAntwort1>
             <falscheAntwort2>27,5°C bis 32,5°C</falscheAntwort2>
             <falscheAntwort3>41,4°C bis 48,2°C</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -941,7 +941,7 @@
             <falscheAntwort1>Es fällt um.</falscheAntwort1>
             <falscheAntwort2>Es greift an.</falscheAntwort2>
             <falscheAntwort3>Es erstarrt.</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -951,7 +951,7 @@
             <falscheAntwort1>Schweißkelle</falscheAntwort1>
             <falscheAntwort2>Schweißlöffel</falscheAntwort2>
             <falscheAntwort3>Schweißgabel</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -961,7 +961,7 @@
             <falscheAntwort1>Schweifhaare vermalen</falscheAntwort1>
             <falscheAntwort2>Schweifhaare verrechnen</falscheAntwort2>
             <falscheAntwort3>Schweifhaare verschreiben</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -971,7 +971,7 @@
             <falscheAntwort1>in Braun</falscheAntwort1>
             <falscheAntwort2>in Weiß</falscheAntwort2>
             <falscheAntwort3>in Schwarz</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -981,7 +981,7 @@
             <falscheAntwort1>Fohlenbücher</falscheAntwort1>
             <falscheAntwort2>Hengstbücher</falscheAntwort2>
             <falscheAntwort3>Pferdebücher</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -991,7 +991,7 @@
             <falscheAntwort1>seine stolze Wildheit</falscheAntwort1>
             <falscheAntwort2>seine überdurchschnittliche Größe</falscheAntwort2>
             <falscheAntwort3>seine Sturheit</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1001,7 +1001,7 @@
             <falscheAntwort1>Algerien</falscheAntwort1>
             <falscheAntwort2>Ägypten</falscheAntwort2>
             <falscheAntwort3>Tunesien</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1011,7 +1011,7 @@
             <falscheAntwort1>Deckhaar, Mähne, Schweif und Hufe</falscheAntwort1>
             <falscheAntwort2>Deckhaar, Mähne und Schweif</falscheAntwort2>
             <falscheAntwort3>alles</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1021,7 +1021,7 @@
             <falscheAntwort1>Bulgarien</falscheAntwort1>
             <falscheAntwort2>Polen</falscheAntwort2>
             <falscheAntwort3>Rumänien</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1031,7 +1031,7 @@
             <falscheAntwort1>bei den Holsteinern</falscheAntwort1>
             <falscheAntwort2>bei den Lippizanern</falscheAntwort2>
             <falscheAntwort3>bei den Pintos</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1041,7 +1041,7 @@
             <falscheAntwort1>Pinto</falscheAntwort1>
             <falscheAntwort2>Appaloosa</falscheAntwort2>
             <falscheAntwort3>Altér Real</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1051,7 +1051,7 @@
             <falscheAntwort1>die Haflinger</falscheAntwort1>
             <falscheAntwort2>das Russische Kaltblut</falscheAntwort2>
             <falscheAntwort3>die Trakehner</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1061,7 +1061,7 @@
             <falscheAntwort1>ab ca. 18 Jahre</falscheAntwort1>
             <falscheAntwort2>ab ca. 15 Jahre</falscheAntwort2>
             <falscheAntwort3>ab ca. 26 Jahre</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1071,7 +1071,7 @@
             <falscheAntwort1>der Hunter</falscheAntwort1>
             <falscheAntwort2>der Mustang</falscheAntwort2>
             <falscheAntwort3>der Morgan</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1081,7 +1081,7 @@
             <falscheAntwort1>Haltblut</falscheAntwort1>
             <falscheAntwort2>Faltblut</falscheAntwort2>
             <falscheAntwort3>Handblut</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1091,7 +1091,7 @@
             <falscheAntwort1>bis zu 92 cm</falscheAntwort1>
             <falscheAntwort2>bis zu 52 cm</falscheAntwort2>
             <falscheAntwort3>bis zu 112 cm</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1101,7 +1101,7 @@
             <falscheAntwort1>Noriker</falscheAntwort1>
             <falscheAntwort2>Wire - Horse</falscheAntwort2>
             <falscheAntwort3>Russisches Kaltblut</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1111,7 +1111,7 @@
             <falscheAntwort1>Gamsnase</falscheAntwort1>
             <falscheAntwort2>Bamsnase</falscheAntwort2>
             <falscheAntwort3>Wamsnase</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1121,7 +1121,7 @@
             <falscheAntwort1>Knebstübber</falscheAntwort1>
             <falscheAntwort2>Knibstopper</falscheAntwort2>
             <falscheAntwort3>Knobstipper</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1131,7 +1131,7 @@
             <falscheAntwort1>Belgien</falscheAntwort1>
             <falscheAntwort2>Norwegen</falscheAntwort2>
             <falscheAntwort3>Frankreich</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1141,7 +1141,7 @@
             <falscheAntwort1>Oldenburger</falscheAntwort1>
             <falscheAntwort2>Hannoveraner</falscheAntwort2>
             <falscheAntwort3>Trakehner</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1151,7 +1151,7 @@
             <falscheAntwort1>schwarz</falscheAntwort1>
             <falscheAntwort2>braun</falscheAntwort2>
             <falscheAntwort3>grau</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1161,7 +1161,7 @@
             <falscheAntwort1>Kartoffel</falscheAntwort1>
             <falscheAntwort2>Kartusche</falscheAntwort2>
             <falscheAntwort3>Kardanwelle</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1171,7 +1171,7 @@
             <falscheAntwort1>ein kastriertes Pferd</falscheAntwort1>
             <falscheAntwort2>ein erfahrener Pferdeknecht</falscheAntwort2>
             <falscheAntwort3>ein sehr langes Hindernisrennen</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1181,7 +1181,7 @@
             <falscheAntwort1>Voillant</falscheAntwort1>
             <falscheAntwort2>Wallach</falscheAntwort2>
             <falscheAntwort3>Vauxhall</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1191,7 +1191,7 @@
             <falscheAntwort1>Star</falscheAntwort1>
             <falscheAntwort2>Aspirant</falscheAntwort2>
             <falscheAntwort3>Debütant</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1201,7 +1201,7 @@
             <falscheAntwort1>Freude und Ausgelassenheit</falscheAntwort1>
             <falscheAntwort2>Imponiergehabe</falscheAntwort2>
             <falscheAntwort3>Wut und Boshaftigkeit</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1211,7 +1211,7 @@
             <falscheAntwort1>Durchgalopp</falscheAntwort1>
             <falscheAntwort2>Abgalopp</falscheAntwort2>
             <falscheAntwort3>Weggalopp</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1221,7 +1221,7 @@
             <falscheAntwort1>Duo</falscheAntwort1>
             <falscheAntwort2>Duett</falscheAntwort2>
             <falscheAntwort3>Zwilling</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1231,7 +1231,7 @@
             <falscheAntwort1>ein Pferd, das vor den Pflug gespannt wird</falscheAntwort1>
             <falscheAntwort2>ein zahmes Pferd, das aus der Hand frisst</falscheAntwort2>
             <falscheAntwort3>ein gezähmtes Wildpferd</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1241,7 +1241,7 @@
             <falscheAntwort1>Kopfpferd</falscheAntwort1>
             <falscheAntwort2>Fußpferd</falscheAntwort2>
             <falscheAntwort3>Halspferd</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1251,7 +1251,7 @@
             <falscheAntwort1>Melange</falscheAntwort1>
             <falscheAntwort2>Melone</falscheAntwort2>
             <falscheAntwort3>Metro</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1261,7 +1261,7 @@
             <falscheAntwort1>die letzten, dünnen Haare der Mähne</falscheAntwort1>
             <falscheAntwort2>der festliche Schmuck an Zügeln und Sattel</falscheAntwort2>
             <falscheAntwort3>die dicken, zottigen Schweifhaare</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1271,7 +1271,7 @@
             <falscheAntwort1>Aggressivität, Feindlichkeit, Boshaftigkeit</falscheAntwort1>
             <falscheAntwort2>Ängstlichkeit, Schüchternheit</falscheAntwort2>
             <falscheAntwort3>Müdigkeit</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1281,7 +1281,7 @@
             <falscheAntwort1>Zyklop</falscheAntwort1>
             <falscheAntwort2>Medusa</falscheAntwort2>
             <falscheAntwort3>Sphinx</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1291,7 +1291,7 @@
             <falscheAntwort1>Caballeros</falscheAntwort1>
             <falscheAntwort2>Cowboys</falscheAntwort2>
             <falscheAntwort3>Toreros</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1301,7 +1301,7 @@
             <falscheAntwort1>Werby</falscheAntwort1>
             <falscheAntwort2>Lerby</falscheAntwort2>
             <falscheAntwort3>Rerby</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1311,7 +1311,7 @@
             <falscheAntwort1>Stern</falscheAntwort1>
             <falscheAntwort2>Schnippe</falscheAntwort2>
             <falscheAntwort3>Komet</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1321,7 +1321,7 @@
             <falscheAntwort1>ein besonders struppiges Fell</falscheAntwort1>
             <falscheAntwort2>ein krankhaft dünnes Fell</falscheAntwort2>
             <falscheAntwort3>ein Fell, in das viel Pferdefliegen gestochen haben</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1331,7 +1331,7 @@
             <falscheAntwort1>Hippopotamus</falscheAntwort1>
             <falscheAntwort2>Hippokrates</falscheAntwort2>
             <falscheAntwort3>Hippoholos</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1341,7 +1341,7 @@
             <falscheAntwort1>Honigmaul</falscheAntwort1>
             <falscheAntwort2>Schweineschnauze</falscheAntwort2>
             <falscheAntwort3>Bleichschnute</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1351,7 +1351,7 @@
             <falscheAntwort1>Das Pferd hat vom vielen Reiten einen krummen Rücken.</falscheAntwort1>
             <falscheAntwort2>Das Pferd ist nach einem langen Ritt erschöpft und nicht mehr in der Lage, auf die Hilfen des Reiters zu hören.</falscheAntwort2>
             <falscheAntwort3>Das Pferd hat seinen Reiter abgeworfen und ist auf und davon geritten.</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1361,7 +1361,7 @@
             <falscheAntwort1>Hippogolf</falscheAntwort1>
             <falscheAntwort2>Hippodrama</falscheAntwort2>
             <falscheAntwort3>Hipponotes</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1371,7 +1371,7 @@
             <falscheAntwort1>ein Pferd, das gut Bocksprünge machen kann</falscheAntwort1>
             <falscheAntwort2>ein männliches Pferd</falscheAntwort2>
             <falscheAntwort3>ein männliches Seepferdchen</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1381,7 +1381,7 @@
             <falscheAntwort1>am Schweif</falscheAntwort1>
             <falscheAntwort2>an den Hufen</falscheAntwort2>
             <falscheAntwort3>am Bauch</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1391,7 +1391,7 @@
             <falscheAntwort1>mit ca. 7 Jahren</falscheAntwort1>
             <falscheAntwort2>mit ca. 3 Jahren</falscheAntwort2>
             <falscheAntwort3>mit ca. 15 Jahren</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1401,7 +1401,7 @@
             <falscheAntwort1>Visage</falscheAntwort1>
             <falscheAntwort2>Blamage</falscheAntwort2>
             <falscheAntwort3>Drenage</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1411,7 +1411,7 @@
             <falscheAntwort1>ein Pferd, das nur im Heu schläft</falscheAntwort1>
             <falscheAntwort2>ein Pferd, das nur Heu frisst</falscheAntwort2>
             <falscheAntwort3>ein vertrocknetes Seepferdchen</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -1421,7 +1421,7 @@
             <falscheAntwort1>Kappe</falscheAntwort1>
             <falscheAntwort2>Kuppe</falscheAntwort2>
             <falscheAntwort3>Krappe</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1431,7 +1431,7 @@
             <falscheAntwort1>der hintere Teil des Pferderückens</falscheAntwort1>
             <falscheAntwort2>der Trog für das Pferdefutter</falscheAntwort2>
             <falscheAntwort3>der vordere Teil des Pferderückens</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1441,7 +1441,7 @@
             <falscheAntwort1>Flötenzopf</falscheAntwort1>
             <falscheAntwort2>Fesselmähne</falscheAntwort2>
             <falscheAntwort3>Gelenkhaar</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1451,7 +1451,7 @@
             <falscheAntwort1>30 - 40 Jahre</falscheAntwort1>
             <falscheAntwort2>10 - 20 Jahre</falscheAntwort2>
             <falscheAntwort3>40 - 50 Jahre</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1461,7 +1461,7 @@
             <falscheAntwort1>probieren</falscheAntwort1>
             <falscheAntwort2>pürieren</falscheAntwort2>
             <falscheAntwort3>fixieren</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1471,7 +1471,7 @@
             <falscheAntwort1>Toskana</falscheAntwort1>
             <falscheAntwort2>Bretagne</falscheAntwort2>
             <falscheAntwort3>Alpen</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1481,7 +1481,7 @@
             <falscheAntwort1>Mais und Heu</falscheAntwort1>
             <falscheAntwort2>Hafer und Gerste</falscheAntwort2>
             <falscheAntwort3>Weizen und Gras</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1491,7 +1491,7 @@
             <falscheAntwort1>im Heidekraut der Lüneburger Heide</falscheAntwort1>
             <falscheAntwort2>in den Donauwiesen in Niederbayern</falscheAntwort2>
             <falscheAntwort3>auf den Salzwiesen an der Nordseeküste</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1501,7 +1501,7 @@
             <falscheAntwort1>Dachs</falscheAntwort1>
             <falscheAntwort2>Eichhörnchen</falscheAntwort2>
             <falscheAntwort3>Marder</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1511,7 +1511,7 @@
             <falscheAntwort1>Dreikampf</falscheAntwort1>
             <falscheAntwort2>Hilibilly</falscheAntwort2>
             <falscheAntwort3>Triole</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1521,7 +1521,7 @@
             <falscheAntwort1>Eppikosa</falscheAntwort1>
             <falscheAntwort2>Uppermusa</falscheAntwort2>
             <falscheAntwort3>Ippimena</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1531,7 +1531,7 @@
             <falscheAntwort1>ein nordamerikanisches Rodeo</falscheAntwort1>
             <falscheAntwort2>ein Stierkampf zu Pferde</falscheAntwort2>
             <falscheAntwort3>eine Ausdauerprüfung für Rennpferde</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1541,7 +1541,7 @@
             <falscheAntwort1>lustig</falscheAntwort1>
             <falscheAntwort2>läufig</falscheAntwort2>
             <falscheAntwort3>brünftig</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1551,7 +1551,7 @@
             <falscheAntwort1>Diode</falscheAntwort1>
             <falscheAntwort2>Gladiole</falscheAntwort2>
             <falscheAntwort3>Methode</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1561,7 +1561,7 @@
             <falscheAntwort1>Parfüm</falscheAntwort1>
             <falscheAntwort2>Parflait</falscheAntwort2>
             <falscheAntwort3>Palas</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1571,7 +1571,7 @@
             <falscheAntwort1>Schüppe</falscheAntwort1>
             <falscheAntwort2>Stern</falscheAntwort2>
             <falscheAntwort3>Stich</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1581,7 +1581,7 @@
             <falscheAntwort1>30 km / h</falscheAntwort1>
             <falscheAntwort2>40 km / h</falscheAntwort2>
             <falscheAntwort3>70 km / h</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1591,7 +1591,7 @@
             <falscheAntwort1>Rosmarien</falscheAntwort1>
             <falscheAntwort2>Bucheckern</falscheAntwort2>
             <falscheAntwort3>Hagebutten</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1601,7 +1601,7 @@
             <falscheAntwort1>Wechselrappe</falscheAntwort1>
             <falscheAntwort2>Winterbrauner</falscheAntwort2>
             <falscheAntwort3>Wechselbrauner</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1611,7 +1611,7 @@
             <falscheAntwort1>Truel</falscheAntwort1>
             <falscheAntwort2>Bruel</falscheAntwort2>
             <falscheAntwort3>Druel</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1621,7 +1621,7 @@
             <falscheAntwort1>ca. 90 Sekunden</falscheAntwort1>
             <falscheAntwort2>ca. 50 Sekunden</falscheAntwort2>
             <falscheAntwort3>ca. 110 Sekunden</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1631,7 +1631,7 @@
             <falscheAntwort1>Pony</falscheAntwort1>
             <falscheAntwort2>Maulesel</falscheAntwort2>
             <falscheAntwort3>Tapir</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1641,7 +1641,7 @@
             <falscheAntwort1>Galoppinski - Pferd</falscheAntwort1>
             <falscheAntwort2>Schimanski - Pferd</falscheAntwort2>
             <falscheAntwort3>Grzybowski - Pferd</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1651,7 +1651,7 @@
             <falscheAntwort1>Jolly</falscheAntwort1>
             <falscheAntwort2>Hockey</falscheAntwort2>
             <falscheAntwort3>Page</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1661,7 +1661,7 @@
             <falscheAntwort1>Fuchs</falscheAntwort1>
             <falscheAntwort2>Rappe</falscheAntwort2>
             <falscheAntwort3>Schimmel</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1671,7 +1671,7 @@
             <falscheAntwort1>eine lederne Pferdedecke</falscheAntwort1>
             <falscheAntwort2>ein zweirädriger Kutschwagen</falscheAntwort2>
             <falscheAntwort3>ein Damensattel</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1681,7 +1681,7 @@
             <falscheAntwort1>ein Springturnier</falscheAntwort1>
             <falscheAntwort2>eine große Reithalle</falscheAntwort2>
             <falscheAntwort3>ein altes Pferd</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1691,7 +1691,7 @@
             <falscheAntwort1>Pulky</falscheAntwort1>
             <falscheAntwort2>Gulky</falscheAntwort2>
             <falscheAntwort3>Mulky</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1701,7 +1701,7 @@
             <falscheAntwort1>Kalusche</falscheAntwort1>
             <falscheAntwort2>Gamasche</falscheAntwort2>
             <falscheAntwort3>Kartusche</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1711,7 +1711,7 @@
             <falscheAntwort1>etwa alle vier Wochen</falscheAntwort1>
             <falscheAntwort2>etwa alle acht Wochen</falscheAntwort2>
             <falscheAntwort3>etwa alle zehn Wochen</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1721,7 +1721,7 @@
             <falscheAntwort1>Karaffe</falscheAntwort1>
             <falscheAntwort2>Diagonale</falscheAntwort2>
             <falscheAntwort3>Trabant</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1731,7 +1731,7 @@
             <falscheAntwort1>Sattelstrauch</falscheAntwort1>
             <falscheAntwort2>Sattelbusch</falscheAntwort2>
             <falscheAntwort3>Sattelstamm</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1741,7 +1741,7 @@
             <falscheAntwort1>Borstall</falscheAntwort1>
             <falscheAntwort2>Serstall</falscheAntwort2>
             <falscheAntwort3>Turstall</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1751,7 +1751,7 @@
             <falscheAntwort1>Tüpfchenschimmel</falscheAntwort1>
             <falscheAntwort2>Fleckenschimmel</falscheAntwort2>
             <falscheAntwort3>Pünktchenschimmel</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1761,7 +1761,7 @@
             <falscheAntwort1>Neue Schule</falscheAntwort1>
             <falscheAntwort2>Alte Schule</falscheAntwort2>
             <falscheAntwort3>Gute Schule</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1771,7 +1771,7 @@
             <falscheAntwort1>Grantamore</falscheAntwort1>
             <falscheAntwort2>Baltimore</falscheAntwort2>
             <falscheAntwort3>Heckolore</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1781,7 +1781,7 @@
             <falscheAntwort1>Möhre</falscheAntwort1>
             <falscheAntwort2>Karotte</falscheAntwort2>
             <falscheAntwort3>Gurke</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1791,7 +1791,7 @@
             <falscheAntwort1>Nichttrinker</falscheAntwort1>
             <falscheAntwort2>Aufhörer</falscheAntwort2>
             <falscheAntwort3>Selbstfresser</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1801,7 +1801,7 @@
             <falscheAntwort1>Mirabellen</falscheAntwort1>
             <falscheAntwort2>Libellen</falscheAntwort2>
             <falscheAntwort3>Fontanellen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1811,7 +1811,7 @@
             <falscheAntwort1>Lasso</falscheAntwort1>
             <falscheAntwort2>Zügel</falscheAntwort2>
             <falscheAntwort3>Seil</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1821,7 +1821,7 @@
             <falscheAntwort1>Team</falscheAntwort1>
             <falscheAntwort2>Equipage</falscheAntwort2>
             <falscheAntwort3>Quartett</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1831,7 +1831,7 @@
             <falscheAntwort1>ab ca. 5 Jahren</falscheAntwort1>
             <falscheAntwort2>ab ca. 4 Jahren</falscheAntwort2>
             <falscheAntwort3>ab ca. 6 Jahren</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1841,7 +1841,7 @@
             <falscheAntwort1>Maultier</falscheAntwort1>
             <falscheAntwort2>Lama</falscheAntwort2>
             <falscheAntwort3>Tapir</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1851,7 +1851,7 @@
             <falscheAntwort1>70 - 90 cm</falscheAntwort1>
             <falscheAntwort2>20 - 50 cm</falscheAntwort2>
             <falscheAntwort3>90 - 120 cm</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1861,7 +1861,7 @@
             <falscheAntwort1>ein finnisches Reitpferd</falscheAntwort1>
             <falscheAntwort2>eine Falbe mit weißer Mähne und weißem Schweif</falscheAntwort2>
             <falscheAntwort3>eine einjährige Stute</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1871,7 +1871,7 @@
             <falscheAntwort1>160 cm</falscheAntwort1>
             <falscheAntwort2>123 cm</falscheAntwort2>
             <falscheAntwort3>173 cm</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1881,7 +1881,7 @@
             <falscheAntwort1>Trabgang</falscheAntwort1>
             <falscheAntwort2>Seitengang</falscheAntwort2>
             <falscheAntwort3>Schaukelgang</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1891,7 +1891,7 @@
             <falscheAntwort1>drei Jahre</falscheAntwort1>
             <falscheAntwort2>ein Jahr</falscheAntwort2>
             <falscheAntwort3>vier Jahre</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1901,7 +1901,7 @@
             <falscheAntwort1>um ihren Pfleger zu ärgern</falscheAntwort1>
             <falscheAntwort2>aus Ausgelassenheit</falscheAntwort2>
             <falscheAntwort3>um sich zu tarnen</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1911,7 +1911,7 @@
             <falscheAntwort1>Lichtung</falscheAntwort1>
             <falscheAntwort2>Flecken</falscheAntwort2>
             <falscheAntwort3>Schonung</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1921,7 +1921,7 @@
             <falscheAntwort1>Hechtstrich</falscheAntwort1>
             <falscheAntwort2>Forellenstrich</falscheAntwort2>
             <falscheAntwort3>Walstrich</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1931,7 +1931,7 @@
             <falscheAntwort1>Muli</falscheAntwort1>
             <falscheAntwort2>Pony</falscheAntwort2>
             <falscheAntwort3>Lama</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1941,7 +1941,7 @@
             <falscheAntwort1>Zentaur</falscheAntwort1>
             <falscheAntwort2>Phönix</falscheAntwort2>
             <falscheAntwort3>Zyklop</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1951,7 +1951,7 @@
             <falscheAntwort1>Summet</falscheAntwort1>
             <falscheAntwort2>Wummet</falscheAntwort2>
             <falscheAntwort3>Lummet</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1961,7 +1961,7 @@
             <falscheAntwort1>Frankreich</falscheAntwort1>
             <falscheAntwort2>Luxemburg</falscheAntwort2>
             <falscheAntwort3>Bulgarien</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1971,7 +1971,7 @@
             <falscheAntwort1>Pinto</falscheAntwort1>
             <falscheAntwort2>Palomino</falscheAntwort2>
             <falscheAntwort3>Lipizzaner</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1981,7 +1981,7 @@
             <falscheAntwort1>Welter</falscheAntwort1>
             <falscheAntwort2>Felter</falscheAntwort2>
             <falscheAntwort3>Relter</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1991,7 +1991,7 @@
             <falscheAntwort1>Stabmaß</falscheAntwort1>
             <falscheAntwort2>Pferdemaß</falscheAntwort2>
             <falscheAntwort3>Stiftmaß</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2001,7 +2001,7 @@
             <falscheAntwort1>braun</falscheAntwort1>
             <falscheAntwort2>schwarz</falscheAntwort2>
             <falscheAntwort3>scwarz - weiß gefleckt</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2011,7 +2011,7 @@
             <falscheAntwort1>weiß</falscheAntwort1>
             <falscheAntwort2>braun</falscheAntwort2>
             <falscheAntwort3>braun - weiß</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2021,7 +2021,7 @@
             <falscheAntwort1>8 - 10 Stunden</falscheAntwort1>
             <falscheAntwort2>6 - 8 Stunden</falscheAntwort2>
             <falscheAntwort3>10 - 12 Stunden</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2031,7 +2031,7 @@
             <falscheAntwort1>Federn</falscheAntwort1>
             <falscheAntwort2>Glöckchen</falscheAntwort2>
             <falscheAntwort3>Zuckerstangen</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2041,7 +2041,7 @@
             <falscheAntwort1>Gallopa</falscheAntwort1>
             <falscheAntwort2>Walhalla</falscheAntwort2>
             <falscheAntwort3>Seimur</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2051,7 +2051,7 @@
             <falscheAntwort1>England</falscheAntwort1>
             <falscheAntwort2>USA</falscheAntwort2>
             <falscheAntwort3>Chile</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2061,7 +2061,7 @@
             <falscheAntwort1>ein Pferd, das sehr leicht friert</falscheAntwort1>
             <falscheAntwort2>ein sehr leicht gebautes Pferd mit unruhigem Wesen</falscheAntwort2>
             <falscheAntwort3>eine junge Stute</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2071,7 +2071,7 @@
             <falscheAntwort1>an den Augen</falscheAntwort1>
             <falscheAntwort2>an den Ohren</falscheAntwort2>
             <falscheAntwort3>an den Schwanzhaaren</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -2081,7 +2081,7 @@
             <falscheAntwort1>Tranchieren</falscheAntwort1>
             <falscheAntwort2>Multiplizieren</falscheAntwort2>
             <falscheAntwort3>Probieren</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -2091,7 +2091,7 @@
             <falscheAntwort1>an den Ohren</falscheAntwort1>
             <falscheAntwort2>an der Kruppe</falscheAntwort2>
             <falscheAntwort3>am Schweif</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2101,7 +2101,7 @@
             <falscheAntwort1>Fuchs</falscheAntwort1>
             <falscheAntwort2>Schimmel</falscheAntwort2>
             <falscheAntwort3>Hengst</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2111,7 +2111,7 @@
             <falscheAntwort1>Reitpferde für Kinder</falscheAntwort1>
             <falscheAntwort2>Zirkuspferde</falscheAntwort2>
             <falscheAntwort3>Kutschpferde</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2121,7 +2121,7 @@
             <falscheAntwort1>mit ca. sieben Jahren</falscheAntwort1>
             <falscheAntwort2>mit ca. drei Jahren</falscheAntwort2>
             <falscheAntwort3>mit ca. neun Jahren</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2131,7 +2131,7 @@
             <falscheAntwort1>Araber</falscheAntwort1>
             <falscheAntwort2>Paparazzi</falscheAntwort2>
             <falscheAntwort3>Shetland - Pony</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -2141,7 +2141,7 @@
             <falscheAntwort1>das Genick</falscheAntwort1>
             <falscheAntwort2>der mittlere Teil des Rückens</falscheAntwort2>
             <falscheAntwort3>der hintere höchste Teil des Rückens</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2151,7 +2151,7 @@
             <falscheAntwort1>Afrika</falscheAntwort1>
             <falscheAntwort2>Europa</falscheAntwort2>
             <falscheAntwort3>Amerika</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2161,7 +2161,7 @@
             <falscheAntwort1>vier</falscheAntwort1>
             <falscheAntwort2>zwei</falscheAntwort2>
             <falscheAntwort3>5 - 10</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -2171,7 +2171,7 @@
             <falscheAntwort1>ca. 60</falscheAntwort1>
             <falscheAntwort2>ca. 120</falscheAntwort2>
             <falscheAntwort3>ca. 30</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2181,7 +2181,7 @@
             <falscheAntwort1>schwarze</falscheAntwort1>
             <falscheAntwort2>große</falscheAntwort2>
             <falscheAntwort3>weiße</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2191,7 +2191,7 @@
             <falscheAntwort1>Spanien</falscheAntwort1>
             <falscheAntwort2>Portugal</falscheAntwort2>
             <falscheAntwort3>Italien</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2201,7 +2201,7 @@
             <falscheAntwort1>das Beißen</falscheAntwort1>
             <falscheAntwort2>das Ausschlagen mit den Vorderhufen</falscheAntwort2>
             <falscheAntwort3>das Ausschlagen mit den Hinterhufen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2211,7 +2211,7 @@
             <falscheAntwort1>das Friesenpferd</falscheAntwort1>
             <falscheAntwort2>der Isländer</falscheAntwort2>
             <falscheAntwort3>der Holsteiner</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2221,7 +2221,7 @@
             <falscheAntwort1>so groß wie ein Esel</falscheAntwort1>
             <falscheAntwort2>so groß wie ein Wolf</falscheAntwort2>
             <falscheAntwort3>so groß wie ein Büffel</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2231,7 +2231,7 @@
             <falscheAntwort1>50 - 70 Liter</falscheAntwort1>
             <falscheAntwort2>10 - 20 Liter</falscheAntwort2>
             <falscheAntwort3>2 - 10 Liter</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -2241,7 +2241,7 @@
             <falscheAntwort1>Maultiere</falscheAntwort1>
             <falscheAntwort2>Pferde</falscheAntwort2>
             <falscheAntwort3>Kamele</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -2251,7 +2251,7 @@
             <falscheAntwort1>weil sie dann nicht mehr fressen</falscheAntwort1>
             <falscheAntwort2>weil das zu teuer ist</falscheAntwort2>
             <falscheAntwort3>weil sie dann blind werden</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -2261,7 +2261,7 @@
             <falscheAntwort1>ein Rennpferd, das mit einem Jahr seinen ersten Sieg feierte</falscheAntwort1>
             <falscheAntwort2>ein Rennpferd, das bereits ein Jahr Rennerfahrung besitzt</falscheAntwort2>
             <falscheAntwort3>ein zweijähriges Pferd</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -2271,7 +2271,7 @@
             <falscheAntwort1>Gaul</falscheAntwort1>
             <falscheAntwort2>Stute</falscheAntwort2>
             <falscheAntwort3>Rappe</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -2281,7 +2281,7 @@
             <falscheAntwort1>die Vorderhufe</falscheAntwort1>
             <falscheAntwort2>die Haare an den Innenohren</falscheAntwort2>
             <falscheAntwort3>die langen Schweifhaare</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2291,7 +2291,7 @@
             <falscheAntwort1>sein Stall</falscheAntwort1>
             <falscheAntwort2>sein Skelett</falscheAntwort2>
             <falscheAntwort3>sein Gebiss</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2301,7 +2301,7 @@
             <falscheAntwort1>Euto pferdus</falscheAntwort1>
             <falscheAntwort2>Equus caballus</falscheAntwort2>
             <falscheAntwort3>Przewalski - Pferd</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2311,7 +2311,7 @@
             <falscheAntwort1>vor ca. 7.000 Jahren</falscheAntwort1>
             <falscheAntwort2>vor ca. 3.000 Jahren</falscheAntwort2>
             <falscheAntwort3>vor ca. 9.000 Jahren</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2321,7 +2321,7 @@
             <falscheAntwort1>Voillant</falscheAntwort1>
             <falscheAntwort2>Wallach</falscheAntwort2>
             <falscheAntwort3>Vauxhall</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>

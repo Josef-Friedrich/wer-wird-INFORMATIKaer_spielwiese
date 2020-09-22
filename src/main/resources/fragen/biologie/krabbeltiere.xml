@@ -11,7 +11,7 @@
             <falscheAntwort1/>
             <falscheAntwort2/>
             <falscheAntwort3/>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -21,7 +21,7 @@
             <falscheAntwort1>blau</falscheAntwort1>
             <falscheAntwort2>rot</falscheAntwort2>
             <falscheAntwort3>gelb</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -31,7 +31,7 @@
             <falscheAntwort1>4</falscheAntwort1>
             <falscheAntwort2>2</falscheAntwort2>
             <falscheAntwort3>6</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -41,7 +41,7 @@
             <falscheAntwort1>Aufdomen</falscheAntwort1>
             <falscheAntwort2>Abkommen</falscheAntwort2>
             <falscheAntwort3>Andomen</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -51,7 +51,7 @@
             <falscheAntwort1>Moritz</falscheAntwort1>
             <falscheAntwort2>Votax</falscheAntwort2>
             <falscheAntwort3>Borathax</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -61,7 +61,7 @@
             <falscheAntwort1>Holzameisen</falscheAntwort1>
             <falscheAntwort2>Schneiderameisen</falscheAntwort2>
             <falscheAntwort3>Heeresameisen</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -71,7 +71,7 @@
             <falscheAntwort1>am Betrieb</falscheAntwort1>
             <falscheAntwort2>am Lärm</falscheAntwort2>
             <falscheAntwort3>am Wegweiser</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -81,7 +81,7 @@
             <falscheAntwort1>an den Hinterbeinen</falscheAntwort1>
             <falscheAntwort2>am Kopf</falscheAntwort2>
             <falscheAntwort3>am Hinterleib</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -91,7 +91,7 @@
             <falscheAntwort1>500 - 800 m</falscheAntwort1>
             <falscheAntwort2>800 - 1.000 m</falscheAntwort2>
             <falscheAntwort3>50 - 350 m</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -101,7 +101,7 @@
             <falscheAntwort1>am Rüssel</falscheAntwort1>
             <falscheAntwort2>an den Fühlern</falscheAntwort2>
             <falscheAntwort3>an den Flügelspitzen</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -111,7 +111,7 @@
             <falscheAntwort1>bis zu 4 Jahren</falscheAntwort1>
             <falscheAntwort2>bis zu 10 Jahren</falscheAntwort2>
             <falscheAntwort3>1 - 3 Jahre</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -121,7 +121,7 @@
             <falscheAntwort1>Krabbenspinne</falscheAntwort1>
             <falscheAntwort2>Wolfsspinne</falscheAntwort2>
             <falscheAntwort3>Vogelspinne</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -131,7 +131,7 @@
             <falscheAntwort1>Schlosstürspinne</falscheAntwort1>
             <falscheAntwort2>Hintertürspinne</falscheAntwort2>
             <falscheAntwort3>Haustürspinne</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -141,7 +141,7 @@
             <falscheAntwort1>bis zu 5 cm</falscheAntwort1>
             <falscheAntwort2>bis zu 7 cm</falscheAntwort2>
             <falscheAntwort3>bis zu 3 cm</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -151,7 +151,7 @@
             <falscheAntwort1>Schneiderknecht</falscheAntwort1>
             <falscheAntwort2>Webermagd</falscheAntwort2>
             <falscheAntwort3>Spinnenknecht</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -161,7 +161,7 @@
             <falscheAntwort1>nur die Männchen</falscheAntwort1>
             <falscheAntwort2>nur die Weibchen</falscheAntwort2>
             <falscheAntwort3>Nur die Jungtiere haben Fühler, später fallen die Fühler ab.</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -171,7 +171,7 @@
             <falscheAntwort1>Männchen</falscheAntwort1>
             <falscheAntwort2>Weibchen</falscheAntwort2>
             <falscheAntwort3>Soldaten</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -181,7 +181,7 @@
             <falscheAntwort1>gelb - schwarze Mücken</falscheAntwort1>
             <falscheAntwort2>schwarz - gelbe Ameisen</falscheAntwort2>
             <falscheAntwort3>eine Libellenart</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -191,7 +191,7 @@
             <falscheAntwort1>Baumharz</falscheAntwort1>
             <falscheAntwort2>Zuckerwasser</falscheAntwort2>
             <falscheAntwort3>Sirup Gelée</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -201,7 +201,7 @@
             <falscheAntwort1>Königinnenzellen</falscheAntwort1>
             <falscheAntwort2>Schwarzzellen</falscheAntwort2>
             <falscheAntwort3>Royalzellen</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -211,7 +211,7 @@
             <falscheAntwort1>Mücken</falscheAntwort1>
             <falscheAntwort2>Bienen</falscheAntwort2>
             <falscheAntwort3>Fliegen</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -221,7 +221,7 @@
             <falscheAntwort1>ca. 950</falscheAntwort1>
             <falscheAntwort2>ca. 500</falscheAntwort2>
             <falscheAntwort3>ca. 340</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -231,7 +231,7 @@
             <falscheAntwort1>bis 7,5 cm</falscheAntwort1>
             <falscheAntwort2>bis 10,5 cm</falscheAntwort2>
             <falscheAntwort3>bis 18,5 cm</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -241,7 +241,7 @@
             <falscheAntwort1>Monsterkäfer</falscheAntwort1>
             <falscheAntwort2>Riesenkäfer</falscheAntwort2>
             <falscheAntwort3>Mammutkäfer</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -251,7 +251,7 @@
             <falscheAntwort1>ca. 150.000</falscheAntwort1>
             <falscheAntwort2>180.000 - 220.000</falscheAntwort2>
             <falscheAntwort3>90.000 - 130.000</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -261,7 +261,7 @@
             <falscheAntwort1>Fridolin</falscheAntwort1>
             <falscheAntwort2>Immersatt</falscheAntwort2>
             <falscheAntwort3>Rudi Räupchen</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -271,7 +271,7 @@
             <falscheAntwort1>Schmetterlinge und Motten</falscheAntwort1>
             <falscheAntwort2>Zweiflügler</falscheAntwort2>
             <falscheAntwort3>Fangschrecken und Libellen</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -281,7 +281,7 @@
             <falscheAntwort1>50 mal so weit, wie er lang ist</falscheAntwort1>
             <falscheAntwort2>100 mal so weit, wie er lang ist</falscheAntwort2>
             <falscheAntwort3>10 mal so weit, wie er lang ist</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -291,7 +291,7 @@
             <falscheAntwort1>nur die Männchen</falscheAntwort1>
             <falscheAntwort2>ja</falscheAntwort2>
             <falscheAntwort3>nur die Weibchen</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -301,7 +301,7 @@
             <falscheAntwort1>Gaspedal</falscheAntwort1>
             <falscheAntwort2>Blinker</falscheAntwort2>
             <falscheAntwort3>Kupplung</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -311,7 +311,7 @@
             <falscheAntwort1>Stechmücke</falscheAntwort1>
             <falscheAntwort2>Gnitze</falscheAntwort2>
             <falscheAntwort3>Kriebelmücke</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -321,7 +321,7 @@
             <falscheAntwort1>Laken</falscheAntwort1>
             <falscheAntwort2>Braken</falscheAntwort2>
             <falscheAntwort3>Knaken</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -331,7 +331,7 @@
             <falscheAntwort1>Monsterfalter</falscheAntwort1>
             <falscheAntwort2>Riesenfalter</falscheAntwort2>
             <falscheAntwort3>Adlerfalter</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -341,7 +341,7 @@
             <falscheAntwort1>Zangen</falscheAntwort1>
             <falscheAntwort2>Fühler</falscheAntwort2>
             <falscheAntwort3>Lippen</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -351,7 +351,7 @@
             <falscheAntwort1>Schmetterlingchen</falscheAntwort1>
             <falscheAntwort2>Schlepper</falscheAntwort2>
             <falscheAntwort3>little Schmetterling</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -361,7 +361,7 @@
             <falscheAntwort1>18 cm</falscheAntwort1>
             <falscheAntwort2>22 cm</falscheAntwort2>
             <falscheAntwort3>14 cm</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -371,7 +371,7 @@
             <falscheAntwort1>ca. 320.000</falscheAntwort1>
             <falscheAntwort2>ca. 400.000</falscheAntwort2>
             <falscheAntwort3>ca. 75.000</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -381,7 +381,7 @@
             <falscheAntwort1>etwa 40 mm</falscheAntwort1>
             <falscheAntwort2>ca. 3,5 cm</falscheAntwort2>
             <falscheAntwort3>10 - 25 mm</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -391,7 +391,7 @@
             <falscheAntwort1>bis zu 3 cm</falscheAntwort1>
             <falscheAntwort2>bis zu 2 cm</falscheAntwort2>
             <falscheAntwort3>bis zu 4 cm</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -401,7 +401,7 @@
             <falscheAntwort1>Nylon</falscheAntwort1>
             <falscheAntwort2>Embryo</falscheAntwort2>
             <falscheAntwort3>Symphonie</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -411,7 +411,7 @@
             <falscheAntwort1>5 - 9 cm</falscheAntwort1>
             <falscheAntwort2>bis 10 cm</falscheAntwort2>
             <falscheAntwort3>60 mm</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -421,7 +421,7 @@
             <falscheAntwort1>ca. 1.200</falscheAntwort1>
             <falscheAntwort2>ca. 3.500</falscheAntwort2>
             <falscheAntwort3>600 - 900</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -431,7 +431,7 @@
             <falscheAntwort1>15 - 25 km/h</falscheAntwort1>
             <falscheAntwort2>20 - 30 km/h</falscheAntwort2>
             <falscheAntwort3>38 km/h</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -441,7 +441,7 @@
             <falscheAntwort1>wie eine Ameise</falscheAntwort1>
             <falscheAntwort2>wie ein Löwe</falscheAntwort2>
             <falscheAntwort3>wie eine Wespe</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -451,7 +451,7 @@
             <falscheAntwort1>Elefantenhalsfliege</falscheAntwort1>
             <falscheAntwort2>Giraffenhalsfliege</falscheAntwort2>
             <falscheAntwort3>Pferdehalsfliege</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -461,7 +461,7 @@
             <falscheAntwort1>3 - 6 cm</falscheAntwort1>
             <falscheAntwort2>4 - 8 cm</falscheAntwort2>
             <falscheAntwort3>10,5 cm</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -471,7 +471,7 @@
             <falscheAntwort1>mit ihren langen Fühlern</falscheAntwort1>
             <falscheAntwort2>mit ihren spitzen Zangen</falscheAntwort2>
             <falscheAntwort3>mit ihren behaarten Hinterbeinen</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -481,7 +481,7 @@
             <falscheAntwort1>Mondanbeterin</falscheAntwort1>
             <falscheAntwort2>Sonnenanbeterin</falscheAntwort2>
             <falscheAntwort3>Tempelanbeterin</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -491,7 +491,7 @@
             <falscheAntwort1>mit ihren Fühlern</falscheAntwort1>
             <falscheAntwort2>mit ihren Hinterbeinen</falscheAntwort2>
             <falscheAntwort3>mit ihren Vorderbeinen</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -501,7 +501,7 @@
             <falscheAntwort1>Hamstergrille</falscheAntwort1>
             <falscheAntwort2>Pferdegrille</falscheAntwort2>
             <falscheAntwort3>Meerschweinchengrille</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -511,7 +511,7 @@
             <falscheAntwort1>wie ein Totenkopf</falscheAntwort1>
             <falscheAntwort2>wie ein alter Schlossgeist</falscheAntwort2>
             <falscheAntwort3>wieeine Mumie</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -521,7 +521,7 @@
             <falscheAntwort1>45 cm</falscheAntwort1>
             <falscheAntwort2>20 - 25 cm</falscheAntwort2>
             <falscheAntwort3>60 - 70 mm</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -531,7 +531,7 @@
             <falscheAntwort1>2 - 5 cm</falscheAntwort1>
             <falscheAntwort2>3 cm</falscheAntwort2>
             <falscheAntwort3>5,5 cm</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -541,7 +541,7 @@
             <falscheAntwort1>ca. 600.000</falscheAntwort1>
             <falscheAntwort2>Millionen</falscheAntwort2>
             <falscheAntwort3>200.000 - 500.000</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -551,7 +551,7 @@
             <falscheAntwort1>australische Langfühlerschrecke</falscheAntwort1>
             <falscheAntwort2>Gespenstheuschrecke</falscheAntwort2>
             <falscheAntwort3>Kampfheuschrecken</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -561,7 +561,7 @@
             <falscheAntwort1>3 - 5 cm</falscheAntwort1>
             <falscheAntwort2>1 - 2 cm</falscheAntwort2>
             <falscheAntwort3>12 - 18 cm</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -571,7 +571,7 @@
             <falscheAntwort1>Wandelnder Busch</falscheAntwort1>
             <falscheAntwort2>Wandelnder Baum</falscheAntwort2>
             <falscheAntwort3>Wandelnder Zweig</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -581,7 +581,7 @@
             <falscheAntwort1>mit den Fühlern</falscheAntwort1>
             <falscheAntwort2>mit den Hinterbeinen</falscheAntwort2>
             <falscheAntwort3>mit den Zangen</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -591,7 +591,7 @@
             <falscheAntwort1>ungefähr 50 mal so weit, wie sie lang ist</falscheAntwort1>
             <falscheAntwort2>ca. 100 mal so weit, wie sie lang ist</falscheAntwort2>
             <falscheAntwort3>genau 10 mal so weit, wie sie lang ist</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -601,7 +601,7 @@
             <falscheAntwort1>langsame Heuschrecken und schnelle Heuschrecken</falscheAntwort1>
             <falscheAntwort2>dünne Heuschrecken und dicke Heuschrecken</falscheAntwort2>
             <falscheAntwort3>Brummheuschrecken und Summheuschrecken</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -611,7 +611,7 @@
             <falscheAntwort1>1 - 5 mm</falscheAntwort1>
             <falscheAntwort2>2 - 3 mm</falscheAntwort2>
             <falscheAntwort3>25 - 45 mm</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -621,7 +621,7 @@
             <falscheAntwort1>4</falscheAntwort1>
             <falscheAntwort2>3</falscheAntwort2>
             <falscheAntwort3>5</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -631,7 +631,7 @@
             <falscheAntwort1>ca. 40.000</falscheAntwort1>
             <falscheAntwort2>ca. 3.000</falscheAntwort2>
             <falscheAntwort3>ca. 2 Millionen</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -641,7 +641,7 @@
             <falscheAntwort1>am Kopf</falscheAntwort1>
             <falscheAntwort2>am Hinterleib</falscheAntwort2>
             <falscheAntwort3>immer zwei an der Brust und vier am Hinterleib</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -651,7 +651,7 @@
             <falscheAntwort1>Brust</falscheAntwort1>
             <falscheAntwort2>Kopf</falscheAntwort2>
             <falscheAntwort3>Hinterleib</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -661,7 +661,7 @@
             <falscheAntwort1>9</falscheAntwort1>
             <falscheAntwort2>6</falscheAntwort2>
             <falscheAntwort3>2</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -671,7 +671,7 @@
             <falscheAntwort1>150 mal</falscheAntwort1>
             <falscheAntwort2>300 mal</falscheAntwort2>
             <falscheAntwort3>75 mal</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -681,7 +681,7 @@
             <falscheAntwort1>Falle</falscheAntwort1>
             <falscheAntwort2>Korb</falscheAntwort2>
             <falscheAntwort3>Pfeil</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -691,7 +691,7 @@
             <falscheAntwort1>Spunner</falscheAntwort1>
             <falscheAntwort2>Spinner</falscheAntwort2>
             <falscheAntwort3>Sponner</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -701,7 +701,7 @@
             <falscheAntwort1>7 - 10 Wochen</falscheAntwort1>
             <falscheAntwort2>2 - 3 Wochen</falscheAntwort2>
             <falscheAntwort3>1/2 Jahr</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -711,7 +711,7 @@
             <falscheAntwort1>Heuschrecke</falscheAntwort1>
             <falscheAntwort2>Hirschkäfer</falscheAntwort2>
             <falscheAntwort3>Gottesanbeterin</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -721,7 +721,7 @@
             <falscheAntwort1>Motte</falscheAntwort1>
             <falscheAntwort2>Glühwürmchen</falscheAntwort2>
             <falscheAntwort3>Nachtwespe</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -731,7 +731,7 @@
             <falscheAntwort1>Kuhfliegen</falscheAntwort1>
             <falscheAntwort2>Libellen</falscheAntwort2>
             <falscheAntwort3>Hornissen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -741,7 +741,7 @@
             <falscheAntwort1>Schlupfwespe</falscheAntwort1>
             <falscheAntwort2>Gallwespe</falscheAntwort2>
             <falscheAntwort3>Hummel</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -751,7 +751,7 @@
             <falscheAntwort1>Rote Waldameisen</falscheAntwort1>
             <falscheAntwort2>Blattläuse</falscheAntwort2>
             <falscheAntwort3>Rotbrandkäfer</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -761,7 +761,7 @@
             <falscheAntwort1>Nächtchen</falscheAntwort1>
             <falscheAntwort2>Schläfchen</falscheAntwort2>
             <falscheAntwort3>Summchen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -771,7 +771,7 @@
             <falscheAntwort1>Schneefloh</falscheAntwort1>
             <falscheAntwort2>Eisfloh</falscheAntwort2>
             <falscheAntwort3>Winterfloh</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -781,7 +781,7 @@
             <falscheAntwort1>Mücke</falscheAntwort1>
             <falscheAntwort2>Schnecke</falscheAntwort2>
             <falscheAntwort3>Floh</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -791,7 +791,7 @@
             <falscheAntwort1>Käferanbeterin</falscheAntwort1>
             <falscheAntwort2>Sonnenanbeterin</falscheAntwort2>
             <falscheAntwort3>Heuschreckenanbeterin</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -801,7 +801,7 @@
             <falscheAntwort1>Hirschkäfer</falscheAntwort1>
             <falscheAntwort2>Ohrkäfer</falscheAntwort2>
             <falscheAntwort3>Skorpionkäfer</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -811,7 +811,7 @@
             <falscheAntwort1>Silberwanze</falscheAntwort1>
             <falscheAntwort2>Silberkäfer</falscheAntwort2>
             <falscheAntwort3>Silberfloh</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -821,7 +821,7 @@
             <falscheAntwort1>Minutenfliege</falscheAntwort1>
             <falscheAntwort2>Wochenfliege</falscheAntwort2>
             <falscheAntwort3>Stundenfliege</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -831,7 +831,7 @@
             <falscheAntwort1>Wespen</falscheAntwort1>
             <falscheAntwort2>Hummeln</falscheAntwort2>
             <falscheAntwort3>Bienen</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -841,7 +841,7 @@
             <falscheAntwort1>Hirschkäfer</falscheAntwort1>
             <falscheAntwort2>Heulsusen</falscheAntwort2>
             <falscheAntwort3>Hundeflöhe</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -851,7 +851,7 @@
             <falscheAntwort1>bis 1 Millionen</falscheAntwort1>
             <falscheAntwort2>bis 100.000</falscheAntwort2>
             <falscheAntwort3>bis 1.000</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -861,7 +861,7 @@
             <falscheAntwort1>Rebkäfer</falscheAntwort1>
             <falscheAntwort2>Weinlaus</falscheAntwort2>
             <falscheAntwort3>Weinkäfer</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -871,7 +871,7 @@
             <falscheAntwort1>Wassersprinter</falscheAntwort1>
             <falscheAntwort2>Wasserrenner</falscheAntwort2>
             <falscheAntwort3>Wasserraser</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -881,7 +881,7 @@
             <falscheAntwort1>Mücke</falscheAntwort1>
             <falscheAntwort2>Wanze</falscheAntwort2>
             <falscheAntwort3>Bremse</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -891,7 +891,7 @@
             <falscheAntwort1>Die Nester vertreiben tollwütige Füchse.</falscheAntwort1>
             <falscheAntwort2>Die Nester verbessern die Waldluft.</falscheAntwort2>
             <falscheAntwort3>Sie bestäuben die Nadelbäume.</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -901,7 +901,7 @@
             <falscheAntwort1>Honigrucksack</falscheAntwort1>
             <falscheAntwort2>Jäckchen</falscheAntwort2>
             <falscheAntwort3>Honigtäschlein</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -911,7 +911,7 @@
             <falscheAntwort1>ca. 2,5 Millionen</falscheAntwort1>
             <falscheAntwort2>ca. 250.000</falscheAntwort2>
             <falscheAntwort3>ca. 900.000</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -921,7 +921,7 @@
             <falscheAntwort1>Metahobit</falscheAntwort1>
             <falscheAntwort2>Metapher</falscheAntwort2>
             <falscheAntwort3>Metakokonose</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -931,7 +931,7 @@
             <falscheAntwort1>Tagpfauenauge</falscheAntwort1>
             <falscheAntwort2>Zitronenfalter</falscheAntwort2>
             <falscheAntwort3>Kleiner Fuchs</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -941,7 +941,7 @@
             <falscheAntwort1>3 Jahre</falscheAntwort1>
             <falscheAntwort2>2 Jahre</falscheAntwort2>
             <falscheAntwort3>4 Jahre</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -951,7 +951,7 @@
             <falscheAntwort1>Rosengallbiene</falscheAntwort1>
             <falscheAntwort2>Rosengallfliege</falscheAntwort2>
             <falscheAntwort3>Rosengallhummel</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -961,7 +961,7 @@
             <falscheAntwort1>Raketenkäfer</falscheAntwort1>
             <falscheAntwort2>Kanonenkäfer</falscheAntwort2>
             <falscheAntwort3>Torpedokäfer</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -971,7 +971,7 @@
             <falscheAntwort1>Flügelsurren</falscheAntwort1>
             <falscheAntwort2>Fühlerkreisel</falscheAntwort2>
             <falscheAntwort3>Beinchenklatschen</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -981,7 +981,7 @@
             <falscheAntwort1>Nylon</falscheAntwort1>
             <falscheAntwort2>Wolle</falscheAntwort2>
             <falscheAntwort3>Draht</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -991,7 +991,7 @@
             <falscheAntwort1>Bücherspinne</falscheAntwort1>
             <falscheAntwort2>Bücherwurm</falscheAntwort2>
             <falscheAntwort3>Bücherlaus</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1001,7 +1001,7 @@
             <falscheAntwort1>12</falscheAntwort1>
             <falscheAntwort2>6</falscheAntwort2>
             <falscheAntwort3>4</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1011,7 +1011,7 @@
             <falscheAntwort1>Hausfliege</falscheAntwort1>
             <falscheAntwort2>Moorfliege</falscheAntwort2>
             <falscheAntwort3>Froschfliege</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1021,7 +1021,7 @@
             <falscheAntwort1>abgestoßene Hirschgeweihe</falscheAntwort1>
             <falscheAntwort2>Insekten im Fell der Hirsche</falscheAntwort2>
             <falscheAntwort3>Fallobst</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1031,7 +1031,7 @@
             <falscheAntwort1>Melkameisen</falscheAntwort1>
             <falscheAntwort2>Honigameisen</falscheAntwort2>
             <falscheAntwort3>südamerikanische Riesenameisen</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1041,7 +1041,7 @@
             <falscheAntwort1>Ernten der Früchte</falscheAntwort1>
             <falscheAntwort2>Düngen der Wurzeln</falscheAntwort2>
             <falscheAntwort3>Beschneiden der Blätter</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1051,7 +1051,7 @@
             <falscheAntwort1>Aaskäfer</falscheAntwort1>
             <falscheAntwort2>Leichengräber</falscheAntwort2>
             <falscheAntwort3>Mumienkäfer</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1061,7 +1061,7 @@
             <falscheAntwort1>Seidendummer</falscheAntwort1>
             <falscheAntwort2>Seidennarr</falscheAntwort2>
             <falscheAntwort3>Seidenblödel</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1071,7 +1071,7 @@
             <falscheAntwort1>Ingerling</falscheAntwort1>
             <falscheAntwort2>Angerling</falscheAntwort2>
             <falscheAntwort3>Ungerling</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1081,7 +1081,7 @@
             <falscheAntwort1>Abendpfauenauge</falscheAntwort1>
             <falscheAntwort2>Nachtpfauenauge</falscheAntwort2>
             <falscheAntwort3>Morgenpfauenauge</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1091,7 +1091,7 @@
             <falscheAntwort1>Himmelblau</falscheAntwort1>
             <falscheAntwort2>Türkisgrün</falscheAntwort2>
             <falscheAntwort3>Rosarot</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1101,7 +1101,7 @@
             <falscheAntwort1>Kirschendreher</falscheAntwort1>
             <falscheAntwort2>Birnenzwirbler</falscheAntwort2>
             <falscheAntwort3>Pflaumenroller</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1111,7 +1111,7 @@
             <falscheAntwort1>Rotte</falscheAntwort1>
             <falscheAntwort2>Lotte</falscheAntwort2>
             <falscheAntwort3>Grotte</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1121,7 +1121,7 @@
             <falscheAntwort1>Pampelmusenfalter</falscheAntwort1>
             <falscheAntwort2>Bananenfalter</falscheAntwort2>
             <falscheAntwort3>Sonnenfalter</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1131,7 +1131,7 @@
             <falscheAntwort1>Königinnen</falscheAntwort1>
             <falscheAntwort2>Weibchen</falscheAntwort2>
             <falscheAntwort3>Arbeiterinnen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1141,7 +1141,7 @@
             <falscheAntwort1>Bissen</falscheAntwort1>
             <falscheAntwort2>Kissen</falscheAntwort2>
             <falscheAntwort3>Wissen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1151,7 +1151,7 @@
             <falscheAntwort1>Königinnen</falscheAntwort1>
             <falscheAntwort2>Weibchen</falscheAntwort2>
             <falscheAntwort3>Wächterinnen</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1161,7 +1161,7 @@
             <falscheAntwort1>Kakerlake</falscheAntwort1>
             <falscheAntwort2>Hausmade</falscheAntwort2>
             <falscheAntwort3>Hausmumie</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1171,7 +1171,7 @@
             <falscheAntwort1>Bananenspinne</falscheAntwort1>
             <falscheAntwort2>Fischspinne</falscheAntwort2>
             <falscheAntwort3>Mörderspinne</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1181,7 +1181,7 @@
             <falscheAntwort1>Kakteen</falscheAntwort1>
             <falscheAntwort2>Drachmen</falscheAntwort2>
             <falscheAntwort3>Truchin</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1191,7 +1191,7 @@
             <falscheAntwort1>Dornen</falscheAntwort1>
             <falscheAntwort2>Willi</falscheAntwort2>
             <falscheAntwort3>Bohnen</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1201,7 +1201,7 @@
             <falscheAntwort1>Trockenwürmer</falscheAntwort1>
             <falscheAntwort2>Trockenholzkäfer</falscheAntwort2>
             <falscheAntwort3>Trockenkäfer</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1211,7 +1211,7 @@
             <falscheAntwort1>Priester</falscheAntwort1>
             <falscheAntwort2>Mönch</falscheAntwort2>
             <falscheAntwort3>Kaplan</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1221,7 +1221,7 @@
             <falscheAntwort1>Rotbrandkäfer</falscheAntwort1>
             <falscheAntwort2>Grünbrandkäfer</falscheAntwort2>
             <falscheAntwort3>Blaubrandkäfer</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1231,7 +1231,7 @@
             <falscheAntwort1>Anakondamücke</falscheAntwort1>
             <falscheAntwort2>Malariamücke</falscheAntwort2>
             <falscheAntwort3>Aristotelesmücke</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1241,7 +1241,7 @@
             <falscheAntwort1>Wasserfliege</falscheAntwort1>
             <falscheAntwort2>Röhrenfliege</falscheAntwort2>
             <falscheAntwort3>Küchenfliege</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1251,7 +1251,7 @@
             <falscheAntwort1>Scheinwürmchen</falscheAntwort1>
             <falscheAntwort2>Leuchtwürmchen</falscheAntwort2>
             <falscheAntwort3>Strahlewürmchen</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1261,7 +1261,7 @@
             <falscheAntwort1>Baumkäfer</falscheAntwort1>
             <falscheAntwort2>Rindenkäfer</falscheAntwort2>
             <falscheAntwort3>Waldkäfer</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1271,7 +1271,7 @@
             <falscheAntwort1>Säugling</falscheAntwort1>
             <falscheAntwort2>Teddy</falscheAntwort2>
             <falscheAntwort3>Embryo</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1281,7 +1281,7 @@
             <falscheAntwort1>Josefskäfer</falscheAntwort1>
             <falscheAntwort2>Johanneskäfer</falscheAntwort2>
             <falscheAntwort3>Barbarakäfer</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1291,7 +1291,7 @@
             <falscheAntwort1>Nektar</falscheAntwort1>
             <falscheAntwort2>Marmelade</falscheAntwort2>
             <falscheAntwort3>Sirup</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1301,7 +1301,7 @@
             <falscheAntwort1>Wildschweinkäfer</falscheAntwort1>
             <falscheAntwort2>Rehkäfer</falscheAntwort2>
             <falscheAntwort3>Elchkäfer</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1311,7 +1311,7 @@
             <falscheAntwort1>Reiskäfer</falscheAntwort1>
             <falscheAntwort2>Nudelkäfer</falscheAntwort2>
             <falscheAntwort3>Weizenkäfer</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1321,7 +1321,7 @@
             <falscheAntwort1>Chow - Chow</falscheAntwort1>
             <falscheAntwort2>Bähbäh</falscheAntwort2>
             <falscheAntwort3>Yangtse</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1331,7 +1331,7 @@
             <falscheAntwort1>Flöhe</falscheAntwort1>
             <falscheAntwort2>Ameisen</falscheAntwort2>
             <falscheAntwort3>Maden</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1341,7 +1341,7 @@
             <falscheAntwort1>Marienkäfer</falscheAntwort1>
             <falscheAntwort2>Maikäfer</falscheAntwort2>
             <falscheAntwort3>Hirschkäfer</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1351,7 +1351,7 @@
             <falscheAntwort1>Fliegen</falscheAntwort1>
             <falscheAntwort2>Libellen</falscheAntwort2>
             <falscheAntwort3>Mücken</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1361,7 +1361,7 @@
             <falscheAntwort1>Klara</falscheAntwort1>
             <falscheAntwort2>Marion</falscheAntwort2>
             <falscheAntwort3>Sara</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -1371,7 +1371,7 @@
             <falscheAntwort1>Sirup</falscheAntwort1>
             <falscheAntwort2>Honig</falscheAntwort2>
             <falscheAntwort3>Nutella</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1381,7 +1381,7 @@
             <falscheAntwort1>Schrumpfwespe</falscheAntwort1>
             <falscheAntwort2>Rennwespe</falscheAntwort2>
             <falscheAntwort3>Schlafwespe</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1391,7 +1391,7 @@
             <falscheAntwort1>Prinzessin</falscheAntwort1>
             <falscheAntwort2>Kaiserin</falscheAntwort2>
             <falscheAntwort3>Maja</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1401,7 +1401,7 @@
             <falscheAntwort1>Krüge</falscheAntwort1>
             <falscheAntwort2>Becher</falscheAntwort2>
             <falscheAntwort3>Kammern</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1411,7 +1411,7 @@
             <falscheAntwort1>Gallwespen</falscheAntwort1>
             <falscheAntwort2>Libellen</falscheAntwort2>
             <falscheAntwort3>Honigbienen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1421,7 +1421,7 @@
             <falscheAntwort1>Schaden</falscheAntwort1>
             <falscheAntwort2>Waden</falscheAntwort2>
             <falscheAntwort3>Laden</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1431,7 +1431,7 @@
             <falscheAntwort1>Wespen</falscheAntwort1>
             <falscheAntwort2>Bienen</falscheAntwort2>
             <falscheAntwort3>Hummeln</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1441,7 +1441,7 @@
             <falscheAntwort1>Kokon</falscheAntwort1>
             <falscheAntwort2>Puppe</falscheAntwort2>
             <falscheAntwort3>Harfe</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1451,7 +1451,7 @@
             <falscheAntwort1>ca. 430.000</falscheAntwort1>
             <falscheAntwort2>ca. 200.000</falscheAntwort2>
             <falscheAntwort3>1.300.000</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1461,7 +1461,7 @@
             <falscheAntwort1>Spiegelaugen</falscheAntwort1>
             <falscheAntwort2>Mosaikaugen</falscheAntwort2>
             <falscheAntwort3>Raclettaugen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1471,7 +1471,7 @@
             <falscheAntwort1>Antennen</falscheAntwort1>
             <falscheAntwort2>Riecher</falscheAntwort2>
             <falscheAntwort3>Rüssel</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1481,7 +1481,7 @@
             <falscheAntwort1>Karotin</falscheAntwort1>
             <falscheAntwort2>Strichnin</falscheAntwort2>
             <falscheAntwort3>Hämoglobin</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1491,7 +1491,7 @@
             <falscheAntwort1>4</falscheAntwort1>
             <falscheAntwort2>8</falscheAntwort2>
             <falscheAntwort3>10</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1501,7 +1501,7 @@
             <falscheAntwort1>Kokon</falscheAntwort1>
             <falscheAntwort2>Puppe</falscheAntwort2>
             <falscheAntwort3>Harfe</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>

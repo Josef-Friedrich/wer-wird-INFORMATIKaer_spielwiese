@@ -11,7 +11,7 @@
             <falscheAntwort1>einen langen Güterzug</falscheAntwort1>
             <falscheAntwort2>einen ländlichen Bummelzug</falscheAntwort2>
             <falscheAntwort3>eine russische U-Bahn</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -21,7 +21,7 @@
             <falscheAntwort1>52 Tonnen</falscheAntwort1>
             <falscheAntwort2>12 Tonnen</falscheAntwort2>
             <falscheAntwort3>134 Tonnen</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -31,7 +31,7 @@
             <falscheAntwort1>161,5 km/h</falscheAntwort1>
             <falscheAntwort2>101,5 km/h</falscheAntwort2>
             <falscheAntwort3>191,5 km/h</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -41,7 +41,7 @@
             <falscheAntwort1>1</falscheAntwort1>
             <falscheAntwort2>keinen</falscheAntwort2>
             <falscheAntwort3>3</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -51,7 +51,7 @@
             <falscheAntwort1>die Anzahl der Stromabnehmer</falscheAntwort1>
             <falscheAntwort2>die Anzahl der Räder</falscheAntwort2>
             <falscheAntwort3>die Anzahl der Transformatoren</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -61,7 +61,7 @@
             <falscheAntwort1>die Anzahl der verschiedenen Wagen</falscheAntwort1>
             <falscheAntwort2>die Anzahl der Achsen</falscheAntwort2>
             <falscheAntwort3>die Anzahl der Schornsteine</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -71,7 +71,7 @@
             <falscheAntwort1>Heizer brauchen Feuer</falscheAntwort1>
             <falscheAntwort2>Hamburg - Bremer - Fahrplan</falscheAntwort2>
             <falscheAntwort3>Herrliche Bahnfahrt</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -81,7 +81,7 @@
             <falscheAntwort1>Einmal Istanbul Hauptbahnhof mit dem Orientexpress</falscheAntwort1>
             <falscheAntwort2>In 80 Tagen um die Welt mit dem Orientexpress</falscheAntwort2>
             <falscheAntwort3>Die Abenteuer des Orientexpress</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -91,7 +91,7 @@
             <falscheAntwort1>Michael Nadeldreher</falscheAntwort1>
             <falscheAntwort2>Paul Schraubentuer</falscheAntwort2>
             <falscheAntwort3>Jupp Orient</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -101,7 +101,7 @@
             <falscheAntwort1>... dass der Zug so schnell fuhr und sie nichts von der Landschaft sehen konnten.</falscheAntwort1>
             <falscheAntwort2>... dass ihnen der Ruß der Lokomotive in den Augen brannte.</falscheAntwort2>
             <falscheAntwort3>... dass der Zug so über die Schienen ruckelte und der ganze Sekt verschüttet wurde.</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -111,7 +111,7 @@
             <falscheAntwort1>Spitzel - Express</falscheAntwort1>
             <falscheAntwort2>James Bond - Express</falscheAntwort2>
             <falscheAntwort3>Geheim - Express</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -121,7 +121,7 @@
             <falscheAntwort1>Er blieb 5 Tage lang bei minus 25 Grad in einer Schneewehe stecken.</falscheAntwort1>
             <falscheAntwort2>Er krachte in das vollbesetzte Frankfurter Bahnhofsrestaurant.</falscheAntwort2>
             <falscheAntwort3>Er stürzte von der Müngstenerbrücke in die Wupper.</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -131,7 +131,7 @@
             <falscheAntwort1>Öl</falscheAntwort1>
             <falscheAntwort2>Kohle</falscheAntwort2>
             <falscheAntwort3>Gas</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -141,7 +141,7 @@
             <falscheAntwort1>Omaha</falscheAntwort1>
             <falscheAntwort2>Sacramento</falscheAntwort2>
             <falscheAntwort3>Kansas City</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -151,7 +151,7 @@
             <falscheAntwort1>aus Eisen</falscheAntwort1>
             <falscheAntwort2>aus Platin</falscheAntwort2>
             <falscheAntwort3>aus Silber</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -161,7 +161,7 @@
             <falscheAntwort1>Hängschnauzenwagen</falscheAntwort1>
             <falscheAntwort2>Haltemaulwagen</falscheAntwort2>
             <falscheAntwort3>Ziehmundwagen</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -171,7 +171,7 @@
             <falscheAntwort1>Kuhhörnli - Bahn</falscheAntwort1>
             <falscheAntwort2>Ochsenschwanz - Bahn</falscheAntwort2>
             <falscheAntwort3>Bullenbäuchli - Bahn</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -181,7 +181,7 @@
             <falscheAntwort1>Stoppbock</falscheAntwort1>
             <falscheAntwort2>Haltestelle</falscheAntwort2>
             <falscheAntwort3>Bremsschild</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -191,7 +191,7 @@
             <falscheAntwort1>französischer Schlafwagen</falscheAntwort1>
             <falscheAntwort2>Wagen, in dem sich die Kohle befindet</falscheAntwort2>
             <falscheAntwort3>Schaffner für die erste Klasse</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -201,7 +201,7 @@
             <falscheAntwort1>Pantoffel</falscheAntwort1>
             <falscheAntwort2>Telegraph</falscheAntwort2>
             <falscheAntwort3>Xylophon</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -211,7 +211,7 @@
             <falscheAntwort1>Meuchelmörder</falscheAntwort1>
             <falscheAntwort2>Gattenmörder</falscheAntwort2>
             <falscheAntwort3>Vatermörder</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -221,7 +221,7 @@
             <falscheAntwort1>Der Dampfkessel war doppelt so groß wie erlaubt.</falscheAntwort1>
             <falscheAntwort2>Sie wurde von 20 versteckten Batterien angetrieben.</falscheAntwort2>
             <falscheAntwort3>Sie besaß sowohl vorne als auch hinten Spoiler.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -231,7 +231,7 @@
             <falscheAntwort1>220 Volt</falscheAntwort1>
             <falscheAntwort2>1.000 Volt</falscheAntwort2>
             <falscheAntwort3>1.000.000 Volt</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -241,7 +241,7 @@
             <falscheAntwort1>Zugsteig</falscheAntwort1>
             <falscheAntwort2>Bürgersteig</falscheAntwort2>
             <falscheAntwort3>Loksteig</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -251,7 +251,7 @@
             <falscheAntwort1>Pausengleis</falscheAntwort1>
             <falscheAntwort2>Ruhegleis</falscheAntwort2>
             <falscheAntwort3>Rentnergleis</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -261,7 +261,7 @@
             <falscheAntwort1>300 km/h</falscheAntwort1>
             <falscheAntwort2>340 km/h</falscheAntwort2>
             <falscheAntwort3>280 km/h</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -271,7 +271,7 @@
             <falscheAntwort1>111 km/h</falscheAntwort1>
             <falscheAntwort2>221 km/h</falscheAntwort2>
             <falscheAntwort3>441 km/h</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -281,7 +281,7 @@
             <falscheAntwort1>203 km/h</falscheAntwort1>
             <falscheAntwort2>143 km/h</falscheAntwort2>
             <falscheAntwort3>343 km/h</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -291,7 +291,7 @@
             <falscheAntwort1>310 km/h</falscheAntwort1>
             <falscheAntwort2>110 km/h</falscheAntwort2>
             <falscheAntwort3>410 km/h</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -301,7 +301,7 @@
             <falscheAntwort1>84 km/h</falscheAntwort1>
             <falscheAntwort2>44 km/h</falscheAntwort2>
             <falscheAntwort3>104 km/h</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -311,7 +311,7 @@
             <falscheAntwort1>16 km/h</falscheAntwort1>
             <falscheAntwort2>156 km/h</falscheAntwort2>
             <falscheAntwort3>96 km/h</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -321,7 +321,7 @@
             <falscheAntwort1>Teurer - Eil - Express</falscheAntwort1>
             <falscheAntwort2>Toller - Europa - Express</falscheAntwort2>
             <falscheAntwort3>Tüchtiger - Eisenbahn - Express</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -331,7 +331,7 @@
             <falscheAntwort1>F E E</falscheAntwort1>
             <falscheAntwort2>S E E</falscheAntwort2>
             <falscheAntwort3>E E E</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -341,7 +341,7 @@
             <falscheAntwort1>USA</falscheAntwort1>
             <falscheAntwort2>Deutschland</falscheAntwort2>
             <falscheAntwort3>Frankreich</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -351,7 +351,7 @@
             <falscheAntwort1>4,05 m</falscheAntwort1>
             <falscheAntwort2>16 cm</falscheAntwort2>
             <falscheAntwort3>212 mm</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -361,7 +361,7 @@
             <falscheAntwort1>Die letzten drei Waggons gerieten in Brand, wurden aber durch den Fahrtwind wieder gelöscht.</falscheAntwort1>
             <falscheAntwort2>Er wurde von einer Räuberbande nach Berlin entführt.</falscheAntwort2>
             <falscheAntwort3>Der Zug stürzte wegen überhöhter Geschwindigkeit von den Istanbuler Brücke.</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -371,7 +371,7 @@
             <falscheAntwort1>3. November 1803</falscheAntwort1>
             <falscheAntwort2>14. Februar 1899</falscheAntwort2>
             <falscheAntwort3>22. März 1912</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -381,7 +381,7 @@
             <falscheAntwort1>1955</falscheAntwort1>
             <falscheAntwort2>1899</falscheAntwort2>
             <falscheAntwort3>1909</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -391,7 +391,7 @@
             <falscheAntwort1>300,6 km/h</falscheAntwort1>
             <falscheAntwort2>100,2 km/h</falscheAntwort2>
             <falscheAntwort3>400,8 km/h</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -401,7 +401,7 @@
             <falscheAntwort1>1 Stunde</falscheAntwort1>
             <falscheAntwort2>2 Stunden</falscheAntwort2>
             <falscheAntwort3>4 Stunden</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -411,7 +411,7 @@
             <falscheAntwort1>Der Lokführer hatte zu viel zu tun.</falscheAntwort1>
             <falscheAntwort2>Die Zahl der Schwarzfahrer nahm zu.</falscheAntwort2>
             <falscheAntwort3>Die Anzahl der Passagiere nahm zu.</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -421,7 +421,7 @@
             <falscheAntwort1>Weichensteller</falscheAntwort1>
             <falscheAntwort2>Wärmflaschenwechsler</falscheAntwort2>
             <falscheAntwort3>Lampenanzünder</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -431,7 +431,7 @@
             <falscheAntwort1>Schalwickler</falscheAntwort1>
             <falscheAntwort2>Thermoskannenöffner</falscheAntwort2>
             <falscheAntwort3>„Tee mit Rum“ - Schaffner</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -441,7 +441,7 @@
             <falscheAntwort1>ein beheiztes Wartehäuschen</falscheAntwort1>
             <falscheAntwort2>eine Zeitungsbude</falscheAntwort2>
             <falscheAntwort3>eine Bahnhofstoilette</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -451,7 +451,7 @@
             <falscheAntwort1>1848</falscheAntwort1>
             <falscheAntwort2>1800</falscheAntwort2>
             <falscheAntwort3>1906</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -461,7 +461,7 @@
             <falscheAntwort1>in Schweden</falscheAntwort1>
             <falscheAntwort2>in Holland</falscheAntwort2>
             <falscheAntwort3>in Spanien</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -471,7 +471,7 @@
             <falscheAntwort1>4 km</falscheAntwort1>
             <falscheAntwort2>500 m</falscheAntwort2>
             <falscheAntwort3>12 km</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -481,7 +481,7 @@
             <falscheAntwort1>1914 in Österreich</falscheAntwort1>
             <falscheAntwort2>1811 in der Schweiz</falscheAntwort2>
             <falscheAntwort3>1936 in Deutschland</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -491,7 +491,7 @@
             <falscheAntwort1>Österreich</falscheAntwort1>
             <falscheAntwort2>Schweiz</falscheAntwort2>
             <falscheAntwort3>Deutschland</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -501,7 +501,7 @@
             <falscheAntwort1>7</falscheAntwort1>
             <falscheAntwort2>14</falscheAntwort2>
             <falscheAntwort3>3</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -511,7 +511,7 @@
             <falscheAntwort1>2 Tage und 1 Nacht</falscheAntwort1>
             <falscheAntwort2>3 Nächte und 4 Tage</falscheAntwort2>
             <falscheAntwort3>3 Tage und 5 Nächte</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -521,7 +521,7 @@
             <falscheAntwort1>2.805 Kilometer</falscheAntwort1>
             <falscheAntwort2>2.453 Kilometer</falscheAntwort2>
             <falscheAntwort3>1.984 Kilometer</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -531,7 +531,7 @@
             <falscheAntwort1>Dakar und Tripolis</falscheAntwort1>
             <falscheAntwort2>Damaskus und Kairo</falscheAntwort2>
             <falscheAntwort3>Bagdad und Teheran</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -541,7 +541,7 @@
             <falscheAntwort1>ca. 50 m unter dem Wasserspiegel</falscheAntwort1>
             <falscheAntwort2>ca. 150 m unter dem Wasserspiegel</falscheAntwort2>
             <falscheAntwort3>ca. 350 m unter dem Wasserspiegel</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -551,7 +551,7 @@
             <falscheAntwort1>367 km</falscheAntwort1>
             <falscheAntwort2>267 km</falscheAntwort2>
             <falscheAntwort3>67 km</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -561,7 +561,7 @@
             <falscheAntwort1>810 km</falscheAntwort1>
             <falscheAntwort2>610 km</falscheAntwort2>
             <falscheAntwort3>210 km</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -571,7 +571,7 @@
             <falscheAntwort1>Er springt vor Bahnübergängen ab und schließt die Schranken.</falscheAntwort1>
             <falscheAntwort2>Er verscheucht mit einem roten Tuch die wilden Yaks.</falscheAntwort2>
             <falscheAntwort3>Er hindert die Schwarzfahrer daran, auf den langsam fahrenden Zug aufzuspringen.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -581,7 +581,7 @@
             <falscheAntwort1>2.000 Meter</falscheAntwort1>
             <falscheAntwort2>500 Meer</falscheAntwort2>
             <falscheAntwort3>3.000 Meter</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -591,7 +591,7 @@
             <falscheAntwort1>über das Wattenmeer von Husum nach Norderney</falscheAntwort1>
             <falscheAntwort2>über den Bodensee</falscheAntwort2>
             <falscheAntwort3>über den Ärmelkanal von Calais nach Dover</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -601,7 +601,7 @@
             <falscheAntwort1>1890</falscheAntwort1>
             <falscheAntwort2>1870</falscheAntwort2>
             <falscheAntwort3>1910</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -611,7 +611,7 @@
             <falscheAntwort1>Er misst die Temperatur der Schienen. Computer ermitteln daraus den notwendigen Stromverbrauch.</falscheAntwort1>
             <falscheAntwort2>Er misst die vorhandene Streckenlänge. Computer geben das Ergebnis an das Stellwerk weiter.</falscheAntwort2>
             <falscheAntwort3>Er überprüft die Geschwindigkeit der Züge. Computer verteilen bei Übertretung Strafzettel.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -621,7 +621,7 @@
             <falscheAntwort1>auf Holzschienen</falscheAntwort1>
             <falscheAntwort2>auf Eisenschienen</falscheAntwort2>
             <falscheAntwort3>auf Beton</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -631,7 +631,7 @@
             <falscheAntwort1>1950</falscheAntwort1>
             <falscheAntwort2>1910</falscheAntwort2>
             <falscheAntwort3>1890</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -641,7 +641,7 @@
             <falscheAntwort1>Dort werden die neuen Schienen und vor allem die Weichen für den Betrieb vorbereitet.</falscheAntwort1>
             <falscheAntwort2>Die Lokführer erhalten dort ihre Fahrpläne und studieren diese.</falscheAntwort2>
             <falscheAntwort3>Dort wird mit einem Computer ausgerechnet, wie viel Betrieb auf der Strecke sein wird.</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -651,7 +651,7 @@
             <falscheAntwort1>Eilende Emil</falscheAntwort1>
             <falscheAntwort2>Flitzende Fritz</falscheAntwort2>
             <falscheAntwort3>Sausender Siegfried</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -661,7 +661,7 @@
             <falscheAntwort1>ein verrückt gewordener Bahnhofsvorsteher</falscheAntwort1>
             <falscheAntwort2>Deutschlands schnellste Dampflokomotive</falscheAntwort2>
             <falscheAntwort3>ein besonders schneller Kellner im Speisewagen</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -671,7 +671,7 @@
             <falscheAntwort1>mit einem Läutewerk</falscheAntwort1>
             <falscheAntwort2>mit Rauchsignalen</falscheAntwort2>
             <falscheAntwort3>mit Brieftauben</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -681,7 +681,7 @@
             <falscheAntwort1>Er schritt täglich die Abschnitte seiner Strecke ab und bepflanzte den Bahndamm.</falscheAntwort1>
             <falscheAntwort2>Er schritt täglich die Abschnitte seiner Strecke ab und sammelte Abfall ein.</falscheAntwort2>
             <falscheAntwort3>Er schritt täglich die Abschnitte seiner Strecke ab und schloss die Bahnschranken?</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -691,7 +691,7 @@
             <falscheAntwort1>nach 4 Minuten anhalten</falscheAntwort1>
             <falscheAntwort2>nach 400 m anhalten</falscheAntwort2>
             <falscheAntwort3>sofort anhalten</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -701,7 +701,7 @@
             <falscheAntwort1>335 Kilometer</falscheAntwort1>
             <falscheAntwort2>225 Kilometer</falscheAntwort2>
             <falscheAntwort3>445 Kilometer</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -711,7 +711,7 @@
             <falscheAntwort1>1919</falscheAntwort1>
             <falscheAntwort2>1829</falscheAntwort2>
             <falscheAntwort3>1849</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -721,7 +721,7 @@
             <falscheAntwort1>zwischen Bochum und München</falscheAntwort1>
             <falscheAntwort2>zwischen Hamburg und Berlin</falscheAntwort2>
             <falscheAntwort3>zwischen Frankfurt und Köln</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -731,7 +731,7 @@
             <falscheAntwort1>Das Stellwerk empfängt ein Funknotsignal (Funosi).</falscheAntwort1>
             <falscheAntwort2>Der Zugbegleiter (Zubegle) zieht sofort die Notbremse.</falscheAntwort2>
             <falscheAntwort3>Das Signal lässt einen lauten Warnton erschallen.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -741,7 +741,7 @@
             <falscheAntwort1>Präriebrände</falscheAntwort1>
             <falscheAntwort2>Sandstürme</falscheAntwort2>
             <falscheAntwort3>Büffelangriffe</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -751,7 +751,7 @@
             <falscheAntwort1>7 PS</falscheAntwort1>
             <falscheAntwort2>1,5 PS</falscheAntwort2>
             <falscheAntwort3>10 PS</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -761,7 +761,7 @@
             <falscheAntwort1>22 km/h</falscheAntwort1>
             <falscheAntwort2>15 km/h</falscheAntwort2>
             <falscheAntwort3>29 km/h</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -771,7 +771,7 @@
             <falscheAntwort1>von acht mitgeführten Batterien</falscheAntwort1>
             <falscheAntwort2>von einer Oberleitung</falscheAntwort2>
             <falscheAntwort3>von einem abrollbaren Elektrokabel</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -781,7 +781,7 @@
             <falscheAntwort1>2.400 m</falscheAntwort1>
             <falscheAntwort2>1.800 m</falscheAntwort2>
             <falscheAntwort3>3 Kilometer</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -791,7 +791,7 @@
             <falscheAntwort1>Taiwan</falscheAntwort1>
             <falscheAntwort2>Luxemburg</falscheAntwort2>
             <falscheAntwort3>Dänemark</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -801,7 +801,7 @@
             <falscheAntwort1>der Schaffner</falscheAntwort1>
             <falscheAntwort2>der Bürgermeister</falscheAntwort2>
             <falscheAntwort3>der Bremser</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -811,7 +811,7 @@
             <falscheAntwort1>Vorsignale sind die Signale, die vor den meisten Tunneleinfahrten stehen.</falscheAntwort1>
             <falscheAntwort2>Vorsignale sind die Signale, die vor den Bahnübergängen stehen.</falscheAntwort2>
             <falscheAntwort3>Vorsignale stehen auf dem Bahnhof und müssen vom Lokführer vor der Fahrt</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -821,7 +821,7 @@
             <falscheAntwort1>dass der Zug Feuer fing</falscheAntwort1>
             <falscheAntwort2>dass der Kessel durch Funkenflug explodierte</falscheAntwort2>
             <falscheAntwort3>dass der Heizer zu langsam arbeitete</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -831,7 +831,7 @@
             <falscheAntwort1>in Algerien</falscheAntwort1>
             <falscheAntwort2>in Frankreich</falscheAntwort2>
             <falscheAntwort3>in Ägypten</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -841,7 +841,7 @@
             <falscheAntwort1>der Erfrischung der Schaffner</falscheAntwort1>
             <falscheAntwort2>dem Abstellen des Gepäcks der Fahrgäste</falscheAntwort2>
             <falscheAntwort3>der Aufbewahrung für das Fahrtenbuch</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -851,7 +851,7 @@
             <falscheAntwort1>1979</falscheAntwort1>
             <falscheAntwort2>1969</falscheAntwort2>
             <falscheAntwort3>1989</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -861,7 +861,7 @@
             <falscheAntwort1>4.000</falscheAntwort1>
             <falscheAntwort2>24.000</falscheAntwort2>
             <falscheAntwort3>9.000</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -871,7 +871,7 @@
             <falscheAntwort1>in Tokio (Japan)</falscheAntwort1>
             <falscheAntwort2>in New York (USA)</falscheAntwort2>
             <falscheAntwort3>in Bombay (Indien)</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -881,7 +881,7 @@
             <falscheAntwort1>zum Löschen des Feuers</falscheAntwort1>
             <falscheAntwort2>zum Spielen für die Kinder der Fahrgäste</falscheAntwort2>
             <falscheAntwort3>um das Gewicht zu erhöhen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -891,7 +891,7 @@
             <falscheAntwort1>Die innere Schiene ist dicker als die äußere.</falscheAntwort1>
             <falscheAntwort2>Die innere Schiene verläuft höher als die äußere.</falscheAntwort2>
             <falscheAntwort3>Die innere Schiene ist dünner als die äußere.</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -901,7 +901,7 @@
             <falscheAntwort1>18 cm</falscheAntwort1>
             <falscheAntwort2>12 cm</falscheAntwort2>
             <falscheAntwort3>9 cm</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -911,7 +911,7 @@
             <falscheAntwort1>in Korea</falscheAntwort1>
             <falscheAntwort2>in Indien</falscheAntwort2>
             <falscheAntwort3>in Nigeria</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -921,7 +921,7 @@
             <falscheAntwort1>die Tunnelein- und -ausfahrten</falscheAntwort1>
             <falscheAntwort2>die Bahnsteigkanten</falscheAntwort2>
             <falscheAntwort3>eingefrorene Weichen</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -931,7 +931,7 @@
             <falscheAntwort1>Frankfurt HBF</falscheAntwort1>
             <falscheAntwort2>Londoner U-Bahn</falscheAntwort2>
             <falscheAntwort3>Moskauer U-Bahn</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -941,7 +941,7 @@
             <falscheAntwort1>1.729 m</falscheAntwort1>
             <falscheAntwort2>762 m</falscheAntwort2>
             <falscheAntwort3>595 m</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -951,7 +951,7 @@
             <falscheAntwort1>eine Bergsteigerausrüstung</falscheAntwort1>
             <falscheAntwort2>eine Gletscherbrille</falscheAntwort2>
             <falscheAntwort3>einen Fallschirm</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -961,7 +961,7 @@
             <falscheAntwort1>6.140 m</falscheAntwort1>
             <falscheAntwort2>5.603 m</falscheAntwort2>
             <falscheAntwort3>3.371 m</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -971,7 +971,7 @@
             <falscheAntwort1>USA</falscheAntwort1>
             <falscheAntwort2>Nepal</falscheAntwort2>
             <falscheAntwort3>Schweiz</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -981,7 +981,7 @@
             <falscheAntwort1>Titan</falscheAntwort1>
             <falscheAntwort2>Centaurus</falscheAntwort2>
             <falscheAntwort3>Megamaxx</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -991,7 +991,7 @@
             <falscheAntwort1>339 Tonnen</falscheAntwort1>
             <falscheAntwort2>119 Tonnen</falscheAntwort2>
             <falscheAntwort3>449 Tonnen</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1001,7 +1001,7 @@
             <falscheAntwort1>50 Meter</falscheAntwort1>
             <falscheAntwort2>20 Meter</falscheAntwort2>
             <falscheAntwort3>15 Meter</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1011,7 +1011,7 @@
             <falscheAntwort1>Bahnen, die im Hochgebirge fahren</falscheAntwort1>
             <falscheAntwort2>Bahnen, die große Höhenunterschiede überwinden</falscheAntwort2>
             <falscheAntwort3>Bahnen, die bei der Herstellung besonders hohe Kosten verursacht haben</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1021,7 +1021,7 @@
             <falscheAntwort1>Es sind besonders flache Züge mit einem besonders niedrigen Schwerpunkt.</falscheAntwort1>
             <falscheAntwort2>Es sind Züge mit besonders starken Motoren.</falscheAntwort2>
             <falscheAntwort3>Es sind besonders kurze Züge mit höchstens zwei Wagen.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1031,7 +1031,7 @@
             <falscheAntwort1>ein eisernes Verbindungsstück zwischen den einzelnen Waggons</falscheAntwort1>
             <falscheAntwort2>ein Hebel in der Lokomotive, mit dem das Bremsgestänge betätigt wird</falscheAntwort2>
             <falscheAntwort3>die Verbindung der Elektroloks zur Oberleitung</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1041,7 +1041,7 @@
             <falscheAntwort1>in Moskau</falscheAntwort1>
             <falscheAntwort2>in Paris</falscheAntwort2>
             <falscheAntwort3>in Berlin</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1051,7 +1051,7 @@
             <falscheAntwort1>1880</falscheAntwort1>
             <falscheAntwort2>1900</falscheAntwort2>
             <falscheAntwort3>1910</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1061,7 +1061,7 @@
             <falscheAntwort1>im vorderen Triebkopf</falscheAntwort1>
             <falscheAntwort2>in den beiden Triebköpfen</falscheAntwort2>
             <falscheAntwort3>im hinteren Triebkopf</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1071,7 +1071,7 @@
             <falscheAntwort1>im hinteren Triebkopf</falscheAntwort1>
             <falscheAntwort2>im vorderen Triebkopf</falscheAntwort2>
             <falscheAntwort3>in jedem Wagen</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1081,7 +1081,7 @@
             <falscheAntwort1>Er fährt vollautomatisch - ohne Lokführer.</falscheAntwort1>
             <falscheAntwort2>Er kann sich noch besser in die Kurven legen.</falscheAntwort2>
             <falscheAntwort3>Er kann doppelt so viele Fahrgäste transportieren.</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1091,7 +1091,7 @@
             <falscheAntwort1>seit etwa 1900</falscheAntwort1>
             <falscheAntwort2>schon immer</falscheAntwort2>
             <falscheAntwort3>seit etwa 1925</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1101,7 +1101,7 @@
             <falscheAntwort1>ab 1900</falscheAntwort1>
             <falscheAntwort2>ab 1870</falscheAntwort2>
             <falscheAntwort3>ab 1960</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1111,7 +1111,7 @@
             <falscheAntwort1>etwa ab 1950</falscheAntwort1>
             <falscheAntwort2>etwa ab 1940</falscheAntwort2>
             <falscheAntwort3>etwa ab 1960</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1121,7 +1121,7 @@
             <falscheAntwort1>weil immer das Fahrzeug mit den meistens Insassen Vorfahrt hat</falscheAntwort1>
             <falscheAntwort2>weil sie größer und stärker sind</falscheAntwort2>
             <falscheAntwort3>weil der Lokführer nicht lenken kann</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1131,7 +1131,7 @@
             <falscheAntwort1>Intercityexpress</falscheAntwort1>
             <falscheAntwort2>Schweizer Glacier - Express</falscheAntwort2>
             <falscheAntwort3>Transsibirische Eisenbahn</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1141,7 +1141,7 @@
             <falscheAntwort1>Es war der erste Güterzug.</falscheAntwort1>
             <falscheAntwort2>Es war der erste Elektrozug.</falscheAntwort2>
             <falscheAntwort3>Es war die erste Zahnradbahn.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1151,7 +1151,7 @@
             <falscheAntwort1>Schüssel</falscheAntwort1>
             <falscheAntwort2>Wanne</falscheAntwort2>
             <falscheAntwort3>Tender</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1161,7 +1161,7 @@
             <falscheAntwort1>Proviant</falscheAntwort1>
             <falscheAntwort2>Kohle</falscheAntwort2>
             <falscheAntwort3>Verbandszeug</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1171,7 +1171,7 @@
             <falscheAntwort1>Feuerkiste</falscheAntwort1>
             <falscheAntwort2>Feuerdose</falscheAntwort2>
             <falscheAntwort3>Feuerstelle</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1181,7 +1181,7 @@
             <falscheAntwort1>„Funkenspeier“ oder „Blitzwerfer“</falscheAntwort1>
             <falscheAntwort2>„Qualmesel“ oder „Rauchkuh“</falscheAntwort2>
             <falscheAntwort3>„Stahlross“ oder „Metallpferd“</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1191,7 +1191,7 @@
             <falscheAntwort1>Drehgestell</falscheAntwort1>
             <falscheAntwort2>Drehplatte</falscheAntwort2>
             <falscheAntwort3>Drehteller</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1201,7 +1201,7 @@
             <falscheAntwort1>Eisen und Stahl</falscheAntwort1>
             <falscheAntwort2>Baumaterialien wie Sand und Kies</falscheAntwort2>
             <falscheAntwort3>Kühe und Schafe</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1211,7 +1211,7 @@
             <falscheAntwort1>weil er zu oft anderen Zügen ausweichen muss</falscheAntwort1>
             <falscheAntwort2>weil die Strecken zu viele Weichen haben</falscheAntwort2>
             <falscheAntwort3>weil er vollbeladen zu schwer ist</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1221,7 +1221,7 @@
             <falscheAntwort1>505 - 515 km/h</falscheAntwort1>
             <falscheAntwort2>fast 498 km/h</falscheAntwort2>
             <falscheAntwort3>genau 444 km/h</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1231,7 +1231,7 @@
             <falscheAntwort1>5,8 Millionen</falscheAntwort1>
             <falscheAntwort2>3,6 Millionen</falscheAntwort2>
             <falscheAntwort3>6,9 Millionen</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1241,7 +1241,7 @@
             <falscheAntwort1>seit etwa 1950</falscheAntwort1>
             <falscheAntwort2>seit etwa 1960</falscheAntwort2>
             <falscheAntwort3>seit etwa 1980</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1251,7 +1251,7 @@
             <falscheAntwort1>Scheibenbremse</falscheAntwort1>
             <falscheAntwort2>Handbremse</falscheAntwort2>
             <falscheAntwort3>Kolbenbremse</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1261,7 +1261,7 @@
             <falscheAntwort1>1</falscheAntwort1>
             <falscheAntwort2>3</falscheAntwort2>
             <falscheAntwort3>4</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1271,7 +1271,7 @@
             <falscheAntwort1>Schienenweite</falscheAntwort1>
             <falscheAntwort2>Gleisweite</falscheAntwort2>
             <falscheAntwort3>Schwellenweite</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1281,7 +1281,7 @@
             <falscheAntwort1>37 Kilometer</falscheAntwort1>
             <falscheAntwort2>77 Kilometer</falscheAntwort2>
             <falscheAntwort3>97 Kilometer</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1291,7 +1291,7 @@
             <falscheAntwort1>den Zugtyp</falscheAntwort1>
             <falscheAntwort2>die Abfahrtzeit</falscheAntwort2>
             <falscheAntwort3>das Ziel der Fahrt</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1301,7 +1301,7 @@
             <falscheAntwort1>38 %</falscheAntwort1>
             <falscheAntwort2>42 %</falscheAntwort2>
             <falscheAntwort3>32 %</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1311,7 +1311,7 @@
             <falscheAntwort1>875 m</falscheAntwort1>
             <falscheAntwort2>1.208 m</falscheAntwort2>
             <falscheAntwort3>2.764 m</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1321,7 +1321,7 @@
             <falscheAntwort1>Golgathabahn bei Zürich</falscheAntwort1>
             <falscheAntwort2>Pontiusbahn bei Bern</falscheAntwort2>
             <falscheAntwort3>Augustusbahn bei Genf</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1331,7 +1331,7 @@
             <falscheAntwort1>USA</falscheAntwort1>
             <falscheAntwort2>Nepal</falscheAntwort2>
             <falscheAntwort3>Chile</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1341,7 +1341,7 @@
             <falscheAntwort1>Kantine</falscheAntwort1>
             <falscheAntwort2>Cousine</falscheAntwort2>
             <falscheAntwort3>Rosine</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1351,7 +1351,7 @@
             <falscheAntwort1>1873</falscheAntwort1>
             <falscheAntwort2>1853</falscheAntwort2>
             <falscheAntwort3>1883</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1361,7 +1361,7 @@
             <falscheAntwort1>Moskau</falscheAntwort1>
             <falscheAntwort2>Paris</falscheAntwort2>
             <falscheAntwort3>Berlin</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1371,7 +1371,7 @@
             <falscheAntwort1>1948</falscheAntwort1>
             <falscheAntwort2>1928</falscheAntwort2>
             <falscheAntwort3>1958</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1381,7 +1381,7 @@
             <falscheAntwort1>William</falscheAntwort1>
             <falscheAntwort2>Dollar</falscheAntwort2>
             <falscheAntwort3>Tanhard</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1391,7 +1391,7 @@
             <falscheAntwort1>152,8 km/h</falscheAntwort1>
             <falscheAntwort2>102,8 km/h</falscheAntwort2>
             <falscheAntwort3>272,8 km/h</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1401,7 +1401,7 @@
             <falscheAntwort1>1911</falscheAntwort1>
             <falscheAntwort2>1901</falscheAntwort2>
             <falscheAntwort3>1931</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1411,7 +1411,7 @@
             <falscheAntwort1>London</falscheAntwort1>
             <falscheAntwort2>New York</falscheAntwort2>
             <falscheAntwort3>Paris</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1421,7 +1421,7 @@
             <falscheAntwort1>10.000</falscheAntwort1>
             <falscheAntwort2>100</falscheAntwort2>
             <falscheAntwort3>100.000</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1431,7 +1431,7 @@
             <falscheAntwort1>1902 in Paris</falscheAntwort1>
             <falscheAntwort2>1922 in London</falscheAntwort2>
             <falscheAntwort3>1932 in Rom</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1441,7 +1441,7 @@
             <falscheAntwort1>L</falscheAntwort1>
             <falscheAntwort2>D</falscheAntwort2>
             <falscheAntwort3>X</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1451,7 +1451,7 @@
             <falscheAntwort1>bis zu 180 km/h</falscheAntwort1>
             <falscheAntwort2>bis zu 200 km/h</falscheAntwort2>
             <falscheAntwort3>bis zu 160 km/h</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1461,7 +1461,7 @@
             <falscheAntwort1>Drehscheibe</falscheAntwort1>
             <falscheAntwort2>Gleiswechsel</falscheAntwort2>
             <falscheAntwort3>Kreuzung</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1471,7 +1471,7 @@
             <falscheAntwort1>der Abstand zwischen zwei Bahnhöfen</falscheAntwort1>
             <falscheAntwort2>der Abschnitt zwischen zwei Schwellen</falscheAntwort2>
             <falscheAntwort3>eine genau abgemessene Strecke zwischen zwei Weichen</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1481,7 +1481,7 @@
             <falscheAntwort1>IMMER COOL</falscheAntwort1>
             <falscheAntwort2>IN CELLE</falscheAntwort2>
             <falscheAntwort3>IRRE CLEVER</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1491,7 +1491,7 @@
             <falscheAntwort1>500.000 - 750.000 Tonnen</falscheAntwort1>
             <falscheAntwort2>über 1.500.000 Tonnen</falscheAntwort2>
             <falscheAntwort3>genau 456.912 Tonnen</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1501,7 +1501,7 @@
             <falscheAntwort1>1929</falscheAntwort1>
             <falscheAntwort2>1899</falscheAntwort2>
             <falscheAntwort3>1935</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1511,7 +1511,7 @@
             <falscheAntwort1>Wyatt Earp</falscheAntwort1>
             <falscheAntwort2>George Stephenson</falscheAntwort2>
             <falscheAntwort3>George Thomalla</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1521,7 +1521,7 @@
             <falscheAntwort1>in speziellen Waschtunneln</falscheAntwort1>
             <falscheAntwort2>am Ende des Bahnhofes werden sie mit einem Schlauch abgespritzt</falscheAntwort2>
             <falscheAntwort3>gar nicht, der Regen wäscht sie sauber</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1531,7 +1531,7 @@
             <falscheAntwort1>1908</falscheAntwort1>
             <falscheAntwort2>1888</falscheAntwort2>
             <falscheAntwort3>1928</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1541,7 +1541,7 @@
             <falscheAntwort1>Österreich</falscheAntwort1>
             <falscheAntwort2>Schweiz</falscheAntwort2>
             <falscheAntwort3>Deutschland</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1551,7 +1551,7 @@
             <falscheAntwort1>im Winter werden beheizbare Planen über die Weichen gelegt</falscheAntwort1>
             <falscheAntwort2>der Heizer gießt heißes Wasser über die Weichen</falscheAntwort2>
             <falscheAntwort3>durch solarbetriebene Heizstrahler werden die Weichen geheizt</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1561,7 +1561,7 @@
             <falscheAntwort1>20 - 25 m</falscheAntwort1>
             <falscheAntwort2>bis zu 30 Metern</falscheAntwort2>
             <falscheAntwort3>ca. 15 Meter</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1571,7 +1571,7 @@
             <falscheAntwort1>Schneepflug</falscheAntwort1>
             <falscheAntwort2>Schneeschieber</falscheAntwort2>
             <falscheAntwort3>Schneebesen</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1581,7 +1581,7 @@
             <falscheAntwort1>in Italien</falscheAntwort1>
             <falscheAntwort2>in Deutschland</falscheAntwort2>
             <falscheAntwort3>in England</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1591,7 +1591,7 @@
             <falscheAntwort1>1929</falscheAntwort1>
             <falscheAntwort2>1899</falscheAntwort2>
             <falscheAntwort3>1949</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1601,7 +1601,7 @@
             <falscheAntwort1>Sumo - Tunnel</falscheAntwort1>
             <falscheAntwort2>Japan - Tunnel</falscheAntwort2>
             <falscheAntwort3>Samurai - Tunnel</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1611,7 +1611,7 @@
             <falscheAntwort1>35.750 Meter</falscheAntwort1>
             <falscheAntwort2>40.650 Meter</falscheAntwort2>
             <falscheAntwort3>28.150 Meter</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1621,7 +1621,7 @@
             <falscheAntwort1>30 km</falscheAntwort1>
             <falscheAntwort2>40 km</falscheAntwort2>
             <falscheAntwort3>60 km</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1631,7 +1631,7 @@
             <falscheAntwort1>der Euro -Tunnel</falscheAntwort1>
             <falscheAntwort2>der Gotthard -Tunnel</falscheAntwort2>
             <falscheAntwort3>der Simpson -Tunnel</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1641,7 +1641,7 @@
             <falscheAntwort1>1850</falscheAntwort1>
             <falscheAntwort2>1830</falscheAntwort2>
             <falscheAntwort3>1860</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1651,7 +1651,7 @@
             <falscheAntwort1>Peter Tweer</falscheAntwort1>
             <falscheAntwort2>Thomas Hüsken</falscheAntwort2>
             <falscheAntwort3>Günther Frank</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1661,7 +1661,7 @@
             <falscheAntwort1>1885</falscheAntwort1>
             <falscheAntwort2>1855</falscheAntwort2>
             <falscheAntwort3>1915</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1671,7 +1671,7 @@
             <falscheAntwort1>Werner von Siemens</falscheAntwort1>
             <falscheAntwort2>Michael Faraday</falscheAntwort2>
             <falscheAntwort3>Herbert Ohm</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1681,7 +1681,7 @@
             <falscheAntwort1>Silverghost</falscheAntwort1>
             <falscheAntwort2>Star</falscheAntwort2>
             <falscheAntwort3>Hornet</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1691,7 +1691,7 @@
             <falscheAntwort1>Sanspareil</falscheAntwort1>
             <falscheAntwort2>Novelty</falscheAntwort2>
             <falscheAntwort3>Startreck</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1701,7 +1701,7 @@
             <falscheAntwort1>Er schwenkte eine rotkarierte Fahne.</falscheAntwort1>
             <falscheAntwort2>Er betätigte eine Dampfpfeife.</falscheAntwort2>
             <falscheAntwort3>Er blinkte mit einer großen Laterne.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1711,7 +1711,7 @@
             <falscheAntwort1>Das Antriebsgestänge wurde ausgekuppelt und ein Rückwärtsgang wurde eingelegt.</falscheAntwort1>
             <falscheAntwort2>In den Kessel wurde kaltes Wasser geleitet, so dass das Feuer ausging.</falscheAntwort2>
             <falscheAntwort3>Vor die vorderen Räder der Wagen wurden Bremskeile auf die Schienen gelegt.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1721,7 +1721,7 @@
             <falscheAntwort1>dass der Lokführer vor dem Bremsen ein Warnsignal ertönen lässt</falscheAntwort1>
             <falscheAntwort2>dass die Lokomotive ganz langsam anfängt zu bremsen</falscheAntwort2>
             <falscheAntwort3>dass das Bremslicht gut zu sehen ist</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1731,7 +1731,7 @@
             <falscheAntwort1>vom Lokführer aus der Lok heraus</falscheAntwort1>
             <falscheAntwort2>vor Ort von Hand des Schaffners</falscheAntwort2>
             <falscheAntwort3>per Ultraschall von der Lokomotive</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1741,7 +1741,7 @@
             <falscheAntwort1>ungefähr 990.000 km</falscheAntwort1>
             <falscheAntwort2>etwa 720.000 km</falscheAntwort2>
             <falscheAntwort3>fast 612.000 km</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1751,7 +1751,7 @@
             <falscheAntwort1>aus großen Batterien</falscheAntwort1>
             <falscheAntwort2>aus der Stromschiene zwischen den Schienen</falscheAntwort2>
             <falscheAntwort3>von einem Drehstromgenerator</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1761,7 +1761,7 @@
             <falscheAntwort1>Leipachtalbrücke</falscheAntwort1>
             <falscheAntwort2>Müngstenerbrücke</falscheAntwort2>
             <falscheAntwort3>Fürstenaubrücke</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1771,7 +1771,7 @@
             <falscheAntwort1>309 m</falscheAntwort1>
             <falscheAntwort2>432 m</falscheAntwort2>
             <falscheAntwort3>265 m</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1781,7 +1781,7 @@
             <falscheAntwort1>28 m</falscheAntwort1>
             <falscheAntwort2>48 m</falscheAntwort2>
             <falscheAntwort3>108 m</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1791,7 +1791,7 @@
             <falscheAntwort1>in Italien</falscheAntwort1>
             <falscheAntwort2>in England</falscheAntwort2>
             <falscheAntwort3>in Amerika</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1801,7 +1801,7 @@
             <falscheAntwort1>ca. 500.000 km</falscheAntwort1>
             <falscheAntwort2>180.000 - 195.000 km</falscheAntwort2>
             <falscheAntwort3>genau 123.755 km</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1811,7 +1811,7 @@
             <falscheAntwort1>China</falscheAntwort1>
             <falscheAntwort2>Kanada</falscheAntwort2>
             <falscheAntwort3>Russland</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1821,7 +1821,7 @@
             <falscheAntwort1>54</falscheAntwort1>
             <falscheAntwort2>154</falscheAntwort2>
             <falscheAntwort3>354</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1831,7 +1831,7 @@
             <falscheAntwort1>647 km</falscheAntwort1>
             <falscheAntwort2>764 km</falscheAntwort2>
             <falscheAntwort3>291 km</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1841,7 +1841,7 @@
             <falscheAntwort1>in Italien</falscheAntwort1>
             <falscheAntwort2>in Kroatien</falscheAntwort2>
             <falscheAntwort3>in Österreich</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1851,7 +1851,7 @@
             <falscheAntwort1>3. November 1981</falscheAntwort1>
             <falscheAntwort2>22. März 1976</falscheAntwort2>
             <falscheAntwort3>14. Februar 1966</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1861,7 +1861,7 @@
             <falscheAntwort1>Japan</falscheAntwort1>
             <falscheAntwort2>USA</falscheAntwort2>
             <falscheAntwort3>Frankreich</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1871,7 +1871,7 @@
             <falscheAntwort1>1896</falscheAntwort1>
             <falscheAntwort2>1916</falscheAntwort2>
             <falscheAntwort3>1926</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1881,7 +1881,7 @@
             <falscheAntwort1>15.036 m</falscheAntwort1>
             <falscheAntwort2>17.452 m</falscheAntwort2>
             <falscheAntwort3>21.335 m</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1891,7 +1891,7 @@
             <falscheAntwort1>8 Jahre</falscheAntwort1>
             <falscheAntwort2>4 Jahre</falscheAntwort2>
             <falscheAntwort3>10 Jahre</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1901,7 +1901,7 @@
             <falscheAntwort1>1908</falscheAntwort1>
             <falscheAntwort2>1897</falscheAntwort2>
             <falscheAntwort3>1923</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1911,7 +1911,7 @@
             <falscheAntwort1>Italien</falscheAntwort1>
             <falscheAntwort2>Schweiz</falscheAntwort2>
             <falscheAntwort3>Frankreich</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1921,7 +1921,7 @@
             <falscheAntwort1>4</falscheAntwort1>
             <falscheAntwort2>3</falscheAntwort2>
             <falscheAntwort3>5</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1931,7 +1931,7 @@
             <falscheAntwort1>22. März 1893</falscheAntwort1>
             <falscheAntwort2>14. Februar 1854</falscheAntwort2>
             <falscheAntwort3>3. November 1856</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1941,7 +1941,7 @@
             <falscheAntwort1>viereinhalb Stunden</falscheAntwort1>
             <falscheAntwort2>sechs Stunden</falscheAntwort2>
             <falscheAntwort3>drei Stunden</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1951,7 +1951,7 @@
             <falscheAntwort1>250 km</falscheAntwort1>
             <falscheAntwort2>2.000 km</falscheAntwort2>
             <falscheAntwort3>115km</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1961,7 +1961,7 @@
             <falscheAntwort1>in Amerika</falscheAntwort1>
             <falscheAntwort2>in Afrika</falscheAntwort2>
             <falscheAntwort3>in China</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1971,7 +1971,7 @@
             <falscheAntwort1>als der sicherste</falscheAntwort1>
             <falscheAntwort2>als der schnellste</falscheAntwort2>
             <falscheAntwort3>als der älteste</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1981,7 +1981,7 @@
             <falscheAntwort1>Reisezieltafel</falscheAntwort1>
             <falscheAntwort2>Abfahrttafeln</falscheAntwort2>
             <falscheAntwort3>Reiseinformationsanzeiger</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1991,7 +1991,7 @@
             <falscheAntwort1>bis zu 250 km/h</falscheAntwort1>
             <falscheAntwort2>bis zu 150 km/h</falscheAntwort2>
             <falscheAntwort3>bis zu 300 km/h</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2001,7 +2001,7 @@
             <falscheAntwort1>Hamburger Blitz</falscheAntwort1>
             <falscheAntwort2>Fliegende Berliner</falscheAntwort2>
             <falscheAntwort3>Berliner Blitz</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2011,7 +2011,7 @@
             <falscheAntwort1>an Bahndämmen</falscheAntwort1>
             <falscheAntwort2>nach steilen Bahnstrecken im Gebirge</falscheAntwort2>
             <falscheAntwort3>nach jeder Tunnelausfahrt</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2021,7 +2021,7 @@
             <falscheAntwort1>1576</falscheAntwort1>
             <falscheAntwort2>1675</falscheAntwort2>
             <falscheAntwort3>1567</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2031,7 +2031,7 @@
             <falscheAntwort1>Jim Ampere</falscheAntwort1>
             <falscheAntwort2>John Volt</falscheAntwort2>
             <falscheAntwort3>Thomas Alva Edison</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2041,7 +2041,7 @@
             <falscheAntwort1>ca. 5.100</falscheAntwort1>
             <falscheAntwort2>ca. 8.000</falscheAntwort2>
             <falscheAntwort3>ca. 3.300</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2051,7 +2051,7 @@
             <falscheAntwort1>ungefähr 85</falscheAntwort1>
             <falscheAntwort2>etwa 45</falscheAntwort2>
             <falscheAntwort3>fast 105</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2061,7 +2061,7 @@
             <falscheAntwort1>Antriebskopf</falscheAntwort1>
             <falscheAntwort2>Triebwagen</falscheAntwort2>
             <falscheAntwort3>Triebwagenkopf</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2071,7 +2071,7 @@
             <falscheAntwort1>1921</falscheAntwort1>
             <falscheAntwort2>1799</falscheAntwort2>
             <falscheAntwort3>1956</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2081,7 +2081,7 @@
             <falscheAntwort1>Lissabon - Antalya</falscheAntwort1>
             <falscheAntwort2>Madrid - Izmir</falscheAntwort2>
             <falscheAntwort3>Brüssel - Ankara</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2091,7 +2091,7 @@
             <falscheAntwort1>Dieselzug</falscheAntwort1>
             <falscheAntwort2>Deutschland</falscheAntwort2>
             <falscheAntwort3>Dampflokomotive</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2101,7 +2101,7 @@
             <falscheAntwort1>George Washington</falscheAntwort1>
             <falscheAntwort2>Henry Ford</falscheAntwort2>
             <falscheAntwort3>George W. Bush</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2111,7 +2111,7 @@
             <falscheAntwort1>1915</falscheAntwort1>
             <falscheAntwort2>1895</falscheAntwort2>
             <falscheAntwort3>1935</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2121,7 +2121,7 @@
             <falscheAntwort1>Alle 10 Sekunden hupen.</falscheAntwort1>
             <falscheAntwort2>Alle 90 Sekunden einen Funkspruch senden.</falscheAntwort2>
             <falscheAntwort3>Alle 50 Sekunden ein Fußpedal ölen.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2131,7 +2131,7 @@
             <falscheAntwort1>1859</falscheAntwort1>
             <falscheAntwort2>1899</falscheAntwort2>
             <falscheAntwort3>1919</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2141,7 +2141,7 @@
             <falscheAntwort1>bis etwa 1930</falscheAntwort1>
             <falscheAntwort2>bis etwa 1940</falscheAntwort2>
             <falscheAntwort3>bis etwa 1960</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2151,7 +2151,7 @@
             <falscheAntwort1>Frank Best</falscheAntwort1>
             <falscheAntwort2>William Overhoff</falscheAntwort2>
             <falscheAntwort3>Bobby Charlton</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2161,7 +2161,7 @@
             <falscheAntwort1>aus Griechenland</falscheAntwort1>
             <falscheAntwort2>aus Spanien</falscheAntwort2>
             <falscheAntwort3>aus Frankreich</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2171,7 +2171,7 @@
             <falscheAntwort1>Birmingham und London</falscheAntwort1>
             <falscheAntwort2>London und Brighton</falscheAntwort2>
             <falscheAntwort3>Dover und Eton</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2181,7 +2181,7 @@
             <falscheAntwort1>1850</falscheAntwort1>
             <falscheAntwort2>1840</falscheAntwort2>
             <falscheAntwort3>1860</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2191,7 +2191,7 @@
             <falscheAntwort1>in Italien</falscheAntwort1>
             <falscheAntwort2>in Frankreich</falscheAntwort2>
             <falscheAntwort3>in Deutschland</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2201,7 +2201,7 @@
             <falscheAntwort1>1882</falscheAntwort1>
             <falscheAntwort2>1832</falscheAntwort2>
             <falscheAntwort3>1902</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2211,7 +2211,7 @@
             <falscheAntwort1>Japan</falscheAntwort1>
             <falscheAntwort2>China</falscheAntwort2>
             <falscheAntwort3>Korea</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2221,7 +2221,7 @@
             <falscheAntwort1>seit etwa 1950</falscheAntwort1>
             <falscheAntwort2>seit etwa 1910</falscheAntwort2>
             <falscheAntwort3>seit etwa 1970</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2231,7 +2231,7 @@
             <falscheAntwort1>2.200 km</falscheAntwort1>
             <falscheAntwort2>22 km</falscheAntwort2>
             <falscheAntwort3>22.200 km</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2241,7 +2241,7 @@
             <falscheAntwort1>knapp 3.500 m</falscheAntwort1>
             <falscheAntwort2>ca. 4.000 m</falscheAntwort2>
             <falscheAntwort3>ungefähr 3.000 m</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2251,7 +2251,7 @@
             <falscheAntwort1>die Bagdadbahn</falscheAntwort1>
             <falscheAntwort2>die Amur - Eisenbahn</falscheAntwort2>
             <falscheAntwort3>der Alpenexpress</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2261,7 +2261,7 @@
             <falscheAntwort1>Er musste den Herd im Speisewagen befeuern.</falscheAntwort1>
             <falscheAntwort2>Er bediente die Heizung im Zug.</falscheAntwort2>
             <falscheAntwort3>Er verteilte Heizdecken in den Schlafwagen.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2271,7 +2271,7 @@
             <falscheAntwort1>seit 1805</falscheAntwort1>
             <falscheAntwort2>seit 1815</falscheAntwort2>
             <falscheAntwort3>seit 1835</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2281,7 +2281,7 @@
             <falscheAntwort1>zwischen Nürnberg und Fürth</falscheAntwort1>
             <falscheAntwort2>zwischen Oslo und Göteborg</falscheAntwort2>
             <falscheAntwort3>zwischen San Franzisko und Miami</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2291,7 +2291,7 @@
             <falscheAntwort1>der Postwagen</falscheAntwort1>
             <falscheAntwort2>der Speisewagen</falscheAntwort2>
             <falscheAntwort3>der Wagen, in dem die Passagiere der 1. Klasse reisen</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2301,7 +2301,7 @@
             <falscheAntwort1>Wender</falscheAntwort1>
             <falscheAntwort2>Sender</falscheAntwort2>
             <falscheAntwort3>Spender</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2311,7 +2311,7 @@
             <falscheAntwort1>Bauchbahnhof</falscheAntwort1>
             <falscheAntwort2>Fußbahnhof</falscheAntwort2>
             <falscheAntwort3>Handbahnhof</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2321,7 +2321,7 @@
             <falscheAntwort1>Ein Alarmwecker schellt.</falscheAntwort1>
             <falscheAntwort2>Der Zug entgleist.</falscheAntwort2>
             <falscheAntwort3>nichts</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2331,7 +2331,7 @@
             <falscheAntwort1>ABC</falscheAntwort1>
             <falscheAntwort2>ICE</falscheAntwort2>
             <falscheAntwort3>WSV</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2341,7 +2341,7 @@
             <falscheAntwort1>Wilhelmkreuz</falscheAntwort1>
             <falscheAntwort2>Floriankreuz</falscheAntwort2>
             <falscheAntwort3>Thomaskreuz</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2351,7 +2351,7 @@
             <falscheAntwort1>Zugführer</falscheAntwort1>
             <falscheAntwort2>Lokführer</falscheAntwort2>
             <falscheAntwort3>Schaffner</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2361,7 +2361,7 @@
             <falscheAntwort1>Tower</falscheAntwort1>
             <falscheAntwort2>Kontrollwerk</falscheAntwort2>
             <falscheAntwort3>Fahrwerk</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2371,7 +2371,7 @@
             <falscheAntwort1>mit einem Spaten</falscheAntwort1>
             <falscheAntwort2>mit einer Schaufel</falscheAntwort2>
             <falscheAntwort3>mit einer Fahne</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2381,7 +2381,7 @@
             <falscheAntwort1>ca. 900 Millionen Dollar</falscheAntwort1>
             <falscheAntwort2>ca. 40 Millionen Dollar</falscheAntwort2>
             <falscheAntwort3>ca. 4 Millionen Dollar</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2391,7 +2391,7 @@
             <falscheAntwort1>vier Jahre</falscheAntwort1>
             <falscheAntwort2>acht Jahre</falscheAntwort2>
             <falscheAntwort3>zwei Jahre</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2401,7 +2401,7 @@
             <falscheAntwort1>Moskau und Murmansk</falscheAntwort1>
             <falscheAntwort2>Kiew und Leningrad</falscheAntwort2>
             <falscheAntwort3>Petersburg und Wilna</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2411,7 +2411,7 @@
             <falscheAntwort1>928 Kilometer</falscheAntwort1>
             <falscheAntwort2>19.288 Kilometer</falscheAntwort2>
             <falscheAntwort3>92 Kilometer</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2421,7 +2421,7 @@
             <falscheAntwort1>die Anatolische Eisenbahn</falscheAntwort1>
             <falscheAntwort2>der Orientexpress</falscheAntwort2>
             <falscheAntwort3>der Swiss Express</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2431,7 +2431,7 @@
             <falscheAntwort1>Lokkapitän</falscheAntwort1>
             <falscheAntwort2>Lokpilot</falscheAntwort2>
             <falscheAntwort3>Zugfahrer</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2441,7 +2441,7 @@
             <falscheAntwort1>1974</falscheAntwort1>
             <falscheAntwort2>1984</falscheAntwort2>
             <falscheAntwort3>1964</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2451,7 +2451,7 @@
             <falscheAntwort1>Niederlande und England</falscheAntwort1>
             <falscheAntwort2>Deutschland und England</falscheAntwort2>
             <falscheAntwort3>Schweden und Polen</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2461,7 +2461,7 @@
             <falscheAntwort1>Parallelräder</falscheAntwort1>
             <falscheAntwort2>Antirutschräder</falscheAntwort2>
             <falscheAntwort3>Schwungräder</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2471,7 +2471,7 @@
             <falscheAntwort1>spezielle Räder für steile Bergfahrten</falscheAntwort1>
             <falscheAntwort2>verzierte Räder</falscheAntwort2>
             <falscheAntwort3>Lenkräder der Diesellokomotiven</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2481,7 +2481,7 @@
             <falscheAntwort1>Big Ben</falscheAntwort1>
             <falscheAntwort2>Big Bob</falscheAntwort2>
             <falscheAntwort3>Big Jim</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2491,7 +2491,7 @@
             <falscheAntwort1>mit Dampf</falscheAntwort1>
             <falscheAntwort2>mit Diesel</falscheAntwort2>
             <falscheAntwort3>mit Benzin</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2501,7 +2501,7 @@
             <falscheAntwort1>1899</falscheAntwort1>
             <falscheAntwort2>1809</falscheAntwort2>
             <falscheAntwort3>1939</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2511,7 +2511,7 @@
             <falscheAntwort1>Fürth - Nürnberg</falscheAntwort1>
             <falscheAntwort2>Bochum - Dortmund</falscheAntwort2>
             <falscheAntwort3>Bamberg - Mühlacker</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2521,7 +2521,7 @@
             <falscheAntwort1>Wilhelmine</falscheAntwort1>
             <falscheAntwort2>Teutonia</falscheAntwort2>
             <falscheAntwort3>Piaggio</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2531,7 +2531,7 @@
             <falscheAntwort1>Loti</falscheAntwort1>
             <falscheAntwort2>Lomo</falscheAntwort2>
             <falscheAntwort3>Love</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -2541,7 +2541,7 @@
             <falscheAntwort1>Morrisson</falscheAntwort1>
             <falscheAntwort2>Kensington</falscheAntwort2>
             <falscheAntwort3>Gudjonson</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2551,7 +2551,7 @@
             <falscheAntwort1>aus Frankreich</falscheAntwort1>
             <falscheAntwort2>aus Deutschland</falscheAntwort2>
             <falscheAntwort3>aus Polen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2561,7 +2561,7 @@
             <falscheAntwort1>1899</falscheAntwort1>
             <falscheAntwort2>1839</falscheAntwort2>
             <falscheAntwort3>1929</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2571,7 +2571,7 @@
             <falscheAntwort1>in Europa</falscheAntwort1>
             <falscheAntwort2>in Australien</falscheAntwort2>
             <falscheAntwort3>in Afrika</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -2581,7 +2581,7 @@
             <falscheAntwort1>Irre coole Eisenbahn</falscheAntwort1>
             <falscheAntwort2>International Civilisation Economy</falscheAntwort2>
             <falscheAntwort3>Intercloudenemy</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2591,7 +2591,7 @@
             <falscheAntwort1>Sackbahnhof</falscheAntwort1>
             <falscheAntwort2>Umsteigebahnhof</falscheAntwort2>
             <falscheAntwort3>Güterbahnhof</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -2601,7 +2601,7 @@
             <falscheAntwort1>weil sie eisern durchhält und nie müde wird</falscheAntwort1>
             <falscheAntwort2>weil sie ganz aus Eisen gebaut ist</falscheAntwort2>
             <falscheAntwort3>weil mit ihr viel Eisen transportiert werden kann</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2611,7 +2611,7 @@
             <falscheAntwort1>die Geldnot des Erfinders</falscheAntwort1>
             <falscheAntwort2>ein Zufall</falscheAntwort2>
             <falscheAntwort3>der Nachbau einer mittelalterlichen Maschine</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2621,7 +2621,7 @@
             <falscheAntwort1>Henry Ford</falscheAntwort1>
             <falscheAntwort2>James Watt</falscheAntwort2>
             <falscheAntwort3>Karl Benz</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2631,7 +2631,7 @@
             <falscheAntwort1>mit einer Diesellokomotive</falscheAntwort1>
             <falscheAntwort2>mit einer Dampflokomotive</falscheAntwort2>
             <falscheAntwort3>mit einem Elektromotor</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2641,7 +2641,7 @@
             <falscheAntwort1>Geier</falscheAntwort1>
             <falscheAntwort2>Möwe</falscheAntwort2>
             <falscheAntwort3>Falke</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2651,7 +2651,7 @@
             <falscheAntwort1>Rillen</falscheAntwort1>
             <falscheAntwort2>Dellen</falscheAntwort2>
             <falscheAntwort3>Quellen</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2661,7 +2661,7 @@
             <falscheAntwort1>in Frankreich</falscheAntwort1>
             <falscheAntwort2>in Deutschland</falscheAntwort2>
             <falscheAntwort3>in Italien</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2671,7 +2671,7 @@
             <falscheAntwort1>26 Kilometer</falscheAntwort1>
             <falscheAntwort2>16 Kilometer</falscheAntwort2>
             <falscheAntwort3>36 Kilometer</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2681,7 +2681,7 @@
             <falscheAntwort1>Leopolds - Eisenbahn</falscheAntwort1>
             <falscheAntwort2>Wilhelms - Eisenbahn</falscheAntwort2>
             <falscheAntwort3>Augustus - Eisenbahn</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2691,7 +2691,7 @@
             <falscheAntwort1>1845</falscheAntwort1>
             <falscheAntwort2>1825</falscheAntwort2>
             <falscheAntwort3>1815</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2701,7 +2701,7 @@
             <falscheAntwort1>Dortmund - Bochum</falscheAntwort1>
             <falscheAntwort2>Leipzig - Dresden</falscheAntwort2>
             <falscheAntwort3>Berlin - Potsdam</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2711,7 +2711,7 @@
             <falscheAntwort1>313</falscheAntwort1>
             <falscheAntwort2>414</falscheAntwort2>
             <falscheAntwort3>616</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2721,7 +2721,7 @@
             <falscheAntwort1>100 km/h</falscheAntwort1>
             <falscheAntwort2>200 km/h</falscheAntwort2>
             <falscheAntwort3>400 km/h</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2731,7 +2731,7 @@
             <falscheAntwort1>der japanische Shinkansen</falscheAntwort1>
             <falscheAntwort2>der deutsche ICE</falscheAntwort2>
             <falscheAntwort3>der amerikanische USA</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2741,7 +2741,7 @@
             <falscheAntwort1>Italien</falscheAntwort1>
             <falscheAntwort2>Frankreich</falscheAntwort2>
             <falscheAntwort3>Österreich</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2751,7 +2751,7 @@
             <falscheAntwort1>1604</falscheAntwort1>
             <falscheAntwort2>1704</falscheAntwort2>
             <falscheAntwort3>1904</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2761,7 +2761,7 @@
             <falscheAntwort1>Stopphut</falscheAntwort1>
             <falscheAntwort2>Haltehand</falscheAntwort2>
             <falscheAntwort3>Stehstiefel</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>

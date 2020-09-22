@@ -11,7 +11,7 @@
             <falscheAntwort1>Eierstock</falscheAntwort1>
             <falscheAntwort2>Gebärmutter</falscheAntwort2>
             <falscheAntwort3>Eileiter</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>2</schwierigkeitMax>
         </frage>
@@ -21,7 +21,7 @@
             <falscheAntwort1>Schamhaare</falscheAntwort1>
             <falscheAntwort2>Kitzler</falscheAntwort2>
             <falscheAntwort3>Slip</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>3</schwierigkeitMax>
         </frage>
@@ -31,7 +31,7 @@
             <falscheAntwort1>Gebärmutter</falscheAntwort1>
             <falscheAntwort2>Gebärmuttermund</falscheAntwort2>
             <falscheAntwort3>Jungfernhäutchen</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -41,7 +41,7 @@
             <falscheAntwort1>Eichel</falscheAntwort1>
             <falscheAntwort2>Vorhaut</falscheAntwort2>
             <falscheAntwort3>Hoden</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>5</schwierigkeitMax>
         </frage>
@@ -51,7 +51,7 @@
             <falscheAntwort1>Einnistung</falscheAntwort1>
             <falscheAntwort2>Zellteilung</falscheAntwort2>
             <falscheAntwort3>Koitus</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -61,7 +61,7 @@
             <falscheAntwort1>Wachstum der Brust</falscheAntwort1>
             <falscheAntwort2>Wachsen der Schambehaarung</falscheAntwort2>
             <falscheAntwort3>Verbreiterung des Beckens</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -71,7 +71,7 @@
             <falscheAntwort1>Vor Grippe</falscheAntwort1>
             <falscheAntwort2>Vor Bauchschmerzen</falscheAntwort2>
             <falscheAntwort3>Vor Blutvergiftung</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -81,7 +81,7 @@
             <falscheAntwort1>Erektion</falscheAntwort1>
             <falscheAntwort2>Menarche</falscheAntwort2>
             <falscheAntwort3>Flüssigkeitsverlust</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -91,7 +91,7 @@
             <falscheAntwort1>Schamlippen</falscheAntwort1>
             <falscheAntwort2>Eileiter</falscheAntwort2>
             <falscheAntwort3>Gebärmutterhals</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -101,7 +101,7 @@
             <falscheAntwort1>Aufstehen</falscheAntwort1>
             <falscheAntwort2>Eindringen</falscheAntwort2>
             <falscheAntwort3>Orgasmus</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -111,7 +111,7 @@
             <falscheAntwort1>Plazenta</falscheAntwort1>
             <falscheAntwort2>Leitbündel</falscheAntwort2>
             <falscheAntwort3>Fruchtblase</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -121,7 +121,7 @@
             <falscheAntwort1>Vorsorgeuntersuchung</falscheAntwort1>
             <falscheAntwort2>Schwangerschaftsgymnastik</falscheAntwort2>
             <falscheAntwort3>Vitamintabletten</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -131,7 +131,7 @@
             <falscheAntwort1>Chirurg</falscheAntwort1>
             <falscheAntwort2>Hebamme</falscheAntwort2>
             <falscheAntwort3>Pubertätsberater</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -141,7 +141,7 @@
             <falscheAntwort1>Ausbleiben der Regelblutung</falscheAntwort1>
             <falscheAntwort2>gelegentliche Übelkeit</falscheAntwort2>
             <falscheAntwort3>Wehen und Vorwehen</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -151,7 +151,7 @@
             <falscheAntwort1>Mineralien</falscheAntwort1>
             <falscheAntwort2>Bakterien</falscheAntwort2>
             <falscheAntwort3>Kohlendioxid</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>

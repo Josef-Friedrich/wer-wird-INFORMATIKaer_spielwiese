@@ -11,7 +11,7 @@
             <falscheAntwort1>gelb</falscheAntwort1>
             <falscheAntwort2>rot</falscheAntwort2>
             <falscheAntwort3>blau</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -21,7 +21,7 @@
             <falscheAntwort1>weiß</falscheAntwort1>
             <falscheAntwort2>rot</falscheAntwort2>
             <falscheAntwort3>grün</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -31,7 +31,7 @@
             <falscheAntwort1>achteckig</falscheAntwort1>
             <falscheAntwort2>dreieckig</falscheAntwort2>
             <falscheAntwort3>rund</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -41,7 +41,7 @@
             <falscheAntwort1>nur auf einer breiten Straße</falscheAntwort1>
             <falscheAntwort2>ja</falscheAntwort2>
             <falscheAntwort3>nur, wenn kein Gegenverkehr kommt</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -51,7 +51,7 @@
             <falscheAntwort1>4</falscheAntwort1>
             <falscheAntwort2>3</falscheAntwort2>
             <falscheAntwort3>5</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>3</schwierigkeitMax>
         </frage>
@@ -61,7 +61,7 @@
             <falscheAntwort1>auf der linken Spur rechts</falscheAntwort1>
             <falscheAntwort2>nahe am Mittelstreifen</falscheAntwort2>
             <falscheAntwort3>auf der rechten Spur links</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -71,7 +71,7 @@
             <falscheAntwort1>quer zur Fahrbahn</falscheAntwort1>
             <falscheAntwort2>links vom Mittelstreifen</falscheAntwort2>
             <falscheAntwort3>am linken Bordstein</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -81,7 +81,7 @@
             <falscheAntwort1>nur, wenn ein weißes Auto kommt</falscheAntwort1>
             <falscheAntwort2>ja, natürlich</falscheAntwort2>
             <falscheAntwort3>nur bei Sonnenschein</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -91,7 +91,7 @@
             <falscheAntwort1>freihändig</falscheAntwort1>
             <falscheAntwort2>schnell</falscheAntwort2>
             <falscheAntwort3>fröhlich</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -101,7 +101,7 @@
             <falscheAntwort1>nur bei Gegenverkehr</falscheAntwort1>
             <falscheAntwort2>nein</falscheAntwort2>
             <falscheAntwort3>nur beim Überholen</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -111,7 +111,7 @@
             <falscheAntwort1>dicke Stiefel</falscheAntwort1>
             <falscheAntwort2>ein dunkler Helm</falscheAntwort2>
             <falscheAntwort3>eine Taschenlampe</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -121,7 +121,7 @@
             <falscheAntwort1>Ein Fahrzeug, das nur 1 m breit ist.</falscheAntwort1>
             <falscheAntwort2>Ein Fahrzeug, das rot ist.</falscheAntwort2>
             <falscheAntwort3>das Müllauto</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -131,7 +131,7 @@
             <falscheAntwort1>nur in Begleitung eines Erwachsenen</falscheAntwort1>
             <falscheAntwort2>nein</falscheAntwort2>
             <falscheAntwort3>nur zu zweit</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -141,7 +141,7 @@
             <falscheAntwort1>Vorfahrt achten</falscheAntwort1>
             <falscheAntwort2>Verbot der Durchfahrt</falscheAntwort2>
             <falscheAntwort3>Einbahnstraße</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -151,7 +151,7 @@
             <falscheAntwort1>umsehen</falscheAntwort1>
             <falscheAntwort2>Handzeichen nach rechts geben</falscheAntwort2>
             <falscheAntwort3>klingeln</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -161,7 +161,7 @@
             <falscheAntwort1>Handzeichen nach links geben</falscheAntwort1>
             <falscheAntwort2>nach rechts hinten umsehen</falscheAntwort2>
             <falscheAntwort3>absteigen und schieben</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -171,7 +171,7 @@
             <falscheAntwort1>nur, wenn ein schwarzes Auto kommt</falscheAntwort1>
             <falscheAntwort2>nein</falscheAntwort2>
             <falscheAntwort3>nur am Montag</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -181,7 +181,7 @@
             <falscheAntwort1>nur für schwarze Fahrräder</falscheAntwort1>
             <falscheAntwort2>Radfahrweg</falscheAntwort2>
             <falscheAntwort3>Fahrradwerkstatt</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -191,7 +191,7 @@
             <falscheAntwort1>nur für weiße Fahrräder</falscheAntwort1>
             <falscheAntwort2>für Radfahrer verboten</falscheAntwort2>
             <falscheAntwort3>Parkplatz für Fahrräder</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -201,7 +201,7 @@
             <falscheAntwort1>vorsichtig weiterfahren</falscheAntwort1>
             <falscheAntwort2>schnell durchfahren</falscheAntwort2>
             <falscheAntwort3>umkehren</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -211,7 +211,7 @@
             <falscheAntwort1>nur, wenn es beladen ist</falscheAntwort1>
             <falscheAntwort2>nein</falscheAntwort2>
             <falscheAntwort3>nur, wenn es regnet</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -221,7 +221,7 @@
             <falscheAntwort1>nur an PKW´ s</falscheAntwort1>
             <falscheAntwort2>nein</falscheAntwort2>
             <falscheAntwort3>nur an LKW´s</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -231,7 +231,7 @@
             <falscheAntwort1>klingeln</falscheAntwort1>
             <falscheAntwort2>Handzeichen geben</falscheAntwort2>
             <falscheAntwort3>Reifendruck prüfen</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -241,7 +241,7 @@
             <falscheAntwort1>links oder rechts</falscheAntwort1>
             <falscheAntwort2>immer nur rechts</falscheAntwort2>
             <falscheAntwort3>auf einem Radweg darf man nicht überholen</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -251,7 +251,7 @@
             <falscheAntwort1>in beide Richtungen</falscheAntwort1>
             <falscheAntwort2>im Uhrzeigersinn</falscheAntwort2>
             <falscheAntwort3>das wechselt jeden Monat</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -261,7 +261,7 @@
             <falscheAntwort1>wenn du deutliche Handzeichen gibst</falscheAntwort1>
             <falscheAntwort2>wenn du laut klingelst</falscheAntwort2>
             <falscheAntwort3>wenn du laut rufst</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -271,7 +271,7 @@
             <falscheAntwort1>Gebotsschild</falscheAntwort1>
             <falscheAntwort2>Verbotsschild</falscheAntwort2>
             <falscheAntwort3>Autobahnschild</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -281,7 +281,7 @@
             <falscheAntwort1>Achtung, Baustellenausfahrt !</falscheAntwort1>
             <falscheAntwort2>Vorsicht, Schranke !</falscheAntwort2>
             <falscheAntwort3>Halteverbot nur für rot - weiße Autos</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -291,7 +291,7 @@
             <falscheAntwort1>viereckig</falscheAntwort1>
             <falscheAntwort2>dreieckig</falscheAntwort2>
             <falscheAntwort3>achteckig</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -301,7 +301,7 @@
             <falscheAntwort1>6</falscheAntwort1>
             <falscheAntwort2>4</falscheAntwort2>
             <falscheAntwort3>8</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -311,7 +311,7 @@
             <falscheAntwort1>der Radfahrer</falscheAntwort1>
             <falscheAntwort2>der Autofahrer</falscheAntwort2>
             <falscheAntwort3>der Motorrollerfahrer</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -321,7 +321,7 @@
             <falscheAntwort1>100 m</falscheAntwort1>
             <falscheAntwort2>2 m - 3 m</falscheAntwort2>
             <falscheAntwort3>genau dreimal so groß, wie lang mein Fahrrad ist</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -331,7 +331,7 @@
             <falscheAntwort1>Das Auto fährt rückwärts los.</falscheAntwort1>
             <falscheAntwort2>Der Fahrer hupt laut.</falscheAntwort2>
             <falscheAntwort3>Der Fahrer schaltet die Warnblinkanlage ein.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -341,7 +341,7 @@
             <falscheAntwort1>Der Lastwagen fährt zuerst ein Stück zurück.</falscheAntwort1>
             <falscheAntwort2>Der Lastwagen saust schnell los.</falscheAntwort2>
             <falscheAntwort3>Der Auspuff lässt eine große Rauchwolke los.</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -351,7 +351,7 @@
             <falscheAntwort1>Ich fahre schnell Slalom.</falscheAntwort1>
             <falscheAntwort2>Ich klingele die ganze Zeit.</falscheAntwort2>
             <falscheAntwort3>Ich steige ab und schiebe mein Fahrrad.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -361,7 +361,7 @@
             <falscheAntwort1>Sie schimpfen dich aus.</falscheAntwort1>
             <falscheAntwort2>Sie fangen an zu rennen.</falscheAntwort2>
             <falscheAntwort3>Sie möchten mitfahren.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -371,7 +371,7 @@
             <falscheAntwort1>Morsezeichen</falscheAntwort1>
             <falscheAntwort2>Klingelzeichen</falscheAntwort2>
             <falscheAntwort3>Rauchzeichen</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -381,7 +381,7 @@
             <falscheAntwort1>laut klingeln und überholen</falscheAntwort1>
             <falscheAntwort2>schnell vorbeifahren</falscheAntwort2>
             <falscheAntwort3>Handzeichen geben und vorbeifahren</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -391,7 +391,7 @@
             <falscheAntwort1>Kinder warten an der Bordsteinkante.</falscheAntwort1>
             <falscheAntwort2>Kinder winken dir zu.</falscheAntwort2>
             <falscheAntwort3>Kinder singen laute Lieder.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -401,7 +401,7 @@
             <falscheAntwort1>auf Jogger</falscheAntwort1>
             <falscheAntwort2>auf Polizisten</falscheAntwort2>
             <falscheAntwort3>auf junge Leute und Männer mit Hut</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -411,7 +411,7 @@
             <falscheAntwort1>laut klingeln und zügig weiterfahren</falscheAntwort1>
             <falscheAntwort2>schnell vorher abbiegen</falscheAntwort2>
             <falscheAntwort3>absteigen und das Fahrrad über die Fahrbahn schieben</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -421,7 +421,7 @@
             <falscheAntwort1>An dieser Kreuzung hast du Vorfahrt.</falscheAntwort1>
             <falscheAntwort2>Kreuzung gesperrt</falscheAntwort2>
             <falscheAntwort3>Abbiegen verboten !</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -431,7 +431,7 @@
             <falscheAntwort1>sofort umkehren</falscheAntwort1>
             <falscheAntwort2>stehenbleiben und alle vorlassen</falscheAntwort2>
             <falscheAntwort3>laut klingeln und zügig weiterfahren</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -441,7 +441,7 @@
             <falscheAntwort1>wenn die Ampel rot zeigt</falscheAntwort1>
             <falscheAntwort2>wenn die Ampel grün zeigt</falscheAntwort2>
             <falscheAntwort3>wenn die Ampel gelb zeigt</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -451,7 +451,7 @@
             <falscheAntwort1>nur, wenn du Handzeichen gibst</falscheAntwort1>
             <falscheAntwort2>ja</falscheAntwort2>
             <falscheAntwort3>nur an Feiertagen</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -461,7 +461,7 @@
             <falscheAntwort1>Man muss ein Stückchen vorfahren.</falscheAntwort1>
             <falscheAntwort2>Ich habe Vorfahrt.</falscheAntwort2>
             <falscheAntwort3>Man darf nicht überholen.</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -471,7 +471,7 @@
             <falscheAntwort1>wer am schnellsten starten kann</falscheAntwort1>
             <falscheAntwort2>wer niemanden von links hat</falscheAntwort2>
             <falscheAntwort3>wer das größere Auto hat</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -481,7 +481,7 @@
             <falscheAntwort1>langsam weiterfahren</falscheAntwort1>
             <falscheAntwort2>nur bei Gegenverkehr anhalten</falscheAntwort2>
             <falscheAntwort3>sofort umkehren</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -491,7 +491,7 @@
             <falscheAntwort1>umkehren</falscheAntwort1>
             <falscheAntwort2>anhalten</falscheAntwort2>
             <falscheAntwort3>abbiegen</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -501,7 +501,7 @@
             <falscheAntwort1>abbiegen</falscheAntwort1>
             <falscheAntwort2>weiterfahren</falscheAntwort2>
             <falscheAntwort3>umkehren</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -511,7 +511,7 @@
             <falscheAntwort1>Achtung, Gefahr !</falscheAntwort1>
             <falscheAntwort2>Du hast Vorfahrt.</falscheAntwort2>
             <falscheAntwort3>Durchfahrt verboten !</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -521,7 +521,7 @@
             <falscheAntwort1>4</falscheAntwort1>
             <falscheAntwort2>6</falscheAntwort2>
             <falscheAntwort3>3</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -531,7 +531,7 @@
             <falscheAntwort1>nur am Sonntag</falscheAntwort1>
             <falscheAntwort2>ja</falscheAntwort2>
             <falscheAntwort3>nur auf dem Randstreifen</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -541,7 +541,7 @@
             <falscheAntwort1>Kreuzung freimachen</falscheAntwort1>
             <falscheAntwort2>anhalten</falscheAntwort2>
             <falscheAntwort3>umkehren</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -551,7 +551,7 @@
             <falscheAntwort1>Kreuzung freimachen</falscheAntwort1>
             <falscheAntwort2>weiterfahren</falscheAntwort2>
             <falscheAntwort3>abbiegen</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -561,7 +561,7 @@
             <falscheAntwort1>bei gelb</falscheAntwort1>
             <falscheAntwort2>bei grün</falscheAntwort2>
             <falscheAntwort3>wenn die Ampel blinkt</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -571,7 +571,7 @@
             <falscheAntwort1>Autos vor Radfahrer</falscheAntwort1>
             <falscheAntwort2>Es gibt keine Regelung.</falscheAntwort2>
             <falscheAntwort3>Wer zuerst kommt, darf auch zuerst fahren.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -581,7 +581,7 @@
             <falscheAntwort1>auf einer Landstraße</falscheAntwort1>
             <falscheAntwort2>auf dem Radweg</falscheAntwort2>
             <falscheAntwort3>auf einem Feldweg</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -591,7 +591,7 @@
             <falscheAntwort1>gleich</falscheAntwort1>
             <falscheAntwort2>kleiner</falscheAntwort2>
             <falscheAntwort3>genau 16 Meter</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -601,7 +601,7 @@
             <falscheAntwort1>Dort kann jeder fahren, wie er will.</falscheAntwort1>
             <falscheAntwort2>Dort gibt es keine Verkehrsregeln.</falscheAntwort2>
             <falscheAntwort3>Dort dürfen nur Kinder fahren.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -611,7 +611,7 @@
             <falscheAntwort1>Du darfst ihn nur benutzen, wenn du langsam fährst.</falscheAntwort1>
             <falscheAntwort2>Du kannst ihn benutzen.</falscheAntwort2>
             <falscheAntwort3>Du darfst nicht weiterfahren.</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -621,7 +621,7 @@
             <falscheAntwort1>..., dass man immer überholt wird</falscheAntwort1>
             <falscheAntwort2>..., dass Rückenwind kommt</falscheAntwort2>
             <falscheAntwort3>..., dass man Letzter wird</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -631,7 +631,7 @@
             <falscheAntwort1>LKW</falscheAntwort1>
             <falscheAntwort2>PKW</falscheAntwort2>
             <falscheAntwort3>Motorrad</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -641,7 +641,7 @@
             <falscheAntwort1>Er muss zügig fahren.</falscheAntwort1>
             <falscheAntwort2>Er muss ständig klingeln.</falscheAntwort2>
             <falscheAntwort3>Er hat immer Vorfahrt.</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -651,7 +651,7 @@
             <falscheAntwort1>auf dem Bürgersteig</falscheAntwort1>
             <falscheAntwort2>mitten auf der Straße</falscheAntwort2>
             <falscheAntwort3>auf der linken Straßenseite</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -661,7 +661,7 @@
             <falscheAntwort1>wenn man bremst</falscheAntwort1>
             <falscheAntwort2>wenn man einhändig fährt</falscheAntwort2>
             <falscheAntwort3>wenn der Gepäckträger beladen ist</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -671,7 +671,7 @@
             <falscheAntwort1>auf die Pedalen</falscheAntwort1>
             <falscheAntwort2>an die Speichen</falscheAntwort2>
             <falscheAntwort3>auf den Gepäckträger</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -681,7 +681,7 @@
             <falscheAntwort1>auf den Gepäckträger</falscheAntwort1>
             <falscheAntwort2>an den Lenker</falscheAntwort2>
             <falscheAntwort3>an die Klingel</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -691,7 +691,7 @@
             <falscheAntwort1>wenn die Strecke nicht so viele Kurven hat</falscheAntwort1>
             <falscheAntwort2>wenn du freihändig fahren kannst</falscheAntwort2>
             <falscheAntwort3>wenn die Tasche nicht zu schwer ist</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -701,7 +701,7 @@
             <falscheAntwort1>wenn du beim Fahren einen Helm aufhast</falscheAntwort1>
             <falscheAntwort2>wenn du beim Fahren beide Hände am Lenker hast</falscheAntwort2>
             <falscheAntwort3>wenn du beim Fahren die Füße bewegst</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -711,7 +711,7 @@
             <falscheAntwort1>weil man dadurch zu schnell wird</falscheAntwort1>
             <falscheAntwort2>weil es nur für Erwachsene erlaubt ist</falscheAntwort2>
             <falscheAntwort3>weil der Vordermann behindert wird</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -721,7 +721,7 @@
             <falscheAntwort1>zwischen 18 und 20 Uhr</falscheAntwort1>
             <falscheAntwort2>nur auf dem Radweg</falscheAntwort2>
             <falscheAntwort3>nur in einer Einbahnstraße</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -731,7 +731,7 @@
             <falscheAntwort1>auf einer Landstraße</falscheAntwort1>
             <falscheAntwort2>abends ab 21.30 Uhr</falscheAntwort2>
             <falscheAntwort3>wenn du schneller fahren möchtest</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -741,7 +741,7 @@
             <falscheAntwort1>nur, wenn die Musik leise ist</falscheAntwort1>
             <falscheAntwort2>ja</falscheAntwort2>
             <falscheAntwort3>ja, aber nur klassische Musik</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -751,7 +751,7 @@
             <falscheAntwort1>nur, wenn er kleiner ist</falscheAntwort1>
             <falscheAntwort2>ja</falscheAntwort2>
             <falscheAntwort3>nur, wenn er jünger ist</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -761,7 +761,7 @@
             <falscheAntwort1>wenn es neu ist</falscheAntwort1>
             <falscheAntwort2>wenn es betriebssicher ist</falscheAntwort2>
             <falscheAntwort3>wenn es eingefahren ist</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -771,7 +771,7 @@
             <falscheAntwort1>an den Pedalen</falscheAntwort1>
             <falscheAntwort2>vorne</falscheAntwort2>
             <falscheAntwort3>neben der Klingel</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -781,7 +781,7 @@
             <falscheAntwort1>am Gepäckträger</falscheAntwort1>
             <falscheAntwort2>hinten</falscheAntwort2>
             <falscheAntwort3>an den Pedalen</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -791,7 +791,7 @@
             <falscheAntwort1>8</falscheAntwort1>
             <falscheAntwort2>9</falscheAntwort2>
             <falscheAntwort3>11</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -801,7 +801,7 @@
             <falscheAntwort1>wenn es eingefahren ist</falscheAntwort1>
             <falscheAntwort2>wenn es neu ist</falscheAntwort2>
             <falscheAntwort3>wenn es Schutzbleche hat</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -811,7 +811,7 @@
             <falscheAntwort1>Turbine</falscheAntwort1>
             <falscheAntwort2>Dynamit</falscheAntwort2>
             <falscheAntwort3>Batterie</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -821,7 +821,7 @@
             <falscheAntwort1>3</falscheAntwort1>
             <falscheAntwort2>1</falscheAntwort2>
             <falscheAntwort3>4</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -831,7 +831,7 @@
             <falscheAntwort1>gelb</falscheAntwort1>
             <falscheAntwort2>weiß</falscheAntwort2>
             <falscheAntwort3>grün</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -841,7 +841,7 @@
             <falscheAntwort1>2</falscheAntwort1>
             <falscheAntwort2>3</falscheAntwort2>
             <falscheAntwort3>1</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -851,7 +851,7 @@
             <falscheAntwort1>0</falscheAntwort1>
             <falscheAntwort2>1</falscheAntwort2>
             <falscheAntwort3>4</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -861,7 +861,7 @@
             <falscheAntwort1>0</falscheAntwort1>
             <falscheAntwort2>1</falscheAntwort2>
             <falscheAntwort3>3</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -871,7 +871,7 @@
             <falscheAntwort1>weß</falscheAntwort1>
             <falscheAntwort2>rot</falscheAntwort2>
             <falscheAntwort3>blau</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -881,7 +881,7 @@
             <falscheAntwort1>weiß</falscheAntwort1>
             <falscheAntwort2>rot</falscheAntwort2>
             <falscheAntwort3>grün</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -891,7 +891,7 @@
             <falscheAntwort1>nur beim Mountain - Bike</falscheAntwort1>
             <falscheAntwort2>ja</falscheAntwort2>
             <falscheAntwort3>nur bei einem Rennrad</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -901,7 +901,7 @@
             <falscheAntwort1>Sturzhelm</falscheAntwort1>
             <falscheAntwort2>Flickzeug</falscheAntwort2>
             <falscheAntwort3>Gangschaltung</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -911,7 +911,7 @@
             <falscheAntwort1>Uhr</falscheAntwort1>
             <falscheAntwort2>Tachometer</falscheAntwort2>
             <falscheAntwort3>Schraubenzieher</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -921,7 +921,7 @@
             <falscheAntwort1>Fahne</falscheAntwort1>
             <falscheAntwort2>Rennlenker</falscheAntwort2>
             <falscheAntwort3>Rückspiegel</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -931,7 +931,7 @@
             <falscheAntwort1>Gepäckträger</falscheAntwort1>
             <falscheAntwort2>Luftpumpe</falscheAntwort2>
             <falscheAntwort3>Schutzblech</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -941,7 +941,7 @@
             <falscheAntwort1>nur am Tag</falscheAntwort1>
             <falscheAntwort2>ja</falscheAntwort2>
             <falscheAntwort3>nur bei Sonnenschein</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -951,7 +951,7 @@
             <falscheAntwort1>3</falscheAntwort1>
             <falscheAntwort2>1</falscheAntwort2>
             <falscheAntwort3>4</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -961,7 +961,7 @@
             <falscheAntwort1>Vorderradbremse</falscheAntwort1>
             <falscheAntwort2>Rückstrahler</falscheAntwort2>
             <falscheAntwort3>Speichenreflektor</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -971,7 +971,7 @@
             <falscheAntwort1>Hinterradbremse</falscheAntwort1>
             <falscheAntwort2>Frontstrahler</falscheAntwort2>
             <falscheAntwort3>KLingel</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -981,7 +981,7 @@
             <falscheAntwort1>nur, wenn er einen Helm aufhat</falscheAntwort1>
             <falscheAntwort2>ja</falscheAntwort2>
             <falscheAntwort3>nur, wenn er Schutzkleidung trägt</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -991,7 +991,7 @@
             <falscheAntwort1>Hasenaugen</falscheAntwort1>
             <falscheAntwort2>Hundeaugen</falscheAntwort2>
             <falscheAntwort3>Pferdeaugen</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1001,7 +1001,7 @@
             <falscheAntwort1>Er muss zügig fahren.</falscheAntwort1>
             <falscheAntwort2>Er muss ständig klingeln.</falscheAntwort2>
             <falscheAntwort3>Er hat immer Vorfahrt.</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>

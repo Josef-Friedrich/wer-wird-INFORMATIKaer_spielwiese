@@ -1461,7 +1461,7 @@
             <falscheAntwort1>kleine Saurier</falscheAntwort1>
             <falscheAntwort2>Pflanzen</falscheAntwort2>
             <falscheAntwort3>Fleisch</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1471,7 +1471,7 @@
             <falscheAntwort1>Philologen</falscheAntwort1>
             <falscheAntwort2>Pätaontologen</falscheAntwort2>
             <falscheAntwort3>Paraontologen</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1481,7 +1481,7 @@
             <falscheAntwort1>Gras</falscheAntwort1>
             <falscheAntwort2>Muscheln</falscheAntwort2>
             <falscheAntwort3>Sand</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1491,7 +1491,7 @@
             <falscheAntwort1>Triceratops</falscheAntwort1>
             <falscheAntwort2>Brachiosaurus</falscheAntwort2>
             <falscheAntwort3>Tyrannosaurus</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1501,7 +1501,7 @@
             <falscheAntwort1>vor ca. 230 Millionen Jahren</falscheAntwort1>
             <falscheAntwort2>vor ca. 180 Millionen Jahren</falscheAntwort2>
             <falscheAntwort3>vor ca. 100 Millionen Jahren</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1511,7 +1511,7 @@
             <falscheAntwort1>Trias</falscheAntwort1>
             <falscheAntwort2>Jura</falscheAntwort2>
             <falscheAntwort3>Kreidezeit</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1521,7 +1521,7 @@
             <falscheAntwort1>Triceratops</falscheAntwort1>
             <falscheAntwort2>Proceratops</falscheAntwort2>
             <falscheAntwort3>Rinoceratops</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1531,7 +1531,7 @@
             <falscheAntwort1>10 kg</falscheAntwort1>
             <falscheAntwort2>50kg</falscheAntwort2>
             <falscheAntwort3>200 kg</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1541,7 +1541,7 @@
             <falscheAntwort1>sein spitzes Horn</falscheAntwort1>
             <falscheAntwort2>seine Schwanzstacheln</falscheAntwort2>
             <falscheAntwort3>seine Reißzähne</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1551,7 +1551,7 @@
             <falscheAntwort1>Pflanzen</falscheAntwort1>
             <falscheAntwort2>Fische</falscheAntwort2>
             <falscheAntwort3>Insekten</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1561,7 +1561,7 @@
             <falscheAntwort1>Sie waren zu alt.</falscheAntwort1>
             <falscheAntwort2>Säugetiere fraßen ihre Eier.</falscheAntwort2>
             <falscheAntwort3>Es wurde zu heiß.</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1571,7 +1571,7 @@
             <falscheAntwort1>Schwanzstacheln</falscheAntwort1>
             <falscheAntwort2>drei Nackenhörnern</falscheAntwort2>
             <falscheAntwort3>Keulenschwanz</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1581,7 +1581,7 @@
             <falscheAntwort1>ca. 10 km/h</falscheAntwort1>
             <falscheAntwort2>ca. 20 km/h</falscheAntwort2>
             <falscheAntwort3>ca. 40 km/h</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1591,7 +1591,7 @@
             <falscheAntwort1>vor ca. 220 Millionen Jahren</falscheAntwort1>
             <falscheAntwort2>vor ca. 120 Millionen Jahren</falscheAntwort2>
             <falscheAntwort3>vor ca. 180 Millionen Jahren</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1601,7 +1601,7 @@
             <falscheAntwort1>schreckliche Echse</falscheAntwort1>
             <falscheAntwort2>Donnerechse</falscheAntwort2>
             <falscheAntwort3>Scharfzahn</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1611,7 +1611,7 @@
             <falscheAntwort1>nein</falscheAntwort1>
             <falscheAntwort2>nur die Libellen</falscheAntwort2>
             <falscheAntwort3>nur die Dinokäfer</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1621,7 +1621,7 @@
             <falscheAntwort1>von der Größe</falscheAntwort1>
             <falscheAntwort2>vom Fundort</falscheAntwort2>
             <falscheAntwort3>vom Skelett</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1631,7 +1631,7 @@
             <falscheAntwort1>Nordamerika</falscheAntwort1>
             <falscheAntwort2>Europa</falscheAntwort2>
             <falscheAntwort3>Afrika</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1641,7 +1641,7 @@
             <falscheAntwort1>Asterix</falscheAntwort1>
             <falscheAntwort2>Appendix</falscheAntwort2>
             <falscheAntwort3>Arche Noah</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1651,7 +1651,7 @@
             <falscheAntwort1>Sie legten viele Eier.</falscheAntwort1>
             <falscheAntwort2>Sie atmeten mit Lungen.</falscheAntwort2>
             <falscheAntwort3>Sie hatten lange Schwänze.</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1661,7 +1661,7 @@
             <falscheAntwort1>Tyrannosaurus</falscheAntwort1>
             <falscheAntwort2>Allosaurus</falscheAntwort2>
             <falscheAntwort3>Velociraptor</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1671,7 +1671,7 @@
             <falscheAntwort1>Anatosaurus</falscheAntwort1>
             <falscheAntwort2>Pleciosaurus</falscheAntwort2>
             <falscheAntwort3>Stegosaurus</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1681,7 +1681,7 @@
             <falscheAntwort1>Tricearatops</falscheAntwort1>
             <falscheAntwort2>Pteranodon</falscheAntwort2>
             <falscheAntwort3>Quetzalcoatlus</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1691,7 +1691,7 @@
             <falscheAntwort1>die langen Beine</falscheAntwort1>
             <falscheAntwort2>der dicke Schwanz</falscheAntwort2>
             <falscheAntwort3>der große Kopf</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1701,7 +1701,7 @@
             <falscheAntwort1>Fischsaurier</falscheAntwort1>
             <falscheAntwort2>Raubsaurier</falscheAntwort2>
             <falscheAntwort3>Hornsaurier</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1711,7 +1711,7 @@
             <falscheAntwort1>ja</falscheAntwort1>
             <falscheAntwort2>nur im Sommer</falscheAntwort2>
             <falscheAntwort3>nur die Weibchen</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1721,7 +1721,7 @@
             <falscheAntwort1>die Regenzeit</falscheAntwort1>
             <falscheAntwort2>die Steinzeitmenschen</falscheAntwort2>
             <falscheAntwort3>das heißere Klima</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1731,7 +1731,7 @@
             <falscheAntwort1>Velociraptor</falscheAntwort1>
             <falscheAntwort2>Deinonychus</falscheAntwort2>
             <falscheAntwort3>Iguanodon</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1741,7 +1741,7 @@
             <falscheAntwort1>etwa 3 cm</falscheAntwort1>
             <falscheAntwort2>etwa 10 cm</falscheAntwort2>
             <falscheAntwort3>etwa 20 cm</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1751,7 +1751,7 @@
             <falscheAntwort1>Keulenschwanz</falscheAntwort1>
             <falscheAntwort2>Dornenhufen</falscheAntwort2>
             <falscheAntwort3>Krallenfüßen</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1761,7 +1761,7 @@
             <falscheAntwort1>wie Elefantenohren</falscheAntwort1>
             <falscheAntwort2>wie Menschenohren</falscheAntwort2>
             <falscheAntwort3>wie Hasenohren</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -1771,7 +1771,7 @@
             <falscheAntwort1>das Muttertier</falscheAntwort1>
             <falscheAntwort2>die Elterntiere</falscheAntwort2>
             <falscheAntwort3>alle Weibchen der Herde</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1781,7 +1781,7 @@
             <falscheAntwort1>ca. 15 cm</falscheAntwort1>
             <falscheAntwort2>ca. 20 cm</falscheAntwort2>
             <falscheAntwort3>ca. 25 cm</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1791,7 +1791,7 @@
             <falscheAntwort1>10 - 20 Jahre</falscheAntwort1>
             <falscheAntwort2>80 - 140 Jahre</falscheAntwort2>
             <falscheAntwort3>60 - 100 Jahre</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1801,7 +1801,7 @@
             <falscheAntwort1>Tyrannosaurus</falscheAntwort1>
             <falscheAntwort2>Allosaurus</falscheAntwort2>
             <falscheAntwort3>Deinonychus</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1811,7 +1811,7 @@
             <falscheAntwort1>ca. 2 m</falscheAntwort1>
             <falscheAntwort2>ca. 3 m</falscheAntwort2>
             <falscheAntwort3>ca. 4 m</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1821,7 +1821,7 @@
             <falscheAntwort1>so groß wie eine Erbse</falscheAntwort1>
             <falscheAntwort2>so groß wie eine Kokosnuss</falscheAntwort2>
             <falscheAntwort3>so groß wie ein Fußball</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1831,7 +1831,7 @@
             <falscheAntwort1>Indien</falscheAntwort1>
             <falscheAntwort2>China</falscheAntwort2>
             <falscheAntwort3>Afrika</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1841,7 +1841,7 @@
             <falscheAntwort1>seine Jungen</falscheAntwort1>
             <falscheAntwort2>spitze Stacheln</falscheAntwort2>
             <falscheAntwort3>Panzerplatten</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1851,7 +1851,7 @@
             <falscheAntwort1>Giraffenhalsdinosaurier</falscheAntwort1>
             <falscheAntwort2>Krokodilschwanzsaurier</falscheAntwort2>
             <falscheAntwort3>Büffelkopfdinosaurier</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1861,7 +1861,7 @@
             <falscheAntwort1>Pferd</falscheAntwort1>
             <falscheAntwort2>Dackel</falscheAntwort2>
             <falscheAntwort3>Igel</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1871,7 +1871,7 @@
             <falscheAntwort1>allein</falscheAntwort1>
             <falscheAntwort2>zu zweit</falscheAntwort2>
             <falscheAntwort3>zu viert</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1881,7 +1881,7 @@
             <falscheAntwort1>in Südafrika</falscheAntwort1>
             <falscheAntwort2>in Nordamerika</falscheAntwort2>
             <falscheAntwort3>am Nordpol</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1891,7 +1891,7 @@
             <falscheAntwort1>3</falscheAntwort1>
             <falscheAntwort2>4</falscheAntwort2>
             <falscheAntwort3>5</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1901,7 +1901,7 @@
             <falscheAntwort1>Säbelzahntiger</falscheAntwort1>
             <falscheAntwort2>Mammut</falscheAntwort2>
             <falscheAntwort3>Gürteltiere</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1911,7 +1911,7 @@
             <falscheAntwort1>Nodosaurus</falscheAntwort1>
             <falscheAntwort2>Tsintaosaurus</falscheAntwort2>
             <falscheAntwort3>Diplododucus</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1921,7 +1921,7 @@
             <falscheAntwort1>vor ca. 102 Millionen Jahren</falscheAntwort1>
             <falscheAntwort2>vor ca. 156 Millionen Jahren</falscheAntwort2>
             <falscheAntwort3>vor ca. 346 Millionen Jahren</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1931,7 +1931,7 @@
             <falscheAntwort1>Stegosaurus</falscheAntwort1>
             <falscheAntwort2>Mussaurus</falscheAntwort2>
             <falscheAntwort3>Camarasaurus</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1941,7 +1941,7 @@
             <falscheAntwort1>32 m</falscheAntwort1>
             <falscheAntwort2>12 m</falscheAntwort2>
             <falscheAntwort3>6 m</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1951,7 +1951,7 @@
             <falscheAntwort1>6 m</falscheAntwort1>
             <falscheAntwort2>4 m</falscheAntwort2>
             <falscheAntwort3>2 m</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1961,7 +1961,7 @@
             <falscheAntwort1>Nordamerika</falscheAntwort1>
             <falscheAntwort2>Afrika</falscheAntwort2>
             <falscheAntwort3>Europa</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1971,7 +1971,7 @@
             <falscheAntwort1>vor 110 Millionen Jahren</falscheAntwort1>
             <falscheAntwort2>vor 210 Millionen Jahren</falscheAntwort2>
             <falscheAntwort3>vor 80 Millionen Jahren</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1981,7 +1981,7 @@
             <falscheAntwort1>17 kg</falscheAntwort1>
             <falscheAntwort2>72 kg</falscheAntwort2>
             <falscheAntwort3>35 kg</falscheAntwort3>
-            <schwierikeit>13</schwierikeit>
+            <schwierigkeit>13</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -1991,7 +1991,7 @@
             <falscheAntwort1>nur die Männchen</falscheAntwort1>
             <falscheAntwort2>nur die Weibchen</falscheAntwort2>
             <falscheAntwort3>nur die erwachsenen Saurier</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2001,7 +2001,7 @@
             <falscheAntwort1>sein Mundgeruch</falscheAntwort1>
             <falscheAntwort2>sein Feuerspucken</falscheAntwort2>
             <falscheAntwort3>sein Schwanzstachel</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -2011,7 +2011,7 @@
             <falscheAntwort1>Mongolei</falscheAntwort1>
             <falscheAntwort2>Mexiko</falscheAntwort2>
             <falscheAntwort3>Argentinien</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>15</schwierigkeitMax>
         </frage>
@@ -2021,7 +2021,7 @@
             <falscheAntwort1>10 m</falscheAntwort1>
             <falscheAntwort2>5 m</falscheAntwort2>
             <falscheAntwort3>2 m</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2031,7 +2031,7 @@
             <falscheAntwort1>Nordamerika</falscheAntwort1>
             <falscheAntwort2>Europa</falscheAntwort2>
             <falscheAntwort3>Asien</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2041,7 +2041,7 @@
             <falscheAntwort1>Er hatte keine Zähne.</falscheAntwort1>
             <falscheAntwort2>Er hatte keinen Schwanz.</falscheAntwort2>
             <falscheAntwort3>Doppelschwanz</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2051,7 +2051,7 @@
             <falscheAntwort1>10 m</falscheAntwort1>
             <falscheAntwort2>4 m</falscheAntwort2>
             <falscheAntwort3>16 m</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2061,7 +2061,7 @@
             <falscheAntwort1>drei gebogene Hörner</falscheAntwort1>
             <falscheAntwort2>einen scharfen Stachel</falscheAntwort2>
             <falscheAntwort3>vier gepanzerte Platten</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2071,7 +2071,7 @@
             <falscheAntwort1>Fischsaurier</falscheAntwort1>
             <falscheAntwort2>Raubsaurier</falscheAntwort2>
             <falscheAntwort3>Hornsaurier</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2081,7 +2081,7 @@
             <falscheAntwort1>Fleisch</falscheAntwort1>
             <falscheAntwort2>Fische</falscheAntwort2>
             <falscheAntwort3>Insekten</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2091,7 +2091,7 @@
             <falscheAntwort1>15 m</falscheAntwort1>
             <falscheAntwort2>8 m</falscheAntwort2>
             <falscheAntwort3>36 m</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2101,7 +2101,7 @@
             <falscheAntwort1>ein großes Horn</falscheAntwort1>
             <falscheAntwort2>zwei Hörner</falscheAntwort2>
             <falscheAntwort3>einen gebogenen Kamm</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2111,7 +2111,7 @@
             <falscheAntwort1>Fisch</falscheAntwort1>
             <falscheAntwort2>Pflanzen</falscheAntwort2>
             <falscheAntwort3>Insekten</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2121,7 +2121,7 @@
             <falscheAntwort1>10 m</falscheAntwort1>
             <falscheAntwort2>16 m</falscheAntwort2>
             <falscheAntwort3>22 m</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2131,7 +2131,7 @@
             <falscheAntwort1>4 m</falscheAntwort1>
             <falscheAntwort2>40 m</falscheAntwort2>
             <falscheAntwort3>24 m</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2141,7 +2141,7 @@
             <falscheAntwort1>fliegend</falscheAntwort1>
             <falscheAntwort2>laufend</falscheAntwort2>
             <falscheAntwort3>kriechend</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -2151,7 +2151,7 @@
             <falscheAntwort1>4 m</falscheAntwort1>
             <falscheAntwort2>6 m</falscheAntwort2>
             <falscheAntwort3>8 m</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2161,7 +2161,7 @@
             <falscheAntwort1>Pflanzen</falscheAntwort1>
             <falscheAntwort2>Fische</falscheAntwort2>
             <falscheAntwort3>Sumpfpflanzen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2171,7 +2171,7 @@
             <falscheAntwort1>Sie waren zu groß.</falscheAntwort1>
             <falscheAntwort2>Sie waren zu schnell.</falscheAntwort2>
             <falscheAntwort3>Sie schmeckten nicht.</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -2181,7 +2181,7 @@
             <falscheAntwort1>3 m</falscheAntwort1>
             <falscheAntwort2>14 m</falscheAntwort2>
             <falscheAntwort3>22 m</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -2191,7 +2191,7 @@
             <falscheAntwort1>Krebse, Muscheln und Fische</falscheAntwort1>
             <falscheAntwort2>Saurier und Fische</falscheAntwort2>
             <falscheAntwort3>Algen, Krebse und Insekten</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -2201,7 +2201,7 @@
             <falscheAntwort1>Elefantenfußdinosaurier</falscheAntwort1>
             <falscheAntwort2>Giraffenhalsdinosaurier</falscheAntwort2>
             <falscheAntwort3>Straußendinosaurier</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -2211,7 +2211,7 @@
             <falscheAntwort1>3 - 6</falscheAntwort1>
             <falscheAntwort2>bis 10</falscheAntwort2>
             <falscheAntwort3>nur ein Ei</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -2221,7 +2221,7 @@
             <falscheAntwort1>mit ihrem Bauch</falscheAntwort1>
             <falscheAntwort2>mit ihrem Schwanz</falscheAntwort2>
             <falscheAntwort3>mit Steinen</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>

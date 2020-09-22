@@ -11,7 +11,7 @@
             <falscheAntwort1>Romario und Ronaldo</falscheAntwort1>
             <falscheAntwort2>Chip &amp; Chap</falscheAntwort2>
             <falscheAntwort3>Pat und Patterchon</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -21,7 +21,7 @@
             <falscheAntwort1>nach ca. 20 Tagen</falscheAntwort1>
             <falscheAntwort2>nach ca. 3 Tagen</falscheAntwort2>
             <falscheAntwort3>sofort</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -31,7 +31,7 @@
             <falscheAntwort1>Der Wolf schleift.</falscheAntwort1>
             <falscheAntwort2>Der Wolf bindet.</falscheAntwort2>
             <falscheAntwort3>Der Wolf fädelt.</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -41,7 +41,7 @@
             <falscheAntwort1>4</falscheAntwort1>
             <falscheAntwort2>6</falscheAntwort2>
             <falscheAntwort3>12</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -51,7 +51,7 @@
             <falscheAntwort1>im Herbst</falscheAntwort1>
             <falscheAntwort2>im Sommer</falscheAntwort2>
             <falscheAntwort3>im Frühling</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -61,7 +61,7 @@
             <falscheAntwort1>das älteste Weibchen</falscheAntwort1>
             <falscheAntwort2>der jüngste Welpe</falscheAntwort2>
             <falscheAntwort3>niemand mehr</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -71,7 +71,7 @@
             <falscheAntwort1>ca. 50 km</falscheAntwort1>
             <falscheAntwort2>ca. 10 km</falscheAntwort2>
             <falscheAntwort3>ca. 300 km</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -81,7 +81,7 @@
             <falscheAntwort1>um Mitternacht</falscheAntwort1>
             <falscheAntwort2>eine Stunde vor Sonnenuntergang</falscheAntwort2>
             <falscheAntwort3>mittags</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -91,7 +91,7 @@
             <falscheAntwort1>Er reckt seine Zähne.</falscheAntwort1>
             <falscheAntwort2>Er fleckt seine Zähne.</falscheAntwort2>
             <falscheAntwort3>Er jeckt seine Zähne.</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -101,7 +101,7 @@
             <falscheAntwort1>Chefwolf</falscheAntwort1>
             <falscheAntwort2>Führwolf</falscheAntwort2>
             <falscheAntwort3>Hauptwolf</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -111,7 +111,7 @@
             <falscheAntwort1>7 -9 Jahre</falscheAntwort1>
             <falscheAntwort2>2 - 3 Jahre</falscheAntwort2>
             <falscheAntwort3>10 - 14 Jahre</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -121,7 +121,7 @@
             <falscheAntwort1>schlafen</falscheAntwort1>
             <falscheAntwort2>fressen</falscheAntwort2>
             <falscheAntwort3>jagen</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -131,7 +131,7 @@
             <falscheAntwort1>30 km/h</falscheAntwort1>
             <falscheAntwort2>15 km/h</falscheAntwort2>
             <falscheAntwort3>45 km/h</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -141,7 +141,7 @@
             <falscheAntwort1>Urwaldwolf</falscheAntwort1>
             <falscheAntwort2>Steppenwolf</falscheAntwort2>
             <falscheAntwort3>Savannenwolf</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -151,7 +151,7 @@
             <falscheAntwort1>3 - 5 cm</falscheAntwort1>
             <falscheAntwort2>Wölfe haben keinen Schwanz.</falscheAntwort2>
             <falscheAntwort3>80 - 130 cm</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -161,7 +161,7 @@
             <falscheAntwort1>120 - 190 cm</falscheAntwort1>
             <falscheAntwort2>60 - 90 cm</falscheAntwort2>
             <falscheAntwort3>170 - 250 cm</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -171,7 +171,7 @@
             <falscheAntwort1>Earl grey</falscheAntwort1>
             <falscheAntwort2>Wildus wolfus</falscheAntwort2>
             <falscheAntwort3>Rex lupo</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -181,7 +181,7 @@
             <falscheAntwort1>Grünwolf</falscheAntwort1>
             <falscheAntwort2>Blauwolf</falscheAntwort2>
             <falscheAntwort3>Gelbwolf</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -191,7 +191,7 @@
             <falscheAntwort1>Fohlen</falscheAntwort1>
             <falscheAntwort2>Kalb</falscheAntwort2>
             <falscheAntwort3>Kitz</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -201,7 +201,7 @@
             <falscheAntwort1>Aschenputtel</falscheAntwort1>
             <falscheAntwort2>Dornröschen</falscheAntwort2>
             <falscheAntwort3>Rapunzel</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -211,7 +211,7 @@
             <falscheAntwort1>Tiger</falscheAntwort1>
             <falscheAntwort2>Fuchs</falscheAntwort2>
             <falscheAntwort3>Löwe</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>3</schwierigkeitMax>
         </frage>
@@ -221,7 +221,7 @@
             <falscheAntwort1>Haufen</falscheAntwort1>
             <falscheAntwort2>Herde</falscheAntwort2>
             <falscheAntwort3>Sippe</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -231,7 +231,7 @@
             <falscheAntwort1>Mähnenwolf</falscheAntwort1>
             <falscheAntwort2>Päriewolf</falscheAntwort2>
             <falscheAntwort3>Polarwolf</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -241,7 +241,7 @@
             <falscheAntwort1>nur in der Europäischen Union</falscheAntwort1>
             <falscheAntwort2>nur in den Vereinigten Saaten</falscheAntwort2>
             <falscheAntwort3>nein</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -251,7 +251,7 @@
             <falscheAntwort1>ein alter, schwacher Wolf</falscheAntwort1>
             <falscheAntwort2>ein Wolf, der Menschen getötet hat</falscheAntwort2>
             <falscheAntwort3>der Leitwolf</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -261,7 +261,7 @@
             <falscheAntwort1>New York</falscheAntwort1>
             <falscheAntwort2>Rom</falscheAntwort2>
             <falscheAntwort3>Wolfsburg</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -271,7 +271,7 @@
             <falscheAntwort1>die ersten Wölfe in Europa</falscheAntwort1>
             <falscheAntwort2>ein berühmtes Wolfspaar in Polen</falscheAntwort2>
             <falscheAntwort3>die ersten gezähmten Wölfe in Asien</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -281,7 +281,7 @@
             <falscheAntwort1>weil sie warme Pelze liefern</falscheAntwort1>
             <falscheAntwort2>weil sie viele schädliche Tiere töten</falscheAntwort2>
             <falscheAntwort3>weil sie viele Insekten fressen</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -291,7 +291,7 @@
             <falscheAntwort1>um das Zusammenhörigkeitsgefühl zu stärken</falscheAntwort1>
             <falscheAntwort2>weil sie gerne töten</falscheAntwort2>
             <falscheAntwort3>weil sie gerne rennen</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -301,7 +301,7 @@
             <falscheAntwort1>eine angeborene Krankheit</falscheAntwort1>
             <falscheAntwort2>eine lange dauernde, aber ungefährliche Krankheit</falscheAntwort2>
             <falscheAntwort3>eine kurze und harmlose Krankheit</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -311,7 +311,7 @@
             <falscheAntwort1>Sie werden immer vom Rudel versorgt.</falscheAntwort1>
             <falscheAntwort2>Sie werden getötet.</falscheAntwort2>
             <falscheAntwort3>Sie rotten sich zusammen und werden von den jungen Wölfen einmal in der Woche versorgt.</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -321,7 +321,7 @@
             <falscheAntwort1>14 - 18 Jahre</falscheAntwort1>
             <falscheAntwort2>6 - 8 Jahre</falscheAntwort2>
             <falscheAntwort3>16 - 22 Jahre</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -331,7 +331,7 @@
             <falscheAntwort1>zwölf bis sechzehn Wochen</falscheAntwort1>
             <falscheAntwort2>zwei bis vier Wochen</falscheAntwort2>
             <falscheAntwort3>3 - 6 Monate</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -341,7 +341,7 @@
             <falscheAntwort1>nur erbrochenes Fleisch</falscheAntwort1>
             <falscheAntwort2>Milch und erbrochenes Fleisch</falscheAntwort2>
             <falscheAntwort3>Milch und Insekten</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -351,7 +351,7 @@
             <falscheAntwort1>ab einer Woche</falscheAntwort1>
             <falscheAntwort2>ab einem Monat</falscheAntwort2>
             <falscheAntwort3>ab zwei Jahren</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -361,7 +361,7 @@
             <falscheAntwort1>mit einem halben Jahr</falscheAntwort1>
             <falscheAntwort2>mit drei Monaten</falscheAntwort2>
             <falscheAntwort3>mit einem Jahr</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -371,7 +371,7 @@
             <falscheAntwort1>sechs bis zwölf</falscheAntwort1>
             <falscheAntwort2>einen bis vier</falscheAntwort2>
             <falscheAntwort3>immer genau zwei</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -381,7 +381,7 @@
             <falscheAntwort1>die Weibchen, die älter als drei Jahre sind</falscheAntwort1>
             <falscheAntwort2>alle Weibchen</falscheAntwort2>
             <falscheAntwort3>nur das älteste Weibchen</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -391,7 +391,7 @@
             <falscheAntwort1>neun Stunden</falscheAntwort1>
             <falscheAntwort2>neun Tage</falscheAntwort2>
             <falscheAntwort3>neun Monate</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -401,7 +401,7 @@
             <falscheAntwort1>ja, immer</falscheAntwort1>
             <falscheAntwort2>nein, niemals</falscheAntwort2>
             <falscheAntwort3>nur im Sommer</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -411,7 +411,7 @@
             <falscheAntwort1>Dort stehen keine Bäume.</falscheAntwort1>
             <falscheAntwort2>Dort ist es zu warm.</falscheAntwort2>
             <falscheAntwort3>Dort ist es zu kalt.</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -421,7 +421,7 @@
             <falscheAntwort1>fünf Tage</falscheAntwort1>
             <falscheAntwort2>nicht länger als einen Tag</falscheAntwort2>
             <falscheAntwort3>bis sie Rotkäppchen treffen</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -431,7 +431,7 @@
             <falscheAntwort1>Nein, nur bei jeder zweiten Jagd, die sie unternehmen, machen sie Beute.</falscheAntwort1>
             <falscheAntwort2>Ja, Wölfe geben nicht auf, bevor sie ein Beutetier getötet haben.</falscheAntwort2>
             <falscheAntwort3>Nein, im Durchschnitt ist nur einer von fünf Angriffen erfolgreich.</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -441,7 +441,7 @@
             <falscheAntwort1>das älteste Weibchen</falscheAntwort1>
             <falscheAntwort2>der hungrigste Wolf</falscheAntwort2>
             <falscheAntwort3>die Welpen</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -451,7 +451,7 @@
             <falscheAntwort1>Sie stellen sich auf die Hinterbeine.</falscheAntwort1>
             <falscheAntwort2>Sie ergreifen die Flucht.</falscheAntwort2>
             <falscheAntwort3>Sie greifen in Keilform an.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -461,7 +461,7 @@
             <falscheAntwort1>weil sie auf diese Weise die Herde gesund halten wollen</falscheAntwort1>
             <falscheAntwort2>weil ihr Fleisch leckerer ist</falscheAntwort2>
             <falscheAntwort3>weil das Fleisch von gesunden Tieren zu zäh ist</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -471,7 +471,7 @@
             <falscheAntwort1>aus Freude an der Jagd</falscheAntwort1>
             <falscheAntwort2>um den Appetit anzuregen</falscheAntwort2>
             <falscheAntwort3>weil sie gerne lange Entfernungen zurücklegen</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -481,7 +481,7 @@
             <falscheAntwort1>Fische</falscheAntwort1>
             <falscheAntwort2>andere Raubtiere</falscheAntwort2>
             <falscheAntwort3>Hasen und Kaninchen</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -491,7 +491,7 @@
             <falscheAntwort1>weil die nicht so schnell laufen können</falscheAntwort1>
             <falscheAntwort2>weil die leichter zu töten sind</falscheAntwort2>
             <falscheAntwort3>weil dann alle bei der Jagd mitmachen können</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -501,7 +501,7 @@
             <falscheAntwort1>um Weibchen anzulocken</falscheAntwort1>
             <falscheAntwort2>weil es für das Fell gesund ist</falscheAntwort2>
             <falscheAntwort3>um andere Tiere anzulocken</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -511,7 +511,7 @@
             <falscheAntwort1>nein</falscheAntwort1>
             <falscheAntwort2>Ja, wenn sie einen toten Fisch finden.</falscheAntwort2>
             <falscheAntwort3>Nur die trächtigen Weibchen fressen Fische.</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -521,7 +521,7 @@
             <falscheAntwort1>Kaninchen</falscheAntwort1>
             <falscheAntwort2>Bisons</falscheAntwort2>
             <falscheAntwort3>Karibus</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -531,7 +531,7 @@
             <falscheAntwort1>Nein, 500 kg sind zu schwer.</falscheAntwort1>
             <falscheAntwort2>Nein, denn er lebt nicht in Gebieten, in denen es Bisons gibt.</falscheAntwort2>
             <falscheAntwort3>Ja, ein einzelner Wolf kann sogar Beutetiere bis zu 1.000 kg töten.</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -541,7 +541,7 @@
             <falscheAntwort1>wenn sie alleine jagen</falscheAntwort1>
             <falscheAntwort2>im Sommer</falscheAntwort2>
             <falscheAntwort3>im Winter</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -551,7 +551,7 @@
             <falscheAntwort1>Ja, sie sind für sie ein Leckerbissen.</falscheAntwort1>
             <falscheAntwort2>Nein, Wölfe fressen nur Wirbeltiere.</falscheAntwort2>
             <falscheAntwort3>Nur die Welpen unter einem Jahr fressen Insekten.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -561,7 +561,7 @@
             <falscheAntwort1>In Gebieten, wo sie sich nur schwer verstecken können.</falscheAntwort1>
             <falscheAntwort2>In Gebieten, in denen nur wenige Wölfe leben.</falscheAntwort2>
             <falscheAntwort3>In Gebieten, in denen es genug große Beutetiere gibt.</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -571,7 +571,7 @@
             <falscheAntwort1>Er legt seine Ohren an den Hals.</falscheAntwort1>
             <falscheAntwort2>Er peitscht seinen Schwanz hin und her.</falscheAntwort2>
             <falscheAntwort3>Er stellt sich auf die Hinterpfoten.</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -581,7 +581,7 @@
             <falscheAntwort1>Boshaftigkeit</falscheAntwort1>
             <falscheAntwort2>Angst</falscheAntwort2>
             <falscheAntwort3>Hunger</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -591,7 +591,7 @@
             <falscheAntwort1>Er richtet die Ohren auf.</falscheAntwort1>
             <falscheAntwort2>Er dreht die Ohren hin und her.</falscheAntwort2>
             <falscheAntwort3>Er legt die Ohren zur Seite.</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -601,7 +601,7 @@
             <falscheAntwort1>Er bellt.</falscheAntwort1>
             <falscheAntwort2>Er heult.</falscheAntwort2>
             <falscheAntwort3>Er pfeift.</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -611,7 +611,7 @@
             <falscheAntwort1>Nein, nur Wölfe desselben Rudels tun das.</falscheAntwort1>
             <falscheAntwort2>Ja, alle Wölfe heulen auf dieselbe Weise.</falscheAntwort2>
             <falscheAntwort3>Nur alle Männchen heulen auf dieselbe Weise.</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -621,7 +621,7 @@
             <falscheAntwort1>sechs Minuten</falscheAntwort1>
             <falscheAntwort2>eine Minute</falscheAntwort2>
             <falscheAntwort3>drei Minuten</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -631,7 +631,7 @@
             <falscheAntwort1>weil sie so traurig sind</falscheAntwort1>
             <falscheAntwort2>um ihre Stimmbänder zu üben</falscheAntwort2>
             <falscheAntwort3>um die Beute zu warnen</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -641,7 +641,7 @@
             <falscheAntwort1>der jüngste Welpe</falscheAntwort1>
             <falscheAntwort2>das älteste Weibchen</falscheAntwort2>
             <falscheAntwort3>der ängstlichste Wolf</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -651,7 +651,7 @@
             <falscheAntwort1>aus 12 Kilometern</falscheAntwort1>
             <falscheAntwort2>aus 4 Kilometern</falscheAntwort2>
             <falscheAntwort3>aus 16 Kilometern</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -661,7 +661,7 @@
             <falscheAntwort1>Sie stellen sich einander gegenüber.</falscheAntwort1>
             <falscheAntwort2>Sie fangen an zu heulen.</falscheAntwort2>
             <falscheAntwort3>Sieeis herum.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -671,7 +671,7 @@
             <falscheAntwort1>Sie legen eine Pfote auf den Kopf eines älteren Wolfs.</falscheAntwort1>
             <falscheAntwort2>Sie gehen auf die Jagd.</falscheAntwort2>
             <falscheAntwort3>Sie heulen ganz jämmerlich.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -681,7 +681,7 @@
             <falscheAntwort1>Er beißt den anderen Wolf kräftig in den Schwanz.</falscheAntwort1>
             <falscheAntwort2>Er tötet den anderen Wolf.</falscheAntwort2>
             <falscheAntwort3>Er macht ein langes Freudengeheul.</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -691,7 +691,7 @@
             <falscheAntwort1>sein Gewicht</falscheAntwort1>
             <falscheAntwort2>seine scharfen Klauen</falscheAntwort2>
             <falscheAntwort3>sein kräftiger Schwanz</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -701,7 +701,7 @@
             <falscheAntwort1>Dann läuft er weg.</falscheAntwort1>
             <falscheAntwort2>das macht ihn verlegen.</falscheAntwort2>
             <falscheAntwort3>Dann fängt er für eine halbe Stunde an zu heulen.</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -711,7 +711,7 @@
             <falscheAntwort1>um das Jagen zu üben</falscheAntwort1>
             <falscheAntwort2>weil sie das Kämpfen lustig finden</falscheAntwort2>
             <falscheAntwort3>weil der Weg zum nächsten Rudel zu weit ist</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -721,7 +721,7 @@
             <falscheAntwort1>nur wenn sie um ein Weibchen kämpfen</falscheAntwort1>
             <falscheAntwort2>nur wenn sie Hunger haben</falscheAntwort2>
             <falscheAntwort3>nur wenn sie nachts kämpfen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -731,7 +731,7 @@
             <falscheAntwort1>Er richtet den Schwanz auf.</falscheAntwort1>
             <falscheAntwort2>Er läuft weg.</falscheAntwort2>
             <falscheAntwort3>Er heult dreimal.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -741,7 +741,7 @@
             <falscheAntwort1>die Wölfin, die trächtig ist</falscheAntwort1>
             <falscheAntwort2>der größte Wolf</falscheAntwort2>
             <falscheAntwort3>ein gezähmter Wolf</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -751,7 +751,7 @@
             <falscheAntwort1>Sie legen sich auf den Boden.</falscheAntwort1>
             <falscheAntwort2>Sie heulen.</falscheAntwort2>
             <falscheAntwort3>Sie machen ein Wettrennen.</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -761,7 +761,7 @@
             <falscheAntwort1>waagerecht</falscheAntwort1>
             <falscheAntwort2>niedrig</falscheAntwort2>
             <falscheAntwort3>schräg</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -771,7 +771,7 @@
             <falscheAntwort1>das schönste Männchen</falscheAntwort1>
             <falscheAntwort2>ein starkes erwachsenes Weibchen</falscheAntwort2>
             <falscheAntwort3>das älteste Weibchen</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -781,7 +781,7 @@
             <falscheAntwort1>ein männlicher Wolf</falscheAntwort1>
             <falscheAntwort2>ein weiblicher Wolf</falscheAntwort2>
             <falscheAntwort3>der Anführer eines Rudels</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -791,7 +791,7 @@
             <falscheAntwort1>in Gegenden mit vielen Bäumen</falscheAntwort1>
             <falscheAntwort2>in Gegenden mit vielen Herdentieren</falscheAntwort2>
             <falscheAntwort3>in Gegenden mit wenig Bäumen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -801,7 +801,7 @@
             <falscheAntwort1>im Sommer</falscheAntwort1>
             <falscheAntwort2>im Frühling</falscheAntwort2>
             <falscheAntwort3>im Herbst</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -811,7 +811,7 @@
             <falscheAntwort1>aus dreißig bis fünfzig Wölfen</falscheAntwort1>
             <falscheAntwort2>aus fünf bis zehn Wölfen</falscheAntwort2>
             <falscheAntwort3>aus mindestens einem bis höchstens fünf Wölfen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -821,7 +821,7 @@
             <falscheAntwort1>„Komm her, ich warte auf dich !“</falscheAntwort1>
             <falscheAntwort2>„Riech nur, dann weißt du, wie stark ich bin !“</falscheAntwort2>
             <falscheAntwort3>„Folge mir, ich gehe schon voran !“</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -831,7 +831,7 @@
             <falscheAntwort1>Sie stellen sich in einem Kreis auf.</falscheAntwort1>
             <falscheAntwort2>Sie stellen Wachtposten auf.</falscheAntwort2>
             <falscheAntwort3>Sie graben Fallen an den Grenzen.</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -841,7 +841,7 @@
             <falscheAntwort1>50 bis 500 Quadratkilometer</falscheAntwort1>
             <falscheAntwort2>10 bis 100 Quadratkilometer</falscheAntwort2>
             <falscheAntwort3>1.000 bis 10.000 Quadratkilometer</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -851,7 +851,7 @@
             <falscheAntwort1>Beide können gleich gut riechen.</falscheAntwort1>
             <falscheAntwort2>der Löwe</falscheAntwort2>
             <falscheAntwort3>Die Löwin riecht besser als die Wölfin, aber das Wolfsmännchen riecht besser als das Löwenmännchen.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -861,7 +861,7 @@
             <falscheAntwort1>Indem er seine Ohren dreht.</falscheAntwort1>
             <falscheAntwort2>Indem er den Schwanz hochhält.</falscheAntwort2>
             <falscheAntwort3>Das erfährt er, indem er die Blätter an den Bäumen beobachtet.</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -871,7 +871,7 @@
             <falscheAntwort1>aus 52 Kilometern</falscheAntwort1>
             <falscheAntwort2>aus 24 Kilometern</falscheAntwort2>
             <falscheAntwort3>aus 17 Kilometern</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -881,7 +881,7 @@
             <falscheAntwort1>aus 3.000 Metern</falscheAntwort1>
             <falscheAntwort2>aus 30 Metern</falscheAntwort2>
             <falscheAntwort3>aus 3 Metern</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -891,7 +891,7 @@
             <falscheAntwort1>nein</falscheAntwort1>
             <falscheAntwort2>Ja, aber nur, wenn es sein muss.</falscheAntwort2>
             <falscheAntwort3>Nur die männlichen Wölfe können schwimmen.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -901,7 +901,7 @@
             <falscheAntwort1>Wolf und Katze können ihre Klauen einziehen.</falscheAntwort1>
             <falscheAntwort2>Der Wolf kann seine Klauen einziehen.</falscheAntwort2>
             <falscheAntwort3>Der Hund kann seine Klauen einziehen.</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -911,7 +911,7 @@
             <falscheAntwort1>u ihre Pfoten nicht dreckig zu machen</falscheAntwort1>
             <falscheAntwort2>um leicht den Weg zu finden</falscheAntwort2>
             <falscheAntwort3>damit die Beutetiere nicht erkennen, wie viele Wölfe es sind</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -921,7 +921,7 @@
             <falscheAntwort1>15 km/h</falscheAntwort1>
             <falscheAntwort2>50 km/h</falscheAntwort2>
             <falscheAntwort3>75 km/h</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -931,7 +931,7 @@
             <falscheAntwort1>dünn und flach</falscheAntwort1>
             <falscheAntwort2>dick und flach</falscheAntwort2>
             <falscheAntwort3>spitz und flauschig</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -941,7 +941,7 @@
             <falscheAntwort1>22</falscheAntwort1>
             <falscheAntwort2>32</falscheAntwort2>
             <falscheAntwort3>52</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -951,7 +951,7 @@
             <falscheAntwort1>zwischen den Schneide- und den Eckzähnen</falscheAntwort1>
             <falscheAntwort2>vorne im Maul</falscheAntwort2>
             <falscheAntwort3>unter dem Unterkiefer</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -961,7 +961,7 @@
             <falscheAntwort1>12 cm</falscheAntwort1>
             <falscheAntwort2>4 cm</falscheAntwort2>
             <falscheAntwort3>18 cm</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -971,7 +971,7 @@
             <falscheAntwort1>am Platz zwischen den Eck- und den Schneidezähnen</falscheAntwort1>
             <falscheAntwort2>an den langen Schneidezähnen</falscheAntwort2>
             <falscheAntwort3>an den fehlenden Milchzähnen</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -981,7 +981,7 @@
             <falscheAntwort1>grau</falscheAntwort1>
             <falscheAntwort2>weiß</falscheAntwort2>
             <falscheAntwort3>braun</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -991,7 +991,7 @@
             <falscheAntwort1>im Herbst</falscheAntwort1>
             <falscheAntwort2>im Sommer</falscheAntwort2>
             <falscheAntwort3>im Frühling</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -1001,7 +1001,7 @@
             <falscheAntwort1>Er ist gelbbraun.</falscheAntwort1>
             <falscheAntwort2>Er ist grau mit weißen Flecken.</falscheAntwort2>
             <falscheAntwort3>Es gibt keinen Polarwolf, sondern nur einen Polarfuchs.</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1011,7 +1011,7 @@
             <falscheAntwort1>schwarz und gelbbraun</falscheAntwort1>
             <falscheAntwort2>grau und braun</falscheAntwort2>
             <falscheAntwort3>schwarz und gelb</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1021,7 +1021,7 @@
             <falscheAntwort1>nur Aas</falscheAntwort1>
             <falscheAntwort2>nur Fleisch</falscheAntwort2>
             <falscheAntwort3>nur Fisch</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1031,7 +1031,7 @@
             <falscheAntwort1>15 Jahre</falscheAntwort1>
             <falscheAntwort2>10 Jahre</falscheAntwort2>
             <falscheAntwort3>20 Jahre</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -1041,7 +1041,7 @@
             <falscheAntwort1>60 - 75 kg</falscheAntwort1>
             <falscheAntwort2>55 - 60 kg</falscheAntwort2>
             <falscheAntwort3>70 - 85 kg</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1051,7 +1051,7 @@
             <falscheAntwort1>Der Wolf kann besser riechen.</falscheAntwort1>
             <falscheAntwort2>Der Wolf hat längere Ohren.</falscheAntwort2>
             <falscheAntwort3>Der Wolf hat einen kürzeren Schwanz.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1061,7 +1061,7 @@
             <falscheAntwort1>1.000.000</falscheAntwort1>
             <falscheAntwort2>10.000</falscheAntwort2>
             <falscheAntwort3>1.000</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1071,7 +1071,7 @@
             <falscheAntwort1>in Afrika</falscheAntwort1>
             <falscheAntwort2>in Asien</falscheAntwort2>
             <falscheAntwort3>in Europa</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1081,7 +1081,7 @@
             <falscheAntwort1>weil sie fast alle an Krankheiten gestorben sind</falscheAntwort1>
             <falscheAntwort2>weil sie fast alle erschossen worden sind</falscheAntwort2>
             <falscheAntwort3>weil es den Wölfen in Europa zu kalt geworden ist</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1091,7 +1091,7 @@
             <falscheAntwort1>in Asien und Europa</falscheAntwort1>
             <falscheAntwort2>in Nordamerika und Europa</falscheAntwort2>
             <falscheAntwort3>in Europa und Afrika</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1101,7 +1101,7 @@
             <falscheAntwort1>22</falscheAntwort1>
             <falscheAntwort2>12</falscheAntwort2>
             <falscheAntwort3>32</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1111,7 +1111,7 @@
             <falscheAntwort1>der Windhund</falscheAntwort1>
             <falscheAntwort2>der Dingo</falscheAntwort2>
             <falscheAntwort3>der Pudel</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>
@@ -1121,7 +1121,7 @@
             <falscheAntwort1>vor ungefähr 5.000 Jahren</falscheAntwort1>
             <falscheAntwort2>vor ungefähr 1.000 Jahren</falscheAntwort2>
             <falscheAntwort3>vor ungefähr 100.000 Jahren</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1131,7 +1131,7 @@
             <falscheAntwort1>nein</falscheAntwort1>
             <falscheAntwort2>Ja, aber ihre Jungen sterben.</falscheAntwort2>
             <falscheAntwort3>Ja, aber das Weibchen stirbt nach der Paarung.</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1141,7 +1141,7 @@
             <falscheAntwort1>in Europa</falscheAntwort1>
             <falscheAntwort2>in Amerika</falscheAntwort2>
             <falscheAntwort3>in Afrika</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1151,7 +1151,7 @@
             <falscheAntwort1>Vulpes</falscheAntwort1>
             <falscheAntwort2>Lupus</falscheAntwort2>
             <falscheAntwort3>Humus</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1161,7 +1161,7 @@
             <falscheAntwort1>der Tiger</falscheAntwort1>
             <falscheAntwort2>der Wolf</falscheAntwort2>
             <falscheAntwort3>der Löwe</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1171,7 +1171,7 @@
             <falscheAntwort1>die Hyäne</falscheAntwort1>
             <falscheAntwort2>der Schakal</falscheAntwort2>
             <falscheAntwort3>der Fuchs</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1181,7 +1181,7 @@
             <falscheAntwort1>15</falscheAntwort1>
             <falscheAntwort2>25</falscheAntwort2>
             <falscheAntwort3>45</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1191,7 +1191,7 @@
             <falscheAntwort1>weil es dort zu warm ist</falscheAntwort1>
             <falscheAntwort2>weil dort zu viele Bäume wachsen</falscheAntwort2>
             <falscheAntwort3>weil es dort zu viel regnet</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1201,7 +1201,7 @@
             <falscheAntwort1>Russland</falscheAntwort1>
             <falscheAntwort2>Polen</falscheAntwort2>
             <falscheAntwort3>Deutschland</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -1211,7 +1211,7 @@
             <falscheAntwort1>seit 50 Millionen Jahren</falscheAntwort1>
             <falscheAntwort2>seit 12 Millionen Jahren</falscheAntwort2>
             <falscheAntwort3>seit 7 Millionen Jahren</falscheAntwort3>
-            <schwierikeit>12</schwierikeit>
+            <schwierigkeit>12</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -1221,7 +1221,7 @@
             <falscheAntwort1>dem Dingo</falscheAntwort1>
             <falscheAntwort2>dem Kojoten</falscheAntwort2>
             <falscheAntwort3>dem Tiger</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1231,7 +1231,7 @@
             <falscheAntwort1>zur Familie der Katzen</falscheAntwort1>
             <falscheAntwort2>zur Familie der Füchse</falscheAntwort2>
             <falscheAntwort3>zur Familie der Marder</falscheAntwort3>
-            <schwierikeit>2</schwierikeit>
+            <schwierigkeit>2</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>4</schwierigkeitMax>
         </frage>

@@ -11,7 +11,7 @@
             <falscheAntwort1>Auge</falscheAntwort1>
             <falscheAntwort2>Ohr</falscheAntwort2>
             <falscheAntwort3>Mund</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -21,7 +21,7 @@
             <falscheAntwort1>ca. 2 m</falscheAntwort1>
             <falscheAntwort2>ca. 1 m</falscheAntwort2>
             <falscheAntwort3>ca. 2,50 m</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -31,7 +31,7 @@
             <falscheAntwort1>Seitenschwimmer</falscheAntwort1>
             <falscheAntwort2>Brustschwimmer</falscheAntwort2>
             <falscheAntwort3>Kopfschwimmer</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -41,7 +41,7 @@
             <falscheAntwort1>einen schimmernde Moorpflanze</falscheAntwort1>
             <falscheAntwort2>eine prächtige Wasserpflanze</falscheAntwort2>
             <falscheAntwort3>ein kleiner Fisch</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -51,7 +51,7 @@
             <falscheAntwort1>Krebsschwert</falscheAntwort1>
             <falscheAntwort2>Krebsmesser</falscheAntwort2>
             <falscheAntwort3>Krebsdolch</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -61,7 +61,7 @@
             <falscheAntwort1>bis zu 1 m</falscheAntwort1>
             <falscheAntwort2>bis zu 1,5 m</falscheAntwort2>
             <falscheAntwort3>bis zu 0,50 m</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -71,7 +71,7 @@
             <falscheAntwort1>blau</falscheAntwort1>
             <falscheAntwort2>rosa</falscheAntwort2>
             <falscheAntwort3>grün</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -81,7 +81,7 @@
             <falscheAntwort1>Limonade</falscheAntwort1>
             <falscheAntwort2>Linoleum</falscheAntwort2>
             <falscheAntwort3>Larifari</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -91,7 +91,7 @@
             <falscheAntwort1>Gemeiner Brachvogel</falscheAntwort1>
             <falscheAntwort2>Kleiner Brachvogel</falscheAntwort2>
             <falscheAntwort3>Riesenbrachvogel</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -101,7 +101,7 @@
             <falscheAntwort1>ca. 20 cm</falscheAntwort1>
             <falscheAntwort2>ca. 40 cm</falscheAntwort2>
             <falscheAntwort3>ca. 1,20 m</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -111,7 +111,7 @@
             <falscheAntwort1>Astente</falscheAntwort1>
             <falscheAntwort2>Stabente</falscheAntwort2>
             <falscheAntwort3>Zweigente</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -121,7 +121,7 @@
             <falscheAntwort1>Enten</falscheAntwort1>
             <falscheAntwort2>Ratten</falscheAntwort2>
             <falscheAntwort3>Schwänen</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -131,7 +131,7 @@
             <falscheAntwort1>Kolibris</falscheAntwort1>
             <falscheAntwort2>Schwäne</falscheAntwort2>
             <falscheAntwort3>Reiher</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -141,7 +141,7 @@
             <falscheAntwort1>Schwarzreiher</falscheAntwort1>
             <falscheAntwort2>Weißreiher</falscheAntwort2>
             <falscheAntwort3>Braunreiher</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -151,7 +151,7 @@
             <falscheAntwort1>bis zu 27,5 cm</falscheAntwort1>
             <falscheAntwort2>bis zu 10 cm</falscheAntwort2>
             <falscheAntwort3>bis zu 35 cm</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -161,7 +161,7 @@
             <falscheAntwort1>Fröschlis</falscheAntwort1>
             <falscheAntwort2>Quappkaulen</falscheAntwort2>
             <falscheAntwort3>Lurchi</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -171,7 +171,7 @@
             <falscheAntwort1>bödeln</falscheAntwort1>
             <falscheAntwort2>schnorcheln</falscheAntwort2>
             <falscheAntwort3>tauchen</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -181,7 +181,7 @@
             <falscheAntwort1>Eber</falscheAntwort1>
             <falscheAntwort2>Esau</falscheAntwort2>
             <falscheAntwort3>Entchen</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -191,7 +191,7 @@
             <falscheAntwort1>Meergurken</falscheAntwort1>
             <falscheAntwort2>Meerblätter</falscheAntwort2>
             <falscheAntwort3>Meerlappen</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -201,7 +201,7 @@
             <falscheAntwort1>in Höhlen</falscheAntwort1>
             <falscheAntwort2>auf Büschen</falscheAntwort2>
             <falscheAntwort3>auf Bäumen</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -211,7 +211,7 @@
             <falscheAntwort1>Miesmuscheln</falscheAntwort1>
             <falscheAntwort2>Austern</falscheAntwort2>
             <falscheAntwort3>Schwertmuscheln</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -221,7 +221,7 @@
             <falscheAntwort1>ca. 15 m</falscheAntwort1>
             <falscheAntwort2>ca. 5 m</falscheAntwort2>
             <falscheAntwort3>ca. 25 m</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -231,7 +231,7 @@
             <falscheAntwort1>weiß</falscheAntwort1>
             <falscheAntwort2>braungrau</falscheAntwort2>
             <falscheAntwort3>rotbraun</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -241,7 +241,7 @@
             <falscheAntwort1>Sie leben noch 2 - 3 Stunden.</falscheAntwort1>
             <falscheAntwort2>Sie graben sich ein</falscheAntwort2>
             <falscheAntwort3>Sie schwimmen zurück.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -251,7 +251,7 @@
             <falscheAntwort1>passiert nichts.</falscheAntwort1>
             <falscheAntwort2>stirbt der Seestern.</falscheAntwort2>
             <falscheAntwort3>wachsen zwei Arme nach.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -261,7 +261,7 @@
             <falscheAntwort1>3</falscheAntwort1>
             <falscheAntwort2>4</falscheAntwort2>
             <falscheAntwort3>7</falscheAntwort3>
-            <schwierikeit>4</schwierikeit>
+            <schwierigkeit>4</schwierigkeit>
             <schwierigkeitMin>2</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -271,7 +271,7 @@
             <falscheAntwort1>Spinat</falscheAntwort1>
             <falscheAntwort2>Salat</falscheAntwort2>
             <falscheAntwort3>Zutat</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -281,7 +281,7 @@
             <falscheAntwort1>der Wattführer von St. Peter Ording</falscheAntwort1>
             <falscheAntwort2>eine Muschel</falscheAntwort2>
             <falscheAntwort3>eine Schnecke</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -291,7 +291,7 @@
             <falscheAntwort1>Netzkrebs</falscheAntwort1>
             <falscheAntwort2>Tütenkrebs</falscheAntwort2>
             <falscheAntwort3>Beutelkrebs</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>3</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -301,7 +301,7 @@
             <falscheAntwort1>nur bei den Männchen</falscheAntwort1>
             <falscheAntwort2>ja</falscheAntwort2>
             <falscheAntwort3>nur bei den Weibchen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -311,7 +311,7 @@
             <falscheAntwort1>Schreier</falscheAntwort1>
             <falscheAntwort2>Brüller</falscheAntwort2>
             <falscheAntwort3>Rufer</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -321,7 +321,7 @@
             <falscheAntwort1>Flachwasser</falscheAntwort1>
             <falscheAntwort2>Schlackwasser</falscheAntwort2>
             <falscheAntwort3>Bitterwasser</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -331,7 +331,7 @@
             <falscheAntwort1>bis fast 100 km</falscheAntwort1>
             <falscheAntwort2>bis fast 20 km</falscheAntwort2>
             <falscheAntwort3>bis fast 80 km</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -341,7 +341,7 @@
             <falscheAntwort1>gegen Killerwale</falscheAntwort1>
             <falscheAntwort2>gegen ein Rudel Hammerhaie</falscheAntwort2>
             <falscheAntwort3>gegen Tiefseemuränen</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -351,7 +351,7 @@
             <falscheAntwort1>Grönlandwal</falscheAntwort1>
             <falscheAntwort2>Entenwal</falscheAntwort2>
             <falscheAntwort3>Grindwal</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -361,7 +361,7 @@
             <falscheAntwort1>bis 5 cm</falscheAntwort1>
             <falscheAntwort2>bis 3 cm</falscheAntwort2>
             <falscheAntwort3>bis 5 cm</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -371,7 +371,7 @@
             <falscheAntwort1>nur am Südpol</falscheAntwort1>
             <falscheAntwort2>nur am Nordpol</falscheAntwort2>
             <falscheAntwort3>nur im Mittelmeer</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -381,7 +381,7 @@
             <falscheAntwort1>Er besitzt einen massigen Kopf und dicke Flossen.</falscheAntwort1>
             <falscheAntwort2>Er besitzt eine starke Wirbelsäule und kräftige Kniegelenke.</falscheAntwort2>
             <falscheAntwort3>Er besitzt eine schuppige Haut und eine gelenkige Schwanzflosse.</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -391,7 +391,7 @@
             <falscheAntwort1>Frostvogel</falscheAntwort1>
             <falscheAntwort2>Schneevogel</falscheAntwort2>
             <falscheAntwort3>Sonnenvogel</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -401,7 +401,7 @@
             <falscheAntwort1>Röhrchenwurm</falscheAntwort1>
             <falscheAntwort2>Plankton</falscheAntwort2>
             <falscheAntwort3>Wattwurm</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -411,7 +411,7 @@
             <falscheAntwort1>an den sechs sich bildenden Schwimmhäuten an den Beinen</falscheAntwort1>
             <falscheAntwort2>an den zarten Schwimmflügeln</falscheAntwort2>
             <falscheAntwort3>an dem langen Luftrüssel</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -421,7 +421,7 @@
             <falscheAntwort1>Sie gehören zu den Reptilien.</falscheAntwort1>
             <falscheAntwort2>Sie gehören zu den Seeschlangen.</falscheAntwort2>
             <falscheAntwort3>Sie gehören zu den Walen.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -431,7 +431,7 @@
             <falscheAntwort1>50 - 130</falscheAntwort1>
             <falscheAntwort2>2.000 - 3.500</falscheAntwort2>
             <falscheAntwort3>4 - 7</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -441,7 +441,7 @@
             <falscheAntwort1>Die innere Schicht bei verschiedenen Seeigeln.</falscheAntwort1>
             <falscheAntwort2>Die äußere Schalenschicht bei verschiedenen Schnecken und Muscheln.</falscheAntwort2>
             <falscheAntwort3>die Mutter der Perle</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -451,7 +451,7 @@
             <falscheAntwort1>Quallen</falscheAntwort1>
             <falscheAntwort2>Krebse</falscheAntwort2>
             <falscheAntwort3>Seesterne</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -461,7 +461,7 @@
             <falscheAntwort1>Die Wellenbewegung des Gewässers ist so stark, dass alle Boote, die auf ihm fahren immer umkippen.</falscheAntwort1>
             <falscheAntwort2>Durch zu hohe Wellenbewegung schwappt alles Wasser an Land und das Gewässer trocknet aus.</falscheAntwort2>
             <falscheAntwort3>Durch Erdbeben werden Gewässer auf die Seite gekippt, sodass alles Wasser abfließt.</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -471,7 +471,7 @@
             <falscheAntwort1>Bückling</falscheAntwort1>
             <falscheAntwort2>Hering</falscheAntwort2>
             <falscheAntwort3>Pieksling</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -481,7 +481,7 @@
             <falscheAntwort1>Pocken</falscheAntwort1>
             <falscheAntwort2>Krill</falscheAntwort2>
             <falscheAntwort3>Quallen</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -491,7 +491,7 @@
             <falscheAntwort1>Hausplankton</falscheAntwort1>
             <falscheAntwort2>Hofplankton</falscheAntwort2>
             <falscheAntwort3>Meerplankton</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -501,7 +501,7 @@
             <falscheAntwort1>das „Vielfältige“</falscheAntwort1>
             <falscheAntwort2>das „Schwebende“</falscheAntwort2>
             <falscheAntwort3>das „Schmackhafte“</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -511,7 +511,7 @@
             <falscheAntwort1>Leuchte des Olymp</falscheAntwort1>
             <falscheAntwort2>Lampe des Kopernikus</falscheAntwort2>
             <falscheAntwort3>Licht des Ptolomäus</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -521,7 +521,7 @@
             <falscheAntwort1>Sie erwärmen das Wasser.</falscheAntwort1>
             <falscheAntwort2>Sie kühlen das Wasser ab.</falscheAntwort2>
             <falscheAntwort3>Sie regulieren den Säuregehalt des Wassers.</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -531,7 +531,7 @@
             <falscheAntwort1>Säuerling</falscheAntwort1>
             <falscheAntwort2>Süßling</falscheAntwort2>
             <falscheAntwort3>Salzling</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -541,7 +541,7 @@
             <falscheAntwort1>Sie können ihre Leuchtorgane an- und ausschalten.</falscheAntwort1>
             <falscheAntwort2>Sie können mit ihren Leuchtorganen ihre Feinde blenden.</falscheAntwort2>
             <falscheAntwort3>Sie haben am Schwanzende „Blinkorgane“, die ihre Fressfeinde irritieren.</falscheAntwort3>
-            <schwierikeit>11</schwierikeit>
+            <schwierigkeit>11</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>13</schwierigkeitMax>
         </frage>
@@ -551,7 +551,7 @@
             <falscheAntwort1>Jetschwimmen</falscheAntwort1>
             <falscheAntwort2>Turboschwimmen</falscheAntwort2>
             <falscheAntwort3>Kraulschwimmen</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -561,7 +561,7 @@
             <falscheAntwort1>autark</falscheAntwort1>
             <falscheAntwort2>amorph</falscheAntwort2>
             <falscheAntwort3>eumelisch</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -571,7 +571,7 @@
             <falscheAntwort1>graugrün</falscheAntwort1>
             <falscheAntwort2>rosa</falscheAntwort2>
             <falscheAntwort3>blau</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -581,7 +581,7 @@
             <falscheAntwort1>mit Hilfe eines langen Rüssels, der unter dem Bauch eingerollt ist</falscheAntwort1>
             <falscheAntwort2>mit Hilfe von kleinen Schnorcheln an den Vorderbeinen</falscheAntwort2>
             <falscheAntwort3>mit Hilfe einer großen Luftblase, in der sie sich einschließt</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -591,7 +591,7 @@
             <falscheAntwort1>Mill</falscheAntwort1>
             <falscheAntwort2>Dill</falscheAntwort2>
             <falscheAntwort3>Still</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>9</schwierigkeitMax>
         </frage>
@@ -601,7 +601,7 @@
             <falscheAntwort1>Seesonnen</falscheAntwort1>
             <falscheAntwort2>Seemonde</falscheAntwort2>
             <falscheAntwort3>Seeplaneten</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -611,7 +611,7 @@
             <falscheAntwort1>Hecht</falscheAntwort1>
             <falscheAntwort2>Karpfen</falscheAntwort2>
             <falscheAntwort3>Barsch</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -621,7 +621,7 @@
             <falscheAntwort1>Seesterne</falscheAntwort1>
             <falscheAntwort2>Pocken</falscheAntwort2>
             <falscheAntwort3>Quallen</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>5</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -631,7 +631,7 @@
             <falscheAntwort1>Pylone</falscheAntwort1>
             <falscheAntwort2>Pharmaka</falscheAntwort2>
             <falscheAntwort3>Pyramiden</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -641,7 +641,7 @@
             <falscheAntwort1>Schlammheini</falscheAntwort1>
             <falscheAntwort2>Schimmelgretchen</falscheAntwort2>
             <falscheAntwort3>Dreckaugust</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -651,7 +651,7 @@
             <falscheAntwort1>Sie besitzen kleine Zangen mit spitzen Dornen.</falscheAntwort1>
             <falscheAntwort2>Sie besitzen giftige Widerhaken.</falscheAntwort2>
             <falscheAntwort3>Sie besitzen eine ausfahrbare Leimzunge.</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -661,7 +661,7 @@
             <falscheAntwort1>durch einen spitzen Stachel</falscheAntwort1>
             <falscheAntwort2>durch giftigen Schleim</falscheAntwort2>
             <falscheAntwort3>durch harte Dornen</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -671,7 +671,7 @@
             <falscheAntwort1>Grönlandwal</falscheAntwort1>
             <falscheAntwort2>Grauwal</falscheAntwort2>
             <falscheAntwort3>Pottwal</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -681,7 +681,7 @@
             <falscheAntwort1>Quallen</falscheAntwort1>
             <falscheAntwort2>Eier</falscheAntwort2>
             <falscheAntwort3>Seetang</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -691,7 +691,7 @@
             <falscheAntwort1>Aquamarin</falscheAntwort1>
             <falscheAntwort2>Terrarium</falscheAntwort2>
             <falscheAntwort3>Rosarium</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -701,7 +701,7 @@
             <falscheAntwort1>isotopisch</falscheAntwort1>
             <falscheAntwort2>metamorph</falscheAntwort2>
             <falscheAntwort3>helioskop</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -711,7 +711,7 @@
             <falscheAntwort1>Kiemenortungsorgan</falscheAntwort1>
             <falscheAntwort2>Schwanzflossenorgan</falscheAntwort2>
             <falscheAntwort3>Rückenlinienorgan</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -721,7 +721,7 @@
             <falscheAntwort1>Sie werden von kleinsten Fischchen über Wasser gehalten.</falscheAntwort1>
             <falscheAntwort2>Sie besitzen Schwimmhäute.</falscheAntwort2>
             <falscheAntwort3>Sie besitzen an der Unterseite kleine Wasserdüsen.</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -731,7 +731,7 @@
             <falscheAntwort1>an der Farbe</falscheAntwort1>
             <falscheAntwort2>am Geschmack</falscheAntwort2>
             <falscheAntwort3>an der Fließgeschwindigkeit</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -741,7 +741,7 @@
             <falscheAntwort1>Seemelonen</falscheAntwort1>
             <falscheAntwort2>Seetomaten</falscheAntwort2>
             <falscheAntwort3>Seezucchinis</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -751,7 +751,7 @@
             <falscheAntwort1>Seemasern</falscheAntwort1>
             <falscheAntwort2>Windpocken</falscheAntwort2>
             <falscheAntwort3>Schiffspest</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -761,7 +761,7 @@
             <falscheAntwort1>fressen</falscheAntwort1>
             <falscheAntwort2>schnell atmen</falscheAntwort2>
             <falscheAntwort3>angreifen</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -771,7 +771,7 @@
             <falscheAntwort1>Sonst würden seine Muskeln schwächer.</falscheAntwort1>
             <falscheAntwort2>Er hat keine Schwimmblase.</falscheAntwort2>
             <falscheAntwort3>Er würde sonst nicht genug Beute finden.</falscheAntwort3>
-            <schwierikeit>1</schwierikeit>
+            <schwierigkeit>1</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -781,7 +781,7 @@
             <falscheAntwort1>Das stärkste Männchen beschützt den Eingang.</falscheAntwort1>
             <falscheAntwort2>Er verschließt den Eingang mit einem dicken Baumstamm.</falscheAntwort2>
             <falscheAntwort3>Vor dem Eingang gräbt der Biber eine Fallgrube.</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -791,7 +791,7 @@
             <falscheAntwort1>Zitronenrose</falscheAntwort1>
             <falscheAntwort2>Ozeanrose</falscheAntwort2>
             <falscheAntwort3>Tümpelrose</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -801,7 +801,7 @@
             <falscheAntwort1>Haiartige</falscheAntwort1>
             <falscheAntwort2>Karpfenartige</falscheAntwort2>
             <falscheAntwort3>Hechtartige</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -811,7 +811,7 @@
             <falscheAntwort1>Nassspinne</falscheAntwort1>
             <falscheAntwort2>Tauchspinne</falscheAntwort2>
             <falscheAntwort3>Ozeanspinne</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -821,7 +821,7 @@
             <falscheAntwort1>Schwimmhaut</falscheAntwort1>
             <falscheAntwort2>Taucherglocke</falscheAntwort2>
             <falscheAntwort3>Kiemenblase</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -831,7 +831,7 @@
             <falscheAntwort1>Sie spritzen Nachrichten mit Tinte auf den Meeresboden.</falscheAntwort1>
             <falscheAntwort2>Sie verstecken ihren Laich in einer Tintenwolke.</falscheAntwort2>
             <falscheAntwort3>Bei Gefahr trinken sie ganz viel Tinte und wirken so bedrohlicher.</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -841,7 +841,7 @@
             <falscheAntwort1>kanadische Wassergurgel</falscheAntwort1>
             <falscheAntwort2>nordamerikanische Froschkieferpflanze</falscheAntwort2>
             <falscheAntwort3>nordamerikanische Schlingpflanze</falscheAntwort3>
-            <schwierikeit>7</schwierikeit>
+            <schwierigkeit>7</schwierigkeit>
             <schwierigkeitMin>13</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -851,7 +851,7 @@
             <falscheAntwort1>bis 2 m</falscheAntwort1>
             <falscheAntwort2>bis 1m</falscheAntwort2>
             <falscheAntwort3>bis 0,75 m</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -861,7 +861,7 @@
             <falscheAntwort1>Grönlandwal</falscheAntwort1>
             <falscheAntwort2>Blauwal</falscheAntwort2>
             <falscheAntwort3>Grauwal</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -871,7 +871,7 @@
             <falscheAntwort1>Hebammenkröte</falscheAntwort1>
             <falscheAntwort2>Kreuzkröte</falscheAntwort2>
             <falscheAntwort3>Schlingkröte</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -881,7 +881,7 @@
             <falscheAntwort1>Brettfische</falscheAntwort1>
             <falscheAntwort2>Grundfische</falscheAntwort2>
             <falscheAntwort3>Kugelfische</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>8</schwierigkeitMax>
         </frage>
@@ -891,7 +891,7 @@
             <falscheAntwort1>Seeveilchen</falscheAntwort1>
             <falscheAntwort2>Seetulpen</falscheAntwort2>
             <falscheAntwort3>Seeanemonen</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -901,7 +901,7 @@
             <falscheAntwort1>sandiger Boden, warmes und trübes Wasser</falscheAntwort1>
             <falscheAntwort2>lehmiger Boden, schnell fließendes Gewässer</falscheAntwort2>
             <falscheAntwort3>steiniger Boden, sprudelndes, salziges Wasser</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>15</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -911,7 +911,7 @@
             <falscheAntwort1>Prachtlibellen</falscheAntwort1>
             <falscheAntwort2>Stechmücken</falscheAntwort2>
             <falscheAntwort3>Honigbienen</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -921,7 +921,7 @@
             <falscheAntwort1>Insekten, Frösche und kleine Fische, die in Ufernähe schwimmen</falscheAntwort1>
             <falscheAntwort2>Wurzeln und Farne</falscheAntwort2>
             <falscheAntwort3>Baumstämme</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -931,7 +931,7 @@
             <falscheAntwort1>Ihre Rückenflossen können nachwachsen.</falscheAntwort1>
             <falscheAntwort2>Sie haben Lungen anstelle von Kiemen.</falscheAntwort2>
             <falscheAntwort3>Sie können sich tief in den Meeresboden eingraben.</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -941,7 +941,7 @@
             <falscheAntwort1>Pfeilkröte</falscheAntwort1>
             <falscheAntwort2>Krummkröte</falscheAntwort2>
             <falscheAntwort3>Schlitzkröte</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -951,7 +951,7 @@
             <falscheAntwort1>Sie haben sich vor der Laichwanderung überfressen.</falscheAntwort1>
             <falscheAntwort2>Ihre Kiefer sind zusammengewachsen.</falscheAntwort2>
             <falscheAntwort3>Ihr Magen ist zusammengepresst.</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -961,7 +961,7 @@
             <falscheAntwort1>Sie tauchen für einige Zeit unter.</falscheAntwort1>
             <falscheAntwort2>Die Blätter rollen sich an den Rändern ein.</falscheAntwort2>
             <falscheAntwort3>Die Blätter lösen sich von den Stielen .</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>9</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -971,7 +971,7 @@
             <falscheAntwort1>Laichklumpen</falscheAntwort1>
             <falscheAntwort2>Laichschnüre</falscheAntwort2>
             <falscheAntwort3>Laichblase</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -981,7 +981,7 @@
             <falscheAntwort1>Otter</falscheAntwort1>
             <falscheAntwort2>Molche</falscheAntwort2>
             <falscheAntwort3>Kaulquappen</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -991,7 +991,7 @@
             <falscheAntwort1>bläulich</falscheAntwort1>
             <falscheAntwort2>weiß</falscheAntwort2>
             <falscheAntwort3>bräunlich</falscheAntwort3>
-            <schwierikeit>8</schwierikeit>
+            <schwierigkeit>8</schwierigkeit>
             <schwierigkeitMin>6</schwierigkeitMin>
             <schwierigkeitMax>10</schwierigkeitMax>
         </frage>
@@ -1001,7 +1001,7 @@
             <falscheAntwort1>Monsterpinguin</falscheAntwort1>
             <falscheAntwort2>Königspinguin</falscheAntwort2>
             <falscheAntwort3>Riesenpinguin</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1011,7 +1011,7 @@
             <falscheAntwort1>Insekten</falscheAntwort1>
             <falscheAntwort2>Reptilien</falscheAntwort2>
             <falscheAntwort3>Bakterien</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1021,7 +1021,7 @@
             <falscheAntwort1>Laichkugel</falscheAntwort1>
             <falscheAntwort2>Laichklumpen</falscheAntwort2>
             <falscheAntwort3>Laichblase</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1031,7 +1031,7 @@
             <falscheAntwort1>der Aalschwanz</falscheAntwort1>
             <falscheAntwort2>die Aalhaut</falscheAntwort2>
             <falscheAntwort3>das Aalauge</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>10</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1041,7 +1041,7 @@
             <falscheAntwort1>Wasserratte</falscheAntwort1>
             <falscheAntwort2>Eichhörnchen</falscheAntwort2>
             <falscheAntwort3>Hamster</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1051,7 +1051,7 @@
             <falscheAntwort1>ca 0,50 m</falscheAntwort1>
             <falscheAntwort2>ca 2 m</falscheAntwort2>
             <falscheAntwort3>ca 1,50 m</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1061,7 +1061,7 @@
             <falscheAntwort1>Striemen</falscheAntwort1>
             <falscheAntwort2>Riemen</falscheAntwort2>
             <falscheAntwort3>Lungen</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1071,7 +1071,7 @@
             <falscheAntwort1>ca. 30 Minuten</falscheAntwort1>
             <falscheAntwort2>ca. 5 Minuten</falscheAntwort2>
             <falscheAntwort3>ca. 45 Minuten</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1081,7 +1081,7 @@
             <falscheAntwort1>Albatrosse</falscheAntwort1>
             <falscheAntwort2>Emus</falscheAntwort2>
             <falscheAntwort3>Kiwis</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1091,7 +1091,7 @@
             <falscheAntwort1>Hechte</falscheAntwort1>
             <falscheAntwort2>Karpfen</falscheAntwort2>
             <falscheAntwort3>Forelle</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1101,7 +1101,7 @@
             <falscheAntwort1>Es schließt sich fast ganz.</falscheAntwort1>
             <falscheAntwort2>Es verschwindet.</falscheAntwort2>
             <falscheAntwort3>Es wandert zur Schwanzspitze.</falscheAntwort3>
-            <schwierikeit>5</schwierikeit>
+            <schwierigkeit>5</schwierigkeit>
             <schwierigkeitMin>4</schwierigkeitMin>
             <schwierigkeitMax>7</schwierigkeitMax>
         </frage>
@@ -1111,7 +1111,7 @@
             <falscheAntwort1>Landmolch</falscheAntwort1>
             <falscheAntwort2>Talmolch</falscheAntwort2>
             <falscheAntwort3>Seemolch</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>11</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
@@ -1121,7 +1121,7 @@
             <falscheAntwort1>Blattläuse</falscheAntwort1>
             <falscheAntwort2>Schlammfliegen</falscheAntwort2>
             <falscheAntwort3>Mückenlarven</falscheAntwort3>
-            <schwierikeit>10</schwierikeit>
+            <schwierigkeit>10</schwierigkeit>
             <schwierigkeitMin>8</schwierigkeitMin>
             <schwierigkeitMax>12</schwierigkeitMax>
         </frage>
@@ -1131,7 +1131,7 @@
             <falscheAntwort1>Geisteraale</falscheAntwort1>
             <falscheAntwort2>Fensteraale</falscheAntwort2>
             <falscheAntwort3>Geleeaale</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1141,7 +1141,7 @@
             <falscheAntwort1>Wasserrenner</falscheAntwort1>
             <falscheAntwort2>Wassergeher</falscheAntwort2>
             <falscheAntwort3>Wassersprinter</falscheAntwort3>
-            <schwierikeit>3</schwierikeit>
+            <schwierigkeit>3</schwierigkeit>
             <schwierigkeitMin>1</schwierigkeitMin>
             <schwierigkeitMax>6</schwierigkeitMax>
         </frage>
@@ -1151,7 +1151,7 @@
             <falscheAntwort1>Meermolch</falscheAntwort1>
             <falscheAntwort2>Seemolch</falscheAntwort2>
             <falscheAntwort3>Flussmolch</falscheAntwort3>
-            <schwierikeit>9</schwierikeit>
+            <schwierigkeit>9</schwierigkeit>
             <schwierigkeitMin>7</schwierigkeitMin>
             <schwierigkeitMax>11</schwierigkeitMax>
         </frage>
@@ -1161,7 +1161,7 @@
             <falscheAntwort1>im Kaspischen Meer</falscheAntwort1>
             <falscheAntwort2>im Bodensee</falscheAntwort2>
             <falscheAntwort3>in der Ostsee</falscheAntwort3>
-            <schwierikeit>6</schwierikeit>
+            <schwierigkeit>6</schwierigkeit>
             <schwierigkeitMin>12</schwierigkeitMin>
             <schwierigkeitMax>1</schwierigkeitMax>
         </frage>
