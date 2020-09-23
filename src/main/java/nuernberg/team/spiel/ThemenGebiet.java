@@ -41,7 +41,6 @@ public class ThemenGebiet extends XMLDatei {
   private Element thema;
   private Element autor;
   private Element anzahlFragen;
-  int fragenZähler = 0;
   private Element fach;
 
   /**
@@ -109,12 +108,42 @@ public class ThemenGebiet extends XMLDatei {
     return leseTextInhalt("autor");
   }
 
+  /**
+   * Setze manuell die Anzahl der Fragen.
+   *
+   * @param anzahlFragen Die Anzahl der Fragen.
+   */
   public void setzeAnzahlFragen(String anzahlFragen) {
     erzeugeText(this.anzahlFragen, anzahlFragen);
   }
 
+  /**
+   * Setze manuell die Anzahl der Fragen.
+   *
+   * @param anzahlFragen Die Anzahl der Fragen.
+   */
+  public void setzeAnzahlFragen(int anzahlFragen) {
+    setzeAnzahlFragen(Integer.toString(anzahlFragen));
+  }
+
+  /**
+   * Setzte die Anzahl der Fragen automatisch nach der Anzahl der
+   * {@code<frage>}-Tags.
+   */
   public void setzeAnzahlFragen() {
-    erzeugeText(this.anzahlFragen, String.valueOf(fragenZähler));
+    erzeugeText(this.anzahlFragen, String.valueOf(gibAnzahlFragen()));
+  }
+
+  /**
+   * Gibt die tatsächliche Anzahl der Fragen zurück.
+   *
+   * Diese Methode zählt die {@code<frage>}-Tags in der XML-Datei und gibt nicht
+   * den Wert des Tags {@code<anzahlFragen>} zurück.
+   *
+   * @return Die Anzahl der Fragen.
+   */
+  public int gibAnzahlFragen() {
+    return dokument.getElementsByTagName("frage").getLength();
   }
 
   public Element setzeFrage(String fragenText, String richtigeAntwort, String falscheAntwort1, String falscheAntwort2,
@@ -127,7 +156,6 @@ public class ThemenGebiet extends XMLDatei {
     hängeTextElementAn(frage, "falscheAntwort2", falscheAntwort2);
     hängeTextElementAn(frage, "falscheAntwort3", falscheAntwort3);
     hängeTextElementAn(frage, "schwierigkeit", Integer.toString(schwierigkeit));
-    fragenZähler++;
     return frage;
   }
 
@@ -143,8 +171,11 @@ public class ThemenGebiet extends XMLDatei {
    * Konvertiere die CSV-Datei mit den Fragen in eine XML-Datei. Dabei wird nach
    * der Jahrgangsstufe gefilter.
    *
-   * @param pfad
-   * @param jahrgangsstufe
+   * @param pfad           Der Pfad zur CSV-Datei. Kann ein relativer Pfad zu den
+   *                       resources-Ordner sein, z. B.
+   *                       {@code"/fragen/fragen.csv"} oder ein relativer oder
+   *                       absoluter Pfade außerhalb des resources-Ordner.
+   * @param jahrgangsstufe Die Jahrgangsstufe, nach der gefilter werden soll.
    */
   public void konvertiereCSV(String pfad, int jahrgangsstufe) {
     try {

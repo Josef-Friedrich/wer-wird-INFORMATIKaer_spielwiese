@@ -18,6 +18,24 @@ public class ThemenGebietTest {
   }
 
   @Test
+  public void methodeGibFach() throws Exception {
+    ThemenGebiet gebiet = new ThemenGebiet("informatik/6_jahrgangsstufe.xml");
+    assertEquals("Informatik", gebiet.gibFach());
+  }
+
+  @Test
+  public void methodeGibAutor() throws Exception {
+    ThemenGebiet gebiet = new ThemenGebiet("informatik/6_jahrgangsstufe.xml");
+    assertEquals("Team Nürnberg", gebiet.gibAutor());
+  }
+
+  @Test
+  public void methodeGibFragenAnzahl() throws Exception {
+    ThemenGebiet gebiet = new ThemenGebiet("informatik/6_jahrgangsstufe.xml");
+    assertEquals(30, gebiet.gibAnzahlFragen());
+  }
+
+  @Test
   public void erzeugeThemenGebiet() throws Exception {
     File tmpDatei = File.createTempFile("wwim", ".xml");
 
