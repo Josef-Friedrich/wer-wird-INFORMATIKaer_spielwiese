@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - SpielManager",
+      "request": "launch",
+      "mainClass": "nuernberg.team.gamegrid.SpielManager",
+      "projectName": "wwim"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - SpielManager",
+      "request": "launch",
+      "mainClass": "nuernberg.team.gui.SpielManager",
+      "projectName": "wwim"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - ThemenKatalog",
       "request": "launch",
       "mainClass": "nuernberg.team.spiel.ThemenKatalog",

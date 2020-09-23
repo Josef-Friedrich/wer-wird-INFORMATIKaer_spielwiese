@@ -1,4 +1,4 @@
-package nuernberg.team.gui;
+package nuernberg.team.gamegrid;
 
 import ch.aplu.jgamegrid.*;
 import java.awt.event.KeyEvent;
@@ -6,17 +6,17 @@ import nuernberg.team.spiel.Spiel;
 import nuernberg.team.spiel.Frage;
 
 @SuppressWarnings("serial")
-public class GGSpielfeld extends GameGrid implements GGKeyListener {
+public class Spielfeld extends GameGrid implements GGKeyListener {
 
-  private GGMehrzeiligerText frageText;
-  private GGTextAkteur antwortAText;
-  private GGTextAkteur antwortBText;
-  private GGTextAkteur antwortCText;
-  private GGTextAkteur antwortDText;
+  private MehrzeiligerText frageText;
+  private TextAkteur antwortAText;
+  private TextAkteur antwortBText;
+  private TextAkteur antwortCText;
+  private TextAkteur antwortDText;
 
   private Spiel spiel;
 
-  public GGSpielfeld(Spiel spiel) {
+  public Spielfeld(Spiel spiel) {
 
     // 1024 	× 	768
     super(52, 38, 20);
@@ -26,13 +26,13 @@ public class GGSpielfeld extends GameGrid implements GGKeyListener {
     show();
   }
 
-  public GGTextAkteur zeigeText(GGTextAkteur textBaustein, String text, int x, int y) {
+  public TextAkteur zeigeText(TextAkteur textBaustein, String text, int x, int y) {
     if (textBaustein != null) {
       textBaustein.hide();
       removeActor(textBaustein);
     }
 
-    textBaustein = new GGTextAkteur(text);
+    textBaustein = new TextAkteur(text);
     addMouseListener(textBaustein, GGMouse.lPress);
     addActor(textBaustein, new Location(x, y));
 
@@ -47,7 +47,7 @@ public class GGSpielfeld extends GameGrid implements GGKeyListener {
       frageText.entferneVomSpielfeld();
     }
 
-    frageText = new GGMehrzeiligerText(frageTextnachricht);
+    frageText = new MehrzeiligerText(frageTextnachricht);
     frageText.setzeImSpielfeld(this, new Location(10, 10));
 
     // 52 / 2 = 26

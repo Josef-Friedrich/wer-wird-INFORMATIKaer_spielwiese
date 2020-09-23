@@ -1,4 +1,4 @@
-package nuernberg.team.gui;
+package nuernberg.team.gamegrid;
 
 import ch.aplu.jgamegrid.*;
 import java.awt.Color;
@@ -11,9 +11,9 @@ import java.awt.event.KeyEvent;
  * @see <a href="http://www.aplu.ch/classdoc/jgamegrid/ch/aplu/jgamegrid/TextActor.html">Dokumentation der Kasse TextActor</a>
  * @see <a href="http://www.aplu.ch/classdoc/jgamegrid/ch/aplu/jgamegrid/GGKeyListener.html">Dokumentation der Interfaces GGKeyListener</a>
  **/
-public class GGTextAkteur extends TextActor implements GGKeyListener, GGMouseListener {
+public class TextAkteur extends TextActor implements GGKeyListener, GGMouseListener {
 
-  public GGTextAkteur(String text) {
+  public TextAkteur(String text) {
     super(false, text, Color.WHITE, new Color(255, 255, 255, 0), new Font("Sans", Font.PLAIN, 20));
   }
 

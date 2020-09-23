@@ -1,4 +1,4 @@
-package nuernberg.team.gui;
+package nuernberg.team.gamegrid;
 
 import nuernberg.team.spiel.Spiel;
 import nuernberg.team.spiel.ThemenGebiet;
@@ -17,6 +17,6 @@ public class SpielManager {
     ThemenKatalog katalog = new ThemenKatalog();
     ThemenGebiet gebiet = katalog.gibGebietDurchNummer(0);
     gebiet.leseFragenInsSpiel(spiel);
-    new GGSpielfeld(spiel);
+    new Spielfeld(spiel);
   }
 }

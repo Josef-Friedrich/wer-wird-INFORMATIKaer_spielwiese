@@ -1,4 +1,4 @@
-package nuernberg.team.gui;
+package nuernberg.team.gamegrid;
 
 import ch.aplu.jgamegrid.*;
 import java.util.ArrayList;
@@ -8,7 +8,7 @@ import java.awt.Font;
 /**
  * Ein mehrzeiliger Text.
  */
-public class GGMehrzeiligerText {
+public class MehrzeiligerText {
   private int textWeite = 40;
   private int y;
   private GameGrid gameGrid;
@@ -19,11 +19,11 @@ public class GGMehrzeiligerText {
   private Color hintergrundFarbe = new Color(255, 255, 255, 0);
   private Font schriftart = new Font("Sans", Font.PLAIN, 20);
 
-  public GGMehrzeiligerText(String text) {
+  public MehrzeiligerText(String text) {
     this.teileText(text);
   }
 
-  public GGMehrzeiligerText(String text, Color textFarbe, Font schriftart) {
+  public MehrzeiligerText(String text, Color textFarbe, Font schriftart) {
     this.textFarbe = textFarbe;
     this.schriftart = schriftart;
     this.teileText(text);
