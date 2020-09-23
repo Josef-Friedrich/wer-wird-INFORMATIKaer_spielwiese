@@ -94,7 +94,7 @@
           <!-- <show>private</show> -->
           <javadocExecutable>${java.home}/bin/javadoc</javadocExecutable>
           <reportOutputDirectory>.</reportOutputDirectory>
-          <destDir>doc</destDir>
+          <destDir>docs</destDir>
         </configuration>
       </plugin>
     </plugins>

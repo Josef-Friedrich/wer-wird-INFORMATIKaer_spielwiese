@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"nuernberg.team.cli"},{"l":"nuernberg.team.gui"},{"l":"nuernberg.team.spiel"}]
