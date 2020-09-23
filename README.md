@@ -1,7 +1,11 @@
-Privates Repository zum Ausprobieren für das Projekt
+# Wer wird INFORMATIKär
 
-Wer wird Informatik-Millionär
+(Wer wird Informatik-Millionär)
 
+Kleines Spiel im Stil von „Wer wird Millionär“ für den
+Informatik-Unterricht.
+
+Projekt des legendären „Team Nürnbergs“
 
 ```
 mvn install:install-file \
@@ -11,4 +15,16 @@ mvn install:install-file \
    -Dversion=3.00 \
    -Dpackaging=jar \
    -DgeneratePom=true
+```
+
+# Testen
+
+```
+mvn test
+```
+
+# Dokumentation erstellen
+
+```
+mvn javadoc:javadoc
 ```
