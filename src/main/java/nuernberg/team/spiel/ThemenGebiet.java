@@ -2,6 +2,7 @@ package nuernberg.team.spiel;
 
 import java.io.File;
 import java.io.IOException;
+import java.io.PrintWriter;
 
 import org.apache.commons.csv.CSVParser;
 import org.apache.commons.csv.CSVRecord;
@@ -138,18 +139,27 @@ public class ThemenGebiet extends XMLDatei {
     hängeTextElementAn(frage, "schwierigkeitMax", Integer.toString(schwierigkeitMax));
   }
 
-  public void konvertiereCSV(String pfad) {
+  /**
+   * Konvertiere die CSV-Datei mit den Fragen in eine XML-Datei. Dabei wird nach
+   * der Jahrgangsstufe gefilter.
+   *
+   * @param pfad
+   * @param jahrgangsstufe
+   */
+  public void konvertiereCSV(String pfad, int jahrgangsstufe) {
     try {
       CSVLeser csvLeser = new CSVLeser(pfad);
       CSVParser csv = csvLeser.gibLeser();
       setzeFach("Informatik");
-      setzeThema("Jahrgangsstufe");
-      setzeAutor("Michi, Steffi, Josef, Martin");
+      setzeThema(String.format("%s. Jahrgangsstufe", jahrgangsstufe));
+      setzeAutor("Team Nürnberg");
 
       for (CSVRecord csvRecord : csv) {
-        setzeFrage(csvRecord.get("fragenText"), csvRecord.get("richtigeAntwort"), csvRecord.get("falscheAntwort1"),
-            csvRecord.get("falscheAntwort2"), csvRecord.get("falscheAntwort3"),
-            Integer.parseInt(csvRecord.get("schwierigkeit")));
+        if (csvRecord.get("jahrgangsstufe").equals(Integer.toString(jahrgangsstufe))) {
+          setzeFrage(csvRecord.get("fragenText"), csvRecord.get("richtigeAntwort"), csvRecord.get("falscheAntwort1"),
+              csvRecord.get("falscheAntwort2"), csvRecord.get("falscheAntwort3"),
+              Integer.parseInt(csvRecord.get("schwierigkeit")));
+        }
       }
       csv.close();
       schreibeInDatei();
@@ -176,6 +186,31 @@ public class ThemenGebiet extends XMLDatei {
       String schwierigkeit = gibTextVonKind(frage, "schwierigkeit");
       spiel.erzeugeFrage(fragenText, richtigeAntwort, falscheAntwort1, falscheAntwort2, falscheAntwort3, schwierigkeit);
     }
+  }
+
+  /**
+   * Erzeuge für die Fragen einer bestimmen Jahrgangsstufe eine XML-Datei.
+   *
+   * @param jahrgangsstufe Die Jahrgangsstufe, nach der gefilter werden soll.
+   */
+  public static void erzeugeXmlPerJahrgang(int jahrgangsstufe) {
+    String dateiPfad = System.getProperty("user.home") + "/" + jahrgangsstufe + "_jahrgangsstufe.xml";
+    File datei = new File(dateiPfad);
+    try {
+      // Eine leere Datei erzeugen.
+      datei.createNewFile();
+      // Die XML leeren.
+      new PrintWriter(dateiPfad).close();
+    } catch (IOException e) {
+      e.printStackTrace();
+    }
+    ThemenGebiet gebiet = new ThemenGebiet(datei);
+    gebiet.konvertiereCSV("/fragen/fragen.csv", jahrgangsstufe);
+  }
+
+  public static void main(String[] args) {
+    erzeugeXmlPerJahrgang(6);
+    erzeugeXmlPerJahrgang(7);
   }
 
 }

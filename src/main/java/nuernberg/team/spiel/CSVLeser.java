@@ -13,6 +13,10 @@ public class CSVLeser {
 
   private CSVParser leser;
 
+  /**
+   *
+   * @param csvDatei
+   */
   public CSVLeser(String csvDatei) {
     BufferedReader reader;
     try {

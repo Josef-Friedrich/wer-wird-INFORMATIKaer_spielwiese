@@ -38,12 +38,12 @@ public class ThemenGebietTest {
     File tmpDatei = File.createTempFile("wwim", ".xml");
 
     ThemenGebiet schreiben = new ThemenGebiet(tmpDatei);
-    schreiben.konvertiereCSV("/fragen/fragen.csv");
+    schreiben.konvertiereCSV("/fragen/fragen.csv", 6);
 
     ThemenGebiet lesen = new ThemenGebiet(tmpDatei);
     assertEquals("Informatik", lesen.gibFach());
-    assertEquals("Jahrgangsstufe", lesen.gibThema());
-    assertEquals("Michi, Steffi, Josef, Martin", lesen.gibAutor());
+    assertEquals("6. Jahrgangsstufe", lesen.gibThema());
+    assertEquals("Team Nürnberg", lesen.gibAutor());
 
     Document dokument = lesen.gibDokument();
     NodeList knotenListe = dokument.getElementsByTagName("frage");
