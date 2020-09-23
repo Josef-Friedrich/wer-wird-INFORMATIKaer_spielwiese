@@ -2,17 +2,9 @@
 <themenGebiet>
     <fach>Informatik</fach>
     <thema>6. Jahrgangsstufe</thema>
-    <autor>Michi</autor>
-    <anzahlFragen>10</anzahlFragen>
+    <autor>Team Nürnberg</autor>
+    <anzahlFragen>30</anzahlFragen>
     <fragen>
-        <frage>
-            <fragenText>Wie nennt die Beziehung, wenn zwei Objekte der gleichen Klasse in Beziehung stehen?</fragenText>
-            <richtigeAntwort>rekursive Beziehung</richtigeAntwort>
-            <falscheAntwort1>repetetive Beziehung</falscheAntwort1>
-            <falscheAntwort2>reflexive Beziehung</falscheAntwort2>
-            <falscheAntwort3>relationale Beziehung</falscheAntwort3>
-            <schwierigkeit>2</schwierigkeit>
-        </frage>
         <frage>
             <fragenText>Welche Definition trifft in Informatik für den Begriff Klasse zu?</fragenText>
             <richtigeAntwort>ein Bauplan für Objekte gleicher Art</richtigeAntwort>
@@ -22,7 +14,7 @@
             <schwierigkeit>1</schwierigkeit>
         </frage>
         <frage>
-            <fragenText>Welche Attribute gehören nicht zur Klasse FOLIE?</fragenText>
+            <fragenText>Welches Attribut gehört nicht zur Klasse FOLIE?</fragenText>
             <richtigeAntwort>EinzugLinks</richtigeAntwort>
             <falscheAntwort1>Füllfarbe</falscheAntwort1>
             <falscheAntwort2>Anzeigedauer</falscheAntwort2>
@@ -86,12 +78,172 @@
             <schwierigkeit>5</schwierigkeit>
         </frage>
         <frage>
-            <fragenText>Wie viele Attribute hat ein Objekt der Klasse Pixel?</fragenText>
+            <fragenText>Wie viele Attribute hat ein Objekt der Klasse PIXEL?</fragenText>
             <richtigeAntwort>1</richtigeAntwort>
             <falscheAntwort1>3</falscheAntwort1>
             <falscheAntwort2>5</falscheAntwort2>
             <falscheAntwort3>7</falscheAntwort3>
             <schwierigkeit>4</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>Zu welcher Klasse gehört das Attribut Schuhgröße?</fragenText>
+            <richtigeAntwort>Mensch</richtigeAntwort>
+            <falscheAntwort1>Spinne</falscheAntwort1>
+            <falscheAntwort2>Tausendfüssler</falscheAntwort2>
+            <falscheAntwort3>Baum</falscheAntwort3>
+            <schwierigkeit>3</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>Zu welchem Attribut gehört der Attributwert gelb?</fragenText>
+            <richtigeAntwort>Schriftfarbe</richtigeAntwort>
+            <falscheAntwort1>Linienstärke</falscheAntwort1>
+            <falscheAntwort2>Fett</falscheAntwort2>
+            <falscheAntwort3>Hochgestellt</falscheAntwort3>
+            <schwierigkeit>1</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>In einem Vektorgrafikdokument verwendet man</fragenText>
+            <richtigeAntwort>geometrische Objekte</richtigeAntwort>
+            <falscheAntwort1>menschliche Objekte</falscheAntwort1>
+            <falscheAntwort2>realistische Objekte</falscheAntwort2>
+            <falscheAntwort3>tierische Objekte</falscheAntwort3>
+            <schwierigkeit>2</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>Bei einem Methodenaufruf werden die Parameterwerte</fragenText>
+            <richtigeAntwort>zwischen die Klammern geschrieben.</richtigeAntwort>
+            <falscheAntwort1>in rot geschrieben.</falscheAntwort1>
+            <falscheAntwort2>mit einem Ausrufezeichen versehen.</falscheAntwort2>
+            <falscheAntwort3>weggelassen.</falscheAntwort3>
+            <schwierigkeit>5</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>Das Tastenkürzel für Kopieren ist</fragenText>
+            <richtigeAntwort>Strg + C</richtigeAntwort>
+            <falscheAntwort1>Strg + A</falscheAntwort1>
+            <falscheAntwort2>Strg + V</falscheAntwort2>
+            <falscheAntwort3>Strg + X</falscheAntwort3>
+            <schwierigkeit>1</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>Das Tastenkürzel für Einfügen ist</fragenText>
+            <richtigeAntwort>Strg + V</richtigeAntwort>
+            <falscheAntwort1>Strg + A</falscheAntwort1>
+            <falscheAntwort2>Strg + C</falscheAntwort2>
+            <falscheAntwort3>Strg + X</falscheAntwort3>
+            <schwierigkeit>2</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>Wie viele Attributwerte haben boolsche Attribute?</fragenText>
+            <richtigeAntwort>2</richtigeAntwort>
+            <falscheAntwort1>3</falscheAntwort1>
+            <falscheAntwort2>4</falscheAntwort2>
+            <falscheAntwort3>unendlich viele</falscheAntwort3>
+            <schwierigkeit>5</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>Die Einheit für die Schriftgröße ist</fragenText>
+            <richtigeAntwort>Punkt</richtigeAntwort>
+            <falscheAntwort1>Komma</falscheAntwort1>
+            <falscheAntwort2>Millimeter</falscheAntwort2>
+            <falscheAntwort3>Zentimeter</falscheAntwort3>
+            <schwierigkeit>4</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>Ein Knoten ohne Kante nach unten heißt</fragenText>
+            <richtigeAntwort>Blatt</richtigeAntwort>
+            <falscheAntwort1>Wurzel</falscheAntwort1>
+            <falscheAntwort2>Knoten</falscheAntwort2>
+            <falscheAntwort3>Kante</falscheAntwort3>
+            <schwierigkeit>4</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>Der oberste Knoten heißt</fragenText>
+            <richtigeAntwort>Wurzel</richtigeAntwort>
+            <falscheAntwort1>Knoten</falscheAntwort1>
+            <falscheAntwort2>Kante</falscheAntwort2>
+            <falscheAntwort3>Blatt</falscheAntwort3>
+            <schwierigkeit>3</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>Wie heißen die Eigenschaften von Objekten?</fragenText>
+            <richtigeAntwort>Attribute</richtigeAntwort>
+            <falscheAntwort1>Bezeichner</falscheAntwort1>
+            <falscheAntwort2>Charakter</falscheAntwort2>
+            <falscheAntwort3>Dokumente</falscheAntwort3>
+            <schwierigkeit>3</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>Welche Objekte enthalten Grafikdokumente NICHT?</fragenText>
+            <richtigeAntwort>Zahlen</richtigeAntwort>
+            <falscheAntwort1>Rechtecke</falscheAntwort1>
+            <falscheAntwort2>Linien</falscheAntwort2>
+            <falscheAntwort3>Textfelder</falscheAntwort3>
+            <schwierigkeit>3</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>Wie nennt man Objekte mit denselben Attributen?</fragenText>
+            <richtigeAntwort>Klassen</richtigeAntwort>
+            <falscheAntwort1>Lehrer</falscheAntwort1>
+            <falscheAntwort2>Schüler</falscheAntwort2>
+            <falscheAntwort3>Jahrgänge</falscheAntwort3>
+            <schwierigkeit>1</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>Gib die Klasse für die Objekte schweiz, belgien, island, polen an.</fragenText>
+            <richtigeAntwort>LAND</richtigeAntwort>
+            <falscheAntwort1>STADT</falscheAntwort1>
+            <falscheAntwort2>EINWOHNER</falscheAntwort2>
+            <falscheAntwort3>SEHENSWUERDIGKEIT</falscheAntwort3>
+            <schwierigkeit>2</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>Was bezeichnet man in der Informatik als Methode?</fragenText>
+            <richtigeAntwort>Operation, die ein Objekt ausführen kann.</richtigeAntwort>
+            <falscheAntwort1>Operation, die ein Subjekt ausführen kann.</falscheAntwort1>
+            <falscheAntwort2>Operation, die ein Prädikat ausführen kann.</falscheAntwort2>
+            <falscheAntwort3>Operation, die ein Konsonant ausführen kann.</falscheAntwort3>
+            <schwierigkeit>2</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>Was bedeutet die elementare Informationseinheit "Bit"?</fragenText>
+            <richtigeAntwort>binary digit</richtigeAntwort>
+            <falscheAntwort1>binary dictionary</falscheAntwort1>
+            <falscheAntwort2>biscuit day</falscheAntwort2>
+            <falscheAntwort3>bicycle day</falscheAntwort3>
+            <schwierigkeit>3</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>Was kommt in Objektdiagrammen NICHT vor?</fragenText>
+            <richtigeAntwort>+</richtigeAntwort>
+            <falscheAntwort1>enthält</falscheAntwort1>
+            <falscheAntwort2>&gt;</falscheAntwort2>
+            <falscheAntwort3>Objekte</falscheAntwort3>
+            <schwierigkeit>3</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>Was macht ein Tabulator?</fragenText>
+            <richtigeAntwort>Textelemente exakt ausrichten</richtigeAntwort>
+            <falscheAntwort1>Textelemente korrekt schreiben</falscheAntwort1>
+            <falscheAntwort2>Bildelemente verkleinern</falscheAntwort2>
+            <falscheAntwort3>Bildelemente vergrößern</falscheAntwort3>
+            <schwierigkeit>1</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>Wofür steht bei freien Lizenzmodellen die Abkürzung CC?</fragenText>
+            <richtigeAntwort>Creative Commons</richtigeAntwort>
+            <falscheAntwort1>Create Comata</falscheAntwort1>
+            <falscheAntwort2>Chaos Computer</falscheAntwort2>
+            <falscheAntwort3>Cheap Community</falscheAntwort3>
+            <schwierigkeit>3</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>Welche Dateiendung kann ein Textverarbeitungsprogramm problemlos öffnen?</fragenText>
+            <richtigeAntwort>.doc</richtigeAntwort>
+            <falscheAntwort1>.jar</falscheAntwort1>
+            <falscheAntwort2>.exe</falscheAntwort2>
+            <falscheAntwort3>.dmg</falscheAntwort3>
+            <schwierigkeit>2</schwierigkeit>
         </frage>
     </fragen>
 </themenGebiet>

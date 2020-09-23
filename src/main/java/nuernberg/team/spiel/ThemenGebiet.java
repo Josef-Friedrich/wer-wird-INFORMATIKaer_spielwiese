@@ -109,11 +109,11 @@ public class ThemenGebiet extends XMLDatei {
     return leseTextInhalt("autor");
   }
 
-  public void setzeAnzahFragen(String anzahlFragen) {
+  public void setzeAnzahlFragen(String anzahlFragen) {
     erzeugeText(this.anzahlFragen, anzahlFragen);
   }
 
-  public void setzeAnzahFragen() {
+  public void setzeAnzahlFragen() {
     erzeugeText(this.anzahlFragen, String.valueOf(fragenZähler));
   }
 
@@ -162,6 +162,7 @@ public class ThemenGebiet extends XMLDatei {
         }
       }
       csv.close();
+      setzeAnzahlFragen();
       schreibeInDatei();
     } catch (IOException e) {
       e.printStackTrace();

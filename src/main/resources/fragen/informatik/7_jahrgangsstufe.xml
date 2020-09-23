@@ -2,8 +2,8 @@
 <themenGebiet>
     <fach>Informatik</fach>
     <thema>7. Jahrgangsstufe</thema>
-    <autor>Josef</autor>
-    <anzahlFragen>10</anzahlFragen>
+    <autor>Team Nürnberg</autor>
+    <anzahlFragen>20</anzahlFragen>
     <fragen>
         <frage>
             <fragenText>Welche Wörter stecken hinter der Abkürzung HTTP?</fragenText>
@@ -84,6 +84,86 @@
             <falscheAntwort2>reflexive Beziehung</falscheAntwort2>
             <falscheAntwort3>relationale Beziehung</falscheAntwort3>
             <schwierigkeit>2</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>Welches dieser Objekte muss gestrichen werden, damit sich die restlichen Objekte einer Klasse zuordnen lassen?</fragenText>
+            <richtigeAntwort>bayern</richtigeAntwort>
+            <falscheAntwort1>norwegen</falscheAntwort1>
+            <falscheAntwort2>belgien</falscheAntwort2>
+            <falscheAntwort3>italien</falscheAntwort3>
+            <schwierigkeit>3</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>Alle Objekte einer Klasse haben:</fragenText>
+            <richtigeAntwort>dieselben Attribute</richtigeAntwort>
+            <falscheAntwort1>dieselben Werte</falscheAntwort1>
+            <falscheAntwort2>denselben Namen</falscheAntwort2>
+            <falscheAntwort3>den gleichen Inhalt</falscheAntwort3>
+            <schwierigkeit>4</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>Eine Klasse beschreibt:</fragenText>
+            <richtigeAntwort>gleichartige Objekte</richtigeAntwort>
+            <falscheAntwort1>die Ansammlung von 30 Schülern</falscheAntwort1>
+            <falscheAntwort2>eine Automarke</falscheAntwort2>
+            <falscheAntwort3>die Qualität von Aussagen</falscheAntwort3>
+            <schwierigkeit>2</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>Was stimmt nicht? Auf der Objektkarte stehen:</fragenText>
+            <richtigeAntwort>Methoden</richtigeAntwort>
+            <falscheAntwort1>Objektname in klein</falscheAntwort1>
+            <falscheAntwort2>Attributwerte in Zahlen</falscheAntwort2>
+            <falscheAntwort3>Klassenname in Groß</falscheAntwort3>
+            <schwierigkeit>4</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>Das Dreieck soll zuerst in x- Richtung 5 cm und in y -Richtung 2 cm verschoben werden mit der Methode verschieben(x,y). Was wird funktionieren?</fragenText>
+            <richtigeAntwort>dreieck1.verschieben(5,2)</richtigeAntwort>
+            <falscheAntwort1>dreieck1.verschieben(5)verschieben(2)</falscheAntwort1>
+            <falscheAntwort2>dreieck1.verschieben(2,5)</falscheAntwort2>
+            <falscheAntwort3>dreieck1.verschieben(5,2)dreieck1.verschieben(5,2)</falscheAntwort3>
+            <schwierigkeit>5</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>Methoden werden angewendet auf</fragenText>
+            <richtigeAntwort>ein Objekt einer Klasse</richtigeAntwort>
+            <falscheAntwort1>eine Klasse</falscheAntwort1>
+            <falscheAntwort2>auf bestimmte Objekte auf einer Klasse</falscheAntwort2>
+            <falscheAntwort3>auf Objekte und Klassen</falscheAntwort3>
+            <schwierigkeit>4</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>Um mit der Punktnotation eine Methode auf dem Objekt viereck1 aufzurufen, schreibt man</fragenText>
+            <richtigeAntwort>viereck1.verschiebe(Parameter)</richtigeAntwort>
+            <falscheAntwort1>verschiebe.viereck1(parameter)</falscheAntwort1>
+            <falscheAntwort2>viereck1(parameter).verschiebe</falscheAntwort2>
+            <falscheAntwort3>viereck1.parameter.verschiebe()</falscheAntwort3>
+            <schwierigkeit>5</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>CC Lizenzmodelle: der Nutzer  kann das Werk weitergeben, gegebenenfalls auch kommerziell . Das Werk darf allerdings nicht verändert werden und der Urheber muss genannt werden.</fragenText>
+            <richtigeAntwort>CC BY ND</richtigeAntwort>
+            <falscheAntwort1>CC BY</falscheAntwort1>
+            <falscheAntwort2>CC BY SA</falscheAntwort2>
+            <falscheAntwort3>CC BY NC</falscheAntwort3>
+            <schwierigkeit>5</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>Welche Bilder speichert man eher als Vektorgraphik?</fragenText>
+            <richtigeAntwort>Plan für eine neue Küche</richtigeAntwort>
+            <falscheAntwort1>eingescannte Seite aus einem Buch</falscheAntwort1>
+            <falscheAntwort2>Illustration aus Tusche für ein Buch</falscheAntwort2>
+            <falscheAntwort3>Passbild</falscheAntwort3>
+            <schwierigkeit>3</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>Welche der Suffix ist normalerweise kein Bild zugeordnet?</fragenText>
+            <richtigeAntwort>rtf</richtigeAntwort>
+            <falscheAntwort1>gif</falscheAntwort1>
+            <falscheAntwort2>jpeg</falscheAntwort2>
+            <falscheAntwort3>png</falscheAntwort3>
+            <schwierigkeit>3</schwierigkeit>
         </frage>
     </fragen>
 </themenGebiet>
