@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - ReaktivesTextFeld",
+      "request": "launch",
+      "mainClass": "nuernberg.team.gamegrid.ReaktivesTextFeld",
+      "projectName": "wwim"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - ReaktiverText",
+      "request": "launch",
+      "mainClass": "nuernberg.team.gamegrid.ReaktiverText",
+      "projectName": "wwim"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - TextAndMouse",
+      "request": "launch",
+      "mainClass": "nuernberg.team.gamegrid.TextAndMouse",
+      "projectName": "wwim"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - SpielManager",
       "request": "launch",
       "mainClass": "nuernberg.team.gamegrid.SpielManager",
