@@ -36,8 +36,8 @@ public class XMLDatei extends Datei {
 
     try {
       DocumentBuilder documentBuilder = DocumentBuilderFactory.newInstance().newDocumentBuilder();
-      if (existiert() && !istLeer()) {
-        dokument = documentBuilder.parse(gibEingabeStrom());
+      if (istLesbar()) {
+        dokument = documentBuilder.parse(gibInputStream());
         wurzel = dokument.getDocumentElement();
         wurzel.normalize();
       } else {
@@ -54,7 +54,7 @@ public class XMLDatei extends Datei {
   }
 
   public void setzeWurzel(String wurzelName) {
-    if (!existiert() || istLeer()) {
+    if (istBeschreibbar()) {
       wurzel = dokument.createElement(wurzelName);
       dokument.appendChild(wurzel);
     }
@@ -71,7 +71,7 @@ public class XMLDatei extends Datei {
       transformer.setOutputProperty(OutputKeys.ENCODING, "UTF-8");
       transformer.setOutputProperty(OutputKeys.INDENT, "yes");
       DOMSource domSource = new DOMSource(dokument);
-      StreamResult streamResult = new StreamResult(gibDatei());
+      StreamResult streamResult = new StreamResult(gibFile());
       transformer.transform(domSource, streamResult);
     } catch (TransformerException e) {
       e.printStackTrace();

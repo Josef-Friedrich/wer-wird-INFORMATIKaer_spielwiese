@@ -56,7 +56,7 @@ public class ThemenGebiet extends XMLDatei {
   public ThemenGebiet(String pfad) {
     super(pfad);
 
-    if (!existiert() || istLeer()) {
+    if (istBeschreibbar()) {
       setzeWurzel("themenGebiet");
       fach = dokument.createElement("fach");
       wurzel.appendChild(fach);

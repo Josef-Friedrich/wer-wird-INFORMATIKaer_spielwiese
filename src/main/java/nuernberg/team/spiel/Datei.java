@@ -1,15 +1,13 @@
 package nuernberg.team.spiel;
 
 import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
 import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
-import java.net.URI;
-import java.net.URL;
 
 /**
  * Die Klasse Datei versucht herauszufinden, ob sich der angebene Dateipfad im
@@ -21,7 +19,7 @@ public class Datei {
   /**
    * Der angebenene Dateipfad.
    */
-  protected Path pfad;
+  protected String pfad;
 
   /**
    * Wahr, wenn die Datei existiert und innerhalb des resources-Ordnern
@@ -31,57 +29,14 @@ public class Datei {
   protected Boolean intern;
 
   /**
-   * Wahr, wenn die Datei bereits existiert. Falsch, wenn sie nicht existiert.
-   */
-  protected Boolean existiert;
-
-  /**
    * @param pfad Eine interner Pfad (relativ zum Ordner
    *             {@code "src/main/resources"}) oder ein externer Pfad. Interne
    *             Pfade müssen immer mit einem Schrägstrich beginnen {@code "/"}).
    *             Externe Pfade können sowohl relativ als auch absolute sein.
    */
   public Datei(String pfad) {
-    existiert = false;
-
-    try {
-      versucheExternZuLesen(pfad);
-      intern = false;
-      existiert = true;
-      return;
-    } catch (IOException e) {
-    }
-
-    try {
-      versucheInternZuLesen(pfad);
-      intern = true;
-      existiert = true;
-    } catch (IOException e) {
-    }
-  }
-
-  /**
-   * Versucht eine interne Datei zu lesen.
-   *
-   * @throws IOException
-   */
-  private void versucheInternZuLesen(String pfad) throws IOException {
-    URL url = getClass().getResource(pfad);
-    if (url == null) {
-      throw new IOException();
-    }
-    this.pfad = Paths.get(URI.create(url.toString()));
-    Files.newBufferedReader(this.pfad);
-  }
-
-  /**
-   * Versucht eine externe Datei zu lesen.
-   *
-   * @throws IOException
-   */
-  private void versucheExternZuLesen(String pfad) throws IOException {
-    this.pfad = Paths.get(pfad);
-    Files.newBufferedReader(this.pfad);
+    this.pfad = pfad;
+    intern = istIntern() ? true : false;
   }
 
   /**
@@ -92,15 +47,17 @@ public class Datei {
    *
    * @return wahr, wenn sich die Datei im Lese-Modus befindet.
    */
-  public boolean istLeer() {
+  public boolean istIntern() {
     // Diese Zeile funktioniert nicht bei der Verwendung von jar Dateien.
     // return datei.exists() && datei.length() > 0;
     try {
-      InputStream eingabeStrom = gibEingabeStrom();
+      InputStream eingabeStrom = getClass().getResourceAsStream(pfad);
+      if (eingabeStrom == null)
+        return false;
       InputStreamReader isr = new InputStreamReader(eingabeStrom);
       BufferedReader br = new BufferedReader(isr);
       boolean ergebnis;
-      if (br.readLine() == null)
+      if (br.readLine() != null)
         ergebnis = true;
       else
         ergebnis = false;
@@ -114,46 +71,52 @@ public class Datei {
     return false;
   }
 
-  /**
-   * Gibt den Eingabestrom der aktuellen XML-Datei zurück.
-   *
-   * Damit XML im jar-Archiv gelesen werden können, muss ein Eingabestrom zur
-   * Verfügung gestellt werden. Arbeiten wird nur mit den {@link File}-Objekten,
-   * dann funktioniert das zwar im Debugging-Betrieb, aber nicht aus einer
-   * JAR-Datei heraus. Damit der Eingabestrom erzeugt werden kann, muss entweder
-   * das Attribut {@link relativerPfad} oder {@link datei} gesetzt sein. Sind
-   * beide Attribute gesetzt wird der Eingabestrom vom Attribut
-   * {@link relativerPfad} gebildet.
-   *
-   * @return Den Eingabestrom der aktuellen XML-Datei.
-   */
-  protected InputStream gibEingabeStrom() {
+  public Boolean istBeschreibbar() {
+    if (intern) return false;
+    if ((new File(pfad)).length() == 0) {
+      return true;
+    }
+    return false;
+  }
+
+  public Boolean istLesbar() {
+    if (intern) return true;
+    File datei = new File(pfad);
+    if (datei.exists() && datei.length() > 0) {
+      return true;
+    }
+    return false;
+  }
+
+  public BufferedReader gibBufferedReader() {
+    BufferedReader dateiLeser = null;
+    try {
+      if (intern) {
+        dateiLeser = new BufferedReader(new InputStreamReader(getClass().getResourceAsStream(pfad)));
+      } else {
+        dateiLeser = Files.newBufferedReader(new File(pfad).toPath());
+      }
+    } catch (IOException e) {
+      e.printStackTrace();
+    }
+    return dateiLeser;
+  }
+
+  public InputStream gibInputStream() {
     InputStream eingabeStrom = null;
     try {
-      eingabeStrom = Files.newInputStream(pfad);
-    } catch (IOException e) {
+      if (intern) {
+        eingabeStrom = getClass().getResourceAsStream(pfad);
+      } else {
+        eingabeStrom = new FileInputStream(pfad);
+      }
+    } catch (FileNotFoundException e) {
       e.printStackTrace();
     }
     return eingabeStrom;
   }
 
-  protected File gibDatei() {
-    return pfad.toFile();
-  }
-
-  /**
-   * @return Wahr, wenn es sich um eine interne Datei handelt, falsch, wenn die
-   *         Datei einen externen Pfad hat, null wenn die Datei nicht existiert.
-   */
-  public Boolean istIntern() {
-    return intern;
-  }
-
-  /**
-   * @return Wahr, wenn die Datei existiert, falsch wenn sie nicht existiert.
-   */
-  public Boolean existiert() {
-    return existiert;
-
+  public File gibFile() {
+    return new File(pfad);
   }
 }

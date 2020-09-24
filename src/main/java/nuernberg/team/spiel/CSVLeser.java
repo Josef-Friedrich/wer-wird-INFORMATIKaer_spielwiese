@@ -1,8 +1,6 @@
 package nuernberg.team.spiel;
 
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.nio.file.Files;
 
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVParser;
@@ -23,10 +21,8 @@ public class CSVLeser extends Datei {
    */
   public CSVLeser(String csvDatei) {
     super(csvDatei);
-    BufferedReader dateiLeser;
     try {
-      dateiLeser = Files.newBufferedReader(pfad);
-      leser = new CSVParser(dateiLeser, CSVFormat.DEFAULT.withHeader().withIgnoreHeaderCase().withTrim());
+      leser = new CSVParser(gibBufferedReader(), CSVFormat.DEFAULT.withHeader().withIgnoreHeaderCase().withTrim());
     } catch (IOException e) {
       e.printStackTrace();
     }
