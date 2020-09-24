@@ -15,17 +15,17 @@ public class FrageTest {
   }
 
   @Test
-  public void testeMethodeGibSchwierigkeit() {
+  public void methodeGibSchwierigkeit() {
     assertEquals(frage.gibSchwierigkeit(), 1);
   }
 
   @Test
-  public void testeMethodeGibFragenText() {
+  public void methodeGibFragenText() {
     assertEquals(frage.gibFragenText(), "Frage1");
   }
 
   @Test
-  public void testeMethodeGibAntworten() throws NoSuchFieldException, IllegalAccessException {
+  public void methodeGibAntworten() throws NoSuchFieldException, IllegalAccessException {
     String[] antworten = frage.gibAntworten();
     assertEquals(antworten[0], "richtig");
     assertEquals(antworten[1], "falsch1");
@@ -46,12 +46,12 @@ public class FrageTest {
   }
 
   @Test
-  public void testeMethodeGibRichtigAntwort() {
+  public void methodeGibRichtigAntwort() {
     assertEquals(frage.gibRichtigeAntwort(), 0);
   }
 
   @Test
-  public void testeMethodeMischeAntwort() {
+  public void methodeMischeAntwort() {
     frage.mischeAntworten();
     String[] antworten = frage.gibAntworten();
     assertTrue(antworten[0] instanceof String);
@@ -61,7 +61,7 @@ public class FrageTest {
   }
 
   @Test
-  public void testeMethodeBeantworteFrage() {
+  public void methodeBeantworteFrage() {
     assertTrue(frage.beantworteFrage(0));
     assertFalse(frage.beantworteFrage(1));
     assertFalse(frage.beantworteFrage(2));

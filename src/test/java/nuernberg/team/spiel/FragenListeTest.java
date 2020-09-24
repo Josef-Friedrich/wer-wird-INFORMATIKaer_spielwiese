@@ -33,7 +33,7 @@ public class FragenListeTest {
   }
 
   @Test
-  public void testeMethodeFügeVorneEin() {
+  public void methodeFügeVorneEin() {
     liste = new FragenListe();
     liste.fügeVorneEin(frage1);
     liste.fügeVorneEin(frage2);
@@ -42,7 +42,7 @@ public class FragenListeTest {
   }
 
   @Test
-  public void testeMethodeFügeHintenEin() {
+  public void methodeFügeHintenEin() {
     liste = new FragenListe();
     liste.fügeHintenEin(frage1);
     liste.fügeHintenEin(frage2);
@@ -51,7 +51,7 @@ public class FragenListeTest {
   }
 
   @Test
-  public void testeMethodeGibAnzahl() {
+  public void methodeGibAnzahl() {
     liste = new FragenListe();
     liste.fügeVorneEin(frage1);
 
@@ -74,7 +74,7 @@ public class FragenListeTest {
   }
 
   @Test
-  public void testeMethodeFügeVorPositionEin() {
+  public void methodeFügeVorPositionEin() {
     Frage frage4 = new Frage("Frage4", "richtig", "falsch", "falsch", "falsch", 1);
     FragenListe l;
 
@@ -100,7 +100,7 @@ public class FragenListeTest {
   }
 
   @Test
-  public void testeMethodeFügeZufälligEin() {
+  public void methodeFügeZufälligEin() {
     Frage frage4 = new Frage("Frage4", "richtig", "falsch", "falsch", "falsch", 1);
     FragenListe jahrgangsstufe = new FragenListe();
     jahrgangsstufe.fügeZufälligEin(frage1);
@@ -111,7 +111,7 @@ public class FragenListeTest {
   }
 
   @Test
-  public void testeMethodeEntnimmErsteFrage() {
+  public void methodeEntnimmErsteFrage() {
     FragenListe l = gibBefüllteListe();
 
     l.entnimmErsteFrage();
@@ -131,7 +131,7 @@ public class FragenListeTest {
   }
 
   @Test
-  public void testeMethodeEntnimmFrageZuerstSchwierige() {
+  public void methodeEntnimmFrageZuerstSchwierige() {
     FragenListe l = gibBefüllteListe();
     Frage frage;
     frage = l.entnimmFrage(3);
@@ -148,7 +148,7 @@ public class FragenListeTest {
   }
 
   @Test
-  public void testeMethodeEntnimmFrageZuerstLeichte() {
+  public void methodeEntnimmFrageZuerstLeichte() {
     FragenListe l = gibBefüllteListe();
     Frage frage;
     frage = l.entnimmFrage(1);
@@ -168,7 +168,7 @@ public class FragenListeTest {
   }
 
   @Test
-  public void testeMethodeEntnimmFrageNichtVorhandeneSchwierigkeit() {
+  public void methodeEntnimmFrageNichtVorhandeneSchwierigkeit() {
     FragenListe l = gibBefüllteListe();
     Frage frage;
     frage = l.entnimmFrage(4);
@@ -177,7 +177,7 @@ public class FragenListeTest {
   }
 
   @Test
-  public void testeMethodeGibAnzahlDatenKnoten() {
+  public void methodeGibAnzahlDatenKnoten() {
     FragenListe l = new FragenListe();
     assertEquals(l.gibAnzahlDatenKnoten(), 0);
     l.fügeVorneEin(frage1);

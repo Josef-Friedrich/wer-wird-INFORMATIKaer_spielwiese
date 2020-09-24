@@ -12,7 +12,7 @@ import org.w3c.dom.NodeList;
 public class ThemenGebietTest {
 
   @Test
-  public void testeKonstruktor() throws Exception {
+  public void konstruktor() throws Exception {
     ThemenGebiet gebiet = new ThemenGebiet("musik/musik01.xml");
     assertEquals("Musik", gebiet.gibFach());
   }
