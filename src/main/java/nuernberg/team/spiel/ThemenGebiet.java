@@ -53,35 +53,26 @@ public class ThemenGebiet extends XMLDatei {
    *                      <code>src/main/resources/fragen/informatik/6_jahrgangsstufe.xml</code>
    *                      ergänzt.
    */
-  public ThemenGebiet(String relativerPfad) {
-    super("/fragen/" + relativerPfad);
-  }
+  public ThemenGebiet(String pfad) {
+    super(pfad);
 
-  /**
-   * Erzeugt anhand eines {@link java.io.File}-Objekts eine neue Instanz.
-   *
-   * Existiert die Datein noch nicht oder ist leer, wird eine neue XML-Datei
-   * angelegt.
-   *
-   * @param datei Ein {@link java.io.File}-Objekt.
-   */
-  public ThemenGebiet(File datei) {
-    super(datei);
-    setzeWurzel("themenGebiet");
-    fach = dokument.createElement("fach");
-    wurzel.appendChild(fach);
+    if (!existiert() || istLeer()) {
+      setzeWurzel("themenGebiet");
+      fach = dokument.createElement("fach");
+      wurzel.appendChild(fach);
 
-    thema = dokument.createElement("thema");
-    wurzel.appendChild(thema);
+      thema = dokument.createElement("thema");
+      wurzel.appendChild(thema);
 
-    autor = dokument.createElement("autor");
-    wurzel.appendChild(autor);
+      autor = dokument.createElement("autor");
+      wurzel.appendChild(autor);
 
-    anzahlFragen = dokument.createElement("anzahlFragen");
-    wurzel.appendChild(anzahlFragen);
+      anzahlFragen = dokument.createElement("anzahlFragen");
+      wurzel.appendChild(anzahlFragen);
 
-    fragen = dokument.createElement("fragen");
-    wurzel.appendChild(fragen);
+      fragen = dokument.createElement("fragen");
+      wurzel.appendChild(fragen);
+    }
   }
 
   public void setzeFach(String fach) {
@@ -236,7 +227,7 @@ public class ThemenGebiet extends XMLDatei {
     } catch (IOException e) {
       e.printStackTrace();
     }
-    ThemenGebiet gebiet = new ThemenGebiet(datei);
+    ThemenGebiet gebiet = new ThemenGebiet(dateiPfad);
     gebiet.konvertiereCSV("/fragen/fragen.csv", jahrgangsstufe);
   }
 

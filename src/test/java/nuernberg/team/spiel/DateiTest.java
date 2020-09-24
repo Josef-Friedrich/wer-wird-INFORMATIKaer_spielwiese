@@ -33,4 +33,18 @@ public class DateiTest {
     assertEquals(false, datei.existiert());
   }
 
+  @Test
+  public void methodeIstLeerFalsch() {
+    Datei datei = new Datei("/fragen/fragen.csv");
+    assertEquals(false, datei.istLeer());
+  }
+
+  @Test
+  public void methodeIstLeerWahr() throws IOException {
+    File tmpDatei = File.createTempFile("wwim", ".csv");
+    Datei datei = new Datei(tmpDatei.getAbsolutePath());
+    assertEquals(true, datei.istLeer());
+    assertEquals(true, datei.existiert());
+  }
+
 }

@@ -77,7 +77,7 @@ public class ThemenKatalog extends XMLDatei {
    */
   public ThemenGebiet gibGebietDurchNummer(int nummer) {
     Node knoten = knotenListe.item(nummer);
-    ThemenGebiet gebiet = new ThemenGebiet(gibPfadVonKnoten(knoten));
+    ThemenGebiet gebiet = new ThemenGebiet("/fragen/" + gibPfadVonKnoten(knoten));
     return gebiet;
   }
 

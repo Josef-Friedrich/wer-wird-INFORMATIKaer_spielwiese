@@ -13,25 +13,25 @@ public class ThemenGebietTest {
 
   @Test
   public void konstruktor() throws Exception {
-    ThemenGebiet gebiet = new ThemenGebiet("musik/musik01.xml");
+    ThemenGebiet gebiet = new ThemenGebiet("/fragen/musik/musik01.xml");
     assertEquals("Musik", gebiet.gibFach());
   }
 
   @Test
   public void methodeGibFach() throws Exception {
-    ThemenGebiet gebiet = new ThemenGebiet("informatik/6_jahrgangsstufe.xml");
+    ThemenGebiet gebiet = new ThemenGebiet("/fragen/informatik/6_jahrgangsstufe.xml");
     assertEquals("Informatik", gebiet.gibFach());
   }
 
   @Test
   public void methodeGibAutor() throws Exception {
-    ThemenGebiet gebiet = new ThemenGebiet("informatik/6_jahrgangsstufe.xml");
+    ThemenGebiet gebiet = new ThemenGebiet("/fragen/informatik/6_jahrgangsstufe.xml");
     assertEquals("Team Nürnberg", gebiet.gibAutor());
   }
 
   @Test
   public void methodeGibFragenAnzahl() throws Exception {
-    ThemenGebiet gebiet = new ThemenGebiet("informatik/6_jahrgangsstufe.xml");
+    ThemenGebiet gebiet = new ThemenGebiet("/fragen/informatik/6_jahrgangsstufe.xml");
     assertEquals(30, gebiet.gibAnzahlFragen());
   }
 
@@ -39,13 +39,13 @@ public class ThemenGebietTest {
   public void erzeugeThemenGebiet() throws Exception {
     File tmpDatei = File.createTempFile("wwim", ".xml");
 
-    ThemenGebiet schreiben = new ThemenGebiet(tmpDatei);
+    ThemenGebiet schreiben = new ThemenGebiet(tmpDatei.getAbsolutePath());
     schreiben.setzeFach("Informatik");
     schreiben.setzeThema("6. Jahrgangsstufe");
     schreiben.setzeAutor("Josef Friedrich");
     schreiben.schreibeInDatei();
 
-    ThemenGebiet lesen = new ThemenGebiet(tmpDatei);
+    ThemenGebiet lesen = new ThemenGebiet(tmpDatei.getAbsolutePath());
     assertEquals("Informatik", lesen.gibFach());
     assertEquals("6. Jahrgangsstufe", lesen.gibThema());
     assertEquals("Josef Friedrich", lesen.gibAutor());
@@ -55,10 +55,10 @@ public class ThemenGebietTest {
   public void methodeKonvertiereCSV() throws Exception {
     File tmpDatei = File.createTempFile("wwim", ".xml");
 
-    ThemenGebiet schreiben = new ThemenGebiet(tmpDatei);
+    ThemenGebiet schreiben = new ThemenGebiet(tmpDatei.getAbsolutePath());
     schreiben.konvertiereCSV("/fragen/fragen.csv", 6);
 
-    ThemenGebiet lesen = new ThemenGebiet(tmpDatei);
+    ThemenGebiet lesen = new ThemenGebiet(tmpDatei.getAbsolutePath());
     assertEquals("Informatik", lesen.gibFach());
     assertEquals("6. Jahrgangsstufe", lesen.gibThema());
     assertEquals("Team Nürnberg", lesen.gibAutor());
