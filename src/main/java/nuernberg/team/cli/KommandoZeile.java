@@ -142,7 +142,7 @@ public class KommandoZeile {
     if (spiel.istVerloren()) {
       System.out.println("Du hast leider verloren!");
     } else {
-      System.out.println(String.format("Gratulation! Du hast %s gewonnen!", Farbe.blau(spiel.gibGewinnSumme() + "€ ")));
+      System.out.println(String.format("Gratulation! Du hast %s gewonnen!", Farbe.blau(spiel.gibGewinnSumme() + " €")));
     }
   }
 
@@ -194,7 +194,9 @@ public class KommandoZeile {
       int antwort = frageNachAntwort(scanner);
       boolean richtig = spiel.beantworteFrage(antwort);
       zeigeFragenErgebnis(spiel, frage);
-      if (richtig) {
+      if (spiel.gibAnzahlUnbeantworterFragen() == 0) {
+        nochImSpiel = false;
+      } else if (richtig) {
         nochImSpiel = frageNachWeiterspielen();
       } else {
         nochImSpiel = richtig;

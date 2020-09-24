@@ -192,6 +192,5 @@ public class Spiel {
   public void ladeThemenGebiet(String dateiPfad) {
     ThemenGebiet gebiet = new ThemenGebiet(dateiPfad);
     gebiet.leseFragenInsSpiel(this);
-
   }
 }
