@@ -183,4 +183,15 @@ public class Spiel {
   public boolean istVerloren() {
     return verloren;
   }
+
+  /**
+   * Lade ein Themengebiet ins Spiel.
+   *
+   * @param dateiPfad
+   */
+  public void ladeThemenGebiet(String dateiPfad) {
+    ThemenGebiet gebiet = new ThemenGebiet(dateiPfad);
+    gebiet.leseFragenInsSpiel(this);
+
+  }
 }

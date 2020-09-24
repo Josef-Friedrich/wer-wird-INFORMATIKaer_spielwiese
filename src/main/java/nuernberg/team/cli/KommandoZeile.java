@@ -37,6 +37,7 @@ public class KommandoZeile {
    * @param frage Eine Instanz der aktuellen Frage.
    */
   private static void stelleFrageAlsTextausgabe(Spiel spiel, Frage frage) {
+    System.out.println(spiel.gibAnzahlUnbeantworterFragen());
     frage.mischeAntworten();
     String[] antworten = frage.gibAntworten();
     System.out

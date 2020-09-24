@@ -31,13 +31,13 @@ public class SpielTest {
   }
 
   @Test
-  public void testeMethodeIstAntwortRichtig() {
+  public void methodeIstAntwortRichtig() {
     Frage frage = spiel.gibNächsteFrage();
     assertTrue(spiel.istAntwortRichtig(frage.gibRichtigeAntwort()));
   }
 
   @Test
-  public void testeMethodeGibFragenNummer() {
+  public void methodeGibFragenNummer() {
     assertEquals(spiel.gibFragenNummer(), 0);
     spiel.gibNächsteFrage();
     assertEquals(spiel.gibFragenNummer(), 1);
@@ -46,7 +46,7 @@ public class SpielTest {
   }
 
   @Test
-  public void testeMethodeGibAnzahlUnbeantworterFragen() {
+  public void methodeGibAnzahlUnbeantworterFragen() {
     assertEquals(spiel.gibAnzahlUnbeantworterFragen(), 10);
     spiel.gibNächsteFrage();
     assertEquals(spiel.gibAnzahlUnbeantworterFragen(), 9);
@@ -55,7 +55,7 @@ public class SpielTest {
   }
 
   @Test
-  public void testeMethodeBeantworteFrage() {
+  public void methodeBeantworteFrage() {
     assertEquals(spiel.gibAnzahlUnbeantworterFragen(), 10);
     assertEquals(spiel.gibAnzahlBeantworterFragen(), 0);
 
@@ -71,7 +71,7 @@ public class SpielTest {
   }
 
   @Test
-  public void testeMethodeGibGewinnSumme() throws NoSuchFieldException, IllegalAccessException {
+  public void methodeGibGewinnSumme() throws NoSuchFieldException, IllegalAccessException {
     assertEquals(spiel.gibGewinnSumme(), 0, 0);
     Field frageNummer = Spiel.class.getDeclaredField("frageNummer");
     frageNummer.setAccessible(true);
@@ -87,5 +87,12 @@ public class SpielTest {
 
     frageNummer.set(spiel, 16);
     assertEquals(spiel.gibGewinnSumme(), 2000000, 0);
+  }
+
+  @Test
+  public void methodeLadeThemenGebiet() {
+    Spiel spiel = new Spiel();
+    spiel.ladeThemenGebiet("test/drei_fragen.xml");
+    assertEquals(3, spiel.gibAnzahlUnbeantworterFragen());
   }
 }

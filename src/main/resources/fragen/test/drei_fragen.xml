@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<themenGebiet>
+    <fach>Test</fach>
+    <thema>Nur eine Frage</thema>
+    <autor>Team Nürnberg</autor>
+    <anzahlFragen>1</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>Frage 1</fragenText>
+            <richtigeAntwort>richige Antwort</richtigeAntwort>
+            <falscheAntwort1>falsche Antwort 1</falscheAntwort1>
+            <falscheAntwort2>falsche Antwort 2</falscheAntwort2>
+            <falscheAntwort3>falsche Antwort 3</falscheAntwort3>
+            <schwierigkeit>1</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>Frage 2</fragenText>
+            <richtigeAntwort>richige Antwort</richtigeAntwort>
+            <falscheAntwort1>falsche Antwort 1</falscheAntwort1>
+            <falscheAntwort2>falsche Antwort 2</falscheAntwort2>
+            <falscheAntwort3>falsche Antwort 3</falscheAntwort3>
+            <schwierigkeit>1</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>Frage 3</fragenText>
+            <richtigeAntwort>richige Antwort</richtigeAntwort>
+            <falscheAntwort1>falsche Antwort 1</falscheAntwort1>
+            <falscheAntwort2>falsche Antwort 2</falscheAntwort2>
+            <falscheAntwort3>falsche Antwort 3</falscheAntwort3>
+            <schwierigkeit>1</schwierigkeit>
+        </frage>
+    </fragen>
+</themenGebiet>

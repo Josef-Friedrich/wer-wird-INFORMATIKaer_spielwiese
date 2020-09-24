@@ -207,7 +207,7 @@ public class ThemenGebiet extends XMLDatei {
    */
   public void leseFragenInsSpiel(Spiel spiel) {
     NodeList knotenListe = dokument.getElementsByTagName("frage");
-    for (int i = 1; i < knotenListe.getLength(); i++) {
+    for (int i = 0; i < knotenListe.getLength(); i++) {
       Node frage = knotenListe.item(i);
 
       String fragenText = gibTextVonKind(frage, "fragenText");
