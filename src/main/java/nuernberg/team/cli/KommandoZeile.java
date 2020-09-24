@@ -13,13 +13,19 @@ import java.io.IOException;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+/**
+ * Enthält die main-Methode für das Kommandozeilen-Interface (cli = command line
+ * interface) sowie einige statische Methoden um den Code etwas zu
+ * strukturieren.
+ */
 public class KommandoZeile {
 
   /**
+   * Zeigt eine Antwort in der Kommandozeile.
    *
-   * @param frage
-   * @param antworten
-   * @param antwortNr
+   * @param frage Eine Instanz der aktuellen Frage.
+   * @param antworten Ein Feld mit den zufällig gemischten Antworttexten.
+   * @param antwortNr Die Indexnummer der Antwort, die gezeigt werden soll (0, 1, 2 oder 3).
    */
   private static void zeigeAntwort(Frage frage, String[] antworten, int antwortNr) {
     System.out.println(String.format("  %s: %s", frage.gibBuchstabe(antwortNr), antworten[antwortNr]));
@@ -27,13 +33,14 @@ public class KommandoZeile {
 
   /**
    *
-   * @param spiel
-   * @param frage
+   * @param spiel Eine Instanz des aktuellen Spiels.
+   * @param frage Eine Instanz der aktuellen Frage.
    */
   private static void stelleFrageAlsTextausgabe(Spiel spiel, Frage frage) {
     frage.mischeAntworten();
     String[] antworten = frage.gibAntworten();
-    System.out.println(Farbe.gelb(String.format("\n\nFrage Nr. %s: %s\n", spiel.gibFragenNummer(), frage.gibFragenText())));
+    System.out
+        .println(Farbe.gelb(String.format("\n\nFrage Nr. %s: %s\n", spiel.gibFragenNummer(), frage.gibFragenText())));
     for (int i = 0; i < antworten.length; i++) {
       zeigeAntwort(frage, antworten, i);
     }
@@ -106,7 +113,7 @@ public class KommandoZeile {
     String buchstabeAntwort = frage.gibBuchstabe(frage.gibGegebeneAntwort());
     if (frage.istRichtigBeantwortet()) {
       System.out.println(Farbe.grün(String.format("Die Antwort %s war richtig!", buchstabeAntwort)));
-      System.out.println(String.format("Deine momentane Gewinnsumme: %s €", spiel.gibGewinnSumme()));
+      System.out.println(String.format("Deine momentane Gewinnsumme: %s", Farbe.blau(spiel.gibGewinnSumme() + " €")));
     } else {
       System.out.print(Farbe.rot(String.format("Die Antwort %s war falsch! ", buchstabeAntwort)));
       System.out.println(String.format("Richtig wäre Antwort %s gewesen: %s", Farbe.grün(buchstabeRichtig),
@@ -115,7 +122,7 @@ public class KommandoZeile {
   }
 
   /**
-   * Zeige ein Logo in ASCII art.
+   * Zeige ein Logo in ASCII Kunst.
    */
   private static void zeigeASCIILogo() {
     String[] zeilen = { "                         ", "        R    W   I       ", "    E               R    ",
@@ -134,7 +141,7 @@ public class KommandoZeile {
     if (spiel.istVerloren()) {
       System.out.println("Du hast leider verloren!");
     } else {
-      System.out.println(String.format("Gratulation! Du hast %s € gewonnen!", spiel.gibGewinnSumme()));
+      System.out.println(String.format("Gratulation! Du hast %s gewonnen!", Farbe.blau(spiel.gibGewinnSumme() + "€ ")));
     }
   }
 
