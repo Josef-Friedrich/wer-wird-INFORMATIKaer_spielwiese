@@ -2,6 +2,8 @@
 <themenKatalog>
     <themenGebiet pfad="informatik/6_jahrgangsstufe.xml" titel="Informatik 6. Jahrgangsstufe"/>
     <themenGebiet pfad="informatik/7_jahrgangsstufe.xml" titel="Informatik 7. Jahrgangsstufe"/>
+    <themenGebiet pfad="test/zehn_fragen.xml" titel="Test: 10 Fragen"/>
+    <themenGebiet pfad="test/eine_frage.xml" titel="Test: nur eine Frage"/>
     <themenGebiet pfad="allgemein/allg02.xml" titel="Allgemeinwissen I"/>
     <themenGebiet pfad="allgemein/bigquiz.xml" titel="Allgemeinwissen II"/>
     <themenGebiet pfad="allgemein/gs_01.xml" titel="Allgemeinwissen (leicht) I"/>

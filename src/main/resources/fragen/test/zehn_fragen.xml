@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<themenGebiet>
+    <fach>Test</fach>
+    <thema>10 Fragen</thema>
+    <autor>Team Nürnberg</autor>
+    <anzahlFragen>10</anzahlFragen>
+    <fragen>
+        <frage>
+            <fragenText>Frage 1</fragenText>
+            <richtigeAntwort>richige Antwort</richtigeAntwort>
+            <falscheAntwort1>falsche Antwort 1</falscheAntwort1>
+            <falscheAntwort2>falsche Antwort 2</falscheAntwort2>
+            <falscheAntwort3>falsche Antwort 3</falscheAntwort3>
+            <schwierigkeit>1</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>Frage 2</fragenText>
+            <richtigeAntwort>richige Antwort</richtigeAntwort>
+            <falscheAntwort1>falsche Antwort 1</falscheAntwort1>
+            <falscheAntwort2>falsche Antwort 2</falscheAntwort2>
+            <falscheAntwort3>falsche Antwort 3</falscheAntwort3>
+            <schwierigkeit>1</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>Frage 3</fragenText>
+            <richtigeAntwort>richige Antwort</richtigeAntwort>
+            <falscheAntwort1>falsche Antwort 1</falscheAntwort1>
+            <falscheAntwort2>falsche Antwort 2</falscheAntwort2>
+            <falscheAntwort3>falsche Antwort 3</falscheAntwort3>
+            <schwierigkeit>1</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>Frage 4</fragenText>
+            <richtigeAntwort>richige Antwort</richtigeAntwort>
+            <falscheAntwort1>falsche Antwort 1</falscheAntwort1>
+            <falscheAntwort2>falsche Antwort 2</falscheAntwort2>
+            <falscheAntwort3>falsche Antwort 3</falscheAntwort3>
+            <schwierigkeit>1</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>Frage 5</fragenText>
+            <richtigeAntwort>richige Antwort</richtigeAntwort>
+            <falscheAntwort1>falsche Antwort 1</falscheAntwort1>
+            <falscheAntwort2>falsche Antwort 2</falscheAntwort2>
+            <falscheAntwort3>falsche Antwort 3</falscheAntwort3>
+            <schwierigkeit>1</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>Frage 6</fragenText>
+            <richtigeAntwort>richige Antwort</richtigeAntwort>
+            <falscheAntwort1>falsche Antwort 1</falscheAntwort1>
+            <falscheAntwort2>falsche Antwort 2</falscheAntwort2>
+            <falscheAntwort3>falsche Antwort 3</falscheAntwort3>
+            <schwierigkeit>1</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>Frage 7</fragenText>
+            <richtigeAntwort>richige Antwort</richtigeAntwort>
+            <falscheAntwort1>falsche Antwort 1</falscheAntwort1>
+            <falscheAntwort2>falsche Antwort 2</falscheAntwort2>
+            <falscheAntwort3>falsche Antwort 3</falscheAntwort3>
+            <schwierigkeit>1</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>Frage 8</fragenText>
+            <richtigeAntwort>richige Antwort</richtigeAntwort>
+            <falscheAntwort1>falsche Antwort 1</falscheAntwort1>
+            <falscheAntwort2>falsche Antwort 2</falscheAntwort2>
+            <falscheAntwort3>falsche Antwort 3</falscheAntwort3>
+            <schwierigkeit>1</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>Frage 9</fragenText>
+            <richtigeAntwort>richige Antwort</richtigeAntwort>
+            <falscheAntwort1>falsche Antwort 1</falscheAntwort1>
+            <falscheAntwort2>falsche Antwort 2</falscheAntwort2>
+            <falscheAntwort3>falsche Antwort 3</falscheAntwort3>
+            <schwierigkeit>1</schwierigkeit>
+        </frage>
+        <frage>
+            <fragenText>Frage 10</fragenText>
+            <richtigeAntwort>richige Antwort</richtigeAntwort>
+            <falscheAntwort1>falsche Antwort 1</falscheAntwort1>
+            <falscheAntwort2>falsche Antwort 2</falscheAntwort2>
+            <falscheAntwort3>falsche Antwort 3</falscheAntwort3>
+            <schwierigkeit>1</schwierigkeit>
+        </frage>
+    </fragen>
+</themenGebiet>
