@@ -1,6 +1,7 @@
 package nuernberg.team.spiel;
 
 import java.nio.file.Files;
+import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.io.IOException;
 import java.net.URI;
@@ -10,14 +11,13 @@ import java.net.URL;
  * Die Klasse Datei versucht herauszufinden, ob sich der angebene Dateipfad im
  * resources-Ordner befindet ({@code "./src/main/resources"}) oder außerhalb
  * dieses Ordners liegt.
- *
  */
 public class Datei {
 
   /**
    * Der angebenene Dateipfad.
    */
-  protected String pfad;
+  protected Path pfad;
 
   /**
    * Wahr, wenn die Datei existiert und innerhalb des resources-Ordnern
@@ -32,15 +32,16 @@ public class Datei {
   protected Boolean existiert;
 
   /**
-   *
-   * @param pfad Eine relativer Pfad (relative zum Ordner src/main/resources)
+   * @param pfad Eine interner Pfad (relativ zum Ordner
+   *             {@code "src/main/resources"}) oder ein externer Pfad. Interne
+   *             Pfade müssen immer mit einem Schrägstrich beginnen {@code "/"}).
+   *             Externe Pfade können sowohl relativ als auch absolute sein.
    */
   public Datei(String pfad) {
-    this.pfad = pfad;
     existiert = false;
 
     try {
-      versucheExternZuLesen();
+      versucheExternZuLesen(pfad);
       intern = false;
       existiert = true;
       return;
@@ -48,7 +49,7 @@ public class Datei {
     }
 
     try {
-      versucheInternZuLesen();
+      versucheInternZuLesen(pfad);
       intern = true;
       existiert = true;
     } catch (IOException e) {
@@ -60,12 +61,13 @@ public class Datei {
    *
    * @throws IOException
    */
-  private void versucheInternZuLesen() throws IOException {
+  private void versucheInternZuLesen(String pfad) throws IOException {
     URL url = getClass().getResource(pfad);
     if (url == null) {
       throw new IOException();
     }
-    Files.newBufferedReader(Paths.get(URI.create(url.toString())));
+    this.pfad = Paths.get(URI.create(url.toString()));
+    Files.newBufferedReader(this.pfad);
   }
 
   /**
@@ -73,8 +75,9 @@ public class Datei {
    *
    * @throws IOException
    */
-  private void versucheExternZuLesen() throws IOException {
-    Files.newBufferedReader(Paths.get(pfad));
+  private void versucheExternZuLesen(String pfad) throws IOException {
+    this.pfad = Paths.get(pfad);
+    Files.newBufferedReader(this.pfad);
   }
 
   /**

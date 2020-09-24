@@ -4,21 +4,10 @@ import static org.junit.Assert.assertEquals;
 
 import java.io.File;
 import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.StandardCopyOption;
 
 import org.junit.Test;
 
 public class DateiTest {
-
-  private void kopierteInterneDatei(String internerDateiPfad, File externeDatei) {
-    try {
-      Files.copy(getClass().getResourceAsStream(internerDateiPfad), externeDatei.toPath(),
-          StandardCopyOption.REPLACE_EXISTING);
-    } catch (IOException e) {
-      e.printStackTrace();
-    }
-  }
 
   @Test
   public void interneDatei() {
@@ -31,7 +20,7 @@ public class DateiTest {
   @Test
   public void externeDatei() throws IOException {
     File tmpDatei = File.createTempFile("wwim", ".csv");
-    kopierteInterneDatei("/fragen/fragen.csv", tmpDatei);
+    Helfer.kopierteInterneDatei(getClass(), "/fragen/fragen.csv", tmpDatei);
     Datei datei = new Datei(tmpDatei.getAbsolutePath());
     assertEquals(false, datei.istIntern());
     assertEquals(true, datei.existiert());
