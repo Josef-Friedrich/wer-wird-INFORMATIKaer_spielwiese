@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - Farbe",
+      "request": "launch",
+      "mainClass": "nuernberg.team.cli.Farbe",
+      "projectName": "wwim"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - TastenDemo",
       "request": "launch",
       "mainClass": "nuernberg.team.swing.TastenDemo",

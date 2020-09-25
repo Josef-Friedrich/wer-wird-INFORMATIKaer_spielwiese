@@ -83,8 +83,6 @@ public class KommandoZeile {
    * können sowohl Klein- als auch Großbuchstaben eingegeben werden. Wird nichts
    * eingegeben, dann bedeutet das ja.
    *
-   * @param scanner
-   *
    * @return
    */
   private static boolean frageNachWeiterspielen() throws IOException {
