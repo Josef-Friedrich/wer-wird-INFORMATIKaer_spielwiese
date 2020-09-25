@@ -67,13 +67,16 @@ public class ReaktiverText implements GGMouseListener {
   }
 
   public static void main(String[] args) {
-    ReaktiverText text1 = new ReaktiverText("Some example text.", new Color(2, 2, 2), new Color(2, 255, 2),
-        new Color(255, 255, 255, 0), new Font("Sans", 0, 20));
+    ReaktiverText text1 = new ReaktiverText("Schwebetext 1", new Color(2, 2, 2), new Color(2, 255, 2),
+        new Color(255, 255, 255, 0), new Font("Sans", 0, 40));
+
+    ReaktiverText text2 = new ReaktiverText("Schwebetext 2", new Color(2, 2, 2), new Color(2, 255, 2),
+        new Color(255, 255, 255, 0), new Font("Sans", 0, 40));
 
     GameGrid gg = new GameGrid(10, 10, 60, Color.red);
     gg.show();
 
-    text1.fügeZumSpielfeldHinzu(gg, new Location(2, 4));
-
+    text1.fügeZumSpielfeldHinzu(gg, new Location(2, 2));
+    text2.fügeZumSpielfeldHinzu(gg, new Location(2, 6));
   }
 }

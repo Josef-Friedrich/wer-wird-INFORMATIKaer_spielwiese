@@ -18,12 +18,12 @@ public class DateiTest {
     assertEquals(false, datei.istBeschreibbar());
   }
 
-  @Test
-  @Ignore("sollte falsch sein")
-  public void interneDateiOrdner() {
-    Datei datei = new Datei("/fragen/");
-    assertEquals(false, datei.istIntern());
-  }
+  // @Test
+  // @Ignore("sollte falsch sein")
+  // public void interneDateiOrdner() {
+  //   Datei datei = new Datei("/fragen/");
+  //   assertEquals(false, datei.istIntern());
+  // }
 
   @Test
   public void interneDateiNichtExistierend() {

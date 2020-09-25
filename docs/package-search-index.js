@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"nuernberg.team.cli"},{"l":"nuernberg.team.gamegrid"},{"l":"nuernberg.team.ini2xml"},{"l":"nuernberg.team.spiel"}]
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"nuernberg.team.cli"},{"l":"nuernberg.team.gamegrid"},{"l":"nuernberg.team.ini2xml"},{"l":"nuernberg.team.spiel"},{"l":"nuernberg.team.swing"}]

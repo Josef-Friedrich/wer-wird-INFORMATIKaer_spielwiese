@@ -67,5 +67,16 @@ public class MehrzeiligerText {
     for (TextActor eineZeile : zeilen) {
       eineZeile.removeSelf();
     }
+
+  }
+
+  public static void main(String[] args) {
+    MehrzeiligerText text = new MehrzeiligerText(
+        "Ein ganz langer Text, der nicht in eine Zeile passt ..! Ein ganz langer Text, der nicht in eine Zeile passt ..! Ein ganz langer Text, der nicht in eine Zeile passt ..! Ein ganz langer Text, der nicht in eine Zeile passt ..!");
+
+    GameGrid gg = new GameGrid(10, 10, 60, Color.red);
+    gg.show();
+
+    text.setzeImSpielfeld(gg, new Location(1, 1));
   }
 }

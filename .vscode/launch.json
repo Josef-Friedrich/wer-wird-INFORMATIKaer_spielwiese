@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - TastenDemo",
+      "request": "launch",
+      "mainClass": "nuernberg.team.swing.TastenDemo",
+      "projectName": "wwim"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - MehrzeiligerText",
+      "request": "launch",
+      "mainClass": "nuernberg.team.gamegrid.MehrzeiligerText",
+      "projectName": "wwim"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - ReaktivesTextFeld",
       "request": "launch",
       "mainClass": "nuernberg.team.gamegrid.ReaktivesTextFeld",
